@@ -5,24 +5,40 @@
     {
       "id_prefix": "ddf",
       "search_term": "die drei fragezeichen",
-      "extra_search_terms": ["die drei ??? folge", "drei fragezeichen kids", "die drei fragezeichen und"],
+      "extra_search_terms": [
+        "die drei ??? folge",
+        "drei fragezeichen kids",
+        "die drei fragezeichen und"
+      ],
       "artist_filter": "Die drei ???",
       "title": "Die drei ???",
       "author": "Alfred Hitchcock präsentiert",
       "narrator": "Oliver Rohrbeck, Jens Wawrczeck, Andreas Fröhlich",
-      "genres": ["Hörspiel", "Krimi", "Abenteuer", "Kinder & Jugend"],
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Abenteuer",
+        "Kinder & Jugend"
+      ],
       "avg_track_duration_seconds": 80,
       "enabled": true
     },
     {
       "id_prefix": "tkkg",
       "search_term": "tkkg hörspiel",
-      "extra_search_terms": ["tkkg folge", "tkkg und"],
+      "extra_search_terms": [
+        "tkkg folge",
+        "tkkg und"
+      ],
       "artist_filter": "TKKG",
       "title": "TKKG",
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
-      "genres": ["Hörspiel", "Krimi", "Kinder & Jugend"],
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Kinder & Jugend"
+      ],
       "avg_track_duration_seconds": 95,
       "enabled": true
     },
@@ -33,7 +49,11 @@
       "title": "Bibi Blocksberg",
       "author": "Elfie Donnelly",
       "narrator": "Susanne Pätzold",
-      "genres": ["Hörspiel", "Kinder & Jugend", "Fantasy"],
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Fantasy"
+      ],
       "avg_track_duration_seconds": 90,
       "enabled": true
     },
@@ -44,7 +64,11 @@
       "title": "Sherlock Holmes",
       "author": "Arthur Conan Doyle",
       "narrator": "Friedrich W. Bauschulte",
-      "genres": ["Hörspiel", "Krimi", "Thriller"],
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
       "avg_track_duration_seconds": 92,
       "enabled": true
     },
@@ -55,7 +79,11 @@
       "title": "Fünf Freunde",
       "author": "Enid Blyton",
       "narrator": "Verschiedene Sprecher",
-      "genres": ["Hörspiel", "Abenteuer", "Kinder & Jugend"],
+      "genres": [
+        "Hörspiel",
+        "Abenteuer",
+        "Kinder & Jugend"
+      ],
       "avg_track_duration_seconds": 115,
       "enabled": true
     },
@@ -66,8 +94,24 @@
       "title": "Krimis von der Küste",
       "author": "Krimis von der Küste",
       "narrator": "Verschiedene Sprecher",
-      "genres": ["Krimi", "Küstenkrimi", "Thriller"],
+      "genres": [
+        "Krimi",
+        "Küstenkrimi",
+        "Thriller"
+      ],
       "avg_track_duration_seconds": 160,
+      "enabled": true
+    },
+    {
+      "title": "Mark Brandis",
+      "search_term": "mark brandis",
+      "extra_search_terms": [],
+      "artist_filter": "Mark Brandis",
+      "genres": [
+        "Hörspiel"
+      ],
+      "author": "Mark Brandis",
+      "narrator": "",
       "enabled": true
     }
   ]

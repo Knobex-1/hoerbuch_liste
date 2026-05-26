@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-25T20:15:40.448485+00:00",
+  "updatedAt": "2026-05-26T18:52:01.878230+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -30768,7 +30768,7 @@
     {
       "id": "mark-diek-3107",
       "title": "Die komplette Hörspielserie",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/a7/0f/45a70fad-f667-6f98-c6cc-4607fe17bf46/4066338330260.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -31120,7 +31120,7 @@
     {
       "id": "mark-11da-3695",
       "title": "11: Das Jupiter-Risiko",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/92/2e/6b922e06-46da-b75a-2394-130575388978/4057664073006.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -31136,7 +31136,7 @@
     {
       "id": "mark-04hi-2723",
       "title": "04: Hinter den Linien",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/76/d1/08/76d10814-a65f-4fcf-7a65-3689c4451729/4057664073105.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -31792,7 +31792,7 @@
     {
       "id": "mark-hrsp-1841",
       "title": "Hörspielbox Vol. 1",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/6e/81/396e81d0-f3ce-dd45-1a77-f864ff1379a8/4057664053725.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -31808,7 +31808,7 @@
     {
       "id": "mark-hrsp-8757",
       "title": "Hörspielbox, Vol. 2 - Über Grenzen",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/af/a8/ba/afa8ba56-8c64-033b-0383-6c4cf1432f13/4057664893147.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -31930,7 +31930,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Kapitel Titel 1 Der Tiger landet 2 Prolog - Die Vollstrecker 3 Bestandsaufnahme... mehr ... Zum Abspielen der Hörbücher benötigst du den TECHNIFANT. Jetzt kaufen · Hier findest du mehr Hütchen für deine gekauften Audioinhalte."
     },
     {
       "id": "mark-03un-3349",
@@ -31945,7 +31946,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Mark Brandis: Weltraumpartisanen ist eine Reihe von deutschsprachigen Science-Fiction-Jugendbüchern, verfasst von Nikolai von Michalewsky unter dem Pseudonym Mark Brandis. Die Serie, die zwischen 1970 und 1987 erschien, umfasst 31 Bände."
     },
     {
       "id": "mark-05te-6814",
@@ -31960,7 +31962,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 05: Testakte Kolibri 1 2124: ... im Weltraum reisen kann. Mark Brandis wird beauftragt, als Projektleiter eine mysteriöse Pannenserie aufzuklären, die einen Testpiloten nach dem anderen umbringt...."
     },
     {
       "id": "mark-0910-5994",
@@ -31975,7 +31978,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "\"09 + 10: Raumsonde Epsilon\" Hörbuch von Nikolai Michalewsky, gelesen von Anke Reitzenstein. Sofort-Download Auch im Abo. 2125: Mark Brandis' Schiff, die Hermes, ist mit der nun unbemannten Delta IX im Schlepptau unterwegs zurück zur ..."
     },
     {
       "id": "mark-02ve-6717",
@@ -31990,7 +31994,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Mark Brandis| als Hörspiel:_ 01 [ „ Bordbuch Delta VII “ 4995 02 [ „ Verrat auf der Venus “ 5013 03 [ „ Unternehmen ..."
     },
     {
       "id": "mark-26ik-8285",
@@ -32005,7 +32010,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Jetzt 26: Ikarus, Ikarus... von Mark Brandis hören Weitere Hörbücher und Hörspiele auf RTL+ entdecken!"
     },
     {
       "id": "mark-27me-3553",
@@ -32020,7 +32026,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "27: Metropolis-Konvoi. Aus der Reihe Mark Brandis Band 27. Gesprochen von.Folge 27: Metropolis-Konvoi 2135: Der Staub des zerstörten Asteroiden Ikarus überzieht die Erde mit einem Grauschleier, und die Ernten sind klein oder bleiben ganz aus."
     },
     {
       "id": "mark-31ge-5260",
@@ -32035,7 +32042,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Kurz um, es gibt keine bessere Hörspielserie im Scifi als Mark Brandis. Die Umsetzung der gesamten Serie ist grandios und setzt einen neuen Maßstab in Sachen Kopfkino. Auch Geheimsache Wetterhahn ist hier keine Ausnahme, das Hörspiel fessel von Anfang bis Ende. Eine Rezension zum Hörspiel 'Mark Brandis - Geheimsache Wetterhahn' mit Michael Lott als Mark Brandis u. a. 31: Geheimsache Wetterhahn Aus der Reihe Mark Brandis Gesprochen von Tommi Schneefuss, Daniel Claus, Wolf Frass, Martin May, Thomas-Nero Wolff Thalia Hörbuch-Abo ab 0,00 €* Einzelkauf Download Thalia Hör-Flat mtl. 17,99 €* Hören Sie 31: Geheimsache Wetterhahn von Mark Brandis,Nikolai von Michalewsky,Jochim-C. Redeker mit einer k"
     },
     {
       "id": "mark-22la-3313",
@@ -32050,7 +32058,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 22: Lautlose Bombe 2 2131: Mark Brandis folgt den Spuren, die sein Halbbruder Nat quer über den Planeten hinterlassen hat, zuerst auf die Kerguelen und dann nach Nordafrika. Der Geheimdienst der Union ist Brandis mal einen Schritt voraus, mal versucht er, ihn einzuholen."
     },
     {
       "id": "mark-11di-3005",
@@ -32065,7 +32074,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 11: Die Vollstrecker 1 2127: Der rätselhafte Rücktritt des Ministers Tschou Fang-Wu hatte die Beziehungen zwischen der Union und den Republiken nach dem Bürgerkrieg erkalten lassen."
     },
     {
       "id": "mark-13pi-6553",
@@ -32080,7 +32090,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 13: Pilgrim 2000 1 2127: Commander Brandis und seine Crew sind auf der erdabgewandten Seite der Sonne. Nach Reparaturen an einer Raumstation ist die HERMES bereits auf dem Rückweg, als die Kommunikation ausfällt. Erst in 17 Tagen wird sie wieder Kontakt zur Erde erhalten."
     },
     {
       "id": "mark-28di-3190",
@@ -32095,12 +32106,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 28: Die Zeitspule 1 2136: Die Hungersnot ist noch nicht gebannt. Mit strengen Rationierungen versucht die Zentralregierung der Union die Situation unter Kontrolle zu behalten."
     },
     {
       "id": "mark-03ta-0081",
       "title": "03: Tatort Astronautenschule",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/29/99/a7/2999a7de-fbfb-fb50-f68f-254c920625d2/4057664073112.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32110,12 +32122,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Von Mark Brandis‘ Jugend ist nichts „bekannt“ — jenseits der Kurzgeschichte „Aufbruch zu den Sternen“ (veröffentlicht 1983 als Teil des gleichnamigen Kurzgeschichtenbandes). Zwischen Mai 2014 und Juni 2017 erzählte INTERPLANAR Produktion in Zusammenarbeit mit der Witwe des..."
     },
     {
       "id": "mark-05de-2258",
       "title": "05: Der Aladin-Schachzug",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/65/73/13/65731398-6fb0-5e4a-da74-319142df8548/4057664073075.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32125,12 +32138,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "RAUMKADETT 5 jetzt bestellen. FOLGE 05: DER ALADIN-SCHACHZUG Erste Semesterferien! Für das zweite Jahr an der Astronautenschule zeichnen sich Umbrüche ab."
     },
     {
       "id": "mark-07la-2957",
       "title": "07: Laurin",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cb/d6/21/cbd621ef-a31a-6111-3ce9-2a3106a06840/4057664073082.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32140,7 +32154,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "In der spannenden Episode „ Laurin “ von RAUMKADETT – MARK BRANDIS Staffel 2 begeben sich Mark und seine Freunde auf eine gefährliche ..."
     },
     {
       "id": "dert-s02e-0650",
@@ -32155,7 +32170,8 @@
       "genres": [
         "Belletristik"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Alles klar. Produktbild: S02E12: Entscheidung und Schicksal. Hörprobe.Aus der Reihe Der Thron der Nibelungen Band 12. Gesprochen von."
     },
     {
       "id": "dert-s02e-9730",
@@ -32170,7 +32186,8 @@
       "genres": [
         "Belletristik"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "S02E09: Der Feldzug. Von.Und aus Rom nähert sich eine Gefahr, mit der bisher niemand rechnet. Das große Finale des THE AOS Original DER THRON DER NIBELUNGEN verspricht ein außerordentliches Hörvergnügen mit unerwartetem Höhepunkt. Jochim-C."
     },
     {
       "id": "mark-19si-3844",
@@ -32185,7 +32202,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "\"19: Sirius-Patrouille 1\" Hörbuch von Nikolai Michalewsky, gelesen von Thomas Schmuckert. Sofort-Download Auch im Abo. 19: Sirius-Patrouille 1. Aus der Reihe Mark Brandis Band 19. Gesprochen von."
     },
     {
       "id": "mark-09ra-0391",
@@ -32200,7 +32218,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 09: Raumsonde Epsilon 1 2125: Mark Brandis und die Besatzung seiner Hermes sind von ISIDOR entkommen und auf dem Weg zur rätselhaften \"Büchse der Pandora\"."
     },
     {
       "id": "mark-29di-9091",
@@ -32215,7 +32234,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 29: Die Zeitspule 2 2136: Das zweite Artefakt des Ikarus ist nicht weniger gefährlich als das erste. Mark Brandis versucht, die Initiative zurückzugewinnen, während er gleichzeitig um das Leben seiner Frau Ruth fürchten muss."
     },
     {
       "id": "mark-12di-4867",
@@ -32230,7 +32250,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 12: Die Vollstrecker 2 2127: Mark Brandis' ehemaliger Pilot Robert Monnier steht vor Gericht: er soll den Terroristen sein Schiff, die Ares, in die Hände gespielt haben. Brandis soll nun als Vertreter der Anklage seinem alten Freund den Prozess machen."
     },
     {
       "id": "mark-1718-0023",
@@ -32245,7 +32266,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "MARK BRANDIS \"Alarm für die Erde\" Teil 1 und 2.17: alarm für die erde (teil 1 von 2). Die Zukunft – trotz aller Errungenschaften so ungewiss wie nie zuvor. Im 22."
     },
     {
       "id": "mark-24bl-7732",
@@ -32260,7 +32282,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Hörspielmanuskript: Balthasar v. Weymarn nach dem gleichnamigen Roman von Nikolai von Michalewsky. Mehr zum Hörspiel. Label: Folgenreich/Universal veröffentlicht 12."
     },
     {
       "id": "mark-2122-5116",
@@ -32275,7 +32298,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "2131: Cmdr. Brandis‘ Halbbruder Jonathan West steht unter Verdacht, mit Verbrechern zu kooperieren, die vor dem Einsatz von biologischen Kampfstoffen nicht zurückschrecken. Trotz deutlicher Indizien glaubt Mark Brandis an dessen Unschuld und versucht, den untergetauchten Mediziner zu finden, bevor der Geheimdienst ihn eliminieren kann… Im Geheimdienst seiner Majestät John Harris, muss ..."
     },
     {
       "id": "mark-30pl-2900",
@@ -32290,12 +32314,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 30, Folgenreich, Hörspiel, Mark Brandis, Universal. Cover Planetaktion Z. Ende Januar erscheint bei Universals Label Folgenreich die 30. Episode aus der Reihe der Hörspielserie um Nikolai von Michalewskys Science Fiction-Helden MARK BRANDIS."
     },
     {
       "id": "mark-12de-9952",
       "title": "12: Der Fall Rublew",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9c/db/54/9cdb54fb-28db-15e3-c5be-de6398cbee15/4057664880246.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32305,12 +32330,13 @@
       "genres": [
         "Science-Fiction und Fantasy"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "In der spannenden Episode „ Laurin “ von RAUMKADETT – MARK BRANDIS Staffel 2 begeben sich Mark und seine Freunde auf eine gefährliche ..."
     },
     {
       "id": "mark-10zw-4469",
       "title": "10: Zwischen den Fronten",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f1/77/bc/f177bcf3-871a-00c1-7bdb-c8004d758289/4057664073068.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32320,12 +32346,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "... bildet den Auftakt zu weiteren Abenteuern des jungen Piloten Mark Brandis, der sich in dieser Folge mit territorialen Konflikten zwischen der Union ..."
     },
     {
       "id": "mark-06wo-1912",
       "title": "06: Woran du glaubst ...",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/12/ec/93/12ec9372-029c-5959-2a06-391942e869cd/4057664073143.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32335,12 +32362,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 06: woran du glaubst … Eigentlich hatte es ein Urlaub werden sollen, doch alles kam anders! Wegen eines Datendiebstahls sitzt der junge Mark Brandis in Ostafrika im Gefängnis."
     },
     {
       "id": "mark-02ve-9403",
       "title": "02: Verloren im All",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c9/f0/42/c9f042f7-fea1-8390-7384-2e1a1e42e2d0/4057664073129.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32350,7 +32378,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "\"02: Verloren im All\" Hörbuch von Balthasar Weymarn, gelesen von Sebastian Kluckert. Sofort-Download Auch im Abo."
     },
     {
       "id": "mark-18al-9148",
@@ -32365,7 +32394,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Hochkommissar Mark Brandis hat alle Hände voll zu tun, um die Evakuierungs-maßnahmen mit den eintreffenden Katastrophenmeldungen zu koordinieren."
     },
     {
       "id": "mark-32de-2029",
@@ -32380,7 +32410,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Jetzt 32: Der Pandora-Zwischenfall von Mark Brandis hören Weitere Hörbücher und Hörspiele auf RTL+ entdecken!"
     },
     {
       "id": "mark-1920-2895",
@@ -32395,7 +32426,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Schon seit einer ganzen Weile geht die Hörspielserie „Mark Brandis“ ihre eigenen Wege, was die Reihenfolge der Geschichten angeht. Man achtet zwar darauf, dass es keine allzu deutlichen inhaltlichen Widersprüche gibt, wechselt aber munter zwischen Weltraum-Abenteuern und ganz irdischen Geschichten ab und ändert schon einmal etwas. So folgt die „Sirius Patrouille“ den dramatischen ..."
     },
     {
       "id": "mark-07vo-3569",
@@ -32410,7 +32442,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 07: Vorstoß zum Uranus 2125: Die Strategische Raumflotte schickt Commander Ernest D. Scott und eine vierköpfige Crew mit einer Delta IX als erste bemannte Mission zum Uranusmond Oberon."
     },
     {
       "id": "mark-08vo-2732",
@@ -32425,7 +32458,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "08: Vorstoß zum Uranus 2. Nikolai Michalewsky. Hörbuch-Download (MP3).EAN. 4057664072412. Folge 08: Vorstoß zum Uranus 2 2125: Mark Brandis wird beauftragt, den neuen Leichten Kreuzer Hermes zu testen: mit einer Schutzmission."
     },
     {
       "id": "mark-06te-9004",
@@ -32440,7 +32474,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Folge 06: Testakte Kolibri 2 2124: Der Prototyp \"Kolibri\" ist eine Sensation – der erste Raumschifftyp, der in allen Elementen, unter Wasser, in der Luft und im Weltraum reisen kann. Mark Brandis ist als Projektleiter beauftragt, eine Pannenserie zu beenden, die die Zukunft der Kolibris bedroht."
     },
     {
       "id": "mark-17al-3113",
@@ -32455,7 +32490,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Aus der Reihe Mark Brandis Band 17.Die Evakuierungs-maßnahmen eines Gebiets von 500 km² um den Kilimandscharo in Ostafrika stellt die Logistik der Helfer bereits vor unüberwindbare Probleme."
     },
     {
       "id": "mark-16op-4344",
@@ -32470,7 +32506,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "\"16: Operation Sonnenfracht\" Hörbuch von Nikolai Michalewsky, gelesen von Thomas-Nero Wolff. Sofort-Download Auch im Abo. 16: Operation Sonnenfracht. Aus der Reihe Mark Brandis Band 16. Gesprochen von."
     },
     {
       "id": "mark-23tr-3427",
@@ -32485,12 +32522,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Mark Brandis| als Hörspiel:_ 01 [ „ Bordbuch ... Die „ Mark Brandis “ -Hörspielreihe begann 2005-2007 mit Bordbuch Delta VII."
     },
     {
       "id": "mark-09en-8028",
       "title": "09: Endstation Pallas",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/43/79/7e4379dc-0a47-d0e7-b9fb-b9dbc63d3d7c/4057664072993.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32500,7 +32538,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Auch wenn die Geschichten nur noch auf den Figuren von Mark Brandis Erfinder Nikolai v. Michalewsky basieren, wird die Geschichte meiner Meinung nach in seinem Sinne weitergeführt."
     },
     {
       "id": "mark-14pi-6901",
@@ -32515,12 +32554,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Mark Brandis| als Hörspiel:_ 01 [ „ Bordbuch Delta VII “ 4995 02 [ „ Verrat auf der Venus “ 5013 03 [ „ Unternehmen ..."
     },
     {
       "id": "mark-01au-3519",
       "title": "01: Aufbruch zu den Sternen",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a5/4e/f9/a54ef9bf-f7ae-0e69-2d76-e15ef726162c/4057664073037.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32530,7 +32570,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Die Vorgeschichte zur Mark Brandis Serie verspricht zunächst etwas, was man sich von Star Trek lange wünschte: eine Serie über Raumkadetten. Im ersten Teil, Aufbruch zu den Sternen, muss Mark zunächst jedoch einige Hürden überwinden, deren größte er selbst ist."
     },
     {
       "id": "mark-10ra-1735",
@@ -32545,7 +32586,8 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "Mark Brandis| als Hörspiel:_ 01 [ „ Bordbuch Delta VII “ 4995 02 [ „ Verrat auf der Venus “ 5013 03 [ „ Unternehmen ..."
     },
     {
       "id": "mark-21la-3748",
@@ -32560,12 +32602,13 @@
       "genres": [
         "Kinder und Jugend"
       ],
-      "chapters": []
+      "chapters": [],
+      "description": "\"21: Lautlose Bombe 1\" Hörbuch von Nikolai Michalewsky, gelesen von Jacob Weigert. Sofort-Download Auch im Abo."
     },
     {
       "id": "mark-08mo-5965",
       "title": "08: Mondschatten",
-      "author": "Mark Brandis - Raumkadett",
+      "author": "Mark Brandis",
       "narrator": "",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/02/07/79/0207795f-c052-c16a-5cc2-89621f864012/4057664073099.jpg/100x100bb.jpg",
       "totalDuration": 0,
@@ -32574,6 +32617,457 @@
       },
       "genres": [
         "Kinder und Jugend"
+      ],
+      "chapters": [],
+      "description": "Von Mark Brandis‘ Jugend ist nichts „bekannt“ — jenseits der Kurzgeschichte „Aufbruch zu den Sternen“ (veröffentlicht 1983 als Teil des gleichnamigen Kurzgeschichtenbandes)."
+    },
+    {
+      "id": "edga-genf-2678",
+      "title": "Genfersee - Deine Reise zur Erholung: Erkunde Schloss Chillon, Lavaux Wein und die Geheimnisse des Sees.",
+      "author": "Edgar Claussen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/2f/6a/092f6a8a-4509-694e-afee-c79f618d265a/9783999932200.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1882002678"
+      },
+      "genres": [
+        "Reisen und Abenteuer"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "leob-haup-2878",
+      "title": "Hauptstadt-Safari - Dein Berlin-Abenteuer: Erkunde Brandenburger Tor, Museumsinsel und das aufregende Berliner Nachtleben.",
+      "author": "Leo Brandstetter",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/24/36/0d243619-5a0b-6366-145f-e3d3930c2069/9783999939407.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1878992878"
+      },
+      "genres": [
+        "Reisen und Abenteuer"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "mart-matt-1531",
+      "title": "Matts fantastische Woche",
+      "author": "Martin Lundqvist & Angelica Hagen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/e5/db/22e5db7a-dfdf-6891-845a-49ef527e1e2f/9781664902541_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1533411531"
+      },
+      "genres": [
+        "Kinder und Jugend"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "dyla-atla-2829",
+      "title": "Atlas Obscura Kids Edition",
+      "author": "Dylan Thuras",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fb/ac/66/fbac66bc-1319-0c0b-fa27-d3c90f48f9f0/9783837148398.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1481662829"
+      },
+      "genres": [
+        "Kinder und Jugend"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "juli-diel-7374",
+      "title": "Die Lösung für Frauen mit ADHS [The Solution for Women with ADHD]: Überwinden Sie die Aufmerksamkeitsstörung mit bewährten Strategien, um sich zu organisieren, Beziehungen zu stärken und erfolgreich zu sein [Overcome Attention Deficit Disorder with",
+      "author": "Julia Klein",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/61/59/5c/61595c05-3317-6df8-d284-575df6517bf0/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1733147374"
+      },
+      "genres": [
+        "Sachbücher"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "seth-anba-5252",
+      "title": "Anbau [Cultivation]: Ein Fantasy-LitRPG-Abenteuer (Kampfmagischer Farmer 3) [A Fantasy LitRPG Adventure (Battle Magic Farmer, Book 3)] (Unabridged)",
+      "author": "Seth Ring",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/a5/82/24a58229-0cab-348b-ba5e-ee3cfead50cd/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1711665252"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "seth-tran-5597",
+      "title": "Transformation: Kampfmagischer Farmer 5 [Battle Magic Farmer 5] (Unabridged)",
+      "author": "Seth Ring",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/dc/ef/29dcef03-138c-80c4-be26-bcf0bbfd2442/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1727015597"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "seth-ferm-0280",
+      "title": "Fermentierung [Fermentation]: Kampfmagischer Farmer, 4 [Battle Magic Farmer, 4] (Unabridged)",
+      "author": "Seth Ring",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/ff/36/d6ff3699-0289-d986-9bae-6e5baff7d9af/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1724080280"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "seth-erha-7716",
+      "title": "Erhaltung [Conservation]: Kampfmagischer Farmer 6 [Battle Magic Farmer 6] (Unabridged)",
+      "author": "Seth Ring",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/88/9b/5f889b57-f9f1-a2af-56b8-3be80524ce27/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1732347716"
+      },
+      "genres": [
+        "Kinder und Jugend"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "seth-bewa-4999",
+      "title": "Bewahrung [Preservation]: Ein Fantasy-LitRPG-Abenteuer (Kampfmagischer Farmer 8) [A Fantasy LitRPG Adventure (Battle Magic Farmer 8)] (Unabridged)",
+      "author": "Seth Ring",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/10/94/15109470-1657-8a2e-90bf-3755e13d9e62/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1764544999"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "peyo-dies-1065",
+      "title": "Die Schlümpfe - Geschichtensammlung 4",
+      "author": "Peyo & Die Schlümpfe",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/21/15/4a/21154a5c-4c4f-c455-dc34-92f7b2fb9048/9788726996845.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1642761065"
+      },
+      "genres": [
+        "Kinder und Jugend"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "seth-tren-9789",
+      "title": "Trennung [Separation]: Kampfmagischer Farmer 7 [Battle Magic Farmer, Book 7] (Unabridged)",
+      "author": "Seth Ring",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/86/7e/a6867e69-a215-1867-3dc8-7be5d2bd967b/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1742649789"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "tanj-chak-6919",
+      "title": "Chakra Meditation: Öffne Dein Herzchakra und lass die Lebensenergie wieder fließen!",
+      "author": "Tanja Kohl & Patrick Lynen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/95/26/18952632-ab9d-7268-e5e2-e1f85bc36aaa/4064066730437.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1589476919"
+      },
+      "genres": [
+        "Religion und Spiritualität"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "seth-kamp-3417",
+      "title": "Kampfmagischer Farmer Bücher 4-6: Ein LitRPG-Fantasy-Boxset (Unabridged)",
+      "author": "Seth Ring",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/27/a5/4e27a5d1-818c-6399-f16c-537594ebb7b1/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1817063417"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "leon-eins-6787",
+      "title": "Einschlafmeditation für ein starkes Selbstwertgefühl",
+      "author": "Leonie Kaiser",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/80/f8/dc/80f8dcdf-4851-0752-249f-80ad400dc01c/4064066971359.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1589506787"
+      },
+      "genres": [
+        "Sachbücher"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "seth-voll-9348",
+      "title": "Vollendung: Ein Fantasy-LitRPG-Abenteuer (Kampfmagischer Farmer 9) (Unabridged)",
+      "author": "Seth Ring",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/b7/f2/3bb7f26b-256e-cb00-2ca2-f4e372e91bf1/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1806669348"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "sabi-myst-5249",
+      "title": "Mystery und die Regenbogenbrücke - Ein Hörbuch für die Seele (ungekürzt)",
+      "author": "Sabine Schröder",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/57/86/59578696-ad41-16e3-1dad-0319e652e854/4251888707987_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1549715249"
+      },
+      "genres": [
+        "Ratgeber"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "eliz-derg-8905",
+      "title": "Der Gott des Goldes: Die Ares Tribunale 3",
+      "author": "Eliza Raine",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/fb/5b/e1fb5b12-0693-5593-d3a1-a9849e6bb461/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1743948905"
+      },
+      "genres": [
+        "Liebesromane"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "edwa-verb-7932",
+      "title": "Verborgene Manipulation und Dunkle Psychologie: Verbotene Techniken, um den Alltag zu beeinflussen",
+      "author": "Edward Collins",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/5a/0d/f85a0d0e-4a8a-8b08-c908-8395f1e6f5e6/9798347397983.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1832697932"
+      },
+      "genres": [
+        "Sachbücher"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "sunr-sava-9266",
+      "title": "Savannah: Ein LitRPG-Abenteuer: System Universe 3 (Unabridged)",
+      "author": "SunriseCV",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/dd/ca/99ddca53-24da-03e3-dbee-bc5293c05ea8/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1875349266"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "eliz-derg-0273",
+      "title": "Der Gott des Goldes (Die Ares Tribunale 3) Griechische Fantasy Hörbuch",
+      "author": "Eliza Raine, Fantasy Hörbücher & Romantasy Hörbücher",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/56/c5/e056c57f-905c-dacc-a8f5-acf4bea3a834/4099995422818.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1742730273"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "mmll-diet-2287",
+      "title": "Die Töchter des Teufels: Schwester der Schatten - Band 1 (Unabridged)",
+      "author": "M. Müller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/5d/67/705d676b-aa43-a4c8-11c5-1ebbb1ab8091/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1867542287"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "lond-pass-5013",
+      "title": "Passion Project : Roman",
+      "author": "London Sperry",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/e1/f5/fae1f548-cae9-8028-ca6e-a23857ed170f/9783987859540.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1815295013"
+      },
+      "genres": [
+        "Liebesromane"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "alex-derh-4019",
+      "title": "Der Heckenmagier: Ein Progression Fantasy LitRPG/GameLit-Abenteuer (Unabridged)",
+      "author": "Alex Maher",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/3d/54/cc3d5450-5a84-3062-c0ed-3b43458d6fbd/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1890514019"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "rolf-klar-0174",
+      "title": "Klarmachen zum Ablegen",
+      "author": "Rolf Barkhorn",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/92/14/40921487-85b6-a6c9-1df6-fcc59a00aa0c/9783911611008.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1804600174"
+      },
+      "genres": [
+        "Sachbücher"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "alia-shad-8919",
+      "title": "Shadow of Truth",
+      "author": "Alia Dawn, Sophie Belle & Shadows",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/1d/82/c01d82d0-a45b-9178-6a77-1d8ee8557b60/4069828120372.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1822308919"
+      },
+      "genres": [
+        "Liebesromane"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "dori-dori-2409",
+      "title": "Dorit Wilhelm erklärt, Dorit Wilhelm erklärt Deutschland",
+      "author": "Doritt Wilhelm",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/83/a1/8383a1e2-7c2e-85b1-5b37-6ef7e06beaae/4019393963157_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1582802409"
+      },
+      "genres": [
+        "Kinder und Jugend"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "gamm-arca-1269",
+      "title": "Arcanium: Ankunft im ersten Ring (Unabridged)",
+      "author": "Gammel Kvinne",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/b0/98/6ab09808-3b00-9ee9-db90-4dcdda6f64e1/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1865501269"
+      },
+      "genres": [
+        "Science-Fiction und Fantasy"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "lemb-diem-6077",
+      "title": "Die Magie der Berge Afrikas erleben: Kilimandscharo Routen Herausforderungen sicher und clever meistern.",
+      "author": "Lemba Arusha",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/54/78/49547851-5b21-68fa-3fb2-6b971900fb1c/9783999940250.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1893596077"
+      },
+      "genres": [
+        "Reisen und Abenteuer"
+      ],
+      "chapters": []
+    },
+    {
+      "id": "joha-dein-0998",
+      "title": "Dein persönlicher Achtsamkeitskompass [Your Personal Mindfulness Compass]: Navigiere mit Leichtigkeit und Gelassenheit durch die Herausforderungen des Lebens [Navigate through Life’s Challenges with Ease and Composure] (Unabridged)",
+      "author": "Johannes Freitag",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/cd/5e/8bcd5e93-61a9-df33-4901-716c915d9162/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1756610998"
+      },
+      "genres": [
+        "Ratgeber"
       ],
       "chapters": []
     }
