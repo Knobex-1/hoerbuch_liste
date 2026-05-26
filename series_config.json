@@ -113,6 +113,42 @@
       "author": "Mark Brandis",
       "narrator": "",
       "enabled": true
+    },
+    {
+      "title": "Star Wars",
+      "search_term": "star wars",
+      "extra_search_terms": [],
+      "artist_filter": "Star Wars",
+      "genres": [
+        "Hörspiel"
+      ],
+      "author": "Star Wars",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Marco Göllner",
+      "search_term": "marco göllner",
+      "extra_search_terms": [],
+      "artist_filter": "Marco Göllner",
+      "genres": [
+        "Hörspiel"
+      ],
+      "author": "Marco Göllner",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "John Sinclair, Tonstudio Braun, Folge",
+      "search_term": "john sinclair, tonstudio braun, folge",
+      "extra_search_terms": [],
+      "artist_filter": "Jason Dark",
+      "genres": [
+        "Hörspiel"
+      ],
+      "author": "Jason Dark",
+      "narrator": "",
+      "enabled": true
     }
   ]
 }
