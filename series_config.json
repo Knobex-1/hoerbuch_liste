@@ -1,0 +1,74 @@
+{
+  "_comment": "Konfiguration für den automatischen Katalog-Updater. Füge hier neue Serien hinzu.",
+  "country": "de",
+  "series": [
+    {
+      "id_prefix": "ddf",
+      "search_term": "die drei fragezeichen",
+      "extra_search_terms": ["die drei ??? folge", "drei fragezeichen kids", "die drei fragezeichen und"],
+      "artist_filter": "Die drei ???",
+      "title": "Die drei ???",
+      "author": "Alfred Hitchcock präsentiert",
+      "narrator": "Oliver Rohrbeck, Jens Wawrczeck, Andreas Fröhlich",
+      "genres": ["Hörspiel", "Krimi", "Abenteuer", "Kinder & Jugend"],
+      "avg_track_duration_seconds": 80,
+      "enabled": true
+    },
+    {
+      "id_prefix": "tkkg",
+      "search_term": "tkkg hörspiel",
+      "extra_search_terms": ["tkkg folge", "tkkg und"],
+      "artist_filter": "TKKG",
+      "title": "TKKG",
+      "author": "Stefan Wolf",
+      "narrator": "Verschiedene Sprecher",
+      "genres": ["Hörspiel", "Krimi", "Kinder & Jugend"],
+      "avg_track_duration_seconds": 95,
+      "enabled": true
+    },
+    {
+      "id_prefix": "bb",
+      "search_term": "bibi blocksberg hörspiel",
+      "artist_filter": "Bibi Blocksberg",
+      "title": "Bibi Blocksberg",
+      "author": "Elfie Donnelly",
+      "narrator": "Susanne Pätzold",
+      "genres": ["Hörspiel", "Kinder & Jugend", "Fantasy"],
+      "avg_track_duration_seconds": 90,
+      "enabled": true
+    },
+    {
+      "id_prefix": "sh",
+      "search_term": "sherlock holmes hörspiel titania",
+      "artist_filter": "Sherlock Holmes",
+      "title": "Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "narrator": "Friedrich W. Bauschulte",
+      "genres": ["Hörspiel", "Krimi", "Thriller"],
+      "avg_track_duration_seconds": 92,
+      "enabled": true
+    },
+    {
+      "id_prefix": "ff",
+      "search_term": "fünf freunde hörspiel enid blyton",
+      "artist_filter": "Fünf Freunde",
+      "title": "Fünf Freunde",
+      "author": "Enid Blyton",
+      "narrator": "Verschiedene Sprecher",
+      "genres": ["Hörspiel", "Abenteuer", "Kinder & Jugend"],
+      "avg_track_duration_seconds": 115,
+      "enabled": true
+    },
+    {
+      "id_prefix": "kvdk",
+      "search_term": "krimis von der küste hörspiel",
+      "artist_filter": "Krimis von der Küste",
+      "title": "Krimis von der Küste",
+      "author": "Krimis von der Küste",
+      "narrator": "Verschiedene Sprecher",
+      "genres": ["Krimi", "Küstenkrimi", "Thriller"],
+      "avg_track_duration_seconds": 160,
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+catalog_ai/.build/
+catalog_ai/catalog_ai_bin
+catalog.json.bak
+catalog.json.tmp
+*.pyc
+__pycache__/
