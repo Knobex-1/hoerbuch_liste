@@ -1,0 +1,403 @@
+{
+  "seriesId": "pettersson-und-findus",
+  "title": "Pettersson und Findus",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1701347434",
+      "title": "Aufruhr im Gemüsebeet",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/fe/d1/71fed1fa-78d1-73b3-2357-e4e0dfa05441/4057664423399_cover.jpg/100x100bb.jpg",
+      "description": "Ein Album, das Hörspiele umfasst und von bekannten Charakteren aus Schweden erzählt, passt gut zur Kategorie Kinder & Jugend.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701347434"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1270116073",
+      "title": "English Edition #1 (Das Original-Hörspiel zur TV-Serie) [Das Deutsch-Englische Hörspiel zur TV-Serie]",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/33/d8/1633d8bf-3eeb-fa4d-5b65-7fa8af17615c/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Hörspiel-Album zur TV-Serie 'Pettersson und Findus' in deutscher Fassung. Es enthält insgesamt 35 Hörspieltracks.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1270116073"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1739781043",
+      "title": "Findus erklärt die Welt: Der Mensch von innen und außen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/fc/70/b5fc70aa-03aa-cd06-4d52-b8bd581e3278/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von Pettersson und Findus, das sich mit dem Thema des menschlichen Körpers beschäftigt. Es bietet eine interaktive Erzählung, die Kindern hilft, die Anatomie zu verstehen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1739781043"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1721273472",
+      "title": "Findus erklärt die Welt: Der Urknall und das Weltall",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/d5/92/1ed592c9-673d-c6e4-e990-a4cd58d050ab/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele, die sich mit wissenschaftlichen Themen wie dem Urknall befassen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1721273472"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1735987280",
+      "title": "Findus erklärt die Welt: Eine Kugel namens Erde",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/79/3a/6a793a38-4f88-1936-0044-c35010e93fb6/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele, die sich mit pädagogischen Themen beschäftigen, wie z.B. 'Findus erklärt die Welt'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1735987280"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1777073692",
+      "title": "Findus erklärt die Welt: Findus kunterbunte Werkstatt",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/d1/8a/fbd18a8c-0342-8a31-aeb2-d59df3547e4a/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele, die sich an Kinder richten und spannende Geschichten erzählen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1777073692"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1492436426",
+      "title": "Findus erklärt die Welt: In der Natur mit Pettersson und Findus (Das Original-Hörspiel zum Naturbuch)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/27/ef/b527efa9-6f15-0f6f-f7d0-54aa8b14e7a2/cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel, das die Natur mit Findus und Pettersson erklärt. Ideal für Kinder.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1492436426"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1843732997",
+      "title": "Findus erklärt die Welt: Kluge Köpfe und schöne Klänge",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/61/1f/20611f84-9333-1791-92cc-4ea5292969a8/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album mit Hörspielen, das pädagogische Themen wie 'Kluge Köpfe' behandelt und Kinder ansprechen könnte.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1843732997"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1672015790",
+      "title": "Findus erklärt die Welt: Mein Gartenjahr (Frühling & Sommer)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/e6/c2/36e6c2ee-e34d-ba57-a1de-fc335318a39d/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Inhalte, die das Gartenjahr von Findus im Frühling und Sommer thematisieren.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1672015790"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1705281223",
+      "title": "Findus erklärt die Welt: Mein Gartenjahr (Herbst & Winter)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/9f/e9/759fe9b7-d766-3810-0d6d-e22c3204373f/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das das Leben im Garten erklärt und sich auf die Jahreszeiten Herbst und Winter konzentriert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1705281223"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1621738060",
+      "title": "Findus erklärt die Welt: Meine ersten Experimente und Erfindungen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/e7/a4/aae7a42b-b533-88df-a183-cc6c247b833f/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspielalbum für Kinder, das auf Experimente und Erfindungen basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1621738060"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1829438492",
+      "title": "Findus erklärt die Welt: Schmutz und Katzenwäsche",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/e4/52/0be452da-8969-962e-7510-01cc3273969c/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Tracks von 'Findus erklärt die Welt' über Schmutz und Katzenwäsche.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1829438492"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1529635536",
+      "title": "Findus erklärt die Welt: Tiere entdecken in Wald und Wiese (Das Orginal-Hörspiel zum Naturbuch)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c8/fb/63/c8fb6325-edf4-49d7-72ac-12685a11a14d/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Original-Hörspiel, das zum Naturbuch 'Findus erklärt die Welt: Tiere entdecken in Wald und Wiese' gehört und sich auf Kinder und Jugend richtet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1529635536"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1774009601",
+      "title": "Findus erklärt die Welt: Tiere im Wasser und an Land",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/62/cc/e562ccc8-2ce2-ac3a-90e4-5b1fa897893b/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von Pettersson und Findus, das sich mit Themen wie Tieren im Wasser und an Land beschäftigt. Es richtet sich an ein junges Publikum und vermittelt Wissen spielerisch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1774009601"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701350651",
+      "title": "Findus zieht um",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/81/d8/bc81d80f-77a2-96a6-6f2a-00ab80a8f5f6/4057664424723_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Findus zieht um', das von bekannten deutschen Sprechern und Künstlern erzählt wird. Es richtet sich an ein junges Publikum und bietet Unterhaltung und Geschichten für Kinder.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701350651"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1463595195",
+      "title": "Kuddelmuddel bei Pettersson und Findus (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/94/3e/b9/943eb945-dfc5-3703-83b2-b3de36a5c248/cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel basierend auf dem Kinofilm \"Pettersson und Findus\" mit vielen Episoden, ideal für Kinder.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1463595195"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1483234611",
+      "title": "Mein Adventskalender-Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3e/f4/cc/3ef4cc70-1f2e-c408-b636-e45fb4b917a1/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album, das als Hörspiel vermarktet wird, ist typischerweise für Kinder geeignet und richtet sich an ein junges Publikum.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1483234611"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1620408263",
+      "title": "Mein Adventskalender-Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/62/4b/56624b11-6ec2-f5d1-784d-8559f14ae85c/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album für Adventszeit mit Hörspiel-Inhalten von Pettersson und Findus.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1620408263"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1463595135",
+      "title": "Morgen, Findus, wird's was geben! (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bf/16/df/bf16df34-4cb1-13e5-d4b7-fddcb31601d5/cover.jpg/100x100bb.jpg",
+      "description": "Das Album enthält das Original-Hörspiel zum Kinofilm 'Findus'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1463595135"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1463596352",
+      "title": "Neues von Pettersson und Findus (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/53/86/d2/5386d278-2488-98a0-8a8c-ef3367a15cdf/cover.jpg/100x100bb.jpg",
+      "description": "Das Album enthält das Original-Hörspiel zum Kinofilm 'Neues von Pettersson und Findus'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1463596352"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1463571162",
+      "title": "Pettersson und Findus (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/53/04/3e53042f-2088-80ee-7903-b95b8d8f4b3d/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel basierend auf dem bekannten Kinofilm 'Pettersson und Findus'. Es bietet eine spannende und unterhaltsame Geschichte für Kinder und Jugendliche.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1463571162"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701347483",
+      "title": "Pettersson und Findus. Armer Pettersson",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/6d/6f/d06d6f1e-5ca9-1c45-604d-a555283a0a2e/4057664423467_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel basierend auf den bekannten Geschichten von Sven Nordqvist über Pettersson und Findus, das auf Englisch veröffentlicht wurde. Es passt zu den Genres Kinder & Jugend.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701347483"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1728520713",
+      "title": "Pettersson und Findus. Das schönste Weihnachten überhaupt",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/01/04/5a010437-faa6-80d7-a810-9c12b63ec187/4057664421890_cover.jpg/100x100bb.jpg",
+      "description": "Das Album 'Pettersson und Findus. Das schönste Weihnachten überhaupt' ist ein Hörspielalbum, das die Abenteuer des berühmten Pinguins Pettersson und seines Freundes Findus während der Weihnachtszeit erzählt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1728520713"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701347073",
+      "title": "Pettersson und Findus. Ein Feuerwerk für den Fuchs",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/9a/ea/c19aeaf4-732f-b624-0ca5-0ce662f1f874/4057664423474_cover.jpg/100x100bb.jpg",
+      "description": "Das Album beinhaltet Hörspiele des bekannten Kinderbuchs 'Pettersson und Findus' und ist somit auf Unterhaltung für Kinder ausgerichtet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701347073"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701350362",
+      "title": "Pettersson und Findus. Findus und der Hahn im Korb",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/e1/20/7ee12028-4b6d-dcdd-334d-98ffa6a379d3/4057664423498_cover.jpg/100x100bb.jpg",
+      "description": "Das Album beinhaltet Hörspiele von Pettersson und Findus, einem bekannten Kinderbuch-Franchise in Schweden.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701350362"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701347669",
+      "title": "Pettersson und Findus. Findus zieht um",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/0e/62/470e6234-8ec2-828c-c1cb-5b3d4fc72daf/9783837395075_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von 'Pettersson und Findus', das die Abenteuer des berühmten Hundes Findus erzählt. Es enthält insgesamt 24 Geschichten, die auf spannende Weise erzählt werden.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701347669"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701351660",
+      "title": "Pettersson und Findus. Kleiner Quälgeist - große Freundschaft",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/b0/95/15b095a6-3578-e346-3887-59aa3de02b17/4057664424143_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel über die Freundschaft zwischen Pettersson und Findus.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701351660"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701347950",
+      "title": "Pettersson und Findus. Pettersson kriegt Weihnachtsbesuch",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/98/4f/5c/984f5c6d-71a0-05da-94de-6a05f0c3318a/4057664423528_cover.jpg/100x100bb.jpg",
+      "description": "Ein Album von Hörspielen, das die Geschichte von Pettersson und Findus beinhaltet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701347950"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701347447",
+      "title": "Pettersson und Findus. Wie Findus zu Pettersson kam",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f9/9b/3f/f99b3f8d-bef2-f319-6251-de41123f7129/4057664423207_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele, die sich um die Geschichte von Pettersson und Findus drehen, was typisch für deutsche Hörspiele für Kinder ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701347447"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1701347820",
+      "title": "Schau mal, was ich kann, Pettersson!",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/85/59/6d855957-4213-44ab-a778-abfe2827a1f6/9783837393552_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele und ist von Sven Nordqvist und Pettersson und Findus, was typisch für deutsche Kinderhörspiele ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1701347820"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

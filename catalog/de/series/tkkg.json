@@ -1,0 +1,392 @@
+{
+  "seriesId": "tkkg",
+  "title": "TKKG",
+  "language": "de",
+  "author": "Stefan Wolf",
+  "narrator": "Verschiedene Sprecher",
+  "genres": [
+    "Hörspiel",
+    "Krimi",
+    "Kinder & Jugend"
+  ],
+  "albums": [
+    {
+      "id": "490742749",
+      "title": "TKKG Krimi-Box 5",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 12 Hörspiel-Tracks aus der TKKG Krimi-Box 5, ein populäres deutscher Hörspielformat.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "490742749"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1463157148",
+      "title": "TKKG – Jede Legende hat ihren Anfang (Kinofilm 2019)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/7b/1c/527b1c1b-59ae-13a4-6688-681f47f6ee44/886447651599.jpg/600x600bb.jpg",
+      "description": "TKKG – Jede Legende hat ihren Anfang ist ein deutscher Spielfilm des Regisseurs Robert Thalheim aus dem Jahr 2019. Es ist der dritte Kinofilm, welcher auf der Jugendbuch-Reihe TKKG basiert. Der Film kam am 6. Juni 2019 in die deutschen Kinos.",
+      "totalDuration": 4729,
+      "platforms": {
+        "appleMusic": "1463157148"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-kino1-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 95,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 189,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 284,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 378,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 473,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 567,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 662,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 757,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 851,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 946,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1040,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1135,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1230,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1324,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1419,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1513,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1608,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1702,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1797,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1892,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1986,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2081,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2175,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2270,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2364,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2459,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2554,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2648,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2743,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2837,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2932,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 3027,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3121,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3216,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3310,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3405,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3499,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3594,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3689,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3783,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3878,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 3972,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 4067,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 4162,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 4256,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 4351,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 4445,
+          "duration": 95
+        },
+        {
+          "id": "tkkg-kino1-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 4540,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-kino1-t50",
+          "title": "Teil 50",
+          "index": 49,
+          "startTime": 4634,
+          "duration": 95
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

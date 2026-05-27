@@ -1,0 +1,39 @@
+{
+  "seriesId": "kinder-kurzgeschichten-kinder-hoerbuch-kinder-schlafgeschichten",
+  "title": "Kinder Kurzgeschichten, Kinder Hörbuch & Kinder Schlafgeschichten",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1784321995",
+      "title": "Finn und die Mondlichtbrücke (feat. Kinder Hörspiele, Kinder Märchen, Kinder Geschichten, Kinder Gute-Nacht-Geschichten & Kinder Fantasiegeschichten) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/1d/d7/f81dd7f6-526e-c96e-2389-e2e0be1c355a/531185.jpg/100x100bb.jpg",
+      "description": "Ein Album mit Geschichten für Kinder, ideal für Gute-Nacht-Geschichten.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1784321995"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1770801083",
+      "title": "Leo und der magische Regenbogenstein - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/be/8d/b9be8dda-eb1a-cd14-9d0a-0c7c3ae54b08/423195.jpg/100x100bb.jpg",
+      "description": "Ein Album für Kinder mit Geschichten über Leo und einen magischen Regenbogenstein.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1770801083"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

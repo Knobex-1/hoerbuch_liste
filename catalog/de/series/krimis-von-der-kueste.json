@@ -1,0 +1,28 @@
+{
+  "seriesId": "krimis-von-der-kueste",
+  "title": "Krimis von der Küste",
+  "language": "de",
+  "author": "Krimis von der Küste",
+  "narrator": "Verschiedene Sprecher",
+  "genres": [
+    "Krimi",
+    "Küstenkrimi",
+    "Thriller"
+  ],
+  "albums": [
+    {
+      "id": "1879555166",
+      "title": "Krimis von der Küste 09 - Justitias Nacht",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/da/e4/f2dae4f8-613a-1fa4-7b62-8c00d5fd262f/cover.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Hörspiele über Krimis, die an der Küste angesiedelt sind.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1879555166"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

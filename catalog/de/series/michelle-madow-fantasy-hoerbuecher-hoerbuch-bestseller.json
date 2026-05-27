@@ -1,0 +1,52 @@
+{
+  "seriesId": "michelle-madow-fantasy-hoerbuecher-hoerbuch-bestseller",
+  "title": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1875323195",
+      "title": "Blazing Sun - Die Stadt der Vampire 4 - Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fb/b1/28fbb19f-8167-6d9f-d574-cc78a6dbfd4a/4069829541695_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel, das sich mit Vampiren und einer fiktiven Stadt befasst. Es könnte Elemente von Fantasy und Abenteuer enthalten.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1875323195"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1862535411",
+      "title": "Fading Sun - Die Stadt der Vampire 3 - Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/37/96/2d379630-76c4-9dd3-691b-fb2f7ce8073e/4069829312042_cover.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel 'Fading Sun - Die Stadt der Vampire 3' von Michelle Madow, das im Genre Hörspiele angesiedelt ist. Es könnte sich um ein Hörspiel oder Hörbuch handeln.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1862535411"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1860060372",
+      "title": "Posion Sun - Die Stadt der Vampire 2 - Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/98/c9/5c98c99f-9c7e-e564-0e03-8233e8ff7ee0/4069829238106_cover.jpg/100x100bb.jpg",
+      "description": "Ein Album, das als Hörspiel mit Fantasy-Themen beschrieben wird, ist typischerweise ein deutsches Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1860060372"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

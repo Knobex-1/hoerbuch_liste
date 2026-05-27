@@ -1,0 +1,52 @@
+{
+  "seriesId": "zoomania",
+  "title": "Zoomania",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1685843834",
+      "title": "Zoomania (Das Original-Hörspiel zum Disney Film)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/17/1a/a9171a67-ad2d-ac65-2665-01431da6057e/4066339484030.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Original-Hörspiel zum Disney Film 'Zoomania'. Es enthält 51 Tracks und gehört zum Genre Hörspiele.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685843834"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1855903041",
+      "title": "Zoomania 2 (Hörspiel zum Disney Film)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/05/64/8f056499-224b-be8b-d23c-459a5a71bb54/4069829199797.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album, das zum Disney-Film 'Zoomania 2' gehört.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1855903041"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1737005277",
+      "title": "Zoomania+ (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/4c/c8/324cc82a-686a-0610-9774-e35c820d4c45/4099995344516.jpg/100x100bb.jpg",
+      "description": "Das Album 'Zoomania+ (Das Original-Hörspiel zur TV-Serie)' ist ein Hörspielalbum des Künstlers Zoomania. Es enthält insgesamt 31 Tracks und gehört zum Genre Hörspiel.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1737005277"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

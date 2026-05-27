@@ -1,0 +1,91 @@
+{
+  "seriesId": "die-playmos",
+  "title": "Die Playmos",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1458466092",
+      "title": "Brief von Captain Tolle",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/20/7f/21/207f21cf-6920-66f7-ea4b-76bcc718afeb/4260229662731_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein deutscher Hörspiel-Krimi über Captain Tolle.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458466092"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1310311310",
+      "title": "Die Playmos - Das Versteck in der Goldmine",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/67/94/eb6794ca-f893-ca45-df37-a6419d446991/4260229662243_1448.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von Die Playmos mit dem Titel 'Das Versteck in der Goldmine'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1310311310"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1273263822",
+      "title": "Die Playmos - Der Schatz der Barbarenruine",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/00/ce/fc/00cefc8a-242f-b6b7-9038-6358e3fb27f1/4260229662168_1448.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Die Playmos - Der Schatz der Barbarenruine', das von den Playmos aufgeführt wird und acht Geschichten umfasst.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1273263822"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1216140384",
+      "title": "Die Playmos - Wie die Playmos sich kennenlernten",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/80/92/3e809244-c1bc-a64f-a649-0ffd346adb75/4251234326329_1448.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von Die Playmos mit acht Episoden, die sich mit den Erlebnissen der Playmos beschäftigen. Es richtet sich an ein junges Publikum und kombiniert Unterhaltung mit Bildung. Keine Beschreibung verfügbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1216140384"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1475619689",
+      "title": "Die grosse Fussball-Box: Das grosse Spiel / Im Fussballfieber / Die magische Fussballmeisterschaft",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/90/d2/7f/90d27fd5-6df7-2a66-6765-a828e1ce5c50/4260229663493_3000.jpg/100x100bb.jpg",
+      "description": "Das Album umfasst Hörspiele wie 'Die grosse Fussball-Box' und ist auf der Plattform für Hörbücher verfügbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1475619689"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1523986029",
+      "title": "Im Land der Riesen (Hörspiel)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/57/c2/14/57c21458-88e8-7437-a9ea-5e6bd8040efc/4260229662458_3000.jpg/100x100bb.jpg",
+      "description": "Das Album 'Im Land der Riesen' von Die Playmos ist ein Hörspiel. Es passt in die Genres Abenteuer und Fantasy.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1523986029"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

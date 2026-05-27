@@ -1,0 +1,91 @@
+{
+  "seriesId": "benjamin-bluemchen",
+  "title": "Benjamin Blümchen",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1069064094",
+      "title": "Gute Besserung (Benjamin Blümchen als Tierarzt & Otto ist krank & Benjamin Blümchen im Krankenhaus)",
+      "episodeNumber": null,
+      "releaseDate": "2014-06-27",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/1e/6f/d51e6f2f-27fb-38b2-cde3-50475d7e7887/825646243471.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Hörspiele basierend auf bekannten Kinderbüchern von Benjamin Blümchen, die oft für Kinder geeignet sind.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1069064094"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1652301632",
+      "title": "Adventskalender: Das große Weihnachtssingen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a6/2f/6d/a62f6d93-4929-7ce4-3809-01db9e70d897/5054197427046.jpg/100x100bb.jpg",
+      "description": "Ein Adventskalender mit Weihnachtsliedern von Benjamin Blümchen, typisch für deutsche Hörspiele.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1652301632"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069147252",
+      "title": "Englisch lernen mit Benjamin Blümchen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/5b/40/29/5b4029e9-1ae3-7ff1-4f1a-106e96f2f228/825646295746.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspielalbum für Kinder, das mit Benjamin Blümchen über Englisch lernen informiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069147252"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1500615880",
+      "title": "Find's raus mit Benjamin: Baustelle",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/79/74/8279743f-4170-ec4d-a3d3-825343c633f0/190295257293.jpg/100x100bb.jpg",
+      "description": "Das Album enthält 32 Tracks des Hörspiels \"Find's raus mit Benjamin: Baustelle\" von Benjamin Blümchen, das auf dem Genre Hörspiel basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1500615880"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1552276514",
+      "title": "Find‘s raus mit Benjamin: Feuerwehr",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d2/49/be/d249beaa-b7ef-e14f-7aa8-cd01939a7612/190295003791.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Hörspiel-Serie mit dem Titel 'Find‘s raus mit Benjamin: Feuerwehr', die von Benjamin Blümchen präsentiert wird. Es besteht aus 34 Tracks und gehört zum Genre der Hörspiele.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1552276514"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1139285408",
+      "title": "als Apotheker (Sonderedition)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/34/1d/1b/341d1b4a-aef9-0f5f-8375-778a2592044c/190295919665.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 43 Hörspiel-Tracks und wird von Benjamin Blümchen präsentiert. Es ist eindeutig als Hörspielformat konzipiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1139285408"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

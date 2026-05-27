@@ -1,0 +1,26 @@
+{
+  "seriesId": "yakari",
+  "title": "Yakari",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1530905341",
+      "title": "Yakari - Das Hörspiel zum Film",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/63/7c/ff637ce6-c808-bbc9-3869-dd8dd6af5665/4013575911134.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Hörspiel 'Yakari - Das Hörspiel zum Film', das auf Audiostreaming-Plattformen verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1530905341"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

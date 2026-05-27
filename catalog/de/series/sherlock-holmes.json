@@ -1,0 +1,1562 @@
+{
+  "seriesId": "sherlock-holmes",
+  "title": "Sherlock Holmes",
+  "language": "de",
+  "author": "Arthur Conan Doyle",
+  "narrator": "Friedrich W. Bauschulte",
+  "genres": [
+    "Hörspiel",
+    "Krimi",
+    "Thriller"
+  ],
+  "albums": [
+    {
+      "id": "1686419439",
+      "title": "Das kalte Herz (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2015-09-18",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/1d/57/881d576e-37c4-4321-7988-eecc3061786b/cover.jpg/100x100bb.jpg",
+      "description": "Das Album 'Das kalte Herz' ist ein Hörspiel basierend auf den Tagebüchern von Dr. Watson aus der Sherlock Holmes Reihe, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686419439"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686524449",
+      "title": "Tote Vögel (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2016-05-06",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f9/43/26/f94326c7-9673-31b4-7433-39509db17ced/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel der Sherlock Holmes-Reihe, basierend auf den Tagebüchern von Dr. Watson.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686524449"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686701872",
+      "title": "Der Tote im Keller (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2016-11-04",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/6a/f6/a86af65f-b593-b120-c5f3-12e7286fa132/cover.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel, das Sherlock Holmes und Dr. Watson auf neue Abenteuer begibt. Es bietet ein packendes Erlebnis für Krimieliebhaber.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686701872"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686562911",
+      "title": "Omen (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2017-08-04",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/66/b9/2566b924-75b7-ab4a-6bc8-c5e66f6974a1/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele basierend auf Sherlock Holmes Geschichten, typisch für deutsche Hörspieltraditionen.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686562911"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686564383",
+      "title": "Tote sterben nicht (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2018-06-15",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/35/17/aa351746-5a5f-2138-fa44-996af3efe516/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Adaption von Sherlock Holmes-Geschichten, typisch für Hörspiele.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686564383"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685316467",
+      "title": "Sherlock Holmes Edition 1 - Der Tod zu Gast auf Mallory Manor",
+      "episodeNumber": null,
+      "releaseDate": "2018-07-25",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/f0/d8/3ef0d8c2-3a12-62a6-1b08-ab603a0a8da0/cover.jpg/100x100bb.jpg",
+      "description": "Das Album umfasst neununddreißig Geschichten rund um den berühmten Detektiv Sherlock Holmes, bekannt für seine kriminalen Abenteuern und Logikrätseln.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1685316467"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685380932",
+      "title": "Sherlock Holmes Edition 2 - Der Tod zu Gast auf Mallory Manor",
+      "episodeNumber": null,
+      "releaseDate": "2018-08-11",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/67/6e/f6676ee2-2238-d317-f926-2d86d7e5005f/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel basierend auf der Sherlock Holmes-Reihe, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1685380932"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686564172",
+      "title": "Die teuflische Klaue (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2018-08-17",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/27/ab/e727ab42-e229-1cde-ca22-4908d498f25b/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel mit Geschichten aus den Tagebüchern von Dr. Watson, basierend auf Sherlock Holmes.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686564172"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686413445",
+      "title": "Die Bibliothekarin (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2019-07-12",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/61/ee/8861eef4-1735-830b-de30-f75af04867c3/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von Sherlock Holmes, das die Tagebücher von Dr. Watson enthält. Es kombiniert klassische Kriminalfälle mit einem spannenden Erzählstil.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686413445"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686432162",
+      "title": "Die rote Lola (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2019-12-06",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/ef/8e/4eef8e55-195e-b562-e258-f27564141fe1/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele des Sherlock Holmes-Universums mit Geschichten von Dr. Watson.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686432162"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686427811",
+      "title": "Drachenblut (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2020-09-04",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/c0/95/a7c095b2-c176-c1ac-dc77-c953b9095f1f/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Geschichten um den berühmten Detektiv Sherlock Holmes, basierend auf den Tagebüchern von Dr. Watson. Es ist ein Hörspiel mit Spannung und Spannung rund um das Thema Geheimnisse und Verbrechen.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686427811"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686407157",
+      "title": "Tödlicher Nebel (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2020-10-09",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fe/04/44/fe044450-b73b-0de7-2455-d5390946486a/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album von Sherlock Holmes basierend auf den Tagebüchern von Dr. Watson, das als Hörspiel erscheint.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686407157"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686423784",
+      "title": "Das Rätsel des Skanda (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2020-11-13",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/91/f4/6291f469-e6d3-9725-74cd-a78e793015df/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album über Sherlock Holmes mit 41 Tracks im Hörspielgenre, das auf Spannung und Rätsel im Stil der klassischen Kriminalromane setzt.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686423784"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686420135",
+      "title": "Rose of Scotland (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2020-12-11",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/91/60/5f916064-8714-ee35-7088-3cfc483f048c/cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel der Sherlock Holmes-Reihe, basierend auf Dr. Watsons Tagebüchern.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686420135"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686413278",
+      "title": "Die tödlichen Geheimnisse des Mr. M. (Sherlock Holmes: Aus den Tagebüchern von DR. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-01-29",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/53/76/e2537657-90d1-baf8-1c5f-74a7f27bc701/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält die tödlichen Geheimnisse des Mr. M. aus den Tagebüchern von Dr. Watson. Es ist Teil des Sherlock Holmes Hörspiel-Universums.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686413278"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686412891",
+      "title": "Das Rätsel der verschwundenen Männer (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-02-19",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/50/28/8a50280b-7a5a-4d04-0e2e-15f193539ed8/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Szenen von Sherlock Holmes, basierend auf Dr. Watsons Tagebüchern.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686412891"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686427370",
+      "title": "Die vergiftete Mahlzeit, 1. Teil (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-03-19",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/c7/5c/7cc75c84-cc23-0de1-4e7b-38d67ad22d1b/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Teile aus Sherlock Holmes Hörspielen, die auf deutschen Audiostreaming-Plattformen verfügbar sind.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686427370"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686427306",
+      "title": "Die Morde des M. 2. Teil (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-04-16",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/25/f3/f025f3a5-1145-421b-d490-e52b4ee76538/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Fortsetzung der Morde des M. 2., basierend auf den Tagebüchern von Dr. Watson aus der Sherlock Holmes-Reihe. Es ist ein Hörspiel, das Spannung und Abenteuer bietet.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686427306"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686420398",
+      "title": "Das Rätsel des Luxushotels (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-08-27",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/32/d6/51/32d65122-f7e1-ad5e-d71a-e1d82dca6a5b/cover.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Geschichten von Sherlock Holmes, die typischerweise als Hörspiele produziert werden.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686420398"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686422147",
+      "title": "Schach der Dame (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-09-24",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/cc/df/46ccdfcd-95bc-f686-4e22-9895275d7f12/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Fortsetzung des berühmten Sherlock Holmes-Abenteuers aus den Tagebüchern von Dr. Watson, was auf ein spannendes und kriminalistisches Hörspiel hinweist.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686422147"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686418461",
+      "title": "Unerwartete Post, 1. Teil (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-10-22",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/f9/f9/35f9f953-785e-e941-faf7-893f28a70833/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Teil einer Hörspielreihe über Sherlock Holmes, basierend auf Dr. Watsons Tagebüchern.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686418461"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686419598",
+      "title": "Der unheimliche Diener, 2. Teil (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-11-19",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/70/0f/9c700fa5-9a80-86d4-b37b-3c79bc4e46cf/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein deutscher Hörspiel-Album, das Sherlock Holmes Geschichten enthält.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686419598"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686403859",
+      "title": "Die Nacht des Adlers (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2021-12-10",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/b8/6c/1fb86cc6-1ffd-09e9-7b31-9d57567bd0ec/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album über Sherlock Holmes, basierend auf den Tagebüchern von Dr. Watson.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686403859"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686421710",
+      "title": "Der abgetrennte Finger (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2022-01-14",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/0b/05/a00b0548-2439-710e-6413-c972424dfd5c/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele aus der Serie 'Sherlock Holmes: Aus den Tagebüchern von Dr. Watson' und ist somit ein Hörspiel.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686421710"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686420841",
+      "title": "Das Geheimnis des Siegelsringes (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2022-04-08",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fa/5e/76/fa5e768e-13e2-38fa-0945-5bcb68a01257/cover.jpg/100x100bb.jpg",
+      "description": "Das Album enthält ein Hörspiel mit Geschichten rund um den berühmten Detektiv Sherlock Holmes.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686420841"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686426176",
+      "title": "Der Stein des Himmels (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2022-09-16",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ce/48/13/ce48130b-3dc7-cd6e-04e9-058160e35ba9/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das Sherlock Holmes mit Dr. Watson aus der Perspektive von Dr. Watson erzählt. Es enthält 42 Tracks und gehört zur Hörspielgenre.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686426176"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686409149",
+      "title": "Die Brosche des Richelieu (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2022-12-16",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c8/fa/82/c8fa8222-8b3b-48d2-683d-62c6067b932a/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das Sherlock Holmes: Aus den Tagebüchern von Dr. Watson enthält und sich auf deutsche Produktion bezieht.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686409149"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686407921",
+      "title": "Strandgut (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-01-13",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/a3/f8/cba3f8f4-9822-6af6-ddbf-f950dd8709a8/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Hörspiel 'Strandgut: Sherlock Holmes: Aus den Tagebüchern von Dr. Watson', das klassische Kriminalgeschichten mit Sherlock Holmes und Dr. Watson erzählt. Es passt perfekt in die Genres Hörspiel und Krimi.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686407921"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686408259",
+      "title": "Entführung aus dem Serail (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-02-10",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/f1/87/4bf1871a-8c62-7e6d-2ba6-2afcec3f55cf/cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel nach dem Roman 'Entführung aus dem Serail' von Eugäne Ionesco, basierend auf Sherlock Holmes von Arthur Conan Doyle.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686408259"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686408260",
+      "title": "Der glitzernde Tod (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-03-17",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/34/68/cb3468c6-08bd-c1d0-9caa-46cf8969fadd/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Geschichten aus den Tagebüchern von Dr. Watson, typisch für Hörspiele mit Krimi- und Thriller-Elementen.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686408260"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686408177",
+      "title": "Herren-Urlaub (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-04-14",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/9e/40/ed9e4051-f1cd-df84-b94b-a0efb3190c6f/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album mit Sherlock Holmes, das als Hörspiel erscheint, basierend auf Dr. Watsons Tagebüchern.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686408177"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686404248",
+      "title": "Der Phantom-Mann (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-05-19",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/19/2c/90192cc1-5914-4e4b-186b-d41b6208189f/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album, das Sherlock Holmes thematisiert und als Hörspiel formatiert ist.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686404248"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686404314",
+      "title": "Der schwarze König (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-06-09",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/53/ce/4253ce1a-fab5-3b8e-0d02-d841c7ce7e2d/cover.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel mit Sherlock Holmes, basierend auf Dr. Watsons Tagebüchern.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1686404314"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1692254449",
+      "title": "Der unsichtbare Mörder (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-07-21",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/dc/71/e7dc713e-6284-f15a-2c2d-9ad29c202970/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album, das Sherlock Holmes und Dr. Watson thematisiert, ist typisch für ein Hörspiel, oft im Stil von Krimis und Thrillern.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1692254449"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1699201980",
+      "title": "Das verschwundene Mädchen (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-08-18",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ad/96/d0/ad96d022-a0d6-3350-c703-7f72961dd0b8/cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel basierend auf Sherlock Holmes, das in den Tagebüchern von Dr. Watson erzählt wird. Es handelt von einem verschwundenen Mädchen.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1699201980"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1700545839",
+      "title": "Mörderische Gier (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-09-22",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/76/17/f4761758-6236-5dd7-5128-e7491706636a/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Geschichten aus den Tagebüchern von Dr. Watson, die typisch für klassische Kriminalhörspiele sind.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1700545839"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1708602199",
+      "title": "Grausame Fracht 1. Teil (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2023-10-13",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/3f/14/843f1435-ce40-1f92-e188-791ec8341001/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album des Sherlock Holmes Hörspiels mit Geschichten aus den Tagebüchern von Dr. Watson.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1708602199"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1719639725",
+      "title": "Der Mann im Wald 1. Teil (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2024-01-12",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/7c/67/e17c6710-3a40-5ed2-3ef8-5b578c08b38e/cover.jpg/100x100bb.jpg",
+      "description": "Ein Teil der Sherlock Holmes Hörspielreihe, basierend auf Dr. Watsons Tagebüchern.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1719639725"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1726619663",
+      "title": "Die verlorene Tochter (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2024-03-01",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/0a/4e/400a4ea9-4d1f-601d-a841-14f17dcd5e99/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album, das Sherlock Holmes und Dr. Watson beinhaltet, weist auf ein kriminalistisches Hörspiel hin.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1726619663"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1726628080",
+      "title": "Das Abenteuer der Bishop's Ruby (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2024-04-12",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/49/63/7349639c-5752-7251-826e-c2d9202eaeaf/cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspielalbum über Sherlock Holmes, das Geschichten aus den Tagebüchern von Dr. Watson erzählt.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1726628080"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1760356819",
+      "title": "Mord am Kings College (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2024-08-16",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/fb/d8/50fbd8b7-37ad-b24b-919b-385c300704f9/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel basierend auf Sherlock Holmes, das auf den Inhalten und dem Format als Hörspiel schließen lässt.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1760356819"
+      },
+      "chapters": []
+    },
+    {
+      "id": "6769052221",
+      "title": "Der vergiftete Kaffee (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
+      "episodeNumber": null,
+      "releaseDate": "2026-05-22",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/8b/d5/798bd524-da5d-dcfa-1afc-0619e72dd6ff/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Hörspiel 'Sherlock Holmes: Aus den Tagebüchern von Dr. Watson' über den vergifteten Kaffee.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "6769052221"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1554819941",
+      "title": "Sherlock Holmes – Die neuen Fälle, Fall 49: Die Jagd nach Mr. Hyde",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/25/d9/d925d969-29a4-1c86-aaf0-c828d1bf6bcf/4260507163110_3000.jpg/600x600bb.jpg",
+      "description": "Sherlock Holmes Sherlock Holmes, Kohlezeichnung von Sidney Paget, 1904 Sherlock Holmes [ˈʃɜ (ɹ).lɒk ˈhoʊ̯mz] ( ⓘ /?) ist eine 1886 vom britischen Schriftsteller Arthur Conan Doyle geschaffene Kunstfigur, die in seinen im späten 19. und frühen 20. Jahrhundert spielenden Romanen als Detektiv tätig ist.",
+      "totalDuration": 3889,
+      "platforms": {
+        "appleMusic": "1554819941"
+      },
+      "chapters": [
+        {
+          "id": "sh-nf49-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 93,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 185,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 278,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 370,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 463,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 556,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 648,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 741,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 833,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 926,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1019,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1111,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1204,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1296,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1389,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1482,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1574,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1667,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1759,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1852,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1944,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2037,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2130,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2222,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2315,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2407,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2500,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2593,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2685,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2778,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2870,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2963,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3056,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3148,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3241,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3333,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3426,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3519,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3611,
+          "duration": 93
+        },
+        {
+          "id": "sh-nf49-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3704,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf49-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3796,
+          "duration": 93
+        }
+      ]
+    },
+    {
+      "id": "1838480882",
+      "title": "Sherlock Holmes – Die neuen Fälle, Fall 59: Die Spatha des Zenturios",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/da/8b/eeda8be1-2604-e661-32c0-e3ee87ecb8a3/4260507210500_3000.jpg/600x600bb.jpg",
+      "description": "Sherlock Holmes Sherlock Holmes, Kohlezeichnung von Sidney Paget, 1904 Sherlock Holmes [ˈʃɜ (ɹ).lɒk ˈhoʊ̯mz] ( ⓘ /?) ist eine 1886 vom britischen Schriftsteller Arthur Conan Doyle geschaffene Kunstfigur, die in seinen im späten 19. und frühen 20. Jahrhundert spielenden Romanen als Detektiv tätig ist.",
+      "totalDuration": 4927,
+      "platforms": {
+        "appleMusic": "1838480882"
+      },
+      "chapters": [
+        {
+          "id": "sh-nf59-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 91,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 182,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 274,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 365,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 456,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 547,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 639,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 730,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 821,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 912,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1004,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1095,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1186,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1277,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1369,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1460,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1551,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1642,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1734,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1825,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1916,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2007,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2099,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2190,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2281,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2372,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2464,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2555,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2646,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2737,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2828,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2920,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3011,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3102,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3193,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3285,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3376,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3467,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3558,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3650,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3741,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 3832,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 3923,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 4015,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 4106,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 4197,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 4288,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 4380,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t50",
+          "title": "Teil 50",
+          "index": 49,
+          "startTime": 4471,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t51",
+          "title": "Teil 51",
+          "index": 50,
+          "startTime": 4562,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t52",
+          "title": "Teil 52",
+          "index": 51,
+          "startTime": 4653,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf59-t53",
+          "title": "Teil 53",
+          "index": 52,
+          "startTime": 4745,
+          "duration": 91
+        },
+        {
+          "id": "sh-nf59-t54",
+          "title": "Teil 54",
+          "index": 53,
+          "startTime": 4836,
+          "duration": 91
+        }
+      ]
+    },
+    {
+      "id": "1872163131",
+      "title": "Sherlock Holmes – Die neuen Fälle, Fall 60: Nervus Rerum",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/84/ca/0d84ca48-1f55-86a5-ba82-bd35121dfe56/4260507213044_3000.jpg/600x600bb.jpg",
+      "description": "... Holmes-Hörspielserie mit Rode und Groeger war immer deren Zusammenspiel, bereits bei den 60 Original-Fällen von Sir Arthur Conan Doyle, denen man ...",
+      "totalDuration": 3772,
+      "platforms": {
+        "appleMusic": "1872163131"
+      },
+      "chapters": [
+        {
+          "id": "sh-nf60-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 92,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 184,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 276,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 368,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 460,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 552,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 644,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 736,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 828,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 920,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1012,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1104,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1196,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1288,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1380,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1472,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1564,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1656,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1748,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1840,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1932,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2024,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2116,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2208,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2300,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2392,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2484,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2576,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2668,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2760,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2852,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2944,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3036,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3128,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3220,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3312,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3404,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3496,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3588,
+          "duration": 92
+        },
+        {
+          "id": "sh-nf60-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3680,
+          "duration": 92
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-27T17:31:06Z"
+}

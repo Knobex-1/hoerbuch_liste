@@ -1,0 +1,393 @@
+{
+  "seriesId": "bibi-blocksberg",
+  "title": "Bibi Blocksberg",
+  "language": "de",
+  "author": "Elfie Donnelly",
+  "narrator": "Susanne Pätzold",
+  "genres": [
+    "Hörspiel",
+    "Kinder & Jugend",
+    "Fantasy"
+  ],
+  "albums": [
+    {
+      "id": "1851429423",
+      "title": "Bibi Blocksberg – Das große Hexentreffen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/0e/f8/bb0ef83b-1d26-8081-2ca5-eaa9a23b6091/4033694563984.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx , die 1980 von Elfie Donnelly ins Leben gerufen wurde.",
+      "totalDuration": 4685,
+      "platforms": {
+        "appleMusic": "1851429423"
+      },
+      "chapters": [
+        {
+          "id": "bb-hexentreffen-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 91
+        },
+        {
+          "id": "bb-hexentreffen-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 541,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 631,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 721,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 811,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 901,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 991,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1081,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1171,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1261,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1351,
+          "duration": 91
+        },
+        {
+          "id": "bb-hexentreffen-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1442,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1532,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1622,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1712,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1802,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1892,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1982,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2072,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2162,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2252,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2342,
+          "duration": 91
+        },
+        {
+          "id": "bb-hexentreffen-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2433,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2523,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2613,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2703,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2793,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2883,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2973,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3063,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3153,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3243,
+          "duration": 91
+        },
+        {
+          "id": "bb-hexentreffen-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3334,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3424,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3514,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3604,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3694,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 3784,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 3874,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 3964,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 4054,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 4144,
+          "duration": 91
+        },
+        {
+          "id": "bb-hexentreffen-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 4235,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 4325,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t50",
+          "title": "Teil 50",
+          "index": 49,
+          "startTime": 4415,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t51",
+          "title": "Teil 51",
+          "index": 50,
+          "startTime": 4505,
+          "duration": 90
+        },
+        {
+          "id": "bb-hexentreffen-t52",
+          "title": "Teil 52",
+          "index": 51,
+          "startTime": 4595,
+          "duration": 90
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

@@ -1,0 +1,390 @@
+{
+  "seriesId": "bibi-und-tina",
+  "title": "Bibi und Tina",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1069096951",
+      "title": "Abenteuer mit den Wildpferden",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/31/19/1c/31191cbd-374a-1d55-c708-30d1b2b890a8/825646202249.jpg/100x100bb.jpg",
+      "description": "Ein Album mit 25 Tracks, das sich auf Abenteuer mit Wildpferden konzentriert und von Bibi und Tina gestaltet wurde. Es handelt sich um ein Hörspiel, das auf der Plattform Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069096951"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1652303452",
+      "title": "Adventskalender: Nick, der Schlittenhund",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/cf/05/a1cf057e-536c-e9bb-799e-5596374622af/5054197430077.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 26 Hörspiel-Episoden über den Adventskalender, die von den Charakteren Nick, dem Schlittenhund und Bibi und Tina erzählt werden.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1652303452"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1695746445",
+      "title": "BFF Talk - Talk 1: Starke Gefühle",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/6a/04/2e6a0437-f82a-2bd8-f3ed-7b3eabbf4489/5054197745706.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele und ist Teil der Bibi und Tina Serie.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1695746445"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1709086207",
+      "title": "BFF Talk - Talk 2: Rund ums Essen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/f4/08/a5f4086f-c682-e4fe-f889-92dcd878712f/5054197826603.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album von Bibi und Tina, das sich auf kulinarische Gespräche konzentriert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1709086207"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1737242263",
+      "title": "BFF Talk - Talk 3: Unsere Umwelt",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/52/ee/ed52eed3-2040-6018-77f3-7958f2e928ed/5021732264282.jpg/100x100bb.jpg",
+      "description": "Ein Hörspielalbum über Umweltfragen, von Bibi und Tina.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1737242263"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1752155921",
+      "title": "BFF Talk - Talk 4: Welt der Pferde",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/ba/12/4aba1274-e8ab-fe56-86d8-e7c395cf30ad/4033694525036.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Gespräche von Bibi und Tina über Pferde, typisch für Kinderhörspiele.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1752155921"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1761068614",
+      "title": "BFF Talk - Talk 5: Unsere Lieblingszeit",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/60/6b/d5606bac-72a0-e6d6-019b-4f05de44069b/4033694525050.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Hörspiel von Bibi und Tina über ihre Lieblingszeit. Es ist eine unterhaltsame und kindgerechte Erzählung.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1761068614"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1793679456",
+      "title": "BFF Talk - Talk 6: Coole Berufe",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/14/7f/81147ff7-017e-f770-b80d-6b9520482485/4033694525067.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von Bibi und Tina über coole Berufe, geeignet für Kinder und Jugendliche.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1793679456"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1821537532",
+      "title": "BFF Talk - Talk 7: Mal woanders",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/07/22/bc072218-9eb6-a6b8-3e83-754a455262c3/4033694525074.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von Bibi und Tina, das auf iTunes verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1821537532"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1842172635",
+      "title": "BFF Talk - Talk 8: Schöne Feste",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/a5/04/c7a50496-6dfd-6207-5e95-49422da76e34/4033694525081.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel von Bibi und Tina mit dem Titel 'BFF Talk - Talk 8: Schöne Feste', das auf Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1842172635"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1886742736",
+      "title": "BFF Talk - Talk 9: Unsere Hoftiere",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/3a/62/8f3a62d9-6501-5c41-5e52-9918a295329c/4033694525098.jpg/100x100bb.jpg",
+      "description": "Ein Album, das als Hörspiel von Bibi und Tina produziert wurde, das sich auf das Thema Hoftiere konzentriert. Es richtet sich an ein junges Publikum.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1886742736"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069218111",
+      "title": "Bibi & Tina - Pferdestarke Weihnachten!",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/98/2b/f7/982bf782-c008-5b66-588e-4408bd43a786/825646201983.jpg/100x100bb.jpg",
+      "description": "Ein deutscher Kinderhörspiel-Album mit Geschichten über Bibi und Tina.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069218111"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1038140389",
+      "title": "Das Original-Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/da/c2/c3/dac2c38c-56b8-054e-8a1e-422421f5cbe8/825646309849.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zum Kinofilm, was darauf hindeutet, dass es sich um ein Hörspiel handelt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1038140389"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1038094014",
+      "title": "Das Original-Hörspiel zum Kinofilm 2 - VOLL VERHEXT!",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/5b/40/1e/5b401e13-906d-b474-5f9d-6016e08f4ee8/825646149810.jpg/100x100bb.jpg",
+      "description": "Das Album enthält das Original-Hörspiel zum Kinofilm 'VOLL VERHEXT!', das von den Charakteren Bibi und Tina stammt. Es handelt sich um ein Hörspiel, das auf einer Filmadaption basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1038094014"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069061899",
+      "title": "Die falschen Weihnachtsmänner (Der Adventskalender zum Hören)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/25/12/aa/2512aa2a-cc3f-1945-69d1-c94cd54bab0f/825646198054.jpg/100x100bb.jpg",
+      "description": "Ein Adventskalender-Hörspiel mit Bibi und Tina, das Weihnachten thematisiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069061899"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069227597",
+      "title": "Ferienspaß mit Bibi und Tina (inkl. dem Lied \"Sommer, Sonne, Reiterglück\")",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/83/f1/1e/83f11e57-6823-3a18-91d9-d4efc8dd340c/825646243242.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das Kinder unterhaltsam mit Geschichten und Liedern begleitet. Es enthält Episoden und Songs, die für ein junges Publikum konzipiert sind.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069227597"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1577225954",
+      "title": "Getrennt auf heißer Spur! (Hörspiel-Special)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c1/f1/1b/c1f11b63-49d6-8b84-15f4-4ef9ad007253/190296527715.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele der beliebten Kinderbuch-Reihe 'Bibi und Tina' und ist somit ein Hörspiel-Special.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1577225954"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1201838457",
+      "title": "Hörspiel 4. Kinofilm: Tohuwabohu total",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/e5/fa/49/e5fa49e8-cc2e-37d6-ad62-d2c070d2798a/190295843373.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Tracks, die sich um den Kinofilm 'Tohuwabohu total' handeln. Es ist ein Hörspielalbum, das auf der Plattform Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1201838457"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1627600476",
+      "title": "Hörspiel 5. Kinofilm: Einfach Anders",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fe/3a/2a/fe3a2a4a-eb3d-56bd-b833-42bcf7093bd3/5054197193415.jpg/100x100bb.jpg",
+      "description": "Ein Hörspielalbum im Format von Bibi und Tina, das auf dem Kinofilm 'Einfach Anders' basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1627600476"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069544807",
+      "title": "Hörspiel zum 3. Kinofilm - Mädchen gegen Jungs",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/b6/5c/10b65c1f-6f99-28d8-3534-167baf532b3a/dj.yzhroopl.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Tracks basierend auf dem 3. Kinofilm 'Mädchen gegen Jungs' von Bibi und Tina.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069544807"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1502114406",
+      "title": "Hörspiele zur Serie (Staffel 1, Episode 1-5)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/f2/3d/83f23d23-e4f0-117e-89ae-d582d0ce0d20/190295249823.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele zur Serie von Bibi und Tina, die sich an ein junges Publikum richtet und typischerweise im Kinder- und Jugendbereich angesiedelt ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1502114406"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1502140682",
+      "title": "Hörspiele zur Serie (Staffel 1, Episode 6-10)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/9b/83/df9b83c7-d791-f7da-615a-ff0866bbaf7d/190295250034.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele aus der Serie 'Bibi und Tina' (Staffel 1, Episoden 6-10). Es handelt sich um ein Hörspielalbum, das auf einer bekannten Kinder-Serie basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1502140682"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1587137189",
+      "title": "Klangreise Nachts im Schloss (ASMR)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0e/29/56/0e295640-632c-92cf-d3aa-5b3ef2cb1626/190296430589.jpg/100x100bb.jpg",
+      "description": "Dieses Album umfasst 13 Tracks und ist im Genre Hörspiele unter dem Titel 'Klangreise Nachts im Schloss (ASMR)' von Bibi und Tina. Es handelt sich somit um ein Hörspiel-Album, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1587137189"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1612282219",
+      "title": "Klangreise auf dem Martinshof (ASMR)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/1b/e1/681be15a-5cd4-dc5d-5803-e92a77d9c17e/190296224720.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspielalbum von Bibi und Tina, das 9 Tracks umfasst und im Genre Hörspiele kategorisiert ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1612282219"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1570693983",
+      "title": "Klangreise im Falkensteiner Forst (ASMR)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/da/67/5eda67f3-16aa-4905-dc87-237e27d418ef/190296621666.jpg/100x100bb.jpg",
+      "description": "Dieses Album beinhaltet 16 Hörspiel-Tracks von Bibi und Tina im Genre ASMR, die im Falkensteiner Forst spielen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1570693983"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069116156",
+      "title": "Tiere im Wald (Das kleine Rehkitz & Bibi und Tina retten die Biber)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/f8/79/03/f87903c4-0da7-2b30-a68b-e51c5ea0af02/825646243259.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Tracks von Bibi und Tina, die in Deutschland populär sind. Es handelt sich um animierte Geschichten für Kinder, die oft im deutschen Hörspiel-Bereich vertreten sind.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069116156"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1483474819",
+      "title": "Viktoria und Sarina auf dem Martinshof",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/24/15/f7241530-f15a-7003-8712-9bc72b1d078c/190295329433.jpg/100x100bb.jpg",
+      "description": "Das Album \"Viktoria und Sarina auf dem Martinshof\" von Bibi und Tina ist ein Hörspiel, das sich an ein junges Publikum richtet und im Genre \"Kinder & Jugend\" angesiedelt ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1483474819"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474268624",
+      "title": "Zoff! (Live-Hörspiel)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/10/2c/8a/102c8a28-9a92-3316-f4dc-cc100b4adfa8/190295372415.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Live-Hörspiel von Bibi und Tina mit 53 Tracks im Hörspiel-Genre.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474268624"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069168860",
+      "title": "Zwei Abenteuer mit Fohlen Felix",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ba/ad/07/baad071f-23d4-9640-a3b4-8dd2eda1d5d0/825646243280.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 19 Hörspiel-Tracks mit Bibi und Tina, die sich auf Abenteuer mit Fohlen Felix konzentrieren. Es ist klar ein Hörspiel-Album, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069168860"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

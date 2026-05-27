@@ -21,7 +21,8 @@
         "Kinder & Jugend"
       ],
       "avg_track_duration_seconds": 80,
-      "enabled": true
+      "enabled": true,
+      "slug": "die-drei"
     },
     {
       "id_prefix": "tkkg",
@@ -40,7 +41,8 @@
         "Kinder & Jugend"
       ],
       "avg_track_duration_seconds": 95,
-      "enabled": true
+      "enabled": true,
+      "slug": "tkkg"
     },
     {
       "id_prefix": "bb",
@@ -55,7 +57,8 @@
         "Fantasy"
       ],
       "avg_track_duration_seconds": 90,
-      "enabled": true
+      "enabled": true,
+      "slug": "bibi-blocksberg"
     },
     {
       "id_prefix": "sh",
@@ -70,7 +73,8 @@
         "Thriller"
       ],
       "avg_track_duration_seconds": 92,
-      "enabled": true
+      "enabled": true,
+      "slug": "sherlock-holmes"
     },
     {
       "id_prefix": "ff",
@@ -85,7 +89,8 @@
         "Kinder & Jugend"
       ],
       "avg_track_duration_seconds": 115,
-      "enabled": true
+      "enabled": true,
+      "slug": "fuenf-freunde"
     },
     {
       "id_prefix": "kvdk",
@@ -100,7 +105,8 @@
         "Thriller"
       ],
       "avg_track_duration_seconds": 160,
-      "enabled": true
+      "enabled": true,
+      "slug": "krimis-von-der-kueste"
     },
     {
       "title": "Mark Brandis",
@@ -112,7 +118,8 @@
       ],
       "author": "Mark Brandis",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "mark-brandis"
     },
     {
       "title": "Star Wars",
@@ -124,7 +131,8 @@
       ],
       "author": "Star Wars",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "star-wars"
     },
     {
       "title": "Marco Göllner",
@@ -136,7 +144,8 @@
       ],
       "author": "Marco Göllner",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "marco-goellner"
     },
     {
       "title": "John Sinclair, Tonstudio Braun, Folge",
@@ -148,7 +157,8 @@
       ],
       "author": "Jason Dark",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "john-sinclair-tonstudio-braun-folge"
     },
     {
       "title": "Kampfmagischer Farmer",
@@ -161,7 +171,8 @@
       ],
       "author": "Seth Ring",
       "narrator": "Nicht angegeben",
-      "enabled": true
+      "enabled": true,
+      "slug": "kampfmagischer-farmer"
     },
     {
       "title": "Raumstation Alpha-Base",
@@ -173,7 +184,8 @@
       ],
       "author": "James Owen",
       "narrator": "James Owen",
-      "enabled": true
+      "enabled": true,
+      "slug": "raumstation-alpha-base"
     },
     {
       "title": "Die großen Meister des Horrors",
@@ -185,7 +197,8 @@
       ],
       "author": "Bram Stoker",
       "narrator": "Elfie Donnelly",
-      "enabled": true
+      "enabled": true,
+      "slug": "die-grossen-meister-des-horrors"
     },
     {
       "title": "Per Anhalter durch die Galaxis",
@@ -197,7 +210,8 @@
       ],
       "author": "Douglas Adams",
       "narrator": "Bill Oddie",
-      "enabled": true
+      "enabled": true,
+      "slug": "per-anhalter-durch-die-galaxis"
     },
     {
       "title": "Folge",
@@ -209,7 +223,8 @@
       ],
       "author": "Alfred Hitchcock präsentiert",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "folge"
     },
     {
       "title": "Planet Eden",
@@ -221,7 +236,8 @@
       ],
       "author": "Planet Eden",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "planet-eden"
     },
     {
       "title": "Zoomania",
@@ -233,7 +249,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "zoomania"
     },
     {
       "title": "Bibi und Tina",
@@ -245,7 +262,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "bibi-und-tina"
     },
     {
       "title": "Die Eiskönigin",
@@ -257,7 +275,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "die-eiskoenigin"
     },
     {
       "title": "Spidey Hörspiel",
@@ -269,7 +288,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "spidey-hoerspiel"
     },
     {
       "title": "Torsten Sträter",
@@ -281,7 +301,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "torsten-straeter"
     },
     {
       "title": "Kinder Kurzgeschichten, Kinder Hörbuch & Kinder Schlafgeschichten",
@@ -293,7 +314,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "kinder-kurzgeschichten-kinder-hoerbuch-kinder-schlafgeschichten"
     },
     {
       "title": "Hörbuch Manufaktur an der Elbe",
@@ -305,7 +327,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "hoerbuch-manufaktur-an-der-elbe"
     },
     {
       "title": "Conni",
@@ -317,7 +340,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "conni"
     },
     {
       "title": "Meine Freundin Conni",
@@ -329,7 +353,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "meine-freundin-conni"
     },
     {
       "title": "Benjamin Blümchen",
@@ -341,7 +366,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "benjamin-bluemchen"
     },
     {
       "title": "Sherlock Holmes - Die neuen Fälle",
@@ -353,7 +379,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "sherlock-holmes-die-neuen-faelle"
     },
     {
       "title": "Alea Aquarius & Tanya Stewner",
@@ -365,7 +392,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "alea-aquarius-tanya-stewner"
     },
     {
       "title": "Pettersson und Findus",
@@ -377,7 +405,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "pettersson-und-findus"
     },
     {
       "title": "Die Playmos",
@@ -389,7 +418,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "die-playmos"
     },
     {
       "title": "Robin Hood - Schlitzohr von Sherwood",
@@ -401,7 +431,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "robin-hood-schlitzohr-von-sherwood"
     },
     {
       "title": "Miraculous",
@@ -413,7 +444,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "miraculous"
     },
     {
       "title": "Yakari",
@@ -425,7 +457,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "yakari"
     },
     {
       "title": "Patrick Lynen",
@@ -437,7 +470,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "patrick-lynen"
     },
     {
       "title": "Traumreisen für Erwachsene und Kinder",
@@ -449,7 +483,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "traumreisen-fuer-erwachsene-und-kinder"
     },
     {
       "title": "Traumreisen für Kinder und Erwachsene",
@@ -461,7 +496,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "traumreisen-fuer-kinder-und-erwachsene"
     },
     {
       "title": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
@@ -473,7 +509,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "michelle-madow-fantasy-hoerbuecher-hoerbuch-bestseller"
     },
     {
       "title": "Kai Magnus Sting",
@@ -485,7 +522,8 @@
       ],
       "author": "",
       "narrator": "",
-      "enabled": true
+      "enabled": true,
+      "slug": "kai-magnus-sting"
     }
   ]
 }

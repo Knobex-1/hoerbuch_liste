@@ -1,0 +1,39 @@
+{
+  "seriesId": "spidey-hoerspiel",
+  "title": "Spidey Hörspiel",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1685958773",
+      "title": "02: Marvels Spidey und seine Super-Freunde (Das Original-Hörspiel zur Marvel TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/30/17/f3301714-5c89-a678-20f4-e75ae4f1af3f/4066339450202.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel der Marvel TV-Serie, das speziell für Kinder konzipiert ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685958773"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685979213",
+      "title": "03: Marvels Spidey und seine Super-Freunde (Das Original-Hörspiel zur Marvel TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/e6/ff/64e6ffc9-19a6-3dc9-7b8d-8d37fd9f9469/4066339450370.jpg/100x100bb.jpg",
+      "description": "Das Album enthält das Original-Hörspiel zur Marvel TV-Serie, speziell für Kinder.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685979213"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

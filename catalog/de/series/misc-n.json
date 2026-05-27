@@ -1,0 +1,102 @@
+{
+  "seriesId": "misc-n",
+  "title": "Weitere Titel (N–Z)",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [],
+  "albums": [
+    {
+      "id": "1706835490",
+      "title": "X-Mas Special 07: Die Weihnachtsbande",
+      "episodeNumber": null,
+      "releaseDate": "2023-12-01",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/d4/d5/0cd4d53c-bb6c-90a6-2a98-abdaab5c8348/4260507188847_3000.jpg/100x100bb.jpg",
+      "description": "Ein spezielles Weihnachts-Hörspiel mit einer Gruppe, die an einer besonderen Weihnachtsinitiative teilnimmt.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1706835490"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1841383806",
+      "title": "X-MAS SPECIAL 8: Krieg der Highlander - Erster Teil",
+      "episodeNumber": null,
+      "releaseDate": "2025-11-28",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/6c/de/0c6cde5b-1ef1-1e3d-7b5b-e10f2298eda6/4260507210821_3000.jpg/100x100bb.jpg",
+      "description": "Ein spezielles Weihnachtsalbum mit dem Titel 'X-MAS SPECIAL 8: Krieg der Highlander - Erster Teil', das von Sherlock Holmes Chronicles produziert wurde. Es umfasst 28 Hörspieltracks und gehört zum Genre Hörspiel.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1841383806"
+      },
+      "chapters": []
+    },
+    {
+      "id": "6768419023",
+      "title": "Tödliche Vorfreude",
+      "episodeNumber": null,
+      "releaseDate": "2025-12-19",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/e5/b5/cbe5b591-f907-d44f-79a7-440a3ec2d994/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Sammelalbum von Sherlock Holmes Hörspielen, die klassische Kriminalgeschichten um den berühmten Detektiv enthalten.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "6768419023"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1889575630",
+      "title": "Talent Award 2025 - Komplett",
+      "episodeNumber": null,
+      "releaseDate": "2026-04-09",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/d3/97/51d397d1-5370-c0bf-43f8-593254aca411/4066004911588_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das im Rahmen des Talent Award 2025 veröffentlicht wurde. Es enthält insgesamt 66 Tracks und wird im Genre Hörspiele angeboten.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1889575630"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069226142",
+      "title": "Schule macht Spaß",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/99/87/a7/9987a741-082e-a919-93e2-04c56a800579/825646221806.jpg/100x100bb.jpg",
+      "description": "Ein Hörspielalbum für Kinder, das unterhaltsame Geschichten für die jüngeren Zuhörer bietet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069226142"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1612104189",
+      "title": "Trio Fatale - Krimi-Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/47/f7/7847f7b4-1264-e977-153a-3165c7bd1626/cover_10217137.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Hörspiel, das als Krimi-Hörspiel von Kerstin Schreiber produziert wurde.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1612104189"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1848950107",
+      "title": "Und alle Teufel hier - Das Hörspiel  ( Atticus 4)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/72/1b/7a721bba-bc59-3651-fbb7-b9a9ec2f0b14/4069828784031_cover.jpg/100x100bb.jpg",
+      "description": "Das Album 'Und alle Teufel hier - Das Hörspiel (Atticus 4)' ist ein Hörspiel, das Thriller und Krimi Themen behandelt. Es könnte sich um ein fiktives Abenteuer handeln.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1848950107"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:31:06Z"
+}

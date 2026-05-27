@@ -1,0 +1,52 @@
+{
+  "seriesId": "torsten-straeter",
+  "title": "Torsten Sträter",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Comedy"
+  ],
+  "albums": [
+    {
+      "id": "1048939909",
+      "title": "Das Hörbuch - Live",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0f/62/89/0f628906-ecd4-681f-1c00-1c72749109d8/886445462524.jpg/100x100bb.jpg",
+      "description": "Ein Comedy-Album mit 19 Tracks, das typisch für Hörspiele konzipiert ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1048939909"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1283555354",
+      "title": "Das Hörbuch 2  - Der David ist dem Goliath sein Tod",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/84/2a/30/842a30b4-fa6e-3f0e-73cc-7d1ebbb7388f/886446688145.jpg/100x100bb.jpg",
+      "description": "Ein Comedy-Hörbuch über den Konflikt zwischen David und Goliath.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1283555354"
+      },
+      "chapters": []
+    },
+    {
+      "id": "705882326",
+      "title": "Selbstbeherrschung umständehalber abzugeben (Live)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/61/fb/f061fb2b-1303-4061-812e-728c99c7b517/886444071291.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Comedy-Stücke von Torsten Sträter, die typischerweise in Hörspielen oder Hörbüchern vorkommen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "705882326"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

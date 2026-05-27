@@ -1,0 +1,2249 @@
+{
+  "seriesId": "star-wars",
+  "title": "Star Wars",
+  "language": "de",
+  "author": "Star Wars",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1686045746",
+      "title": "01: Der Hinterhalt / Der Angriff der Malevolence (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/33/c4/b833c454-b176-5f75-df19-bcc5da060d72/4066339395770.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Szenen aus einer Star Wars-TV-Serie, bekannt für seinen Science-Fiction-Inhalt und Abenteuer. Es handelt sich um ein Hörspiel-Album.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686045746"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686357820",
+      "title": "01: Die jungen Jedi / Auf Mission für Meister Yoda / Das große Rennen / Das verschollene Jedi-Schiff (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/30/0a/d5300a84-983b-2c76-ebbd-df1e8b855924/4066339750777.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das junge Jedi auf Missionen begibt. Es enthält spannende Abenteuer und Elemente der Science-Fiction.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686357820"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685928078",
+      "title": "01: Gefährliche Ware / Kampf mit dem TIE-Jäger (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/bf/92/82bf92d1-590a-d023-74dd-a27ec3683123/4066339690752.jpg/100x100bb.jpg",
+      "description": "Ein Album von Star Wars Rebels mit 16 Tracks, das als Hörspiel zur Star Wars-TV-Serie dient.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685928078"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685927606",
+      "title": "02: Der Aufstieg der alten Meister / Ezra undercover (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/9b/2d/229b2da1-9eab-4906-daf5-9c766ac315d1/4066339690776.jpg/100x100bb.jpg",
+      "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie, das 17 Tracks umfasst und im Genre Science-Fiction und Abenteuer angesiedelt ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685927606"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686050985",
+      "title": "02: Der Schatten Der Malevolence / Die Zerstörung Der Malevolence (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/73/ad/b673ad3e-f18c-f272-24a7-c68a40217982/4066339395916.jpg/100x100bb.jpg",
+      "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie mit 38 Tracks.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686050985"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686364386",
+      "title": "02: Gute Besserung, Nubs! / Der Schrott-Gigant / Rettung im Schnee / Angriff der Trainingsdroiden (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/a0/5a/e7a05a4a-dbc8-202d-97c9-fce102ae5390/4066339750760.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Episoden aus der Star Wars-Serie, die speziell für Audiokonsum gedacht sind.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686364386"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686049009",
+      "title": "03: Rekruten / Der Fall eines Droiden (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/d0/48/d8d04892-b8b3-f8bd-6dba-476817fc2efd/4066339395909.jpg/100x100bb.jpg",
+      "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie, das die Handlung um Rekruten und einen droiden Fall thematisiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686049009"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685931870",
+      "title": "03: Verlassen / Der Tag des Imperiums (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/20/80/04/208004ba-b7d9-f2e4-d165-d9de5984e603/4066339689947.jpg/100x100bb.jpg",
+      "description": "Das Album ist das Original-Hörspiel zur Star Wars-TV-Serie Rebels.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685931870"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686045785",
+      "title": "04: Kampf der Droiden / Superheftig Jedi (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/ad/35/6ead35a7-79b1-cfa6-f305-2de0250f71d0/4066339395787.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686045785"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685922083",
+      "title": "04: Mit vereinter Macht / Der Weg der Jedi (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/f2/90/d1f2901e-68f3-7c54-2e52-7d5333955bba/4066339690547.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album mit 18 Tracks aus der Serie Star Wars Rebels.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685922083"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685926310",
+      "title": "05: Ein unfairer Deal / Die Stimme der Freiheit (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/37/42/bb374216-d59d-a308-09bb-daad96ad68bc/4066339690349.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Star Wars Rebels, das im deutschen Sprachraum produziert wurde.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685926310"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686045942",
+      "title": "05: Im Mantel der Dunkelheit / In den Fängen von Grievous (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/3c/75/193c7579-c60a-cb61-eb82-7c8e13ee4308/4066339395800.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel zur Star Wars-TV-Serie, das auf dem iTunes-Katalog verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686045942"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685927736",
+      "title": "06: Aufruf zum Widerstand / Die Rettungsmission (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/b3/ee/52b3ee27-e5a6-f079-69ea-01767bcd5d29/4066339690578.jpg/100x100bb.jpg",
+      "description": "Das Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das 18 Tracks umfasst und sich im Genre der Science-Fiction und Abenteuer bewegt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685927736"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686047415",
+      "title": "06: Die Ergreifung des Count / Der Freikauf (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/4a/55/954a5518-943e-3343-645d-b8e4c2df519d/4066339395831.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das auf Audiostreaming-Plattformen wie Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686047415"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686049400",
+      "title": "07: Die Bruchlandung / Die Verteidiger des Friedens (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/f3/1a/8ef31adf-9753-5c15-a200-a2d61bd84654/4066339395893.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Musik aus dem Hörspiel 'Die Bruchlandung / Die Verteidiger des Friedens', das eine Star Wars-TV-Serie begleitet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686049400"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685924525",
+      "title": "07: Galaxis in Flammen / Die Belagerung von Lothal (Teil 1 & 2) (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie Star Wars Rebels, welches den Titel '07: Galaxis in Flammen / Die Belagerung von Lothal' trägt. Es ist Teil einer Hörspielreihe, die sich in der Science-Fiction-Welt von Star Wars abspielt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685924525"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686051554",
+      "title": "08: Der Übergriff / Der unsichtbare Feind (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/07/2f/8f072f0c-4759-a650-d738-b0777e69f0b6/4066339395947.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel zur Star Wars-TV-Serie, das Fans des Franchises näher an die Handlung heranführt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686051554"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685931533",
+      "title": "08: Die verschollenen Krieger / Relikte der Alten Republik (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/4f/84/d14f8467-b1ef-ae41-45ad-52b41e59a305/4066339690431.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels', bestehend aus 18 Episoden im Hörspiel-Genre.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685931533"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686048484",
+      "title": "09: Das Virus / Das Geheimnis der Monde (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/b4/13/b8b41313-9ed7-aa47-5c64-8b1ef4deed54/4066339395855.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das auf spannenden Themen wie Virus und Weltraumfährten basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686048484"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685928890",
+      "title": "09: Doppelte Gefahr / Die Bruderschaft (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/82/72/5c82723f-f058-8481-8d8a-4100a89db709/4066339690769.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels'. Es enthält 17 Episoden und ist Teil der Hörspiel-Kategorie, die oft Kinder und Jugendliche anspricht.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685928890"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685928822",
+      "title": "10: Ein Meister seiner Kunst / Blutsschwestern (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/9b/71/289b7148-9c93-8758-d556-1394b6864dd6/4066339690660.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das das Original-Hörspiel zur TV-Serie 'Star Wars Rebels' enthält.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685928822"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686046422",
+      "title": "10: Sturm über Ryloth / Die Unschuldigen von Ryloth (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/fd/33/75fd33d4-e80e-b508-75af-8841c5a35be4/4066339395824.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Hörspiel-Tracks aus der Star Wars-Serie, gekennzeichnet durch den Originaltitel und das Genre 'Hörspiele'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686046422"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686045676",
+      "title": "11: Freiheit für Ryloth / Das Geiseldrama (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/00/2a/8b002a40-c29c-134f-a801-6e0b76d10209/4066339395954.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Die Klonkrieger'. Es enthält 49 Tracks und ist im Genre Hörspiel klassifiziert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686045676"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685929845",
+      "title": "11: Undercover beim Feind / Die Zukunft der Macht (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/ec/13/b9ec1324-b561-f855-1ae2-d3354deef719/4066339690615.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels', das sich in einem Science-Fiction-Universum spielt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685929845"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685926594",
+      "title": "12: Das Geheimnis des Gefangenen X10 / Eine Prinzessin auf Lothal (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/fc/f3/4cfcf33d-1729-bf50-a89e-9b2a58039f9d/4066339690332.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Tracks aus der Star Wars Rebels Serie, die auf Lothal spielen. Es ist kein traditionelles Musikalbum, sondern ein Original-Hörspiel zur Serie.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685926594"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685939464",
+      "title": "13: Der Beschützer von Concord Dawn / Die Legenden der Lasat (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/7d/54/1c7d5425-f37f-9b13-c129-9930a062c9ce/4066339690400.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das sich im Genre der Science-Fiction bewegt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685939464"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686046852",
+      "title": "13: Kinder der Macht / Spion des Senats (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/ef/c7/86efc73d-6003-52b8-3b53-aec151c2a1e9/4066339395794.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das sich auf eine futuristische Galaxie und interstellare Abenteuer konzentriert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686046852"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685927953",
+      "title": "14: Die Reise der Purrgils / Der Freiheitskämpfer (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/34/f9/4134f938-3b08-9057-ed56-2113ff45d882/4066339690790.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das als Hörspiel formatiert auf iTunes verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685927953"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686049957",
+      "title": "14: Kampf und Wettkampf / Die Waffenfabrik (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/ed/c1/79edc19e-44a5-d429-18a8-4f29a55348ce/4066339395930.jpg/100x100bb.jpg",
+      "description": "Das Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, bekannt für seine Science-Fiction-Elemente und intergalaktischen Abenteuer.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686049957"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685975659",
+      "title": "15: Eis und Ehre / Verborgene Dunkelheit (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/cf/42/a4cf42f8-9b01-984e-3fb8-4c3500841f1c/4066339690691.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Original-Hörspiel zur Star Wars-TV-Serie. Es gehört zur Hörspiel-Genre-Kategorie.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685975659"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686045238",
+      "title": "15: Vermächtnis des Terrors / Gehirn-Parasiten (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/b0/2b/24b02bbf-49b3-4a6c-8036-fd3f5ad6306d/4066339395978.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das sich in der Science-Fiction- und Abenteuergenre bewegt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686045238"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685930131",
+      "title": "16: Der vergessene Droide / Kampf um die Basis (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/f2/56/6af25693-da77-2c20-b3f8-6894de695114/4066339690622.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie Rebels. Es ist ein Hörspiel-Album, das Teil der Science-Fiction-Genre ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685930131"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686050497",
+      "title": "16: Grievous' Hinterhalt / Der Deserteur (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/ab/9c/75ab9ca8-c914-4b3a-fd71-42687d8cc281/4066339395961.jpg/100x100bb.jpg",
+      "description": "Ein Star Wars Hörspiel mit 36 Folgen, das in der Star Wars-TV-Serie spielt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686050497"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686048528",
+      "title": "17: Eine Lektion in Sachen Geduld / Verschwörung auf Mandalore (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/2f/63/6d2f63e6-4b41-8af5-c4d9-805e0f8a1833/4066339395879.jpg/100x100bb.jpg",
+      "description": "Ein Hörspielalbum basierend auf der Star Wars-Serie, mit 41 Tracks, das Geduld und Verschwörung thematisiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686048528"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686043579",
+      "title": "18: Reise der Versuchung / Die Herzogin von Mandalore (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/2b/45/e42b45c2-7ac5-1735-77bf-3725db5db5e8/4066339395923.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele aus der Star Wars-Serie, ein beliebtes Science-Fiction-Genre, das oft bei jungen Hörern beliebt ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686043579"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686046678",
+      "title": "19: Mord im Senat / Katz und Maus (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/65/45/48654594-2a14-0d01-f473-41167fddd310/4066339395817.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das auf iTunes verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686046678"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686047880",
+      "title": "20: Kopfgeldjäger / Das Zillo-Biest (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/16/6b/96166b0a-92df-48ff-eb8b-d08203955ba8/4066339395886.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das als Hörspiel produziert wurde.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686047880"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686049165",
+      "title": "21: Das Zillo-Biest schlägt zurück / Tödliche Falle (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/fa/a9/2afaa9e8-d802-ea86-117c-dc4a2f1cbc47/4066339395763.jpg/100x100bb.jpg",
+      "description": "Das Album enthält eine Star Wars Hörspielserie, die im Deutschsprachigen Raum veröffentlicht wurde.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686049165"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686047424",
+      "title": "22: Komm nach Hause, R2 / Auf Geiseljagd (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/12/c4/3512c4a8-d2c0-cf51-8220-a975e14e0f0e/4066339395862.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das als Hörspiel formatiert ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686047424"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686316695",
+      "title": "Dark Lord - Teil 2: Auf der Flucht vor dem Imperium",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/44/9e/b9449e88-ba93-d538-a7f5-c713b9658491/4057664075000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel aus der Star Wars-Serie, das Teil 2 von 'Dark Lord' darstellt. Es handelt sich um eine Fortsetzung in der Star Wars-Hörspielreihe, die Abenteuer und Science-Fiction Elemente umfasst.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686316695"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685927972",
+      "title": "Der Funke einer Rebellion (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/48/70/2748707c-9e54-115e-8393-02e585ac2cc7/4066339690516.jpg/100x100bb.jpg",
+      "description": "Ein Original-Hörspiel zur TV-Serie 'Star Wars Rebels', das auf einem Album veröffentlicht wurde.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685927972"
+      },
+      "chapters": []
+    },
+    {
+      "id": "158627474",
+      "title": "John Williams Conducts The Star Wars Trilogy",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Features/f9/a5/5f/dj.btarrfwu.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album mit Musik aus den Star Wars Filmen, nicht ein Hörspiel.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "158627474"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686317643",
+      "title": "Labyrinth des Bösen - Teil 1: Gunrays Geheimnis",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/e0/19/2be01972-44c9-ce56-d83e-7b4e9bad9a64/4057664074942.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel, das im Raumfahrt-Setting spielt, mit mysteriösen Ereignissen und Geheimnissen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686317643"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1494581798",
+      "title": "Lego Star Wars Rap - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6e/e5/ad/6ee5adfa-fac5-c869-6207-82c8bdc626c0/artwork.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1494581798"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1657240817",
+      "title": "Music from the Star Wars Saga",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/75/74/23/757423c5-8a47-39a1-a9a0-5574b1ee0d0f/13UADIM53256.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album mit Musik aus der Star Wars Saga, interpretiert von der Prager Philharmoniker-Orchester.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1657240817"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1440641159",
+      "title": "Phineas and Ferb Star Wars (Music from the TV Series) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/93/3f/5f933f01-abdf-57b6-0cc2-886c933213ab/00050087295981.rgb.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Soundtrack-EP aus der Fernsehsendung Phineas and Ferb mit Musik aus der Serie. Es enthält keine deutschen Hörspieltexte.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1440641159"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685835595",
+      "title": "Rogue One: A Star Wars Story (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/72/bb/83/72bb83d6-c16b-fde0-ebfd-9bc7f4adc91e/4064066834982_cover.jpg/100x100bb.jpg",
+      "description": "Ein Original-Hörspiel zur Star Wars-Verfilmung, umfasst 47 Tracks im Genre Hörspiel.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685835595"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1440650537",
+      "title": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/10/5c/81105c7f-007f-d9c4-188f-32914a52c877/00050087357566.rgb.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Soundtrack-Album für den Film 'Rogue One: A Star Wars Story'. Es enthält Musik aus dem Film und ist Teil der Star Wars-Franchise.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1440650537"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685823941",
+      "title": "Solo: A Star Wars Story",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/da/ad/c6daad6c-a222-6fbc-fc69-09863aa5a98a/4064066834975_cover.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685823941"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1385167706",
+      "title": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b3/87/36/b38736f1-bd60-283c-a8ab-623d184adf7c/00050087395735.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus dem Film 'Solo: A Star Wars Story'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1385167706"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1690693404",
+      "title": "Star Wars",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/93/59/3e9359d0-d598-cc28-a19b-b634befb782f/196871169462.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1690693404"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1559698408",
+      "title": "Star Wars",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/7d/3d/eb7d3d1a-f11f-9640-3be8-0d217829e91b/10590.jpg/100x100bb.jpg",
+      "description": "Ein Film-Soundtrack-Album von Star Wars, nicht direkt ein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1559698408"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1615526561",
+      "title": "Star Wars",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/d8/97/f1d897ce-edfe-9d81-6f89-a8608a05f90f/198001712579.png/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album zur Star Wars-Filmreihe.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1615526561"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1665211284",
+      "title": "Star Wars",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/a6/30/06a63070-3e79-d895-84cb-78ce0d280b53/82056.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1665211284"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1799011824",
+      "title": "Star Wars (80s Family Sitcom) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/8d/04/508d0476-e9ef-e971-6984-729e2e327f37/artwork.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1799011824"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1600298817",
+      "title": "Star Wars (Ben Vennard Remix) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/93/21/0d/93210deb-ec34-e816-b9ad-2aaba16d533c/cover.jpg/100x100bb.jpg",
+      "description": "Ein Remix-Album von Digital Masters und Ben Vennard im Dance-Genre mit Star Wars-Soundtrack.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1600298817"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1530513033",
+      "title": "Star Wars (Chopin Piano Cover) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/f2/85/8ef285fe-833d-73d5-6f5e-48d826deb748/859741827793_cover.jpg/100x100bb.jpg",
+      "description": "Ein Klavier-Cover-Album von Anderson Perceval, das bekannte Stücke aus der Star Wars-Franchise interpretiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1530513033"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1068488124",
+      "title": "Star Wars (Disco Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/55/6d/62/556d6235-066a-9c1d-0d6b-eafb288699db/cover.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album für den Film Star Wars, der im Disco-Stil interpretiert wird.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1068488124"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1866921116",
+      "title": "Star Wars (Epic Collection) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/10/e2/a010e21a-1f48-5d82-9336-5689fa435139/20260103_133514000_iOS.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1866921116"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1658045311",
+      "title": "Star Wars (Epic Collection, Vol. 1) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/74/8b/38/748b3816-b3bf-52c4-028e-9f8dc5cb5900/859768159198_cover.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1658045311"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1497737823",
+      "title": "Star Wars (Epic Main Title) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1c/d1/b7/1cd1b7c8-a040-c279-203b-5b5df320b47f/artwork.jpg/100x100bb.jpg",
+      "description": "Ein Sci-Fi-Soundtrackalbum der Epic Main Title aus Star Wars, produziert von Kim Vaz.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1497737823"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1336781372",
+      "title": "Star Wars (Force Theme Remix) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c0/ad/cd/c0adcd76-bf3b-1ffa-f4e2-f6dfa7695fb2/191924739388.jpg/100x100bb.jpg",
+      "description": "Ein Musikalbum mit elektronischem Remix des Star Wars-Themas, nicht ein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1336781372"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1616595645",
+      "title": "Star Wars (Main Theme from the Twentieth Century Fox Motion Picture \"Star Wars) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/29/54/da295497-0b90-a550-8434-c0fd3084eb67/3610152919890_cover.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album für den Film 'Star Wars', produziert von Hendrik Schwolow Brassquintett.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1616595645"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1529703497",
+      "title": "Star Wars (Main Theme) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/c7/a0/ebc7a02a-29e2-3778-4dee-d7877f76decc/artwork.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Musikstück mit dem Titel 'Star Wars (Main Theme)', aufgenommen von Less Gravity im Genre Downtempo. Es ist kein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1529703497"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1896033826",
+      "title": "Star Wars (Main Theme) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/fd/5d/76fd5d8e-63f1-b04a-4a44-17c28ba491bd/artwork.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Hauptthema von Star Wars, das im Metal-Genre angesiedelt ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1896033826"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1522711810",
+      "title": "Star Wars (Medieval/Bardcore Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f7/ee/9f/f7ee9fa9-59d1-5dfc-7399-8d61fa08433d/Star_Wars_-_Bardcore_Theme.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album für 'Star Wars', mit mittelalterlichem/bardcore-Thema. Keine deutschen Hörspiel-Elemente erkennbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1522711810"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1842430005",
+      "title": "Star Wars (No Light Left in the Force Tonight) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/fc/32/4bfc328e-200b-4b8d-e7b9-6b0e650fe091/artwork.jpg/100x100bb.jpg",
+      "description": "Ein Album mit Rockmusik, das sich auf die Star Wars-Reihe bezieht, jedoch keine Hörspielinhalte enthält.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1842430005"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1071626761",
+      "title": "Star Wars (Piano Solo) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ef/1a/af/ef1aaf6c-b37b-d37c-b0d0-ec74a3b362be/bbuc2.png/100x100bb.jpg",
+      "description": "Dieses Album ist ein Soundtrack-Album für die Star Wars-Filmreihe und enthält Klavierstücke aus den Filmen. Es ist kein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1071626761"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1605292291",
+      "title": "Star Wars (Remix) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/b7/dd/a2b7ddb0-5906-56e7-4cff-52692618c798/cover.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1605292291"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1745386902",
+      "title": "Star Wars (Restrung) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/ab/cf/52abcf9f-f079-b009-ecef-fa1c37b3c8dc/artwork.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Musik aus dem Film 'Star Wars' und gehört zur Kategorie des downtempo Genres.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1745386902"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1720050875",
+      "title": "Star Wars (The Force Theme - Slowed + Reverb) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/58/7d/4e587d50-fd74-0dcd-da51-4b866e1bd626/artwork.jpg/100x100bb.jpg",
+      "description": "Ein elektronischer Musik-Single-Titel mit 'Star Wars' Thema, nicht mit deutschen Hörspielinhalten.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1720050875"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1816146724",
+      "title": "Star Wars (The Force Theme / Across The Stars) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/98/c0/7b98c0b4-80fc-e33b-42d0-3ffc7d0ea686/artwork.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Musik aus dem Film Star Wars, der zu den Genres Science-Fiction und Abenteuer gehört.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1816146724"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1492573267",
+      "title": "Star Wars (The Force Theme) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b0/00/c7/b000c7dc-01c1-6ef9-c0b4-48b157c68b77/artwork.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1492573267"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1726866158",
+      "title": "Star Wars (The Force Theme) [lofi] - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8f/26/6d/8f266dc3-4c17-5d36-c09b-7d31490b75a5/artwork.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album mit dem Titel 'Star Wars (The Force Theme) [lofi]' von den Künstlern Less Gravity & Mipsick, klassifiziert als Hip-Hop/Rap.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1726866158"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1692037077",
+      "title": "Star Wars (The Rise of Skywalker Trailer) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/94/99/289499ac-a7f4-1425-ef59-3f098987ef7a/artwork.jpg/100x100bb.jpg",
+      "description": "Ein Soundtracker aus dem Film 'Star Wars: The Rise of Skywalker'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1692037077"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1735654464",
+      "title": "Star Wars (Theme) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/fa/61/cefa616d-a05d-5678-932c-504ff1042b42/MOBX0043.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Musikstück, das die 'Star Wars'-Themenmelodie enthält und gehört zum Genre der Hörspiele.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1735654464"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1448970444",
+      "title": "Star Wars (Trap Remix) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/a7/3e/2ba73e4b-bc54-0600-d462-464515dee545/XELMOB19007.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1448970444"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1067427118",
+      "title": "Star Wars (Violin Remix) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/81/7e/51/817e5189-60f2-a536-a198-80d9f807dc63/859716187662_cover.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1067427118"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1712028083",
+      "title": "Star Wars (Wedding Piano Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/1a/0c/331a0c04-5c8b-e4b2-aae5-9f6976d0708d/6450.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1712028083"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1767160714",
+      "title": "Star Wars (feat. FireproofTB) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/c0/69/92c069a4-7b2b-e4ed-6864-aa19b3d5d186/artwork.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1767160714"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1895323066",
+      "title": "Star Wars (the Force Theme) [Reloaded] - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/25/a1/3625a1d5-4a91-348d-3a0c-bdc9261bde2e/artwork.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1895323066"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1151963155",
+      "title": "Star Wars - A New Baroque",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/c2/fa/e4c2fa7a-56db-9e58-3630-02a6d8083001/190394838027.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1151963155"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1792885003",
+      "title": "Star Wars - Across the Stars (Epic Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/78/40/fc7840c2-c6c6-818a-09a6-7863d90148ea/5732.jpg/100x100bb.jpg",
+      "description": "Ein Instrumental-Album aus dem Star Wars-Universum, kein deutscher Hörspielinhalt bekannt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1792885003"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1522799281",
+      "title": "Star Wars - Across the Stars (Piano Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/9b/35/ee9b3584-c2a3-214f-7883-f44a866c042d/35fbe133-f98a-487c-a716-a653495b55c2.jpg/100x100bb.jpg",
+      "description": "Ein Film-Soundtrack-Album mit Musik aus Star Wars, produziert von Alex Gobbett.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1522799281"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1798703567",
+      "title": "Star Wars - Across the Stars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/3c/8a/353c8ac7-af31-070b-6c23-afeedb7e82ae/6151.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1798703567"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1082010313",
+      "title": "Star Wars - Cantina Band COUNTRY - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/70/5c/3c/705c3c83-003b-668e-d805-386341b25b26/M8mrn.png/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album von Star Wars, das von Mark The Hammer produziert wurde.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1082010313"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1231590183",
+      "title": "Star Wars - Classical Strikes Back",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/b5/6c/5b/b56c5b48-5b2f-b2a2-d276-00e0ec644e5e/191061590187.jpg/100x100bb.jpg",
+      "description": "Ein Album mit klassischer Musik, die Elemente der Star Wars-Reihe integriert. Es handelt sich nicht um ein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1231590183"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1067039709",
+      "title": "Star Wars - Darth Vader Theme (Metal) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9d/27/81/9d278127-8151-e760-7667-526987c2f552/artwork.jpg/100x100bb.jpg",
+      "description": "Ein Film-Soundtrack mit dem 'Star Wars' Darth Vader Theme von Mark The Hammer.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1067039709"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1389141163",
+      "title": "Star Wars - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/19/25/60/192560ff-3b2e-2165-cf14-1eb557681ddd/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Musikalbum mit House-Genre und ist nicht mit einem deutschen Hörspiel oder Hörbuch identifizierbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1389141163"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1703217800",
+      "title": "Star Wars - Epic Legion I",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/17/db/fb/17dbfbf6-ee1f-9cd4-0d52-543e8f215d41/1204.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1703217800"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1706808978",
+      "title": "Star Wars - Epic Legion III",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/67/08/2467085d-c5ee-8658-a3cd-35cc3f42fbc9/1289.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1706808978"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1798703532",
+      "title": "Star Wars - Imperial March (Emotional Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/a4/30/eca430d7-7c0f-a031-90b8-271f6856093e/6149.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist eine musikalische Aufnahme der 'Imperial March' aus dem Star Wars-Universum, bekannt für seine ikonischen Klänge und nicht für deutsche Hörspielinhalte.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1798703532"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1817599556",
+      "title": "Star Wars - Main Theme (Epic Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/e9/69/89e9697e-ed86-7941-73f8-df33b224ebc3/7197.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus dem Film 'Star Wars', der nicht auf deutschen Hörspieltraditionen basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1817599556"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1095486677",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/7e/62/9c7e622e-43e6-a24b-66ec-9d64640bdb34/Starwars-London-Symphony--.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Musik aus dem Star Wars Universum und ist kein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1095486677"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1603265666",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/01/aa/62/01aa62ce-596f-96a3-0309-6c90233f2060/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Musikstück aus dem Genre Maghreb, Hip‑Hop mit dem Titel 'Star Wars - Single' von A.L.A.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1603265666"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1730690023",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/e8/82/0ce882cb-f724-2571-1d10-81be1e3e02bd/3615935004497_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Trance-Album mit dem Titel 'Star Wars - Single' von Side Effects und enthält nur einen Track. Es ist nicht mit Hörspielen oder Hörbüchern zu vergleichen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1730690023"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1551527798",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/a0/b7/96a0b72f-58d3-47d7-45de-0dd30f4b580d/artwork.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1551527798"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1833016668",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/f8/88/5bf8883f-7e35-fc30-46b8-bb1b389e9eac/057829267398.png/100x100bb.jpg",
+      "description": "Dieses Album ist eine Single von Laura Sullivan im Star Wars-Genre, nicht ein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1833016668"
+      },
+      "chapters": []
+    },
+    {
+      "id": "939738341",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/42/07/24/4207249f-cc26-b22f-eb1d-86431184e1e5/zyEu7.png/100x100bb.jpg",
+      "description": "Dieses Album ist ein musikalischer Soundtrack zu Star Wars.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "939738341"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1794491470",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/d4/ed/00d4edb1-00f6-d2df-c1af-a2699aa036c4/8435799008913.png/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1794491470"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069234328",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/12/1c/23/121c23f7-4ba8-8072-3831-408bbdfad9df/COVER-_CHEETAH_DS.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069234328"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1577541613",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/67/82/4f67822e-66a8-d7c0-ba3a-9e6981b4c14e/720665691695_cover.jpg/100x100bb.jpg",
+      "description": "Ein Musikalbum mit Star Wars-Themen im Genre Hip-Hop/Rap von Tay Krew.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1577541613"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1234133175",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/29/87/0a/29870a40-4daa-d732-f95c-1b5c3ade5dc9/cover.jpg/100x100bb.jpg",
+      "description": "Ein Musikalbum mit Trance-Musik inspiriert von Star Wars, keine deutschen Hörspiel-Elemente enthalten.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1234133175"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1469469665",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b8/dd/e0/b8dde00a-b135-6cbb-2520-a8949df87678/artwork.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Musikalbum mit House-Genre, das Teil der Star Wars-Reihe ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1469469665"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1782578149",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/cb/33/2bcb335f-3807-ba8c-d954-0218fdd4fee3/644401365650.png/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1782578149"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1621849225",
+      "title": "Star Wars - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/eb/3c/7deb3c43-b411-733d-2c9e-5f01883f917f/cover.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1621849225"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1679440727",
+      "title": "Star Wars - The Cantina Band (Trap Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/53/a6/d053a658-a85d-b740-6b8e-e11d4339b551/197368629742_cover.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1679440727"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1550599559",
+      "title": "Star Wars - The Force Awakens (Suite for Orchestra) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/23/ea/12/23ea1210-75fd-2d49-f368-baa2da8a71d4/195497731732.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album der Film-Suite 'Star Wars' von Kevin Griffiths für das Orchester City Light Symphony Orchestra.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1550599559"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1818079532",
+      "title": "Star Wars - The Force Theme (Epic Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/04/9b/68049b8b-a537-e0e4-f32c-1cbb14992534/7217.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist eine musikalische Interpretation des 'Star Wars'-Soundtracks, nicht ein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1818079532"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1679440615",
+      "title": "Star Wars - The Imperial March (Trap Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/95/61/16956102-0811-5f14-4386-610cdbf0b041/197368629766_cover.jpg/100x100bb.jpg",
+      "description": "Ein Musikstück aus dem Star Wars-Universum im Bass-Genre.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1679440615"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1171884496",
+      "title": "Star Wars - The Imperial March Theme - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ae/be/67/aebe6703-51c3-c69d-b765-41681ad624d9/191079143856_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält die berühmte Filmmusik 'The Imperial March' von Star Wars, die von Geek Music produziert wurde. Es ist ein Soundtrack für den Film und nicht ein Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1171884496"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1786869148",
+      "title": "Star Wars : Seperatist Droid Army March (EPIC VERSION) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/94/0e/58940e59-3d2c-4d37-3b69-f8ca164fd7c5/artwork.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1786869148"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1449947750",
+      "title": "Star Wars Cantina Band (Trap Remix) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/66/fc/a3/66fca3ef-6c6f-d7b1-d6dd-e0d1ab45ac53/XELMOB19030.jpg/100x100bb.jpg",
+      "description": "Ein Musik-Album von Trap Remix Guys mit Star Wars Cantina Band Remix im Genre Soundtracks.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1449947750"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1440637885",
+      "title": "Star Wars Headspace",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3e/e6/ce/3ee6cea8-c205-f37c-4731-9665dd95e2e1/00050087343361.rgb.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1440637885"
+      },
+      "chapters": []
+    },
+    {
+      "id": "891219399",
+      "title": "Star Wars Imperial March - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/4d/65/7f/4d657f86-320b-9d9b-3122-67f86d29fdf7/10919100.jpg/100x100bb.jpg",
+      "description": "Ein Instrumental-Musikstück aus dem Star Wars-Universum, bekannt für seine epischen Themen und Melodien.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "891219399"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1502368771",
+      "title": "Star Wars Main Theme (Piano Version) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/60/bf/45/60bf4580-a9a7-3534-166d-be4f25d8d02c/artwork.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1502368771"
+      },
+      "chapters": []
+    },
+    {
+      "id": "686297574",
+      "title": "Star Wars Medley - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/6c/26/ff/6c26ff8b-69bd-d9fa-0b49-2f869acc56ca/starwars-8-flat_color-13.jpg/100x100bb.jpg",
+      "description": "Ein Musikalbum mit einer Star Wars Medley von Lindsey Stirling und Peter Hollens, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "686297574"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1764587520",
+      "title": "Star Wars Outlaws (Original Video Game Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/61/84/7a6184a1-2e67-31c0-95e0-8266d28d6ad7/24UMGIM89725.rgb.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Soundtrack für ein Videospiel und enthält keine deutschen Sprachtracks oder Merkmale eines deutschen Hörspiels.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1764587520"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1679476760",
+      "title": "Star Wars Sleep Piano - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/8e/cf/208ecfe5-e74c-c156-ffe2-91980c27b5b8/97214.jpg/100x100bb.jpg",
+      "description": "Das Album 'Star Wars Sleep Piano - EP' von Frozen Silence ist ein Musikprojekt, das Elemente aus der Star Wars-Franchise mit Klaviermusik kombiniert. Es ist nicht ein Hörspiel oder ein Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1679476760"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1068660640",
+      "title": "Star Wars in 99 Seconds - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/fa/1b/2afa1bcf-6935-47d8-2a82-bfdaa6e2741e/859716196770_cover.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1068660640"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1566421503",
+      "title": "Star Wars the Bad Batch - End Credits Theme (From \"Star Wars the Bad Batch\") - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/e3/4c/eae34c38-941e-8798-43b0-7af30dea7ede/192650773844_cover.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album zur Serie 'Star Wars the Bad Batch', Teil der Science-Fiction-Genre.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1566421503"
+      },
+      "chapters": []
+    },
+    {
+      "id": "458870117",
+      "title": "Star Wars, Episode I: The Phantom Menace (The Ultimate Edition)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/c6/7d/0d/mzi.uneltcdw.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album für den Film Star Wars: Episode I - Das Phantom Menace.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "458870117"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1375814280",
+      "title": "Star Wars: A New Hope (Original Motion Picture Score)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/29/1c/17/291c1798-5d54-9b64-4b89-a19805cec0f8/18UMGIM22119.rgb.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält die Filmmusik aus dem Star Wars-Film 'A New Hope'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1375814280"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685823076",
+      "title": "Star Wars: Angriff der Klonkrieger",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/fb/e6/44fbe6e4-602f-ee21-cf32-10318e6b2a3d/4064066834968_cover.jpg/100x100bb.jpg",
+      "description": "Ein Album, das als Hörspiel von Star Wars veröffentlicht wurde, umfasst 45 Tracks und fällt eindeutig unter das Genre der Science-Fiction, da es Teil der Star Wars-Reihe ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685823076"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1376606725",
+      "title": "Star Wars: Angriff der Klonkrieger (Original Film-Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fe/ea/b3/feeab3a8-ac46-ef00-98f1-c52af19728e7/00050087389611.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus dem Film 'Star Wars: Angriff der Klonkrieger'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1376606725"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685824407",
+      "title": "Star Wars: Das Erwachen der Macht",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/bb/f1/5bbbf10e-b5a5-dba4-ced9-82fcab7b29d4/4064066834944_cover.jpg/100x100bb.jpg",
+      "description": "Ein Album von Star Wars mit Hörspiel-Tracks, das auf der Apple Music-Plattform verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685824407"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685826235",
+      "title": "Star Wars: Das Imperium schlägt zurück (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/d5/2b/dbd52b22-5c88-9584-3891-ebaf533ba390/4064066834937_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zu Star Wars: Das Imperium schlägt zurück, ein bekanntes Hörspiel aus der Star Wars-Reihe.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685826235"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1376701498",
+      "title": "Star Wars: Das Imperium schlägt zurück (Original Film-Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/5a/4d/345a4d18-68d1-c4ae-71d6-298a2a840afe/18UMGIM17568.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus dem Film 'Star Wars: Das Imperium schlägt zurück', bekannt für seine ikonische Filmmusik von John Williams.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1376701498"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685827448",
+      "title": "Star Wars: Der Aufstieg Skywalkers",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/31/8c/de318cc7-440b-a538-d28f-d5ec7f1bec8b/4064066834920_cover.jpg/100x100bb.jpg",
+      "description": "Das Album ist ein Hörspiel aus der Star Wars Serie, das auf einem populären Science-Fiction Universum basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685827448"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1491572513",
+      "title": "Star Wars: Der Aufstieg Skywalkers (Original Film-Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/e4/4a/52e44aa3-389c-b0ab-2193-0e11aee99a2e/19UM1IM12289.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus dem Film Star Wars: Der Aufstieg Skywalkers von John Williams, der bekannte Film-Soundtrack-Musik enthält.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1491572513"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685824311",
+      "title": "Star Wars: Die Dunkle Bedrohung",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/8c/dd/158cdd9b-66fd-9525-f1b1-8a9d207c76d6/4064066834951_cover.jpg/100x100bb.jpg",
+      "description": "Ein Star Wars Hörspiel mit 43 Tracks, das die Handlung der dunklen Bedrohung erforscht.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685824311"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1376601333",
+      "title": "Star Wars: Die Dunkle Bedrohung (Original Film-Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cf/39/d9/cf39d963-941f-6b77-2c90-da4eb176f3b0/00050087390310.rgb.jpg/100x100bb.jpg",
+      "description": "Soundtrack des Films Star Wars: Die Dunkle Bedrohung von John Williams.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1376601333"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685824894",
+      "title": "Star Wars: Die Letzten Jedi",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4f/e5/a7/4fe5a73a-68c4-a8ae-8f9b-bd8663654e38/4064066834913_cover.jpg/100x100bb.jpg",
+      "description": "Dies ist ein Soundtrack für den Film Star Wars: Die Letzten Jedi, der zur Science-Fiction-Genre gehört.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685824894"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1440722381",
+      "title": "Star Wars: Die Letzten Jedi (Original Film-Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f3/95/02/f3950218-fc47-93d3-b38e-063c2e8e4e65/00050087382117.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album für den Film 'Star Wars: Die Letzten Jedi' von John Williams, das klassische Filmmusik enthält.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1440722381"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685825628",
+      "title": "Star Wars: Die Rache der Sith",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/9f/38/2a9f382b-783c-b5b3-72da-10350da5a77a/4064066834906_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel-Album mit dem Titel 'Star Wars: Die Rache der Sith' von Star Wars, bestehend aus 48 Tracks im Genre Hörspiel.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685825628"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1376633662",
+      "title": "Star Wars: Die Rache der Sith (Original Film-Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/14/7b/2e/147b2e0b-efd4-8d6c-d041-d27501d75c3b/00050087389857.rgb.jpg/100x100bb.jpg",
+      "description": "Dieser Soundtrack begleitet den Film Star Wars: Die Rache der Sith mit musikalischen Kompositionen von John Williams.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1376633662"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685825577",
+      "title": "Star Wars: Die Rückkehr der Jedi-Ritter",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/d4/2f/cdd42f8a-90a7-a495-aa6d-878eaf1755aa/4064066834890_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album aus der Star Wars-Reihe, das auf den Hörer zugeschnitten ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685825577"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1376675765",
+      "title": "Star Wars: Die Rückkehr der Jedi-Ritter (Original Film-Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/08/13/420813db-3aa0-affe-e16a-833a6614ca4c/18UMGIM17582.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrackalbum für den Film Star Wars: Die Rückkehr der Jedi-Ritter von John Williams.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1376675765"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685814507",
+      "title": "Star Wars: Eine neue Hoffnung",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/37/ba/e437bab5-4629-a13f-84ff-5a4a19f607a5/4064066834883_cover.jpg/100x100bb.jpg",
+      "description": "Ein Album aus dem Star Wars Film, bekannt für Abenteuer und Sci-Fi Elemente.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685814507"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1376650128",
+      "title": "Star Wars: Eine neue Hoffnung (Original Film Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/2f/fe/742ffe5a-7ba5-cd40-c46b-aee4934e19ec/18UMGIM17538.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus dem Film Star Wars: Eine neue Hoffnung, komponiert von John Williams, enthält ikonische Filmmusik aus der epischen Filmreihe.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1376650128"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1654773391",
+      "title": "Star Wars: Epic Collection (Cover) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/40/03/f0/4003f0da-fde5-2f55-b0a2-b245cf33b245/494.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1654773391"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1654773436",
+      "title": "Star Wars: Epic Collection Vol, 4 (Cover) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/5c/0a/4a/5c0a4a43-47cc-7a7c-63f7-c69bc5edbcda/498.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1654773436"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1654772349",
+      "title": "Star Wars: Epic Collection, Vol. 2 (Cover) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b8/99/32/b89932e3-90c9-71b6-e4dd-ff86e112e4a0/496.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1654772349"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1654778248",
+      "title": "Star Wars: Epic Collection, Vol. 3 (Cover) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bf/5b/cc/bf5bcc27-472b-7997-8ba6-61673752c993/497.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Musikstück aus der Star Wars-Serie und gehört zum Genre New Age, nicht zu einem deutschen Hörspiel.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1654778248"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1706138485",
+      "title": "Star Wars: Epic Legion II",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/7e/98/407e9851-98f3-b00c-d2f6-92d1956cf577/1265.jpg/100x100bb.jpg",
+      "description": "Ein Instrumental-Album mit Musik aus dem Star Wars Universum.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1706138485"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1460749004",
+      "title": "Star Wars: Galaxy's Edge Symphonic Suite (Music Inspired by the Disney Themed Land) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/96/75/2a/96752aa7-7872-f87e-ab0b-512f915f5d92/19UMGIM38284.rgb.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Soundtrack-Album inspiriert von dem Disney-Themenland Galaxy's Edge. Es enthält Musik von John Williams.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1460749004"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1894095517",
+      "title": "Star Wars: Maul - Shadow Lord (Original Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/40/f0/8440f0bc-deb7-26f3-c57f-6d3257a5b1f1/26UMGIM42457.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack zu Star Wars: Maul - Shadow Lord.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1894095517"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1656982100",
+      "title": "Star Wars: Medieval Collection (Cover) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/ac/e7/18ace7f3-9fcf-4fef-33ff-3e561be39b5e/505.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Musikstück aus der Star Wars-Medieval Collection EP von Samuel Kim im Genre New Age.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1656982100"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1653819770",
+      "title": "Star Wars: Medieval Collection, Vol. 2 (Cover) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/fc/06/f7fc06ef-2b83-23ea-6ed9-b48f030385df/551.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1653819770"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1375817940",
+      "title": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/f1/07/2ff107f8-ecae-467a-414f-15ea04e8c922/18UMGIM22125.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album für den Film 'Star Wars: Return of the Jedi' von John Williams.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1375817940"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1653814463",
+      "title": "Star Wars: Reylo Love Theme (Cover) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b3/99/7b/b3997bb2-d6a0-ef0f-4a08-09de12be85d3/549.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1653814463"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1651282776",
+      "title": "Star Wars: Tales of the Jedi (Original Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/64/98/f8649818-de78-54fa-e9fb-f78032bd4c67/22UM1IM18739.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus der Star Wars-Reihe, das verschiedene Szenen und Geschichten begleitet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1651282776"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1572518698",
+      "title": "Star Wars: The Bad Batch - Vol. 1 (Episodes 1-8) [Original Soundtrack]",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/41/6a/37/416a3748-a010-2592-4cce-b743d48bb5f5/21UMGIM53656.rgb.jpg/100x100bb.jpg",
+      "description": "Soundtrack-Album für die Star Wars-Serie The Bad Batch, enthält Musik aus den Episoden 1-8.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1572518698"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1547490490",
+      "title": "Star Wars: The Clone Wars (Original Motion Picture Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/25/ba/f125ba5d-4be2-2595-571e-779597550019/20UM1IM17119.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack zu einem Film aus der Star Wars-Franchise, der im Star Wars-Universum spielt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1547490490"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1440806870",
+      "title": "Star Wars: The Clone Wars (Seasons One Through Six / Original Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/c6/4b/1fc64b83-0c62-0d63-3390-0c20013551a7/00050087317409.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus der Star Wars: The Clone Wars Serie, der musikalische Elemente aus den Episoden umfasst.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1440806870"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1501267758",
+      "title": "Star Wars: The Clone Wars - The Final Season (Episodes 1-4) [Original Soundtrack]",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/fa/db/75fadb2b-823a-9372-9592-b019bb3aeea6/20UMGIM14761.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album der Star Wars Serie, nicht ein Hörspiel.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1501267758"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1509118486",
+      "title": "Star Wars: The Clone Wars - The Final Season (Episodes 9-12) [Original Soundtrack]",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/19/95/aa199526-adca-edc4-584d-4d4ed466243f/20UMGIM29802.rgb.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist der Original Soundtrack für die Filmserie Star Wars: The Clone Wars, der die finalen Episoden der Serie enthält.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1509118486"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515596640",
+      "title": "Star Wars: The Clone Wars Tribute - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0c/b8/46/0cb846bb-e654-35a3-c663-51a2a1cd68f3/9b11245d-8e95-4237-94b6-e864923d2dee.jpg/100x100bb.jpg",
+      "description": "Ein Instrumentalalbum aus der Star Wars-Serie, passend für Hörspiele oder Film-Soundtracks.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515596640"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1654772193",
+      "title": "Star Wars: The Dark Side Collection (Cover) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/24/58/be/2458beaa-7413-b9ef-37e0-640ed887dec1/491.jpg/100x100bb.jpg",
+      "description": "Ein Album mit New Age Musik von Samuel Kim, Teil der Star Wars Sammlung.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1654772193"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1375815586",
+      "title": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/5d/af/0a5daf0f-34f0-6413-9b8c-fe668663b3dd/18UMGIM22122.rgb.jpg/100x100bb.jpg",
+      "description": "Soundtrack zur Star Wars-Filmreihe, bekannt für epische Musik und Sci-Fi-Handlung.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1375815586"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1440634745",
+      "title": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/4e/44/a14e44cf-60a2-4a81-807b-0b6813fbfc34/00050087340377.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album mit Musik aus dem Film 'Star Wars: The Force Awakens'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1440634745"
+      },
+      "chapters": []
+    },
+    {
+      "id": "6768789718",
+      "title": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/a6/be/53a6be68-0c91-94ff-33d6-7b1408b91b5c/26UMGIM56508.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack aus dem Film 'Star Wars: The Mandalorian and Grogu'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "6768789718"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1487893975",
+      "title": "Star Wars: The Rise of Skywalker (Main Trailer Theme) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ed/86/07/ed86073d-761f-4f29-26ee-9c341b128ec3/1941520447878.png/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album zur Star Wars-Filmreihe, nicht ein deutsches Hörspiel oder Hörbuch.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1487893975"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1491567956",
+      "title": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/10/ea/4c/10ea4c78-3858-c413-378e-6dbeaa6f472f/19UM1IM12282.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack zu einem Star Wars Film, der Instrumentalmusik enthält.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1491567956"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1710942237",
+      "title": "Star Wars: The Rise of Skywalker (Trailer Theme) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/97/36/b5973617-29a6-fa1d-ceaa-ccb48f7bf9a0/6407.jpg/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album aus dem Star Wars-Universum, der zur Fortsetzung 'The Rise of Skywalker' gehört.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1710942237"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1654772358",
+      "title": "Star Wars: The Rise of Skywalker Epic Tribute (Cover) - EP",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/67/09/1b/67091b70-8101-1df5-7a3b-93156e3c460d/487.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1654772358"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1654019395",
+      "title": "Star Wars: The Rise of Skywalker Tribute - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/1a/9c/6a1a9ce4-bca1-bf22-2d90-905499555926/194871868613.png/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album mit New Age Musik aus dem Star Wars Film-Franchise.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1654019395"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686055282",
+      "title": "Teil 1: Die letzten Stunden der Klon-Kriege (Dark Lord)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ec/c9/6aecc9f3-d5af-4f81-51eb-4b8690e9918c/4057664075192.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist Teil einer Hörspiel-Serie über die Klon-Kriege im Star Wars Universum.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686055282"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686055714",
+      "title": "Teil 3: Angriff auf Coruscant (Labyrinth des Bösen)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/15/13/7f/15137f15-7a18-30e5-ee25-7b04f22ee10a/4057664075116.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist Teil einer Fortsetzung eines beliebten Science-Fiction-Universums und entspricht typischerweise den Genres Hörspiel und Abenteuer.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686055714"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1777864455",
+      "title": "The Imperial March (From \"Star Wars: The Empire Strikes Back\") [Live] - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/01/52/860152a5-1176-071d-56c7-6827cca14c29/24UMGIM73089.rgb.jpg/100x100bb.jpg",
+      "description": "Ein Klassik-Album von Boston Symphony Orchestra & John Williams mit Musik aus dem Film 'Star Wars: The Empire Strikes Back'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1777864455"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1440726249",
+      "title": "The Star Wars Trilogy: Return of the Jedi / The Empire Strikes Back / Star Wars",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/04/76/ae/0476ae28-a4f5-a8e7-e287-3832c8de60cd/00030206742121.rgb.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Soundtracks für die Filme Star Wars: Der Rückkehr der Jedi, Der Angriff der Klonkrieger und Star Wars.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1440726249"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1494870356",
+      "title": "cantina band ~ star wars lofi (feat. Tanoshi) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/d5/62/b8d5627e-8a31-f2aa-db7e-0184c9e77e83/artwork.jpg/100x100bb.jpg",
+      "description": "Ein Musikprojekt mit dem Titel 'cantina band ~ star wars lofi (feat. Tanoshi)' von Closed on Sunday im Genre Hip-Hop/Rap.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1494870356"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}

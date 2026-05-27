@@ -1,0 +1,117 @@
+{
+  "seriesId": "die-eiskoenigin",
+  "title": "Die Eiskönigin",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1644678314",
+      "title": "Die Eiskönigin",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/6e/f5/ab6ef58e-b97d-4dc2-5de1-8b0abcbc701a/cover_4062851751650.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel 'Die Eiskönigin' von Nachtfuchs im Genre Hörspiele, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1644678314"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685955280",
+      "title": "Die Eiskönigin - Völlig Unverfroren (Hörspiel zum Disney Film)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/08/3c/43083cfb-d8cb-9394-eed5-fef917f46a67/4066339450424.jpg/100x100bb.jpg",
+      "description": "Das Album ist ein Hörspiel zur Adaption des Disney Films 'Die Eiskönigin'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685955280"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686159550",
+      "title": "Die Eiskönigin - Zauber der Polarlichter (Hörspiel zum TV-Special)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/40/a8/5240a80d-2a00-913a-6f2e-7b685f5a9799/4066339483620.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Hörspiel basierend auf dem Disney-Film Die Eiskönigin, das mit Polarlichtern und Zauber thematisiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686159550"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685960973",
+      "title": "Die Eiskönigin 2 (Das Original-Hörspiel zum Film)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/03/a0/d203a062-7462-e861-6f9e-623ef320aec0/4066339450325.jpg/100x100bb.jpg",
+      "description": "Das Album 'Die Eiskönigin 2' ist ein Original-Hörspiel zum Film 'Die Eiskönigin', das speziell für Kinder und Jugendliche konzipiert ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685960973"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685952143",
+      "title": "Die Eiskönigin: Olaf taut auf (Hörspiel zum Special)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/d0/02/b0d00263-7010-7631-7cf4-7a30fbafa810/4066339450363.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album zu einer bekannten Eiskönigin-Reihe, das speziell für Audiokonsum konzipiert ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685952143"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686157909",
+      "title": "Es war einmal ein Schneemann (Hörspiel zum Kurzfilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/78/ff/5278ff1c-8f52-461b-347e-fc1e4d6b75a2/4066339450264.jpg/100x100bb.jpg",
+      "description": "Ein Hörspielalbum inspiriert von einem Kurzfilm, das auf spannende Erzählungen für Kinder abzielt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686157909"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685945821",
+      "title": "Partyfieber (Das Original-Hörspiel zum Kurzfilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/b5/41/42b5417c-17d8-0e5e-ae40-b3cba5a9ab24/4066339449930.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zum Kurzfilm \"Die Eiskönigin\", was auf ein Hörspiel spezialisiert ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685945821"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1582704839",
+      "title": "Peter Lustig liest Die Eiskönigin von Hans Christian Andersen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/56/5c/f2565c75-fc0f-ea8f-435d-8d1ee05007b0/5413059370140.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Lesung des Märchens \"Die Eiskönigin\" von Hans Christian Andersen, gelesen von Peter Lustig.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1582704839"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-27T17:19:36Z"
+}
