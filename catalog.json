@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-27T07:31:18.436647+00:00",
+  "updatedAt": "2026-05-27T08:00:32.400770+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -21720,70 +21720,6 @@
       "description": "Dieses Album ist ein Hörspiel, das als Raumkrimi konzipiert ist und möglicherweise Abenteuer- oder Science-Fiction-Elemente enthält."
     },
     {
-      "id": "mark-haun-9596",
-      "title": "Haunted - Single",
-      "author": "Mark Brandis",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/5e/b6/3a5eb6a5-9478-f50d-e62c-00a5bff820e3/d7a0c4ca-4388-43ca-8254-ecbec370731d.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1538649596"
-      },
-      "genres": [
-        "Folk"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
-      "id": "mark-acou-3570",
-      "title": "Acoustica Ooh's & Ahh's",
-      "author": "Mark Brandis",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/16/4a/c0164ab0-9211-fb21-31ca-ca7c2f8d0a66/1963626335361_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1614063570"
-      },
-      "genres": [
-        "Folk"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar."
-    },
-    {
-      "id": "mark-acou-7982",
-      "title": "Acoustica Ooh's & Ahh's",
-      "author": "Mark Brandis",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/c2/ac/a5c2ac02-3b41-48b6-f75f-caab2ab25a61/1963629516453_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1754637982"
-      },
-      "genres": [
-        "Folk"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar."
-    },
-    {
-      "id": "mark-noah-5318",
-      "title": "Noah - EP",
-      "author": "Mark Brandis",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/1b/3d/f91b3dca-6ab8-bd1b-2f9c-124ba42324ae/1231214d-4cae-46c5-a408-9604f82d1716.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1539905318"
-      },
-      "genres": [
-        "Folk"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
       "id": "joch-mark-3128",
       "title": "Mark Brandis Soundtrack (Die Musik zur Hörspielserie)",
       "author": "Mark Brandis",
@@ -22141,22 +22077,6 @@
       "description": "Keine Beschreibung verfügbar"
     },
     {
-      "id": "less-star-3267",
-      "title": "Star Wars (The Force Theme) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b0/00/c7/b000c7dc-01c1-6ef9-c0b4-48b157c68b77/artwork.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1492573267"
-      },
-      "genres": [
-        "Downtempo"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
       "id": "star-teil-5714",
       "title": "Teil 3: Angriff auf Coruscant (Labyrinth des Bösen)",
       "author": "Star Wars",
@@ -22233,22 +22153,6 @@
       },
       "genres": [
         "Science-Fiction"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar."
-    },
-    {
-      "id": "trin-star-2291",
-      "title": "Star Wars (Remix) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/b7/dd/a2b7ddb0-5906-56e7-4cff-52692618c798/cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1605292291"
-      },
-      "genres": [
-        "Electronic"
       ],
       "chapters": [],
       "description": "Keine Beschreibung verfügbar."
@@ -22334,22 +22238,6 @@
       "description": "Dieses Album ist ein Musikstück aus dem Genre Maghreb, Hip‑Hop mit dem Titel 'Star Wars - Single' von A.L.A."
     },
     {
-      "id": "trap-star-0727",
-      "title": "Star Wars - The Cantina Band (Trap Version) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/53/a6/d053a658-a85d-b740-6b8e-e11d4339b551/197368629742_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1679440727"
-      },
-      "genres": [
-        "Bass"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar."
-    },
-    {
       "id": "john-star-0128",
       "title": "Star Wars: Eine neue Hoffnung (Original Film Soundtrack)",
       "author": "Star Wars",
@@ -22396,22 +22284,6 @@
       ],
       "chapters": [],
       "description": "Ein Film-Soundtrack mit dem 'Star Wars' Darth Vader Theme von Mark The Hammer."
-    },
-    {
-      "id": "jenn-star-7118",
-      "title": "Star Wars (Violin Remix) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/81/7e/51/817e5189-60f2-a536-a198-80d9f807dc63/859716187662_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1067427118"
-      },
-      "genres": [
-        "Electronic"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
     },
     {
       "id": "john-star-4745",
@@ -22574,22 +22446,6 @@
       "description": "Ein Musikstück aus dem Star Wars-Universum im Bass-Genre."
     },
     {
-      "id": "less-star-3066",
-      "title": "Star Wars (the Force Theme) [Reloaded] - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/25/a1/3625a1d5-4a91-348d-3a0c-bdc9261bde2e/artwork.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1895323066"
-      },
-      "genres": [
-        "Jungle/Drum'n'Bass"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
       "id": "pier-star-9532",
       "title": "Star Wars - The Force Theme (Epic Version) - Single",
       "author": "Star Wars",
@@ -22718,22 +22574,6 @@
       "description": "Das Album enthält Musik aus dem Film Star Wars, der zu den Genres Science-Fiction und Abenteuer gehört."
     },
     {
-      "id": "gang-star-9225",
-      "title": "Star Wars - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/eb/3c/7deb3c43-b411-733d-2c9e-5f01883f917f/cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1621849225"
-      },
-      "genres": [
-        "House"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
       "id": "kevi-star-8486",
       "title": "Star Wars: The Clone Wars - The Final Season (Episodes 9-12) [Original Soundtrack]",
       "author": "Star Wars",
@@ -22796,22 +22636,6 @@
       ],
       "chapters": [],
       "description": "Ein Soundtrack aus dem Film 'Star Wars: Das Imperium schlägt zurück', bekannt für seine ikonische Filmmusik von John Williams."
-    },
-    {
-      "id": "paul-star-8083",
-      "title": "Star Wars (Wedding Piano Version) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/1a/0c/331a0c04-5c8b-e4b2-aae5-9f6976d0708d/6450.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1712028083"
-      },
-      "genres": [
-        "Pop"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
     },
     {
       "id": "side-star-0023",
@@ -22911,38 +22735,6 @@
       "description": "Ein Soundtrackalbum für den Film Star Wars: Die Rückkehr der Jedi-Ritter von John Williams."
     },
     {
-      "id": "walt-star-1284",
-      "title": "Star Wars",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/a6/30/06a63070-3e79-d895-84cb-78ce0d280b53/82056.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1665211284"
-      },
-      "genres": [
-        "Adult Contemporary"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
-      "id": "samu-star-3391",
-      "title": "Star Wars: Epic Collection (Cover) - EP",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/40/03/f0/4003f0da-fde5-2f55-b0a2-b245cf33b245/494.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1654773391"
-      },
-      "genres": [
-        "New Age"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
       "id": "star-08di-1533",
       "title": "08: Die verschollenen Krieger / Relikte der Alten Republik (Das Original-Hörspiel zur Star Wars-TV-Serie)",
       "author": "Star Wars",
@@ -23022,22 +22814,6 @@
       ],
       "chapters": [],
       "description": "Ein Soundtrack-Album zur Star Wars-Filmreihe."
-    },
-    {
-      "id": "thee-star-3155",
-      "title": "Star Wars - A New Baroque",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/c2/fa/e4c2fa7a-56db-9e58-3630-02a6d8083001/190394838027.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1151963155"
-      },
-      "genres": [
-        "Klassische Crossover-Musik"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
     },
     {
       "id": "carm-star-6761",
@@ -23296,22 +23072,6 @@
       ],
       "chapters": [],
       "description": "Ein Soundtrack-Album zur Star Wars-Filmreihe, nicht ein deutsches Hörspiel oder Hörbuch."
-    },
-    {
-      "id": "alex-star-9281",
-      "title": "Star Wars - Across the Stars (Piano Version) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/9b/35/ee9b3584-c2a3-214f-7883-f44a866c042d/35fbe133-f98a-487c-a716-a653495b55c2.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1522799281"
-      },
-      "genres": [
-        "Filmmusik"
-      ],
-      "chapters": [],
-      "description": "Ein Film-Soundtrack-Album mit Musik aus Star Wars, produziert von Alex Gobbett."
     },
     {
       "id": "star-16de-0131",
@@ -23876,23 +23636,6 @@
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das auf spannenden Themen wie Virus und Weltraumfährten basiert."
     },
     {
-      "id": "clos-cant-0356",
-      "title": "cantina band ~ star wars lofi (feat. Tanoshi) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/d5/62/b8d5627e-8a31-f2aa-db7e-0184c9e77e83/artwork.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1494870356"
-      },
-      "genres": [
-        "Hip-Hop",
-        "Rap"
-      ],
-      "chapters": [],
-      "description": "Ein Musikprojekt mit dem Titel 'cantina band ~ star wars lofi (feat. Tanoshi)' von Closed on Sunday im Genre Hip-Hop/Rap."
-    },
-    {
       "id": "samu-star-3436",
       "title": "Star Wars: Epic Collection Vol, 4 (Cover) - EP",
       "author": "Star Wars",
@@ -24007,38 +23750,6 @@
       "description": "Dieses Album ist ein Hörspiel-Album mit 18 Tracks aus der Serie Star Wars Rebels."
     },
     {
-      "id": "froz-star-6760",
-      "title": "Star Wars Sleep Piano - EP",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/8e/cf/208ecfe5-e74c-c156-ffe2-91980c27b5b8/97214.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1679476760"
-      },
-      "genres": [
-        "Disney"
-      ],
-      "chapters": [],
-      "description": "Das Album 'Star Wars Sleep Piano - EP' von Frozen Silence ist ein Musikprojekt, das Elemente aus der Star Wars-Franchise mit Klaviermusik kombiniert. Es ist nicht ein Hörspiel oder ein Hörbuch."
-    },
-    {
-      "id": "patr-star-8771",
-      "title": "Star Wars Main Theme (Piano Version) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/60/bf/45/60bf4580-a9a7-3534-166d-be4f25d8d02c/artwork.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1502368771"
-      },
-      "genres": [
-        "Soundtracks"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
       "id": "star-06au-7736",
       "title": "06: Aufruf zum Widerstand / Die Rettungsmission (Das Original-Hörspiel zur Star Wars-TV-Serie)",
       "author": "Star Wars",
@@ -24070,22 +23781,6 @@
       ],
       "chapters": [],
       "description": "Das Album enthält eine Star Wars Hörspielserie, die im Deutschsprachigen Raum veröffentlicht wurde."
-    },
-    {
-      "id": "samu-star-9770",
-      "title": "Star Wars: Medieval Collection, Vol. 2 (Cover) - EP",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/fc/06/f7fc06ef-2b83-23ea-6ed9-b48f030385df/551.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1653819770"
-      },
-      "genres": [
-        "New Age"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
     },
     {
       "id": "star-03ve-1870",
@@ -24200,22 +23895,6 @@
       ],
       "chapters": [],
       "description": "Ein Musikalbum mit Trance-Musik inspiriert von Star Wars, keine deutschen Hörspiel-Elemente enthalten."
-    },
-    {
-      "id": "carm-star-0714",
-      "title": "Star Wars (feat. FireproofTB) - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/c0/69/92c069a4-7b2b-e4ed-6864-aa19b3d5d186/artwork.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1767160714"
-      },
-      "genres": [
-        "Religiöse Musik"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
     },
     {
       "id": "kevi-star-7758",
@@ -24429,22 +24108,6 @@
       "description": "Ein Klavier-Cover-Album von Anderson Perceval, das bekannte Stücke aus der Star Wars-Franchise interpretiert."
     },
     {
-      "id": "derk-lego-1798",
-      "title": "Lego Star Wars Rap - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6e/e5/ad/6ee5adfa-fac5-c869-6207-82c8bdc626c0/artwork.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1494581798"
-      },
-      "genres": [
-        "Hip-Hop/Rap"
-      ],
-      "chapters": [],
-      "description": "Keine Beschreibung verfügbar"
-    },
-    {
       "id": "samu-star-4463",
       "title": "Star Wars: Reylo Love Theme (Cover) - Single",
       "author": "Star Wars",
@@ -24459,22 +24122,6 @@
       ],
       "chapters": [],
       "description": "Keine Beschreibung verfügbar"
-    },
-    {
-      "id": "bost-thei-4455",
-      "title": "The Imperial March (From \"Star Wars: The Empire Strikes Back\") [Live] - Single",
-      "author": "Star Wars",
-      "narrator": "",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/01/52/860152a5-1176-071d-56c7-6827cca14c29/24UMGIM73089.rgb.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1777864455"
-      },
-      "genres": [
-        "Klassik"
-      ],
-      "chapters": [],
-      "description": "Ein Klassik-Album von Boston Symphony Orchestra & John Williams mit Musik aus dem Film 'Star Wars: The Empire Strikes Back'."
     },
     {
       "id": "lind-star-7574",
@@ -24766,6 +24413,359 @@
       "description": "Dieses Album umfasst 29 Hörspiel-Tracks, die dem Genre Hörspiel zugeordnet sind. Es ist Teil einer Serie mit dem Titel 'Hörgespinste' und bietet ein spannendes Erlebnis für Hörer."
     },
     {
+      "id": "mark-haun-9596",
+      "title": "Haunted - Single",
+      "author": "Mark Brandis",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/5e/b6/3a5eb6a5-9478-f50d-e62c-00a5bff820e3/d7a0c4ca-4388-43ca-8254-ecbec370731d.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1538649596"
+      },
+      "genres": [
+        "Folk"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "mark-acou-3570",
+      "title": "Acoustica Ooh's & Ahh's",
+      "author": "Mark Brandis",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/16/4a/c0164ab0-9211-fb21-31ca-ca7c2f8d0a66/1963626335361_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1614063570"
+      },
+      "genres": [
+        "Folk"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar."
+    },
+    {
+      "id": "mark-acou-7982",
+      "title": "Acoustica Ooh's & Ahh's",
+      "author": "Mark Brandis",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/c2/ac/a5c2ac02-3b41-48b6-f75f-caab2ab25a61/1963629516453_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1754637982"
+      },
+      "genres": [
+        "Folk"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar."
+    },
+    {
+      "id": "mark-noah-5318",
+      "title": "Noah - EP",
+      "author": "Mark Brandis",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/1b/3d/f91b3dca-6ab8-bd1b-2f9c-124ba42324ae/1231214d-4cae-46c5-a408-9604f82d1716.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1539905318"
+      },
+      "genres": [
+        "Folk"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "less-star-3267",
+      "title": "Star Wars (The Force Theme) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b0/00/c7/b000c7dc-01c1-6ef9-c0b4-48b157c68b77/artwork.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1492573267"
+      },
+      "genres": [
+        "Downtempo"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "trin-star-2291",
+      "title": "Star Wars (Remix) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/b7/dd/a2b7ddb0-5906-56e7-4cff-52692618c798/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1605292291"
+      },
+      "genres": [
+        "Electronic"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar."
+    },
+    {
+      "id": "trap-star-0727",
+      "title": "Star Wars - The Cantina Band (Trap Version) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/53/a6/d053a658-a85d-b740-6b8e-e11d4339b551/197368629742_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1679440727"
+      },
+      "genres": [
+        "Bass"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar."
+    },
+    {
+      "id": "jenn-star-7118",
+      "title": "Star Wars (Violin Remix) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/81/7e/51/817e5189-60f2-a536-a198-80d9f807dc63/859716187662_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1067427118"
+      },
+      "genres": [
+        "Electronic"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "less-star-3066",
+      "title": "Star Wars (the Force Theme) [Reloaded] - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/25/a1/3625a1d5-4a91-348d-3a0c-bdc9261bde2e/artwork.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1895323066"
+      },
+      "genres": [
+        "Jungle/Drum'n'Bass"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "gang-star-9225",
+      "title": "Star Wars - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/eb/3c/7deb3c43-b411-733d-2c9e-5f01883f917f/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1621849225"
+      },
+      "genres": [
+        "House"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "paul-star-8083",
+      "title": "Star Wars (Wedding Piano Version) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/1a/0c/331a0c04-5c8b-e4b2-aae5-9f6976d0708d/6450.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1712028083"
+      },
+      "genres": [
+        "Pop"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "walt-star-1284",
+      "title": "Star Wars",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/a6/30/06a63070-3e79-d895-84cb-78ce0d280b53/82056.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1665211284"
+      },
+      "genres": [
+        "Adult Contemporary"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "samu-star-3391",
+      "title": "Star Wars: Epic Collection (Cover) - EP",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/40/03/f0/4003f0da-fde5-2f55-b0a2-b245cf33b245/494.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1654773391"
+      },
+      "genres": [
+        "New Age"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "thee-star-3155",
+      "title": "Star Wars - A New Baroque",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/c2/fa/e4c2fa7a-56db-9e58-3630-02a6d8083001/190394838027.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1151963155"
+      },
+      "genres": [
+        "Klassische Crossover-Musik"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "alex-star-9281",
+      "title": "Star Wars - Across the Stars (Piano Version) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/9b/35/ee9b3584-c2a3-214f-7883-f44a866c042d/35fbe133-f98a-487c-a716-a653495b55c2.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1522799281"
+      },
+      "genres": [
+        "Filmmusik"
+      ],
+      "chapters": [],
+      "description": "Ein Film-Soundtrack-Album mit Musik aus Star Wars, produziert von Alex Gobbett."
+    },
+    {
+      "id": "clos-cant-0356",
+      "title": "cantina band ~ star wars lofi (feat. Tanoshi) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/d5/62/b8d5627e-8a31-f2aa-db7e-0184c9e77e83/artwork.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1494870356"
+      },
+      "genres": [
+        "Hip-Hop",
+        "Rap"
+      ],
+      "chapters": [],
+      "description": "Ein Musikprojekt mit dem Titel 'cantina band ~ star wars lofi (feat. Tanoshi)' von Closed on Sunday im Genre Hip-Hop/Rap."
+    },
+    {
+      "id": "froz-star-6760",
+      "title": "Star Wars Sleep Piano - EP",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/8e/cf/208ecfe5-e74c-c156-ffe2-91980c27b5b8/97214.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1679476760"
+      },
+      "genres": [
+        "Disney"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Star Wars Sleep Piano - EP' von Frozen Silence ist ein Musikprojekt, das Elemente aus der Star Wars-Franchise mit Klaviermusik kombiniert. Es ist nicht ein Hörspiel oder ein Hörbuch."
+    },
+    {
+      "id": "patr-star-8771",
+      "title": "Star Wars Main Theme (Piano Version) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/60/bf/45/60bf4580-a9a7-3534-166d-be4f25d8d02c/artwork.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1502368771"
+      },
+      "genres": [
+        "Soundtracks"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "samu-star-9770",
+      "title": "Star Wars: Medieval Collection, Vol. 2 (Cover) - EP",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/fc/06/f7fc06ef-2b83-23ea-6ed9-b48f030385df/551.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1653819770"
+      },
+      "genres": [
+        "New Age"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "carm-star-0714",
+      "title": "Star Wars (feat. FireproofTB) - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/c0/69/92c069a4-7b2b-e4ed-6864-aa19b3d5d186/artwork.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1767160714"
+      },
+      "genres": [
+        "Religiöse Musik"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "derk-lego-1798",
+      "title": "Lego Star Wars Rap - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6e/e5/ad/6ee5adfa-fac5-c869-6207-82c8bdc626c0/artwork.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1494581798"
+      },
+      "genres": [
+        "Hip-Hop/Rap"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "bost-thei-4455",
+      "title": "The Imperial March (From \"Star Wars: The Empire Strikes Back\") [Live] - Single",
+      "author": "Star Wars",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/01/52/860152a5-1176-071d-56c7-6827cca14c29/24UMGIM73089.rgb.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1777864455"
+      },
+      "genres": [
+        "Klassik"
+      ],
+      "chapters": [],
+      "description": "Ein Klassik-Album von Boston Symphony Orchestra & John Williams mit Musik aus dem Film 'Star Wars: The Empire Strikes Back'."
+    },
+    {
       "id": "calm-marc-9256",
       "title": "Marco Göllner - Mittwoch Ruhetag",
       "author": "Marco Göllner",
@@ -24780,6 +24780,569 @@
       ],
       "chapters": [],
       "description": "Keine Beschreibung verfügbar"
+    },
+    {
+      "id": "heli-folg-1226",
+      "title": "Folge 1: Das dunkle Fragment",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/79/54/68/795468ed-5b53-bce5-4841-2b019174b0c7/4260507150639_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1460141226"
+      },
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Folge 1: Das dunkle Fragment' von Heliosphere 2265 ist ein Hörspiel-Album mit 38 Tracks. Es passt in die Genres Hörspiel und Science-Fiction."
+    },
+    {
+      "id": "heli-folg-0334",
+      "title": "Folge 4: Das Gesicht des Verrats",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8c/bf/b5/8cbfb579-a83d-28e9-1cfd-1c8d9f6362c5/4260507149220_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458720334"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dies ist ein Album von Heliosphere 2265, das sich auf Hörspiele spezialisiert hat. Das Album enthält 45 Tracks und ist im Genre Hörspiele eingestuft."
+    },
+    {
+      "id": "heli-folg-2950",
+      "title": "Folge 3: Enthüllungen",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cc/be/8e/ccbe8e78-e32e-501e-5aec-b034794d9ee1/4260507149213_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458112950"
+      },
+      "genres": [
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Ein Science-Fiction-Hörspielalbum mit 43 Folgen, das auf einer Plattform wie iTunes verfügbar ist."
+    },
+    {
+      "id": "heli-folg-1762",
+      "title": "Folge 2: Zwischen den Welten",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/79/d9/79/79d97981-e058-d477-1d78-f0bbd953651f/4260507149206_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1457671762"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele, die auf verschiedenen Plattformen wie Apple Music verfügbar sind."
+    },
+    {
+      "id": "heli-folg-9703",
+      "title": "Folge 6: Die Bürde des Captains",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/a3/94/daa39493-ae24-92b3-d030-8de84761a420/4260507149244_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458719703"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Hörspielreihe, die spannende Geschichten erzählt."
+    },
+    {
+      "id": "heli-folg-7194",
+      "title": "Folge 30: Aus dem Schatten...",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/66/dc/b566dc17-8e64-d929-d023-26c7ce9cf0b2/4260507214577_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1895377194"
+      },
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel, das in einer futuristischen Welt spielt."
+    },
+    {
+      "id": "heli-folg-9889",
+      "title": "Folge 5: Im Zentrum der Gewalten",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e6/21/59/e6215918-1f10-cb90-6b8b-54f9f7c207ff/4260507149237_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458719889"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 5: Im Zentrum der Gewalten' von Heliosphere 2265, das 39 Tracks umfasst und dem Genre Hörspiel zugeordnet ist."
+    },
+    {
+      "id": "heli-folg-6819",
+      "title": "Folge 11: Vergeltung",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/c0/54/acc054da-174f-6973-db42-aba87212e04a/4260507150141_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1461336819"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 11: Vergeltung' von Heliosphere 2265."
+    },
+    {
+      "id": "heli-folg-9089",
+      "title": "Folge 10: Zwischen Himmel und Hölle",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/ab/7c/efab7c95-9a2e-2096-a427-5b8f989c7839/4260507149282_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458719089"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 42 Tracks des Hörspiels \"Folge 10: Zwischen Himmel und Hölle\" von Heliosphere 2265."
+    },
+    {
+      "id": "heli-folg-9296",
+      "title": "Folge 7: Die Opfer der Entscheidung",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6e/7f/8b/6e7f8b64-6b8b-30b7-1f4f-c0666549579a/4260507149251_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458719296"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Folge 7: Die Opfer der Entscheidung' von Heliosphere 2265 ist ein Hörspiel."
+    },
+    {
+      "id": "heli-folg-8812",
+      "title": "Folge 8: Getrennte Wege",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/04/a8/97/04a897d0-f0e8-766a-557c-15cfe7df3654/4260507149268_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458718812"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 8: Getrennte Wege' von Heliosphere 2265, das 42 Tracks umfasst und im Genre Hörspiele angesiedelt ist."
+    },
+    {
+      "id": "heli-folg-8930",
+      "title": "Folge 9: Entscheidung bei NOVA",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f8/a0/f5/f8a0f58d-cd61-ad4c-c518-27d18366f8c2/4260507149275_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1458718930"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Episoden einer Hörspielreihe, die sich um das Thema 'NOVA' dreht. Es handelt sich um ein Hörspiel, das auf der Plattform Apple Music verfügbar ist."
+    },
+    {
+      "id": "heli-folg-8314",
+      "title": "Folge 12.1: Der Jahrhundertplan: Sarahs Geständnis",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b9/fc/66/b9fc6617-43f2-6a02-05a3-effec7d31fb3/4260507151988_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1472538314"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum über einen Jahrhundertplan mit dem Titel 'Folge 12.1: Der Jahrhundertplan: Sarahs Geständnis' von Heliosphere 2265."
+    },
+    {
+      "id": "heli-folg-2716",
+      "title": "Folge 23: Das Helix-Mosaik",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/c4/6d/90c46df1-f6bc-bf61-8676-4913cd2ff5bf/4260507197054_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1753852716"
+      },
+      "genres": [
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiel-Tracks und ist von einem Science-Fiction-Konzert der Gruppe Heliosphere 2265."
+    },
+    {
+      "id": "heli-folg-1267",
+      "title": "Folge 15: Die Büchse der Pandora",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/29/f8/e029f863-4656-f407-c1a9-b42ef6a9db2c/4260507171146_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1600501267"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält die Folge '15: Die Büchse der Pandora' und gehört zum Genre Hörspiele."
+    },
+    {
+      "id": "heli-folg-6844",
+      "title": "Folge 13: Die andere Seite",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/0e/2b/f90e2bce-9552-3121-49bf-2a52ab06d8a5/4260507168979_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1576496844"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele, die typischerweise in deutscher Sprache produziert werden."
+    },
+    {
+      "id": "heli-folg-6172",
+      "title": "Folge 12.2: Der Jahrhundertplan: Omega",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/69/5b/6d/695b6db7-0f31-35f8-20bc-e6a87e4613bf/4260507155481_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1489196172"
+      },
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Hörspiel-Tracks und passt somit zu einem Hörspiel-Genre."
+    },
+    {
+      "id": "heli-folg-2987",
+      "title": "Folge 29: Projekt Northstar",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/2d/ed/262ded74-b963-b1fe-ebac-6a11d411df76/4260507213853_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1884262987"
+      },
+      "genres": [
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel von Heliosphere 2265, das in der Serie 'Projekt Northstar' angesiedelt ist."
+    },
+    {
+      "id": "heli-folg-1093",
+      "title": "Folge 25: Die alte Macht",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/2c/12/c82c123c-f788-b56b-c067-41e412d4075d/4260507208088_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1826961093"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 37 Tracks des Hörspiels \"Folge 25: Die alte Macht\" von Heliosphere 2265 und ist im Genre Hörspiel. Es handelt sich um ein Hörspiel, das auf der Plattform Apple Music verfügbar ist."
+    },
+    {
+      "id": "heli-folg-7487",
+      "title": "Folge 14: Das erste Ziel",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2d/ef/ea/2defea69-af80-0dd0-958f-29cb15db3013/4260507168993_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1576497487"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 40 Tracks eines Hörspiels mit dem Titel 'Folge 14: Das erste Ziel' von Heliosphere 2265 im Genre Hörspiel."
+    },
+    {
+      "id": "heli-folg-0760",
+      "title": "Folge 26: Wir sind Legende",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/bc/49/58bc4934-dae7-148a-c40b-e1f5b45b2d44/4260507211163_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1844290760"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album, das als Hörspiel angekündigt ist und auf einem bekannten Streaming-Dienst veröffentlicht wurde."
+    },
+    {
+      "id": "heli-folg-4001",
+      "title": "Folge 16: Freund oder Feind?",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/cf/1d/52cf1d40-617e-42fb-a171-59c8cb7b27fe/4260507172921_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1610704001"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 16: Freund oder Feind?' von Heliosphere 2265, das Hörspiel-Tracks umfasst."
+    },
+    {
+      "id": "heli-folg-7913",
+      "title": "Folge 28: Nemesis",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/c9/8e/13c98e3d-22b4-a177-12ad-0c0a4bd6a6c9/4260507213242_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1874107913"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel, das als Folge 28 von Nemesis unter dem Namen Heliosphere 2265 veröffentlicht wurde. Es enthält insgesamt 39 Tracks und gehört zum Genre Hörspiel."
+    },
+    {
+      "id": "heli-folg-3547",
+      "title": "Folge 24.1: Endspiel",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/ba/43/a8ba433b-b47f-ab2d-04fe-1a5eaa38b958/4260507200624_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1781883547"
+      },
+      "genres": [
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 24.1: Endspiel' von Heliosphere 2265. Es besteht aus 31 Tracks und gehört dem Genre Hörspiele an."
+    },
+    {
+      "id": "heli-folg-4629",
+      "title": "Folge 21: Ohne Ausweg",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/eb/80/fbeb8069-efce-c15a-3937-3bc6e138c7b7/4260507192363_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1725804629"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 35 Tracks des Hörspiels 'Folge 21: Ohne Ausweg' von Heliosphere 2265, das als Hörspiel formatiert ist."
+    },
+    {
+      "id": "heli-folg-7177",
+      "title": "Folge 19: Hetzjagd",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/19/60/f0/1960f039-a44c-a74e-ea3f-5fa67b189da0/4260507187093_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1690147177"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum mit dem Titel 'Folge 19: Hetzjagd' von Heliosphere 2265, das sich auf ein Hörspiel spezialisiert. Die Länge von 41 Tracks deutet außerdem auf eine umfangreiche Fortsetzung hin, die typisch für Hörspiele ist."
+    },
+    {
+      "id": "heli-folg-3887",
+      "title": "Folge 24.2: Der letzte Schlüssel",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/87/df/6887dfeb-f6a3-aa1f-1dec-745eb75598e9/4260507200648_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1781883887"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Folge 24.2: Der letzte Schlüssel' von Heliosphere 2265 ist ein Hörspielalbum, das Spannung und Abenteuer verspricht, typisch für viele deutsche Hörspiele."
+    },
+    {
+      "id": "heli-folg-4602",
+      "title": "Folge 18: Die Wahl",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/8c/ff/6d8cff4d-daf4-a07b-8c4a-27dcdb31f869/4260507181930_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1680674602"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 18: Die Wahl' von Heliosphere 2265."
+    },
+    {
+      "id": "heli-folg-3152",
+      "title": "Folge 27: Der letzte Gefangene",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/8c/72/d18c720f-8003-3423-bce2-626b11d5a187/4260507212498_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1861543152"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 27: Der letzte Gefangene' von Heliosphere 2265 mit 38 Tracks im Genre Hörspiel."
+    },
+    {
+      "id": "heli-folg-9086",
+      "title": "Folge 17: Kampf um die Zukunft",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/91/65/63/916563a3-cbde-524e-7490-de4a9ae14fef/4260507177803_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1655639086"
+      },
+      "genres": [
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Das Album scheint ein Hörspiel zu sein, das sich in einem Science-Fiction-Genre bewegt."
+    },
+    {
+      "id": "heli-folg-5850",
+      "title": "Folge 20: Im Zentrum der Dunkelheit",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cd/4d/0f/cd4d0ff6-8dc7-cbf0-cd83-68ff14ed6fa1/4260507189387_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1706885850"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Folge 20: Im Zentrum der Dunkelheit' von Heliosphere 2265. Es besteht aus 42 Tracks und gehört zum Genre Hörspiele."
+    },
+    {
+      "id": "heli-folg-8182",
+      "title": "Folge 22: Heimkehr",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/0d/dd/200dddb7-21bb-42ad-420d-53fa4788e06a/4260507195067_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1740078182"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 35 Hörspiel-Tracks mit dem Titel 'Folge 22: Heimkehr' von Heliosphere 2265."
+    },
+    {
+      "id": "andr-heli-0816",
+      "title": "Heliosphere 2265 – Das Marsprojekt 1 - Verloren",
+      "author": "Andreas Suchanek, Heliosphere 2265 - Das Marsprojekt & Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/8f/c4/ef8fc4c5-be14-b849-c9a0-cdfd9856e992/4069829105309_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1851040816"
+      },
+      "genres": [
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel im Genre Science-Fiction, das sich um das Marsprojekt 2265 dreht und auf Apple Music verfügbar ist."
+    },
+    {
+      "id": "andr-heli-3592",
+      "title": "Heliosphere 2265 – Das Marsprojekt 2 - Todeszone Terra",
+      "author": "Andreas Suchanek, Heliosphere 2265 - Das Marsprojekt & Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/8c/b3/b88cb3af-4963-75d8-1131-d811e4b966f4/4069829635516_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1883763592"
+      },
+      "genres": [
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel, das sich auf ein futuristisches Mars-Projekt und eine Todeszone auf der Erde konzentriert, typisch für Science-Fiction-Inhalte."
+    },
+    {
+      "id": "heli-komp-9978",
+      "title": "Komplette Staffel 2",
+      "author": "Heliosphere 2265",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/4b/4c/384b4cc9-7f68-ad05-1a9e-9fd633dd2dd6/4260507208361_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1834969978"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Komplette Staffel 2' von Heliosphere 2265 enthält 490 Tracks im Genre Hörspiele, was auf ein Hörspiel oder Hörbuch hindeutet."
     }
   ]
 }

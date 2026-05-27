@@ -198,6 +198,18 @@
       "author": "Douglas Adams",
       "narrator": "Bill Oddie",
       "enabled": true
+    },
+    {
+      "title": "Folge",
+      "search_term": "folge",
+      "extra_search_terms": [],
+      "artist_filter": "Alfred Hitchcock präsentiert",
+      "genres": [
+        "Hörspiel"
+      ],
+      "author": "Alfred Hitchcock präsentiert",
+      "narrator": "",
+      "enabled": true
     }
   ]
 }
