@@ -15,11 +15,110 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/4a/44/c44a44f8-6f69-8c92-82c2-6165cdebc32f/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Yakari', das typischerweise für Kinder gedacht ist und Abenteuer als Hauptgenre hat.",
-      "totalDuration": 0,
+      "totalDuration": 2648.95,
       "platforms": {
         "appleMusic": "1562324264"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-4264-t01",
+          "title": "Yakari und Grosser Adler - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.561
+        },
+        {
+          "id": "yaka-folg-4264-t02",
+          "title": "Yakari und Grosser Adler - Teil 1",
+          "index": 1,
+          "startTime": 30.561,
+          "duration": 197.711
+        },
+        {
+          "id": "yaka-folg-4264-t03",
+          "title": "Yakari und Grosser Adler - Teil 2",
+          "index": 2,
+          "startTime": 228.272,
+          "duration": 187.943
+        },
+        {
+          "id": "yaka-folg-4264-t04",
+          "title": "Yakari und Grosser Adler - Teil 3",
+          "index": 3,
+          "startTime": 416.215,
+          "duration": 283.509
+        },
+        {
+          "id": "yaka-folg-4264-t05",
+          "title": "Yakari und Grosser Adler - Teil 4",
+          "index": 4,
+          "startTime": 699.724,
+          "duration": 180.572
+        },
+        {
+          "id": "yaka-folg-4264-t06",
+          "title": "Yakari und Grosser Adler - Teil 5",
+          "index": 5,
+          "startTime": 880.296,
+          "duration": 185.606
+        },
+        {
+          "id": "yaka-folg-4264-t07",
+          "title": "Yakari und Grosser Adler - Teil 6",
+          "index": 6,
+          "startTime": 1065.902,
+          "duration": 219.139
+        },
+        {
+          "id": "yaka-folg-4264-t08",
+          "title": "Yakari und Grosser Adler - Teil 7",
+          "index": 7,
+          "startTime": 1285.041,
+          "duration": 225.597
+        },
+        {
+          "id": "yaka-folg-4264-t09",
+          "title": "Yakari und Grosser Adler - Teil 8",
+          "index": 8,
+          "startTime": 1510.638,
+          "duration": 196.456
+        },
+        {
+          "id": "yaka-folg-4264-t10",
+          "title": "Yakari und Grosser Adler - Teil 9",
+          "index": 9,
+          "startTime": 1707.094,
+          "duration": 214.831
+        },
+        {
+          "id": "yaka-folg-4264-t11",
+          "title": "Yakari und Grosser Adler - Teil 10",
+          "index": 10,
+          "startTime": 1921.925,
+          "duration": 244.222
+        },
+        {
+          "id": "yaka-folg-4264-t12",
+          "title": "Yakari und Grosser Adler - Teil 11",
+          "index": 11,
+          "startTime": 2166.147,
+          "duration": 199.307
+        },
+        {
+          "id": "yaka-folg-4264-t13",
+          "title": "Yakari und Grosser Adler - Teil 12",
+          "index": 12,
+          "startTime": 2365.454,
+          "duration": 189.199
+        },
+        {
+          "id": "yaka-folg-4264-t14",
+          "title": "Im Land der Wölfe - Outro",
+          "index": 13,
+          "startTime": 2554.653,
+          "duration": 94.297
+        }
+      ]
     },
     {
       "id": "1562425059",
@@ -28,11 +127,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d4/74/80/d47480ec-a674-dc54-d883-165b203e3059/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie Yakari, das sich an ein junges Publikum richtet.",
-      "totalDuration": 0,
+      "totalDuration": 3012.535,
       "platforms": {
         "appleMusic": "1562425059"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-5059-t01",
+          "title": "Yakari und die Schneeziege - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.382
+        },
+        {
+          "id": "yaka-folg-5059-t02",
+          "title": "Yakari und die Schneeziege - Teil 1",
+          "index": 1,
+          "startTime": 30.382,
+          "duration": 189.767
+        },
+        {
+          "id": "yaka-folg-5059-t03",
+          "title": "Yakari und die Schneeziege - Teil 2",
+          "index": 2,
+          "startTime": 220.149,
+          "duration": 180.03
+        },
+        {
+          "id": "yaka-folg-5059-t04",
+          "title": "Yakari und die Schneeziege - Teil 3",
+          "index": 3,
+          "startTime": 400.179,
+          "duration": 329.23
+        },
+        {
+          "id": "yaka-folg-5059-t05",
+          "title": "Yakari und die Schneeziege - Teil 4",
+          "index": 4,
+          "startTime": 729.409,
+          "duration": 188.362
+        },
+        {
+          "id": "yaka-folg-5059-t06",
+          "title": "Yakari und die Schneeziege - Teil 5",
+          "index": 5,
+          "startTime": 917.771,
+          "duration": 184.442
+        },
+        {
+          "id": "yaka-folg-5059-t07",
+          "title": "Yakari und die Schneeziege - Teil 6",
+          "index": 6,
+          "startTime": 1102.213,
+          "duration": 186.099
+        },
+        {
+          "id": "yaka-folg-5059-t08",
+          "title": "Yakari und die Schneeziege - Teil 7",
+          "index": 7,
+          "startTime": 1288.312,
+          "duration": 194.001
+        },
+        {
+          "id": "yaka-folg-5059-t09",
+          "title": "Yakari und die Schneeziege - Teil 8",
+          "index": 8,
+          "startTime": 1482.313,
+          "duration": 182.377
+        },
+        {
+          "id": "yaka-folg-5059-t10",
+          "title": "Yakari und die Schneeziege - Teil 9",
+          "index": 9,
+          "startTime": 1664.69,
+          "duration": 183.36
+        },
+        {
+          "id": "yaka-folg-5059-t11",
+          "title": "Yakari und die Schneeziege - Teil 10",
+          "index": 10,
+          "startTime": 1848.05,
+          "duration": 189.442
+        },
+        {
+          "id": "yaka-folg-5059-t12",
+          "title": "Yakari und die Schneeziege - Teil 11",
+          "index": 11,
+          "startTime": 2037.492,
+          "duration": 183.814
+        },
+        {
+          "id": "yaka-folg-5059-t13",
+          "title": "Yakari und die Schneeziege - Teil 12",
+          "index": 12,
+          "startTime": 2221.306,
+          "duration": 320.622
+        },
+        {
+          "id": "yaka-folg-5059-t14",
+          "title": "Yakari und die Schneeziege - Teil 13",
+          "index": 13,
+          "startTime": 2541.928,
+          "duration": 190.595
+        },
+        {
+          "id": "yaka-folg-5059-t15",
+          "title": "Yakari und die Schneeziege - Teil 14",
+          "index": 14,
+          "startTime": 2732.523,
+          "duration": 191.075
+        },
+        {
+          "id": "yaka-folg-5059-t16",
+          "title": "Das Monster im See - Outro",
+          "index": 15,
+          "startTime": 2923.598,
+          "duration": 88.937
+        }
+      ]
     },
     {
       "id": "1562969184",
@@ -41,11 +253,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/46/72/ab/4672ab25-b27a-7b94-e538-110bff440f9a/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Yakari', das typischerweise in Hörspiel-Form präsentiert wird.",
-      "totalDuration": 0,
+      "totalDuration": 2969.533,
       "platforms": {
         "appleMusic": "1562969184"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-9184-t01",
+          "title": "Yakari bei den Bären - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.506
+        },
+        {
+          "id": "yaka-folg-9184-t02",
+          "title": "Yakari bei den Bären - Teil 1",
+          "index": 1,
+          "startTime": 30.506,
+          "duration": 180.803
+        },
+        {
+          "id": "yaka-folg-9184-t03",
+          "title": "Yakari bei den Bären - Teil 2",
+          "index": 2,
+          "startTime": 211.309,
+          "duration": 180.883
+        },
+        {
+          "id": "yaka-folg-9184-t04",
+          "title": "Yakari bei den Bären - Teil 3",
+          "index": 3,
+          "startTime": 392.192,
+          "duration": 184.605
+        },
+        {
+          "id": "yaka-folg-9184-t05",
+          "title": "Yakari bei den Bären - Teil 4",
+          "index": 4,
+          "startTime": 576.797,
+          "duration": 116.18
+        },
+        {
+          "id": "yaka-folg-9184-t06",
+          "title": "Yakari bei den Bären - Teil 5",
+          "index": 5,
+          "startTime": 692.977,
+          "duration": 335.612
+        },
+        {
+          "id": "yaka-folg-9184-t07",
+          "title": "Yakari bei den Bären - Teil 6",
+          "index": 6,
+          "startTime": 1028.589,
+          "duration": 194.115
+        },
+        {
+          "id": "yaka-folg-9184-t08",
+          "title": "Yakari bei den Bären - Teil 7",
+          "index": 7,
+          "startTime": 1222.704,
+          "duration": 222.894
+        },
+        {
+          "id": "yaka-folg-9184-t09",
+          "title": "Yakari bei den Bären - Teil 8",
+          "index": 8,
+          "startTime": 1445.598,
+          "duration": 195.25
+        },
+        {
+          "id": "yaka-folg-9184-t10",
+          "title": "Yakari bei den Bären - Teil 9",
+          "index": 9,
+          "startTime": 1640.848,
+          "duration": 181.985
+        },
+        {
+          "id": "yaka-folg-9184-t11",
+          "title": "Yakari bei den Bären - Teil 10",
+          "index": 10,
+          "startTime": 1822.833,
+          "duration": 187.412
+        },
+        {
+          "id": "yaka-folg-9184-t12",
+          "title": "Yakari bei den Bären - Teil 11",
+          "index": 11,
+          "startTime": 2010.245,
+          "duration": 188.851
+        },
+        {
+          "id": "yaka-folg-9184-t13",
+          "title": "Yakari bei den Bären - Teil 12",
+          "index": 12,
+          "startTime": 2199.096,
+          "duration": 296.901
+        },
+        {
+          "id": "yaka-folg-9184-t14",
+          "title": "Yakari bei den Bären - Teil 13",
+          "index": 13,
+          "startTime": 2495.997,
+          "duration": 180.265
+        },
+        {
+          "id": "yaka-folg-9184-t15",
+          "title": "Yakari bei den Bären - Teil 14",
+          "index": 14,
+          "startTime": 2676.262,
+          "duration": 192.405
+        },
+        {
+          "id": "yaka-folg-9184-t16",
+          "title": "Der kleine Kojote - Outro",
+          "index": 15,
+          "startTime": 2868.667,
+          "duration": 100.866
+        }
+      ]
     },
     {
       "id": "1562998566",
@@ -54,11 +379,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/0e/c0/430ec075-1b64-c241-8190-ba3a4d68a4ed/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Hörspiel zur TV-Serie 'Yakari', Teil der Serie 'Folge 4: Kleiner Dachs läuft davon'.",
-      "totalDuration": 0,
+      "totalDuration": 2999.838,
       "platforms": {
         "appleMusic": "1562998566"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-8566-t01",
+          "title": "Die sprechende Eiche - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.441
+        },
+        {
+          "id": "yaka-folg-8566-t02",
+          "title": "Die sprechende Eiche - Teil 1",
+          "index": 1,
+          "startTime": 30.441,
+          "duration": 189.603
+        },
+        {
+          "id": "yaka-folg-8566-t03",
+          "title": "Die sprechende Eiche - Teil 2",
+          "index": 2,
+          "startTime": 220.044,
+          "duration": 184.374
+        },
+        {
+          "id": "yaka-folg-8566-t04",
+          "title": "Die sprechende Eiche - Teil 3",
+          "index": 3,
+          "startTime": 404.418,
+          "duration": 189.287
+        },
+        {
+          "id": "yaka-folg-8566-t05",
+          "title": "Die sprechende Eiche - Teil 4",
+          "index": 4,
+          "startTime": 593.705,
+          "duration": 213.574
+        },
+        {
+          "id": "yaka-folg-8566-t06",
+          "title": "Die verfluchte Schlucht - Teil 1",
+          "index": 5,
+          "startTime": 807.279,
+          "duration": 204.463
+        },
+        {
+          "id": "yaka-folg-8566-t07",
+          "title": "Die verfluchte Schlucht - Teil 2",
+          "index": 6,
+          "startTime": 1011.742,
+          "duration": 181.933
+        },
+        {
+          "id": "yaka-folg-8566-t08",
+          "title": "Die verfluchte Schlucht - Teil 3",
+          "index": 7,
+          "startTime": 1193.675,
+          "duration": 185.034
+        },
+        {
+          "id": "yaka-folg-8566-t09",
+          "title": "Die verfluchte Schlucht - Teil 4",
+          "index": 8,
+          "startTime": 1378.709,
+          "duration": 194.477
+        },
+        {
+          "id": "yaka-folg-8566-t10",
+          "title": "Der fliegende Dieb - Teil 1",
+          "index": 9,
+          "startTime": 1573.186,
+          "duration": 297.091
+        },
+        {
+          "id": "yaka-folg-8566-t11",
+          "title": "Der fliegende Dieb - Teil 2",
+          "index": 10,
+          "startTime": 1870.277,
+          "duration": 184.302
+        },
+        {
+          "id": "yaka-folg-8566-t12",
+          "title": "Der fliegende Dieb - Teil 3",
+          "index": 11,
+          "startTime": 2054.579,
+          "duration": 188.53
+        },
+        {
+          "id": "yaka-folg-8566-t13",
+          "title": "Kleiner Dachs läuft davon - Teil 1",
+          "index": 12,
+          "startTime": 2243.109,
+          "duration": 284.577
+        },
+        {
+          "id": "yaka-folg-8566-t14",
+          "title": "Kleiner Dachs läuft davon - Teil 2",
+          "index": 13,
+          "startTime": 2527.686,
+          "duration": 190.122
+        },
+        {
+          "id": "yaka-folg-8566-t15",
+          "title": "Kleiner Dachs läuft davon - Teil 3",
+          "index": 14,
+          "startTime": 2717.808,
+          "duration": 183.079
+        },
+        {
+          "id": "yaka-folg-8566-t16",
+          "title": "Kleiner Dachs läuft davon - Outro",
+          "index": 15,
+          "startTime": 2900.887,
+          "duration": 98.951
+        }
+      ]
     },
     {
       "id": "1562992672",
@@ -67,11 +505,117 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/a8/45/1ea845be-1a96-e2ae-ed95-4979e4afb0f6/cover.jpg/100x100bb.jpg",
       "description": "Ein Original-Hörspiel zur TV-Serie mit 15 Tracks, das auf dem Album veröffentlicht wurde.",
-      "totalDuration": 0,
+      "totalDuration": 2890.678,
       "platforms": {
         "appleMusic": "1562992672"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-2672-t01",
+          "title": "Freunde fürs Leben - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 31.603
+        },
+        {
+          "id": "yaka-folg-2672-t02",
+          "title": "Freunde fürs Leben - Teil 1",
+          "index": 1,
+          "startTime": 31.603,
+          "duration": 189.809
+        },
+        {
+          "id": "yaka-folg-2672-t03",
+          "title": "Freunde fürs Leben - Teil 2",
+          "index": 2,
+          "startTime": 221.412,
+          "duration": 188.004
+        },
+        {
+          "id": "yaka-folg-2672-t04",
+          "title": "Freunde fürs Leben - Teil 3",
+          "index": 3,
+          "startTime": 409.416,
+          "duration": 182.936
+        },
+        {
+          "id": "yaka-folg-2672-t05",
+          "title": "Freunde fürs Leben - Teil 4",
+          "index": 4,
+          "startTime": 592.352,
+          "duration": 189.023
+        },
+        {
+          "id": "yaka-folg-2672-t06",
+          "title": "Freunde fürs Leben - Teil 5",
+          "index": 5,
+          "startTime": 781.375,
+          "duration": 295.257
+        },
+        {
+          "id": "yaka-folg-2672-t07",
+          "title": "Freunde fürs Leben - Teil 6",
+          "index": 6,
+          "startTime": 1076.632,
+          "duration": 195.772
+        },
+        {
+          "id": "yaka-folg-2672-t08",
+          "title": "Freunde fürs Leben - Teil 7",
+          "index": 7,
+          "startTime": 1272.404,
+          "duration": 204.629
+        },
+        {
+          "id": "yaka-folg-2672-t09",
+          "title": "Freunde fürs Leben - Teil 8",
+          "index": 8,
+          "startTime": 1477.033,
+          "duration": 269.14
+        },
+        {
+          "id": "yaka-folg-2672-t10",
+          "title": "Freunde fürs Leben - Teil 9",
+          "index": 9,
+          "startTime": 1746.173,
+          "duration": 185.373
+        },
+        {
+          "id": "yaka-folg-2672-t11",
+          "title": "Freunde fürs Leben - Teil 10",
+          "index": 10,
+          "startTime": 1931.546,
+          "duration": 185.814
+        },
+        {
+          "id": "yaka-folg-2672-t12",
+          "title": "Freunde fürs Leben - Teil 11",
+          "index": 11,
+          "startTime": 2117.36,
+          "duration": 290.523
+        },
+        {
+          "id": "yaka-folg-2672-t13",
+          "title": "Freunde fürs Leben - Teil 12",
+          "index": 12,
+          "startTime": 2407.883,
+          "duration": 186.621
+        },
+        {
+          "id": "yaka-folg-2672-t14",
+          "title": "Freunde fürs Leben - Teil 13",
+          "index": 13,
+          "startTime": 2594.504,
+          "duration": 200.943
+        },
+        {
+          "id": "yaka-folg-2672-t15",
+          "title": "Freunde fürs Leben - Outro",
+          "index": 14,
+          "startTime": 2795.447,
+          "duration": 95.231
+        }
+      ]
     },
     {
       "id": "1562998232",
@@ -80,11 +624,110 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/97/26/bf972642-8259-519d-cde3-a98ccc071c95/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Yakari, das sich auf Abenteuer im indigenen Kulturkontext konzentriert.",
-      "totalDuration": 0,
+      "totalDuration": 2696.754,
       "platforms": {
         "appleMusic": "1562998232"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-8232-t01",
+          "title": "Der alte Bison - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.588
+        },
+        {
+          "id": "yaka-folg-8232-t02",
+          "title": "Der alte Bison - Teil 1",
+          "index": 1,
+          "startTime": 30.588,
+          "duration": 196.733
+        },
+        {
+          "id": "yaka-folg-8232-t03",
+          "title": "Der alte Bison - Teil 2",
+          "index": 2,
+          "startTime": 227.321,
+          "duration": 180.577
+        },
+        {
+          "id": "yaka-folg-8232-t04",
+          "title": "Der alte Bison - Teil 3",
+          "index": 3,
+          "startTime": 407.898,
+          "duration": 184.435
+        },
+        {
+          "id": "yaka-folg-8232-t05",
+          "title": "Der alte Bison - Teil 4",
+          "index": 4,
+          "startTime": 592.333,
+          "duration": 180.268
+        },
+        {
+          "id": "yaka-folg-8232-t06",
+          "title": "Der alte Bison - Teil 5",
+          "index": 5,
+          "startTime": 772.601,
+          "duration": 307.478
+        },
+        {
+          "id": "yaka-folg-8232-t07",
+          "title": "Der alte Bison - Teil 6",
+          "index": 6,
+          "startTime": 1080.079,
+          "duration": 181.156
+        },
+        {
+          "id": "yaka-folg-8232-t08",
+          "title": "Der alte Bison - Teil 7",
+          "index": 7,
+          "startTime": 1261.235,
+          "duration": 187.673
+        },
+        {
+          "id": "yaka-folg-8232-t09",
+          "title": "Der alte Bison - Teil 8",
+          "index": 8,
+          "startTime": 1448.908,
+          "duration": 295.591
+        },
+        {
+          "id": "yaka-folg-8232-t10",
+          "title": "Der alte Bison - Teil 9",
+          "index": 9,
+          "startTime": 1744.499,
+          "duration": 180.608
+        },
+        {
+          "id": "yaka-folg-8232-t11",
+          "title": "Der alte Bison - Teil 10",
+          "index": 10,
+          "startTime": 1925.107,
+          "duration": 188.547
+        },
+        {
+          "id": "yaka-folg-8232-t12",
+          "title": "Der alte Bison - Teil 11",
+          "index": 11,
+          "startTime": 2113.654,
+          "duration": 289.949
+        },
+        {
+          "id": "yaka-folg-8232-t13",
+          "title": "Der alte Bison - Teil 12",
+          "index": 12,
+          "startTime": 2403.603,
+          "duration": 195.208
+        },
+        {
+          "id": "yaka-folg-8232-t14",
+          "title": "Ein Mustang für Großer Bogen - Outro",
+          "index": 13,
+          "startTime": 2598.811,
+          "duration": 97.943
+        }
+      ]
     },
     {
       "id": "1562992626",
@@ -93,11 +736,117 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/8c/d5/f08cd564-4bd8-7c7f-fca7-263ab03f529b/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Hörspiel 'Folge 7: Schneeball in Gefahr', das das Original-Hörspiel zur TV-Serie ist.",
-      "totalDuration": 0,
+      "totalDuration": 2798.543,
       "platforms": {
         "appleMusic": "1562992626"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-2626-t01",
+          "title": "Schnellball in Gefahr - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.677
+        },
+        {
+          "id": "yaka-folg-2626-t02",
+          "title": "Schnellball in Gefahr - Teil 1",
+          "index": 1,
+          "startTime": 30.677,
+          "duration": 186.303
+        },
+        {
+          "id": "yaka-folg-2626-t03",
+          "title": "Schnellball in Gefahr - Teil 2",
+          "index": 2,
+          "startTime": 216.98,
+          "duration": 181.961
+        },
+        {
+          "id": "yaka-folg-2626-t04",
+          "title": "Schnellball in Gefahr - Teil 3",
+          "index": 3,
+          "startTime": 398.941,
+          "duration": 183.07
+        },
+        {
+          "id": "yaka-folg-2626-t05",
+          "title": "Schnellball in Gefahr - Teil 4",
+          "index": 4,
+          "startTime": 582.011,
+          "duration": 186.142
+        },
+        {
+          "id": "yaka-folg-2626-t06",
+          "title": "Schnellball in Gefahr - Teil 5",
+          "index": 5,
+          "startTime": 768.153,
+          "duration": 184.287
+        },
+        {
+          "id": "yaka-folg-2626-t07",
+          "title": "Schnellball in Gefahr - Teil 6",
+          "index": 6,
+          "startTime": 952.44,
+          "duration": 188.779
+        },
+        {
+          "id": "yaka-folg-2626-t08",
+          "title": "Schnellball in Gefahr - Teil 7",
+          "index": 7,
+          "startTime": 1141.219,
+          "duration": 181.529
+        },
+        {
+          "id": "yaka-folg-2626-t09",
+          "title": "Schnellball in Gefahr - Teil 8",
+          "index": 8,
+          "startTime": 1322.748,
+          "duration": 183.026
+        },
+        {
+          "id": "yaka-folg-2626-t10",
+          "title": "Schnellball in Gefahr - Teil 9",
+          "index": 9,
+          "startTime": 1505.774,
+          "duration": 182.254
+        },
+        {
+          "id": "yaka-folg-2626-t11",
+          "title": "Schnellball in Gefahr - Teil 10",
+          "index": 10,
+          "startTime": 1688.028,
+          "duration": 183.771
+        },
+        {
+          "id": "yaka-folg-2626-t12",
+          "title": "Schnellball in Gefahr - Teil 11",
+          "index": 11,
+          "startTime": 1871.799,
+          "duration": 288.925
+        },
+        {
+          "id": "yaka-folg-2626-t13",
+          "title": "Schnellball in Gefahr - Teil 12",
+          "index": 12,
+          "startTime": 2160.724,
+          "duration": 357.119
+        },
+        {
+          "id": "yaka-folg-2626-t14",
+          "title": "Schnellball in Gefahr - Teil 13",
+          "index": 13,
+          "startTime": 2517.843,
+          "duration": 189.671
+        },
+        {
+          "id": "yaka-folg-2626-t15",
+          "title": "Schnellball in Gefahr - Outro",
+          "index": 14,
+          "startTime": 2707.514,
+          "duration": 91.029
+        }
+      ]
     },
     {
       "id": "1562992142",
@@ -106,11 +855,117 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/18/0e/27180ec4-07ed-7046-02c6-c1719c1d61b0/cover.jpg/100x100bb.jpg",
       "description": "Ein Album, das als Hörspiel zur TV-Serie erscheint, passt in die Kategorie des Hörspiels.",
-      "totalDuration": 0,
+      "totalDuration": 2914.128,
       "platforms": {
         "appleMusic": "1562992142"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-2142-t01",
+          "title": "Der Gesang des Raben - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 31.018
+        },
+        {
+          "id": "yaka-folg-2142-t02",
+          "title": "Der Gesang des Raben - Teil 1",
+          "index": 1,
+          "startTime": 31.018,
+          "duration": 197.606
+        },
+        {
+          "id": "yaka-folg-2142-t03",
+          "title": "Der Gesang des Raben - Teil 2",
+          "index": 2,
+          "startTime": 228.624,
+          "duration": 182.7
+        },
+        {
+          "id": "yaka-folg-2142-t04",
+          "title": "Der Gesang des Raben - Teil 3",
+          "index": 3,
+          "startTime": 411.324,
+          "duration": 187.71
+        },
+        {
+          "id": "yaka-folg-2142-t05",
+          "title": "Der Gesang des Raben - Teil 4",
+          "index": 4,
+          "startTime": 599.034,
+          "duration": 182.692
+        },
+        {
+          "id": "yaka-folg-2142-t06",
+          "title": "Der Gesang des Raben - Teil 5",
+          "index": 5,
+          "startTime": 781.726,
+          "duration": 317.013
+        },
+        {
+          "id": "yaka-folg-2142-t07",
+          "title": "Der Gesang des Raben - Teil 6",
+          "index": 6,
+          "startTime": 1098.739,
+          "duration": 186.101
+        },
+        {
+          "id": "yaka-folg-2142-t08",
+          "title": "Der Gesang des Raben - Teil 7",
+          "index": 7,
+          "startTime": 1284.84,
+          "duration": 213.096
+        },
+        {
+          "id": "yaka-folg-2142-t09",
+          "title": "Der Gesang des Raben - Teil 8",
+          "index": 8,
+          "startTime": 1497.936,
+          "duration": 269.591
+        },
+        {
+          "id": "yaka-folg-2142-t10",
+          "title": "Der Gesang des Raben - Teil 9",
+          "index": 9,
+          "startTime": 1767.527,
+          "duration": 182.841
+        },
+        {
+          "id": "yaka-folg-2142-t11",
+          "title": "Der Gesang des Raben - Teil 10",
+          "index": 10,
+          "startTime": 1950.368,
+          "duration": 229.421
+        },
+        {
+          "id": "yaka-folg-2142-t12",
+          "title": "Der Gesang des Raben - Teil 11",
+          "index": 11,
+          "startTime": 2179.789,
+          "duration": 245.977
+        },
+        {
+          "id": "yaka-folg-2142-t13",
+          "title": "Der Gesang des Raben - Teil 12",
+          "index": 12,
+          "startTime": 2425.766,
+          "duration": 191.174
+        },
+        {
+          "id": "yaka-folg-2142-t14",
+          "title": "Der Gesang des Raben - Teil 13",
+          "index": 13,
+          "startTime": 2616.94,
+          "duration": 191.449
+        },
+        {
+          "id": "yaka-folg-2142-t15",
+          "title": "Das Geschenk an den Stamm - Outro",
+          "index": 14,
+          "startTime": 2808.389,
+          "duration": 105.739
+        }
+      ]
     },
     {
       "id": "1562998377",
@@ -119,11 +974,103 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/29/b6/c729b612-92cc-ba4f-358a-c179399e2cc4/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspiel zur TV-Serie Yakari, das auf Musikplattformen wie Apple Music verfügbar ist.",
-      "totalDuration": 0,
+      "totalDuration": 2771.804,
       "platforms": {
         "appleMusic": "1562998377"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-8377-t01",
+          "title": "Yakari und die Pferdediebe - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.394
+        },
+        {
+          "id": "yaka-folg-8377-t02",
+          "title": "Yakari und die Pferdediebe - Teil 1",
+          "index": 1,
+          "startTime": 32.394,
+          "duration": 224.733
+        },
+        {
+          "id": "yaka-folg-8377-t03",
+          "title": "Yakari und die Pferdediebe - Teil 2",
+          "index": 2,
+          "startTime": 257.127,
+          "duration": 204.405
+        },
+        {
+          "id": "yaka-folg-8377-t04",
+          "title": "Yakari und die Pferdediebe - Teil 3",
+          "index": 3,
+          "startTime": 461.532,
+          "duration": 282.954
+        },
+        {
+          "id": "yaka-folg-8377-t05",
+          "title": "Das verlorene Vogelnest - Teil 1",
+          "index": 4,
+          "startTime": 744.486,
+          "duration": 214.564
+        },
+        {
+          "id": "yaka-folg-8377-t06",
+          "title": "Das verlorene Vogelnest - Teil 2",
+          "index": 5,
+          "startTime": 959.05,
+          "duration": 213.067
+        },
+        {
+          "id": "yaka-folg-8377-t07",
+          "title": "Das verlorene Vogelnest - Teil 3",
+          "index": 6,
+          "startTime": 1172.117,
+          "duration": 302.447
+        },
+        {
+          "id": "yaka-folg-8377-t08",
+          "title": "Hilfe vom griesgrämigen Esel - Teil 1",
+          "index": 7,
+          "startTime": 1474.564,
+          "duration": 252.726
+        },
+        {
+          "id": "yaka-folg-8377-t09",
+          "title": "Hilfe vom griesgrämigen Esel - Teil 2",
+          "index": 8,
+          "startTime": 1727.29,
+          "duration": 333.231
+        },
+        {
+          "id": "yaka-folg-8377-t10",
+          "title": "Man muss warten können - Teil 1",
+          "index": 9,
+          "startTime": 2060.521,
+          "duration": 201.174
+        },
+        {
+          "id": "yaka-folg-8377-t11",
+          "title": "Man muss warten können - Teil 2",
+          "index": 10,
+          "startTime": 2261.695,
+          "duration": 199.868
+        },
+        {
+          "id": "yaka-folg-8377-t12",
+          "title": "Man muss warten können - Teil 3",
+          "index": 11,
+          "startTime": 2461.563,
+          "duration": 194.356
+        },
+        {
+          "id": "yaka-folg-8377-t13",
+          "title": "Man muss warten können - Outro",
+          "index": 12,
+          "startTime": 2655.919,
+          "duration": 115.885
+        }
+      ]
     },
     {
       "id": "1562326166",
@@ -132,11 +1079,96 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ba/3a/10/ba3a104a-68ca-a5f2-7dcc-557dda57fc1c/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum basierend auf einer TV-Serie, das Spannung und Spannung bietet.",
-      "totalDuration": 0,
+      "totalDuration": 2691.902,
       "platforms": {
         "appleMusic": "1562326166"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-6166-t01",
+          "title": "Der Traumfänger - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.133
+        },
+        {
+          "id": "yaka-folg-6166-t02",
+          "title": "Der Traumfänger - Teil 1",
+          "index": 1,
+          "startTime": 32.133,
+          "duration": 265.24
+        },
+        {
+          "id": "yaka-folg-6166-t03",
+          "title": "Der Traumfänger - Teil 2",
+          "index": 2,
+          "startTime": 297.373,
+          "duration": 342.482
+        },
+        {
+          "id": "yaka-folg-6166-t04",
+          "title": "Das Gesetz der Natur - Teil 1",
+          "index": 3,
+          "startTime": 639.855,
+          "duration": 185.72
+        },
+        {
+          "id": "yaka-folg-6166-t05",
+          "title": "Das Gesetz der Natur - Teil 2",
+          "index": 4,
+          "startTime": 825.575,
+          "duration": 181.721
+        },
+        {
+          "id": "yaka-folg-6166-t06",
+          "title": "Das Gesetz der Natur - Teil 3",
+          "index": 5,
+          "startTime": 1007.296,
+          "duration": 286.233
+        },
+        {
+          "id": "yaka-folg-6166-t07",
+          "title": "Die Mutprobe - Teil 1",
+          "index": 6,
+          "startTime": 1293.529,
+          "duration": 225.346
+        },
+        {
+          "id": "yaka-folg-6166-t08",
+          "title": "Die Mutprobe - Teil 2",
+          "index": 7,
+          "startTime": 1518.875,
+          "duration": 238.205
+        },
+        {
+          "id": "yaka-folg-6166-t09",
+          "title": "Die Mutprobe - Teil 3",
+          "index": 8,
+          "startTime": 1757.08,
+          "duration": 329.379
+        },
+        {
+          "id": "yaka-folg-6166-t10",
+          "title": "Der Ausreisser - Teil 1",
+          "index": 9,
+          "startTime": 2086.459,
+          "duration": 247.464
+        },
+        {
+          "id": "yaka-folg-6166-t11",
+          "title": "Der Ausreisser - Teil 2",
+          "index": 10,
+          "startTime": 2333.923,
+          "duration": 256.66
+        },
+        {
+          "id": "yaka-folg-6166-t12",
+          "title": "Der Ausreisser - Outro",
+          "index": 11,
+          "startTime": 2590.583,
+          "duration": 101.319
+        }
+      ]
     },
     {
       "id": "1562666354",
@@ -145,11 +1177,103 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/24/23/77242377-44e9-b689-408e-289581d60c1d/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Yakari' und gehört zur Kategorie Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 2651.633,
       "platforms": {
         "appleMusic": "1562666354"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-6354-t01",
+          "title": "Freundschaft auf dem Prüfstand - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.116
+        },
+        {
+          "id": "yaka-folg-6354-t02",
+          "title": "Freundschaft auf dem Prüfstand - Teil 1",
+          "index": 1,
+          "startTime": 30.116,
+          "duration": 185.88
+        },
+        {
+          "id": "yaka-folg-6354-t03",
+          "title": "Freundschaft auf dem Prüfstand - Teil 2",
+          "index": 2,
+          "startTime": 215.996,
+          "duration": 192.212
+        },
+        {
+          "id": "yaka-folg-6354-t04",
+          "title": "Freundschaft auf dem Prüfstand - Teil 3",
+          "index": 3,
+          "startTime": 408.208,
+          "duration": 274.881
+        },
+        {
+          "id": "yaka-folg-6354-t05",
+          "title": "Das große Nest - Teil 1",
+          "index": 4,
+          "startTime": 683.089,
+          "duration": 257.22
+        },
+        {
+          "id": "yaka-folg-6354-t06",
+          "title": "Das große Nest - Teil 2",
+          "index": 5,
+          "startTime": 940.309,
+          "duration": 350.878
+        },
+        {
+          "id": "yaka-folg-6354-t07",
+          "title": "Die Spur des Zauberbisons - Teil 1",
+          "index": 6,
+          "startTime": 1291.187,
+          "duration": 195.87
+        },
+        {
+          "id": "yaka-folg-6354-t08",
+          "title": "Die Spur des Zauberbisons - Teil 2",
+          "index": 7,
+          "startTime": 1487.057,
+          "duration": 215.077
+        },
+        {
+          "id": "yaka-folg-6354-t09",
+          "title": "Die Spur des Zauberbisons - Teil 3",
+          "index": 8,
+          "startTime": 1702.134,
+          "duration": 295.591
+        },
+        {
+          "id": "yaka-folg-6354-t10",
+          "title": "Die Suche nach kleiner Donner - Teil 1",
+          "index": 9,
+          "startTime": 1997.725,
+          "duration": 181.036
+        },
+        {
+          "id": "yaka-folg-6354-t11",
+          "title": "Die Suche nach kleiner Donner - Teil 2",
+          "index": 10,
+          "startTime": 2178.761,
+          "duration": 187.417
+        },
+        {
+          "id": "yaka-folg-6354-t12",
+          "title": "Die Suche nach kleiner Donner - Teil 3",
+          "index": 11,
+          "startTime": 2366.178,
+          "duration": 189.381
+        },
+        {
+          "id": "yaka-folg-6354-t13",
+          "title": "Die Suche nach kleiner Donner - Outro",
+          "index": 12,
+          "startTime": 2555.559,
+          "duration": 96.074
+        }
+      ]
     },
     {
       "id": "1562326658",
@@ -158,11 +1282,103 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/c1/74/61c17411-06c1-08c1-d749-367daf3b0759/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Yakari', die auf deutschen Märkten populär war. Es passt somit perfekt zur Kategorie Hörspiel.",
-      "totalDuration": 0,
+      "totalDuration": 2641.84,
       "platforms": {
         "appleMusic": "1562326658"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-6658-t01",
+          "title": "Der Herrscher der Prärie - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 29.901
+        },
+        {
+          "id": "yaka-folg-6658-t02",
+          "title": "Der Herrscher der Prärie - Teil 1",
+          "index": 1,
+          "startTime": 29.901,
+          "duration": 248.494
+        },
+        {
+          "id": "yaka-folg-6658-t03",
+          "title": "Der Herrscher der Prärie - Teil 2",
+          "index": 2,
+          "startTime": 278.395,
+          "duration": 342.708
+        },
+        {
+          "id": "yaka-folg-6658-t04",
+          "title": "Der verirrte Pelikan - Teil 1",
+          "index": 3,
+          "startTime": 621.103,
+          "duration": 193.247
+        },
+        {
+          "id": "yaka-folg-6658-t05",
+          "title": "Der verirrte Pelikan - Teil 2",
+          "index": 4,
+          "startTime": 814.35,
+          "duration": 200.222
+        },
+        {
+          "id": "yaka-folg-6658-t06",
+          "title": "Der verirrte Pelikan - Teil 3",
+          "index": 5,
+          "startTime": 1014.572,
+          "duration": 278.075
+        },
+        {
+          "id": "yaka-folg-6658-t07",
+          "title": "Müder Krieger und der Rabe - Teil 1",
+          "index": 6,
+          "startTime": 1292.647,
+          "duration": 190.862
+        },
+        {
+          "id": "yaka-folg-6658-t08",
+          "title": "Müder Krieger und der Rabe - Teil 2",
+          "index": 7,
+          "startTime": 1483.509,
+          "duration": 198.502
+        },
+        {
+          "id": "yaka-folg-6658-t09",
+          "title": "Müder Krieger und der Rabe - Teil 3",
+          "index": 8,
+          "startTime": 1682.011,
+          "duration": 279.455
+        },
+        {
+          "id": "yaka-folg-6658-t10",
+          "title": "Der große Wirbelsturm - Teil 1",
+          "index": 9,
+          "startTime": 1961.466,
+          "duration": 182.381
+        },
+        {
+          "id": "yaka-folg-6658-t11",
+          "title": "Der große Wirbelsturm - Teil 2",
+          "index": 10,
+          "startTime": 2143.847,
+          "duration": 184.721
+        },
+        {
+          "id": "yaka-folg-6658-t12",
+          "title": "Der große Wirbelsturm - Teil 3",
+          "index": 11,
+          "startTime": 2328.568,
+          "duration": 186.661
+        },
+        {
+          "id": "yaka-folg-6658-t13",
+          "title": "Der große Wirbelsturm - Outro",
+          "index": 12,
+          "startTime": 2515.229,
+          "duration": 126.611
+        }
+      ]
     },
     {
       "id": "1191533901",
@@ -171,11 +1387,131 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/ef/07/f1ef07df-6e8e-28e3-c6f8-1ae00b699794/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie Yakari, das speziell für Hörer konzipiert ist.",
-      "totalDuration": 0,
+      "totalDuration": 3131.957,
       "platforms": {
         "appleMusic": "1191533901"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-3901-t01",
+          "title": "Kapitel 1: Yakari und der Riesenvielfraß",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 167.015
+        },
+        {
+          "id": "yaka-folg-3901-t02",
+          "title": "Kapitel 2: Yakari und der Riesenvielfraß",
+          "index": 1,
+          "startTime": 167.015,
+          "duration": 191.396
+        },
+        {
+          "id": "yaka-folg-3901-t03",
+          "title": "Kapitel 3: Yakari und der Riesenvielfraß",
+          "index": 2,
+          "startTime": 358.411,
+          "duration": 180.588
+        },
+        {
+          "id": "yaka-folg-3901-t04",
+          "title": "Kapitel 4: Yakari und der Riesenvielfraß",
+          "index": 3,
+          "startTime": 538.999,
+          "duration": 295.901
+        },
+        {
+          "id": "yaka-folg-3901-t05",
+          "title": "Kapitel 5: Die Rache des Vielfraß",
+          "index": 4,
+          "startTime": 834.9,
+          "duration": 152.652
+        },
+        {
+          "id": "yaka-folg-3901-t06",
+          "title": "Kapitel 6: Die Rache des Vielfraß",
+          "index": 5,
+          "startTime": 987.552,
+          "duration": 182.577
+        },
+        {
+          "id": "yaka-folg-3901-t07",
+          "title": "Kapitel 7: Die Rache des Vielfraß",
+          "index": 6,
+          "startTime": 1170.129,
+          "duration": 145.45
+        },
+        {
+          "id": "yaka-folg-3901-t08",
+          "title": "Kapitel 8: Die Rache des Vielfraß",
+          "index": 7,
+          "startTime": 1315.579,
+          "duration": 265.178
+        },
+        {
+          "id": "yaka-folg-3901-t09",
+          "title": "Kapitel 9: Yakari bei den Bibern",
+          "index": 8,
+          "startTime": 1580.757,
+          "duration": 161.719
+        },
+        {
+          "id": "yaka-folg-3901-t10",
+          "title": "Kapitel 10: Yakari bei den Bibern",
+          "index": 9,
+          "startTime": 1742.476,
+          "duration": 163.171
+        },
+        {
+          "id": "yaka-folg-3901-t11",
+          "title": "Kapitel 11: Yakari bei den Bibern",
+          "index": 10,
+          "startTime": 1905.647,
+          "duration": 148.189
+        },
+        {
+          "id": "yaka-folg-3901-t12",
+          "title": "Kapitel 12: Yakari bei den Bibern",
+          "index": 11,
+          "startTime": 2053.836,
+          "duration": 250.211
+        },
+        {
+          "id": "yaka-folg-3901-t13",
+          "title": "Kapitel 13: Yakari und der Grizzly",
+          "index": 12,
+          "startTime": 2304.047,
+          "duration": 149.9
+        },
+        {
+          "id": "yaka-folg-3901-t14",
+          "title": "Kapitel 14: Yakari und der Grizzly",
+          "index": 13,
+          "startTime": 2453.947,
+          "duration": 148.077
+        },
+        {
+          "id": "yaka-folg-3901-t15",
+          "title": "Kapitel 15: Yakari und der Grizzly",
+          "index": 14,
+          "startTime": 2602.024,
+          "duration": 138.306
+        },
+        {
+          "id": "yaka-folg-3901-t16",
+          "title": "Kapitel 16: Yakari und der Grizzly",
+          "index": 15,
+          "startTime": 2740.33,
+          "duration": 155.861
+        },
+        {
+          "id": "yaka-folg-3901-t17",
+          "title": "Kapitel 17: Yakari und der Grizzly",
+          "index": 16,
+          "startTime": 2896.191,
+          "duration": 235.766
+        }
+      ]
     },
     {
       "id": "1562326730",
@@ -184,11 +1520,110 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/32/90/0d329037-7b88-30bc-5215-72f0215d4ee5/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Yakari', das auf iTunes verfügbar ist.",
-      "totalDuration": 0,
+      "totalDuration": 2896.562,
       "platforms": {
         "appleMusic": "1562326730"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-6730-t01",
+          "title": "Die Gefangenen der Insel - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.812
+        },
+        {
+          "id": "yaka-folg-6730-t02",
+          "title": "Die Gefangenen der Insel - Teil 1",
+          "index": 1,
+          "startTime": 32.812,
+          "duration": 189.212
+        },
+        {
+          "id": "yaka-folg-6730-t03",
+          "title": "Die Gefangenen der Insel - Teil 2",
+          "index": 2,
+          "startTime": 222.024,
+          "duration": 201.58
+        },
+        {
+          "id": "yaka-folg-6730-t04",
+          "title": "Die Gefangenen der Insel - Teil 3",
+          "index": 3,
+          "startTime": 423.604,
+          "duration": 297.479
+        },
+        {
+          "id": "yaka-folg-6730-t05",
+          "title": "Der Feuerwall - Teil 1",
+          "index": 4,
+          "startTime": 721.083,
+          "duration": 183.174
+        },
+        {
+          "id": "yaka-folg-6730-t06",
+          "title": "Der Feuerwall - Teil 2",
+          "index": 5,
+          "startTime": 904.257,
+          "duration": 219.411
+        },
+        {
+          "id": "yaka-folg-6730-t07",
+          "title": "Der Feuerwall - Teil 3",
+          "index": 6,
+          "startTime": 1123.668,
+          "duration": 274.655
+        },
+        {
+          "id": "yaka-folg-6730-t08",
+          "title": "Reise in die Urzeit - Teil 1",
+          "index": 7,
+          "startTime": 1398.323,
+          "duration": 281.753
+        },
+        {
+          "id": "yaka-folg-6730-t09",
+          "title": "Reise in die Urzeit - Teil 2",
+          "index": 8,
+          "startTime": 1680.076,
+          "duration": 191.141
+        },
+        {
+          "id": "yaka-folg-6730-t10",
+          "title": "Reise in die Urzeit - Teil 3",
+          "index": 9,
+          "startTime": 1871.217,
+          "duration": 268.773
+        },
+        {
+          "id": "yaka-folg-6730-t11",
+          "title": "Das Geheimnis von Kleiner Donner - Teil 1",
+          "index": 10,
+          "startTime": 2139.99,
+          "duration": 231.056
+        },
+        {
+          "id": "yaka-folg-6730-t12",
+          "title": "Das Geheimnis von Kleiner Donner - Teil 2",
+          "index": 11,
+          "startTime": 2371.046,
+          "duration": 205.213
+        },
+        {
+          "id": "yaka-folg-6730-t13",
+          "title": "Das Geheimnis von Kleiner Donner - Teil 3",
+          "index": 12,
+          "startTime": 2576.259,
+          "duration": 209.054
+        },
+        {
+          "id": "yaka-folg-6730-t14",
+          "title": "Das Geheimnis von Kleiner Donner - Outro",
+          "index": 13,
+          "startTime": 2785.313,
+          "duration": 111.249
+        }
+      ]
     },
     {
       "id": "1568729554",
@@ -197,11 +1632,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/5b/b1/725bb1ec-c8c9-5bf0-767c-400babc47c64/cover.jpg/100x100bb.jpg",
       "description": "Ein Album mit dem Titel 'Folge 15: Die große Dürre' deutet eindeutig auf ein Hörspiel hin, das mit der TV-Serie verknüpft ist. Es ist ein Original-Hörspiel von Yakari, das 16 Tracks umfasst.",
-      "totalDuration": 0,
+      "totalDuration": 3341.323,
       "platforms": {
         "appleMusic": "1568729554"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-9554-t01",
+          "title": "Die große Dürre - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.049
+        },
+        {
+          "id": "yaka-folg-9554-t02",
+          "title": "Die große Dürre - Teil 1",
+          "index": 1,
+          "startTime": 32.049,
+          "duration": 187.248
+        },
+        {
+          "id": "yaka-folg-9554-t03",
+          "title": "Die große Dürre - Teil 2",
+          "index": 2,
+          "startTime": 219.297,
+          "duration": 187.031
+        },
+        {
+          "id": "yaka-folg-9554-t04",
+          "title": "Die große Dürre - Teil 3",
+          "index": 3,
+          "startTime": 406.328,
+          "duration": 181.469
+        },
+        {
+          "id": "yaka-folg-9554-t05",
+          "title": "Die große Dürre - Teil 4",
+          "index": 4,
+          "startTime": 587.797,
+          "duration": 278.21
+        },
+        {
+          "id": "yaka-folg-9554-t06",
+          "title": "Yakari und der weiße Bär - Teil 1",
+          "index": 5,
+          "startTime": 866.007,
+          "duration": 190.332
+        },
+        {
+          "id": "yaka-folg-9554-t07",
+          "title": "Yakari und der weiße Bär - Teil 2",
+          "index": 6,
+          "startTime": 1056.339,
+          "duration": 189.505
+        },
+        {
+          "id": "yaka-folg-9554-t08",
+          "title": "Yakari und der weiße Bär - Teil 3",
+          "index": 7,
+          "startTime": 1245.844,
+          "duration": 186.37
+        },
+        {
+          "id": "yaka-folg-9554-t09",
+          "title": "Yakari und der weiße Bär - Teil 4",
+          "index": 8,
+          "startTime": 1432.214,
+          "duration": 271.571
+        },
+        {
+          "id": "yaka-folg-9554-t10",
+          "title": "Der geheimnisvolle Fischer - Teil 1",
+          "index": 9,
+          "startTime": 1703.785,
+          "duration": 236.361
+        },
+        {
+          "id": "yaka-folg-9554-t11",
+          "title": "Der geheimnisvolle Fischer - Teil 2",
+          "index": 10,
+          "startTime": 1940.146,
+          "duration": 239.358
+        },
+        {
+          "id": "yaka-folg-9554-t12",
+          "title": "Der geheimnisvolle Fischer - Teil 3",
+          "index": 11,
+          "startTime": 2179.504,
+          "duration": 329.444
+        },
+        {
+          "id": "yaka-folg-9554-t13",
+          "title": "Yakari und Großer Bogen - Teil 1",
+          "index": 12,
+          "startTime": 2508.948,
+          "duration": 235.337
+        },
+        {
+          "id": "yaka-folg-9554-t14",
+          "title": "Yakari und Großer Bogen - Teil 2",
+          "index": 13,
+          "startTime": 2744.285,
+          "duration": 236.16
+        },
+        {
+          "id": "yaka-folg-9554-t15",
+          "title": "Yakari und Großer Bogen - Teil 3",
+          "index": 14,
+          "startTime": 2980.445,
+          "duration": 243.534
+        },
+        {
+          "id": "yaka-folg-9554-t16",
+          "title": "Yakari und Großer Bogen - Outro",
+          "index": 15,
+          "startTime": 3223.979,
+          "duration": 117.344
+        }
+      ]
     },
     {
       "id": "1568729771",
@@ -210,11 +1758,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/5b/be/435bbe08-4010-881a-ea96-78fe26ab131a/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie 'Yakari', das sich an ein junges Publikum richtet.",
-      "totalDuration": 0,
+      "totalDuration": 3249.213,
       "platforms": {
         "appleMusic": "1568729771"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-9771-t01",
+          "title": "Das singende Holz - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.212
+        },
+        {
+          "id": "yaka-folg-9771-t02",
+          "title": "Das singende Holz - Teil 1",
+          "index": 1,
+          "startTime": 32.212,
+          "duration": 217.175
+        },
+        {
+          "id": "yaka-folg-9771-t03",
+          "title": "Das singende Holz - Teil 2",
+          "index": 2,
+          "startTime": 249.387,
+          "duration": 219.765
+        },
+        {
+          "id": "yaka-folg-9771-t04",
+          "title": "Das singende Holz - Teil 3",
+          "index": 3,
+          "startTime": 469.152,
+          "duration": 303.72
+        },
+        {
+          "id": "yaka-folg-9771-t05",
+          "title": "Die Geistermaske - Teil 1",
+          "index": 4,
+          "startTime": 772.872,
+          "duration": 187.639
+        },
+        {
+          "id": "yaka-folg-9771-t06",
+          "title": "Die Geistermaske - Teil 2",
+          "index": 5,
+          "startTime": 960.511,
+          "duration": 195.78
+        },
+        {
+          "id": "yaka-folg-9771-t07",
+          "title": "Die Geistermaske - Teil 3",
+          "index": 6,
+          "startTime": 1156.291,
+          "duration": 190.973
+        },
+        {
+          "id": "yaka-folg-9771-t08",
+          "title": "Die Geistermaske - Teil 4",
+          "index": 7,
+          "startTime": 1347.264,
+          "duration": 281.705
+        },
+        {
+          "id": "yaka-folg-9771-t09",
+          "title": "Der Sohn des Windes - Teil 1",
+          "index": 8,
+          "startTime": 1628.969,
+          "duration": 223.886
+        },
+        {
+          "id": "yaka-folg-9771-t10",
+          "title": "Der Sohn des Windes - Teil 2",
+          "index": 9,
+          "startTime": 1852.855,
+          "duration": 212.669
+        },
+        {
+          "id": "yaka-folg-9771-t11",
+          "title": "Der Sohn des Windes - Teil 3",
+          "index": 10,
+          "startTime": 2065.524,
+          "duration": 318.681
+        },
+        {
+          "id": "yaka-folg-9771-t12",
+          "title": "Das heilige Gestein - Teil 1",
+          "index": 11,
+          "startTime": 2384.205,
+          "duration": 182.672
+        },
+        {
+          "id": "yaka-folg-9771-t13",
+          "title": "Das heilige Gestein - Teil 2",
+          "index": 12,
+          "startTime": 2566.877,
+          "duration": 194.737
+        },
+        {
+          "id": "yaka-folg-9771-t14",
+          "title": "Das heilige Gestein - Teil 3",
+          "index": 13,
+          "startTime": 2761.614,
+          "duration": 182.566
+        },
+        {
+          "id": "yaka-folg-9771-t15",
+          "title": "Das heilige Gestein - Teil 4",
+          "index": 14,
+          "startTime": 2944.18,
+          "duration": 186.658
+        },
+        {
+          "id": "yaka-folg-9771-t16",
+          "title": "Das heilige Gestein - Outro",
+          "index": 15,
+          "startTime": 3130.838,
+          "duration": 118.375
+        }
+      ]
     },
     {
       "id": "1562969611",
@@ -223,11 +1884,117 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/b7/e0/4bb7e0fc-7b69-9b80-25b2-2f4b512eb619/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie, das auf deutsche Hörspieltradition basiert.",
-      "totalDuration": 0,
+      "totalDuration": 3135.855,
       "platforms": {
         "appleMusic": "1562969611"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-9611-t01",
+          "title": "Der verstossene Wolf - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.144
+        },
+        {
+          "id": "yaka-folg-9611-t02",
+          "title": "Der verstossene Wolf - Teil 1",
+          "index": 1,
+          "startTime": 32.144,
+          "duration": 181.797
+        },
+        {
+          "id": "yaka-folg-9611-t03",
+          "title": "Der verstossene Wolf - Teil 2",
+          "index": 2,
+          "startTime": 213.941,
+          "duration": 212.605
+        },
+        {
+          "id": "yaka-folg-9611-t04",
+          "title": "Der verstossene Wolf - Teil 3",
+          "index": 3,
+          "startTime": 426.546,
+          "duration": 304.618
+        },
+        {
+          "id": "yaka-folg-9611-t05",
+          "title": "Ein Bär sieht rot - Teil 1",
+          "index": 4,
+          "startTime": 731.164,
+          "duration": 211.884
+        },
+        {
+          "id": "yaka-folg-9611-t06",
+          "title": "Ein Bär sieht rot - Teil 2",
+          "index": 5,
+          "startTime": 943.048,
+          "duration": 204.161
+        },
+        {
+          "id": "yaka-folg-9611-t07",
+          "title": "Ein Bär sieht rot - Teil 3",
+          "index": 6,
+          "startTime": 1147.209,
+          "duration": 310.629
+        },
+        {
+          "id": "yaka-folg-9611-t08",
+          "title": "Die Schlittenwölfe - Teil 1",
+          "index": 7,
+          "startTime": 1457.838,
+          "duration": 220.468
+        },
+        {
+          "id": "yaka-folg-9611-t09",
+          "title": "Die Schlittenwölfe - Teil 2",
+          "index": 8,
+          "startTime": 1678.306,
+          "duration": 230.369
+        },
+        {
+          "id": "yaka-folg-9611-t10",
+          "title": "Die Schlittenwölfe - Teil 3",
+          "index": 9,
+          "startTime": 1908.675,
+          "duration": 310.881
+        },
+        {
+          "id": "yaka-folg-9611-t11",
+          "title": "Der rote Pfeil - Teil 1",
+          "index": 10,
+          "startTime": 2219.556,
+          "duration": 201.557
+        },
+        {
+          "id": "yaka-folg-9611-t12",
+          "title": "Der rote Pfeil - Teil 2",
+          "index": 11,
+          "startTime": 2421.113,
+          "duration": 207.008
+        },
+        {
+          "id": "yaka-folg-9611-t13",
+          "title": "Der rote Pfeil - Teil 3",
+          "index": 12,
+          "startTime": 2628.121,
+          "duration": 206.725
+        },
+        {
+          "id": "yaka-folg-9611-t14",
+          "title": "Der rote Pfeil - Teil 4",
+          "index": 13,
+          "startTime": 2834.846,
+          "duration": 186.169
+        },
+        {
+          "id": "yaka-folg-9611-t15",
+          "title": "Der rote Pfeil - Outro",
+          "index": 14,
+          "startTime": 3021.015,
+          "duration": 114.84
+        }
+      ]
     },
     {
       "id": "1562969770",
@@ -236,11 +2003,103 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/6f/ba/ae6fbaa4-d822-ea9e-5595-611f78eb9092/cover.jpg/100x100bb.jpg",
       "description": "Ein Album, das als Hörspiel für die TV-Serie 'Yakari' konzipiert ist, zeigt deutliche Merkmale eines deutschen Hörspiels.",
-      "totalDuration": 0,
+      "totalDuration": 2878.327,
       "platforms": {
         "appleMusic": "1562969770"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-9770-t01",
+          "title": "Stiller Fels reitet aus - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.236
+        },
+        {
+          "id": "yaka-folg-9770-t02",
+          "title": "Stiller Fels reitet aus - Teil 1",
+          "index": 1,
+          "startTime": 32.236,
+          "duration": 264.863
+        },
+        {
+          "id": "yaka-folg-9770-t03",
+          "title": "Stiller Fels reitet aus - Teil 2",
+          "index": 2,
+          "startTime": 297.099,
+          "duration": 336.257
+        },
+        {
+          "id": "yaka-folg-9770-t04",
+          "title": "Die Bärenkralle - Teil 1",
+          "index": 3,
+          "startTime": 633.356,
+          "duration": 185.773
+        },
+        {
+          "id": "yaka-folg-9770-t05",
+          "title": "Die Bärenkralle - Teil 2",
+          "index": 4,
+          "startTime": 819.129,
+          "duration": 210.473
+        },
+        {
+          "id": "yaka-folg-9770-t06",
+          "title": "Die Bärenkralle - Teil 3",
+          "index": 5,
+          "startTime": 1029.602,
+          "duration": 306.971
+        },
+        {
+          "id": "yaka-folg-9770-t07",
+          "title": "Der Lärm des Donnervogels - Teil 1",
+          "index": 6,
+          "startTime": 1336.573,
+          "duration": 217.009
+        },
+        {
+          "id": "yaka-folg-9770-t08",
+          "title": "Der Lärm des Donnervogels - Teil 2",
+          "index": 7,
+          "startTime": 1553.582,
+          "duration": 210.503
+        },
+        {
+          "id": "yaka-folg-9770-t09",
+          "title": "Der Lärm des Donnervogels - Teil 3",
+          "index": 8,
+          "startTime": 1764.085,
+          "duration": 337.76
+        },
+        {
+          "id": "yaka-folg-9770-t10",
+          "title": "Yakari und Grausames Auge - Teil 1",
+          "index": 9,
+          "startTime": 2101.845,
+          "duration": 221.355
+        },
+        {
+          "id": "yaka-folg-9770-t11",
+          "title": "Yakari und Grausames Auge - Teil 2",
+          "index": 10,
+          "startTime": 2323.2,
+          "duration": 210.85
+        },
+        {
+          "id": "yaka-folg-9770-t12",
+          "title": "Yakari und Grausames Auge - Teil 3",
+          "index": 11,
+          "startTime": 2534.05,
+          "duration": 229.241
+        },
+        {
+          "id": "yaka-folg-9770-t13",
+          "title": "Yakari und Grausames Auge - Outro",
+          "index": 12,
+          "startTime": 2763.291,
+          "duration": 115.036
+        }
+      ]
     },
     {
       "id": "1191533859",
@@ -249,11 +2108,96 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cf/da/75/cfda755a-0485-895d-ba3a-2d39f9d69bf5/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Yakari' und gehört zum Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 2009.61,
       "platforms": {
         "appleMusic": "1191533859"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-3859-t01",
+          "title": "Kapitel 1: Der Zorn des Bisons",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 158.827
+        },
+        {
+          "id": "yaka-folg-3859-t02",
+          "title": "Kapitel 2: Der Zorn des Bisons",
+          "index": 1,
+          "startTime": 158.827,
+          "duration": 146.561
+        },
+        {
+          "id": "yaka-folg-3859-t03",
+          "title": "Kapitel 3: Der Zorn des Bisons",
+          "index": 2,
+          "startTime": 305.388,
+          "duration": 146.707
+        },
+        {
+          "id": "yaka-folg-3859-t04",
+          "title": "Kapitel 4: Der Zorn des Bisons",
+          "index": 3,
+          "startTime": 452.095,
+          "duration": 250.237
+        },
+        {
+          "id": "yaka-folg-3859-t05",
+          "title": "Kapitel 5: Die letzte Reise von Mondgeist",
+          "index": 4,
+          "startTime": 702.332,
+          "duration": 142.24
+        },
+        {
+          "id": "yaka-folg-3859-t06",
+          "title": "Kapitel 6: Die letzte Reise von Mondgeist",
+          "index": 5,
+          "startTime": 844.572,
+          "duration": 123.879
+        },
+        {
+          "id": "yaka-folg-3859-t07",
+          "title": "Kapitel 7: Die letzte Reise von Mondgeist",
+          "index": 6,
+          "startTime": 968.451,
+          "duration": 129.14
+        },
+        {
+          "id": "yaka-folg-3859-t08",
+          "title": "Kapitel 8: Die letzte Reise von Mondgeist",
+          "index": 7,
+          "startTime": 1097.591,
+          "duration": 220.892
+        },
+        {
+          "id": "yaka-folg-3859-t09",
+          "title": "Kapitel 9: Die Saat der Sonne",
+          "index": 8,
+          "startTime": 1318.483,
+          "duration": 166.309
+        },
+        {
+          "id": "yaka-folg-3859-t10",
+          "title": "Kapitel 10: Die Saat der Sonne",
+          "index": 9,
+          "startTime": 1484.792,
+          "duration": 155.812
+        },
+        {
+          "id": "yaka-folg-3859-t11",
+          "title": "Kapitel 11: Die Saat der Sonne",
+          "index": 10,
+          "startTime": 1640.604,
+          "duration": 138.228
+        },
+        {
+          "id": "yaka-folg-3859-t12",
+          "title": "Kapitel 12: Die Saat der Sonne",
+          "index": 11,
+          "startTime": 1778.832,
+          "duration": 230.778
+        }
+      ]
     },
     {
       "id": "1191533558",
@@ -262,11 +2206,96 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/fd/11/e8fd11be-4b73-efaf-34fb-9c8d6827d0ff/cover.jpg/100x100bb.jpg",
       "description": "Ein Original-Hörspiel zur TV-Serie, das auf 12 Tracks verteilt ist.",
-      "totalDuration": 0,
+      "totalDuration": 2097.054,
       "platforms": {
         "appleMusic": "1191533558"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-3558-t01",
+          "title": "Kapitel 1: Hüter der Quelle",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 144.138
+        },
+        {
+          "id": "yaka-folg-3558-t02",
+          "title": "Kapitel 2: Hüter der Quelle",
+          "index": 1,
+          "startTime": 144.138,
+          "duration": 174.196
+        },
+        {
+          "id": "yaka-folg-3558-t03",
+          "title": "Kapitel 3: Hüter der Quelle",
+          "index": 2,
+          "startTime": 318.334,
+          "duration": 162.978
+        },
+        {
+          "id": "yaka-folg-3558-t04",
+          "title": "Kapitel 4: Hüter der Quelle",
+          "index": 3,
+          "startTime": 481.312,
+          "duration": 267.816
+        },
+        {
+          "id": "yaka-folg-3558-t05",
+          "title": "Kapitel 5: Knickohr und der kleine Wolf",
+          "index": 4,
+          "startTime": 749.128,
+          "duration": 141.349
+        },
+        {
+          "id": "yaka-folg-3558-t06",
+          "title": "Kapitel 6: Knickohr und der kleine Wolf",
+          "index": 5,
+          "startTime": 890.477,
+          "duration": 157.093
+        },
+        {
+          "id": "yaka-folg-3558-t07",
+          "title": "Kapitel 7: Knickohr und der kleine Wolf",
+          "index": 6,
+          "startTime": 1047.57,
+          "duration": 138.669
+        },
+        {
+          "id": "yaka-folg-3558-t08",
+          "title": "Kapitel 8: Knickohr und der kleine Wolf",
+          "index": 7,
+          "startTime": 1186.239,
+          "duration": 252.175
+        },
+        {
+          "id": "yaka-folg-3558-t09",
+          "title": "Kapitel 9: Fohlen in Gefahr",
+          "index": 8,
+          "startTime": 1438.414,
+          "duration": 135.385
+        },
+        {
+          "id": "yaka-folg-3558-t10",
+          "title": "Kapitel 10: Fohlen in Gefahr",
+          "index": 9,
+          "startTime": 1573.799,
+          "duration": 153.128
+        },
+        {
+          "id": "yaka-folg-3558-t11",
+          "title": "Kapitel 11: Fohlen in Gefahr",
+          "index": 10,
+          "startTime": 1726.927,
+          "duration": 133.366
+        },
+        {
+          "id": "yaka-folg-3558-t12",
+          "title": "Kapitel 12: Fohlen in Gefahr",
+          "index": 11,
+          "startTime": 1860.293,
+          "duration": 236.761
+        }
+      ]
     },
     {
       "id": "1562666401",
@@ -275,11 +2304,110 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/5e/2e/615e2ed3-0e09-5efb-0197-e13056286302/cover.jpg/100x100bb.jpg",
       "description": "Dies ist ein Hörspielalbum mit dem Titel 'Folge 21: Die sieben Feuer' von Yakari, das als Original-Hörspiel zur TV-Serie dient.",
-      "totalDuration": 0,
+      "totalDuration": 3227.824,
       "platforms": {
         "appleMusic": "1562666401"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-6401-t01",
+          "title": "Die sieben Feuer - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.092
+        },
+        {
+          "id": "yaka-folg-6401-t02",
+          "title": "Die sieben Feuer - Teil 1",
+          "index": 1,
+          "startTime": 32.092,
+          "duration": 240.152
+        },
+        {
+          "id": "yaka-folg-6401-t03",
+          "title": "Die sieben Feuer - Teil 2",
+          "index": 2,
+          "startTime": 272.244,
+          "duration": 248.5
+        },
+        {
+          "id": "yaka-folg-6401-t04",
+          "title": "Die sieben Feuer - Teil 3",
+          "index": 3,
+          "startTime": 520.744,
+          "duration": 339.453
+        },
+        {
+          "id": "yaka-folg-6401-t05",
+          "title": "Honigfalle für Honigtau - Teil 1",
+          "index": 4,
+          "startTime": 860.197,
+          "duration": 235.307
+        },
+        {
+          "id": "yaka-folg-6401-t06",
+          "title": "Honigfalle für Honigtau - Teil 2",
+          "index": 5,
+          "startTime": 1095.504,
+          "duration": 248.764
+        },
+        {
+          "id": "yaka-folg-6401-t07",
+          "title": "Honigfalle für Honigtau - Teil 3",
+          "index": 6,
+          "startTime": 1344.268,
+          "duration": 317.337
+        },
+        {
+          "id": "yaka-folg-6401-t08",
+          "title": "Yakari und die Riesenechse - Teil 1",
+          "index": 7,
+          "startTime": 1661.605,
+          "duration": 229.641
+        },
+        {
+          "id": "yaka-folg-6401-t09",
+          "title": "Yakari und die Riesenechse - Teil 2",
+          "index": 8,
+          "startTime": 1891.246,
+          "duration": 237.845
+        },
+        {
+          "id": "yaka-folg-6401-t10",
+          "title": "Yakari und die Riesenechse - Teil 3",
+          "index": 9,
+          "startTime": 2129.091,
+          "duration": 311.427
+        },
+        {
+          "id": "yaka-folg-6401-t11",
+          "title": "Die dickköpfige Ziege - Teil 1",
+          "index": 10,
+          "startTime": 2440.518,
+          "duration": 219.55
+        },
+        {
+          "id": "yaka-folg-6401-t12",
+          "title": "Die dickköpfige Ziege - Teil 2",
+          "index": 11,
+          "startTime": 2660.068,
+          "duration": 226.999
+        },
+        {
+          "id": "yaka-folg-6401-t13",
+          "title": "Die dickköpfige Ziege - Teil 3",
+          "index": 12,
+          "startTime": 2887.067,
+          "duration": 220.42
+        },
+        {
+          "id": "yaka-folg-6401-t14",
+          "title": "Die dickköpfige Ziege - Outro",
+          "index": 13,
+          "startTime": 3107.487,
+          "duration": 120.337
+        }
+      ]
     },
     {
       "id": "1562691611",
@@ -288,11 +2416,110 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/bd/25/c2bd256d-96da-1966-9c00-29576bd7952a/cover.jpg/100x100bb.jpg",
       "description": "Das Album enthält das Original-Hörspiel zur TV-Serie 'Yakari', das sich an ein junges Publikum richtet und Abenteuer beinhaltet.",
-      "totalDuration": 0,
+      "totalDuration": 2982.423,
       "platforms": {
         "appleMusic": "1562691611"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-1611-t01",
+          "title": "Der schlaflose Bär - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.059
+        },
+        {
+          "id": "yaka-folg-1611-t02",
+          "title": "Der schlaflose Bär - Teil 1",
+          "index": 1,
+          "startTime": 32.059,
+          "duration": 218.796
+        },
+        {
+          "id": "yaka-folg-1611-t03",
+          "title": "Der schlaflose Bär - Teil 2",
+          "index": 2,
+          "startTime": 250.855,
+          "duration": 204.951
+        },
+        {
+          "id": "yaka-folg-1611-t04",
+          "title": "Der schlaflose Bär - Teil 3",
+          "index": 3,
+          "startTime": 455.806,
+          "duration": 316.337
+        },
+        {
+          "id": "yaka-folg-1611-t05",
+          "title": "Frühjahrsputz für Flughörnchen - Teil 1",
+          "index": 4,
+          "startTime": 772.143,
+          "duration": 211.095
+        },
+        {
+          "id": "yaka-folg-1611-t06",
+          "title": "Frühjahrsputz für Flughörnchen - Teil 2",
+          "index": 5,
+          "startTime": 983.238,
+          "duration": 226.37
+        },
+        {
+          "id": "yaka-folg-1611-t07",
+          "title": "Frühjahrsputz für Flughörnchen - Teil 3",
+          "index": 6,
+          "startTime": 1209.608,
+          "duration": 307.113
+        },
+        {
+          "id": "yaka-folg-1611-t08",
+          "title": "Die schwarzen Steine - Teil 1",
+          "index": 7,
+          "startTime": 1516.721,
+          "duration": 224.67
+        },
+        {
+          "id": "yaka-folg-1611-t09",
+          "title": "Die schwarzen Steine - Teil 2",
+          "index": 8,
+          "startTime": 1741.391,
+          "duration": 207.623
+        },
+        {
+          "id": "yaka-folg-1611-t10",
+          "title": "Die schwarzen Steine - Teil 3",
+          "index": 9,
+          "startTime": 1949.014,
+          "duration": 312.137
+        },
+        {
+          "id": "yaka-folg-1611-t11",
+          "title": "Zwei ungleiche Brüder - Teil 1",
+          "index": 10,
+          "startTime": 2261.151,
+          "duration": 195.083
+        },
+        {
+          "id": "yaka-folg-1611-t12",
+          "title": "Zwei ungleiche Brüder - Teil 2",
+          "index": 11,
+          "startTime": 2456.234,
+          "duration": 188.99
+        },
+        {
+          "id": "yaka-folg-1611-t13",
+          "title": "Zwei ungleiche Brüder - Teil 3",
+          "index": 12,
+          "startTime": 2645.224,
+          "duration": 200.27
+        },
+        {
+          "id": "yaka-folg-1611-t14",
+          "title": "Zwei ungleiche Brüder - Outro",
+          "index": 13,
+          "startTime": 2845.494,
+          "duration": 136.929
+        }
+      ]
     },
     {
       "id": "1191521562",
@@ -301,11 +2528,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/79/e7/3679e7ca-75f4-6bda-15da-513f461f1630/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Yakari' und enthält insgesamt 16 Tracks.",
-      "totalDuration": 0,
+      "totalDuration": 2886.207,
       "platforms": {
         "appleMusic": "1191521562"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-1562-t01",
+          "title": "Kapitel 1: Der Schatten des Riesen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 134.639
+        },
+        {
+          "id": "yaka-folg-1562-t02",
+          "title": "Kapitel 2: Der Schatten des Riesen",
+          "index": 1,
+          "startTime": 134.639,
+          "duration": 172.635
+        },
+        {
+          "id": "yaka-folg-1562-t03",
+          "title": "Kapitel 3: Der Schatten des Riesen",
+          "index": 2,
+          "startTime": 307.274,
+          "duration": 172.282
+        },
+        {
+          "id": "yaka-folg-1562-t04",
+          "title": "Kapitel 4: Der Schatten des Riesen",
+          "index": 3,
+          "startTime": 479.556,
+          "duration": 287.71
+        },
+        {
+          "id": "yaka-folg-1562-t05",
+          "title": "Kapitel 5: Die verschwundenen Fische",
+          "index": 4,
+          "startTime": 767.266,
+          "duration": 149.515
+        },
+        {
+          "id": "yaka-folg-1562-t06",
+          "title": "Kapitel 6: Yakari und die verschwundenen Fische",
+          "index": 5,
+          "startTime": 916.781,
+          "duration": 175.985
+        },
+        {
+          "id": "yaka-folg-1562-t07",
+          "title": "Kapitel 7: Yakari und die verschwundenen Fische",
+          "index": 6,
+          "startTime": 1092.766,
+          "duration": 165.134
+        },
+        {
+          "id": "yaka-folg-1562-t08",
+          "title": "Kapitel 8: Yakari und die verschwundenen Fische",
+          "index": 7,
+          "startTime": 1257.9,
+          "duration": 278.545
+        },
+        {
+          "id": "yaka-folg-1562-t09",
+          "title": "Kapitel 9: Der Bison ohne Herde",
+          "index": 8,
+          "startTime": 1536.445,
+          "duration": 139.259
+        },
+        {
+          "id": "yaka-folg-1562-t10",
+          "title": "Kapitel 10: Der Bison ohne Herde",
+          "index": 9,
+          "startTime": 1675.704,
+          "duration": 127.967
+        },
+        {
+          "id": "yaka-folg-1562-t11",
+          "title": "Kapitel 11: Der Bison ohne Herde",
+          "index": 10,
+          "startTime": 1803.671,
+          "duration": 141.874
+        },
+        {
+          "id": "yaka-folg-1562-t12",
+          "title": "Kapitel 12: Der Bison ohne Herde",
+          "index": 11,
+          "startTime": 1945.545,
+          "duration": 237.151
+        },
+        {
+          "id": "yaka-folg-1562-t13",
+          "title": "Kapitel 13: Einsame Spitze",
+          "index": 12,
+          "startTime": 2182.696,
+          "duration": 150.141
+        },
+        {
+          "id": "yaka-folg-1562-t14",
+          "title": "Kapitel 14: Einsame Spitze",
+          "index": 13,
+          "startTime": 2332.837,
+          "duration": 176.234
+        },
+        {
+          "id": "yaka-folg-1562-t15",
+          "title": "Kapitel 15: Einsame Spitze",
+          "index": 14,
+          "startTime": 2509.071,
+          "duration": 141.493
+        },
+        {
+          "id": "yaka-folg-1562-t16",
+          "title": "Kapitel 16: Einsame Spitze",
+          "index": 15,
+          "startTime": 2650.564,
+          "duration": 235.643
+        }
+      ]
     },
     {
       "id": "1191534513",
@@ -314,11 +2654,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/73/7e/44737e3e-dfba-c14c-8edb-3a8730f182a4/cover.jpg/100x100bb.jpg",
       "description": "Ein Album aus dem Genre Hörspiel mit dem Titel 'Folge 24: Der Wächter des Felsens' von Yakari.",
-      "totalDuration": 0,
+      "totalDuration": 3043.075,
       "platforms": {
         "appleMusic": "1191534513"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-4513-t01",
+          "title": "Kapitel 1: Der Wächter des Felsens",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 160.169
+        },
+        {
+          "id": "yaka-folg-4513-t02",
+          "title": "Kapitel 2: Der Wächter des Felsens",
+          "index": 1,
+          "startTime": 160.169,
+          "duration": 171.147
+        },
+        {
+          "id": "yaka-folg-4513-t03",
+          "title": "Kapitel 3: Der Wächter des Felsens",
+          "index": 2,
+          "startTime": 331.316,
+          "duration": 177.049
+        },
+        {
+          "id": "yaka-folg-4513-t04",
+          "title": "Kapitel 4: Der Wächter des Felsens",
+          "index": 3,
+          "startTime": 508.365,
+          "duration": 272.283
+        },
+        {
+          "id": "yaka-folg-4513-t05",
+          "title": "Kapitel 5: Yakari und der Sasquatch",
+          "index": 4,
+          "startTime": 780.648,
+          "duration": 140.818
+        },
+        {
+          "id": "yaka-folg-4513-t06",
+          "title": "Kapitel 6: Yakari und der Sasquatch",
+          "index": 5,
+          "startTime": 921.466,
+          "duration": 164.816
+        },
+        {
+          "id": "yaka-folg-4513-t07",
+          "title": "Kapitel 7: Yakari und der Sasquatch",
+          "index": 6,
+          "startTime": 1086.282,
+          "duration": 177.334
+        },
+        {
+          "id": "yaka-folg-4513-t08",
+          "title": "Kapitel 8: Yakari und der Sasquatch",
+          "index": 7,
+          "startTime": 1263.616,
+          "duration": 263.194
+        },
+        {
+          "id": "yaka-folg-4513-t09",
+          "title": "Kapitel 9: Die Bewährungsprobe",
+          "index": 8,
+          "startTime": 1526.81,
+          "duration": 160.052
+        },
+        {
+          "id": "yaka-folg-4513-t10",
+          "title": "Kapitel 10: Die Bewährungsprobe",
+          "index": 9,
+          "startTime": 1686.862,
+          "duration": 172.298
+        },
+        {
+          "id": "yaka-folg-4513-t11",
+          "title": "Kapitel 11: Die Bewährungsprobe",
+          "index": 10,
+          "startTime": 1859.16,
+          "duration": 152.033
+        },
+        {
+          "id": "yaka-folg-4513-t12",
+          "title": "Kapitel 12: Die Bewährungsprobe",
+          "index": 11,
+          "startTime": 2011.193,
+          "duration": 245.806
+        },
+        {
+          "id": "yaka-folg-4513-t13",
+          "title": "Kapitel 13: Ein komischer Vogel",
+          "index": 12,
+          "startTime": 2256.999,
+          "duration": 150.811
+        },
+        {
+          "id": "yaka-folg-4513-t14",
+          "title": "Kapitel 14: Ein komischer Vogel",
+          "index": 13,
+          "startTime": 2407.81,
+          "duration": 197.981
+        },
+        {
+          "id": "yaka-folg-4513-t15",
+          "title": "Kapitel 15: Ein komischer Vogel",
+          "index": 14,
+          "startTime": 2605.791,
+          "duration": 172.376
+        },
+        {
+          "id": "yaka-folg-4513-t16",
+          "title": "Kapitel 16: Ein komischer Vogel",
+          "index": 15,
+          "startTime": 2778.167,
+          "duration": 264.908
+        }
+      ]
     },
     {
       "id": "1191513740",
@@ -327,11 +2780,152 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/45/3e/83453ee6-6b7a-dde2-0c42-de6364695e64/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Yakari', was auf ein Hörspiel spezialisiert ist.",
-      "totalDuration": 0,
+      "totalDuration": 3728.885,
       "platforms": {
         "appleMusic": "1191513740"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-3740-t01",
+          "title": "Kapitel 1: Der Vogel mit den hundert Stimmen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 149.55
+        },
+        {
+          "id": "yaka-folg-3740-t02",
+          "title": "Kapitel 2: Der Vogel mit den hundert Stimmen",
+          "index": 1,
+          "startTime": 149.55,
+          "duration": 162.15
+        },
+        {
+          "id": "yaka-folg-3740-t03",
+          "title": "Kapitel 3: Der Vogel mit den hundert Stimmen",
+          "index": 2,
+          "startTime": 311.7,
+          "duration": 167.722
+        },
+        {
+          "id": "yaka-folg-3740-t04",
+          "title": "Kapitel 4: Der Vogel mit den hundert Stimmen",
+          "index": 3,
+          "startTime": 479.422,
+          "duration": 277.465
+        },
+        {
+          "id": "yaka-folg-3740-t05",
+          "title": "Kapitel 5: Der Geist des Leitwolfs",
+          "index": 4,
+          "startTime": 756.887,
+          "duration": 155.918
+        },
+        {
+          "id": "yaka-folg-3740-t06",
+          "title": "Kapitel 6: Der Geist des Leitwolfs",
+          "index": 5,
+          "startTime": 912.805,
+          "duration": 149.671
+        },
+        {
+          "id": "yaka-folg-3740-t07",
+          "title": "Kapitel 7: Der Geist des Leitwolfs",
+          "index": 6,
+          "startTime": 1062.476,
+          "duration": 146.07
+        },
+        {
+          "id": "yaka-folg-3740-t08",
+          "title": "Kapitel 8: Der Geist des Leitwolfs",
+          "index": 7,
+          "startTime": 1208.546,
+          "duration": 257.572
+        },
+        {
+          "id": "yaka-folg-3740-t09",
+          "title": "Kapitel 9: Yakari und die Wapitis",
+          "index": 8,
+          "startTime": 1466.118,
+          "duration": 144.777
+        },
+        {
+          "id": "yaka-folg-3740-t10",
+          "title": "Kapitel 10: Yakari und die Wapitis",
+          "index": 9,
+          "startTime": 1610.895,
+          "duration": 180.747
+        },
+        {
+          "id": "yaka-folg-3740-t11",
+          "title": "Kapitel 11: Yakari und die Wapitis",
+          "index": 10,
+          "startTime": 1791.642,
+          "duration": 178.179
+        },
+        {
+          "id": "yaka-folg-3740-t12",
+          "title": "Kapitel 12: Yakari und die Wapitis",
+          "index": 11,
+          "startTime": 1969.821,
+          "duration": 295.142
+        },
+        {
+          "id": "yaka-folg-3740-t13",
+          "title": "Kapitel 13: Die Jäger der Pumas",
+          "index": 12,
+          "startTime": 2264.963,
+          "duration": 150.065
+        },
+        {
+          "id": "yaka-folg-3740-t14",
+          "title": "Kapitel 14: Die Jäger der Pumas",
+          "index": 13,
+          "startTime": 2415.028,
+          "duration": 153.835
+        },
+        {
+          "id": "yaka-folg-3740-t15",
+          "title": "Kapitel 15: Die Jäger der Pumas",
+          "index": 14,
+          "startTime": 2568.863,
+          "duration": 156.593
+        },
+        {
+          "id": "yaka-folg-3740-t16",
+          "title": "Kapitel 16: Die Jäger der Pumas",
+          "index": 15,
+          "startTime": 2725.456,
+          "duration": 235.148
+        },
+        {
+          "id": "yaka-folg-3740-t17",
+          "title": "Kapitel 17: Yakari und die Wandertauben",
+          "index": 16,
+          "startTime": 2960.604,
+          "duration": 150.455
+        },
+        {
+          "id": "yaka-folg-3740-t18",
+          "title": "Kapitel 18: Yakari und die Wandertauben",
+          "index": 17,
+          "startTime": 3111.059,
+          "duration": 154.345
+        },
+        {
+          "id": "yaka-folg-3740-t19",
+          "title": "Kapitel 19: Yakari und die Wandertauben",
+          "index": 18,
+          "startTime": 3265.404,
+          "duration": 159.9
+        },
+        {
+          "id": "yaka-folg-3740-t20",
+          "title": "Kapitel 20: Yakari und die Wandertauben",
+          "index": 19,
+          "startTime": 3425.304,
+          "duration": 303.581
+        }
+      ]
     },
     {
       "id": "1191513865",
@@ -340,11 +2934,173 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/fa/93/f4fa93da-6e47-7c84-f21b-c55b9d777d6c/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Yakari, das sich um ein Abenteuer in der Prärie dreht.",
-      "totalDuration": 0,
+      "totalDuration": 4030.211,
       "platforms": {
         "appleMusic": "1191513865"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-3865-t01",
+          "title": "Kapitel 1: Das schnellste Tier der Prärie",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 150.221
+        },
+        {
+          "id": "yaka-folg-3865-t02",
+          "title": "Kapitel 2: Das schnellste Tier der Prärie",
+          "index": 1,
+          "startTime": 150.221,
+          "duration": 149.022
+        },
+        {
+          "id": "yaka-folg-3865-t03",
+          "title": "Kapitel 3: Das schnellste Tier der Prärie",
+          "index": 2,
+          "startTime": 299.243,
+          "duration": 160.757
+        },
+        {
+          "id": "yaka-folg-3865-t04",
+          "title": "Kapitel 4: Das schnellste Tier der Prärie",
+          "index": 3,
+          "startTime": 460.0,
+          "duration": 145.08
+        },
+        {
+          "id": "yaka-folg-3865-t05",
+          "title": "Kapitel 5: Das schnellste Tier der Prärie",
+          "index": 4,
+          "startTime": 605.08,
+          "duration": 251.462
+        },
+        {
+          "id": "yaka-folg-3865-t06",
+          "title": "Kapitel 6: Das schnellste Tier der Prärie",
+          "index": 5,
+          "startTime": 856.542,
+          "duration": 158.14
+        },
+        {
+          "id": "yaka-folg-3865-t07",
+          "title": "Kapitel 7: Das schnellste Tier der Prärie",
+          "index": 6,
+          "startTime": 1014.682,
+          "duration": 162.57
+        },
+        {
+          "id": "yaka-folg-3865-t08",
+          "title": "Kapitel 8: Das schnellste Tier der Prärie",
+          "index": 7,
+          "startTime": 1177.252,
+          "duration": 187.116
+        },
+        {
+          "id": "yaka-folg-3865-t09",
+          "title": "Kapitel 9: Das schnellste Tier der Prärie",
+          "index": 8,
+          "startTime": 1364.368,
+          "duration": 251.764
+        },
+        {
+          "id": "yaka-folg-3865-t10",
+          "title": "Kapitel 10: Das schnellste Tier der Prärie",
+          "index": 9,
+          "startTime": 1616.132,
+          "duration": 153.256
+        },
+        {
+          "id": "yaka-folg-3865-t11",
+          "title": "Kapitel 11: Das schnellste Tier der Prärie",
+          "index": 10,
+          "startTime": 1769.388,
+          "duration": 151.917
+        },
+        {
+          "id": "yaka-folg-3865-t12",
+          "title": "Kapitel 12: Das schnellste Tier der Prärie",
+          "index": 11,
+          "startTime": 1921.305,
+          "duration": 164.931
+        },
+        {
+          "id": "yaka-folg-3865-t13",
+          "title": "Kapitel 13: Das schnellste Tier der Prärie",
+          "index": 12,
+          "startTime": 2086.236,
+          "duration": 277.118
+        },
+        {
+          "id": "yaka-folg-3865-t14",
+          "title": "Kapitel 14: Das schnellste Tier der Prärie",
+          "index": 13,
+          "startTime": 2363.354,
+          "duration": 157.814
+        },
+        {
+          "id": "yaka-folg-3865-t15",
+          "title": "Kapitel 15: Das schnellste Tier der Prärie",
+          "index": 14,
+          "startTime": 2521.168,
+          "duration": 155.186
+        },
+        {
+          "id": "yaka-folg-3865-t16",
+          "title": "Kapitel 16: Das schnellste Tier der Prärie",
+          "index": 15,
+          "startTime": 2676.354,
+          "duration": 147.0
+        },
+        {
+          "id": "yaka-folg-3865-t17",
+          "title": "Kapitel 17: Das schnellste Tier der Prärie",
+          "index": 16,
+          "startTime": 2823.354,
+          "duration": 116.748
+        },
+        {
+          "id": "yaka-folg-3865-t18",
+          "title": "Kapitel 18: Das schnellste Tier der Prärie",
+          "index": 17,
+          "startTime": 2940.102,
+          "duration": 248.779
+        },
+        {
+          "id": "yaka-folg-3865-t19",
+          "title": "Kapitel 19: Das schnellste Tier der Prärie",
+          "index": 18,
+          "startTime": 3188.881,
+          "duration": 162.19
+        },
+        {
+          "id": "yaka-folg-3865-t20",
+          "title": "Kapitel 20: Das schnellste Tier der Prärie",
+          "index": 19,
+          "startTime": 3351.071,
+          "duration": 139.11
+        },
+        {
+          "id": "yaka-folg-3865-t21",
+          "title": "Kapitel 21: Das schnellste Tier der Prärie",
+          "index": 20,
+          "startTime": 3490.181,
+          "duration": 155.251
+        },
+        {
+          "id": "yaka-folg-3865-t22",
+          "title": "Kapitel 22: Das schnellste Tier der Prärie",
+          "index": 21,
+          "startTime": 3645.432,
+          "duration": 143.929
+        },
+        {
+          "id": "yaka-folg-3865-t23",
+          "title": "Kapitel 23: Das schnellste Tier der Prärie",
+          "index": 22,
+          "startTime": 3789.361,
+          "duration": 240.85
+        }
+      ]
     },
     {
       "id": "1191824251",
@@ -353,11 +3109,152 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/a8/b2/04a8b2f5-1031-d99c-c25a-e1ce83167918/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum zur TV-Serie, das das Abenteuer um das blaue Pferd erzählt.",
-      "totalDuration": 0,
+      "totalDuration": 4267.228,
       "platforms": {
         "appleMusic": "1191824251"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-4251-t01",
+          "title": "Kapitel 1: Das blaue Pferd",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 186.427
+        },
+        {
+          "id": "yaka-folg-4251-t02",
+          "title": "Kapitel 2: Das blaue Pferd",
+          "index": 1,
+          "startTime": 186.427,
+          "duration": 196.68
+        },
+        {
+          "id": "yaka-folg-4251-t03",
+          "title": "Kapitel 3: Das blaue Pferd",
+          "index": 2,
+          "startTime": 383.107,
+          "duration": 203.68
+        },
+        {
+          "id": "yaka-folg-4251-t04",
+          "title": "Kapitel 4: Das blaue Pferd",
+          "index": 3,
+          "startTime": 586.787,
+          "duration": 291.144
+        },
+        {
+          "id": "yaka-folg-4251-t05",
+          "title": "Kapitel 5: Der tollpatschige Waschbär",
+          "index": 4,
+          "startTime": 877.931,
+          "duration": 216.187
+        },
+        {
+          "id": "yaka-folg-4251-t06",
+          "title": "Kapitel 6: Der tollpatschige Waschbär",
+          "index": 5,
+          "startTime": 1094.118,
+          "duration": 181.92
+        },
+        {
+          "id": "yaka-folg-4251-t07",
+          "title": "Kapitel 7: Der tollpatschige Waschbär",
+          "index": 6,
+          "startTime": 1276.038,
+          "duration": 217.333
+        },
+        {
+          "id": "yaka-folg-4251-t08",
+          "title": "Kapitel 8: Der tollpatschige Waschbär",
+          "index": 7,
+          "startTime": 1493.371,
+          "duration": 271.777
+        },
+        {
+          "id": "yaka-folg-4251-t09",
+          "title": "Kapitel 9: Der Zorn des Raben",
+          "index": 8,
+          "startTime": 1765.148,
+          "duration": 183.747
+        },
+        {
+          "id": "yaka-folg-4251-t10",
+          "title": "Kapitel 10: Der Zorn des Raben",
+          "index": 9,
+          "startTime": 1948.895,
+          "duration": 205.867
+        },
+        {
+          "id": "yaka-folg-4251-t11",
+          "title": "Kapitel 11: Der Zorn des Raben",
+          "index": 10,
+          "startTime": 2154.762,
+          "duration": 228.707
+        },
+        {
+          "id": "yaka-folg-4251-t12",
+          "title": "Kapitel 12: Der Zorn des Raben",
+          "index": 11,
+          "startTime": 2383.469,
+          "duration": 309.013
+        },
+        {
+          "id": "yaka-folg-4251-t13",
+          "title": "Kapitel 13: Fettauges langer Marsch",
+          "index": 12,
+          "startTime": 2692.482,
+          "duration": 148.613
+        },
+        {
+          "id": "yaka-folg-4251-t14",
+          "title": "Kapitel 14: Fettauges langer Marsch",
+          "index": 13,
+          "startTime": 2841.095,
+          "duration": 164.893
+        },
+        {
+          "id": "yaka-folg-4251-t15",
+          "title": "Kapitel 15: Fettauges langer Marsch",
+          "index": 14,
+          "startTime": 3005.988,
+          "duration": 187.573
+        },
+        {
+          "id": "yaka-folg-4251-t16",
+          "title": "Kapitel 16: Fettauges langer Marsch",
+          "index": 15,
+          "startTime": 3193.561,
+          "duration": 257.71
+        },
+        {
+          "id": "yaka-folg-4251-t17",
+          "title": "Kapitel 17: Feuerpfeil",
+          "index": 16,
+          "startTime": 3451.271,
+          "duration": 180.0
+        },
+        {
+          "id": "yaka-folg-4251-t18",
+          "title": "Kapitel 18: Feuerpfeil",
+          "index": 17,
+          "startTime": 3631.271,
+          "duration": 180.707
+        },
+        {
+          "id": "yaka-folg-4251-t19",
+          "title": "Kapitel 19: Feuerpfeil",
+          "index": 18,
+          "startTime": 3811.978,
+          "duration": 194.213
+        },
+        {
+          "id": "yaka-folg-4251-t20",
+          "title": "Kapitel 20: Feuerpfeil",
+          "index": 19,
+          "startTime": 4006.191,
+          "duration": 261.037
+        }
+      ]
     },
     {
       "id": "1236145671",
@@ -366,11 +3263,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/cb/21/8bcb2163-c475-29e4-3bdb-f79983c75783/cover.jpg/100x100bb.jpg",
       "description": "Ein Album mit dem Titel 'Folge 28: Yakari und Großer Grauer' deutet eindeutig auf ein Hörspiel hin, das die TV-Serie 'Yakari' begleitet. Es ist kein Musikalbum oder Soundtrack.",
-      "totalDuration": 0,
+      "totalDuration": 3123.301,
       "platforms": {
         "appleMusic": "1236145671"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-5671-t01",
+          "title": "Kapitel 1: Die Herrschaft der Hitze",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 197.16
+        },
+        {
+          "id": "yaka-folg-5671-t02",
+          "title": "Kapitel 2: Die Herrschaft der Hitze",
+          "index": 1,
+          "startTime": 197.16,
+          "duration": 156.307
+        },
+        {
+          "id": "yaka-folg-5671-t03",
+          "title": "Kapitel 3: Die Herrschaft der Hitze",
+          "index": 2,
+          "startTime": 353.467,
+          "duration": 219.04
+        },
+        {
+          "id": "yaka-folg-5671-t04",
+          "title": "Kapitel 4: Die Herrschaft der Hitze",
+          "index": 3,
+          "startTime": 572.507,
+          "duration": 292.347
+        },
+        {
+          "id": "yaka-folg-5671-t05",
+          "title": "Kapitel 5: Der Stein der Friedenspfeife",
+          "index": 4,
+          "startTime": 864.854,
+          "duration": 174.333
+        },
+        {
+          "id": "yaka-folg-5671-t06",
+          "title": "Kapitel 6: Der Stein der Friedenspfeife",
+          "index": 5,
+          "startTime": 1039.187,
+          "duration": 206.667
+        },
+        {
+          "id": "yaka-folg-5671-t07",
+          "title": "Kapitel 7: Der Stein der Friedenspfeife",
+          "index": 6,
+          "startTime": 1245.854,
+          "duration": 160.773
+        },
+        {
+          "id": "yaka-folg-5671-t08",
+          "title": "Kapitel 8: Der Stein der Friedenspfeife",
+          "index": 7,
+          "startTime": 1406.627,
+          "duration": 283.531
+        },
+        {
+          "id": "yaka-folg-5671-t09",
+          "title": "Kapitel 9: Sabotage bei den Bibern",
+          "index": 8,
+          "startTime": 1690.158,
+          "duration": 153.147
+        },
+        {
+          "id": "yaka-folg-5671-t10",
+          "title": "Kapitel 10: Sabotage bei den Bibern",
+          "index": 9,
+          "startTime": 1843.305,
+          "duration": 165.067
+        },
+        {
+          "id": "yaka-folg-5671-t11",
+          "title": "Kapitel 11: Sabotage bei den Bibern",
+          "index": 10,
+          "startTime": 2008.372,
+          "duration": 153.907
+        },
+        {
+          "id": "yaka-folg-5671-t12",
+          "title": "Kapitel 12: Sabotage bei den Bibern",
+          "index": 11,
+          "startTime": 2162.279,
+          "duration": 252.352
+        },
+        {
+          "id": "yaka-folg-5671-t13",
+          "title": "Kapitel 13: Yakari und Großer Grauer",
+          "index": 12,
+          "startTime": 2414.631,
+          "duration": 148.56
+        },
+        {
+          "id": "yaka-folg-5671-t14",
+          "title": "Kapitel 14: Yakari und Großer Grauer",
+          "index": 13,
+          "startTime": 2563.191,
+          "duration": 184.227
+        },
+        {
+          "id": "yaka-folg-5671-t15",
+          "title": "Kapitel 15: Yakari und Großer Grauer",
+          "index": 14,
+          "startTime": 2747.418,
+          "duration": 146.573
+        },
+        {
+          "id": "yaka-folg-5671-t16",
+          "title": "Kapitel 16: Yakari und Großer Grauer",
+          "index": 15,
+          "startTime": 2893.991,
+          "duration": 229.31
+        }
+      ]
     },
     {
       "id": "1252620174",
@@ -379,11 +3389,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/a3/7d/60a37de6-245d-a4d3-8fee-10235e3c7460/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Yakari', das sich an ein junges Publikum richtet.",
-      "totalDuration": 0,
+      "totalDuration": 3431.689,
       "platforms": {
         "appleMusic": "1252620174"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-0174-t01",
+          "title": "Kapitel 1: Hilf Deinen Feinden!",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 127.547
+        },
+        {
+          "id": "yaka-folg-0174-t02",
+          "title": "Kapitel 2: Hilf Deinen Feinden!",
+          "index": 1,
+          "startTime": 127.547,
+          "duration": 114.427
+        },
+        {
+          "id": "yaka-folg-0174-t03",
+          "title": "Kapitel 3: Hilf Deinen Feinden!",
+          "index": 2,
+          "startTime": 241.974,
+          "duration": 119.813
+        },
+        {
+          "id": "yaka-folg-0174-t04",
+          "title": "Kapitel 4: Hilf Deinen Feinden!",
+          "index": 3,
+          "startTime": 361.787,
+          "duration": 118.667
+        },
+        {
+          "id": "yaka-folg-0174-t05",
+          "title": "Kapitel 5: Hilf Deinen Feinden!",
+          "index": 4,
+          "startTime": 480.454,
+          "duration": 111.093
+        },
+        {
+          "id": "yaka-folg-0174-t06",
+          "title": "Kapitel 6: Hilf Deinen Feinden!",
+          "index": 5,
+          "startTime": 591.547,
+          "duration": 205.104
+        },
+        {
+          "id": "yaka-folg-0174-t07",
+          "title": "Kapitel 7: Der Pfad der Bisons",
+          "index": 6,
+          "startTime": 796.651,
+          "duration": 124.773
+        },
+        {
+          "id": "yaka-folg-0174-t08",
+          "title": "Kapitel 8: Der Pfad der Bisons",
+          "index": 7,
+          "startTime": 921.424,
+          "duration": 130.92
+        },
+        {
+          "id": "yaka-folg-0174-t09",
+          "title": "Kapitel 9: Der Pfad der Bisons",
+          "index": 8,
+          "startTime": 1052.344,
+          "duration": 123.6
+        },
+        {
+          "id": "yaka-folg-0174-t10",
+          "title": "Kapitel 10: Der Pfad der Bisons",
+          "index": 9,
+          "startTime": 1175.944,
+          "duration": 128.813
+        },
+        {
+          "id": "yaka-folg-0174-t11",
+          "title": "Kapitel 11: Der Pfad der Bisons",
+          "index": 10,
+          "startTime": 1304.757,
+          "duration": 130.32
+        },
+        {
+          "id": "yaka-folg-0174-t12",
+          "title": "Kapitel 12: Der Pfad der Bisons",
+          "index": 11,
+          "startTime": 1435.077,
+          "duration": 204.92
+        },
+        {
+          "id": "yaka-folg-0174-t13",
+          "title": "Kapitel 13: Kleine Jäger, Großer Grizzly",
+          "index": 12,
+          "startTime": 1639.997,
+          "duration": 125.32
+        },
+        {
+          "id": "yaka-folg-0174-t14",
+          "title": "Kapitel 14: Kleine Jäger, Großer Grizzly",
+          "index": 13,
+          "startTime": 1765.317,
+          "duration": 134.28
+        },
+        {
+          "id": "yaka-folg-0174-t15",
+          "title": "Kapitel 15: Kleine Jäger, Großer Grizzly",
+          "index": 14,
+          "startTime": 1899.597,
+          "duration": 127.347
+        },
+        {
+          "id": "yaka-folg-0174-t16",
+          "title": "Kapitel 16: Kleine Jäger, Großer Grizzly",
+          "index": 15,
+          "startTime": 2026.944,
+          "duration": 135.973
+        },
+        {
+          "id": "yaka-folg-0174-t17",
+          "title": "Kapitel 17: Kleine Jäger, Großer Grizzly",
+          "index": 16,
+          "startTime": 2162.917,
+          "duration": 132.067
+        },
+        {
+          "id": "yaka-folg-0174-t18",
+          "title": "Kapitel 18: Kleine Jäger, Großer Grizzly",
+          "index": 17,
+          "startTime": 2294.984,
+          "duration": 214.316
+        },
+        {
+          "id": "yaka-folg-0174-t19",
+          "title": "Kapitel 19: Die Lichtung der Geister",
+          "index": 18,
+          "startTime": 2509.3,
+          "duration": 124.187
+        },
+        {
+          "id": "yaka-folg-0174-t20",
+          "title": "Kapitel 20: Die Lichtung der Geister",
+          "index": 19,
+          "startTime": 2633.487,
+          "duration": 125.227
+        },
+        {
+          "id": "yaka-folg-0174-t21",
+          "title": "Kapitel 21: Die Lichtung der Geister",
+          "index": 20,
+          "startTime": 2758.714,
+          "duration": 115.92
+        },
+        {
+          "id": "yaka-folg-0174-t22",
+          "title": "Kapitel 22: Die Lichtung der Geister",
+          "index": 21,
+          "startTime": 2874.634,
+          "duration": 118.853
+        },
+        {
+          "id": "yaka-folg-0174-t23",
+          "title": "Kapitel 23: Die Lichtung der Geister",
+          "index": 22,
+          "startTime": 2993.487,
+          "duration": 121.48
+        },
+        {
+          "id": "yaka-folg-0174-t24",
+          "title": "Kapitel 24: Die Lichtung der Geister",
+          "index": 23,
+          "startTime": 3114.967,
+          "duration": 105.027
+        },
+        {
+          "id": "yaka-folg-0174-t25",
+          "title": "Kapitel 25: Die Lichtung der Geister",
+          "index": 24,
+          "startTime": 3219.994,
+          "duration": 211.695
+        }
+      ]
     },
     {
       "id": "1273268082",
@@ -392,11 +3578,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4f/82/cb/4f82cb39-c001-6de6-a7dd-f6b00fa915b0/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie Yakari, das 25 Geschichten umfasst.",
-      "totalDuration": 0,
+      "totalDuration": 3528.677,
       "platforms": {
         "appleMusic": "1273268082"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-8082-t01",
+          "title": "Kapitel 1: Yakari und das Samtgeweih",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 129.64
+        },
+        {
+          "id": "yaka-folg-8082-t02",
+          "title": "Kapitel 2: Yakari und das Samtgeweih",
+          "index": 1,
+          "startTime": 129.64,
+          "duration": 126.76
+        },
+        {
+          "id": "yaka-folg-8082-t03",
+          "title": "Kapitel 3: Yakari und das Samtgeweih",
+          "index": 2,
+          "startTime": 256.4,
+          "duration": 124.533
+        },
+        {
+          "id": "yaka-folg-8082-t04",
+          "title": "Kapitel 4: Yakari und das Samtgeweih",
+          "index": 3,
+          "startTime": 380.933,
+          "duration": 124.093
+        },
+        {
+          "id": "yaka-folg-8082-t05",
+          "title": "Kapitel 5: Yakari und das Samtgeweih",
+          "index": 4,
+          "startTime": 505.026,
+          "duration": 123.2
+        },
+        {
+          "id": "yaka-folg-8082-t06",
+          "title": "Kapitel 6: Yakari und das Samtgeweih",
+          "index": 5,
+          "startTime": 628.226,
+          "duration": 222.112
+        },
+        {
+          "id": "yaka-folg-8082-t07",
+          "title": "Kapitel 7: Die Fährte des Pumas",
+          "index": 6,
+          "startTime": 850.338,
+          "duration": 129.027
+        },
+        {
+          "id": "yaka-folg-8082-t08",
+          "title": "Kapitel 8: Die Fährte des Pumas",
+          "index": 7,
+          "startTime": 979.365,
+          "duration": 126.573
+        },
+        {
+          "id": "yaka-folg-8082-t09",
+          "title": "Kapitel 9: Die Fährte des Pumas",
+          "index": 8,
+          "startTime": 1105.938,
+          "duration": 128.787
+        },
+        {
+          "id": "yaka-folg-8082-t10",
+          "title": "Kapitel 10: Die Fährte des Pumas",
+          "index": 9,
+          "startTime": 1234.725,
+          "duration": 126.947
+        },
+        {
+          "id": "yaka-folg-8082-t11",
+          "title": "Kapitel 11: Die Fährte des Pumas",
+          "index": 10,
+          "startTime": 1361.672,
+          "duration": 126.853
+        },
+        {
+          "id": "yaka-folg-8082-t12",
+          "title": "Kapitel 12: Die Fährte des Pumas",
+          "index": 11,
+          "startTime": 1488.525,
+          "duration": 223.328
+        },
+        {
+          "id": "yaka-folg-8082-t13",
+          "title": "Kapitel 13: Die Legende vom Weißen Raben",
+          "index": 12,
+          "startTime": 1711.853,
+          "duration": 133.373
+        },
+        {
+          "id": "yaka-folg-8082-t14",
+          "title": "Kapitel 14: Die Legende vom Weißen Raben",
+          "index": 13,
+          "startTime": 1845.226,
+          "duration": 132.347
+        },
+        {
+          "id": "yaka-folg-8082-t15",
+          "title": "Kapitel 15: Die Legende vom Weißen Raben",
+          "index": 14,
+          "startTime": 1977.573,
+          "duration": 132.573
+        },
+        {
+          "id": "yaka-folg-8082-t16",
+          "title": "Kapitel 16: Die Legende vom Weißen Raben",
+          "index": 15,
+          "startTime": 2110.146,
+          "duration": 134.027
+        },
+        {
+          "id": "yaka-folg-8082-t17",
+          "title": "Kapitel 17: Die Legende vom Weißen Raben",
+          "index": 16,
+          "startTime": 2244.173,
+          "duration": 131.333
+        },
+        {
+          "id": "yaka-folg-8082-t18",
+          "title": "Kapitel 18: Die Legende vom Weißen Raben",
+          "index": 17,
+          "startTime": 2375.506,
+          "duration": 224.109
+        },
+        {
+          "id": "yaka-folg-8082-t19",
+          "title": "Kapitel 19: Der Feuerriese",
+          "index": 18,
+          "startTime": 2599.615,
+          "duration": 119.68
+        },
+        {
+          "id": "yaka-folg-8082-t20",
+          "title": "Kapitel 20: Der Feuerriese",
+          "index": 19,
+          "startTime": 2719.295,
+          "duration": 118.013
+        },
+        {
+          "id": "yaka-folg-8082-t21",
+          "title": "Kapitel 21: Der Feuerriese",
+          "index": 20,
+          "startTime": 2837.308,
+          "duration": 119.84
+        },
+        {
+          "id": "yaka-folg-8082-t22",
+          "title": "Kapitel 22: Der Feuerriese",
+          "index": 21,
+          "startTime": 2957.148,
+          "duration": 123.587
+        },
+        {
+          "id": "yaka-folg-8082-t23",
+          "title": "Kapitel 23: Der Feuerriese",
+          "index": 22,
+          "startTime": 3080.735,
+          "duration": 122.133
+        },
+        {
+          "id": "yaka-folg-8082-t24",
+          "title": "Kapitel 24: Der Feuerriese",
+          "index": 23,
+          "startTime": 3202.868,
+          "duration": 121.347
+        },
+        {
+          "id": "yaka-folg-8082-t25",
+          "title": "Kapitel 25: Der Feuerriese",
+          "index": 24,
+          "startTime": 3324.215,
+          "duration": 204.462
+        }
+      ]
     },
     {
       "id": "1300214700",
@@ -405,11 +3767,208 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/fc/48/54fc4858-94c1-dd19-36f2-94340e92f4e1/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Weiße Pfote', das typisch für deutsche Hörspiele ist.",
-      "totalDuration": 0,
+      "totalDuration": 3650.908,
       "platforms": {
         "appleMusic": "1300214700"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-4700-t01",
+          "title": "Kapitel 1: Die Reise zu den heißen Quellen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 134.813
+        },
+        {
+          "id": "yaka-folg-4700-t02",
+          "title": "Kapitel 2: Die Reise zu den heißen Quellen",
+          "index": 1,
+          "startTime": 134.813,
+          "duration": 111.147
+        },
+        {
+          "id": "yaka-folg-4700-t03",
+          "title": "Kapitel 3: Die Reise zu den heißen Quellen",
+          "index": 2,
+          "startTime": 245.96,
+          "duration": 106.627
+        },
+        {
+          "id": "yaka-folg-4700-t04",
+          "title": "Kapitel 4: Die Reise zu den heißen Quellen",
+          "index": 3,
+          "startTime": 352.587,
+          "duration": 129.413
+        },
+        {
+          "id": "yaka-folg-4700-t05",
+          "title": "Kapitel 5: Die Reise zu den heißen Quellen",
+          "index": 4,
+          "startTime": 482.0,
+          "duration": 122.32
+        },
+        {
+          "id": "yaka-folg-4700-t06",
+          "title": "Kapitel 6: Die Reise zu den heißen Quellen",
+          "index": 5,
+          "startTime": 604.32,
+          "duration": 118.613
+        },
+        {
+          "id": "yaka-folg-4700-t07",
+          "title": "Kapitel 7: Die Reise zu den heißen Quellen",
+          "index": 6,
+          "startTime": 722.933,
+          "duration": 198.765
+        },
+        {
+          "id": "yaka-folg-4700-t08",
+          "title": "Kapitel 8: Drei hungrige Koyoten",
+          "index": 7,
+          "startTime": 921.698,
+          "duration": 123.947
+        },
+        {
+          "id": "yaka-folg-4700-t09",
+          "title": "Kapitel 9: Drei hungrige Koyoten",
+          "index": 8,
+          "startTime": 1045.645,
+          "duration": 115.693
+        },
+        {
+          "id": "yaka-folg-4700-t10",
+          "title": "Kapitel 10: Drei hungrige Koyoten",
+          "index": 9,
+          "startTime": 1161.338,
+          "duration": 119.347
+        },
+        {
+          "id": "yaka-folg-4700-t11",
+          "title": "Kapitel 11: Drei hungrige Koyoten",
+          "index": 10,
+          "startTime": 1280.685,
+          "duration": 120.907
+        },
+        {
+          "id": "yaka-folg-4700-t12",
+          "title": "Kapitel 12: Drei hungrige Koyoten",
+          "index": 11,
+          "startTime": 1401.592,
+          "duration": 123.467
+        },
+        {
+          "id": "yaka-folg-4700-t13",
+          "title": "Kapitel 13: Drei hungrige Koyoten",
+          "index": 12,
+          "startTime": 1525.059,
+          "duration": 122.733
+        },
+        {
+          "id": "yaka-folg-4700-t14",
+          "title": "Kapitel 14: Drei hungrige Koyoten",
+          "index": 13,
+          "startTime": 1647.792,
+          "duration": 191.605
+        },
+        {
+          "id": "yaka-folg-4700-t15",
+          "title": "Kapitel 15: Weiße Pfote",
+          "index": 14,
+          "startTime": 1839.397,
+          "duration": 114.387
+        },
+        {
+          "id": "yaka-folg-4700-t16",
+          "title": "Kapitel 16: Weiße Pfote",
+          "index": 15,
+          "startTime": 1953.784,
+          "duration": 120.813
+        },
+        {
+          "id": "yaka-folg-4700-t17",
+          "title": "Kapitel 17: Weiße Pfote",
+          "index": 16,
+          "startTime": 2074.597,
+          "duration": 122.547
+        },
+        {
+          "id": "yaka-folg-4700-t18",
+          "title": "Kapitel 18: Weiße Pfote",
+          "index": 17,
+          "startTime": 2197.144,
+          "duration": 123.027
+        },
+        {
+          "id": "yaka-folg-4700-t19",
+          "title": "Kapitel 19: Weiße Pfote",
+          "index": 18,
+          "startTime": 2320.171,
+          "duration": 121.493
+        },
+        {
+          "id": "yaka-folg-4700-t20",
+          "title": "Kapitel 20: Weiße Pfote",
+          "index": 19,
+          "startTime": 2441.664,
+          "duration": 97.907
+        },
+        {
+          "id": "yaka-folg-4700-t21",
+          "title": "Kapitel 21: Weiße Pfote",
+          "index": 20,
+          "startTime": 2539.571,
+          "duration": 182.888
+        },
+        {
+          "id": "yaka-folg-4700-t22",
+          "title": "Kapitel 22: Vielfraß und der müde Krieger",
+          "index": 21,
+          "startTime": 2722.459,
+          "duration": 122.013
+        },
+        {
+          "id": "yaka-folg-4700-t23",
+          "title": "Kapitel 23: Vielfraß und der müde Krieger",
+          "index": 22,
+          "startTime": 2844.472,
+          "duration": 122.507
+        },
+        {
+          "id": "yaka-folg-4700-t24",
+          "title": "Kapitel 24: Vielfraß und der müde Krieger",
+          "index": 23,
+          "startTime": 2966.979,
+          "duration": 128.387
+        },
+        {
+          "id": "yaka-folg-4700-t25",
+          "title": "Kapitel 25: Vielfraß und der müde Krieger",
+          "index": 24,
+          "startTime": 3095.366,
+          "duration": 127.48
+        },
+        {
+          "id": "yaka-folg-4700-t26",
+          "title": "Kapitel 26: Vielfraß und der müde Krieger",
+          "index": 25,
+          "startTime": 3222.846,
+          "duration": 97.787
+        },
+        {
+          "id": "yaka-folg-4700-t27",
+          "title": "Kapitel 27: Vielfraß und der müde Krieger",
+          "index": 26,
+          "startTime": 3320.633,
+          "duration": 116.68
+        },
+        {
+          "id": "yaka-folg-4700-t28",
+          "title": "Kapitel 28: Vielfraß und der müde Krieger",
+          "index": 27,
+          "startTime": 3437.313,
+          "duration": 213.595
+        }
+      ]
     },
     {
       "id": "1337634384",
@@ -418,11 +3977,292 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/a2/75/1ba275f9-0b41-be1b-d7bf-eff3a4148679/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Yakari'. Es enthält 40 Tracks im Genre Hörspiel.",
-      "totalDuration": 0,
+      "totalDuration": 4968.668,
       "platforms": {
         "appleMusic": "1337634384"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-4384-t01",
+          "title": "Kapitel 1: Die dunkle Sonne",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 115.64
+        },
+        {
+          "id": "yaka-folg-4384-t02",
+          "title": "Kapitel 2: Die dunkle Sonne",
+          "index": 1,
+          "startTime": 115.64,
+          "duration": 121.52
+        },
+        {
+          "id": "yaka-folg-4384-t03",
+          "title": "Kapitel 3: Die dunkle Sonne",
+          "index": 2,
+          "startTime": 237.16,
+          "duration": 127.253
+        },
+        {
+          "id": "yaka-folg-4384-t04",
+          "title": "Kapitel 4: Die dunkle Sonne",
+          "index": 3,
+          "startTime": 364.413,
+          "duration": 124.773
+        },
+        {
+          "id": "yaka-folg-4384-t05",
+          "title": "Kapitel 5: Die dunkle Sonne",
+          "index": 4,
+          "startTime": 489.186,
+          "duration": 113.707
+        },
+        {
+          "id": "yaka-folg-4384-t06",
+          "title": "Kapitel 6: Die dunkle Sonne",
+          "index": 5,
+          "startTime": 602.893,
+          "duration": 128.04
+        },
+        {
+          "id": "yaka-folg-4384-t07",
+          "title": "Kapitel 7: Die dunkle Sonne",
+          "index": 6,
+          "startTime": 730.933,
+          "duration": 110.88
+        },
+        {
+          "id": "yaka-folg-4384-t08",
+          "title": "Kapitel 8: Die dunkle Sonne",
+          "index": 7,
+          "startTime": 841.813,
+          "duration": 181.381
+        },
+        {
+          "id": "yaka-folg-4384-t09",
+          "title": "Kapitel 9: Der heilige Tomahawk",
+          "index": 8,
+          "startTime": 1023.194,
+          "duration": 116.173
+        },
+        {
+          "id": "yaka-folg-4384-t10",
+          "title": "Kapitel 10: Der heilige Tomahawk",
+          "index": 9,
+          "startTime": 1139.367,
+          "duration": 121.12
+        },
+        {
+          "id": "yaka-folg-4384-t11",
+          "title": "Kapitel 11: Der heilige Tomahawk",
+          "index": 10,
+          "startTime": 1260.487,
+          "duration": 108.973
+        },
+        {
+          "id": "yaka-folg-4384-t12",
+          "title": "Kapitel 12: Der heilige Tomahawk",
+          "index": 11,
+          "startTime": 1369.46,
+          "duration": 117.347
+        },
+        {
+          "id": "yaka-folg-4384-t13",
+          "title": "Kapitel 13: Der heilige Tomahawk",
+          "index": 12,
+          "startTime": 1486.807,
+          "duration": 118.76
+        },
+        {
+          "id": "yaka-folg-4384-t14",
+          "title": "Kapitel 14: Der heilige Tomahawk",
+          "index": 13,
+          "startTime": 1605.567,
+          "duration": 120.373
+        },
+        {
+          "id": "yaka-folg-4384-t15",
+          "title": "Kapitel 15: Der heilige Tomahawk",
+          "index": 14,
+          "startTime": 1725.94,
+          "duration": 120.16
+        },
+        {
+          "id": "yaka-folg-4384-t16",
+          "title": "Kapitel 16: Der heilige Tomahawk",
+          "index": 15,
+          "startTime": 1846.1,
+          "duration": 222.837
+        },
+        {
+          "id": "yaka-folg-4384-t17",
+          "title": "Kapitel 17: Alles Verkehrt",
+          "index": 16,
+          "startTime": 2068.937,
+          "duration": 111.507
+        },
+        {
+          "id": "yaka-folg-4384-t18",
+          "title": "Kapitel 18: Alles Verkehrt",
+          "index": 17,
+          "startTime": 2180.444,
+          "duration": 89.08
+        },
+        {
+          "id": "yaka-folg-4384-t19",
+          "title": "Kapitel 19: Alles Verkehrt",
+          "index": 18,
+          "startTime": 2269.524,
+          "duration": 84.347
+        },
+        {
+          "id": "yaka-folg-4384-t20",
+          "title": "Kapitel 20: Alles Verkehrt",
+          "index": 19,
+          "startTime": 2353.871,
+          "duration": 111.52
+        },
+        {
+          "id": "yaka-folg-4384-t21",
+          "title": "Kapitel 21: Alles Verkehrt",
+          "index": 20,
+          "startTime": 2465.391,
+          "duration": 125.44
+        },
+        {
+          "id": "yaka-folg-4384-t22",
+          "title": "Kapitel 22: Alles Verkehrt",
+          "index": 21,
+          "startTime": 2590.831,
+          "duration": 126.533
+        },
+        {
+          "id": "yaka-folg-4384-t23",
+          "title": "Kapitel 23: Alles Verkehrt",
+          "index": 22,
+          "startTime": 2717.364,
+          "duration": 112.773
+        },
+        {
+          "id": "yaka-folg-4384-t24",
+          "title": "Kapitel 24: Alles Verkehrt",
+          "index": 23,
+          "startTime": 2830.137,
+          "duration": 244.446
+        },
+        {
+          "id": "yaka-folg-4384-t25",
+          "title": "Kapitel 25: Hilfe für das Flughörnchen",
+          "index": 24,
+          "startTime": 3074.583,
+          "duration": 89.48
+        },
+        {
+          "id": "yaka-folg-4384-t26",
+          "title": "Kapitel 26: Hilfe für das Flughörnchen",
+          "index": 25,
+          "startTime": 3164.063,
+          "duration": 113.813
+        },
+        {
+          "id": "yaka-folg-4384-t27",
+          "title": "Kapitel 27: Hilfe für das Flughörnchen",
+          "index": 26,
+          "startTime": 3277.876,
+          "duration": 132.413
+        },
+        {
+          "id": "yaka-folg-4384-t28",
+          "title": "Kapitel 28: Hilfe für das Flughörnchen",
+          "index": 27,
+          "startTime": 3410.289,
+          "duration": 99.667
+        },
+        {
+          "id": "yaka-folg-4384-t29",
+          "title": "Kapitel 29: Hilfe für das Flughörnchen",
+          "index": 28,
+          "startTime": 3509.956,
+          "duration": 113.773
+        },
+        {
+          "id": "yaka-folg-4384-t30",
+          "title": "Kapitel 30: Hilfe für das Flughörnchen",
+          "index": 29,
+          "startTime": 3623.729,
+          "duration": 104.6
+        },
+        {
+          "id": "yaka-folg-4384-t31",
+          "title": "Kapitel 31: Hilfe für das Flughörnchen",
+          "index": 30,
+          "startTime": 3728.329,
+          "duration": 100.467
+        },
+        {
+          "id": "yaka-folg-4384-t32",
+          "title": "Kapitel 32: Hilfe für das Flughörnchen",
+          "index": 31,
+          "startTime": 3828.796,
+          "duration": 178.814
+        },
+        {
+          "id": "yaka-folg-4384-t33",
+          "title": "Kapitel 33: Die Salzgrotte",
+          "index": 32,
+          "startTime": 4007.61,
+          "duration": 125.24
+        },
+        {
+          "id": "yaka-folg-4384-t34",
+          "title": "Kapitel 34: Die Salzgrotte",
+          "index": 33,
+          "startTime": 4132.85,
+          "duration": 83.96
+        },
+        {
+          "id": "yaka-folg-4384-t35",
+          "title": "Kapitel 35: Die Salzgrotte",
+          "index": 34,
+          "startTime": 4216.81,
+          "duration": 112.253
+        },
+        {
+          "id": "yaka-folg-4384-t36",
+          "title": "Kapitel 36: Die Salzgrotte",
+          "index": 35,
+          "startTime": 4329.063,
+          "duration": 113.8
+        },
+        {
+          "id": "yaka-folg-4384-t37",
+          "title": "Kapitel 37: Die Salzgrotte",
+          "index": 36,
+          "startTime": 4442.863,
+          "duration": 126.947
+        },
+        {
+          "id": "yaka-folg-4384-t38",
+          "title": "Kapitel 38: Die Salzgrotte",
+          "index": 37,
+          "startTime": 4569.81,
+          "duration": 119.92
+        },
+        {
+          "id": "yaka-folg-4384-t39",
+          "title": "Kapitel 39: Die Salzgrotte",
+          "index": 38,
+          "startTime": 4689.73,
+          "duration": 108.0
+        },
+        {
+          "id": "yaka-folg-4384-t40",
+          "title": "Kapitel 40: Die Salzgrotte",
+          "index": 39,
+          "startTime": 4797.73,
+          "duration": 170.938
+        }
+      ]
     },
     {
       "id": "1382297805",
@@ -431,11 +4271,194 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/e0/75/65e075d2-005e-c2bf-894f-a7d556e097ca/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Yakari und Silberfell, das typisch für deutsche Hörspiele ist.",
-      "totalDuration": 0,
+      "totalDuration": 3531.603,
       "platforms": {
         "appleMusic": "1382297805"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-7805-t01",
+          "title": "Kapitel 1: Der Sonnenbaum",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 123.12
+        },
+        {
+          "id": "yaka-folg-7805-t02",
+          "title": "Kapitel 2: Der Sonnenbaum",
+          "index": 1,
+          "startTime": 123.12,
+          "duration": 121.6
+        },
+        {
+          "id": "yaka-folg-7805-t03",
+          "title": "Kapitel 3: Der Sonnenbaum",
+          "index": 2,
+          "startTime": 244.72,
+          "duration": 118.173
+        },
+        {
+          "id": "yaka-folg-7805-t04",
+          "title": "Kapitel 4: Der Sonnenbaum",
+          "index": 3,
+          "startTime": 362.893,
+          "duration": 103.32
+        },
+        {
+          "id": "yaka-folg-7805-t05",
+          "title": "Kapitel 5: Der Sonnenbaum",
+          "index": 4,
+          "startTime": 466.213,
+          "duration": 108.6
+        },
+        {
+          "id": "yaka-folg-7805-t06",
+          "title": "Kapitel 6: Der Sonnenbaum",
+          "index": 5,
+          "startTime": 574.813,
+          "duration": 97.827
+        },
+        {
+          "id": "yaka-folg-7805-t07",
+          "title": "Kapitel 7: Der Sonnenbaum",
+          "index": 6,
+          "startTime": 672.64,
+          "duration": 186.362
+        },
+        {
+          "id": "yaka-folg-7805-t08",
+          "title": "Kapitel 8: Yakari und Silberfell",
+          "index": 7,
+          "startTime": 859.002,
+          "duration": 122.92
+        },
+        {
+          "id": "yaka-folg-7805-t09",
+          "title": "Kapitel 9: Yakari und Silberfell",
+          "index": 8,
+          "startTime": 981.922,
+          "duration": 123.587
+        },
+        {
+          "id": "yaka-folg-7805-t10",
+          "title": "Kapitel 10: Yakari und Silberfell",
+          "index": 9,
+          "startTime": 1105.509,
+          "duration": 126.8
+        },
+        {
+          "id": "yaka-folg-7805-t11",
+          "title": "Kapitel 11: Yakari und Silberfell",
+          "index": 10,
+          "startTime": 1232.309,
+          "duration": 133.587
+        },
+        {
+          "id": "yaka-folg-7805-t12",
+          "title": "Kapitel 12: Yakari und Silberfell",
+          "index": 11,
+          "startTime": 1365.896,
+          "duration": 126.293
+        },
+        {
+          "id": "yaka-folg-7805-t13",
+          "title": "Kapitel 13: Yakari und Silberfell",
+          "index": 12,
+          "startTime": 1492.189,
+          "duration": 255.398
+        },
+        {
+          "id": "yaka-folg-7805-t14",
+          "title": "Kapitel 14: Die Suche nach dem Türkis",
+          "index": 13,
+          "startTime": 1747.587,
+          "duration": 111.827
+        },
+        {
+          "id": "yaka-folg-7805-t15",
+          "title": "Kapitel 15: Die Suche nach dem Türkis",
+          "index": 14,
+          "startTime": 1859.414,
+          "duration": 129.88
+        },
+        {
+          "id": "yaka-folg-7805-t16",
+          "title": "Kapitel 16: Die Suche nach dem Türkis",
+          "index": 15,
+          "startTime": 1989.294,
+          "duration": 126.453
+        },
+        {
+          "id": "yaka-folg-7805-t17",
+          "title": "Kapitel 17: Die Suche nach dem Türkis",
+          "index": 16,
+          "startTime": 2115.747,
+          "duration": 117.0
+        },
+        {
+          "id": "yaka-folg-7805-t18",
+          "title": "Kapitel 18: Die Suche nach dem Türkis",
+          "index": 17,
+          "startTime": 2232.747,
+          "duration": 113.827
+        },
+        {
+          "id": "yaka-folg-7805-t19",
+          "title": "Kapitel 19: Die Suche nach dem Türkis",
+          "index": 18,
+          "startTime": 2346.574,
+          "duration": 109.627
+        },
+        {
+          "id": "yaka-folg-7805-t20",
+          "title": "Kapitel 20: Die Suche nach dem Türkis",
+          "index": 19,
+          "startTime": 2456.201,
+          "duration": 201.632
+        },
+        {
+          "id": "yaka-folg-7805-t21",
+          "title": "Kapitel 21: Die sprechenden Steine",
+          "index": 20,
+          "startTime": 2657.833,
+          "duration": 118.973
+        },
+        {
+          "id": "yaka-folg-7805-t22",
+          "title": "Kapitel 22: Die sprechenden Steine",
+          "index": 21,
+          "startTime": 2776.806,
+          "duration": 120.64
+        },
+        {
+          "id": "yaka-folg-7805-t23",
+          "title": "Kapitel 23: Die sprechenden Steine",
+          "index": 22,
+          "startTime": 2897.446,
+          "duration": 133.667
+        },
+        {
+          "id": "yaka-folg-7805-t24",
+          "title": "Kapitel 24: Die sprechenden Steine",
+          "index": 23,
+          "startTime": 3031.113,
+          "duration": 139.693
+        },
+        {
+          "id": "yaka-folg-7805-t25",
+          "title": "Kapitel 25: Die sprechenden Steine",
+          "index": 24,
+          "startTime": 3170.806,
+          "duration": 135.213
+        },
+        {
+          "id": "yaka-folg-7805-t26",
+          "title": "Kapitel 26: Die sprechenden Steine",
+          "index": 25,
+          "startTime": 3306.019,
+          "duration": 225.584
+        }
+      ]
     },
     {
       "id": "1435474655",
@@ -444,11 +4467,215 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/84/51/84845188-eca9-8d00-9552-989e8de457ff/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Hörspiel 'Fliegender Fuß', das als Original-Hörspiel zur TV-Serie erscheint. Es enthält 29 Tracks und gehört zum Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 3398.026,
       "platforms": {
         "appleMusic": "1435474655"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-4655-t01",
+          "title": "Kapitel 1: Rauchzeichen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 108.36
+        },
+        {
+          "id": "yaka-folg-4655-t02",
+          "title": "Kapitel 2: Rauchzeichen",
+          "index": 1,
+          "startTime": 108.36,
+          "duration": 110.213
+        },
+        {
+          "id": "yaka-folg-4655-t03",
+          "title": "Kapitel 3: Rauchzeichen",
+          "index": 2,
+          "startTime": 218.573,
+          "duration": 106.333
+        },
+        {
+          "id": "yaka-folg-4655-t04",
+          "title": "Kapitel 4: Rauchzeichen",
+          "index": 3,
+          "startTime": 324.906,
+          "duration": 119.533
+        },
+        {
+          "id": "yaka-folg-4655-t05",
+          "title": "Kapitel 5: Rauchzeichen",
+          "index": 4,
+          "startTime": 444.439,
+          "duration": 95.347
+        },
+        {
+          "id": "yaka-folg-4655-t06",
+          "title": "Kapitel 6: Rauchzeichen",
+          "index": 5,
+          "startTime": 539.786,
+          "duration": 120.96
+        },
+        {
+          "id": "yaka-folg-4655-t07",
+          "title": "Kapitel 7: Rauchzeichen",
+          "index": 6,
+          "startTime": 660.746,
+          "duration": 103.147
+        },
+        {
+          "id": "yaka-folg-4655-t08",
+          "title": "Kapitel 8: Rauchzeichen",
+          "index": 7,
+          "startTime": 763.893,
+          "duration": 104.031
+        },
+        {
+          "id": "yaka-folg-4655-t09",
+          "title": "Kapitel 1: Das wiederborstige Stachelschwein",
+          "index": 8,
+          "startTime": 867.924,
+          "duration": 112.147
+        },
+        {
+          "id": "yaka-folg-4655-t10",
+          "title": "Kapitel 2: Das wiederborstige Stachelschwein",
+          "index": 9,
+          "startTime": 980.071,
+          "duration": 108.293
+        },
+        {
+          "id": "yaka-folg-4655-t11",
+          "title": "Kapitel 3: Das wiederborstige Stachelschwein",
+          "index": 10,
+          "startTime": 1088.364,
+          "duration": 115.373
+        },
+        {
+          "id": "yaka-folg-4655-t12",
+          "title": "Kapitel 4: Das wiederborstige Stachelschwein",
+          "index": 11,
+          "startTime": 1203.737,
+          "duration": 110.467
+        },
+        {
+          "id": "yaka-folg-4655-t13",
+          "title": "Kapitel 5: Das wiederborstige Stachelschwein",
+          "index": 12,
+          "startTime": 1314.204,
+          "duration": 91.48
+        },
+        {
+          "id": "yaka-folg-4655-t14",
+          "title": "Kapitel 6: Das wiederborstige Stachelschwein",
+          "index": 13,
+          "startTime": 1405.684,
+          "duration": 117.72
+        },
+        {
+          "id": "yaka-folg-4655-t15",
+          "title": "Kapitel 7: Das wiederborstige Stachelschwein",
+          "index": 14,
+          "startTime": 1523.404,
+          "duration": 234.681
+        },
+        {
+          "id": "yaka-folg-4655-t16",
+          "title": "Kapitel 1: Fliegender Fuß",
+          "index": 15,
+          "startTime": 1758.085,
+          "duration": 114.347
+        },
+        {
+          "id": "yaka-folg-4655-t17",
+          "title": "Kapitel 2: Fliegender Fuß",
+          "index": 16,
+          "startTime": 1872.432,
+          "duration": 100.787
+        },
+        {
+          "id": "yaka-folg-4655-t18",
+          "title": "Kapitel 3: Fliegender Fuß",
+          "index": 17,
+          "startTime": 1973.219,
+          "duration": 120.093
+        },
+        {
+          "id": "yaka-folg-4655-t19",
+          "title": "Kapitel 4: Fliegender Fuß",
+          "index": 18,
+          "startTime": 2093.312,
+          "duration": 109.12
+        },
+        {
+          "id": "yaka-folg-4655-t20",
+          "title": "Kapitel 5: Fliegender Fuß",
+          "index": 19,
+          "startTime": 2202.432,
+          "duration": 111.653
+        },
+        {
+          "id": "yaka-folg-4655-t21",
+          "title": "Kapitel 6: Fliegender Fuß",
+          "index": 20,
+          "startTime": 2314.085,
+          "duration": 103.16
+        },
+        {
+          "id": "yaka-folg-4655-t22",
+          "title": "Kapitel 7: Fliegender Fuß",
+          "index": 21,
+          "startTime": 2417.245,
+          "duration": 166.464
+        },
+        {
+          "id": "yaka-folg-4655-t23",
+          "title": "Kapitel 1: Der Streit der Sturköpfe",
+          "index": 22,
+          "startTime": 2583.709,
+          "duration": 111.533
+        },
+        {
+          "id": "yaka-folg-4655-t24",
+          "title": "Kapitel 2: Der Streit der Sturköpfe",
+          "index": 23,
+          "startTime": 2695.242,
+          "duration": 103.627
+        },
+        {
+          "id": "yaka-folg-4655-t25",
+          "title": "Kapitel 3: Der Streit der Sturköpfe",
+          "index": 24,
+          "startTime": 2798.869,
+          "duration": 105.013
+        },
+        {
+          "id": "yaka-folg-4655-t26",
+          "title": "Kapitel 4: Der Streit der Sturköpfe",
+          "index": 25,
+          "startTime": 2903.882,
+          "duration": 105.693
+        },
+        {
+          "id": "yaka-folg-4655-t27",
+          "title": "Kapitel 5: Der Streit der Sturköpfe",
+          "index": 26,
+          "startTime": 3009.575,
+          "duration": 105.613
+        },
+        {
+          "id": "yaka-folg-4655-t28",
+          "title": "Kapitel 6: Der Streit der Sturköpfe",
+          "index": 27,
+          "startTime": 3115.188,
+          "duration": 98.693
+        },
+        {
+          "id": "yaka-folg-4655-t29",
+          "title": "Kapitel 7: Der Streit der Sturköpfe",
+          "index": 28,
+          "startTime": 3213.881,
+          "duration": 184.145
+        }
+      ]
     },
     {
       "id": "1439904053",
@@ -457,11 +4684,278 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/ec/64/9aec64cc-644a-1624-83b2-625bc5f6554c/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Das Wolfsjunge', das zu den Genres Abenteuer und Kinder & Jugend gehört.",
-      "totalDuration": 0,
+      "totalDuration": 4537.823,
       "platforms": {
         "appleMusic": "1439904053"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-4053-t01",
+          "title": "Kapitel 1: Wie Knickohr zu Yakari kam",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 111.507
+        },
+        {
+          "id": "yaka-folg-4053-t02",
+          "title": "Kapitel 2: Wie Knickohr zu Yakari kam",
+          "index": 1,
+          "startTime": 111.507,
+          "duration": 81.92
+        },
+        {
+          "id": "yaka-folg-4053-t03",
+          "title": "Kapitel 3: Wie Knickohr zu Yakari kam",
+          "index": 2,
+          "startTime": 193.427,
+          "duration": 116.68
+        },
+        {
+          "id": "yaka-folg-4053-t04",
+          "title": "Kapitel 4: Wie Knickohr zu Yakari kam",
+          "index": 3,
+          "startTime": 310.107,
+          "duration": 130.6
+        },
+        {
+          "id": "yaka-folg-4053-t05",
+          "title": "Kapitel 5: Wie Knickohr zu Yakari kam",
+          "index": 4,
+          "startTime": 440.707,
+          "duration": 97.547
+        },
+        {
+          "id": "yaka-folg-4053-t06",
+          "title": "Kapitel 6: Wie Knickohr zu Yakari kam",
+          "index": 5,
+          "startTime": 538.254,
+          "duration": 122.213
+        },
+        {
+          "id": "yaka-folg-4053-t07",
+          "title": "Kapitel 7: Wie Knickohr zu Yakari kam",
+          "index": 6,
+          "startTime": 660.467,
+          "duration": 118.813
+        },
+        {
+          "id": "yaka-folg-4053-t08",
+          "title": "Kapitel 8: Wie Knickohr zu Yakari kam",
+          "index": 7,
+          "startTime": 779.28,
+          "duration": 225.405
+        },
+        {
+          "id": "yaka-folg-4053-t09",
+          "title": "Kapitel 1: Flügel der Nacht",
+          "index": 8,
+          "startTime": 1004.685,
+          "duration": 93.093
+        },
+        {
+          "id": "yaka-folg-4053-t10",
+          "title": "Kapitel 2: Flügel der Nacht",
+          "index": 9,
+          "startTime": 1097.778,
+          "duration": 99.653
+        },
+        {
+          "id": "yaka-folg-4053-t11",
+          "title": "Kapitel 3: Flügel der Nacht",
+          "index": 10,
+          "startTime": 1197.431,
+          "duration": 88.56
+        },
+        {
+          "id": "yaka-folg-4053-t12",
+          "title": "Kapitel 4: Flügel der Nacht",
+          "index": 11,
+          "startTime": 1285.991,
+          "duration": 127.667
+        },
+        {
+          "id": "yaka-folg-4053-t13",
+          "title": "Kapitel 5: Flügel der Nacht",
+          "index": 12,
+          "startTime": 1413.658,
+          "duration": 118.507
+        },
+        {
+          "id": "yaka-folg-4053-t14",
+          "title": "Kapitel 6: Flügel der Nacht",
+          "index": 13,
+          "startTime": 1532.165,
+          "duration": 123.373
+        },
+        {
+          "id": "yaka-folg-4053-t15",
+          "title": "Kapitel 7: Flügel der Nacht",
+          "index": 14,
+          "startTime": 1655.538,
+          "duration": 238.398
+        },
+        {
+          "id": "yaka-folg-4053-t16",
+          "title": "Kapitel 1: Das Wolfsjunge",
+          "index": 15,
+          "startTime": 1893.936,
+          "duration": 86.347
+        },
+        {
+          "id": "yaka-folg-4053-t17",
+          "title": "Kapitel 2: Das Wolfsjunge",
+          "index": 16,
+          "startTime": 1980.283,
+          "duration": 82.653
+        },
+        {
+          "id": "yaka-folg-4053-t18",
+          "title": "Kapitel 3: Das Wolfsjunge",
+          "index": 17,
+          "startTime": 2062.936,
+          "duration": 118.053
+        },
+        {
+          "id": "yaka-folg-4053-t19",
+          "title": "Kapitel 4: Das Wolfsjunge",
+          "index": 18,
+          "startTime": 2180.989,
+          "duration": 95.973
+        },
+        {
+          "id": "yaka-folg-4053-t20",
+          "title": "Kapitel 5: Das Wolfsjunge",
+          "index": 19,
+          "startTime": 2276.962,
+          "duration": 120.947
+        },
+        {
+          "id": "yaka-folg-4053-t21",
+          "title": "Kapitel 6: Das Wolfsjunge",
+          "index": 20,
+          "startTime": 2397.909,
+          "duration": 104.707
+        },
+        {
+          "id": "yaka-folg-4053-t22",
+          "title": "Kapitel 7: Das Wolfsjunge",
+          "index": 21,
+          "startTime": 2502.616,
+          "duration": 84.893
+        },
+        {
+          "id": "yaka-folg-4053-t23",
+          "title": "Kapitel 8: Das Wolfsjunge",
+          "index": 22,
+          "startTime": 2587.509,
+          "duration": 161.205
+        },
+        {
+          "id": "yaka-folg-4053-t24",
+          "title": "Kapitel 1: Die Reise zu den großen Hügeln",
+          "index": 23,
+          "startTime": 2748.714,
+          "duration": 82.28
+        },
+        {
+          "id": "yaka-folg-4053-t25",
+          "title": "Kapitel 2: Die Reise zu den großen Hügeln",
+          "index": 24,
+          "startTime": 2830.994,
+          "duration": 86.547
+        },
+        {
+          "id": "yaka-folg-4053-t26",
+          "title": "Kapitel 3: Die Reise zu den großen Hügeln",
+          "index": 25,
+          "startTime": 2917.541,
+          "duration": 106.547
+        },
+        {
+          "id": "yaka-folg-4053-t27",
+          "title": "Kapitel 4: Die Reise zu den großen Hügeln",
+          "index": 26,
+          "startTime": 3024.088,
+          "duration": 106.107
+        },
+        {
+          "id": "yaka-folg-4053-t28",
+          "title": "Kapitel 5: Die Reise zu den großen Hügeln",
+          "index": 27,
+          "startTime": 3130.195,
+          "duration": 109.68
+        },
+        {
+          "id": "yaka-folg-4053-t29",
+          "title": "Kapitel 6: Die Reise zu den großen Hügeln",
+          "index": 28,
+          "startTime": 3239.875,
+          "duration": 107.6
+        },
+        {
+          "id": "yaka-folg-4053-t30",
+          "title": "Kapitel 7: Die Reise zu den großen Hügeln",
+          "index": 29,
+          "startTime": 3347.475,
+          "duration": 136.76
+        },
+        {
+          "id": "yaka-folg-4053-t31",
+          "title": "Kapitel 8: Die Reise zu den großen Hügeln",
+          "index": 30,
+          "startTime": 3484.235,
+          "duration": 204.172
+        },
+        {
+          "id": "yaka-folg-4053-t32",
+          "title": "Kapitel 1: Totem Yakari",
+          "index": 31,
+          "startTime": 3688.407,
+          "duration": 103.907
+        },
+        {
+          "id": "yaka-folg-4053-t33",
+          "title": "Kapitel 2: Totem Yakari",
+          "index": 32,
+          "startTime": 3792.314,
+          "duration": 89.6
+        },
+        {
+          "id": "yaka-folg-4053-t34",
+          "title": "Kapitel 3: Totem Yakari",
+          "index": 33,
+          "startTime": 3881.914,
+          "duration": 119.307
+        },
+        {
+          "id": "yaka-folg-4053-t35",
+          "title": "Kapitel 4: Totem Yakari",
+          "index": 34,
+          "startTime": 4001.221,
+          "duration": 111.373
+        },
+        {
+          "id": "yaka-folg-4053-t36",
+          "title": "Kapitel 5: Totem Yakari",
+          "index": 35,
+          "startTime": 4112.594,
+          "duration": 107.093
+        },
+        {
+          "id": "yaka-folg-4053-t37",
+          "title": "Kapitel 6: Totem Yakari",
+          "index": 36,
+          "startTime": 4219.687,
+          "duration": 117.533
+        },
+        {
+          "id": "yaka-folg-4053-t38",
+          "title": "Kapitel 7: Totem Yakari",
+          "index": 37,
+          "startTime": 4337.22,
+          "duration": 200.603
+        }
+      ]
     },
     {
       "id": "1461459549",
@@ -470,11 +4964,208 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/f8/f9/58f8f9f1-9821-1f2a-1e31-f18f57041f60/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Yakari', ein Hörspiel, das auf einer deutschen Serie basiert.",
-      "totalDuration": 0,
+      "totalDuration": 2959.722,
       "platforms": {
         "appleMusic": "1461459549"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-9549-t01",
+          "title": "Kapitel 1: Ein Freund für Wirbelwind",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 112.929
+        },
+        {
+          "id": "yaka-folg-9549-t02",
+          "title": "Kapitel 2: Ein Freund für Wirbelwind",
+          "index": 1,
+          "startTime": 112.929,
+          "duration": 105.542
+        },
+        {
+          "id": "yaka-folg-9549-t03",
+          "title": "Kapitel 3: Ein Freund für Wirbelwind",
+          "index": 2,
+          "startTime": 218.471,
+          "duration": 112.456
+        },
+        {
+          "id": "yaka-folg-9549-t04",
+          "title": "Kapitel 4: Ein Freund für Wirbelwind",
+          "index": 3,
+          "startTime": 330.927,
+          "duration": 109.592
+        },
+        {
+          "id": "yaka-folg-9549-t05",
+          "title": "Kapitel 5: Ein Freund für Wirbelwind",
+          "index": 4,
+          "startTime": 440.519,
+          "duration": 93.805
+        },
+        {
+          "id": "yaka-folg-9549-t06",
+          "title": "Kapitel 6: Ein Freund für Wirbelwind",
+          "index": 5,
+          "startTime": 534.324,
+          "duration": 100.216
+        },
+        {
+          "id": "yaka-folg-9549-t07",
+          "title": "Kapitel 7: Ein Freund für Wirbelwind",
+          "index": 6,
+          "startTime": 634.54,
+          "duration": 101.747
+        },
+        {
+          "id": "yaka-folg-9549-t08",
+          "title": "Kapitel 1: Yakari und freies Pferd",
+          "index": 7,
+          "startTime": 736.287,
+          "duration": 114.912
+        },
+        {
+          "id": "yaka-folg-9549-t09",
+          "title": "Kapitel 2: Yakari und freies Pferd",
+          "index": 8,
+          "startTime": 851.199,
+          "duration": 106.124
+        },
+        {
+          "id": "yaka-folg-9549-t10",
+          "title": "Kapitel 3: Yakari und freies Pferd",
+          "index": 9,
+          "startTime": 957.323,
+          "duration": 99.033
+        },
+        {
+          "id": "yaka-folg-9549-t11",
+          "title": "Kapitel 4: Yakari und freies Pferd",
+          "index": 10,
+          "startTime": 1056.356,
+          "duration": 100.053
+        },
+        {
+          "id": "yaka-folg-9549-t12",
+          "title": "Kapitel 5: Yakari und freies Pferd",
+          "index": 11,
+          "startTime": 1156.409,
+          "duration": 101.876
+        },
+        {
+          "id": "yaka-folg-9549-t13",
+          "title": "Kapitel 6: Yakari und freies Pferd",
+          "index": 12,
+          "startTime": 1258.285,
+          "duration": 106.876
+        },
+        {
+          "id": "yaka-folg-9549-t14",
+          "title": "Kapitel 7: Yakari und freies Pferd",
+          "index": 13,
+          "startTime": 1365.161,
+          "duration": 99.653
+        },
+        {
+          "id": "yaka-folg-9549-t15",
+          "title": "Kapitel 1: Der Tanz des Luchses",
+          "index": 14,
+          "startTime": 1464.814,
+          "duration": 108.057
+        },
+        {
+          "id": "yaka-folg-9549-t16",
+          "title": "Kapitel 2: Der Tanz des Luchses",
+          "index": 15,
+          "startTime": 1572.871,
+          "duration": 102.542
+        },
+        {
+          "id": "yaka-folg-9549-t17",
+          "title": "Kapitel 3: Der Tanz des Luchses",
+          "index": 16,
+          "startTime": 1675.413,
+          "duration": 108.658
+        },
+        {
+          "id": "yaka-folg-9549-t18",
+          "title": "Kapitel 4: Der Tanz des Luchses",
+          "index": 17,
+          "startTime": 1784.071,
+          "duration": 100.171
+        },
+        {
+          "id": "yaka-folg-9549-t19",
+          "title": "Kapitel 5: Der Tanz des Luchses",
+          "index": 18,
+          "startTime": 1884.242,
+          "duration": 107.179
+        },
+        {
+          "id": "yaka-folg-9549-t20",
+          "title": "Kapitel 6: Der Tanz des Luchses",
+          "index": 19,
+          "startTime": 1991.421,
+          "duration": 92.723
+        },
+        {
+          "id": "yaka-folg-9549-t21",
+          "title": "Kapitel 7: Der Tanz des Luchses",
+          "index": 20,
+          "startTime": 2084.144,
+          "duration": 96.973
+        },
+        {
+          "id": "yaka-folg-9549-t22",
+          "title": "Kapitel 1: Yakari verliert seine Stimme",
+          "index": 21,
+          "startTime": 2181.117,
+          "duration": 109.177
+        },
+        {
+          "id": "yaka-folg-9549-t23",
+          "title": "Kapitel 2: Yakari verliert seine Stimme",
+          "index": 22,
+          "startTime": 2290.294,
+          "duration": 110.813
+        },
+        {
+          "id": "yaka-folg-9549-t24",
+          "title": "Kapitel 3: Yakari verliert seine Stimme",
+          "index": 23,
+          "startTime": 2401.107,
+          "duration": 112.268
+        },
+        {
+          "id": "yaka-folg-9549-t25",
+          "title": "Kapitel 4: Yakari verliert seine Stimme",
+          "index": 24,
+          "startTime": 2513.375,
+          "duration": 104.157
+        },
+        {
+          "id": "yaka-folg-9549-t26",
+          "title": "Kapitel 5: Yakari verliert seine Stimme",
+          "index": 25,
+          "startTime": 2617.532,
+          "duration": 115.372
+        },
+        {
+          "id": "yaka-folg-9549-t27",
+          "title": "Kapitel 6: Yakari verliert seine Stimme",
+          "index": 26,
+          "startTime": 2732.904,
+          "duration": 117.431
+        },
+        {
+          "id": "yaka-folg-9549-t28",
+          "title": "Kapitel 7: Yakari verliert seine Stimme",
+          "index": 27,
+          "startTime": 2850.335,
+          "duration": 109.387
+        }
+      ]
     },
     {
       "id": "1469885658",
@@ -483,11 +5174,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/12/ee/3712ee59-8540-420b-0da2-476b4f23b051/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum mit 25 Tracks, das das Original-Hörspiel zur TV-Serie 'Zwei ganz verschiedene Freunde' von Yakari enthält.",
-      "totalDuration": 0,
+      "totalDuration": 3102.241,
       "platforms": {
         "appleMusic": "1469885658"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-5658-t01",
+          "title": "Kapitel 1: Zwei ganz verschiedene Freunde",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 113.035
+        },
+        {
+          "id": "yaka-folg-5658-t02",
+          "title": "Kapitel 2: Zwei ganz verschiedene Freunde",
+          "index": 1,
+          "startTime": 113.035,
+          "duration": 105.14
+        },
+        {
+          "id": "yaka-folg-5658-t03",
+          "title": "Kapitel 3: Zwei ganz verschiedene Freunde",
+          "index": 2,
+          "startTime": 218.175,
+          "duration": 111.825
+        },
+        {
+          "id": "yaka-folg-5658-t04",
+          "title": "Kapitel 4: Zwei ganz verschiedene Freunde",
+          "index": 3,
+          "startTime": 330.0,
+          "duration": 122.053
+        },
+        {
+          "id": "yaka-folg-5658-t05",
+          "title": "Kapitel 5: Zwei ganz verschiedene Freunde",
+          "index": 4,
+          "startTime": 452.053,
+          "duration": 123.033
+        },
+        {
+          "id": "yaka-folg-5658-t06",
+          "title": "Kapitel 6: Zwei ganz verschiedene Freunde",
+          "index": 5,
+          "startTime": 575.086,
+          "duration": 197.584
+        },
+        {
+          "id": "yaka-folg-5658-t07",
+          "title": "Kapitel 1: Der fliegende Bär",
+          "index": 6,
+          "startTime": 772.67,
+          "duration": 110.759
+        },
+        {
+          "id": "yaka-folg-5658-t08",
+          "title": "Kapitel 2: Der fliegende Bär",
+          "index": 7,
+          "startTime": 883.429,
+          "duration": 107.243
+        },
+        {
+          "id": "yaka-folg-5658-t09",
+          "title": "Kapitel 3: Der fliegende Bär",
+          "index": 8,
+          "startTime": 990.672,
+          "duration": 115.189
+        },
+        {
+          "id": "yaka-folg-5658-t10",
+          "title": "Kapitel 4: Der fliegende Bär",
+          "index": 9,
+          "startTime": 1105.861,
+          "duration": 107.385
+        },
+        {
+          "id": "yaka-folg-5658-t11",
+          "title": "Kapitel 5: Der fliegende Bär",
+          "index": 10,
+          "startTime": 1213.246,
+          "duration": 113.391
+        },
+        {
+          "id": "yaka-folg-5658-t12",
+          "title": "Kapitel 6: Der fliegende Bär",
+          "index": 11,
+          "startTime": 1326.637,
+          "duration": 201.268
+        },
+        {
+          "id": "yaka-folg-5658-t13",
+          "title": "Kapitel 1: Adlerschnabel",
+          "index": 12,
+          "startTime": 1527.905,
+          "duration": 110.196
+        },
+        {
+          "id": "yaka-folg-5658-t14",
+          "title": "Kapitel 2: Adlerschnabel",
+          "index": 13,
+          "startTime": 1638.101,
+          "duration": 108.99
+        },
+        {
+          "id": "yaka-folg-5658-t15",
+          "title": "Kapitel 3: Adlerschnabel",
+          "index": 14,
+          "startTime": 1747.091,
+          "duration": 109.361
+        },
+        {
+          "id": "yaka-folg-5658-t16",
+          "title": "Kapitel 4: Adlerschnabel",
+          "index": 15,
+          "startTime": 1856.452,
+          "duration": 110.33
+        },
+        {
+          "id": "yaka-folg-5658-t17",
+          "title": "Kapitel 5: Adlerschnabel",
+          "index": 16,
+          "startTime": 1966.782,
+          "duration": 96.352
+        },
+        {
+          "id": "yaka-folg-5658-t18",
+          "title": "Kapitel 6: Adlerschnabel",
+          "index": 17,
+          "startTime": 2063.134,
+          "duration": 168.148
+        },
+        {
+          "id": "yaka-folg-5658-t19",
+          "title": "Kapitel 1: Der unheimliche Pferdedieb",
+          "index": 18,
+          "startTime": 2231.282,
+          "duration": 109.997
+        },
+        {
+          "id": "yaka-folg-5658-t20",
+          "title": "Kapitel 2: Der unheimliche Pferdedieb",
+          "index": 19,
+          "startTime": 2341.279,
+          "duration": 108.621
+        },
+        {
+          "id": "yaka-folg-5658-t21",
+          "title": "Kapitel 3: Der unheimliche Pferdedieb",
+          "index": 20,
+          "startTime": 2449.9,
+          "duration": 108.968
+        },
+        {
+          "id": "yaka-folg-5658-t22",
+          "title": "Kapitel 4: Der unheimliche Pferdedieb",
+          "index": 21,
+          "startTime": 2558.868,
+          "duration": 115.344
+        },
+        {
+          "id": "yaka-folg-5658-t23",
+          "title": "Kapitel 5: Der unheimliche Pferdedieb",
+          "index": 22,
+          "startTime": 2674.212,
+          "duration": 105.331
+        },
+        {
+          "id": "yaka-folg-5658-t24",
+          "title": "Kapitel 6: Der unheimliche Pferdedieb",
+          "index": 23,
+          "startTime": 2779.543,
+          "duration": 111.736
+        },
+        {
+          "id": "yaka-folg-5658-t25",
+          "title": "Kapitel 7: Der unheimliche Pferdedieb",
+          "index": 24,
+          "startTime": 2891.279,
+          "duration": 210.962
+        }
+      ]
     },
     {
       "id": "1485030503",
@@ -496,11 +5363,313 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/c0/fc/60c0fc98-3d0b-78ee-0321-5809d16236d1/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie, was auf einen Hörspiel-Inhalt hindeutet.",
-      "totalDuration": 0,
+      "totalDuration": 4234.279,
       "platforms": {
         "appleMusic": "1485030503"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-folg-0503-t01",
+          "title": "Die Kojotenjagd - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 89.72
+        },
+        {
+          "id": "yaka-folg-0503-t02",
+          "title": "Die Kojotenjagd - Teil 2",
+          "index": 1,
+          "startTime": 89.72,
+          "duration": 88.853
+        },
+        {
+          "id": "yaka-folg-0503-t03",
+          "title": "Die Kojotenjagd - Teil 3",
+          "index": 2,
+          "startTime": 178.573,
+          "duration": 87.587
+        },
+        {
+          "id": "yaka-folg-0503-t04",
+          "title": "Die Kojotenjagd - Teil 4",
+          "index": 3,
+          "startTime": 266.16,
+          "duration": 93.6
+        },
+        {
+          "id": "yaka-folg-0503-t05",
+          "title": "Die Kojotenjagd - Teil 5",
+          "index": 4,
+          "startTime": 359.76,
+          "duration": 93.227
+        },
+        {
+          "id": "yaka-folg-0503-t06",
+          "title": "Die Kojotenjagd - Teil 6",
+          "index": 5,
+          "startTime": 452.987,
+          "duration": 87.773
+        },
+        {
+          "id": "yaka-folg-0503-t07",
+          "title": "Die Kojotenjagd - Teil 7",
+          "index": 6,
+          "startTime": 540.76,
+          "duration": 93.053
+        },
+        {
+          "id": "yaka-folg-0503-t08",
+          "title": "Die Kojotenjagd - Teil 8",
+          "index": 7,
+          "startTime": 633.813,
+          "duration": 66.347
+        },
+        {
+          "id": "yaka-folg-0503-t09",
+          "title": "Die Kojotenjagd - Teil 9",
+          "index": 8,
+          "startTime": 700.16,
+          "duration": 164.352
+        },
+        {
+          "id": "yaka-folg-0503-t10",
+          "title": "Die Schlucht der Adler - Teil 1",
+          "index": 9,
+          "startTime": 864.512,
+          "duration": 89.627
+        },
+        {
+          "id": "yaka-folg-0503-t11",
+          "title": "Die Schlucht der Adler - Teil 2",
+          "index": 10,
+          "startTime": 954.139,
+          "duration": 85.44
+        },
+        {
+          "id": "yaka-folg-0503-t12",
+          "title": "Die Schlucht der Adler - Teil 3",
+          "index": 11,
+          "startTime": 1039.579,
+          "duration": 92.507
+        },
+        {
+          "id": "yaka-folg-0503-t13",
+          "title": "Die Schlucht der Adler - Teil 4",
+          "index": 12,
+          "startTime": 1132.086,
+          "duration": 88.68
+        },
+        {
+          "id": "yaka-folg-0503-t14",
+          "title": "Die Schlucht der Adler - Teil 5",
+          "index": 13,
+          "startTime": 1220.766,
+          "duration": 94.0
+        },
+        {
+          "id": "yaka-folg-0503-t15",
+          "title": "Die Schlucht der Adler - Teil 6",
+          "index": 14,
+          "startTime": 1314.766,
+          "duration": 89.44
+        },
+        {
+          "id": "yaka-folg-0503-t16",
+          "title": "Die Schlucht der Adler - Teil 7",
+          "index": 15,
+          "startTime": 1404.206,
+          "duration": 83.947
+        },
+        {
+          "id": "yaka-folg-0503-t17",
+          "title": "Die Schlucht der Adler - Teil 8",
+          "index": 16,
+          "startTime": 1488.153,
+          "duration": 173.28
+        },
+        {
+          "id": "yaka-folg-0503-t18",
+          "title": "Eile mit Weile - Teil 1",
+          "index": 17,
+          "startTime": 1661.433,
+          "duration": 92.16
+        },
+        {
+          "id": "yaka-folg-0503-t19",
+          "title": "Eile mit Weile - Teil 2",
+          "index": 18,
+          "startTime": 1753.593,
+          "duration": 87.04
+        },
+        {
+          "id": "yaka-folg-0503-t20",
+          "title": "Eile mit Weile - Teil 3",
+          "index": 19,
+          "startTime": 1840.633,
+          "duration": 86.88
+        },
+        {
+          "id": "yaka-folg-0503-t21",
+          "title": "Eile mit Weile - Teil 4",
+          "index": 20,
+          "startTime": 1927.513,
+          "duration": 92.293
+        },
+        {
+          "id": "yaka-folg-0503-t22",
+          "title": "Eile mit Weile - Teil 5",
+          "index": 21,
+          "startTime": 2019.806,
+          "duration": 96.6
+        },
+        {
+          "id": "yaka-folg-0503-t23",
+          "title": "Eile mit Weile - Teil 6",
+          "index": 22,
+          "startTime": 2116.406,
+          "duration": 88.613
+        },
+        {
+          "id": "yaka-folg-0503-t24",
+          "title": "Eile mit Weile - Teil 7",
+          "index": 23,
+          "startTime": 2205.019,
+          "duration": 77.68
+        },
+        {
+          "id": "yaka-folg-0503-t25",
+          "title": "Eile mit Weile - Teil 8",
+          "index": 24,
+          "startTime": 2282.699,
+          "duration": 76.48
+        },
+        {
+          "id": "yaka-folg-0503-t26",
+          "title": "Eile mit Weile - Teil 9",
+          "index": 25,
+          "startTime": 2359.179,
+          "duration": 192.525
+        },
+        {
+          "id": "yaka-folg-0503-t27",
+          "title": "Der Häuptlingsschmuck - Teil 1",
+          "index": 26,
+          "startTime": 2551.704,
+          "duration": 87.76
+        },
+        {
+          "id": "yaka-folg-0503-t28",
+          "title": "Der Häuptlingsschmuck - Teil 2",
+          "index": 27,
+          "startTime": 2639.464,
+          "duration": 92.24
+        },
+        {
+          "id": "yaka-folg-0503-t29",
+          "title": "Der Häuptlingsschmuck - Teil 3",
+          "index": 28,
+          "startTime": 2731.704,
+          "duration": 90.747
+        },
+        {
+          "id": "yaka-folg-0503-t30",
+          "title": "Der Häuptlingsschmuck - Teil 4",
+          "index": 29,
+          "startTime": 2822.451,
+          "duration": 89.253
+        },
+        {
+          "id": "yaka-folg-0503-t31",
+          "title": "Der Häuptlingsschmuck - Teil 5",
+          "index": 30,
+          "startTime": 2911.704,
+          "duration": 91.707
+        },
+        {
+          "id": "yaka-folg-0503-t32",
+          "title": "Der Häuptlingsschmuck - Teil 6",
+          "index": 31,
+          "startTime": 3003.411,
+          "duration": 87.773
+        },
+        {
+          "id": "yaka-folg-0503-t33",
+          "title": "Der Häuptlingsschmuck - Teil 7",
+          "index": 32,
+          "startTime": 3091.184,
+          "duration": 89.173
+        },
+        {
+          "id": "yaka-folg-0503-t34",
+          "title": "Der Häuptlingsschmuck - Teil 8",
+          "index": 33,
+          "startTime": 3180.357,
+          "duration": 76.027
+        },
+        {
+          "id": "yaka-folg-0503-t35",
+          "title": "Der Häuptlingsschmuck - Teil 9",
+          "index": 34,
+          "startTime": 3256.384,
+          "duration": 169.471
+        },
+        {
+          "id": "yaka-folg-0503-t36",
+          "title": "Der mit dem Menschen zieht - Teil 1",
+          "index": 35,
+          "startTime": 3425.855,
+          "duration": 89.307
+        },
+        {
+          "id": "yaka-folg-0503-t37",
+          "title": "Der mit dem Menschen zieht - Teil 2",
+          "index": 36,
+          "startTime": 3515.162,
+          "duration": 94.173
+        },
+        {
+          "id": "yaka-folg-0503-t38",
+          "title": "Der mit dem Menschen zieht - Teil 3",
+          "index": 37,
+          "startTime": 3609.335,
+          "duration": 87.467
+        },
+        {
+          "id": "yaka-folg-0503-t39",
+          "title": "Der mit dem Menschen zieht - Teil 4",
+          "index": 38,
+          "startTime": 3696.802,
+          "duration": 87.653
+        },
+        {
+          "id": "yaka-folg-0503-t40",
+          "title": "Der mit dem Menschen zieht - Teil 5",
+          "index": 39,
+          "startTime": 3784.455,
+          "duration": 87.787
+        },
+        {
+          "id": "yaka-folg-0503-t41",
+          "title": "Der mit dem Menschen zieht - Teil 6",
+          "index": 40,
+          "startTime": 3872.242,
+          "duration": 90.24
+        },
+        {
+          "id": "yaka-folg-0503-t42",
+          "title": "Der mit dem Menschen zieht - Teil 7",
+          "index": 41,
+          "startTime": 3962.482,
+          "duration": 97.92
+        },
+        {
+          "id": "yaka-folg-0503-t43",
+          "title": "Der mit dem Menschen zieht - Teil 8",
+          "index": 42,
+          "startTime": 4060.402,
+          "duration": 173.877
+        }
+      ]
     },
     {
       "id": "1530905341",
@@ -509,12 +5678,223 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/63/7c/ff637ce6-c808-bbc9-3869-dd8dd6af5665/4013575911134.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Hörspiel 'Yakari - Das Hörspiel zum Film', das auf Audiostreaming-Plattformen verfügbar ist.",
-      "totalDuration": 0,
+      "totalDuration": 3956.579,
       "platforms": {
         "appleMusic": "1530905341"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "yaka-yaka-5341-t01",
+          "title": "Kapitel 01: Yakari - Das Hörspiel zum Film",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 122.674
+        },
+        {
+          "id": "yaka-yaka-5341-t02",
+          "title": "Kapitel 02: Yakari - Das Hörspiel zum Film",
+          "index": 1,
+          "startTime": 122.674,
+          "duration": 123.848
+        },
+        {
+          "id": "yaka-yaka-5341-t03",
+          "title": "Kapitel 03: Yakari - Das Hörspiel zum Film",
+          "index": 2,
+          "startTime": 246.522,
+          "duration": 125.577
+        },
+        {
+          "id": "yaka-yaka-5341-t04",
+          "title": "Kapitel 04: Yakari - Das Hörspiel zum Film",
+          "index": 3,
+          "startTime": 372.099,
+          "duration": 130.907
+        },
+        {
+          "id": "yaka-yaka-5341-t05",
+          "title": "Kapitel 05: Yakari - Das Hörspiel zum Film",
+          "index": 4,
+          "startTime": 503.006,
+          "duration": 129.602
+        },
+        {
+          "id": "yaka-yaka-5341-t06",
+          "title": "Kapitel 06: Yakari - Das Hörspiel zum Film",
+          "index": 5,
+          "startTime": 632.608,
+          "duration": 126.574
+        },
+        {
+          "id": "yaka-yaka-5341-t07",
+          "title": "Kapitel 07: Yakari - Das Hörspiel zum Film",
+          "index": 6,
+          "startTime": 759.182,
+          "duration": 88.0
+        },
+        {
+          "id": "yaka-yaka-5341-t08",
+          "title": "Kapitel 08: Yakari - Das Hörspiel zum Film",
+          "index": 7,
+          "startTime": 847.182,
+          "duration": 135.634
+        },
+        {
+          "id": "yaka-yaka-5341-t09",
+          "title": "Kapitel 09: Yakari - Das Hörspiel zum Film",
+          "index": 8,
+          "startTime": 982.816,
+          "duration": 123.344
+        },
+        {
+          "id": "yaka-yaka-5341-t10",
+          "title": "Kapitel 10: Yakari - Das Hörspiel zum Film",
+          "index": 9,
+          "startTime": 1106.16,
+          "duration": 127.094
+        },
+        {
+          "id": "yaka-yaka-5341-t11",
+          "title": "Kapitel 11: Yakari - Das Hörspiel zum Film",
+          "index": 10,
+          "startTime": 1233.254,
+          "duration": 135.014
+        },
+        {
+          "id": "yaka-yaka-5341-t12",
+          "title": "Kapitel 12: Yakari - Das Hörspiel zum Film",
+          "index": 11,
+          "startTime": 1368.268,
+          "duration": 138.023
+        },
+        {
+          "id": "yaka-yaka-5341-t13",
+          "title": "Kapitel 13: Yakari - Das Hörspiel zum Film",
+          "index": 12,
+          "startTime": 1506.291,
+          "duration": 120.416
+        },
+        {
+          "id": "yaka-yaka-5341-t14",
+          "title": "Kapitel 14: Yakari - Das Hörspiel zum Film",
+          "index": 13,
+          "startTime": 1626.707,
+          "duration": 123.194
+        },
+        {
+          "id": "yaka-yaka-5341-t15",
+          "title": "Kapitel 15: Yakari - Das Hörspiel zum Film",
+          "index": 14,
+          "startTime": 1749.901,
+          "duration": 142.13
+        },
+        {
+          "id": "yaka-yaka-5341-t16",
+          "title": "Kapitel 16: Yakari - Das Hörspiel zum Film",
+          "index": 15,
+          "startTime": 1892.031,
+          "duration": 129.566
+        },
+        {
+          "id": "yaka-yaka-5341-t17",
+          "title": "Kapitel 17: Yakari - Das Hörspiel zum Film",
+          "index": 16,
+          "startTime": 2021.597,
+          "duration": 122.477
+        },
+        {
+          "id": "yaka-yaka-5341-t18",
+          "title": "Kapitel 18: Yakari - Das Hörspiel zum Film",
+          "index": 17,
+          "startTime": 2144.074,
+          "duration": 122.62
+        },
+        {
+          "id": "yaka-yaka-5341-t19",
+          "title": "Kapitel 19: Yakari - Das Hörspiel zum Film",
+          "index": 18,
+          "startTime": 2266.694,
+          "duration": 138.309
+        },
+        {
+          "id": "yaka-yaka-5341-t20",
+          "title": "Kapitel 20: Yakari - Das Hörspiel zum Film",
+          "index": 19,
+          "startTime": 2405.003,
+          "duration": 139.292
+        },
+        {
+          "id": "yaka-yaka-5341-t21",
+          "title": "Kapitel 21: Yakari - Das Hörspiel zum Film",
+          "index": 20,
+          "startTime": 2544.295,
+          "duration": 127.826
+        },
+        {
+          "id": "yaka-yaka-5341-t22",
+          "title": "Kapitel 22: Yakari - Das Hörspiel zum Film",
+          "index": 21,
+          "startTime": 2672.121,
+          "duration": 143.544
+        },
+        {
+          "id": "yaka-yaka-5341-t23",
+          "title": "Kapitel 23: Yakari - Das Hörspiel zum Film",
+          "index": 22,
+          "startTime": 2815.665,
+          "duration": 123.998
+        },
+        {
+          "id": "yaka-yaka-5341-t24",
+          "title": "Kapitel 24: Yakari - Das Hörspiel zum Film",
+          "index": 23,
+          "startTime": 2939.663,
+          "duration": 125.606
+        },
+        {
+          "id": "yaka-yaka-5341-t25",
+          "title": "Kapitel 25: Yakari - Das Hörspiel zum Film",
+          "index": 24,
+          "startTime": 3065.269,
+          "duration": 138.591
+        },
+        {
+          "id": "yaka-yaka-5341-t26",
+          "title": "Kapitel 26: Yakari - Das Hörspiel zum Film",
+          "index": 25,
+          "startTime": 3203.86,
+          "duration": 126.965
+        },
+        {
+          "id": "yaka-yaka-5341-t27",
+          "title": "Kapitel 27: Yakari - Das Hörspiel zum Film",
+          "index": 26,
+          "startTime": 3330.825,
+          "duration": 139.827
+        },
+        {
+          "id": "yaka-yaka-5341-t28",
+          "title": "Kapitel 28: Yakari - Das Hörspiel zum Film",
+          "index": 27,
+          "startTime": 3470.652,
+          "duration": 130.247
+        },
+        {
+          "id": "yaka-yaka-5341-t29",
+          "title": "Kapitel 29: Yakari - Das Hörspiel zum Film",
+          "index": 28,
+          "startTime": 3600.899,
+          "duration": 135.225
+        },
+        {
+          "id": "yaka-yaka-5341-t30",
+          "title": "Kapitel 30: Yakari - Das Hörspiel zum Film",
+          "index": 29,
+          "startTime": 3736.124,
+          "duration": 220.455
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

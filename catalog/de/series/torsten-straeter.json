@@ -15,11 +15,145 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0f/62/89/0f628906-ecd4-681f-1c00-1c72749109d8/886445462524.jpg/100x100bb.jpg",
       "description": "Ein Comedy-Album mit 19 Tracks, das typisch für Hörspiele konzipiert ist.",
-      "totalDuration": 0,
+      "totalDuration": 12178.334,
       "platforms": {
         "appleMusic": "1048939909"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "tors-dash-9909-t01",
+          "title": "Fump! (Live)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 613.587
+        },
+        {
+          "id": "tors-dash-9909-t02",
+          "title": "Heimat (Live)",
+          "index": 1,
+          "startTime": 613.587,
+          "duration": 537.893
+        },
+        {
+          "id": "tors-dash-9909-t03",
+          "title": "Gudrun (Live)",
+          "index": 2,
+          "startTime": 1151.48,
+          "duration": 719.44
+        },
+        {
+          "id": "tors-dash-9909-t04",
+          "title": "Deutsche Bahn (Live)",
+          "index": 3,
+          "startTime": 1870.92,
+          "duration": 1056.787
+        },
+        {
+          "id": "tors-dash-9909-t05",
+          "title": "Alternativer Reiseplan (Live)",
+          "index": 4,
+          "startTime": 2927.707,
+          "duration": 481.387
+        },
+        {
+          "id": "tors-dash-9909-t06",
+          "title": "Fleischwurst (Live)",
+          "index": 5,
+          "startTime": 3409.094,
+          "duration": 815.867
+        },
+        {
+          "id": "tors-dash-9909-t07",
+          "title": "300-Begrüssungsversuch (Live)",
+          "index": 6,
+          "startTime": 4224.961,
+          "duration": 88.347
+        },
+        {
+          "id": "tors-dash-9909-t08",
+          "title": "Mein erstes Bier (Live)",
+          "index": 7,
+          "startTime": 4313.308,
+          "duration": 1552.613
+        },
+        {
+          "id": "tors-dash-9909-t09",
+          "title": "Urlaubs-Aufsatz (Live)",
+          "index": 8,
+          "startTime": 5865.921,
+          "duration": 1062.827
+        },
+        {
+          "id": "tors-dash-9909-t10",
+          "title": "Frauenfussball (Live)",
+          "index": 9,
+          "startTime": 6928.748,
+          "duration": 506.68
+        },
+        {
+          "id": "tors-dash-9909-t11",
+          "title": "Weihnachten (Live)",
+          "index": 10,
+          "startTime": 7435.428,
+          "duration": 431.4
+        },
+        {
+          "id": "tors-dash-9909-t12",
+          "title": "Entsetzliche Klischees mit Häschen (Live)",
+          "index": 11,
+          "startTime": 7866.828,
+          "duration": 832.667
+        },
+        {
+          "id": "tors-dash-9909-t13",
+          "title": "Fachterminus (Live)",
+          "index": 12,
+          "startTime": 8699.495,
+          "duration": 401.933
+        },
+        {
+          "id": "tors-dash-9909-t14",
+          "title": "Ebay Eule (Live)",
+          "index": 13,
+          "startTime": 9101.428,
+          "duration": 601.267
+        },
+        {
+          "id": "tors-dash-9909-t15",
+          "title": "Postamt (Live)",
+          "index": 14,
+          "startTime": 9702.695,
+          "duration": 495.253
+        },
+        {
+          "id": "tors-dash-9909-t16",
+          "title": "Paulo Coelho (Live)",
+          "index": 15,
+          "startTime": 10197.948,
+          "duration": 563.173
+        },
+        {
+          "id": "tors-dash-9909-t17",
+          "title": "Mein Bruder (Live)",
+          "index": 16,
+          "startTime": 10761.121,
+          "duration": 791.187
+        },
+        {
+          "id": "tors-dash-9909-t18",
+          "title": "Ein paar Regeln (Live)",
+          "index": 17,
+          "startTime": 11552.308,
+          "duration": 562.333
+        },
+        {
+          "id": "tors-dash-9909-t19",
+          "title": "Outtake (Live)",
+          "index": 18,
+          "startTime": 12114.641,
+          "duration": 63.693
+        }
+      ]
     },
     {
       "id": "1283555354",
@@ -28,11 +162,222 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/84/2a/30/842a30b4-fa6e-3f0e-73cc-7d1ebbb7388f/886446688145.jpg/100x100bb.jpg",
       "description": "Ein Comedy-Hörbuch über den Konflikt zwischen David und Goliath.",
-      "totalDuration": 0,
+      "totalDuration": 9810.202,
       "platforms": {
         "appleMusic": "1283555354"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "tors-dash-5354-t01",
+          "title": "Intro I",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 141.76
+        },
+        {
+          "id": "tors-dash-5354-t02",
+          "title": "Der Aufsatz",
+          "index": 1,
+          "startTime": 141.76,
+          "duration": 458.387
+        },
+        {
+          "id": "tors-dash-5354-t03",
+          "title": "Seltsame Hinleitungen I",
+          "index": 2,
+          "startTime": 600.147,
+          "duration": 20.147
+        },
+        {
+          "id": "tors-dash-5354-t04",
+          "title": "Nusspli für Sinatra",
+          "index": 3,
+          "startTime": 620.294,
+          "duration": 1283.107
+        },
+        {
+          "id": "tors-dash-5354-t05",
+          "title": "Seltsame Hinleitungen II",
+          "index": 4,
+          "startTime": 1903.401,
+          "duration": 22.293
+        },
+        {
+          "id": "tors-dash-5354-t06",
+          "title": "Komm, die heißt jetzt einfach: Urlaub!",
+          "index": 5,
+          "startTime": 1925.694,
+          "duration": 467.267
+        },
+        {
+          "id": "tors-dash-5354-t07",
+          "title": "Damals hab ich mal ganz kurz...",
+          "index": 6,
+          "startTime": 2392.961,
+          "duration": 87.787
+        },
+        {
+          "id": "tors-dash-5354-t08",
+          "title": "Mein Freund, der Bademantel",
+          "index": 7,
+          "startTime": 2480.748,
+          "duration": 380.293
+        },
+        {
+          "id": "tors-dash-5354-t09",
+          "title": "Begrüßung Martin Keßler",
+          "index": 8,
+          "startTime": 2861.041,
+          "duration": 238.12
+        },
+        {
+          "id": "tors-dash-5354-t10",
+          "title": "Der David ist dem Goliath sein Tod",
+          "index": 9,
+          "startTime": 3099.161,
+          "duration": 619.187
+        },
+        {
+          "id": "tors-dash-5354-t11",
+          "title": "Mutter",
+          "index": 10,
+          "startTime": 3718.348,
+          "duration": 413.147
+        },
+        {
+          "id": "tors-dash-5354-t12",
+          "title": "Ich machs nicht mehr in Büchereien",
+          "index": 11,
+          "startTime": 4131.495,
+          "duration": 496.813
+        },
+        {
+          "id": "tors-dash-5354-t13",
+          "title": "Parkhaus",
+          "index": 12,
+          "startTime": 4628.308,
+          "duration": 490.733
+        },
+        {
+          "id": "tors-dash-5354-t14",
+          "title": "Seltsame Hinleitungen III",
+          "index": 13,
+          "startTime": 5119.041,
+          "duration": 39.92
+        },
+        {
+          "id": "tors-dash-5354-t15",
+          "title": "Sieben",
+          "index": 14,
+          "startTime": 5158.961,
+          "duration": 337.213
+        },
+        {
+          "id": "tors-dash-5354-t16",
+          "title": "Dreisackpavian",
+          "index": 15,
+          "startTime": 5496.174,
+          "duration": 368.973
+        },
+        {
+          "id": "tors-dash-5354-t17",
+          "title": "Seltsame Hinleitungen IV",
+          "index": 16,
+          "startTime": 5865.147,
+          "duration": 35.12
+        },
+        {
+          "id": "tors-dash-5354-t18",
+          "title": "Mein erstes Mal",
+          "index": 17,
+          "startTime": 5900.267,
+          "duration": 647.467
+        },
+        {
+          "id": "tors-dash-5354-t19",
+          "title": "Intro II",
+          "index": 18,
+          "startTime": 6547.734,
+          "duration": 46.013
+        },
+        {
+          "id": "tors-dash-5354-t20",
+          "title": "Weihnachtsmarkt",
+          "index": 19,
+          "startTime": 6593.747,
+          "duration": 455.653
+        },
+        {
+          "id": "tors-dash-5354-t21",
+          "title": "Seltsame Hinleitungen V",
+          "index": 20,
+          "startTime": 7049.4,
+          "duration": 52.32
+        },
+        {
+          "id": "tors-dash-5354-t22",
+          "title": "Russisch Lloret",
+          "index": 21,
+          "startTime": 7101.72,
+          "duration": 457.227
+        },
+        {
+          "id": "tors-dash-5354-t23",
+          "title": "Starke Frauen",
+          "index": 22,
+          "startTime": 7558.947,
+          "duration": 337.787
+        },
+        {
+          "id": "tors-dash-5354-t24",
+          "title": "Seltsame Hinleitungen VI",
+          "index": 23,
+          "startTime": 7896.734,
+          "duration": 65.56
+        },
+        {
+          "id": "tors-dash-5354-t25",
+          "title": "Alternative Neujahrsansprache",
+          "index": 24,
+          "startTime": 7962.294,
+          "duration": 363.587
+        },
+        {
+          "id": "tors-dash-5354-t26",
+          "title": "Rede",
+          "index": 25,
+          "startTime": 8325.881,
+          "duration": 143.76
+        },
+        {
+          "id": "tors-dash-5354-t27",
+          "title": "Samstag",
+          "index": 26,
+          "startTime": 8469.641,
+          "duration": 442.267
+        },
+        {
+          "id": "tors-dash-5354-t28",
+          "title": "Seltsame Hinleitungen VII",
+          "index": 27,
+          "startTime": 8911.908,
+          "duration": 115.48
+        },
+        {
+          "id": "tors-dash-5354-t29",
+          "title": "Das ist Deutschland",
+          "index": 28,
+          "startTime": 9027.388,
+          "duration": 333.107
+        },
+        {
+          "id": "tors-dash-5354-t30",
+          "title": "Größer und billiger",
+          "index": 29,
+          "startTime": 9360.495,
+          "duration": 449.707
+        }
+      ]
     },
     {
       "id": "705882326",
@@ -41,12 +386,90 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/61/fb/f061fb2b-1303-4061-812e-728c99c7b517/886444071291.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Comedy-Stücke von Torsten Sträter, die typischerweise in Hörspielen oder Hörbüchern vorkommen.",
-      "totalDuration": 0,
+      "totalDuration": 4444.119,
       "platforms": {
         "appleMusic": "705882326"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "tors-selb-2326-t01",
+          "title": "Geht los (Live)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 176.493
+        },
+        {
+          "id": "tors-selb-2326-t02",
+          "title": "Wie ich zu TV Total kam (Live)",
+          "index": 1,
+          "startTime": 176.493,
+          "duration": 687.373
+        },
+        {
+          "id": "tors-selb-2326-t03",
+          "title": "Diättagebuch (Live)",
+          "index": 2,
+          "startTime": 863.866,
+          "duration": 437.053
+        },
+        {
+          "id": "tors-selb-2326-t04",
+          "title": "Warum die 80er ganz allgemein nicht schön waren (Live)",
+          "index": 3,
+          "startTime": 1300.919,
+          "duration": 650.0
+        },
+        {
+          "id": "tors-selb-2326-t05",
+          "title": "Fleischwurst (Live)",
+          "index": 4,
+          "startTime": 1950.919,
+          "duration": 795.547
+        },
+        {
+          "id": "tors-selb-2326-t06",
+          "title": "Büchermachen (Live)",
+          "index": 5,
+          "startTime": 2746.466,
+          "duration": 131.04
+        },
+        {
+          "id": "tors-selb-2326-t07",
+          "title": "Die Vita (Live)",
+          "index": 6,
+          "startTime": 2877.506,
+          "duration": 494.88
+        },
+        {
+          "id": "tors-selb-2326-t08",
+          "title": "Dortmund, früher (Live)",
+          "index": 7,
+          "startTime": 3372.386,
+          "duration": 232.013
+        },
+        {
+          "id": "tors-selb-2326-t09",
+          "title": "Gutenachtgeschichten (Live)",
+          "index": 8,
+          "startTime": 3604.399,
+          "duration": 12.4
+        },
+        {
+          "id": "tors-selb-2326-t10",
+          "title": "Die Sache mit Struppi (Live)",
+          "index": 9,
+          "startTime": 3616.799,
+          "duration": 425.4
+        },
+        {
+          "id": "tors-selb-2326-t11",
+          "title": "Klassenpflegschaft (Live)",
+          "index": 10,
+          "startTime": 4042.199,
+          "duration": 401.92
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

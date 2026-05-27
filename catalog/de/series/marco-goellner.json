@@ -28,11 +28,362 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3d/d5/eb/3dd5ebee-de28-ad1a-3181-f5c1ff22a6b1/rls00066538.jpg/100x100bb.jpg",
       "description": "Ein Album mit dem Titel 'Der Junge hat doch nichts davongetragen?' von Marco Göllner im Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 5923.259,
       "platforms": {
         "appleMusic": "1472429685"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "marc-derj-9685-t01",
+          "title": "Amus Göll Na 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 100.98
+        },
+        {
+          "id": "marc-derj-9685-t02",
+          "title": "Amus Göll Na 02",
+          "index": 1,
+          "startTime": 100.98,
+          "duration": 169.631
+        },
+        {
+          "id": "marc-derj-9685-t03",
+          "title": "Jewittatüte 01",
+          "index": 2,
+          "startTime": 270.611,
+          "duration": 110.126
+        },
+        {
+          "id": "marc-derj-9685-t04",
+          "title": "Jewittatüte 02",
+          "index": 3,
+          "startTime": 380.737,
+          "duration": 109.037
+        },
+        {
+          "id": "marc-derj-9685-t05",
+          "title": "Jewittatüte 03",
+          "index": 4,
+          "startTime": 489.774,
+          "duration": 110.399
+        },
+        {
+          "id": "marc-derj-9685-t06",
+          "title": "Jewittatüte 04",
+          "index": 5,
+          "startTime": 600.173,
+          "duration": 100.323
+        },
+        {
+          "id": "marc-derj-9685-t07",
+          "title": "Jewittatüte 05",
+          "index": 6,
+          "startTime": 700.496,
+          "duration": 100.39
+        },
+        {
+          "id": "marc-derj-9685-t08",
+          "title": "Jewittatüte 06",
+          "index": 7,
+          "startTime": 800.886,
+          "duration": 143.729
+        },
+        {
+          "id": "marc-derj-9685-t09",
+          "title": "Höan 01",
+          "index": 8,
+          "startTime": 944.615,
+          "duration": 99.974
+        },
+        {
+          "id": "marc-derj-9685-t10",
+          "title": "Höan 02",
+          "index": 9,
+          "startTime": 1044.589,
+          "duration": 116.271
+        },
+        {
+          "id": "marc-derj-9685-t11",
+          "title": "Flöttkern 01",
+          "index": 10,
+          "startTime": 1160.86,
+          "duration": 103.315
+        },
+        {
+          "id": "marc-derj-9685-t12",
+          "title": "Flöttkern 02",
+          "index": 11,
+          "startTime": 1264.175,
+          "duration": 101.001
+        },
+        {
+          "id": "marc-derj-9685-t13",
+          "title": "Flöttkern 03",
+          "index": 12,
+          "startTime": 1365.176,
+          "duration": 109.631
+        },
+        {
+          "id": "marc-derj-9685-t14",
+          "title": "Flöttkern 04",
+          "index": 13,
+          "startTime": 1474.807,
+          "duration": 102.94
+        },
+        {
+          "id": "marc-derj-9685-t15",
+          "title": "Flöttkern 05",
+          "index": 14,
+          "startTime": 1577.747,
+          "duration": 103.598
+        },
+        {
+          "id": "marc-derj-9685-t16",
+          "title": "Flöttkern 06",
+          "index": 15,
+          "startTime": 1681.345,
+          "duration": 195.793
+        },
+        {
+          "id": "marc-derj-9685-t17",
+          "title": "Prima Daumen 01",
+          "index": 16,
+          "startTime": 1877.138,
+          "duration": 111.205
+        },
+        {
+          "id": "marc-derj-9685-t18",
+          "title": "Prima Daumen 02",
+          "index": 17,
+          "startTime": 1988.343,
+          "duration": 102.658
+        },
+        {
+          "id": "marc-derj-9685-t19",
+          "title": "Prima Daumen 03",
+          "index": 18,
+          "startTime": 2091.001,
+          "duration": 109.65
+        },
+        {
+          "id": "marc-derj-9685-t20",
+          "title": "Prima Daumen 04",
+          "index": 19,
+          "startTime": 2200.651,
+          "duration": 108.419
+        },
+        {
+          "id": "marc-derj-9685-t21",
+          "title": "Prima Daumen 05",
+          "index": 20,
+          "startTime": 2309.07,
+          "duration": 101.32
+        },
+        {
+          "id": "marc-derj-9685-t22",
+          "title": "Prima Daumen 06",
+          "index": 21,
+          "startTime": 2410.39,
+          "duration": 101.16
+        },
+        {
+          "id": "marc-derj-9685-t23",
+          "title": "Prima Daumen 07",
+          "index": 22,
+          "startTime": 2511.55,
+          "duration": 100.14
+        },
+        {
+          "id": "marc-derj-9685-t24",
+          "title": "Prima Daumen 08",
+          "index": 23,
+          "startTime": 2611.69,
+          "duration": 99.244
+        },
+        {
+          "id": "marc-derj-9685-t25",
+          "title": "Prima Daumen 09",
+          "index": 24,
+          "startTime": 2710.934,
+          "duration": 109.204
+        },
+        {
+          "id": "marc-derj-9685-t26",
+          "title": "Prima Daumen 10",
+          "index": 25,
+          "startTime": 2820.138,
+          "duration": 116.155
+        },
+        {
+          "id": "marc-derj-9685-t27",
+          "title": "Prima Daumen 11",
+          "index": 26,
+          "startTime": 2936.293,
+          "duration": 116.26
+        },
+        {
+          "id": "marc-derj-9685-t28",
+          "title": "Unsichtbar 01",
+          "index": 27,
+          "startTime": 3052.553,
+          "duration": 109.669
+        },
+        {
+          "id": "marc-derj-9685-t29",
+          "title": "Unsichtbar 02",
+          "index": 28,
+          "startTime": 3162.222,
+          "duration": 101.128
+        },
+        {
+          "id": "marc-derj-9685-t30",
+          "title": "Unsichtbar 03",
+          "index": 29,
+          "startTime": 3263.35,
+          "duration": 106.734
+        },
+        {
+          "id": "marc-derj-9685-t31",
+          "title": "Unsichtbar 04",
+          "index": 30,
+          "startTime": 3370.084,
+          "duration": 102.961
+        },
+        {
+          "id": "marc-derj-9685-t32",
+          "title": "Unsichtbar 05",
+          "index": 31,
+          "startTime": 3473.045,
+          "duration": 186.533
+        },
+        {
+          "id": "marc-derj-9685-t33",
+          "title": "Sieht aus wie Postbote 01",
+          "index": 32,
+          "startTime": 3659.578,
+          "duration": 126.745
+        },
+        {
+          "id": "marc-derj-9685-t34",
+          "title": "Sieht aus wie Postbote 02",
+          "index": 33,
+          "startTime": 3786.323,
+          "duration": 113.622
+        },
+        {
+          "id": "marc-derj-9685-t35",
+          "title": "Hinter der Maske 01",
+          "index": 34,
+          "startTime": 3899.945,
+          "duration": 105.235
+        },
+        {
+          "id": "marc-derj-9685-t36",
+          "title": "Hinter der Maske 02",
+          "index": 35,
+          "startTime": 4005.18,
+          "duration": 111.945
+        },
+        {
+          "id": "marc-derj-9685-t37",
+          "title": "Hinter der Maske 03",
+          "index": 36,
+          "startTime": 4117.125,
+          "duration": 165.392
+        },
+        {
+          "id": "marc-derj-9685-t38",
+          "title": "Kaltgetränke 01",
+          "index": 37,
+          "startTime": 4282.517,
+          "duration": 102.428
+        },
+        {
+          "id": "marc-derj-9685-t39",
+          "title": "Kaltgetränke 02",
+          "index": 38,
+          "startTime": 4384.945,
+          "duration": 107.749
+        },
+        {
+          "id": "marc-derj-9685-t40",
+          "title": "Kaltgetränke 03",
+          "index": 39,
+          "startTime": 4492.694,
+          "duration": 103.079
+        },
+        {
+          "id": "marc-derj-9685-t41",
+          "title": "Kaltgetränke 04",
+          "index": 40,
+          "startTime": 4595.773,
+          "duration": 104.254
+        },
+        {
+          "id": "marc-derj-9685-t42",
+          "title": "Kaltgetränke 05",
+          "index": 41,
+          "startTime": 4700.027,
+          "duration": 118.565
+        },
+        {
+          "id": "marc-derj-9685-t43",
+          "title": "Kaltgetränke 06",
+          "index": 42,
+          "startTime": 4818.592,
+          "duration": 126.891
+        },
+        {
+          "id": "marc-derj-9685-t44",
+          "title": "Erneute Versuche",
+          "index": 43,
+          "startTime": 4945.483,
+          "duration": 151.047
+        },
+        {
+          "id": "marc-derj-9685-t45",
+          "title": "Ein Leben lang",
+          "index": 44,
+          "startTime": 5096.53,
+          "duration": 144.49
+        },
+        {
+          "id": "marc-derj-9685-t46",
+          "title": "Queen Mum 01",
+          "index": 45,
+          "startTime": 5241.02,
+          "duration": 117.998
+        },
+        {
+          "id": "marc-derj-9685-t47",
+          "title": "Queen Mum 02",
+          "index": 46,
+          "startTime": 5359.018,
+          "duration": 136.861
+        },
+        {
+          "id": "marc-derj-9685-t48",
+          "title": "Zwei Worte 01",
+          "index": 47,
+          "startTime": 5495.879,
+          "duration": 136.061
+        },
+        {
+          "id": "marc-derj-9685-t49",
+          "title": "Zwei Worte 02",
+          "index": 48,
+          "startTime": 5631.94,
+          "duration": 157.632
+        },
+        {
+          "id": "marc-derj-9685-t50",
+          "title": "Gott und sein Freund 01",
+          "index": 49,
+          "startTime": 5789.572,
+          "duration": 133.687
+        }
+      ]
     },
     {
       "id": "1488118608",
@@ -80,11 +431,61 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/09/67/d2/0967d2e3-3f80-2f06-41e5-425efaf75467/artwork.jpg/100x100bb.jpg",
       "description": "Keine Beschreibung verfügbar",
-      "totalDuration": 0,
+      "totalDuration": 1725.627,
       "platforms": {
         "appleMusic": "1030219256"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "calm-marc-9256-t01",
+          "title": "Wie ist die Welt bloß so verkehrt?",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 227.517
+        },
+        {
+          "id": "calm-marc-9256-t02",
+          "title": "All Deine Wege",
+          "index": 1,
+          "startTime": 227.517,
+          "duration": 275.922
+        },
+        {
+          "id": "calm-marc-9256-t03",
+          "title": "Lass Uns Den Moment (feat. Sonja Heckner)",
+          "index": 2,
+          "startTime": 503.439,
+          "duration": 268.895
+        },
+        {
+          "id": "calm-marc-9256-t04",
+          "title": "Hunderttausend Fragen (feat. Wiebke Heitkamp)",
+          "index": 3,
+          "startTime": 772.334,
+          "duration": 265.029
+        },
+        {
+          "id": "calm-marc-9256-t05",
+          "title": "Genauso Glücklich",
+          "index": 4,
+          "startTime": 1037.363,
+          "duration": 274.773
+        },
+        {
+          "id": "calm-marc-9256-t06",
+          "title": "Am Schönsten",
+          "index": 5,
+          "startTime": 1312.136,
+          "duration": 257.105
+        },
+        {
+          "id": "calm-marc-9256-t07",
+          "title": "Redezvous",
+          "index": 6,
+          "startTime": 1569.241,
+          "duration": 156.386
+        }
+      ]
     },
     {
       "id": "1487234136",
@@ -113,5 +514,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

@@ -15,11 +15,229 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/ca/21/daca21c1-85b8-2472-8d7b-cbf76d2c86e9/cover.jpg/100x100bb.jpg",
       "description": "Ein deutscher Hörspiel-Album, das das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' ist, mit insgesamt 31 Tracks im Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 3758.074,
       "platforms": {
         "appleMusic": "1299741323"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-1323-t01",
+          "title": "Kapitel 1: Die Schatzkiste",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 112.27
+        },
+        {
+          "id": "robi-folg-1323-t02",
+          "title": "Kapitel 2: Die Schatzkiste",
+          "index": 1,
+          "startTime": 112.27,
+          "duration": 105.576
+        },
+        {
+          "id": "robi-folg-1323-t03",
+          "title": "Kapitel 3: Die Schatzkiste",
+          "index": 2,
+          "startTime": 217.846,
+          "duration": 108.651
+        },
+        {
+          "id": "robi-folg-1323-t04",
+          "title": "Kapitel 4: Die Schatzkiste",
+          "index": 3,
+          "startTime": 326.497,
+          "duration": 118.019
+        },
+        {
+          "id": "robi-folg-1323-t05",
+          "title": "Kapitel 5: Die Schatzkiste",
+          "index": 4,
+          "startTime": 444.516,
+          "duration": 114.978
+        },
+        {
+          "id": "robi-folg-1323-t06",
+          "title": "Kapitel 6: Die Schatzkiste",
+          "index": 5,
+          "startTime": 559.494,
+          "duration": 100.745
+        },
+        {
+          "id": "robi-folg-1323-t07",
+          "title": "Kapitel 7: Die Schatzkiste",
+          "index": 6,
+          "startTime": 660.239,
+          "duration": 99.604
+        },
+        {
+          "id": "robi-folg-1323-t08",
+          "title": "Kapitel 8: Die Schatzkiste",
+          "index": 7,
+          "startTime": 759.843,
+          "duration": 186.875
+        },
+        {
+          "id": "robi-folg-1323-t09",
+          "title": "Kapitel 9: Die Entführung",
+          "index": 8,
+          "startTime": 946.718,
+          "duration": 107.513
+        },
+        {
+          "id": "robi-folg-1323-t10",
+          "title": "Kapitel 10: Die Entführung",
+          "index": 9,
+          "startTime": 1054.231,
+          "duration": 102.185
+        },
+        {
+          "id": "robi-folg-1323-t11",
+          "title": "Kapitel 11: Die Entführung",
+          "index": 10,
+          "startTime": 1156.416,
+          "duration": 105.448
+        },
+        {
+          "id": "robi-folg-1323-t12",
+          "title": "Kapitel 12: Die Entführung",
+          "index": 11,
+          "startTime": 1261.864,
+          "duration": 97.409
+        },
+        {
+          "id": "robi-folg-1323-t13",
+          "title": "Kapitel 13: Die Entführung",
+          "index": 12,
+          "startTime": 1359.273,
+          "duration": 100.361
+        },
+        {
+          "id": "robi-folg-1323-t14",
+          "title": "Kapitel 14: Die Entführung",
+          "index": 13,
+          "startTime": 1459.634,
+          "duration": 101.301
+        },
+        {
+          "id": "robi-folg-1323-t15",
+          "title": "Kapitel 15: Die Entführung",
+          "index": 14,
+          "startTime": 1560.935,
+          "duration": 85.096
+        },
+        {
+          "id": "robi-folg-1323-t16",
+          "title": "Kapitel 16: Die Entführung",
+          "index": 15,
+          "startTime": 1646.031,
+          "duration": 184.5
+        },
+        {
+          "id": "robi-folg-1323-t17",
+          "title": "Kapitel 17: Der Hypnotiseur",
+          "index": 16,
+          "startTime": 1830.531,
+          "duration": 117.962
+        },
+        {
+          "id": "robi-folg-1323-t18",
+          "title": "Kapitel 18: Der Hypnotiseur",
+          "index": 17,
+          "startTime": 1948.493,
+          "duration": 105.106
+        },
+        {
+          "id": "robi-folg-1323-t19",
+          "title": "Kapitel 19: Der Hypnotiseur",
+          "index": 18,
+          "startTime": 2053.599,
+          "duration": 118.589
+        },
+        {
+          "id": "robi-folg-1323-t20",
+          "title": "Kapitel 20: Der Hypnotiseur",
+          "index": 19,
+          "startTime": 2172.188,
+          "duration": 111.072
+        },
+        {
+          "id": "robi-folg-1323-t21",
+          "title": "Kapitel 21: Der Hypnotiseur",
+          "index": 20,
+          "startTime": 2283.26,
+          "duration": 117.248
+        },
+        {
+          "id": "robi-folg-1323-t22",
+          "title": "Kapitel 22: Der Hypnotiseur",
+          "index": 21,
+          "startTime": 2400.508,
+          "duration": 94.124
+        },
+        {
+          "id": "robi-folg-1323-t23",
+          "title": "Kapitel 23: Der Hypnotiseur",
+          "index": 22,
+          "startTime": 2494.632,
+          "duration": 103.919
+        },
+        {
+          "id": "robi-folg-1323-t24",
+          "title": "Kapitel 24: Der Hypnotiseur",
+          "index": 23,
+          "startTime": 2598.551,
+          "duration": 205.5
+        },
+        {
+          "id": "robi-folg-1323-t25",
+          "title": "Kapitel 25: Der Wunderheiler",
+          "index": 24,
+          "startTime": 2804.051,
+          "duration": 116.166
+        },
+        {
+          "id": "robi-folg-1323-t26",
+          "title": "Kapitel 26: Der Wunderheiler",
+          "index": 25,
+          "startTime": 2920.217,
+          "duration": 117.69
+        },
+        {
+          "id": "robi-folg-1323-t27",
+          "title": "Kapitel 27: Der Wunderheiler",
+          "index": 26,
+          "startTime": 3037.907,
+          "duration": 118.306
+        },
+        {
+          "id": "robi-folg-1323-t28",
+          "title": "Kapitel 28: Der Wunderheiler",
+          "index": 27,
+          "startTime": 3156.213,
+          "duration": 131.193
+        },
+        {
+          "id": "robi-folg-1323-t29",
+          "title": "Kapitel 29: Der Wunderheiler",
+          "index": 28,
+          "startTime": 3287.406,
+          "duration": 120.027
+        },
+        {
+          "id": "robi-folg-1323-t30",
+          "title": "Kapitel 30: Der Wunderheiler",
+          "index": 29,
+          "startTime": 3407.433,
+          "duration": 105.141
+        },
+        {
+          "id": "robi-folg-1323-t31",
+          "title": "Kapitel 31: Der Wunderheiler",
+          "index": 30,
+          "startTime": 3512.574,
+          "duration": 245.5
+        }
+      ]
     },
     {
       "id": "1298051501",
@@ -28,11 +246,229 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b7/10/23/b71023d0-819c-039a-ee49-e7caabcdc20b/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum basierend auf der TV-Serie 'Robin Hood - Schlitzohr von Sherwood', das Abenteuer und Spannung bietet.",
-      "totalDuration": 0,
+      "totalDuration": 3787.064,
       "platforms": {
         "appleMusic": "1298051501"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-1501-t01",
+          "title": "Kapitel 1: Der Doppelgänger",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 106.364
+        },
+        {
+          "id": "robi-folg-1501-t02",
+          "title": "Kapitel 2: Der Doppelgänger",
+          "index": 1,
+          "startTime": 106.364,
+          "duration": 108.533
+        },
+        {
+          "id": "robi-folg-1501-t03",
+          "title": "Kapitel 3: Der Doppelgänger",
+          "index": 2,
+          "startTime": 214.897,
+          "duration": 103.579
+        },
+        {
+          "id": "robi-folg-1501-t04",
+          "title": "Kapitel 4: Der Doppelgänger",
+          "index": 3,
+          "startTime": 318.476,
+          "duration": 106.782
+        },
+        {
+          "id": "robi-folg-1501-t05",
+          "title": "Kapitel 5: Der Doppelgänger",
+          "index": 4,
+          "startTime": 425.258,
+          "duration": 118.671
+        },
+        {
+          "id": "robi-folg-1501-t06",
+          "title": "Kapitel 6: Der Doppelgänger",
+          "index": 5,
+          "startTime": 543.929,
+          "duration": 111.597
+        },
+        {
+          "id": "robi-folg-1501-t07",
+          "title": "Kapitel 7: Der Doppelgänger",
+          "index": 6,
+          "startTime": 655.526,
+          "duration": 119.545
+        },
+        {
+          "id": "robi-folg-1501-t08",
+          "title": "Kapitel 8: Der Doppelgänger",
+          "index": 7,
+          "startTime": 775.071,
+          "duration": 245.5
+        },
+        {
+          "id": "robi-folg-1501-t09",
+          "title": "Kapitel 9: Die Jagd nach dem Schatz",
+          "index": 8,
+          "startTime": 1020.571,
+          "duration": 103.027
+        },
+        {
+          "id": "robi-folg-1501-t10",
+          "title": "Kapitel 10: Die Jagd nach dem Schatz",
+          "index": 9,
+          "startTime": 1123.598,
+          "duration": 104.092
+        },
+        {
+          "id": "robi-folg-1501-t11",
+          "title": "Kapitel 11: Die Jagd nach dem Schatz",
+          "index": 10,
+          "startTime": 1227.69,
+          "duration": 106.595
+        },
+        {
+          "id": "robi-folg-1501-t12",
+          "title": "Kapitel 12: Die Jagd nach dem Schatz",
+          "index": 11,
+          "startTime": 1334.285,
+          "duration": 104.324
+        },
+        {
+          "id": "robi-folg-1501-t13",
+          "title": "Kapitel 13: Die Jagd nach dem Schatz",
+          "index": 12,
+          "startTime": 1438.609,
+          "duration": 113.719
+        },
+        {
+          "id": "robi-folg-1501-t14",
+          "title": "Kapitel 14: Die Jagd nach dem Schatz",
+          "index": 13,
+          "startTime": 1552.328,
+          "duration": 105.171
+        },
+        {
+          "id": "robi-folg-1501-t15",
+          "title": "Kapitel 15: Die Jagd nach dem Schatz",
+          "index": 14,
+          "startTime": 1657.499,
+          "duration": 103.123
+        },
+        {
+          "id": "robi-folg-1501-t16",
+          "title": "Kapitel 16: Die Jagd nach dem Schatz",
+          "index": 15,
+          "startTime": 1760.622,
+          "duration": 227.0
+        },
+        {
+          "id": "robi-folg-1501-t17",
+          "title": "Kapitel 17: Der Puppenspieler",
+          "index": 16,
+          "startTime": 1987.622,
+          "duration": 106.438
+        },
+        {
+          "id": "robi-folg-1501-t18",
+          "title": "Kapitel 18: Der Puppenspieler",
+          "index": 17,
+          "startTime": 2094.06,
+          "duration": 102.629
+        },
+        {
+          "id": "robi-folg-1501-t19",
+          "title": "Kapitel 19: Der Puppenspieler",
+          "index": 18,
+          "startTime": 2196.689,
+          "duration": 103.249
+        },
+        {
+          "id": "robi-folg-1501-t20",
+          "title": "Kapitel 20: Der Puppenspieler",
+          "index": 19,
+          "startTime": 2299.938,
+          "duration": 108.7
+        },
+        {
+          "id": "robi-folg-1501-t21",
+          "title": "Kapitel 21: Der Puppenspieler",
+          "index": 20,
+          "startTime": 2408.638,
+          "duration": 103.232
+        },
+        {
+          "id": "robi-folg-1501-t22",
+          "title": "Kapitel 22: Der Puppenspieler",
+          "index": 21,
+          "startTime": 2511.87,
+          "duration": 114.861
+        },
+        {
+          "id": "robi-folg-1501-t23",
+          "title": "Kapitel 23: Der Puppenspieler",
+          "index": 22,
+          "startTime": 2626.731,
+          "duration": 192.625
+        },
+        {
+          "id": "robi-folg-1501-t24",
+          "title": "Kapitel 24: Der König der Diebe",
+          "index": 23,
+          "startTime": 2819.356,
+          "duration": 105.134
+        },
+        {
+          "id": "robi-folg-1501-t25",
+          "title": "Kapitel 25: Der König der Diebe",
+          "index": 24,
+          "startTime": 2924.49,
+          "duration": 108.704
+        },
+        {
+          "id": "robi-folg-1501-t26",
+          "title": "Kapitel 26: Der König der Diebe",
+          "index": 25,
+          "startTime": 3033.194,
+          "duration": 103.618
+        },
+        {
+          "id": "robi-folg-1501-t27",
+          "title": "Kapitel 27: Der König der Diebe",
+          "index": 26,
+          "startTime": 3136.812,
+          "duration": 107.145
+        },
+        {
+          "id": "robi-folg-1501-t28",
+          "title": "Kapitel 28: Der König der Diebe",
+          "index": 27,
+          "startTime": 3243.957,
+          "duration": 111.791
+        },
+        {
+          "id": "robi-folg-1501-t29",
+          "title": "Kapitel 29: Der König der Diebe",
+          "index": 28,
+          "startTime": 3355.748,
+          "duration": 110.45
+        },
+        {
+          "id": "robi-folg-1501-t30",
+          "title": "Kapitel 30: Der König der Diebe",
+          "index": 29,
+          "startTime": 3466.198,
+          "duration": 111.616
+        },
+        {
+          "id": "robi-folg-1501-t31",
+          "title": "Kapitel 31: Der König der Diebe",
+          "index": 30,
+          "startTime": 3577.814,
+          "duration": 209.25
+        }
+      ]
     },
     {
       "id": "1298052041",
@@ -41,11 +477,201 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/82/92/818292fa-c6ed-d3a2-0100-1c6cf51b91d2/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie, das als Hörbuch formatiert verfügbar ist.",
-      "totalDuration": 0,
+      "totalDuration": 3501.488,
       "platforms": {
         "appleMusic": "1298052041"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-2041-t01",
+          "title": "Kapitel 1: Baby Hood",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 111.801
+        },
+        {
+          "id": "robi-folg-2041-t02",
+          "title": "Kapitel 2: Baby Hood",
+          "index": 1,
+          "startTime": 111.801,
+          "duration": 105.872
+        },
+        {
+          "id": "robi-folg-2041-t03",
+          "title": "Kapitel 3: Baby Hood",
+          "index": 2,
+          "startTime": 217.673,
+          "duration": 102.311
+        },
+        {
+          "id": "robi-folg-2041-t04",
+          "title": "Kapitel 4: Baby Hood",
+          "index": 3,
+          "startTime": 319.984,
+          "duration": 131.563
+        },
+        {
+          "id": "robi-folg-2041-t05",
+          "title": "Kapitel 5: Baby Hood",
+          "index": 4,
+          "startTime": 451.547,
+          "duration": 128.178
+        },
+        {
+          "id": "robi-folg-2041-t06",
+          "title": "Kapitel 6: Baby Hood",
+          "index": 5,
+          "startTime": 579.725,
+          "duration": 213.5
+        },
+        {
+          "id": "robi-folg-2041-t07",
+          "title": "Kapitel 7: Das Pferderennen",
+          "index": 6,
+          "startTime": 793.225,
+          "duration": 113.42
+        },
+        {
+          "id": "robi-folg-2041-t08",
+          "title": "Kapitel 8: Das Pferderennen",
+          "index": 7,
+          "startTime": 906.645,
+          "duration": 106.547
+        },
+        {
+          "id": "robi-folg-2041-t09",
+          "title": "Kapitel 9: Das Pferderennen",
+          "index": 8,
+          "startTime": 1013.192,
+          "duration": 115.929
+        },
+        {
+          "id": "robi-folg-2041-t10",
+          "title": "Kapitel 10: Das Pferderennen",
+          "index": 9,
+          "startTime": 1129.121,
+          "duration": 131.95
+        },
+        {
+          "id": "robi-folg-2041-t11",
+          "title": "Kapitel 11: Das Pferderennen",
+          "index": 10,
+          "startTime": 1261.071,
+          "duration": 110.372
+        },
+        {
+          "id": "robi-folg-2041-t12",
+          "title": "Kapitel 12: Das Pferderennen",
+          "index": 11,
+          "startTime": 1371.443,
+          "duration": 214.5
+        },
+        {
+          "id": "robi-folg-2041-t13",
+          "title": "Kapitel 13: Hyänen-Harry",
+          "index": 12,
+          "startTime": 1585.943,
+          "duration": 109.063
+        },
+        {
+          "id": "robi-folg-2041-t14",
+          "title": "Kapitel 14: Hyänen-Harry",
+          "index": 13,
+          "startTime": 1695.006,
+          "duration": 111.304
+        },
+        {
+          "id": "robi-folg-2041-t15",
+          "title": "Kapitel 15: Hyänen-Harry",
+          "index": 14,
+          "startTime": 1806.31,
+          "duration": 108.79
+        },
+        {
+          "id": "robi-folg-2041-t16",
+          "title": "Kapitel 16: Hyänen-Harry",
+          "index": 15,
+          "startTime": 1915.1,
+          "duration": 114.836
+        },
+        {
+          "id": "robi-folg-2041-t17",
+          "title": "Kapitel 17: Hyänen-Harry",
+          "index": 16,
+          "startTime": 2029.936,
+          "duration": 116.205
+        },
+        {
+          "id": "robi-folg-2041-t18",
+          "title": "Kapitel 18: Hyänen-Harry",
+          "index": 17,
+          "startTime": 2146.141,
+          "duration": 109.931
+        },
+        {
+          "id": "robi-folg-2041-t19",
+          "title": "Kapitel 19: Hyänen-Harry",
+          "index": 18,
+          "startTime": 2256.072,
+          "duration": 120.986
+        },
+        {
+          "id": "robi-folg-2041-t20",
+          "title": "Kapitel 20: Hyänen-Harry",
+          "index": 19,
+          "startTime": 2377.058,
+          "duration": 212.75
+        },
+        {
+          "id": "robi-folg-2041-t21",
+          "title": "Kapitel 21: Der Gangsterboss",
+          "index": 20,
+          "startTime": 2589.808,
+          "duration": 107.993
+        },
+        {
+          "id": "robi-folg-2041-t22",
+          "title": "Kapitel 22: Der Gangsterboss",
+          "index": 21,
+          "startTime": 2697.801,
+          "duration": 104.205
+        },
+        {
+          "id": "robi-folg-2041-t23",
+          "title": "Kapitel 23: Der Gangsterboss",
+          "index": 22,
+          "startTime": 2802.006,
+          "duration": 108.268
+        },
+        {
+          "id": "robi-folg-2041-t24",
+          "title": "Kapitel 24: Der Gangsterboss",
+          "index": 23,
+          "startTime": 2910.274,
+          "duration": 113.264
+        },
+        {
+          "id": "robi-folg-2041-t25",
+          "title": "Kapitel 25: Der Gangsterboss",
+          "index": 24,
+          "startTime": 3023.538,
+          "duration": 96.71
+        },
+        {
+          "id": "robi-folg-2041-t26",
+          "title": "Kapitel 26: Der Gangsterboss",
+          "index": 25,
+          "startTime": 3120.248,
+          "duration": 132.24
+        },
+        {
+          "id": "robi-folg-2041-t27",
+          "title": "Kapitel 27: Der Gangsterboss",
+          "index": 26,
+          "startTime": 3252.488,
+          "duration": 249.0
+        }
+      ]
     },
     {
       "id": "1300522513",
@@ -54,11 +680,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a2/77/f0/a277f05c-0c00-fa19-8c7e-ccff9acb9375/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' und besteht aus 25 Hörspielen.",
-      "totalDuration": 0,
+      "totalDuration": 3600.608,
       "platforms": {
         "appleMusic": "1300522513"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-2513-t01",
+          "title": "Kapitel 1: Der magische Pfeil",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 122.669
+        },
+        {
+          "id": "robi-folg-2513-t02",
+          "title": "Kapitel 2: Der magische Pfeil",
+          "index": 1,
+          "startTime": 122.669,
+          "duration": 118.505
+        },
+        {
+          "id": "robi-folg-2513-t03",
+          "title": "Kapitel 3: Der magische Pfeil",
+          "index": 2,
+          "startTime": 241.174,
+          "duration": 119.9
+        },
+        {
+          "id": "robi-folg-2513-t04",
+          "title": "Kapitel 4: Der magische Pfeil",
+          "index": 3,
+          "startTime": 361.074,
+          "duration": 121.675
+        },
+        {
+          "id": "robi-folg-2513-t05",
+          "title": "Kapitel 5: Der magische Pfeil",
+          "index": 4,
+          "startTime": 482.749,
+          "duration": 128.472
+        },
+        {
+          "id": "robi-folg-2513-t06",
+          "title": "Kapitel 6: Der magische Pfeil",
+          "index": 5,
+          "startTime": 611.221,
+          "duration": 219.75
+        },
+        {
+          "id": "robi-folg-2513-t07",
+          "title": "Kapitel 7: Eine Flasche voll Glück",
+          "index": 6,
+          "startTime": 830.971,
+          "duration": 121.524
+        },
+        {
+          "id": "robi-folg-2513-t08",
+          "title": "Kapitel 8: Eine Flasche voll Glück",
+          "index": 7,
+          "startTime": 952.495,
+          "duration": 121.142
+        },
+        {
+          "id": "robi-folg-2513-t09",
+          "title": "Kapitel 9: Eine Flasche voll Glück",
+          "index": 8,
+          "startTime": 1073.637,
+          "duration": 116.465
+        },
+        {
+          "id": "robi-folg-2513-t10",
+          "title": "Kapitel 10: Eine Flasche voll Glück",
+          "index": 9,
+          "startTime": 1190.102,
+          "duration": 127.877
+        },
+        {
+          "id": "robi-folg-2513-t11",
+          "title": "Kapitel 11: Eine Flasche voll Glück",
+          "index": 10,
+          "startTime": 1317.979,
+          "duration": 133.459
+        },
+        {
+          "id": "robi-folg-2513-t12",
+          "title": "Kapitel 12: Eine Flasche voll Glück",
+          "index": 11,
+          "startTime": 1451.438,
+          "duration": 233.5
+        },
+        {
+          "id": "robi-folg-2513-t13",
+          "title": "Kapitel 13: Kugelhagel",
+          "index": 12,
+          "startTime": 1684.938,
+          "duration": 123.851
+        },
+        {
+          "id": "robi-folg-2513-t14",
+          "title": "Kapitel 14: Kugelhagel",
+          "index": 13,
+          "startTime": 1808.789,
+          "duration": 128.154
+        },
+        {
+          "id": "robi-folg-2513-t15",
+          "title": "Kapitel 15: Kugelhagel",
+          "index": 14,
+          "startTime": 1936.943,
+          "duration": 126.762
+        },
+        {
+          "id": "robi-folg-2513-t16",
+          "title": "Kapitel 16: Kugelhagel",
+          "index": 15,
+          "startTime": 2063.705,
+          "duration": 132.427
+        },
+        {
+          "id": "robi-folg-2513-t17",
+          "title": "Kapitel 17: Kugelhagel",
+          "index": 16,
+          "startTime": 2196.132,
+          "duration": 130.137
+        },
+        {
+          "id": "robi-folg-2513-t18",
+          "title": "Kapitel 18: Kugelhagel",
+          "index": 17,
+          "startTime": 2326.269,
+          "duration": 262.0
+        },
+        {
+          "id": "robi-folg-2513-t19",
+          "title": "Kapitel 19: Die Prinzenstatue",
+          "index": 18,
+          "startTime": 2588.269,
+          "duration": 125.243
+        },
+        {
+          "id": "robi-folg-2513-t20",
+          "title": "Kapitel 20: Die Prinzenstatue",
+          "index": 19,
+          "startTime": 2713.512,
+          "duration": 126.507
+        },
+        {
+          "id": "robi-folg-2513-t21",
+          "title": "Kapitel 21: Die Prinzenstatue",
+          "index": 20,
+          "startTime": 2840.019,
+          "duration": 120.865
+        },
+        {
+          "id": "robi-folg-2513-t22",
+          "title": "Kapitel 22: Die Prinzenstatue",
+          "index": 21,
+          "startTime": 2960.884,
+          "duration": 124.141
+        },
+        {
+          "id": "robi-folg-2513-t23",
+          "title": "Kapitel 23: Die Prinzenstatue",
+          "index": 22,
+          "startTime": 3085.025,
+          "duration": 129.154
+        },
+        {
+          "id": "robi-folg-2513-t24",
+          "title": "Kapitel 24: Die Prinzenstatue",
+          "index": 23,
+          "startTime": 3214.179,
+          "duration": 131.929
+        },
+        {
+          "id": "robi-folg-2513-t25",
+          "title": "Kapitel 25: Die Prinzenstatue",
+          "index": 24,
+          "startTime": 3346.108,
+          "duration": 254.5
+        }
+      ]
     },
     {
       "id": "1567214042",
@@ -67,11 +869,131 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/cf/9e/59cf9e03-5878-e422-2127-f2de894fd868/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie, das Teil eines deutschen Hörspiel-Angebots ist.",
-      "totalDuration": 0,
+      "totalDuration": 3547.444,
       "platforms": {
         "appleMusic": "1567214042"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-4042-t01",
+          "title": "Der Spion - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.161
+        },
+        {
+          "id": "robi-folg-4042-t02",
+          "title": "Der Spion - Teil 1",
+          "index": 1,
+          "startTime": 32.161,
+          "duration": 201.654
+        },
+        {
+          "id": "robi-folg-4042-t03",
+          "title": "Der Spion - Teil 2",
+          "index": 2,
+          "startTime": 233.815,
+          "duration": 180.217
+        },
+        {
+          "id": "robi-folg-4042-t04",
+          "title": "Der Spion - Teil 3",
+          "index": 3,
+          "startTime": 414.032,
+          "duration": 193.269
+        },
+        {
+          "id": "robi-folg-4042-t05",
+          "title": "Der Spion - Teil 4",
+          "index": 4,
+          "startTime": 607.301,
+          "duration": 286.5
+        },
+        {
+          "id": "robi-folg-4042-t06",
+          "title": "Unsichtbares Gold - Teil 1",
+          "index": 5,
+          "startTime": 893.801,
+          "duration": 206.234
+        },
+        {
+          "id": "robi-folg-4042-t07",
+          "title": "Unsichtbares Gold - Teil 2",
+          "index": 6,
+          "startTime": 1100.035,
+          "duration": 202.899
+        },
+        {
+          "id": "robi-folg-4042-t08",
+          "title": "Unsichtbares Gold - Teil 3",
+          "index": 7,
+          "startTime": 1302.934,
+          "duration": 221.943
+        },
+        {
+          "id": "robi-folg-4042-t09",
+          "title": "Unsichtbares Gold - Teil 4",
+          "index": 8,
+          "startTime": 1524.877,
+          "duration": 313.625
+        },
+        {
+          "id": "robi-folg-4042-t10",
+          "title": "Die Flugmaschine - Teil 1",
+          "index": 9,
+          "startTime": 1838.502,
+          "duration": 191.352
+        },
+        {
+          "id": "robi-folg-4042-t11",
+          "title": "Die Flugmaschine - Teil 2",
+          "index": 10,
+          "startTime": 2029.854,
+          "duration": 212.331
+        },
+        {
+          "id": "robi-folg-4042-t12",
+          "title": "Die Flugmaschine - Teil 3",
+          "index": 11,
+          "startTime": 2242.185,
+          "duration": 198.403
+        },
+        {
+          "id": "robi-folg-4042-t13",
+          "title": "Die Flugmaschine - Teil 4",
+          "index": 12,
+          "startTime": 2440.588,
+          "duration": 308.0
+        },
+        {
+          "id": "robi-folg-4042-t14",
+          "title": "Die neuen Sheriffs - Teil 1",
+          "index": 13,
+          "startTime": 2748.588,
+          "duration": 222.91
+        },
+        {
+          "id": "robi-folg-4042-t15",
+          "title": "Die neuen Sheriffs - Teil 2",
+          "index": 14,
+          "startTime": 2971.498,
+          "duration": 240.264
+        },
+        {
+          "id": "robi-folg-4042-t16",
+          "title": "Die neuen Sheriffs - Teil 3",
+          "index": 15,
+          "startTime": 3211.762,
+          "duration": 220.432
+        },
+        {
+          "id": "robi-folg-4042-t17",
+          "title": "Die neuen Sheriffs - Outro",
+          "index": 16,
+          "startTime": 3432.194,
+          "duration": 115.25
+        }
+      ]
     },
     {
       "id": "1567214544",
@@ -80,11 +1002,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/49/47/9e/49479e2e-8974-b9ee-826d-cfa7adef22a7/cover.jpg/100x100bb.jpg",
       "description": "Das Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood', das aus 18 Folgen besteht und sich auf das Genre des Hörspiels konzentriert.",
-      "totalDuration": 0,
+      "totalDuration": 3540.59,
       "platforms": {
         "appleMusic": "1567214544"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-4544-t01",
+          "title": "Die Speisekammer des Prinzen - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 31.749
+        },
+        {
+          "id": "robi-folg-4544-t02",
+          "title": "Die Speisekammer des Prinzen - Teil 1",
+          "index": 1,
+          "startTime": 31.749,
+          "duration": 192.223
+        },
+        {
+          "id": "robi-folg-4544-t03",
+          "title": "Die Speisekammer des Prinzen - Teil 2",
+          "index": 2,
+          "startTime": 223.972,
+          "duration": 196.236
+        },
+        {
+          "id": "robi-folg-4544-t04",
+          "title": "Die Speisekammer des Prinzen - Teil 3",
+          "index": 3,
+          "startTime": 420.208,
+          "duration": 208.361
+        },
+        {
+          "id": "robi-folg-4544-t05",
+          "title": "Die Speisekammer des Prinzen - Teil 4",
+          "index": 4,
+          "startTime": 628.569,
+          "duration": 314.75
+        },
+        {
+          "id": "robi-folg-4544-t06",
+          "title": "Lösegeld - Teil 1",
+          "index": 5,
+          "startTime": 943.319,
+          "duration": 185.291
+        },
+        {
+          "id": "robi-folg-4544-t07",
+          "title": "Lösegeld - Teil 2",
+          "index": 6,
+          "startTime": 1128.61,
+          "duration": 191.319
+        },
+        {
+          "id": "robi-folg-4544-t08",
+          "title": "Lösegeld - Teil 3",
+          "index": 7,
+          "startTime": 1319.929,
+          "duration": 185.635
+        },
+        {
+          "id": "robi-folg-4544-t09",
+          "title": "Lösegeld - Teil 4",
+          "index": 8,
+          "startTime": 1505.564,
+          "duration": 287.25
+        },
+        {
+          "id": "robi-folg-4544-t10",
+          "title": "Gefangen - Teil 1",
+          "index": 9,
+          "startTime": 1792.814,
+          "duration": 190.905
+        },
+        {
+          "id": "robi-folg-4544-t11",
+          "title": "Gefangen - Teil 2",
+          "index": 10,
+          "startTime": 1983.719,
+          "duration": 191.505
+        },
+        {
+          "id": "robi-folg-4544-t12",
+          "title": "Gefangen - Teil 3",
+          "index": 11,
+          "startTime": 2175.224,
+          "duration": 187.097
+        },
+        {
+          "id": "robi-folg-4544-t13",
+          "title": "Gefangen - Teil 4",
+          "index": 12,
+          "startTime": 2362.321,
+          "duration": 306.5
+        },
+        {
+          "id": "robi-folg-4544-t14",
+          "title": "Der Schlossgeist - Teil 1",
+          "index": 13,
+          "startTime": 2668.821,
+          "duration": 185.466
+        },
+        {
+          "id": "robi-folg-4544-t15",
+          "title": "Der Schlossgeist - Teil 2",
+          "index": 14,
+          "startTime": 2854.287,
+          "duration": 197.799
+        },
+        {
+          "id": "robi-folg-4544-t16",
+          "title": "Der Schlossgeist - Teil 3",
+          "index": 15,
+          "startTime": 3052.086,
+          "duration": 200.035
+        },
+        {
+          "id": "robi-folg-4544-t17",
+          "title": "Der Schlossgeist - Teil 4",
+          "index": 16,
+          "startTime": 3252.121,
+          "duration": 191.969
+        },
+        {
+          "id": "robi-folg-4544-t18",
+          "title": "Der Schlossgeist - Outro",
+          "index": 17,
+          "startTime": 3444.09,
+          "duration": 96.5
+        }
+      ]
     },
     {
       "id": "1567213679",
@@ -93,11 +1142,145 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/10/6e/4b/106e4b64-2738-58c4-4513-214083f414d4/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum zur TV-Serie, das als Original-Hörspiel veröffentlicht wurde.",
-      "totalDuration": 0,
+      "totalDuration": 3775.674,
       "platforms": {
         "appleMusic": "1567213679"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-3679-t01",
+          "title": "Blitz, die Brieftaube - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 32.013
+        },
+        {
+          "id": "robi-folg-3679-t02",
+          "title": "Blitz, die Brieftaube - Teil 1",
+          "index": 1,
+          "startTime": 32.013,
+          "duration": 195.264
+        },
+        {
+          "id": "robi-folg-3679-t03",
+          "title": "Blitz, die Brieftaube - Teil 2",
+          "index": 2,
+          "startTime": 227.277,
+          "duration": 205.789
+        },
+        {
+          "id": "robi-folg-3679-t04",
+          "title": "Blitz, die Brieftaube - Teil 3",
+          "index": 3,
+          "startTime": 433.066,
+          "duration": 202.875
+        },
+        {
+          "id": "robi-folg-3679-t05",
+          "title": "Blitz, die Brieftaube - Teil 4",
+          "index": 4,
+          "startTime": 635.941,
+          "duration": 297.0
+        },
+        {
+          "id": "robi-folg-3679-t06",
+          "title": "Robin Tuck - Teil 1",
+          "index": 5,
+          "startTime": 932.941,
+          "duration": 185.415
+        },
+        {
+          "id": "robi-folg-3679-t07",
+          "title": "Robin Tuck - Teil 2",
+          "index": 6,
+          "startTime": 1118.356,
+          "duration": 183.019
+        },
+        {
+          "id": "robi-folg-3679-t08",
+          "title": "Robin Tuck - Teil 3",
+          "index": 7,
+          "startTime": 1301.375,
+          "duration": 182.313
+        },
+        {
+          "id": "robi-folg-3679-t09",
+          "title": "Robin Tuck - Teil 4",
+          "index": 8,
+          "startTime": 1483.688,
+          "duration": 186.535
+        },
+        {
+          "id": "robi-folg-3679-t10",
+          "title": "Robin Tuck - Teil 5",
+          "index": 9,
+          "startTime": 1670.223,
+          "duration": 284.5
+        },
+        {
+          "id": "robi-folg-3679-t11",
+          "title": "Prinzenparty - Teil 1",
+          "index": 10,
+          "startTime": 1954.723,
+          "duration": 195.338
+        },
+        {
+          "id": "robi-folg-3679-t12",
+          "title": "Prinzenparty - Teil 2",
+          "index": 11,
+          "startTime": 2150.061,
+          "duration": 196.422
+        },
+        {
+          "id": "robi-folg-3679-t13",
+          "title": "Prinzenparty - Teil 3",
+          "index": 12,
+          "startTime": 2346.483,
+          "duration": 202.879
+        },
+        {
+          "id": "robi-folg-3679-t14",
+          "title": "Prinzenparty - Teil 4",
+          "index": 13,
+          "startTime": 2549.362,
+          "duration": 303.5
+        },
+        {
+          "id": "robi-folg-3679-t15",
+          "title": "Königspost - Teil 1",
+          "index": 14,
+          "startTime": 2852.862,
+          "duration": 191.073
+        },
+        {
+          "id": "robi-folg-3679-t16",
+          "title": "Königspost - Teil 2",
+          "index": 15,
+          "startTime": 3043.935,
+          "duration": 199.15
+        },
+        {
+          "id": "robi-folg-3679-t17",
+          "title": "Königspost - Teil 3",
+          "index": 16,
+          "startTime": 3243.085,
+          "duration": 191.782
+        },
+        {
+          "id": "robi-folg-3679-t18",
+          "title": "Königspost - Teil 4",
+          "index": 17,
+          "startTime": 3434.867,
+          "duration": 204.557
+        },
+        {
+          "id": "robi-folg-3679-t19",
+          "title": "Königspost - Outro",
+          "index": 18,
+          "startTime": 3639.424,
+          "duration": 136.25
+        }
+      ]
     },
     {
       "id": "1567214654",
@@ -106,11 +1289,131 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/42/88/c9/4288c90c-5b28-cfb5-ed5b-1f2626c135b9/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es umfasst 17 Tracks im Genre Hörspiel.",
-      "totalDuration": 0,
+      "totalDuration": 3573.416,
       "platforms": {
         "appleMusic": "1567214654"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-4654-t01",
+          "title": "Fünf Puppen - Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 31.906
+        },
+        {
+          "id": "robi-folg-4654-t02",
+          "title": "Fünf Puppen - Teil 1",
+          "index": 1,
+          "startTime": 31.906,
+          "duration": 185.477
+        },
+        {
+          "id": "robi-folg-4654-t03",
+          "title": "Fünf Puppen - Teil 2",
+          "index": 2,
+          "startTime": 217.383,
+          "duration": 222.818
+        },
+        {
+          "id": "robi-folg-4654-t04",
+          "title": "Fünf Puppen - Teil 3",
+          "index": 3,
+          "startTime": 440.201,
+          "duration": 198.454
+        },
+        {
+          "id": "robi-folg-4654-t05",
+          "title": "Fünf Puppen - Teil 4",
+          "index": 4,
+          "startTime": 638.655,
+          "duration": 311.353
+        },
+        {
+          "id": "robi-folg-4654-t06",
+          "title": "Spiegel-Marian - Teil 1",
+          "index": 5,
+          "startTime": 950.008,
+          "duration": 197.57
+        },
+        {
+          "id": "robi-folg-4654-t07",
+          "title": "Spiegel-Marian - Teil 2",
+          "index": 6,
+          "startTime": 1147.578,
+          "duration": 203.816
+        },
+        {
+          "id": "robi-folg-4654-t08",
+          "title": "Spiegel-Marian - Teil 3",
+          "index": 7,
+          "startTime": 1351.394,
+          "duration": 195.089
+        },
+        {
+          "id": "robi-folg-4654-t09",
+          "title": "Spiegel-Marian - Teil 4",
+          "index": 8,
+          "startTime": 1546.483,
+          "duration": 302.5
+        },
+        {
+          "id": "robi-folg-4654-t10",
+          "title": "Der Werwolf - Teil 1",
+          "index": 9,
+          "startTime": 1848.983,
+          "duration": 197.599
+        },
+        {
+          "id": "robi-folg-4654-t11",
+          "title": "Der Werwolf - Teil 2",
+          "index": 10,
+          "startTime": 2046.582,
+          "duration": 197.262
+        },
+        {
+          "id": "robi-folg-4654-t12",
+          "title": "Der Werwolf - Teil 3",
+          "index": 11,
+          "startTime": 2243.844,
+          "duration": 184.351
+        },
+        {
+          "id": "robi-folg-4654-t13",
+          "title": "Der Werwolf - Teil 4",
+          "index": 12,
+          "startTime": 2428.195,
+          "duration": 309.625
+        },
+        {
+          "id": "robi-folg-4654-t14",
+          "title": "Die Windmühle - Teil 1",
+          "index": 13,
+          "startTime": 2737.82,
+          "duration": 245.735
+        },
+        {
+          "id": "robi-folg-4654-t15",
+          "title": "Die Windmühle - Teil 2",
+          "index": 14,
+          "startTime": 2983.555,
+          "duration": 220.928
+        },
+        {
+          "id": "robi-folg-4654-t16",
+          "title": "Die Windmühle - Teil 3",
+          "index": 15,
+          "startTime": 3204.483,
+          "duration": 250.433
+        },
+        {
+          "id": "robi-folg-4654-t17",
+          "title": "Die Windmühle - Outro",
+          "index": 16,
+          "startTime": 3454.916,
+          "duration": 118.5
+        }
+      ]
     },
     {
       "id": "1199905224",
@@ -119,11 +1422,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/92/89/1b92890f-86fa-295f-77e0-d70e10911361/cover.jpg/100x100bb.jpg",
       "description": "Das Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' mit 16 Folgen über Geld für Waisenkinder.",
-      "totalDuration": 0,
+      "totalDuration": 3077.446,
       "platforms": {
         "appleMusic": "1199905224"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-5224-t01",
+          "title": "Kapitel 1: Operation Spuk",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 220.4
+        },
+        {
+          "id": "robi-folg-5224-t02",
+          "title": "Kapitel 2: Operation Spuk",
+          "index": 1,
+          "startTime": 220.4,
+          "duration": 168.693
+        },
+        {
+          "id": "robi-folg-5224-t03",
+          "title": "Kapitel 3: Operation Spuk",
+          "index": 2,
+          "startTime": 389.093,
+          "duration": 203.867
+        },
+        {
+          "id": "robi-folg-5224-t04",
+          "title": "Kapitel 4: Operation Spuk",
+          "index": 3,
+          "startTime": 592.96,
+          "duration": 280.5
+        },
+        {
+          "id": "robi-folg-5224-t05",
+          "title": "Kapitel 5: Jagd auf Flynn",
+          "index": 4,
+          "startTime": 873.46,
+          "duration": 168.707
+        },
+        {
+          "id": "robi-folg-5224-t06",
+          "title": "Kapitel 6: Jagd auf Flynn",
+          "index": 5,
+          "startTime": 1042.167,
+          "duration": 184.707
+        },
+        {
+          "id": "robi-folg-5224-t07",
+          "title": "Kapitel 7: Jagd auf Flynn",
+          "index": 6,
+          "startTime": 1226.874,
+          "duration": 158.573
+        },
+        {
+          "id": "robi-folg-5224-t08",
+          "title": "Kapitel 8: Jagd auf Flynn",
+          "index": 7,
+          "startTime": 1385.447,
+          "duration": 252.68
+        },
+        {
+          "id": "robi-folg-5224-t09",
+          "title": "Kapitel 9: Ruinen in Gefahr",
+          "index": 8,
+          "startTime": 1638.127,
+          "duration": 170.12
+        },
+        {
+          "id": "robi-folg-5224-t10",
+          "title": "Kapitel 10: Ruinen in Gefahr",
+          "index": 9,
+          "startTime": 1808.247,
+          "duration": 185.653
+        },
+        {
+          "id": "robi-folg-5224-t11",
+          "title": "Kapitel 11: Ruinen in Gefahr",
+          "index": 10,
+          "startTime": 1993.9,
+          "duration": 179.387
+        },
+        {
+          "id": "robi-folg-5224-t12",
+          "title": "Kapitel 12: Ruinen in Gefahr",
+          "index": 11,
+          "startTime": 2173.287,
+          "duration": 280.055
+        },
+        {
+          "id": "robi-folg-5224-t13",
+          "title": "Kapitel 13: Geld für die Waisenkinder",
+          "index": 12,
+          "startTime": 2453.342,
+          "duration": 136.08
+        },
+        {
+          "id": "robi-folg-5224-t14",
+          "title": "Kapitel 14: Geld für die Waisenkinder",
+          "index": 13,
+          "startTime": 2589.422,
+          "duration": 131.533
+        },
+        {
+          "id": "robi-folg-5224-t15",
+          "title": "Kapitel 15: Geld für die Waisenkinder",
+          "index": 14,
+          "startTime": 2720.955,
+          "duration": 140.587
+        },
+        {
+          "id": "robi-folg-5224-t16",
+          "title": "Kapitel 16: Geld für die Waisenkinder",
+          "index": 15,
+          "startTime": 2861.542,
+          "duration": 215.904
+        }
+      ]
     },
     {
       "id": "1567214876",
@@ -132,11 +1548,131 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/28/5d/c6285d73-b589-54d7-cd91-25b9ea56bf91/cover.jpg/100x100bb.jpg",
       "description": "Ein Album, das als Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' erscheint, deutet eindeutig auf eine Hörspielproduktion hin.",
-      "totalDuration": 0,
+      "totalDuration": 3495.053,
       "platforms": {
         "appleMusic": "1567214876"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-4876-t01",
+          "title": "Vergeigt - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 201.236
+        },
+        {
+          "id": "robi-folg-4876-t02",
+          "title": "Vergeigt - Teil 2",
+          "index": 1,
+          "startTime": 201.236,
+          "duration": 199.942
+        },
+        {
+          "id": "robi-folg-4876-t03",
+          "title": "Vergeigt - Teil 3",
+          "index": 2,
+          "startTime": 401.178,
+          "duration": 204.035
+        },
+        {
+          "id": "robi-folg-4876-t04",
+          "title": "Vergeigt - Teil 4",
+          "index": 3,
+          "startTime": 605.213,
+          "duration": 308.151
+        },
+        {
+          "id": "robi-folg-4876-t05",
+          "title": "Kämpferin für Grechtigkeit - Teil 1",
+          "index": 4,
+          "startTime": 913.364,
+          "duration": 196.48
+        },
+        {
+          "id": "robi-folg-4876-t06",
+          "title": "Kämpferin für Grechtigkeit - Teil 2",
+          "index": 5,
+          "startTime": 1109.844,
+          "duration": 199.687
+        },
+        {
+          "id": "robi-folg-4876-t07",
+          "title": "Kämpferin für Grechtigkeit - Teil 3",
+          "index": 6,
+          "startTime": 1309.531,
+          "duration": 190.787
+        },
+        {
+          "id": "robi-folg-4876-t08",
+          "title": "Kämpferin für Gerechtigkeit - Teil 4",
+          "index": 7,
+          "startTime": 1500.318,
+          "duration": 297.151
+        },
+        {
+          "id": "robi-folg-4876-t09",
+          "title": "Der Trottel - Teil 1",
+          "index": 8,
+          "startTime": 1797.469,
+          "duration": 185.34
+        },
+        {
+          "id": "robi-folg-4876-t10",
+          "title": "Der Trottel - Teil 2",
+          "index": 9,
+          "startTime": 1982.809,
+          "duration": 186.42
+        },
+        {
+          "id": "robi-folg-4876-t11",
+          "title": "Der Trottel - Teil 3",
+          "index": 10,
+          "startTime": 2169.229,
+          "duration": 190.693
+        },
+        {
+          "id": "robi-folg-4876-t12",
+          "title": "Der Trottel - Teil 4",
+          "index": 11,
+          "startTime": 2359.922,
+          "duration": 280.901
+        },
+        {
+          "id": "robi-folg-4876-t13",
+          "title": "Falscher Verdacht - Teil 1",
+          "index": 12,
+          "startTime": 2640.823,
+          "duration": 183.293
+        },
+        {
+          "id": "robi-folg-4876-t14",
+          "title": "Falscher Verdacht - Teil 2",
+          "index": 13,
+          "startTime": 2824.116,
+          "duration": 182.567
+        },
+        {
+          "id": "robi-folg-4876-t15",
+          "title": "Falscher Verdacht - Teil 3",
+          "index": 14,
+          "startTime": 3006.683,
+          "duration": 189.756
+        },
+        {
+          "id": "robi-folg-4876-t16",
+          "title": "Falscher Verdacht - Teil 4",
+          "index": 15,
+          "startTime": 3196.439,
+          "duration": 185.21
+        },
+        {
+          "id": "robi-folg-4876-t17",
+          "title": "Falscher Verdacht - Outro",
+          "index": 16,
+          "startTime": 3381.649,
+          "duration": 113.404
+        }
+      ]
     },
     {
       "id": "1276246535",
@@ -145,11 +1681,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/66/b3/e066b314-b3df-e64f-3b85-3da2082b05d6/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie \"Robin Hood - Schlitzohr von Sherwood\". Es umfasst 25 Tracks im Genre \"Hörspiele\".",
-      "totalDuration": 0,
+      "totalDuration": 3615.084,
       "platforms": {
         "appleMusic": "1276246535"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-6535-t01",
+          "title": "Kapitel 1: Räuberspiele",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 128.267
+        },
+        {
+          "id": "robi-folg-6535-t02",
+          "title": "Kapitel 2: Räuberspiele",
+          "index": 1,
+          "startTime": 128.267,
+          "duration": 128.627
+        },
+        {
+          "id": "robi-folg-6535-t03",
+          "title": "Kapitel 3: Räuberspiele",
+          "index": 2,
+          "startTime": 256.894,
+          "duration": 125.253
+        },
+        {
+          "id": "robi-folg-6535-t04",
+          "title": "Kapitel 4: Räuberspiele",
+          "index": 3,
+          "startTime": 382.147,
+          "duration": 127.547
+        },
+        {
+          "id": "robi-folg-6535-t05",
+          "title": "Kapitel 5: Räuberspiele",
+          "index": 4,
+          "startTime": 509.694,
+          "duration": 133.72
+        },
+        {
+          "id": "robi-folg-6535-t06",
+          "title": "Kapitel 6: Räuberspiele",
+          "index": 5,
+          "startTime": 643.414,
+          "duration": 229.176
+        },
+        {
+          "id": "robi-folg-6535-t07",
+          "title": "Kapitel 7: Kopfgeldjäger",
+          "index": 6,
+          "startTime": 872.59,
+          "duration": 135.107
+        },
+        {
+          "id": "robi-folg-6535-t08",
+          "title": "Kapitel 8: Kopfgeldjäger",
+          "index": 7,
+          "startTime": 1007.697,
+          "duration": 140.827
+        },
+        {
+          "id": "robi-folg-6535-t09",
+          "title": "Kapitel 9: Kopfgeldjäger",
+          "index": 8,
+          "startTime": 1148.524,
+          "duration": 125.32
+        },
+        {
+          "id": "robi-folg-6535-t10",
+          "title": "Kapitel 10: Kopfgeldjäger",
+          "index": 9,
+          "startTime": 1273.844,
+          "duration": 135.307
+        },
+        {
+          "id": "robi-folg-6535-t11",
+          "title": "Kapitel 11: Kopfgeldjäger",
+          "index": 10,
+          "startTime": 1409.151,
+          "duration": 120.347
+        },
+        {
+          "id": "robi-folg-6535-t12",
+          "title": "Kapitel 12: Kopfgeldjäger",
+          "index": 11,
+          "startTime": 1529.498,
+          "duration": 229.801
+        },
+        {
+          "id": "robi-folg-6535-t13",
+          "title": "Kapitel 13: Held Prinz John",
+          "index": 12,
+          "startTime": 1759.299,
+          "duration": 122.16
+        },
+        {
+          "id": "robi-folg-6535-t14",
+          "title": "Kapitel 14: Held Prinz John",
+          "index": 13,
+          "startTime": 1881.459,
+          "duration": 116.92
+        },
+        {
+          "id": "robi-folg-6535-t15",
+          "title": "Kapitel 15: Held Prinz John",
+          "index": 14,
+          "startTime": 1998.379,
+          "duration": 118.613
+        },
+        {
+          "id": "robi-folg-6535-t16",
+          "title": "Kapitel 16: Held Prinz John",
+          "index": 15,
+          "startTime": 2116.992,
+          "duration": 124.533
+        },
+        {
+          "id": "robi-folg-6535-t17",
+          "title": "Kapitel 17: Held Prinz John",
+          "index": 16,
+          "startTime": 2241.525,
+          "duration": 123.04
+        },
+        {
+          "id": "robi-folg-6535-t18",
+          "title": "Kapitel 18: Held Prinz John",
+          "index": 17,
+          "startTime": 2364.565,
+          "duration": 119.773
+        },
+        {
+          "id": "robi-folg-6535-t19",
+          "title": "Kapitel 19: Held Prinz John",
+          "index": 18,
+          "startTime": 2484.338,
+          "duration": 236.426
+        },
+        {
+          "id": "robi-folg-6535-t20",
+          "title": "Kapitel 20: Die Ballade von Robin Hood",
+          "index": 19,
+          "startTime": 2720.764,
+          "duration": 132.427
+        },
+        {
+          "id": "robi-folg-6535-t21",
+          "title": "Kapitel 21: Die Ballade von Robin Hood",
+          "index": 20,
+          "startTime": 2853.191,
+          "duration": 128.827
+        },
+        {
+          "id": "robi-folg-6535-t22",
+          "title": "Kapitel 22: Die Ballade von Robin Hood",
+          "index": 21,
+          "startTime": 2982.018,
+          "duration": 136.027
+        },
+        {
+          "id": "robi-folg-6535-t23",
+          "title": "Kapitel 23: Die Ballade von Robin Hood",
+          "index": 22,
+          "startTime": 3118.045,
+          "duration": 142.12
+        },
+        {
+          "id": "robi-folg-6535-t24",
+          "title": "Kapitel 24: Die Ballade von Robin Hood",
+          "index": 23,
+          "startTime": 3260.165,
+          "duration": 133.493
+        },
+        {
+          "id": "robi-folg-6535-t25",
+          "title": "Kapitel 25: Die Ballade von Robin Hood",
+          "index": 24,
+          "startTime": 3393.658,
+          "duration": 221.426
+        }
+      ]
     },
     {
       "id": "1341643945",
@@ -158,11 +1870,194 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/53/45/29/5345297a-d120-4544-dfd2-2dc30077a6f9/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es enthält insgesamt 26 Tracks und gehört zur Kategorie Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 3316.113,
       "platforms": {
         "appleMusic": "1341643945"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-3945-t01",
+          "title": "Kapitel 1: Kinderspiel",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 110.547
+        },
+        {
+          "id": "robi-folg-3945-t02",
+          "title": "Kapitel 2: Kinderspiel",
+          "index": 1,
+          "startTime": 110.547,
+          "duration": 128.907
+        },
+        {
+          "id": "robi-folg-3945-t03",
+          "title": "Kapitel 3: Kinderspiel",
+          "index": 2,
+          "startTime": 239.454,
+          "duration": 121.093
+        },
+        {
+          "id": "robi-folg-3945-t04",
+          "title": "Kapitel 4: Kinderspiel",
+          "index": 3,
+          "startTime": 360.547,
+          "duration": 122.947
+        },
+        {
+          "id": "robi-folg-3945-t05",
+          "title": "Kapitel 5: Kinderspiel",
+          "index": 4,
+          "startTime": 483.494,
+          "duration": 117.813
+        },
+        {
+          "id": "robi-folg-3945-t06",
+          "title": "Kapitel 6: Kinderspiel",
+          "index": 5,
+          "startTime": 601.307,
+          "duration": 184.426
+        },
+        {
+          "id": "robi-folg-3945-t07",
+          "title": "Kapitel 7: Der Alchemist",
+          "index": 6,
+          "startTime": 785.733,
+          "duration": 134.987
+        },
+        {
+          "id": "robi-folg-3945-t08",
+          "title": "Kapitel 8: Der Alchemist",
+          "index": 7,
+          "startTime": 920.72,
+          "duration": 131.253
+        },
+        {
+          "id": "robi-folg-3945-t09",
+          "title": "Kapitel 9: Der Alchemist",
+          "index": 8,
+          "startTime": 1051.973,
+          "duration": 107.68
+        },
+        {
+          "id": "robi-folg-3945-t10",
+          "title": "Kapitel 10: Der Alchemist",
+          "index": 9,
+          "startTime": 1159.653,
+          "duration": 105.293
+        },
+        {
+          "id": "robi-folg-3945-t11",
+          "title": "Kapitel 11: Der Alchemist",
+          "index": 10,
+          "startTime": 1264.946,
+          "duration": 94.0
+        },
+        {
+          "id": "robi-folg-3945-t12",
+          "title": "Kapitel 12: Der Alchemist",
+          "index": 11,
+          "startTime": 1358.946,
+          "duration": 184.676
+        },
+        {
+          "id": "robi-folg-3945-t13",
+          "title": "Kapitel 13: Der geheime Garten",
+          "index": 12,
+          "startTime": 1543.622,
+          "duration": 85.533
+        },
+        {
+          "id": "robi-folg-3945-t14",
+          "title": "Kapitel 14: Der geheime Garten",
+          "index": 13,
+          "startTime": 1629.155,
+          "duration": 101.533
+        },
+        {
+          "id": "robi-folg-3945-t15",
+          "title": "Kapitel 15: Der geheime Garten",
+          "index": 14,
+          "startTime": 1730.688,
+          "duration": 123.187
+        },
+        {
+          "id": "robi-folg-3945-t16",
+          "title": "Kapitel 16: Der geheime Garten",
+          "index": 15,
+          "startTime": 1853.875,
+          "duration": 109.92
+        },
+        {
+          "id": "robi-folg-3945-t17",
+          "title": "Kapitel 17: Der geheime Garten",
+          "index": 16,
+          "startTime": 1963.795,
+          "duration": 114.413
+        },
+        {
+          "id": "robi-folg-3945-t18",
+          "title": "Kapitel 18: Der geheime Garten",
+          "index": 17,
+          "startTime": 2078.208,
+          "duration": 115.76
+        },
+        {
+          "id": "robi-folg-3945-t19",
+          "title": "Kapitel 19: Der geheime Garten",
+          "index": 18,
+          "startTime": 2193.968,
+          "duration": 121.88
+        },
+        {
+          "id": "robi-folg-3945-t20",
+          "title": "Kapitel 20: Der geheime Garten",
+          "index": 19,
+          "startTime": 2315.848,
+          "duration": 204.926
+        },
+        {
+          "id": "robi-folg-3945-t21",
+          "title": "Kapitel 21: Hexerei",
+          "index": 20,
+          "startTime": 2520.774,
+          "duration": 128.187
+        },
+        {
+          "id": "robi-folg-3945-t22",
+          "title": "Kapitel 22: Hexerei",
+          "index": 21,
+          "startTime": 2648.961,
+          "duration": 117.213
+        },
+        {
+          "id": "robi-folg-3945-t23",
+          "title": "Kapitel 23: Hexerei",
+          "index": 22,
+          "startTime": 2766.174,
+          "duration": 135.253
+        },
+        {
+          "id": "robi-folg-3945-t24",
+          "title": "Kapitel 24: Hexerei",
+          "index": 23,
+          "startTime": 2901.427,
+          "duration": 122.653
+        },
+        {
+          "id": "robi-folg-3945-t25",
+          "title": "Kapitel 25: Hexerei",
+          "index": 24,
+          "startTime": 3024.08,
+          "duration": 116.107
+        },
+        {
+          "id": "robi-folg-3945-t26",
+          "title": "Kapitel 26: Hexerei",
+          "index": 25,
+          "startTime": 3140.187,
+          "duration": 175.926
+        }
+      ]
     },
     {
       "id": "1539218771",
@@ -171,11 +2066,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b2/e8/9c/b2e89ca3-654b-afe1-daba-a6075454ee22/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie \"Robin Hood - Schlitzohr von Sherwood\" mit 16 Episoden.",
-      "totalDuration": 0,
+      "totalDuration": 3620.125,
       "platforms": {
         "appleMusic": "1539218771"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-8771-t01",
+          "title": "Ein Streich zu viel - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 186.458
+        },
+        {
+          "id": "robi-folg-8771-t02",
+          "title": "Ein Streich zu viel - Teil 2",
+          "index": 1,
+          "startTime": 186.458,
+          "duration": 180.145
+        },
+        {
+          "id": "robi-folg-8771-t03",
+          "title": "Ein Streich zu viel - Teil 3",
+          "index": 2,
+          "startTime": 366.603,
+          "duration": 188.48
+        },
+        {
+          "id": "robi-folg-8771-t04",
+          "title": "Ein Streich zu viel - Teil 4",
+          "index": 3,
+          "startTime": 555.083,
+          "duration": 285.804
+        },
+        {
+          "id": "robi-folg-8771-t05",
+          "title": "Der Lockvogel - Teil 1",
+          "index": 4,
+          "startTime": 840.887,
+          "duration": 207.144
+        },
+        {
+          "id": "robi-folg-8771-t06",
+          "title": "Der Lockvogel - Teil 2",
+          "index": 5,
+          "startTime": 1048.031,
+          "duration": 209.066
+        },
+        {
+          "id": "robi-folg-8771-t07",
+          "title": "Der Lockvogel - Teil 3",
+          "index": 6,
+          "startTime": 1257.097,
+          "duration": 209.954
+        },
+        {
+          "id": "robi-folg-8771-t08",
+          "title": "Der Lockvogel - Teil 4",
+          "index": 7,
+          "startTime": 1467.051,
+          "duration": 279.429
+        },
+        {
+          "id": "robi-folg-8771-t09",
+          "title": "Es war einmal in Nottingham (1) - Teil 1",
+          "index": 8,
+          "startTime": 1746.48,
+          "duration": 209.587
+        },
+        {
+          "id": "robi-folg-8771-t10",
+          "title": "Es war einmal in Nottingham (1) - Teil 2",
+          "index": 9,
+          "startTime": 1956.067,
+          "duration": 209.734
+        },
+        {
+          "id": "robi-folg-8771-t11",
+          "title": "Es war einmal in Nottingham (1) - Teil 3",
+          "index": 10,
+          "startTime": 2165.801,
+          "duration": 204.245
+        },
+        {
+          "id": "robi-folg-8771-t12",
+          "title": "Es war einmal in Nottingham (1) - Teil 4",
+          "index": 11,
+          "startTime": 2370.046,
+          "duration": 308.929
+        },
+        {
+          "id": "robi-folg-8771-t13",
+          "title": "Es war einmal in Nottingham (2) - Teil 1",
+          "index": 12,
+          "startTime": 2678.975,
+          "duration": 215.0
+        },
+        {
+          "id": "robi-folg-8771-t14",
+          "title": "Es war einmal in Nottingham (2) - Teil 2",
+          "index": 13,
+          "startTime": 2893.975,
+          "duration": 214.621
+        },
+        {
+          "id": "robi-folg-8771-t15",
+          "title": "Es war einmal in Nottingham (2) - Teil 3",
+          "index": 14,
+          "startTime": 3108.596,
+          "duration": 217.11
+        },
+        {
+          "id": "robi-folg-8771-t16",
+          "title": "Es war einmal in Nottingham (2) - Teil 4",
+          "index": 15,
+          "startTime": 3325.706,
+          "duration": 294.419
+        }
+      ]
     },
     {
       "id": "1477954937",
@@ -184,11 +2192,215 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bc/e3/2a/bce32a7b-1a64-4ea1-218e-1086662b8be8/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie \"Robin Hood - Schlitzohr von Sherwood\", das sich auf ein Abenteuer in Fantasy-Welt konzentriert.",
-      "totalDuration": 0,
+      "totalDuration": 3648.225,
       "platforms": {
         "appleMusic": "1477954937"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-4937-t01",
+          "title": "Kapitel 1: Robin und der König - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 108.387
+        },
+        {
+          "id": "robi-folg-4937-t02",
+          "title": "Kapitel 2: Robin und der König - Teil 1",
+          "index": 1,
+          "startTime": 108.387,
+          "duration": 109.339
+        },
+        {
+          "id": "robi-folg-4937-t03",
+          "title": "Kapitel 3: Robin und der König - Teil 1",
+          "index": 2,
+          "startTime": 217.726,
+          "duration": 110.624
+        },
+        {
+          "id": "robi-folg-4937-t04",
+          "title": "Kapitel 4: Robin und der König - Teil 1",
+          "index": 3,
+          "startTime": 328.35,
+          "duration": 111.665
+        },
+        {
+          "id": "robi-folg-4937-t05",
+          "title": "Kapitel 5: Robin und der König - Teil 1",
+          "index": 4,
+          "startTime": 440.015,
+          "duration": 110.698
+        },
+        {
+          "id": "robi-folg-4937-t06",
+          "title": "Kapitel 6: Robin und der König - Teil 1",
+          "index": 5,
+          "startTime": 550.713,
+          "duration": 116.24
+        },
+        {
+          "id": "robi-folg-4937-t07",
+          "title": "Kapitel 7: Robin und der König - Teil 1",
+          "index": 6,
+          "startTime": 666.953,
+          "duration": 235.345
+        },
+        {
+          "id": "robi-folg-4937-t08",
+          "title": "Kapitel 1: Robin und der König - Teil 2",
+          "index": 7,
+          "startTime": 902.298,
+          "duration": 102.463
+        },
+        {
+          "id": "robi-folg-4937-t09",
+          "title": "Kapitel 2: Robin und der König - Teil 2",
+          "index": 8,
+          "startTime": 1004.761,
+          "duration": 106.421
+        },
+        {
+          "id": "robi-folg-4937-t10",
+          "title": "Kapitel 3: Robin und der König - Teil 2",
+          "index": 9,
+          "startTime": 1111.182,
+          "duration": 110.555
+        },
+        {
+          "id": "robi-folg-4937-t11",
+          "title": "Kapitel 4: Robin und der König - Teil 2",
+          "index": 10,
+          "startTime": 1221.737,
+          "duration": 111.919
+        },
+        {
+          "id": "robi-folg-4937-t12",
+          "title": "Kapitel 5: Robin und der König - Teil 2",
+          "index": 11,
+          "startTime": 1333.656,
+          "duration": 111.424
+        },
+        {
+          "id": "robi-folg-4937-t13",
+          "title": "Kapitel 6: Robin und der König - Teil 2",
+          "index": 12,
+          "startTime": 1445.08,
+          "duration": 120.396
+        },
+        {
+          "id": "robi-folg-4937-t14",
+          "title": "Kapitel 7: Robin und der König - Teil 2",
+          "index": 13,
+          "startTime": 1565.476,
+          "duration": 242.095
+        },
+        {
+          "id": "robi-folg-4937-t15",
+          "title": "Kapitel 1: Das verschwundene Zauberbuch",
+          "index": 14,
+          "startTime": 1807.571,
+          "duration": 96.452
+        },
+        {
+          "id": "robi-folg-4937-t16",
+          "title": "Kapitel 2: Das verschwundene Zauberbuch",
+          "index": 15,
+          "startTime": 1904.023,
+          "duration": 98.229
+        },
+        {
+          "id": "robi-folg-4937-t17",
+          "title": "Kapitel 3: Das verschwundene Zauberbuch",
+          "index": 16,
+          "startTime": 2002.252,
+          "duration": 113.789
+        },
+        {
+          "id": "robi-folg-4937-t18",
+          "title": "Kapitel 4: Das verschwundene Zauberbuch",
+          "index": 17,
+          "startTime": 2116.041,
+          "duration": 110.799
+        },
+        {
+          "id": "robi-folg-4937-t19",
+          "title": "Kapitel 5: Das verschwundene Zauberbuch",
+          "index": 18,
+          "startTime": 2226.84,
+          "duration": 111.751
+        },
+        {
+          "id": "robi-folg-4937-t20",
+          "title": "Kapitel 6: Das verschwundene Zauberbuch",
+          "index": 19,
+          "startTime": 2338.591,
+          "duration": 110.058
+        },
+        {
+          "id": "robi-folg-4937-t21",
+          "title": "Kapitel 7: Das verschwundene Zauberbuch",
+          "index": 20,
+          "startTime": 2448.649,
+          "duration": 134.955
+        },
+        {
+          "id": "robi-folg-4937-t22",
+          "title": "Kapitel 8: Das verschwundene Zauberbuch",
+          "index": 21,
+          "startTime": 2583.604,
+          "duration": 251.095
+        },
+        {
+          "id": "robi-folg-4937-t23",
+          "title": "Kapitel 1: Der Räuberprinz",
+          "index": 22,
+          "startTime": 2834.699,
+          "duration": 97.266
+        },
+        {
+          "id": "robi-folg-4937-t24",
+          "title": "Kapitel 2: Der Räuberprinz",
+          "index": 23,
+          "startTime": 2931.965,
+          "duration": 95.916
+        },
+        {
+          "id": "robi-folg-4937-t25",
+          "title": "Kapitel 3: Der Räuberprinz",
+          "index": 24,
+          "startTime": 3027.881,
+          "duration": 93.985
+        },
+        {
+          "id": "robi-folg-4937-t26",
+          "title": "Kapitel 4: Der Räuberprinz",
+          "index": 25,
+          "startTime": 3121.866,
+          "duration": 97.122
+        },
+        {
+          "id": "robi-folg-4937-t27",
+          "title": "Kapitel 5: Der Räuberprinz",
+          "index": 26,
+          "startTime": 3218.988,
+          "duration": 110.536
+        },
+        {
+          "id": "robi-folg-4937-t28",
+          "title": "Kapitel 6: Der Räuberprinz",
+          "index": 27,
+          "startTime": 3329.524,
+          "duration": 107.981
+        },
+        {
+          "id": "robi-folg-4937-t29",
+          "title": "Kapitel 7: Der Räuberprinz",
+          "index": 28,
+          "startTime": 3437.505,
+          "duration": 210.72
+        }
+      ]
     },
     {
       "id": "1501185684",
@@ -197,11 +2409,243 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/ae/b3/9daeb3a6-6788-59c2-12af-20a8586cc54c/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspiel zur TV-Serie, das auf einem Album veröffentlicht ist.",
-      "totalDuration": 0,
+      "totalDuration": 3474.955,
       "platforms": {
         "appleMusic": "1501185684"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-5684-t01",
+          "title": "Quälgeist Isabelle - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 89.844
+        },
+        {
+          "id": "robi-folg-5684-t02",
+          "title": "Quälgeist Isabelle - Teil 2",
+          "index": 1,
+          "startTime": 89.844,
+          "duration": 90.019
+        },
+        {
+          "id": "robi-folg-5684-t03",
+          "title": "Quälgeist Isabelle - Teil 3",
+          "index": 2,
+          "startTime": 179.863,
+          "duration": 90.234
+        },
+        {
+          "id": "robi-folg-5684-t04",
+          "title": "Quälgeist Isabelle - Teil 4",
+          "index": 3,
+          "startTime": 270.097,
+          "duration": 90.975
+        },
+        {
+          "id": "robi-folg-5684-t05",
+          "title": "Quälgeist Isabelle - Teil 5",
+          "index": 4,
+          "startTime": 361.072,
+          "duration": 93.041
+        },
+        {
+          "id": "robi-folg-5684-t06",
+          "title": "Quälgeist Isabelle - Teil 6",
+          "index": 5,
+          "startTime": 454.113,
+          "duration": 82.162
+        },
+        {
+          "id": "robi-folg-5684-t07",
+          "title": "Quälgeist Isabelle - Teil 7",
+          "index": 6,
+          "startTime": 536.275,
+          "duration": 76.869
+        },
+        {
+          "id": "robi-folg-5684-t08",
+          "title": "Quälgeist Isabelle - Teil 8",
+          "index": 7,
+          "startTime": 613.144,
+          "duration": 76.426
+        },
+        {
+          "id": "robi-folg-5684-t09",
+          "title": "Quälgeist Isabelle - Teil 9",
+          "index": 8,
+          "startTime": 689.57,
+          "duration": 191.095
+        },
+        {
+          "id": "robi-folg-5684-t10",
+          "title": "Ein gefährlicher Geburtstag - Teil 1",
+          "index": 9,
+          "startTime": 880.665,
+          "duration": 89.545
+        },
+        {
+          "id": "robi-folg-5684-t11",
+          "title": "Ein gefährlicher Geburtstag - Teil 2",
+          "index": 10,
+          "startTime": 970.21,
+          "duration": 88.912
+        },
+        {
+          "id": "robi-folg-5684-t12",
+          "title": "Ein gefährlicher Geburtstag - Teil 3",
+          "index": 11,
+          "startTime": 1059.122,
+          "duration": 96.688
+        },
+        {
+          "id": "robi-folg-5684-t13",
+          "title": "Ein gefährlicher Geburtstag - Teil 4",
+          "index": 12,
+          "startTime": 1155.81,
+          "duration": 83.241
+        },
+        {
+          "id": "robi-folg-5684-t14",
+          "title": "Ein gefährlicher Geburtstag - Teil 5",
+          "index": 13,
+          "startTime": 1239.051,
+          "duration": 92.764
+        },
+        {
+          "id": "robi-folg-5684-t15",
+          "title": "Ein gefährlicher Geburtstag - Teil 6",
+          "index": 14,
+          "startTime": 1331.815,
+          "duration": 83.007
+        },
+        {
+          "id": "robi-folg-5684-t16",
+          "title": "Ein gefährlicher Geburtstag - Teil 7",
+          "index": 15,
+          "startTime": 1414.822,
+          "duration": 99.213
+        },
+        {
+          "id": "robi-folg-5684-t17",
+          "title": "Ein gefährlicher Geburtstag - Teil 8",
+          "index": 16,
+          "startTime": 1514.035,
+          "duration": 211.506
+        },
+        {
+          "id": "robi-folg-5684-t18",
+          "title": "Schlaf, König, schlaf! - Teil 1",
+          "index": 17,
+          "startTime": 1725.541,
+          "duration": 85.683
+        },
+        {
+          "id": "robi-folg-5684-t19",
+          "title": "Schlaf, König, schlaf! - Teil 2",
+          "index": 18,
+          "startTime": 1811.224,
+          "duration": 92.864
+        },
+        {
+          "id": "robi-folg-5684-t20",
+          "title": "Schlaf, König, schlaf! - Teil 3",
+          "index": 19,
+          "startTime": 1904.088,
+          "duration": 89.141
+        },
+        {
+          "id": "robi-folg-5684-t21",
+          "title": "Schlaf, König, schlaf! - Teil 4",
+          "index": 20,
+          "startTime": 1993.229,
+          "duration": 83.117
+        },
+        {
+          "id": "robi-folg-5684-t22",
+          "title": "Schlaf, König, schlaf! - Teil 5",
+          "index": 21,
+          "startTime": 2076.346,
+          "duration": 99.49
+        },
+        {
+          "id": "robi-folg-5684-t23",
+          "title": "Schlaf, König, schlaf! - Teil 6",
+          "index": 22,
+          "startTime": 2175.836,
+          "duration": 107.183
+        },
+        {
+          "id": "robi-folg-5684-t24",
+          "title": "Schlaf, König, schlaf! - Teil 7",
+          "index": 23,
+          "startTime": 2283.019,
+          "duration": 105.682
+        },
+        {
+          "id": "robi-folg-5684-t25",
+          "title": "Schlaf, König, schlaf! - Teil 8",
+          "index": 24,
+          "startTime": 2388.701,
+          "duration": 214.631
+        },
+        {
+          "id": "robi-folg-5684-t26",
+          "title": "Der Kuschelhamster und der Drache - Teil 1",
+          "index": 25,
+          "startTime": 2603.332,
+          "duration": 101.83
+        },
+        {
+          "id": "robi-folg-5684-t27",
+          "title": "Der Kuschelhamster und der Drache - Teil 2",
+          "index": 26,
+          "startTime": 2705.162,
+          "duration": 100.878
+        },
+        {
+          "id": "robi-folg-5684-t28",
+          "title": "Der Kuschelhamster und der Drache - Teil 3",
+          "index": 27,
+          "startTime": 2806.04,
+          "duration": 88.704
+        },
+        {
+          "id": "robi-folg-5684-t29",
+          "title": "Der Kuschelhamster und der Drache - Teil 4",
+          "index": 28,
+          "startTime": 2894.744,
+          "duration": 86.762
+        },
+        {
+          "id": "robi-folg-5684-t30",
+          "title": "Der Kuschelhamster und der Drache - Teil 5",
+          "index": 29,
+          "startTime": 2981.506,
+          "duration": 88.73
+        },
+        {
+          "id": "robi-folg-5684-t31",
+          "title": "Der Kuschelhamster und der Drache - Teil 6",
+          "index": 30,
+          "startTime": 3070.236,
+          "duration": 93.93
+        },
+        {
+          "id": "robi-folg-5684-t32",
+          "title": "Der Kuschelhamster und der Drache - Teil 7",
+          "index": 31,
+          "startTime": 3164.166,
+          "duration": 101.158
+        },
+        {
+          "id": "robi-folg-5684-t33",
+          "title": "Der Kuschelhamster und der Drache - Teil 8",
+          "index": 32,
+          "startTime": 3265.324,
+          "duration": 209.631
+        }
+      ]
     },
     {
       "id": "1518807912",
@@ -210,11 +2654,145 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/c8/50/afc850e1-a11f-e789-af2f-14e11742255a/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es enthält 19 Teile eines Hörspiels.",
-      "totalDuration": 0,
+      "totalDuration": 3519.913,
       "platforms": {
         "appleMusic": "1518807912"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-7912-t01",
+          "title": "Plappermaul Paperlacacos - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 164.075
+        },
+        {
+          "id": "robi-folg-7912-t02",
+          "title": "Plappermaul Paperlacacos - Teil 2",
+          "index": 1,
+          "startTime": 164.075,
+          "duration": 178.693
+        },
+        {
+          "id": "robi-folg-7912-t03",
+          "title": "Plappermaul Paperlacacos - Teil 3",
+          "index": 2,
+          "startTime": 342.768,
+          "duration": 168.583
+        },
+        {
+          "id": "robi-folg-7912-t04",
+          "title": "Plappermaul Paperlacacos - Teil 4",
+          "index": 3,
+          "startTime": 511.351,
+          "duration": 170.346
+        },
+        {
+          "id": "robi-folg-7912-t05",
+          "title": "Plappermaul Paperlacacos - Teil 5",
+          "index": 4,
+          "startTime": 681.697,
+          "duration": 278.845
+        },
+        {
+          "id": "robi-folg-7912-t06",
+          "title": "Der Mann mit der Maske - Teil 1",
+          "index": 5,
+          "startTime": 960.542,
+          "duration": 155.797
+        },
+        {
+          "id": "robi-folg-7912-t07",
+          "title": "Der Mann mit der Maske - Teil 2",
+          "index": 6,
+          "startTime": 1116.339,
+          "duration": 160.705
+        },
+        {
+          "id": "robi-folg-7912-t08",
+          "title": "Der Mann mit der Maske - Teil 3",
+          "index": 7,
+          "startTime": 1277.044,
+          "duration": 163.7
+        },
+        {
+          "id": "robi-folg-7912-t09",
+          "title": "Der Mann mit der Maske - Teil 4",
+          "index": 8,
+          "startTime": 1440.744,
+          "duration": 158.541
+        },
+        {
+          "id": "robi-folg-7912-t10",
+          "title": "Der Mann mit der Maske - Teil 5",
+          "index": 9,
+          "startTime": 1599.285,
+          "duration": 271.095
+        },
+        {
+          "id": "robi-folg-7912-t11",
+          "title": "Die Mautbrücke - Teil 1",
+          "index": 10,
+          "startTime": 1870.38,
+          "duration": 179.67
+        },
+        {
+          "id": "robi-folg-7912-t12",
+          "title": "Die Mautbrücke - Teil 2",
+          "index": 11,
+          "startTime": 2050.05,
+          "duration": 157.048
+        },
+        {
+          "id": "robi-folg-7912-t13",
+          "title": "Die Mautbrücke - Teil 3",
+          "index": 12,
+          "startTime": 2207.098,
+          "duration": 155.936
+        },
+        {
+          "id": "robi-folg-7912-t14",
+          "title": "Die Mautbrücke - Teil 4",
+          "index": 13,
+          "startTime": 2363.034,
+          "duration": 275.595
+        },
+        {
+          "id": "robi-folg-7912-t15",
+          "title": "Das kostbare Ei - Teil 1",
+          "index": 14,
+          "startTime": 2638.629,
+          "duration": 150.5
+        },
+        {
+          "id": "robi-folg-7912-t16",
+          "title": "Das kostbare Ei - Teil 2",
+          "index": 15,
+          "startTime": 2789.129,
+          "duration": 150.121
+        },
+        {
+          "id": "robi-folg-7912-t17",
+          "title": "Das kostbare Ei - Teil 3",
+          "index": 16,
+          "startTime": 2939.25,
+          "duration": 152.042
+        },
+        {
+          "id": "robi-folg-7912-t18",
+          "title": "Das kostbare Ei - Teil 4",
+          "index": 17,
+          "startTime": 3091.292,
+          "duration": 152.151
+        },
+        {
+          "id": "robi-folg-7912-t19",
+          "title": "Das kostbare Ei - Teil 5",
+          "index": 18,
+          "startTime": 3243.443,
+          "duration": 276.47
+        }
+      ]
     },
     {
       "id": "1538565059",
@@ -223,11 +2801,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6e/8e/e5/6e8ee58f-e900-4d1d-3c72-409d2257f753/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es umfasst insgesamt 16 Tracks im Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 3531.336,
       "platforms": {
         "appleMusic": "1538565059"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-5059-t01",
+          "title": "Flötenzauberei - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 194.137
+        },
+        {
+          "id": "robi-folg-5059-t02",
+          "title": "Flötenzauberei - Teil 2",
+          "index": 1,
+          "startTime": 194.137,
+          "duration": 198.131
+        },
+        {
+          "id": "robi-folg-5059-t03",
+          "title": "Flötenzauberei - Teil 3",
+          "index": 2,
+          "startTime": 392.268,
+          "duration": 188.279
+        },
+        {
+          "id": "robi-folg-5059-t04",
+          "title": "Flötenzauberei - Teil 4",
+          "index": 3,
+          "startTime": 580.547,
+          "duration": 317.13
+        },
+        {
+          "id": "robi-folg-5059-t05",
+          "title": "Ein König zu viel - Teil 1",
+          "index": 4,
+          "startTime": 897.677,
+          "duration": 200.08
+        },
+        {
+          "id": "robi-folg-5059-t06",
+          "title": "Ein König zu viel - Teil 2",
+          "index": 5,
+          "startTime": 1097.757,
+          "duration": 192.296
+        },
+        {
+          "id": "robi-folg-5059-t07",
+          "title": "Ein König zu viel - Teil 3",
+          "index": 6,
+          "startTime": 1290.053,
+          "duration": 207.624
+        },
+        {
+          "id": "robi-folg-5059-t08",
+          "title": "Ein König zu viel - Teil 4",
+          "index": 7,
+          "startTime": 1497.677,
+          "duration": 312.408
+        },
+        {
+          "id": "robi-folg-5059-t09",
+          "title": "Tuck, der Held - Teil 1",
+          "index": 8,
+          "startTime": 1810.085,
+          "duration": 183.748
+        },
+        {
+          "id": "robi-folg-5059-t10",
+          "title": "Tuck, der Held - Teil 2",
+          "index": 9,
+          "startTime": 1993.833,
+          "duration": 180.986
+        },
+        {
+          "id": "robi-folg-5059-t11",
+          "title": "Tuck, der Held - Teil 3",
+          "index": 10,
+          "startTime": 2174.819,
+          "duration": 182.029
+        },
+        {
+          "id": "robi-folg-5059-t12",
+          "title": "Tuck, der Held - Teil 4",
+          "index": 11,
+          "startTime": 2356.848,
+          "duration": 288.345
+        },
+        {
+          "id": "robi-folg-5059-t13",
+          "title": "Die Geisterkutsche - Teil 1",
+          "index": 12,
+          "startTime": 2645.193,
+          "duration": 196.585
+        },
+        {
+          "id": "robi-folg-5059-t14",
+          "title": "Die Geisterkutsche - Teil 2",
+          "index": 13,
+          "startTime": 2841.778,
+          "duration": 192.806
+        },
+        {
+          "id": "robi-folg-5059-t15",
+          "title": "Die Geisterkutsche - Teil 3",
+          "index": 14,
+          "startTime": 3034.584,
+          "duration": 198.094
+        },
+        {
+          "id": "robi-folg-5059-t16",
+          "title": "Die Geisterkutsche - Teil 4",
+          "index": 15,
+          "startTime": 3232.678,
+          "duration": 298.658
+        }
+      ]
     },
     {
       "id": "1558884959",
@@ -236,11 +2927,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/9f/cb/eb9fcbe7-2654-7599-c6d3-adbd7fff9d7d/cover.jpg/100x100bb.jpg",
       "description": "Das Album beinhaltet ein Hörspiel basierend auf einer TV-Serie, das sich um den Abenteuerplot 'Isabelle wird entführt' dreht.",
-      "totalDuration": 0,
+      "totalDuration": 3754.44,
       "platforms": {
         "appleMusic": "1558884959"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-4959-t01",
+          "title": "Isabelle wird entführt - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 226.148
+        },
+        {
+          "id": "robi-folg-4959-t02",
+          "title": "Isabelle wird entführt - Teil 2",
+          "index": 1,
+          "startTime": 226.148,
+          "duration": 234.698
+        },
+        {
+          "id": "robi-folg-4959-t03",
+          "title": "Isabelle wird entführt - Teil 3",
+          "index": 2,
+          "startTime": 460.846,
+          "duration": 237.15
+        },
+        {
+          "id": "robi-folg-4959-t04",
+          "title": "Isabelle wird entführt - Teil 4",
+          "index": 3,
+          "startTime": 697.996,
+          "duration": 319.755
+        },
+        {
+          "id": "robi-folg-4959-t05",
+          "title": "Little John und die Liebe - Teil 1",
+          "index": 4,
+          "startTime": 1017.751,
+          "duration": 192.924
+        },
+        {
+          "id": "robi-folg-4959-t06",
+          "title": "Little John und die Liebe - Teil 2",
+          "index": 5,
+          "startTime": 1210.675,
+          "duration": 230.017
+        },
+        {
+          "id": "robi-folg-4959-t07",
+          "title": "Little John und die Liebe - Teil 3",
+          "index": 6,
+          "startTime": 1440.692,
+          "duration": 197.571
+        },
+        {
+          "id": "robi-folg-4959-t08",
+          "title": "Little John und die Liebe - Teil 4",
+          "index": 7,
+          "startTime": 1638.263,
+          "duration": 313.13
+        },
+        {
+          "id": "robi-folg-4959-t09",
+          "title": "Der Stinkepfeil - Teil 1",
+          "index": 8,
+          "startTime": 1951.393,
+          "duration": 201.666
+        },
+        {
+          "id": "robi-folg-4959-t10",
+          "title": "Der Stinkepfeil - Teil 2",
+          "index": 9,
+          "startTime": 2153.059,
+          "duration": 215.734
+        },
+        {
+          "id": "robi-folg-4959-t11",
+          "title": "Der Stinkepfeil - Teil 3",
+          "index": 10,
+          "startTime": 2368.793,
+          "duration": 202.86
+        },
+        {
+          "id": "robi-folg-4959-t12",
+          "title": "Der Stinkepfeil - Teil 4",
+          "index": 11,
+          "startTime": 2571.653,
+          "duration": 319.005
+        },
+        {
+          "id": "robi-folg-4959-t13",
+          "title": "Goldhunger - Teil 1",
+          "index": 12,
+          "startTime": 2890.658,
+          "duration": 190.828
+        },
+        {
+          "id": "robi-folg-4959-t14",
+          "title": "Goldhunger - Teil 2",
+          "index": 13,
+          "startTime": 3081.486,
+          "duration": 197.02
+        },
+        {
+          "id": "robi-folg-4959-t15",
+          "title": "Goldhunger - Teil 3",
+          "index": 14,
+          "startTime": 3278.506,
+          "duration": 190.304
+        },
+        {
+          "id": "robi-folg-4959-t16",
+          "title": "Goldhunger - Teil 4",
+          "index": 15,
+          "startTime": 3468.81,
+          "duration": 285.63
+        }
+      ]
     },
     {
       "id": "1572304948",
@@ -249,11 +3053,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/19/9c/ea/199cea9a-2e7b-3d6b-2033-685bdc118e16/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Originalhörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es ist Teil einer Hörspielreihe, die dem Hörer ein spannendes Abenteuer bietet.",
-      "totalDuration": 0,
+      "totalDuration": 3518.495,
       "platforms": {
         "appleMusic": "1572304948"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-4948-t01",
+          "title": "Der verhexte Pokal - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 208.004
+        },
+        {
+          "id": "robi-folg-4948-t02",
+          "title": "Der verhexte Pokal - Teil 2",
+          "index": 1,
+          "startTime": 208.004,
+          "duration": 206.31
+        },
+        {
+          "id": "robi-folg-4948-t03",
+          "title": "Der verhexte Pokal - Teil 3",
+          "index": 2,
+          "startTime": 414.314,
+          "duration": 204.87
+        },
+        {
+          "id": "robi-folg-4948-t04",
+          "title": "Der verhexte Pokal - Teil 4",
+          "index": 3,
+          "startTime": 619.184,
+          "duration": 295.244
+        },
+        {
+          "id": "robi-folg-4948-t05",
+          "title": "Marian verschwindet - Teil 1",
+          "index": 4,
+          "startTime": 914.428,
+          "duration": 190.906
+        },
+        {
+          "id": "robi-folg-4948-t06",
+          "title": "Marian verschwindet - Teil 2",
+          "index": 5,
+          "startTime": 1105.334,
+          "duration": 199.433
+        },
+        {
+          "id": "robi-folg-4948-t07",
+          "title": "Marian verschwindet - Teil 3",
+          "index": 6,
+          "startTime": 1304.767,
+          "duration": 194.365
+        },
+        {
+          "id": "robi-folg-4948-t08",
+          "title": "Marian verschwindet - Teil 4",
+          "index": 7,
+          "startTime": 1499.132,
+          "duration": 286.467
+        },
+        {
+          "id": "robi-folg-4948-t09",
+          "title": "Der Fallensteller - Teil 1",
+          "index": 8,
+          "startTime": 1785.599,
+          "duration": 185.465
+        },
+        {
+          "id": "robi-folg-4948-t10",
+          "title": "Der Fallensteller - Teil 2",
+          "index": 9,
+          "startTime": 1971.064,
+          "duration": 187.591
+        },
+        {
+          "id": "robi-folg-4948-t11",
+          "title": "Der Fallensteller - Teil 3",
+          "index": 10,
+          "startTime": 2158.655,
+          "duration": 185.599
+        },
+        {
+          "id": "robi-folg-4948-t12",
+          "title": "Der Fallensteller - Teil 4",
+          "index": 11,
+          "startTime": 2344.254,
+          "duration": 280.842
+        },
+        {
+          "id": "robi-folg-4948-t13",
+          "title": "Sheriff Robin - Teil 1",
+          "index": 12,
+          "startTime": 2625.096,
+          "duration": 196.308
+        },
+        {
+          "id": "robi-folg-4948-t14",
+          "title": "Sheriff Robin - Teil 2",
+          "index": 13,
+          "startTime": 2821.404,
+          "duration": 194.821
+        },
+        {
+          "id": "robi-folg-4948-t15",
+          "title": "Sheriff Robin - Teil 3",
+          "index": 14,
+          "startTime": 3016.225,
+          "duration": 193.875
+        },
+        {
+          "id": "robi-folg-4948-t16",
+          "title": "Sheriff Robin - Teil 4",
+          "index": 15,
+          "startTime": 3210.1,
+          "duration": 308.395
+        }
+      ]
     },
     {
       "id": "1582965680",
@@ -262,11 +3179,152 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/c7/8f/a6c78f0b-6d03-29c7-57e3-4e65bdc48436/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Folge 20: Schule für Gentlemen' von Robin Hood - Schlitzohr von Sherwood.",
-      "totalDuration": 0,
+      "totalDuration": 4409.806,
       "platforms": {
         "appleMusic": "1582965680"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-5680-t01",
+          "title": "Feuer in Sherwood - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 186.461
+        },
+        {
+          "id": "robi-folg-5680-t02",
+          "title": "Feuer in Sherwood - Teil 2",
+          "index": 1,
+          "startTime": 186.461,
+          "duration": 205.403
+        },
+        {
+          "id": "robi-folg-5680-t03",
+          "title": "Feuer in Sherwood - Teil 3",
+          "index": 2,
+          "startTime": 391.864,
+          "duration": 194.544
+        },
+        {
+          "id": "robi-folg-5680-t04",
+          "title": "Feuer in Sherwood - Teil 4",
+          "index": 3,
+          "startTime": 586.408,
+          "duration": 192.393
+        },
+        {
+          "id": "robi-folg-5680-t05",
+          "title": "Feuer in Sherwood - Teil 5",
+          "index": 4,
+          "startTime": 778.801,
+          "duration": 299.717
+        },
+        {
+          "id": "robi-folg-5680-t06",
+          "title": "Unsichtbare Diebe - Teil 1",
+          "index": 5,
+          "startTime": 1078.518,
+          "duration": 207.046
+        },
+        {
+          "id": "robi-folg-5680-t07",
+          "title": "Unsichtbare Diebe - Teil 2",
+          "index": 6,
+          "startTime": 1285.564,
+          "duration": 203.637
+        },
+        {
+          "id": "robi-folg-5680-t08",
+          "title": "Unsichtbare Diebe - Teil 3",
+          "index": 7,
+          "startTime": 1489.201,
+          "duration": 204.86
+        },
+        {
+          "id": "robi-folg-5680-t09",
+          "title": "Unsichtbare Diebe - Teil 4",
+          "index": 8,
+          "startTime": 1694.061,
+          "duration": 201.725
+        },
+        {
+          "id": "robi-folg-5680-t10",
+          "title": "Unsichtbare Diebe - Teil 5",
+          "index": 9,
+          "startTime": 1895.786,
+          "duration": 315.933
+        },
+        {
+          "id": "robi-folg-5680-t11",
+          "title": "Peter der Hartherzige - Teil 1",
+          "index": 10,
+          "startTime": 2211.719,
+          "duration": 196.136
+        },
+        {
+          "id": "robi-folg-5680-t12",
+          "title": "Peter der Hartherzige - Teil 2",
+          "index": 11,
+          "startTime": 2407.855,
+          "duration": 195.865
+        },
+        {
+          "id": "robi-folg-5680-t13",
+          "title": "Peter der Hartherzige - Teil 3",
+          "index": 12,
+          "startTime": 2603.72,
+          "duration": 194.668
+        },
+        {
+          "id": "robi-folg-5680-t14",
+          "title": "Peter der Hartherzige - Teil 4",
+          "index": 13,
+          "startTime": 2798.388,
+          "duration": 195.78
+        },
+        {
+          "id": "robi-folg-5680-t15",
+          "title": "Peter der Hartherzige - Teil 5",
+          "index": 14,
+          "startTime": 2994.168,
+          "duration": 296.683
+        },
+        {
+          "id": "robi-folg-5680-t16",
+          "title": "Schule für Gentlemen - Teil 1",
+          "index": 15,
+          "startTime": 3290.851,
+          "duration": 197.388
+        },
+        {
+          "id": "robi-folg-5680-t17",
+          "title": "Schule für Gentlemen - Teil 2",
+          "index": 16,
+          "startTime": 3488.239,
+          "duration": 205.2
+        },
+        {
+          "id": "robi-folg-5680-t18",
+          "title": "Schule für Gentlemen - Teil 3",
+          "index": 17,
+          "startTime": 3693.439,
+          "duration": 217.24
+        },
+        {
+          "id": "robi-folg-5680-t19",
+          "title": "Schule für Gentlemen - Teil 4",
+          "index": 18,
+          "startTime": 3910.679,
+          "duration": 192.319
+        },
+        {
+          "id": "robi-folg-5680-t20",
+          "title": "Schule für Gentlemen - Teil 5",
+          "index": 19,
+          "startTime": 4102.998,
+          "duration": 306.808
+        }
+      ]
     },
     {
       "id": "1597936569",
@@ -275,11 +3333,152 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/ad/3e/37ad3e77-ee81-a104-9778-f260409731ad/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie Robin Hood - Schlitzohr von Sherwood, das sich auf Abenteuer und Fantasy konzentriert.",
-      "totalDuration": 0,
+      "totalDuration": 4210.742,
       "platforms": {
         "appleMusic": "1597936569"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-6569-t01",
+          "title": "Ein königliches Geschenk - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 199.605
+        },
+        {
+          "id": "robi-folg-6569-t02",
+          "title": "Ein königliches Geschenk - Teil 2",
+          "index": 1,
+          "startTime": 199.605,
+          "duration": 199.614
+        },
+        {
+          "id": "robi-folg-6569-t03",
+          "title": "Ein königliches Geschenk - Teil 3",
+          "index": 2,
+          "startTime": 399.219,
+          "duration": 201.328
+        },
+        {
+          "id": "robi-folg-6569-t04",
+          "title": "Ein königliches Geschenk - Teil 4",
+          "index": 3,
+          "startTime": 600.547,
+          "duration": 200.029
+        },
+        {
+          "id": "robi-folg-6569-t05",
+          "title": "Ein königliches Geschenk - Teil 5",
+          "index": 4,
+          "startTime": 800.576,
+          "duration": 304.97
+        },
+        {
+          "id": "robi-folg-6569-t06",
+          "title": "Der treue Flynn - Teil 1",
+          "index": 5,
+          "startTime": 1105.546,
+          "duration": 190.267
+        },
+        {
+          "id": "robi-folg-6569-t07",
+          "title": "Der treue Flynn - Teil 2",
+          "index": 6,
+          "startTime": 1295.813,
+          "duration": 190.381
+        },
+        {
+          "id": "robi-folg-6569-t08",
+          "title": "Der treue Flynn - Teil 3",
+          "index": 7,
+          "startTime": 1486.194,
+          "duration": 182.542
+        },
+        {
+          "id": "robi-folg-6569-t09",
+          "title": "Der treue Flynn - Teil 4",
+          "index": 8,
+          "startTime": 1668.736,
+          "duration": 183.627
+        },
+        {
+          "id": "robi-folg-6569-t10",
+          "title": "Der treue Flynn - Teil 5",
+          "index": 9,
+          "startTime": 1852.363,
+          "duration": 281.342
+        },
+        {
+          "id": "robi-folg-6569-t11",
+          "title": "Der Possenreißer - Teil 1",
+          "index": 10,
+          "startTime": 2133.705,
+          "duration": 193.97
+        },
+        {
+          "id": "robi-folg-6569-t12",
+          "title": "Der Possenreißer - Teil 2",
+          "index": 11,
+          "startTime": 2327.675,
+          "duration": 198.199
+        },
+        {
+          "id": "robi-folg-6569-t13",
+          "title": "Der Possenreißer - Teil 3",
+          "index": 12,
+          "startTime": 2525.874,
+          "duration": 192.943
+        },
+        {
+          "id": "robi-folg-6569-t14",
+          "title": "Der Possenreißer - Teil 4",
+          "index": 13,
+          "startTime": 2718.817,
+          "duration": 192.374
+        },
+        {
+          "id": "robi-folg-6569-t15",
+          "title": "Der Possenreißer - Teil 5",
+          "index": 14,
+          "startTime": 2911.191,
+          "duration": 293.433
+        },
+        {
+          "id": "robi-folg-6569-t16",
+          "title": "Der Astrologe - Teil 1",
+          "index": 15,
+          "startTime": 3204.624,
+          "duration": 181.626
+        },
+        {
+          "id": "robi-folg-6569-t17",
+          "title": "Der Astrologe - Teil 2",
+          "index": 16,
+          "startTime": 3386.25,
+          "duration": 182.592
+        },
+        {
+          "id": "robi-folg-6569-t18",
+          "title": "Der Astrologe - Teil 3",
+          "index": 17,
+          "startTime": 3568.842,
+          "duration": 181.374
+        },
+        {
+          "id": "robi-folg-6569-t19",
+          "title": "Der Astrologe - Teil 4",
+          "index": 18,
+          "startTime": 3750.216,
+          "duration": 180.684
+        },
+        {
+          "id": "robi-folg-6569-t20",
+          "title": "Der Astrologe - Teil 5",
+          "index": 19,
+          "startTime": 3930.9,
+          "duration": 279.842
+        }
+      ]
     },
     {
       "id": "1613912483",
@@ -288,11 +3487,131 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/06/c5/4c06c5a5-0bf9-8429-b78a-3a82b6a3cc51/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Hörspiel 'Folge 22: Scarlett und der Diamant', das als Original-Hörspiel zur TV-Serie dient. Es ist klar als Hörspiel formatiert.",
-      "totalDuration": 0,
+      "totalDuration": 3963.461,
       "platforms": {
         "appleMusic": "1613912483"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-2483-t01",
+          "title": "Jagd nach dem Sheriffstern - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 193.511
+        },
+        {
+          "id": "robi-folg-2483-t02",
+          "title": "Jagd nach dem Sheriffstern - Teil 2",
+          "index": 1,
+          "startTime": 193.511,
+          "duration": 193.838
+        },
+        {
+          "id": "robi-folg-2483-t03",
+          "title": "Jagd nach dem Sheriffstern - Teil 3",
+          "index": 2,
+          "startTime": 387.349,
+          "duration": 195.285
+        },
+        {
+          "id": "robi-folg-2483-t04",
+          "title": "Jagd nach dem Sheriffstern - Teil 4",
+          "index": 3,
+          "startTime": 582.634,
+          "duration": 195.686
+        },
+        {
+          "id": "robi-folg-2483-t05",
+          "title": "Jagd nach dem Sheriffstern - Teil 5",
+          "index": 4,
+          "startTime": 778.32,
+          "duration": 292.02
+        },
+        {
+          "id": "robi-folg-2483-t06",
+          "title": "Scarlett und der Diamant - Teil 1",
+          "index": 5,
+          "startTime": 1070.34,
+          "duration": 216.98
+        },
+        {
+          "id": "robi-folg-2483-t07",
+          "title": "Scarlett und der Diamant - Teil 2",
+          "index": 6,
+          "startTime": 1287.32,
+          "duration": 213.948
+        },
+        {
+          "id": "robi-folg-2483-t08",
+          "title": "Scarlett und der Diamant - Teil 3",
+          "index": 7,
+          "startTime": 1501.268,
+          "duration": 209.72
+        },
+        {
+          "id": "robi-folg-2483-t09",
+          "title": "Scarlett und der Diamant - Teil 4",
+          "index": 8,
+          "startTime": 1710.988,
+          "duration": 331.826
+        },
+        {
+          "id": "robi-folg-2483-t10",
+          "title": "Der Geist des Dolmens - Teil 1",
+          "index": 9,
+          "startTime": 2042.814,
+          "duration": 227.466
+        },
+        {
+          "id": "robi-folg-2483-t11",
+          "title": "Der Geist des Dolmens - Teil 2",
+          "index": 10,
+          "startTime": 2270.28,
+          "duration": 209.076
+        },
+        {
+          "id": "robi-folg-2483-t12",
+          "title": "Der Geist des Dolmens - Teil 3",
+          "index": 11,
+          "startTime": 2479.356,
+          "duration": 222.99
+        },
+        {
+          "id": "robi-folg-2483-t13",
+          "title": "Der Geist des Dolmens - Teil 4",
+          "index": 12,
+          "startTime": 2702.346,
+          "duration": 340.342
+        },
+        {
+          "id": "robi-folg-2483-t14",
+          "title": "Prinzessin Marian - Teil 1",
+          "index": 13,
+          "startTime": 3042.688,
+          "duration": 189.773
+        },
+        {
+          "id": "robi-folg-2483-t15",
+          "title": "Prinzessin Marian - Teil 2",
+          "index": 14,
+          "startTime": 3232.461,
+          "duration": 230.389
+        },
+        {
+          "id": "robi-folg-2483-t16",
+          "title": "Prinzessin Marian - Teil 3",
+          "index": 15,
+          "startTime": 3462.85,
+          "duration": 197.519
+        },
+        {
+          "id": "robi-folg-2483-t17",
+          "title": "Prinzessin Marian - Teil 4",
+          "index": 16,
+          "startTime": 3660.369,
+          "duration": 303.092
+        }
+      ]
     },
     {
       "id": "1628644709",
@@ -301,11 +3620,145 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/96/92/81/96928179-82c2-7773-49c1-11adaf2940f8/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum mit 19 Folgen, das das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' ist.",
-      "totalDuration": 0,
+      "totalDuration": 4154.875,
       "platforms": {
         "appleMusic": "1628644709"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-4709-t01",
+          "title": "Ein fieser Trick - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 182.983
+        },
+        {
+          "id": "robi-folg-4709-t02",
+          "title": "Ein fieser Trick - Teil 2",
+          "index": 1,
+          "startTime": 182.983,
+          "duration": 172.475
+        },
+        {
+          "id": "robi-folg-4709-t03",
+          "title": "Ein fieser Trick - Teil 3",
+          "index": 2,
+          "startTime": 355.458,
+          "duration": 184.005
+        },
+        {
+          "id": "robi-folg-4709-t04",
+          "title": "Ein fieser Trick - Teil 4",
+          "index": 3,
+          "startTime": 539.463,
+          "duration": 180.23
+        },
+        {
+          "id": "robi-folg-4709-t05",
+          "title": "Ein fieser Trick - Teil 5",
+          "index": 4,
+          "startTime": 719.693,
+          "duration": 285.166
+        },
+        {
+          "id": "robi-folg-4709-t06",
+          "title": "Bruno, der Bärenstarke - Teil 1",
+          "index": 5,
+          "startTime": 1004.859,
+          "duration": 218.964
+        },
+        {
+          "id": "robi-folg-4709-t07",
+          "title": "Bruno, der Bärenstarke - Teil 2",
+          "index": 6,
+          "startTime": 1223.823,
+          "duration": 210.113
+        },
+        {
+          "id": "robi-folg-4709-t08",
+          "title": "Bruno, der Bärenstarke - Teil 3",
+          "index": 7,
+          "startTime": 1433.936,
+          "duration": 235.057
+        },
+        {
+          "id": "robi-folg-4709-t09",
+          "title": "Bruno, der Bärenstarke - Teil 4",
+          "index": 8,
+          "startTime": 1668.993,
+          "duration": 320.701
+        },
+        {
+          "id": "robi-folg-4709-t10",
+          "title": "Die launische Louise - Teil 1",
+          "index": 9,
+          "startTime": 1989.694,
+          "duration": 199.479
+        },
+        {
+          "id": "robi-folg-4709-t11",
+          "title": "Die launische Louise - Teil 2",
+          "index": 10,
+          "startTime": 2189.173,
+          "duration": 189.288
+        },
+        {
+          "id": "robi-folg-4709-t12",
+          "title": "Die launische Louise - Teil 3",
+          "index": 11,
+          "startTime": 2378.461,
+          "duration": 203.695
+        },
+        {
+          "id": "robi-folg-4709-t13",
+          "title": "Die launische Louise - Teil 4",
+          "index": 12,
+          "startTime": 2582.156,
+          "duration": 185.685
+        },
+        {
+          "id": "robi-folg-4709-t14",
+          "title": "Die launische Louise - Teil 5",
+          "index": 13,
+          "startTime": 2767.841,
+          "duration": 290.076
+        },
+        {
+          "id": "robi-folg-4709-t15",
+          "title": "Ein verflixt langer Tag - Teil 1",
+          "index": 14,
+          "startTime": 3057.917,
+          "duration": 190.799
+        },
+        {
+          "id": "robi-folg-4709-t16",
+          "title": "Ein verflixt langer Tag - Teil 2",
+          "index": 15,
+          "startTime": 3248.716,
+          "duration": 202.923
+        },
+        {
+          "id": "robi-folg-4709-t17",
+          "title": "Ein verflixt langer Tag - Teil 3",
+          "index": 16,
+          "startTime": 3451.639,
+          "duration": 196.277
+        },
+        {
+          "id": "robi-folg-4709-t18",
+          "title": "Ein verflixt langer Tag - Teil 4",
+          "index": 17,
+          "startTime": 3647.916,
+          "duration": 193.133
+        },
+        {
+          "id": "robi-folg-4709-t19",
+          "title": "Ein verflixt langer Tag - Teil 5",
+          "index": 18,
+          "startTime": 3841.049,
+          "duration": 313.826
+        }
+      ]
     },
     {
       "id": "1636040237",
@@ -314,11 +3767,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/3e/d5/aa3ed531-7973-36a3-dcd6-cf8bd61d31ef/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' mit 16 Folgen, das sich auf Abenteuer und Fantasy konzentriert.",
-      "totalDuration": 0,
+      "totalDuration": 3584.561,
       "platforms": {
         "appleMusic": "1636040237"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-0237-t01",
+          "title": "Lady Vogelfrei - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 198.077
+        },
+        {
+          "id": "robi-folg-0237-t02",
+          "title": "Lady Vogelfrei - Teil 2",
+          "index": 1,
+          "startTime": 198.077,
+          "duration": 203.801
+        },
+        {
+          "id": "robi-folg-0237-t03",
+          "title": "Lady Vogelfrei - Teil 3",
+          "index": 2,
+          "startTime": 401.878,
+          "duration": 214.492
+        },
+        {
+          "id": "robi-folg-0237-t04",
+          "title": "Lady Vogelfrei - Teil 4",
+          "index": 3,
+          "startTime": 616.37,
+          "duration": 309.041
+        },
+        {
+          "id": "robi-folg-0237-t05",
+          "title": "Die fremden Kämpferinnen - Teil 1",
+          "index": 4,
+          "startTime": 925.411,
+          "duration": 193.177
+        },
+        {
+          "id": "robi-folg-0237-t06",
+          "title": "Die fremden Kämpferinnen - Teil 2",
+          "index": 5,
+          "startTime": 1118.588,
+          "duration": 180.171
+        },
+        {
+          "id": "robi-folg-0237-t07",
+          "title": "Die fremden Kämpferinnen - Teil 3",
+          "index": 6,
+          "startTime": 1298.759,
+          "duration": 195.355
+        },
+        {
+          "id": "robi-folg-0237-t08",
+          "title": "Die fremden Kämpferinnen - Teil 4",
+          "index": 7,
+          "startTime": 1494.114,
+          "duration": 306.145
+        },
+        {
+          "id": "robi-folg-0237-t09",
+          "title": "Eine gefährliche Karte - Teil 1",
+          "index": 8,
+          "startTime": 1800.259,
+          "duration": 201.747
+        },
+        {
+          "id": "robi-folg-0237-t10",
+          "title": "Eine gefährliche Karte - Teil 2",
+          "index": 9,
+          "startTime": 2002.006,
+          "duration": 202.07
+        },
+        {
+          "id": "robi-folg-0237-t11",
+          "title": "Eine gefährliche Karte - Teil 3",
+          "index": 10,
+          "startTime": 2204.076,
+          "duration": 191.663
+        },
+        {
+          "id": "robi-folg-0237-t12",
+          "title": "Eine gefährliche Karte - Teil 4",
+          "index": 11,
+          "startTime": 2395.739,
+          "duration": 297.166
+        },
+        {
+          "id": "robi-folg-0237-t13",
+          "title": "Der Drachenstein - Teil 1",
+          "index": 12,
+          "startTime": 2692.905,
+          "duration": 200.228
+        },
+        {
+          "id": "robi-folg-0237-t14",
+          "title": "Der Drachenstein - Teil 2",
+          "index": 13,
+          "startTime": 2893.133,
+          "duration": 196.4
+        },
+        {
+          "id": "robi-folg-0237-t15",
+          "title": "Der Drachenstein - Teil 3",
+          "index": 14,
+          "startTime": 3089.533,
+          "duration": 190.311
+        },
+        {
+          "id": "robi-folg-0237-t16",
+          "title": "Der Drachenstein - Teil 4",
+          "index": 15,
+          "startTime": 3279.844,
+          "duration": 304.717
+        }
+      ]
     },
     {
       "id": "1644370437",
@@ -327,11 +3893,131 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bc/39/5e/bc395edf-e599-a630-b631-880e988d1491/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' mit 17 Folgen. Es ist ein Hörspielalbum, das auf iTunes verfügbar ist.",
-      "totalDuration": 0,
+      "totalDuration": 3854.995,
       "platforms": {
         "appleMusic": "1644370437"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-0437-t01",
+          "title": "Robin ohne Bogen - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 184.517
+        },
+        {
+          "id": "robi-folg-0437-t02",
+          "title": "Robin ohne Bogen - Teil 2",
+          "index": 1,
+          "startTime": 184.517,
+          "duration": 190.071
+        },
+        {
+          "id": "robi-folg-0437-t03",
+          "title": "Robin ohne Bogen - Teil 3",
+          "index": 2,
+          "startTime": 374.588,
+          "duration": 180.881
+        },
+        {
+          "id": "robi-folg-0437-t04",
+          "title": "Robin ohne Bogen - Teil 4",
+          "index": 3,
+          "startTime": 555.469,
+          "duration": 183.516
+        },
+        {
+          "id": "robi-folg-0437-t05",
+          "title": "Robin ohne Bogen - Teil 5",
+          "index": 4,
+          "startTime": 738.985,
+          "duration": 280.683
+        },
+        {
+          "id": "robi-folg-0437-t06",
+          "title": "Die sprechende Truhe - Teil 1",
+          "index": 5,
+          "startTime": 1019.668,
+          "duration": 207.84
+        },
+        {
+          "id": "robi-folg-0437-t07",
+          "title": "Die sprechende Truhe - Teil 2",
+          "index": 6,
+          "startTime": 1227.508,
+          "duration": 209.775
+        },
+        {
+          "id": "robi-folg-0437-t08",
+          "title": "Die sprechende Truhe - Teil 3",
+          "index": 7,
+          "startTime": 1437.283,
+          "duration": 212.056
+        },
+        {
+          "id": "robi-folg-0437-t09",
+          "title": "Die sprechende Truhe - Teil 4",
+          "index": 8,
+          "startTime": 1649.339,
+          "duration": 325.717
+        },
+        {
+          "id": "robi-folg-0437-t10",
+          "title": "Der König und das Huhn - Teil 1",
+          "index": 9,
+          "startTime": 1975.056,
+          "duration": 210.684
+        },
+        {
+          "id": "robi-folg-0437-t11",
+          "title": "Der König und das Huhn - Teil 2",
+          "index": 10,
+          "startTime": 2185.74,
+          "duration": 207.61
+        },
+        {
+          "id": "robi-folg-0437-t12",
+          "title": "Der König und das Huhn - Teil 3",
+          "index": 11,
+          "startTime": 2393.35,
+          "duration": 209.431
+        },
+        {
+          "id": "robi-folg-0437-t13",
+          "title": "Der König und das Huhn - Teil 4",
+          "index": 12,
+          "startTime": 2602.781,
+          "duration": 323.058
+        },
+        {
+          "id": "robi-folg-0437-t14",
+          "title": "Die Wikinger - Teil 1",
+          "index": 13,
+          "startTime": 2925.839,
+          "duration": 213.509
+        },
+        {
+          "id": "robi-folg-0437-t15",
+          "title": "Die Wikinger - Teil 2",
+          "index": 14,
+          "startTime": 3139.348,
+          "duration": 210.184
+        },
+        {
+          "id": "robi-folg-0437-t16",
+          "title": "Die Wikinger - Teil 3",
+          "index": 15,
+          "startTime": 3349.532,
+          "duration": 199.746
+        },
+        {
+          "id": "robi-folg-0437-t17",
+          "title": "Die Wikinger - Teil 4",
+          "index": 16,
+          "startTime": 3549.278,
+          "duration": 305.717
+        }
+      ]
     },
     {
       "id": "1651860631",
@@ -340,11 +4026,124 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/76/75/17/7675179c-2e9d-b3b8-2f36-0b955ae9c237/cover.jpg/100x100bb.jpg",
       "description": "Das Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'.",
-      "totalDuration": 0,
+      "totalDuration": 3676.382,
       "platforms": {
         "appleMusic": "1651860631"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-0631-t01",
+          "title": "Der feurige Sir Kerde - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 215.486
+        },
+        {
+          "id": "robi-folg-0631-t02",
+          "title": "Der feurige Sir Kerde - Teil 2",
+          "index": 1,
+          "startTime": 215.486,
+          "duration": 206.504
+        },
+        {
+          "id": "robi-folg-0631-t03",
+          "title": "Der feurige Sir Kerde - Teil 3",
+          "index": 2,
+          "startTime": 421.99,
+          "duration": 211.991
+        },
+        {
+          "id": "robi-folg-0631-t04",
+          "title": "Der feurige Sir Kerde - Teil 4",
+          "index": 3,
+          "startTime": 633.981,
+          "duration": 308.092
+        },
+        {
+          "id": "robi-folg-0631-t05",
+          "title": "Der hinterhältige Verwalter - Teil 1",
+          "index": 4,
+          "startTime": 942.073,
+          "duration": 193.148
+        },
+        {
+          "id": "robi-folg-0631-t06",
+          "title": "Der hinterhältige Verwalter - Teil 2",
+          "index": 5,
+          "startTime": 1135.221,
+          "duration": 185.093
+        },
+        {
+          "id": "robi-folg-0631-t07",
+          "title": "Der hinterhältige Verwalter - Teil 3",
+          "index": 6,
+          "startTime": 1320.314,
+          "duration": 206.714
+        },
+        {
+          "id": "robi-folg-0631-t08",
+          "title": "Der hinterhältige Verwalter - Teil 4",
+          "index": 7,
+          "startTime": 1527.028,
+          "duration": 300.592
+        },
+        {
+          "id": "robi-folg-0631-t09",
+          "title": "Der wahre König (1) - Teil 1",
+          "index": 8,
+          "startTime": 1827.62,
+          "duration": 212.919
+        },
+        {
+          "id": "robi-folg-0631-t10",
+          "title": "Der wahre König (1) - Teil 2",
+          "index": 9,
+          "startTime": 2040.539,
+          "duration": 196.016
+        },
+        {
+          "id": "robi-folg-0631-t11",
+          "title": "Der wahre König (1) - Teil 3",
+          "index": 10,
+          "startTime": 2236.555,
+          "duration": 201.78
+        },
+        {
+          "id": "robi-folg-0631-t12",
+          "title": "Der wahre König (1) - Teil 4",
+          "index": 11,
+          "startTime": 2438.335,
+          "duration": 302.592
+        },
+        {
+          "id": "robi-folg-0631-t13",
+          "title": "Der wahre König (2) - Teil 1",
+          "index": 12,
+          "startTime": 2740.927,
+          "duration": 184.563
+        },
+        {
+          "id": "robi-folg-0631-t14",
+          "title": "Der wahre König (2) - Teil 2",
+          "index": 13,
+          "startTime": 2925.49,
+          "duration": 213.623
+        },
+        {
+          "id": "robi-folg-0631-t15",
+          "title": "Der wahre König (2) - Teil 3",
+          "index": 14,
+          "startTime": 3139.113,
+          "duration": 204.552
+        },
+        {
+          "id": "robi-folg-0631-t16",
+          "title": "Der wahre König (2) - Teil 4",
+          "index": 15,
+          "startTime": 3343.665,
+          "duration": 332.717
+        }
+      ]
     },
     {
       "id": "1777035898",
@@ -353,11 +4152,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/d6/7d/bed67d73-ecba-144c-5e0f-c71fa0ddf524/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es enthält insgesamt 25 Tracks im Genre Hörspiel.",
-      "totalDuration": 0,
+      "totalDuration": 4150.274,
       "platforms": {
         "appleMusic": "1777035898"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-5898-t01",
+          "title": "Die Bedrohung (1) - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.134
+        },
+        {
+          "id": "robi-folg-5898-t02",
+          "title": "Die Bedrohung (1) - Teil 2",
+          "index": 1,
+          "startTime": 30.134,
+          "duration": 235.515
+        },
+        {
+          "id": "robi-folg-5898-t03",
+          "title": "Die Bedrohung (1) - Teil 3",
+          "index": 2,
+          "startTime": 265.649,
+          "duration": 210.243
+        },
+        {
+          "id": "robi-folg-5898-t04",
+          "title": "Die Bedrohung (1) - Teil 4",
+          "index": 3,
+          "startTime": 475.892,
+          "duration": 224.504
+        },
+        {
+          "id": "robi-folg-5898-t05",
+          "title": "Die Bedrohung (1) - Teil 5",
+          "index": 4,
+          "startTime": 700.396,
+          "duration": 239.949
+        },
+        {
+          "id": "robi-folg-5898-t06",
+          "title": "Die Bedrohung (1) - Teil 6",
+          "index": 5,
+          "startTime": 940.345,
+          "duration": 15.845
+        },
+        {
+          "id": "robi-folg-5898-t07",
+          "title": "Die Bedrohung (2) - Teil 1",
+          "index": 6,
+          "startTime": 956.19,
+          "duration": 29.949
+        },
+        {
+          "id": "robi-folg-5898-t08",
+          "title": "Die Bedrohung (2) - Teil 2",
+          "index": 7,
+          "startTime": 986.139,
+          "duration": 251.067
+        },
+        {
+          "id": "robi-folg-5898-t09",
+          "title": "Die Bedrohung (2) - Teil 3",
+          "index": 8,
+          "startTime": 1237.206,
+          "duration": 253.538
+        },
+        {
+          "id": "robi-folg-5898-t10",
+          "title": "Die Bedrohung (2) - Teil 4",
+          "index": 9,
+          "startTime": 1490.744,
+          "duration": 250.75
+        },
+        {
+          "id": "robi-folg-5898-t11",
+          "title": "Die Bedrohung (2) - Teil 5",
+          "index": 10,
+          "startTime": 1741.494,
+          "duration": 243.025
+        },
+        {
+          "id": "robi-folg-5898-t12",
+          "title": "Die Bedrohung (2) - Teil 6",
+          "index": 11,
+          "startTime": 1984.519,
+          "duration": 15.889
+        },
+        {
+          "id": "robi-folg-5898-t13",
+          "title": "Derke unter Hypnose - Teil 1",
+          "index": 12,
+          "startTime": 2000.408,
+          "duration": 29.897
+        },
+        {
+          "id": "robi-folg-5898-t14",
+          "title": "Derke unter Hypnose - Teil 2",
+          "index": 13,
+          "startTime": 2030.305,
+          "duration": 191.191
+        },
+        {
+          "id": "robi-folg-5898-t15",
+          "title": "Derke unter Hypnose - Teil 3",
+          "index": 14,
+          "startTime": 2221.496,
+          "duration": 184.421
+        },
+        {
+          "id": "robi-folg-5898-t16",
+          "title": "Derke unter Hypnose - Teil 4",
+          "index": 15,
+          "startTime": 2405.917,
+          "duration": 182.874
+        },
+        {
+          "id": "robi-folg-5898-t17",
+          "title": "Derke unter Hypnose - Teil 5",
+          "index": 16,
+          "startTime": 2588.791,
+          "duration": 183.902
+        },
+        {
+          "id": "robi-folg-5898-t18",
+          "title": "Derke unter Hypnose - Teil 6",
+          "index": 17,
+          "startTime": 2772.693,
+          "duration": 188.949
+        },
+        {
+          "id": "robi-folg-5898-t19",
+          "title": "Derke unter Hypnose - Teil 7",
+          "index": 18,
+          "startTime": 2961.642,
+          "duration": 15.844
+        },
+        {
+          "id": "robi-folg-5898-t20",
+          "title": "Der wilde Drache - Teil 1",
+          "index": 19,
+          "startTime": 2977.486,
+          "duration": 30.013
+        },
+        {
+          "id": "robi-folg-5898-t21",
+          "title": "Der wilde Drache - Teil 2",
+          "index": 20,
+          "startTime": 3007.499,
+          "duration": 226.399
+        },
+        {
+          "id": "robi-folg-5898-t22",
+          "title": "Der wilde Drache - Teil 3",
+          "index": 21,
+          "startTime": 3233.898,
+          "duration": 252.932
+        },
+        {
+          "id": "robi-folg-5898-t23",
+          "title": "Der wilde Drache - Teil 4",
+          "index": 22,
+          "startTime": 3486.83,
+          "duration": 231.134
+        },
+        {
+          "id": "robi-folg-5898-t24",
+          "title": "Der wilde Drache - Teil 5",
+          "index": 23,
+          "startTime": 3717.964,
+          "duration": 188.165
+        },
+        {
+          "id": "robi-folg-5898-t25",
+          "title": "Der wilde Drache - Teil 6",
+          "index": 24,
+          "startTime": 3906.129,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1803976762",
@@ -366,11 +4341,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/da/a1/f4daa1ee-a6cc-83d0-dc4f-c12851eb5935/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood', das sich auf die Handlung und Abenteuer der Figur konzentriert.",
-      "totalDuration": 0,
+      "totalDuration": 3621.721,
       "platforms": {
         "appleMusic": "1803976762"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-6762-t01",
+          "title": "Prinzessin in Gefahr - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.028
+        },
+        {
+          "id": "robi-folg-6762-t02",
+          "title": "Prinzessin in Gefahr - Teil 2",
+          "index": 1,
+          "startTime": 30.028,
+          "duration": 210.153
+        },
+        {
+          "id": "robi-folg-6762-t03",
+          "title": "Prinzessin in Gefahr - Teil 3",
+          "index": 2,
+          "startTime": 240.181,
+          "duration": 208.918
+        },
+        {
+          "id": "robi-folg-6762-t04",
+          "title": "Prinzessin in Gefahr - Teil 4",
+          "index": 3,
+          "startTime": 449.099,
+          "duration": 211.358
+        },
+        {
+          "id": "robi-folg-6762-t05",
+          "title": "Prinzessin in Gefahr - Teil 5",
+          "index": 4,
+          "startTime": 660.457,
+          "duration": 200.869
+        },
+        {
+          "id": "robi-folg-6762-t06",
+          "title": "Der Mentor - Teil 1",
+          "index": 5,
+          "startTime": 861.326,
+          "duration": 202.449
+        },
+        {
+          "id": "robi-folg-6762-t07",
+          "title": "Der Mentor - Teil 2",
+          "index": 6,
+          "startTime": 1063.775,
+          "duration": 218.041
+        },
+        {
+          "id": "robi-folg-6762-t08",
+          "title": "Der Mentor - Teil 3",
+          "index": 7,
+          "startTime": 1281.816,
+          "duration": 210.921
+        },
+        {
+          "id": "robi-folg-6762-t09",
+          "title": "Der Mentor - Teil 4",
+          "index": 8,
+          "startTime": 1492.737,
+          "duration": 191.593
+        },
+        {
+          "id": "robi-folg-6762-t10",
+          "title": "Der Goldtransport - Teil 1",
+          "index": 9,
+          "startTime": 1684.33,
+          "duration": 223.442
+        },
+        {
+          "id": "robi-folg-6762-t11",
+          "title": "Der Goldtransport - Teil 2",
+          "index": 10,
+          "startTime": 1907.772,
+          "duration": 218.726
+        },
+        {
+          "id": "robi-folg-6762-t12",
+          "title": "Der Goldtransport - Teil 3",
+          "index": 11,
+          "startTime": 2126.498,
+          "duration": 210.6
+        },
+        {
+          "id": "robi-folg-6762-t13",
+          "title": "Der Goldtransport - Teil 4",
+          "index": 12,
+          "startTime": 2337.098,
+          "duration": 224.957
+        },
+        {
+          "id": "robi-folg-6762-t14",
+          "title": "Livs Rache - Teil 1",
+          "index": 13,
+          "startTime": 2562.055,
+          "duration": 216.273
+        },
+        {
+          "id": "robi-folg-6762-t15",
+          "title": "Livs Rache - Teil 2",
+          "index": 14,
+          "startTime": 2778.328,
+          "duration": 199.41
+        },
+        {
+          "id": "robi-folg-6762-t16",
+          "title": "Livs Rache - Teil 3",
+          "index": 15,
+          "startTime": 2977.738,
+          "duration": 207.331
+        },
+        {
+          "id": "robi-folg-6762-t17",
+          "title": "Livs Rache - Teil 4",
+          "index": 16,
+          "startTime": 3185.069,
+          "duration": 192.507
+        },
+        {
+          "id": "robi-folg-6762-t18",
+          "title": "Livs Rache - Teil 5",
+          "index": 17,
+          "startTime": 3377.576,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1778487060",
@@ -379,11 +4481,173 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ea/5b/62ea5b82-be8f-2303-ee06-b7684fdb5927/cover.jpg/100x100bb.jpg",
       "description": "Ein Original-Hörspiel zur TV-Serie, das auf 23 Tracks verteilt ist.",
-      "totalDuration": 0,
+      "totalDuration": 3592.343,
       "platforms": {
         "appleMusic": "1778487060"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-7060-t01",
+          "title": "Prinzessin in Gefahr - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 29.922
+        },
+        {
+          "id": "robi-folg-7060-t02",
+          "title": "Prinzessin in Gefahr - Teil 2",
+          "index": 1,
+          "startTime": 29.922,
+          "duration": 245.347
+        },
+        {
+          "id": "robi-folg-7060-t03",
+          "title": "Prinzessin in Gefahr - Teil 3",
+          "index": 2,
+          "startTime": 275.269,
+          "duration": 241.529
+        },
+        {
+          "id": "robi-folg-7060-t04",
+          "title": "Prinzessin in Gefahr - Teil 4",
+          "index": 3,
+          "startTime": 516.798,
+          "duration": 207.488
+        },
+        {
+          "id": "robi-folg-7060-t05",
+          "title": "Prinzessin in Gefahr - Teil 5",
+          "index": 4,
+          "startTime": 724.286,
+          "duration": 206.394
+        },
+        {
+          "id": "robi-folg-7060-t06",
+          "title": "Prinzessin in Gefahr - Teil 6",
+          "index": 5,
+          "startTime": 930.68,
+          "duration": 15.92
+        },
+        {
+          "id": "robi-folg-7060-t07",
+          "title": "Der Mentor - Teil 1",
+          "index": 6,
+          "startTime": 946.6,
+          "duration": 29.885
+        },
+        {
+          "id": "robi-folg-7060-t08",
+          "title": "Der Mentor - Teil 2",
+          "index": 7,
+          "startTime": 976.485,
+          "duration": 198.913
+        },
+        {
+          "id": "robi-folg-7060-t09",
+          "title": "Der Mentor - Teil 3",
+          "index": 8,
+          "startTime": 1175.398,
+          "duration": 200.864
+        },
+        {
+          "id": "robi-folg-7060-t10",
+          "title": "Der Mentor - Teil 4",
+          "index": 9,
+          "startTime": 1376.262,
+          "duration": 202.426
+        },
+        {
+          "id": "robi-folg-7060-t11",
+          "title": "Der Mentor - Teil 5",
+          "index": 10,
+          "startTime": 1578.688,
+          "duration": 197.292
+        },
+        {
+          "id": "robi-folg-7060-t12",
+          "title": "Der Mentor - Teil 6",
+          "index": 11,
+          "startTime": 1775.98,
+          "duration": 15.95
+        },
+        {
+          "id": "robi-folg-7060-t13",
+          "title": "Der Goldtransport - Teil 1",
+          "index": 12,
+          "startTime": 1791.93,
+          "duration": 30.307
+        },
+        {
+          "id": "robi-folg-7060-t14",
+          "title": "Der Goldtransport - Teil 2",
+          "index": 13,
+          "startTime": 1822.237,
+          "duration": 238.937
+        },
+        {
+          "id": "robi-folg-7060-t15",
+          "title": "Der Goldtransport - Teil 3",
+          "index": 14,
+          "startTime": 2061.174,
+          "duration": 239.857
+        },
+        {
+          "id": "robi-folg-7060-t16",
+          "title": "Der Goldtransport - Teil 4",
+          "index": 15,
+          "startTime": 2301.031,
+          "duration": 218.808
+        },
+        {
+          "id": "robi-folg-7060-t17",
+          "title": "Der Goldtransport - Teil 5",
+          "index": 16,
+          "startTime": 2519.839,
+          "duration": 15.958
+        },
+        {
+          "id": "robi-folg-7060-t18",
+          "title": "Livs Rache - Teil 1",
+          "index": 17,
+          "startTime": 2535.797,
+          "duration": 30.484
+        },
+        {
+          "id": "robi-folg-7060-t19",
+          "title": "Livs Rache - Teil 2",
+          "index": 18,
+          "startTime": 2566.281,
+          "duration": 203.541
+        },
+        {
+          "id": "robi-folg-7060-t20",
+          "title": "Livs Rache - Teil 3",
+          "index": 19,
+          "startTime": 2769.822,
+          "duration": 196.579
+        },
+        {
+          "id": "robi-folg-7060-t21",
+          "title": "Livs Rache - Teil 4",
+          "index": 20,
+          "startTime": 2966.401,
+          "duration": 199.131
+        },
+        {
+          "id": "robi-folg-7060-t22",
+          "title": "Livs Rache - Teil 5",
+          "index": 21,
+          "startTime": 3165.532,
+          "duration": 182.666
+        },
+        {
+          "id": "robi-folg-7060-t23",
+          "title": "Der, der zu viel wusste - Teil 6",
+          "index": 22,
+          "startTime": 3348.198,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1778487898",
@@ -392,11 +4656,180 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/8a/8b/718a8b1b-9007-d172-b8ed-c6451ca3a76a/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' mit 24 Folgen. Es passt perfekt zu den Genres Hörspiel und Krimi.",
-      "totalDuration": 0,
+      "totalDuration": 3606.343,
       "platforms": {
         "appleMusic": "1778487898"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-7898-t01",
+          "title": "Der kindliche König - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.076
+        },
+        {
+          "id": "robi-folg-7898-t02",
+          "title": "Der kindliche König - Teil 2",
+          "index": 1,
+          "startTime": 30.076,
+          "duration": 192.114
+        },
+        {
+          "id": "robi-folg-7898-t03",
+          "title": "Der kindliche König - Teil 3",
+          "index": 2,
+          "startTime": 222.19,
+          "duration": 214.282
+        },
+        {
+          "id": "robi-folg-7898-t04",
+          "title": "Der kindliche König - Teil 4",
+          "index": 3,
+          "startTime": 436.472,
+          "duration": 197.531
+        },
+        {
+          "id": "robi-folg-7898-t05",
+          "title": "Der kindliche König - Teil 5",
+          "index": 4,
+          "startTime": 634.003,
+          "duration": 197.335
+        },
+        {
+          "id": "robi-folg-7898-t06",
+          "title": "Der kindliche König - Teil 6",
+          "index": 5,
+          "startTime": 831.338,
+          "duration": 15.9
+        },
+        {
+          "id": "robi-folg-7898-t07",
+          "title": "Der entführte Prinz - Teil 1",
+          "index": 6,
+          "startTime": 847.238,
+          "duration": 29.848
+        },
+        {
+          "id": "robi-folg-7898-t08",
+          "title": "Der entführte Prinz - Teil 2",
+          "index": 7,
+          "startTime": 877.086,
+          "duration": 184.087
+        },
+        {
+          "id": "robi-folg-7898-t09",
+          "title": "Der entführte Prinz - Teil 3",
+          "index": 8,
+          "startTime": 1061.173,
+          "duration": 192.861
+        },
+        {
+          "id": "robi-folg-7898-t10",
+          "title": "Der entführte Prinz - Teil 4",
+          "index": 9,
+          "startTime": 1254.034,
+          "duration": 193.339
+        },
+        {
+          "id": "robi-folg-7898-t11",
+          "title": "Der entführte Prinz - Teil 5",
+          "index": 10,
+          "startTime": 1447.373,
+          "duration": 190.675
+        },
+        {
+          "id": "robi-folg-7898-t12",
+          "title": "Der entführte Prinz - Teil 6",
+          "index": 11,
+          "startTime": 1638.048,
+          "duration": 15.917
+        },
+        {
+          "id": "robi-folg-7898-t13",
+          "title": "Der trojanische Drache - Teil 1",
+          "index": 12,
+          "startTime": 1653.965,
+          "duration": 30.179
+        },
+        {
+          "id": "robi-folg-7898-t14",
+          "title": "Der trojanische Drache - Teil 2",
+          "index": 13,
+          "startTime": 1684.144,
+          "duration": 218.32
+        },
+        {
+          "id": "robi-folg-7898-t15",
+          "title": "Der trojanische Drache - Teil 3",
+          "index": 14,
+          "startTime": 1902.464,
+          "duration": 224.711
+        },
+        {
+          "id": "robi-folg-7898-t16",
+          "title": "Der trojanische Drache - Teil 4",
+          "index": 15,
+          "startTime": 2127.175,
+          "duration": 218.745
+        },
+        {
+          "id": "robi-folg-7898-t17",
+          "title": "Der trojanische Drache - Teil 5",
+          "index": 16,
+          "startTime": 2345.92,
+          "duration": 219.666
+        },
+        {
+          "id": "robi-folg-7898-t18",
+          "title": "Der trojanische Drache - Teil 6",
+          "index": 17,
+          "startTime": 2565.586,
+          "duration": 15.969
+        },
+        {
+          "id": "robi-folg-7898-t19",
+          "title": "Ein mysteriöser Spion - Teil 1",
+          "index": 18,
+          "startTime": 2581.555,
+          "duration": 29.986
+        },
+        {
+          "id": "robi-folg-7898-t20",
+          "title": "Ein mysteriöser Spion - Teil 2",
+          "index": 19,
+          "startTime": 2611.541,
+          "duration": 189.307
+        },
+        {
+          "id": "robi-folg-7898-t21",
+          "title": "Ein mysteriöser Spion - Teil 3",
+          "index": 20,
+          "startTime": 2800.848,
+          "duration": 183.521
+        },
+        {
+          "id": "robi-folg-7898-t22",
+          "title": "Ein mysteriöser Spion - Teil 4",
+          "index": 21,
+          "startTime": 2984.369,
+          "duration": 181.072
+        },
+        {
+          "id": "robi-folg-7898-t23",
+          "title": "Ein mysteriöser Spion - Teil 5",
+          "index": 22,
+          "startTime": 3165.441,
+          "duration": 196.757
+        },
+        {
+          "id": "robi-folg-7898-t24",
+          "title": "Die königliche Lotterie - Teil 6",
+          "index": 23,
+          "startTime": 3362.198,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1778478318",
@@ -405,11 +4838,180 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/22/46/63224686-40b2-7a58-1c98-891dddc31034/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' mit insgesamt 24 Folgen.",
-      "totalDuration": 0,
+      "totalDuration": 3603.013,
       "platforms": {
         "appleMusic": "1778478318"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-8318-t01",
+          "title": "Der Blaubeeraufstand - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.04
+        },
+        {
+          "id": "robi-folg-8318-t02",
+          "title": "Der Blaubeeraufstand - Teil 2",
+          "index": 1,
+          "startTime": 30.04,
+          "duration": 193.84
+        },
+        {
+          "id": "robi-folg-8318-t03",
+          "title": "Der Blaubeeraufstand - Teil 3",
+          "index": 2,
+          "startTime": 223.88,
+          "duration": 194.96
+        },
+        {
+          "id": "robi-folg-8318-t04",
+          "title": "Der Blaubeeraufstand - Teil 4",
+          "index": 3,
+          "startTime": 418.84,
+          "duration": 195.68
+        },
+        {
+          "id": "robi-folg-8318-t05",
+          "title": "Der Blaubeeraufstand - Teil 5",
+          "index": 4,
+          "startTime": 614.52,
+          "duration": 185.84
+        },
+        {
+          "id": "robi-folg-8318-t06",
+          "title": "Der Blaubeeraufstand - Teil 6",
+          "index": 5,
+          "startTime": 800.36,
+          "duration": 15.88
+        },
+        {
+          "id": "robi-folg-8318-t07",
+          "title": "Die Wunderpflanze - Teil 1",
+          "index": 6,
+          "startTime": 816.24,
+          "duration": 29.906
+        },
+        {
+          "id": "robi-folg-8318-t08",
+          "title": "Die Wunderpflanze - Teil 2",
+          "index": 7,
+          "startTime": 846.146,
+          "duration": 194.028
+        },
+        {
+          "id": "robi-folg-8318-t09",
+          "title": "Die Wunderpflanze - Teil 3",
+          "index": 8,
+          "startTime": 1040.174,
+          "duration": 192.11
+        },
+        {
+          "id": "robi-folg-8318-t10",
+          "title": "Die Wunderpflanze - Teil 4",
+          "index": 9,
+          "startTime": 1232.284,
+          "duration": 196.016
+        },
+        {
+          "id": "robi-folg-8318-t11",
+          "title": "Die Wunderpflanze - Teil 5",
+          "index": 10,
+          "startTime": 1428.3,
+          "duration": 186.221
+        },
+        {
+          "id": "robi-folg-8318-t12",
+          "title": "Die Wunderpflanze - Teil 6",
+          "index": 11,
+          "startTime": 1614.521,
+          "duration": 13.338
+        },
+        {
+          "id": "robi-folg-8318-t13",
+          "title": "Gewichtiger Besuch - Teil 1",
+          "index": 12,
+          "startTime": 1627.859,
+          "duration": 30.495
+        },
+        {
+          "id": "robi-folg-8318-t14",
+          "title": "Gewichtiger Besuch - Teil 2",
+          "index": 13,
+          "startTime": 1658.354,
+          "duration": 193.608
+        },
+        {
+          "id": "robi-folg-8318-t15",
+          "title": "Gewichtiger Besuch - Teil 3",
+          "index": 14,
+          "startTime": 1851.962,
+          "duration": 194.234
+        },
+        {
+          "id": "robi-folg-8318-t16",
+          "title": "Gewichtiger Besuch - Teil 4",
+          "index": 15,
+          "startTime": 2046.196,
+          "duration": 194.427
+        },
+        {
+          "id": "robi-folg-8318-t17",
+          "title": "Gewichtiger Besuch - Teil 5",
+          "index": 16,
+          "startTime": 2240.623,
+          "duration": 204.165
+        },
+        {
+          "id": "robi-folg-8318-t18",
+          "title": "Gewichtiger Besuch - Teil 6",
+          "index": 17,
+          "startTime": 2444.788,
+          "duration": 15.911
+        },
+        {
+          "id": "robi-folg-8318-t19",
+          "title": "Schwesterherz in Not - Teil 1",
+          "index": 18,
+          "startTime": 2460.699,
+          "duration": 29.998
+        },
+        {
+          "id": "robi-folg-8318-t20",
+          "title": "Schwesterherz in Not - Teil 2",
+          "index": 19,
+          "startTime": 2490.697,
+          "duration": 221.317
+        },
+        {
+          "id": "robi-folg-8318-t21",
+          "title": "Schwesterherz in Not - Teil 3",
+          "index": 20,
+          "startTime": 2712.014,
+          "duration": 218.572
+        },
+        {
+          "id": "robi-folg-8318-t22",
+          "title": "Schwesterherz in Not - Teil 4",
+          "index": 21,
+          "startTime": 2930.586,
+          "duration": 219.952
+        },
+        {
+          "id": "robi-folg-8318-t23",
+          "title": "Schwesterherz in Not - Teil 5",
+          "index": 22,
+          "startTime": 3150.538,
+          "duration": 208.33
+        },
+        {
+          "id": "robi-folg-8318-t24",
+          "title": "Schwesterherz in Not - Teil 6",
+          "index": 23,
+          "startTime": 3358.868,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1778478217",
@@ -418,11 +5020,180 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/73/ae/6373ae6b-2aa9-13f5-ff1f-578a32d8d081/cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspiel zur TV-Serie, das auf einer mythologischen Geschichte basiert.",
-      "totalDuration": 0,
+      "totalDuration": 3717.173,
       "platforms": {
         "appleMusic": "1778478217"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-8217-t01",
+          "title": "Odins Prüfung - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.2
+        },
+        {
+          "id": "robi-folg-8217-t02",
+          "title": "Odins Prüfung - Teil 2",
+          "index": 1,
+          "startTime": 30.2,
+          "duration": 201.68
+        },
+        {
+          "id": "robi-folg-8217-t03",
+          "title": "Odins Prüfung - Teil 3",
+          "index": 2,
+          "startTime": 231.88,
+          "duration": 197.88
+        },
+        {
+          "id": "robi-folg-8217-t04",
+          "title": "Odins Prüfung - Teil 4",
+          "index": 3,
+          "startTime": 429.76,
+          "duration": 197.6
+        },
+        {
+          "id": "robi-folg-8217-t05",
+          "title": "Odins Prüfung - Teil 5",
+          "index": 4,
+          "startTime": 627.36,
+          "duration": 219.48
+        },
+        {
+          "id": "robi-folg-8217-t06",
+          "title": "Odins Prüfung - Teil 6",
+          "index": 5,
+          "startTime": 846.84,
+          "duration": 15.88
+        },
+        {
+          "id": "robi-folg-8217-t07",
+          "title": "Der Berater - Teil 1",
+          "index": 6,
+          "startTime": 862.72,
+          "duration": 30.0
+        },
+        {
+          "id": "robi-folg-8217-t08",
+          "title": "Der Berater - Teil 2",
+          "index": 7,
+          "startTime": 892.72,
+          "duration": 206.12
+        },
+        {
+          "id": "robi-folg-8217-t09",
+          "title": "Der Berater - Teil 3",
+          "index": 8,
+          "startTime": 1098.84,
+          "duration": 222.92
+        },
+        {
+          "id": "robi-folg-8217-t10",
+          "title": "Der Berater - Teil 4",
+          "index": 9,
+          "startTime": 1321.76,
+          "duration": 200.6
+        },
+        {
+          "id": "robi-folg-8217-t11",
+          "title": "Der Berater - Teil 5",
+          "index": 10,
+          "startTime": 1522.36,
+          "duration": 215.24
+        },
+        {
+          "id": "robi-folg-8217-t12",
+          "title": "Der Berater - Teil 6",
+          "index": 11,
+          "startTime": 1737.6,
+          "duration": 15.92
+        },
+        {
+          "id": "robi-folg-8217-t13",
+          "title": "König oder Königin - Teil 1",
+          "index": 12,
+          "startTime": 1753.52,
+          "duration": 30.025
+        },
+        {
+          "id": "robi-folg-8217-t14",
+          "title": "König oder Königin - Teil 2",
+          "index": 13,
+          "startTime": 1783.545,
+          "duration": 211.465
+        },
+        {
+          "id": "robi-folg-8217-t15",
+          "title": "König oder Königin - Teil 3",
+          "index": 14,
+          "startTime": 1995.01,
+          "duration": 209.35
+        },
+        {
+          "id": "robi-folg-8217-t16",
+          "title": "König oder Königin - Teil 4",
+          "index": 15,
+          "startTime": 2204.36,
+          "duration": 216.299
+        },
+        {
+          "id": "robi-folg-8217-t17",
+          "title": "König oder Königin - Teil 5",
+          "index": 16,
+          "startTime": 2420.659,
+          "duration": 199.154
+        },
+        {
+          "id": "robi-folg-8217-t18",
+          "title": "König oder Königin - Teil 6",
+          "index": 17,
+          "startTime": 2619.813,
+          "duration": 15.884
+        },
+        {
+          "id": "robi-folg-8217-t19",
+          "title": "Drachenjagd - Teil 1",
+          "index": 18,
+          "startTime": 2635.697,
+          "duration": 29.869
+        },
+        {
+          "id": "robi-folg-8217-t20",
+          "title": "Drachenjagd - Teil 2",
+          "index": 19,
+          "startTime": 2665.566,
+          "duration": 209.865
+        },
+        {
+          "id": "robi-folg-8217-t21",
+          "title": "Drachenjagd - Teil 3",
+          "index": 20,
+          "startTime": 2875.431,
+          "duration": 208.912
+        },
+        {
+          "id": "robi-folg-8217-t22",
+          "title": "Drachenjagd - Teil 4",
+          "index": 21,
+          "startTime": 3084.343,
+          "duration": 200.325
+        },
+        {
+          "id": "robi-folg-8217-t23",
+          "title": "Drachenjagd - Teil 5",
+          "index": 22,
+          "startTime": 3284.668,
+          "duration": 188.36
+        },
+        {
+          "id": "robi-folg-8217-t24",
+          "title": "Drachenjagd - Teil 6",
+          "index": 23,
+          "startTime": 3473.028,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1804066071",
@@ -431,11 +5202,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/70/80/8b7080ee-c747-427c-f871-2a5c89396035/cover.jpg/100x100bb.jpg",
       "description": "Das Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood', das 18 Geschichten umfasst.",
-      "totalDuration": 0,
+      "totalDuration": 3608.686,
       "platforms": {
         "appleMusic": "1804066071"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-6071-t01",
+          "title": "Unter Schock - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.032
+        },
+        {
+          "id": "robi-folg-6071-t02",
+          "title": "Unter Schock - Teil 2",
+          "index": 1,
+          "startTime": 30.032,
+          "duration": 190.03
+        },
+        {
+          "id": "robi-folg-6071-t03",
+          "title": "Unter Schock - Teil 3",
+          "index": 2,
+          "startTime": 220.062,
+          "duration": 190.237
+        },
+        {
+          "id": "robi-folg-6071-t04",
+          "title": "Unter Schock - Teil 4",
+          "index": 3,
+          "startTime": 410.299,
+          "duration": 186.485
+        },
+        {
+          "id": "robi-folg-6071-t05",
+          "title": "Unter Schock - Teil 5",
+          "index": 4,
+          "startTime": 596.784,
+          "duration": 194.229
+        },
+        {
+          "id": "robi-folg-6071-t06",
+          "title": "Heirat wider Willen - Teil 1",
+          "index": 5,
+          "startTime": 791.013,
+          "duration": 213.99
+        },
+        {
+          "id": "robi-folg-6071-t07",
+          "title": "Heirat wider Willen - Teil 2",
+          "index": 6,
+          "startTime": 1005.003,
+          "duration": 202.967
+        },
+        {
+          "id": "robi-folg-6071-t08",
+          "title": "Heirat wider Willen - Teil 3",
+          "index": 7,
+          "startTime": 1207.97,
+          "duration": 213.548
+        },
+        {
+          "id": "robi-folg-6071-t09",
+          "title": "Heirat wider Willen - Teil 4",
+          "index": 8,
+          "startTime": 1421.518,
+          "duration": 211.167
+        },
+        {
+          "id": "robi-folg-6071-t10",
+          "title": "Im Bärenfell - Teil 1",
+          "index": 9,
+          "startTime": 1632.685,
+          "duration": 230.925
+        },
+        {
+          "id": "robi-folg-6071-t11",
+          "title": "Im Bärenfell - Teil 2",
+          "index": 10,
+          "startTime": 1863.61,
+          "duration": 228.597
+        },
+        {
+          "id": "robi-folg-6071-t12",
+          "title": "Im Bärenfell - Teil 3",
+          "index": 11,
+          "startTime": 2092.207,
+          "duration": 227.052
+        },
+        {
+          "id": "robi-folg-6071-t13",
+          "title": "Im Bärenfell - Teil 4",
+          "index": 12,
+          "startTime": 2319.259,
+          "duration": 212.444
+        },
+        {
+          "id": "robi-folg-6071-t14",
+          "title": "Prinz John und die Wunderlampe - Teil 1",
+          "index": 13,
+          "startTime": 2531.703,
+          "duration": 208.518
+        },
+        {
+          "id": "robi-folg-6071-t15",
+          "title": "Prinz John und die Wunderlampe - Teil 2",
+          "index": 14,
+          "startTime": 2740.221,
+          "duration": 198.1
+        },
+        {
+          "id": "robi-folg-6071-t16",
+          "title": "Prinz John und die Wunderlampe - Teil 3",
+          "index": 15,
+          "startTime": 2938.321,
+          "duration": 223.115
+        },
+        {
+          "id": "robi-folg-6071-t17",
+          "title": "Prinz John und die Wunderlampe - Teil 4",
+          "index": 16,
+          "startTime": 3161.436,
+          "duration": 203.105
+        },
+        {
+          "id": "robi-folg-6071-t18",
+          "title": "Prinz John und die Wunderlampe - Teil 5",
+          "index": 17,
+          "startTime": 3364.541,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1804945500",
@@ -444,11 +5342,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/94/34/e6943455-9dfe-4aa4-fdc3-820944040358/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es umfasst 18 Tracks im Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 3568.276,
       "platforms": {
         "appleMusic": "1804945500"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-5500-t01",
+          "title": "Fauler Zauber - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.085
+        },
+        {
+          "id": "robi-folg-5500-t02",
+          "title": "Fauler Zauber - Teil 2",
+          "index": 1,
+          "startTime": 30.085,
+          "duration": 201.674
+        },
+        {
+          "id": "robi-folg-5500-t03",
+          "title": "Fauler Zauber - Teil 3",
+          "index": 2,
+          "startTime": 231.759,
+          "duration": 217.328
+        },
+        {
+          "id": "robi-folg-5500-t04",
+          "title": "Fauler Zauber - Teil 4",
+          "index": 3,
+          "startTime": 449.087,
+          "duration": 209.656
+        },
+        {
+          "id": "robi-folg-5500-t05",
+          "title": "Fauler Zauber - Teil 5",
+          "index": 4,
+          "startTime": 658.743,
+          "duration": 219.175
+        },
+        {
+          "id": "robi-folg-5500-t06",
+          "title": "Der Kartoffelprinz - Teil 1",
+          "index": 5,
+          "startTime": 877.918,
+          "duration": 210.969
+        },
+        {
+          "id": "robi-folg-5500-t07",
+          "title": "Der Kartoffelprinz - Teil 2",
+          "index": 6,
+          "startTime": 1088.887,
+          "duration": 209.326
+        },
+        {
+          "id": "robi-folg-5500-t08",
+          "title": "Der Kartoffelprinz - Teil 3",
+          "index": 7,
+          "startTime": 1298.213,
+          "duration": 211.505
+        },
+        {
+          "id": "robi-folg-5500-t09",
+          "title": "Der Kartoffelprinz - Teil 4",
+          "index": 8,
+          "startTime": 1509.718,
+          "duration": 205.348
+        },
+        {
+          "id": "robi-folg-5500-t10",
+          "title": "Doppeltes Spiel - Teil 1",
+          "index": 9,
+          "startTime": 1715.066,
+          "duration": 209.16
+        },
+        {
+          "id": "robi-folg-5500-t11",
+          "title": "Doppeltes Spiel - Teil 2",
+          "index": 10,
+          "startTime": 1924.226,
+          "duration": 201.772
+        },
+        {
+          "id": "robi-folg-5500-t12",
+          "title": "Doppeltes Spiel - Teil 3",
+          "index": 11,
+          "startTime": 2125.998,
+          "duration": 207.316
+        },
+        {
+          "id": "robi-folg-5500-t13",
+          "title": "Doppeltes Spiel - Teil 4",
+          "index": 12,
+          "startTime": 2333.314,
+          "duration": 198.312
+        },
+        {
+          "id": "robi-folg-5500-t14",
+          "title": "Der neue Chef - Teil 1",
+          "index": 13,
+          "startTime": 2531.626,
+          "duration": 197.0
+        },
+        {
+          "id": "robi-folg-5500-t15",
+          "title": "Der neue Chef - Teil 2",
+          "index": 14,
+          "startTime": 2728.626,
+          "duration": 198.192
+        },
+        {
+          "id": "robi-folg-5500-t16",
+          "title": "Der neue Chef - Teil 3",
+          "index": 15,
+          "startTime": 2926.818,
+          "duration": 196.988
+        },
+        {
+          "id": "robi-folg-5500-t17",
+          "title": "Der neue Chef - Teil 4",
+          "index": 16,
+          "startTime": 3123.806,
+          "duration": 200.325
+        },
+        {
+          "id": "robi-folg-5500-t18",
+          "title": "Der neue Chef - Teil 5",
+          "index": 17,
+          "startTime": 3324.131,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1804943740",
@@ -457,11 +5482,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/0f/00/4f0f00b2-ccfd-9328-3239-242ae63516ad/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es ist Teil des Hörspielgenres.",
-      "totalDuration": 0,
+      "totalDuration": 3485.907,
       "platforms": {
         "appleMusic": "1804943740"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-folg-3740-t01",
+          "title": "Mit verbundenen Augen - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.065
+        },
+        {
+          "id": "robi-folg-3740-t02",
+          "title": "Mit verbundenen Augen - Teil 2",
+          "index": 1,
+          "startTime": 30.065,
+          "duration": 206.774
+        },
+        {
+          "id": "robi-folg-3740-t03",
+          "title": "Mit verbundenen Augen - Teil 3",
+          "index": 2,
+          "startTime": 236.839,
+          "duration": 215.923
+        },
+        {
+          "id": "robi-folg-3740-t04",
+          "title": "Mit verbundenen Augen - Teil 4",
+          "index": 3,
+          "startTime": 452.762,
+          "duration": 200.964
+        },
+        {
+          "id": "robi-folg-3740-t05",
+          "title": "Mit verbundenen Augen - Teil 5",
+          "index": 4,
+          "startTime": 653.726,
+          "duration": 210.546
+        },
+        {
+          "id": "robi-folg-3740-t06",
+          "title": "Ein Drache als Haustier - Teil 1",
+          "index": 5,
+          "startTime": 864.272,
+          "duration": 193.456
+        },
+        {
+          "id": "robi-folg-3740-t07",
+          "title": "Ein Drache als Haustier - Teil 2",
+          "index": 6,
+          "startTime": 1057.728,
+          "duration": 187.926
+        },
+        {
+          "id": "robi-folg-3740-t08",
+          "title": "Ein Drache als Haustier - Teil 3",
+          "index": 7,
+          "startTime": 1245.654,
+          "duration": 186.089
+        },
+        {
+          "id": "robi-folg-3740-t09",
+          "title": "Ein Drache als Haustier - Teil 4",
+          "index": 8,
+          "startTime": 1431.743,
+          "duration": 196.438
+        },
+        {
+          "id": "robi-folg-3740-t10",
+          "title": "Die Hexe Morgan - Teil 1",
+          "index": 9,
+          "startTime": 1628.181,
+          "duration": 204.6
+        },
+        {
+          "id": "robi-folg-3740-t11",
+          "title": "Die Hexe Morgan - Teil 2",
+          "index": 10,
+          "startTime": 1832.781,
+          "duration": 202.312
+        },
+        {
+          "id": "robi-folg-3740-t12",
+          "title": "Die Hexe Morgan - Teil 3",
+          "index": 11,
+          "startTime": 2035.093,
+          "duration": 185.589
+        },
+        {
+          "id": "robi-folg-3740-t13",
+          "title": "Die Hexe Morgan - Teil 4",
+          "index": 12,
+          "startTime": 2220.682,
+          "duration": 192.72
+        },
+        {
+          "id": "robi-folg-3740-t14",
+          "title": "Der neue Junge - Teil 1",
+          "index": 13,
+          "startTime": 2413.402,
+          "duration": 206.48
+        },
+        {
+          "id": "robi-folg-3740-t15",
+          "title": "Der neue Junge - Teil 2",
+          "index": 14,
+          "startTime": 2619.882,
+          "duration": 201.16
+        },
+        {
+          "id": "robi-folg-3740-t16",
+          "title": "Der neue Junge - Teil 3",
+          "index": 15,
+          "startTime": 2821.042,
+          "duration": 209.0
+        },
+        {
+          "id": "robi-folg-3740-t17",
+          "title": "Der neue Junge - Teil 4",
+          "index": 16,
+          "startTime": 3030.042,
+          "duration": 211.72
+        },
+        {
+          "id": "robi-folg-3740-t18",
+          "title": "Der neue Junge - Teil 5",
+          "index": 17,
+          "startTime": 3241.762,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1807077980",
@@ -470,11 +5622,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/bc/09/fabc090e-83a1-c446-a68a-52bd35f57264/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es umfasst 18 Tracks im Genre Hörspiel.",
-      "totalDuration": 0,
+      "totalDuration": 3422.017,
       "platforms": {
         "appleMusic": "1807077980"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-epis-7980-t01",
+          "title": "Samsons Rückkehr - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.12
+        },
+        {
+          "id": "robi-epis-7980-t02",
+          "title": "Samsons Rückkehr - Teil 2",
+          "index": 1,
+          "startTime": 30.12,
+          "duration": 192.28
+        },
+        {
+          "id": "robi-epis-7980-t03",
+          "title": "Samsons Rückkehr - Teil 3",
+          "index": 2,
+          "startTime": 222.4,
+          "duration": 197.08
+        },
+        {
+          "id": "robi-epis-7980-t04",
+          "title": "Samsons Rückkehr - Teil 4",
+          "index": 3,
+          "startTime": 419.48,
+          "duration": 196.64
+        },
+        {
+          "id": "robi-epis-7980-t05",
+          "title": "Samsons Rückkehr - Teil 5",
+          "index": 4,
+          "startTime": 616.12,
+          "duration": 207.88
+        },
+        {
+          "id": "robi-epis-7980-t06",
+          "title": "Der Fan - Teil 1",
+          "index": 5,
+          "startTime": 824.0,
+          "duration": 190.405
+        },
+        {
+          "id": "robi-epis-7980-t07",
+          "title": "Der Fan - Teil 2",
+          "index": 6,
+          "startTime": 1014.405,
+          "duration": 197.584
+        },
+        {
+          "id": "robi-epis-7980-t08",
+          "title": "Der Fan - Teil 3",
+          "index": 7,
+          "startTime": 1211.989,
+          "duration": 196.229
+        },
+        {
+          "id": "robi-epis-7980-t09",
+          "title": "Der Fan - Teil 4",
+          "index": 8,
+          "startTime": 1408.218,
+          "duration": 192.07
+        },
+        {
+          "id": "robi-epis-7980-t10",
+          "title": "Der mürrische Drache - Teil 1",
+          "index": 9,
+          "startTime": 1600.288,
+          "duration": 194.215
+        },
+        {
+          "id": "robi-epis-7980-t11",
+          "title": "Der mürrische Drache - Teil 2",
+          "index": 10,
+          "startTime": 1794.503,
+          "duration": 195.074
+        },
+        {
+          "id": "robi-epis-7980-t12",
+          "title": "Der mürrische Drache - Teil 3",
+          "index": 11,
+          "startTime": 1989.577,
+          "duration": 187.603
+        },
+        {
+          "id": "robi-epis-7980-t13",
+          "title": "Der mürrische Drache - Teil 4",
+          "index": 12,
+          "startTime": 2177.18,
+          "duration": 186.48
+        },
+        {
+          "id": "robi-epis-7980-t14",
+          "title": "Schlau wie ein Fuchs - Teil 1",
+          "index": 13,
+          "startTime": 2363.66,
+          "duration": 202.801
+        },
+        {
+          "id": "robi-epis-7980-t15",
+          "title": "Schlau wie ein Fuchs - Teil 2",
+          "index": 14,
+          "startTime": 2566.461,
+          "duration": 194.95
+        },
+        {
+          "id": "robi-epis-7980-t16",
+          "title": "Schlau wie ein Fuchs - Teil 3",
+          "index": 15,
+          "startTime": 2761.411,
+          "duration": 202.41
+        },
+        {
+          "id": "robi-epis-7980-t17",
+          "title": "Schlau wie ein Fuchs - Teil 4",
+          "index": 16,
+          "startTime": 2963.821,
+          "duration": 214.051
+        },
+        {
+          "id": "robi-epis-7980-t18",
+          "title": "Schlau wie ein Fuchs - Teil 5",
+          "index": 17,
+          "startTime": 3177.872,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1807050831",
@@ -483,11 +5762,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/9d/dc/c59ddcfd-a8f0-09f3-e695-f75043450f51/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es handelt sich um ein Hörspiel.",
-      "totalDuration": 0,
+      "totalDuration": 3298.872,
       "platforms": {
         "appleMusic": "1807050831"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-epis-0831-t01",
+          "title": "Der Rächer aus dem Pferdestall - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 29.957
+        },
+        {
+          "id": "robi-epis-0831-t02",
+          "title": "Der Rächer aus dem Pferdestall - Teil 2",
+          "index": 1,
+          "startTime": 29.957,
+          "duration": 183.691
+        },
+        {
+          "id": "robi-epis-0831-t03",
+          "title": "Der Rächer aus dem Pferdestall - Teil 3",
+          "index": 2,
+          "startTime": 213.648,
+          "duration": 185.445
+        },
+        {
+          "id": "robi-epis-0831-t04",
+          "title": "Der Rächer aus dem Pferdestall - Teil 4",
+          "index": 3,
+          "startTime": 399.093,
+          "duration": 185.61
+        },
+        {
+          "id": "robi-epis-0831-t05",
+          "title": "Der Rächer aus dem Pferdestall - Teil 5",
+          "index": 4,
+          "startTime": 584.703,
+          "duration": 185.979
+        },
+        {
+          "id": "robi-epis-0831-t06",
+          "title": "Die Papageienjagd - Teil 1",
+          "index": 5,
+          "startTime": 770.682,
+          "duration": 181.948
+        },
+        {
+          "id": "robi-epis-0831-t07",
+          "title": "Die Papageienjagd - Teil 2",
+          "index": 6,
+          "startTime": 952.63,
+          "duration": 191.61
+        },
+        {
+          "id": "robi-epis-0831-t08",
+          "title": "Die Papageienjagd - Teil 3",
+          "index": 7,
+          "startTime": 1144.24,
+          "duration": 180.325
+        },
+        {
+          "id": "robi-epis-0831-t09",
+          "title": "Die Papageienjagd - Teil 4",
+          "index": 8,
+          "startTime": 1324.565,
+          "duration": 188.428
+        },
+        {
+          "id": "robi-epis-0831-t10",
+          "title": "Wie die Väter, so die Töchter - Teil 1",
+          "index": 9,
+          "startTime": 1512.993,
+          "duration": 190.013
+        },
+        {
+          "id": "robi-epis-0831-t11",
+          "title": "Wie die Väter, so die Töchter - Teil 2",
+          "index": 10,
+          "startTime": 1703.006,
+          "duration": 190.367
+        },
+        {
+          "id": "robi-epis-0831-t12",
+          "title": "Wie die Väter, so die Töchter - Teil 3",
+          "index": 11,
+          "startTime": 1893.373,
+          "duration": 188.05
+        },
+        {
+          "id": "robi-epis-0831-t13",
+          "title": "Wie die Väter, so die Töchter - Teil 4",
+          "index": 12,
+          "startTime": 2081.423,
+          "duration": 196.608
+        },
+        {
+          "id": "robi-epis-0831-t14",
+          "title": "Derkes Albtraum - Teil 1",
+          "index": 13,
+          "startTime": 2278.031,
+          "duration": 190.367
+        },
+        {
+          "id": "robi-epis-0831-t15",
+          "title": "Derkes Albtraum - Teil 2",
+          "index": 14,
+          "startTime": 2468.398,
+          "duration": 185.658
+        },
+        {
+          "id": "robi-epis-0831-t16",
+          "title": "Derkes Albtraum - Teil 3",
+          "index": 15,
+          "startTime": 2654.056,
+          "duration": 192.118
+        },
+        {
+          "id": "robi-epis-0831-t17",
+          "title": "Derkes Albtraum - Teil 4",
+          "index": 16,
+          "startTime": 2846.174,
+          "duration": 208.553
+        },
+        {
+          "id": "robi-epis-0831-t18",
+          "title": "Derkes Albtraum - Teil 5",
+          "index": 17,
+          "startTime": 3054.727,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1808678734",
@@ -496,11 +5902,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/2d/11/162d11d8-f7f8-076e-d9ee-1b91e8d6e7e2/cover.jpg/100x100bb.jpg",
       "description": "Ein Album, das als Original-Hörspiel zur TV-Serie 'Die Fürstlichen Spiele' erscheint, deutet eindeutig auf ein Hörspiel hin, da es als 'Episode 38: Die Fürstlichen Spiele' vermarktet wird.",
-      "totalDuration": 0,
+      "totalDuration": 3398.738,
       "platforms": {
         "appleMusic": "1808678734"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-epis-8734-t01",
+          "title": "Die fürstlichen Spiele - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.389
+        },
+        {
+          "id": "robi-epis-8734-t02",
+          "title": "Die fürstlichen Spiele - Teil 2",
+          "index": 1,
+          "startTime": 30.389,
+          "duration": 181.431
+        },
+        {
+          "id": "robi-epis-8734-t03",
+          "title": "Die fürstlichen Spiele - Teil 3",
+          "index": 2,
+          "startTime": 211.82,
+          "duration": 205.282
+        },
+        {
+          "id": "robi-epis-8734-t04",
+          "title": "Die fürstlichen Spiele - Teil 4",
+          "index": 3,
+          "startTime": 417.102,
+          "duration": 181.924
+        },
+        {
+          "id": "robi-epis-8734-t05",
+          "title": "Die fürstlichen Spiele - Teil 5",
+          "index": 4,
+          "startTime": 599.026,
+          "duration": 189.06
+        },
+        {
+          "id": "robi-epis-8734-t06",
+          "title": "Die Bestie von Sherwood - Teil 1",
+          "index": 5,
+          "startTime": 788.086,
+          "duration": 181.084
+        },
+        {
+          "id": "robi-epis-8734-t07",
+          "title": "Die Bestie von Sherwood - Teil 2",
+          "index": 6,
+          "startTime": 969.17,
+          "duration": 180.187
+        },
+        {
+          "id": "robi-epis-8734-t08",
+          "title": "Die Bestie von Sherwood - Teil 3",
+          "index": 7,
+          "startTime": 1149.357,
+          "duration": 180.793
+        },
+        {
+          "id": "robi-epis-8734-t09",
+          "title": "Die Bestie von Sherwood - Teil 4",
+          "index": 8,
+          "startTime": 1330.15,
+          "duration": 182.585
+        },
+        {
+          "id": "robi-epis-8734-t10",
+          "title": "Flynn im Exil - Teil 1",
+          "index": 9,
+          "startTime": 1512.735,
+          "duration": 206.366
+        },
+        {
+          "id": "robi-epis-8734-t11",
+          "title": "Flynn im Exil - Teil 2",
+          "index": 10,
+          "startTime": 1719.101,
+          "duration": 213.115
+        },
+        {
+          "id": "robi-epis-8734-t12",
+          "title": "Flynn im Exil - Teil 3",
+          "index": 11,
+          "startTime": 1932.216,
+          "duration": 209.365
+        },
+        {
+          "id": "robi-epis-8734-t13",
+          "title": "Flynn im Exil - Teil 4",
+          "index": 12,
+          "startTime": 2141.581,
+          "duration": 217.557
+        },
+        {
+          "id": "robi-epis-8734-t14",
+          "title": "Die giftige Melodie - Teil 1",
+          "index": 13,
+          "startTime": 2359.138,
+          "duration": 203.127
+        },
+        {
+          "id": "robi-epis-8734-t15",
+          "title": "Die giftige Melodie - Teil 2",
+          "index": 14,
+          "startTime": 2562.265,
+          "duration": 206.873
+        },
+        {
+          "id": "robi-epis-8734-t16",
+          "title": "Die giftige Melodie - Teil 3",
+          "index": 15,
+          "startTime": 2769.138,
+          "duration": 203.877
+        },
+        {
+          "id": "robi-epis-8734-t17",
+          "title": "Die giftige Melodie - Teil 4",
+          "index": 16,
+          "startTime": 2973.015,
+          "duration": 181.578
+        },
+        {
+          "id": "robi-epis-8734-t18",
+          "title": "Die giftige Melodie - Teil 5",
+          "index": 17,
+          "startTime": 3154.593,
+          "duration": 244.145
+        }
+      ]
     },
     {
       "id": "1808681634",
@@ -509,12 +6042,139 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/a3/23/c6a3231f-7dff-2344-c8e4-8852be860f86/cover.jpg/100x100bb.jpg",
       "description": "Ein Album, das ein Hörspiel mit dem Titel 'Episode 39: Eine einfache Dienerin' beinhaltet, das als Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' veröffentlicht wurde. Es enthält 18 Tracks im Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 3435.31,
       "platforms": {
         "appleMusic": "1808681634"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "robi-epis-1634-t01",
+          "title": "Eine einfache Dienerin - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 30.304
+        },
+        {
+          "id": "robi-epis-1634-t02",
+          "title": "Eine einfache Dienerin - Teil 2",
+          "index": 1,
+          "startTime": 30.304,
+          "duration": 205.824
+        },
+        {
+          "id": "robi-epis-1634-t03",
+          "title": "Eine einfache Dienerin - Teil 3",
+          "index": 2,
+          "startTime": 236.128,
+          "duration": 207.079
+        },
+        {
+          "id": "robi-epis-1634-t04",
+          "title": "Eine einfache Dienerin - Teil 4",
+          "index": 3,
+          "startTime": 443.207,
+          "duration": 202.83
+        },
+        {
+          "id": "robi-epis-1634-t05",
+          "title": "Eine einfache Dienerin - Teil 5",
+          "index": 4,
+          "startTime": 646.037,
+          "duration": 216.218
+        },
+        {
+          "id": "robi-epis-1634-t06",
+          "title": "Der Tresor - Teil 1",
+          "index": 5,
+          "startTime": 862.255,
+          "duration": 192.068
+        },
+        {
+          "id": "robi-epis-1634-t07",
+          "title": "Der Tresor - Teil 2",
+          "index": 6,
+          "startTime": 1054.323,
+          "duration": 185.367
+        },
+        {
+          "id": "robi-epis-1634-t08",
+          "title": "Der Tresor - Teil 3",
+          "index": 7,
+          "startTime": 1239.69,
+          "duration": 193.961
+        },
+        {
+          "id": "robi-epis-1634-t09",
+          "title": "Der Tresor - Teil 4",
+          "index": 8,
+          "startTime": 1433.651,
+          "duration": 199.025
+        },
+        {
+          "id": "robi-epis-1634-t10",
+          "title": "Die Reise nach Walhalla (1) - Teil 1",
+          "index": 9,
+          "startTime": 1632.676,
+          "duration": 192.843
+        },
+        {
+          "id": "robi-epis-1634-t11",
+          "title": "Die Reise nach Walhalla (1) - Teil 2",
+          "index": 10,
+          "startTime": 1825.519,
+          "duration": 197.157
+        },
+        {
+          "id": "robi-epis-1634-t12",
+          "title": "Die Reise nach Walhalla (1) - Teil 3",
+          "index": 11,
+          "startTime": 2022.676,
+          "duration": 197.278
+        },
+        {
+          "id": "robi-epis-1634-t13",
+          "title": "Die Reise nach Walhalla (1) - Teil 4",
+          "index": 12,
+          "startTime": 2219.954,
+          "duration": 202.211
+        },
+        {
+          "id": "robi-epis-1634-t14",
+          "title": "Die Reise nach Walhalla (2) - Teil 1",
+          "index": 13,
+          "startTime": 2422.165,
+          "duration": 195.12
+        },
+        {
+          "id": "robi-epis-1634-t15",
+          "title": "Die Reise nach Walhalla (2) - Teil 2",
+          "index": 14,
+          "startTime": 2617.285,
+          "duration": 195.24
+        },
+        {
+          "id": "robi-epis-1634-t16",
+          "title": "Die Reise nach Walhalla (2) - Teil 3",
+          "index": 15,
+          "startTime": 2812.525,
+          "duration": 192.36
+        },
+        {
+          "id": "robi-epis-1634-t17",
+          "title": "Die Reise nach Walhalla (2) - Teil 4",
+          "index": 16,
+          "startTime": 3004.885,
+          "duration": 186.28
+        },
+        {
+          "id": "robi-epis-1634-t18",
+          "title": "Die Reise nach Walhalla (2) - Teil 5",
+          "index": 17,
+          "startTime": 3191.165,
+          "duration": 244.145
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

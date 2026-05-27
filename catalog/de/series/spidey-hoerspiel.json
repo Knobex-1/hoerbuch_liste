@@ -15,11 +15,257 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/30/17/f3301714-5c89-a678-20f4-e75ae4f1af3f/4066339450202.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel der Marvel TV-Serie, das speziell für Kinder konzipiert ist.",
-      "totalDuration": 0,
+      "totalDuration": 3295.106,
       "platforms": {
         "appleMusic": "1685958773"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "spid-02ma-8773-t01",
+          "title": "Marvels Spidey und seine Super-Freunde - Titellied",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 59.707
+        },
+        {
+          "id": "spid-02ma-8773-t02",
+          "title": "Kapitel 01: Doc Ocks Superoktopus",
+          "index": 1,
+          "startTime": 59.707,
+          "duration": 92.56
+        },
+        {
+          "id": "spid-02ma-8773-t03",
+          "title": "Kapitel 02: Doc Ocks Superoktopus",
+          "index": 2,
+          "startTime": 152.267,
+          "duration": 91.36
+        },
+        {
+          "id": "spid-02ma-8773-t04",
+          "title": "Kapitel 03: Doc Ocks Superoktopus",
+          "index": 3,
+          "startTime": 243.627,
+          "duration": 99.0
+        },
+        {
+          "id": "spid-02ma-8773-t05",
+          "title": "Kapitel 04: Doc Ocks Superoktopus",
+          "index": 4,
+          "startTime": 342.627,
+          "duration": 88.08
+        },
+        {
+          "id": "spid-02ma-8773-t06",
+          "title": "Kapitel 05: Doc Ocks Superoktopus",
+          "index": 5,
+          "startTime": 430.707,
+          "duration": 102.147
+        },
+        {
+          "id": "spid-02ma-8773-t07",
+          "title": "Kapitel 06: Doc Ocks Superoktopus",
+          "index": 6,
+          "startTime": 532.854,
+          "duration": 100.24
+        },
+        {
+          "id": "spid-02ma-8773-t08",
+          "title": "Kapitel 07: Doc Ocks Superoktopus",
+          "index": 7,
+          "startTime": 633.094,
+          "duration": 88.32
+        },
+        {
+          "id": "spid-02ma-8773-t09",
+          "title": "Kapitel 08: Doc Ocks Superoktopus",
+          "index": 8,
+          "startTime": 721.414,
+          "duration": 120.787
+        },
+        {
+          "id": "spid-02ma-8773-t10",
+          "title": "Kapitel 01: Die Kicher-Attacke",
+          "index": 9,
+          "startTime": 842.201,
+          "duration": 80.467
+        },
+        {
+          "id": "spid-02ma-8773-t11",
+          "title": "Kapitel 02: Die Kicher-Attacke",
+          "index": 10,
+          "startTime": 922.668,
+          "duration": 79.533
+        },
+        {
+          "id": "spid-02ma-8773-t12",
+          "title": "Kapitel 03: Die Kicher-Attacke",
+          "index": 11,
+          "startTime": 1002.201,
+          "duration": 93.467
+        },
+        {
+          "id": "spid-02ma-8773-t13",
+          "title": "Kapitel 04: Die Kicher-Attacke",
+          "index": 12,
+          "startTime": 1095.668,
+          "duration": 89.08
+        },
+        {
+          "id": "spid-02ma-8773-t14",
+          "title": "Kapitel 05: Die Kicher-Attacke",
+          "index": 13,
+          "startTime": 1184.748,
+          "duration": 95.0
+        },
+        {
+          "id": "spid-02ma-8773-t15",
+          "title": "Kapitel 06: Die Kicher-Attacke",
+          "index": 14,
+          "startTime": 1279.748,
+          "duration": 103.133
+        },
+        {
+          "id": "spid-02ma-8773-t16",
+          "title": "Kapitel 07: Die Kicher-Attacke",
+          "index": 15,
+          "startTime": 1382.881,
+          "duration": 89.56
+        },
+        {
+          "id": "spid-02ma-8773-t17",
+          "title": "Kapitel 08: Die Kicher-Attacke",
+          "index": 16,
+          "startTime": 1472.441,
+          "duration": 102.227
+        },
+        {
+          "id": "spid-02ma-8773-t18",
+          "title": "Kapitel 09: Die Kicher-Attacke",
+          "index": 17,
+          "startTime": 1574.668,
+          "duration": 119.12
+        },
+        {
+          "id": "spid-02ma-8773-t19",
+          "title": "Kapitel 01: Chaos am Muttertag",
+          "index": 18,
+          "startTime": 1693.788,
+          "duration": 94.16
+        },
+        {
+          "id": "spid-02ma-8773-t20",
+          "title": "Kapitel 02: Chaos am Muttertag",
+          "index": 19,
+          "startTime": 1787.948,
+          "duration": 92.64
+        },
+        {
+          "id": "spid-02ma-8773-t21",
+          "title": "Kapitel 03: Chaos am Muttertag",
+          "index": 20,
+          "startTime": 1880.588,
+          "duration": 92.253
+        },
+        {
+          "id": "spid-02ma-8773-t22",
+          "title": "Kapitel 04: Chaos am Muttertag",
+          "index": 21,
+          "startTime": 1972.841,
+          "duration": 90.627
+        },
+        {
+          "id": "spid-02ma-8773-t23",
+          "title": "Kapitel 05: Chaos am Muttertag",
+          "index": 22,
+          "startTime": 2063.468,
+          "duration": 88.573
+        },
+        {
+          "id": "spid-02ma-8773-t24",
+          "title": "Kapitel 06: Chaos am Muttertag",
+          "index": 23,
+          "startTime": 2152.041,
+          "duration": 102.773
+        },
+        {
+          "id": "spid-02ma-8773-t25",
+          "title": "Kapitel 07: Chaos am Muttertag",
+          "index": 24,
+          "startTime": 2254.814,
+          "duration": 87.893
+        },
+        {
+          "id": "spid-02ma-8773-t26",
+          "title": "Kapitel 08: Chaos am Muttertag",
+          "index": 25,
+          "startTime": 2342.707,
+          "duration": 70.253
+        },
+        {
+          "id": "spid-02ma-8773-t27",
+          "title": "Kapitel 01: Das nicht so spaßige Spaßhaus",
+          "index": 26,
+          "startTime": 2412.96,
+          "duration": 97.413
+        },
+        {
+          "id": "spid-02ma-8773-t28",
+          "title": "Kapitel 02: Das nicht so spaßige Spaßhaus",
+          "index": 27,
+          "startTime": 2510.373,
+          "duration": 108.453
+        },
+        {
+          "id": "spid-02ma-8773-t29",
+          "title": "Kapitel 03: Das nicht so spaßige Spaßhaus",
+          "index": 28,
+          "startTime": 2618.826,
+          "duration": 90.32
+        },
+        {
+          "id": "spid-02ma-8773-t30",
+          "title": "Kapitel 04: Das nicht so spaßige Spaßhaus",
+          "index": 29,
+          "startTime": 2709.146,
+          "duration": 98.08
+        },
+        {
+          "id": "spid-02ma-8773-t31",
+          "title": "Kapitel 05: Das nicht so spaßige Spaßhaus",
+          "index": 30,
+          "startTime": 2807.226,
+          "duration": 97.2
+        },
+        {
+          "id": "spid-02ma-8773-t32",
+          "title": "Kapitel 06: Das nicht so spaßige Spaßhaus",
+          "index": 31,
+          "startTime": 2904.426,
+          "duration": 94.187
+        },
+        {
+          "id": "spid-02ma-8773-t33",
+          "title": "Kapitel 07: Das nicht so spaßige Spaßhaus",
+          "index": 32,
+          "startTime": 2998.613,
+          "duration": 97.88
+        },
+        {
+          "id": "spid-02ma-8773-t34",
+          "title": "Kapitel 08: Das nicht so spaßige Spaßhaus",
+          "index": 33,
+          "startTime": 3096.493,
+          "duration": 104.093
+        },
+        {
+          "id": "spid-02ma-8773-t35",
+          "title": "Kapitel 09: Das nicht so spaßige Spaßhaus",
+          "index": 34,
+          "startTime": 3200.586,
+          "duration": 94.52
+        }
+      ]
     },
     {
       "id": "1685979213",
@@ -28,12 +274,265 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/e6/ff/64e6ffc9-19a6-3dc9-7b8d-8d37fd9f9469/4066339450370.jpg/100x100bb.jpg",
       "description": "Das Album enthält das Original-Hörspiel zur Marvel TV-Serie, speziell für Kinder.",
-      "totalDuration": 0,
+      "totalDuration": 3433.0,
       "platforms": {
         "appleMusic": "1685979213"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "spid-03ma-9213-t01",
+          "title": "Marvels Spidey und seine Super-Freunde - Titellied",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 59.715
+        },
+        {
+          "id": "spid-03ma-9213-t02",
+          "title": "Kapitel 01: Kobzilla",
+          "index": 1,
+          "startTime": 59.715,
+          "duration": 104.545
+        },
+        {
+          "id": "spid-03ma-9213-t03",
+          "title": "Kapitel 02: Kobzilla",
+          "index": 2,
+          "startTime": 164.26,
+          "duration": 111.303
+        },
+        {
+          "id": "spid-03ma-9213-t04",
+          "title": "Kapitel 03: Kobzilla",
+          "index": 3,
+          "startTime": 275.563,
+          "duration": 95.652
+        },
+        {
+          "id": "spid-03ma-9213-t05",
+          "title": "Kapitel 04: Kobzilla",
+          "index": 4,
+          "startTime": 371.215,
+          "duration": 93.408
+        },
+        {
+          "id": "spid-03ma-9213-t06",
+          "title": "Kapitel 05: Kobzilla",
+          "index": 5,
+          "startTime": 464.623,
+          "duration": 93.99
+        },
+        {
+          "id": "spid-03ma-9213-t07",
+          "title": "Kapitel 06: Kobzilla",
+          "index": 6,
+          "startTime": 558.613,
+          "duration": 99.114
+        },
+        {
+          "id": "spid-03ma-9213-t08",
+          "title": "Kapitel 07: Kobzilla",
+          "index": 7,
+          "startTime": 657.727,
+          "duration": 125.477
+        },
+        {
+          "id": "spid-03ma-9213-t09",
+          "title": "Kapitel 01: Schnelle Spidey-Lieferung",
+          "index": 8,
+          "startTime": 783.204,
+          "duration": 93.356
+        },
+        {
+          "id": "spid-03ma-9213-t10",
+          "title": "Kapitel 02: Schnelle Spidey-Lieferung",
+          "index": 9,
+          "startTime": 876.56,
+          "duration": 87.255
+        },
+        {
+          "id": "spid-03ma-9213-t11",
+          "title": "Kapitel 03: Schnelle Spidey-Lieferung",
+          "index": 10,
+          "startTime": 963.815,
+          "duration": 87.083
+        },
+        {
+          "id": "spid-03ma-9213-t12",
+          "title": "Kapitel 04: Schnelle Spidey-Lieferung",
+          "index": 11,
+          "startTime": 1050.898,
+          "duration": 94.293
+        },
+        {
+          "id": "spid-03ma-9213-t13",
+          "title": "Kapitel 05: Schnelle Spidey-Lieferung",
+          "index": 12,
+          "startTime": 1145.191,
+          "duration": 83.518
+        },
+        {
+          "id": "spid-03ma-9213-t14",
+          "title": "Kapitel 06: Schnelle Spidey-Lieferung",
+          "index": 13,
+          "startTime": 1228.709,
+          "duration": 96.319
+        },
+        {
+          "id": "spid-03ma-9213-t15",
+          "title": "Kapitel 07: Schnelle Spidey-Lieferung",
+          "index": 14,
+          "startTime": 1325.028,
+          "duration": 85.112
+        },
+        {
+          "id": "spid-03ma-9213-t16",
+          "title": "Kapitel 08: Schnelle Spidey-Lieferung",
+          "index": 15,
+          "startTime": 1410.14,
+          "duration": 97.291
+        },
+        {
+          "id": "spid-03ma-9213-t17",
+          "title": "Kapitel 09: Schnelle Spidey-Lieferung",
+          "index": 16,
+          "startTime": 1507.431,
+          "duration": 106.775
+        },
+        {
+          "id": "spid-03ma-9213-t18",
+          "title": "Kapitel 10: Schnelle Spidey-Lieferung",
+          "index": 17,
+          "startTime": 1614.206,
+          "duration": 84.353
+        },
+        {
+          "id": "spid-03ma-9213-t19",
+          "title": "Kapitel 01: Fehler im System!",
+          "index": 18,
+          "startTime": 1698.559,
+          "duration": 94.565
+        },
+        {
+          "id": "spid-03ma-9213-t20",
+          "title": "Kapitel 02: Fehler im System!",
+          "index": 19,
+          "startTime": 1793.124,
+          "duration": 96.49
+        },
+        {
+          "id": "spid-03ma-9213-t21",
+          "title": "Kapitel 03: Fehler im System!",
+          "index": 20,
+          "startTime": 1889.614,
+          "duration": 98.584
+        },
+        {
+          "id": "spid-03ma-9213-t22",
+          "title": "Kapitel 04: Fehler im System!",
+          "index": 21,
+          "startTime": 1988.198,
+          "duration": 87.555
+        },
+        {
+          "id": "spid-03ma-9213-t23",
+          "title": "Kapitel 05: Fehler im System!",
+          "index": 22,
+          "startTime": 2075.753,
+          "duration": 85.364
+        },
+        {
+          "id": "spid-03ma-9213-t24",
+          "title": "Kapitel 06: Fehler im System!",
+          "index": 23,
+          "startTime": 2161.117,
+          "duration": 95.177
+        },
+        {
+          "id": "spid-03ma-9213-t25",
+          "title": "Kapitel 07: Fehler im System!",
+          "index": 24,
+          "startTime": 2256.294,
+          "duration": 96.534
+        },
+        {
+          "id": "spid-03ma-9213-t26",
+          "title": "Kapitel 08: Fehler im System!",
+          "index": 25,
+          "startTime": 2352.828,
+          "duration": 127.184
+        },
+        {
+          "id": "spid-03ma-9213-t27",
+          "title": "Kapitel 01: Teste deine Superkraft!",
+          "index": 26,
+          "startTime": 2480.012,
+          "duration": 94.558
+        },
+        {
+          "id": "spid-03ma-9213-t28",
+          "title": "Kapitel 02: Teste deine Superkraft!",
+          "index": 27,
+          "startTime": 2574.57,
+          "duration": 93.64
+        },
+        {
+          "id": "spid-03ma-9213-t29",
+          "title": "Kapitel 03: Teste deine Superkraft!",
+          "index": 28,
+          "startTime": 2668.21,
+          "duration": 101.048
+        },
+        {
+          "id": "spid-03ma-9213-t30",
+          "title": "Kapitel 04: Teste deine Superkraft!",
+          "index": 29,
+          "startTime": 2769.258,
+          "duration": 86.954
+        },
+        {
+          "id": "spid-03ma-9213-t31",
+          "title": "Kapitel 05: Teste deine Superkraft!",
+          "index": 30,
+          "startTime": 2856.212,
+          "duration": 101.749
+        },
+        {
+          "id": "spid-03ma-9213-t32",
+          "title": "Kapitel 06: Teste deine Superkraft!",
+          "index": 31,
+          "startTime": 2957.961,
+          "duration": 81.248
+        },
+        {
+          "id": "spid-03ma-9213-t33",
+          "title": "Kapitel 07: Teste deine Superkraft!",
+          "index": 32,
+          "startTime": 3039.209,
+          "duration": 84.81
+        },
+        {
+          "id": "spid-03ma-9213-t34",
+          "title": "Kapitel 08: Teste deine Superkraft!",
+          "index": 33,
+          "startTime": 3124.019,
+          "duration": 100.42
+        },
+        {
+          "id": "spid-03ma-9213-t35",
+          "title": "Kapitel 09: Teste deine Superkraft!",
+          "index": 34,
+          "startTime": 3224.439,
+          "duration": 97.601
+        },
+        {
+          "id": "spid-03ma-9213-t36",
+          "title": "Kapitel 10: Teste deine Superkraft!",
+          "index": 35,
+          "startTime": 3322.04,
+          "duration": 110.96
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

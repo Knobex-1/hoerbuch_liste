@@ -15,11 +15,362 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/17/1a/a9171a67-ad2d-ac65-2665-01431da6057e/4066339484030.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zum Disney Film 'Zoomania'. Es enthält 51 Tracks und gehört zum Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 4526.345,
       "platforms": {
         "appleMusic": "1685843834"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "zoom-zoom-3834-t01",
+          "title": "Kapitel 01: Zoomania",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 92.16
+        },
+        {
+          "id": "zoom-zoom-3834-t02",
+          "title": "Kapitel 02: Zoomania",
+          "index": 1,
+          "startTime": 92.16,
+          "duration": 92.333
+        },
+        {
+          "id": "zoom-zoom-3834-t03",
+          "title": "Kapitel 03: Zoomania",
+          "index": 2,
+          "startTime": 184.493,
+          "duration": 86.867
+        },
+        {
+          "id": "zoom-zoom-3834-t04",
+          "title": "Kapitel 04: Zoomania",
+          "index": 3,
+          "startTime": 271.36,
+          "duration": 90.027
+        },
+        {
+          "id": "zoom-zoom-3834-t05",
+          "title": "Kapitel 05: Zoomania",
+          "index": 4,
+          "startTime": 361.387,
+          "duration": 84.547
+        },
+        {
+          "id": "zoom-zoom-3834-t06",
+          "title": "Kapitel 06: Zoomania",
+          "index": 5,
+          "startTime": 445.934,
+          "duration": 92.52
+        },
+        {
+          "id": "zoom-zoom-3834-t07",
+          "title": "Kapitel 07: Zoomania",
+          "index": 6,
+          "startTime": 538.454,
+          "duration": 94.4
+        },
+        {
+          "id": "zoom-zoom-3834-t08",
+          "title": "Kapitel 08: Zoomania",
+          "index": 7,
+          "startTime": 632.854,
+          "duration": 90.027
+        },
+        {
+          "id": "zoom-zoom-3834-t09",
+          "title": "Kapitel 09: Zoomania",
+          "index": 8,
+          "startTime": 722.881,
+          "duration": 92.933
+        },
+        {
+          "id": "zoom-zoom-3834-t10",
+          "title": "Kapitel 10: Zoomania",
+          "index": 9,
+          "startTime": 815.814,
+          "duration": 89.827
+        },
+        {
+          "id": "zoom-zoom-3834-t11",
+          "title": "Kapitel 11: Zoomania",
+          "index": 10,
+          "startTime": 905.641,
+          "duration": 85.893
+        },
+        {
+          "id": "zoom-zoom-3834-t12",
+          "title": "Kapitel 12: Zoomania",
+          "index": 11,
+          "startTime": 991.534,
+          "duration": 82.373
+        },
+        {
+          "id": "zoom-zoom-3834-t13",
+          "title": "Kapitel 13: Zoomania",
+          "index": 12,
+          "startTime": 1073.907,
+          "duration": 95.707
+        },
+        {
+          "id": "zoom-zoom-3834-t14",
+          "title": "Kapitel 14: Zoomania",
+          "index": 13,
+          "startTime": 1169.614,
+          "duration": 93.293
+        },
+        {
+          "id": "zoom-zoom-3834-t15",
+          "title": "Kapitel 15: Zoomania",
+          "index": 14,
+          "startTime": 1262.907,
+          "duration": 94.013
+        },
+        {
+          "id": "zoom-zoom-3834-t16",
+          "title": "Kapitel 16: Zoomania",
+          "index": 15,
+          "startTime": 1356.92,
+          "duration": 94.12
+        },
+        {
+          "id": "zoom-zoom-3834-t17",
+          "title": "Kapitel 17: Zoomania",
+          "index": 16,
+          "startTime": 1451.04,
+          "duration": 89.173
+        },
+        {
+          "id": "zoom-zoom-3834-t18",
+          "title": "Kapitel 18: Zoomania",
+          "index": 17,
+          "startTime": 1540.213,
+          "duration": 90.253
+        },
+        {
+          "id": "zoom-zoom-3834-t19",
+          "title": "Kapitel 19: Zoomania",
+          "index": 18,
+          "startTime": 1630.466,
+          "duration": 85.32
+        },
+        {
+          "id": "zoom-zoom-3834-t20",
+          "title": "Kapitel 20: Zoomania",
+          "index": 19,
+          "startTime": 1715.786,
+          "duration": 94.6
+        },
+        {
+          "id": "zoom-zoom-3834-t21",
+          "title": "Kapitel 21: Zoomania",
+          "index": 20,
+          "startTime": 1810.386,
+          "duration": 88.667
+        },
+        {
+          "id": "zoom-zoom-3834-t22",
+          "title": "Kapitel 22: Zoomania",
+          "index": 21,
+          "startTime": 1899.053,
+          "duration": 88.613
+        },
+        {
+          "id": "zoom-zoom-3834-t23",
+          "title": "Kapitel 23: Zoomania",
+          "index": 22,
+          "startTime": 1987.666,
+          "duration": 90.933
+        },
+        {
+          "id": "zoom-zoom-3834-t24",
+          "title": "Kapitel 24: Zoomania",
+          "index": 23,
+          "startTime": 2078.599,
+          "duration": 89.6
+        },
+        {
+          "id": "zoom-zoom-3834-t25",
+          "title": "Kapitel 25: Zoomania",
+          "index": 24,
+          "startTime": 2168.199,
+          "duration": 88.32
+        },
+        {
+          "id": "zoom-zoom-3834-t26",
+          "title": "Kapitel 26: Zoomania",
+          "index": 25,
+          "startTime": 2256.519,
+          "duration": 86.307
+        },
+        {
+          "id": "zoom-zoom-3834-t27",
+          "title": "Kapitel 27: Zoomania",
+          "index": 26,
+          "startTime": 2342.826,
+          "duration": 92.44
+        },
+        {
+          "id": "zoom-zoom-3834-t28",
+          "title": "Kapitel 28: Zoomania",
+          "index": 27,
+          "startTime": 2435.266,
+          "duration": 87.88
+        },
+        {
+          "id": "zoom-zoom-3834-t29",
+          "title": "Kapitel 29: Zoomania",
+          "index": 28,
+          "startTime": 2523.146,
+          "duration": 89.493
+        },
+        {
+          "id": "zoom-zoom-3834-t30",
+          "title": "Kapitel 30: Zoomania",
+          "index": 29,
+          "startTime": 2612.639,
+          "duration": 88.373
+        },
+        {
+          "id": "zoom-zoom-3834-t31",
+          "title": "Kapitel 31: Zoomania",
+          "index": 30,
+          "startTime": 2701.012,
+          "duration": 98.413
+        },
+        {
+          "id": "zoom-zoom-3834-t32",
+          "title": "Kapitel 32: Zoomania",
+          "index": 31,
+          "startTime": 2799.425,
+          "duration": 88.92
+        },
+        {
+          "id": "zoom-zoom-3834-t33",
+          "title": "Kapitel 33: Zoomania",
+          "index": 32,
+          "startTime": 2888.345,
+          "duration": 89.067
+        },
+        {
+          "id": "zoom-zoom-3834-t34",
+          "title": "Kapitel 34: Zoomania",
+          "index": 33,
+          "startTime": 2977.412,
+          "duration": 102.427
+        },
+        {
+          "id": "zoom-zoom-3834-t35",
+          "title": "Kapitel 35: Zoomania",
+          "index": 34,
+          "startTime": 3079.839,
+          "duration": 85.973
+        },
+        {
+          "id": "zoom-zoom-3834-t36",
+          "title": "Kapitel 36: Zoomania",
+          "index": 35,
+          "startTime": 3165.812,
+          "duration": 96.893
+        },
+        {
+          "id": "zoom-zoom-3834-t37",
+          "title": "Kapitel 37: Zoomania",
+          "index": 36,
+          "startTime": 3262.705,
+          "duration": 87.427
+        },
+        {
+          "id": "zoom-zoom-3834-t38",
+          "title": "Kapitel 38: Zoomania",
+          "index": 37,
+          "startTime": 3350.132,
+          "duration": 86.76
+        },
+        {
+          "id": "zoom-zoom-3834-t39",
+          "title": "Kapitel 39: Zoomania",
+          "index": 38,
+          "startTime": 3436.892,
+          "duration": 88.947
+        },
+        {
+          "id": "zoom-zoom-3834-t40",
+          "title": "Kapitel 40: Zoomania",
+          "index": 39,
+          "startTime": 3525.839,
+          "duration": 92.253
+        },
+        {
+          "id": "zoom-zoom-3834-t41",
+          "title": "Kapitel 41: Zoomania",
+          "index": 40,
+          "startTime": 3618.092,
+          "duration": 91.613
+        },
+        {
+          "id": "zoom-zoom-3834-t42",
+          "title": "Kapitel 42: Zoomania",
+          "index": 41,
+          "startTime": 3709.705,
+          "duration": 89.12
+        },
+        {
+          "id": "zoom-zoom-3834-t43",
+          "title": "Kapitel 43: Zoomania",
+          "index": 42,
+          "startTime": 3798.825,
+          "duration": 96.16
+        },
+        {
+          "id": "zoom-zoom-3834-t44",
+          "title": "Kapitel 44: Zoomania",
+          "index": 43,
+          "startTime": 3894.985,
+          "duration": 84.12
+        },
+        {
+          "id": "zoom-zoom-3834-t45",
+          "title": "Kapitel 45: Zoomania",
+          "index": 44,
+          "startTime": 3979.105,
+          "duration": 91.813
+        },
+        {
+          "id": "zoom-zoom-3834-t46",
+          "title": "Kapitel 46: Zoomania",
+          "index": 45,
+          "startTime": 4070.918,
+          "duration": 82.893
+        },
+        {
+          "id": "zoom-zoom-3834-t47",
+          "title": "Kapitel 47: Zoomania",
+          "index": 46,
+          "startTime": 4153.811,
+          "duration": 96.827
+        },
+        {
+          "id": "zoom-zoom-3834-t48",
+          "title": "Kapitel 48: Zoomania",
+          "index": 47,
+          "startTime": 4250.638,
+          "duration": 91.187
+        },
+        {
+          "id": "zoom-zoom-3834-t49",
+          "title": "Kapitel 49: Zoomania",
+          "index": 48,
+          "startTime": 4341.825,
+          "duration": 90.053
+        },
+        {
+          "id": "zoom-zoom-3834-t50",
+          "title": "Kapitel 50: Zoomania",
+          "index": 49,
+          "startTime": 4431.878,
+          "duration": 94.467
+        }
+      ]
     },
     {
       "id": "1855903041",
@@ -28,11 +379,320 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/05/64/8f056499-224b-be8b-d23c-459a5a71bb54/4069829199797.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel-Album, das zum Disney-Film 'Zoomania 2' gehört.",
-      "totalDuration": 0,
+      "totalDuration": 4682.998,
       "platforms": {
         "appleMusic": "1855903041"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "zoom-zoom-3041-t01",
+          "title": "Kapitel 01: Zoomania 2",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 109.811
+        },
+        {
+          "id": "zoom-zoom-3041-t02",
+          "title": "Kapitel 02: Zoomania 2",
+          "index": 1,
+          "startTime": 109.811,
+          "duration": 110.171
+        },
+        {
+          "id": "zoom-zoom-3041-t03",
+          "title": "Kapitel 03: Zoomania 2",
+          "index": 2,
+          "startTime": 219.982,
+          "duration": 109.398
+        },
+        {
+          "id": "zoom-zoom-3041-t04",
+          "title": "Kapitel 04: Zoomania 2",
+          "index": 3,
+          "startTime": 329.38,
+          "duration": 103.947
+        },
+        {
+          "id": "zoom-zoom-3041-t05",
+          "title": "Kapitel 05: Zoomania 2",
+          "index": 4,
+          "startTime": 433.327,
+          "duration": 110.354
+        },
+        {
+          "id": "zoom-zoom-3041-t06",
+          "title": "Kapitel 06: Zoomania 2",
+          "index": 5,
+          "startTime": 543.681,
+          "duration": 99.088
+        },
+        {
+          "id": "zoom-zoom-3041-t07",
+          "title": "Kapitel 07: Zoomania 2",
+          "index": 6,
+          "startTime": 642.769,
+          "duration": 111.433
+        },
+        {
+          "id": "zoom-zoom-3041-t08",
+          "title": "Kapitel 08: Zoomania 2",
+          "index": 7,
+          "startTime": 754.202,
+          "duration": 103.942
+        },
+        {
+          "id": "zoom-zoom-3041-t09",
+          "title": "Kapitel 09: Zoomania 2",
+          "index": 8,
+          "startTime": 858.144,
+          "duration": 109.3
+        },
+        {
+          "id": "zoom-zoom-3041-t10",
+          "title": "Kapitel 10: Zoomania 2",
+          "index": 9,
+          "startTime": 967.444,
+          "duration": 104.59
+        },
+        {
+          "id": "zoom-zoom-3041-t11",
+          "title": "Kapitel 11: Zoomania 2",
+          "index": 10,
+          "startTime": 1072.034,
+          "duration": 101.052
+        },
+        {
+          "id": "zoom-zoom-3041-t12",
+          "title": "Kapitel 12: Zoomania 2",
+          "index": 11,
+          "startTime": 1173.086,
+          "duration": 103.793
+        },
+        {
+          "id": "zoom-zoom-3041-t13",
+          "title": "Kapitel 13: Zoomania 2",
+          "index": 12,
+          "startTime": 1276.879,
+          "duration": 108.712
+        },
+        {
+          "id": "zoom-zoom-3041-t14",
+          "title": "Kapitel 14: Zoomania 2",
+          "index": 13,
+          "startTime": 1385.591,
+          "duration": 101.66
+        },
+        {
+          "id": "zoom-zoom-3041-t15",
+          "title": "Kapitel 15: Zoomania 2",
+          "index": 14,
+          "startTime": 1487.251,
+          "duration": 107.62
+        },
+        {
+          "id": "zoom-zoom-3041-t16",
+          "title": "Kapitel 16: Zoomania 2",
+          "index": 15,
+          "startTime": 1594.871,
+          "duration": 108.049
+        },
+        {
+          "id": "zoom-zoom-3041-t17",
+          "title": "Kapitel 17: Zoomania 2",
+          "index": 16,
+          "startTime": 1702.92,
+          "duration": 105.875
+        },
+        {
+          "id": "zoom-zoom-3041-t18",
+          "title": "Kapitel 18: Zoomania 2",
+          "index": 17,
+          "startTime": 1808.795,
+          "duration": 106.113
+        },
+        {
+          "id": "zoom-zoom-3041-t19",
+          "title": "Kapitel 19: Zoomania 2",
+          "index": 18,
+          "startTime": 1914.908,
+          "duration": 111.245
+        },
+        {
+          "id": "zoom-zoom-3041-t20",
+          "title": "Kapitel 20: Zoomania 2",
+          "index": 19,
+          "startTime": 2026.153,
+          "duration": 99.54
+        },
+        {
+          "id": "zoom-zoom-3041-t21",
+          "title": "Kapitel 21: Zoomania 2",
+          "index": 20,
+          "startTime": 2125.693,
+          "duration": 108.228
+        },
+        {
+          "id": "zoom-zoom-3041-t22",
+          "title": "Kapitel 22: Zoomania 2",
+          "index": 21,
+          "startTime": 2233.921,
+          "duration": 100.916
+        },
+        {
+          "id": "zoom-zoom-3041-t23",
+          "title": "Kapitel 23: Zoomania 2",
+          "index": 22,
+          "startTime": 2334.837,
+          "duration": 99.09
+        },
+        {
+          "id": "zoom-zoom-3041-t24",
+          "title": "Kapitel 24: Zoomania 2",
+          "index": 23,
+          "startTime": 2433.927,
+          "duration": 111.59
+        },
+        {
+          "id": "zoom-zoom-3041-t25",
+          "title": "Kapitel 25: Zoomania 2",
+          "index": 24,
+          "startTime": 2545.517,
+          "duration": 107.686
+        },
+        {
+          "id": "zoom-zoom-3041-t26",
+          "title": "Kapitel 26: Zoomania 2",
+          "index": 25,
+          "startTime": 2653.203,
+          "duration": 102.653
+        },
+        {
+          "id": "zoom-zoom-3041-t27",
+          "title": "Kapitel 27: Zoomania 2",
+          "index": 26,
+          "startTime": 2755.856,
+          "duration": 104.921
+        },
+        {
+          "id": "zoom-zoom-3041-t28",
+          "title": "Kapitel 28: Zoomania 2",
+          "index": 27,
+          "startTime": 2860.777,
+          "duration": 106.231
+        },
+        {
+          "id": "zoom-zoom-3041-t29",
+          "title": "Kapitel 29: Zoomania 2",
+          "index": 28,
+          "startTime": 2967.008,
+          "duration": 101.294
+        },
+        {
+          "id": "zoom-zoom-3041-t30",
+          "title": "Kapitel 30: Zoomania 2",
+          "index": 29,
+          "startTime": 3068.302,
+          "duration": 105.551
+        },
+        {
+          "id": "zoom-zoom-3041-t31",
+          "title": "Kapitel 31: Zoomania 2",
+          "index": 30,
+          "startTime": 3173.853,
+          "duration": 108.929
+        },
+        {
+          "id": "zoom-zoom-3041-t32",
+          "title": "Kapitel 32: Zoomania 2",
+          "index": 31,
+          "startTime": 3282.782,
+          "duration": 106.561
+        },
+        {
+          "id": "zoom-zoom-3041-t33",
+          "title": "Kapitel 33: Zoomania 2",
+          "index": 32,
+          "startTime": 3389.343,
+          "duration": 106.007
+        },
+        {
+          "id": "zoom-zoom-3041-t34",
+          "title": "Kapitel 34: Zoomania 2",
+          "index": 33,
+          "startTime": 3495.35,
+          "duration": 107.94
+        },
+        {
+          "id": "zoom-zoom-3041-t35",
+          "title": "Kapitel 35: Zoomania 2",
+          "index": 34,
+          "startTime": 3603.29,
+          "duration": 99.914
+        },
+        {
+          "id": "zoom-zoom-3041-t36",
+          "title": "Kapitel 36: Zoomania 2",
+          "index": 35,
+          "startTime": 3703.204,
+          "duration": 107.509
+        },
+        {
+          "id": "zoom-zoom-3041-t37",
+          "title": "Kapitel 37: Zoomania 2",
+          "index": 36,
+          "startTime": 3810.713,
+          "duration": 109.963
+        },
+        {
+          "id": "zoom-zoom-3041-t38",
+          "title": "Kapitel 38: Zoomania 2",
+          "index": 37,
+          "startTime": 3920.676,
+          "duration": 104.755
+        },
+        {
+          "id": "zoom-zoom-3041-t39",
+          "title": "Kapitel 39: Zoomania 2",
+          "index": 38,
+          "startTime": 4025.431,
+          "duration": 110.374
+        },
+        {
+          "id": "zoom-zoom-3041-t40",
+          "title": "Kapitel 40: Zoomania 2",
+          "index": 39,
+          "startTime": 4135.805,
+          "duration": 108.743
+        },
+        {
+          "id": "zoom-zoom-3041-t41",
+          "title": "Kapitel 41: Zoomania 2",
+          "index": 40,
+          "startTime": 4244.548,
+          "duration": 106.681
+        },
+        {
+          "id": "zoom-zoom-3041-t42",
+          "title": "Kapitel 42: Zoomania 2",
+          "index": 41,
+          "startTime": 4351.229,
+          "duration": 113.421
+        },
+        {
+          "id": "zoom-zoom-3041-t43",
+          "title": "Kapitel 43: Zoomania 2",
+          "index": 42,
+          "startTime": 4464.65,
+          "duration": 105.348
+        },
+        {
+          "id": "zoom-zoom-3041-t44",
+          "title": "Kapitel 44: Zoomania 2",
+          "index": 43,
+          "startTime": 4569.998,
+          "duration": 113.0
+        }
+      ]
     },
     {
       "id": "1737005277",
@@ -41,12 +701,230 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/4c/c8/324cc82a-686a-0610-9774-e35c820d4c45/4099995344516.jpg/100x100bb.jpg",
       "description": "Das Album 'Zoomania+ (Das Original-Hörspiel zur TV-Serie)' ist ein Hörspielalbum des Künstlers Zoomania. Es enthält insgesamt 31 Tracks und gehört zum Genre Hörspiel.",
-      "totalDuration": 0,
+      "totalDuration": 3087.499,
       "platforms": {
         "appleMusic": "1737005277"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "zoom-zoom-5277-t01",
+          "title": "Kapitel 01: Baby an Bord",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 91.925
+        },
+        {
+          "id": "zoom-zoom-5277-t02",
+          "title": "Kapitel 02: Baby an Bord",
+          "index": 1,
+          "startTime": 91.925,
+          "duration": 90.253
+        },
+        {
+          "id": "zoom-zoom-5277-t03",
+          "title": "Kapitel 03: Baby an Bord",
+          "index": 2,
+          "startTime": 182.178,
+          "duration": 90.044
+        },
+        {
+          "id": "zoom-zoom-5277-t04",
+          "title": "Kapitel 04: Baby an Bord",
+          "index": 3,
+          "startTime": 272.222,
+          "duration": 90.686
+        },
+        {
+          "id": "zoom-zoom-5277-t05",
+          "title": "Kapitel 05: Baby an Bord",
+          "index": 4,
+          "startTime": 362.908,
+          "duration": 92.113
+        },
+        {
+          "id": "zoom-zoom-5277-t06",
+          "title": "Kapitel 06: Baby an Bord",
+          "index": 5,
+          "startTime": 455.021,
+          "duration": 91.098
+        },
+        {
+          "id": "zoom-zoom-5277-t07",
+          "title": "Kapitel 01: Neues von den Nagern aus Klein Nageria",
+          "index": 6,
+          "startTime": 546.119,
+          "duration": 101.204
+        },
+        {
+          "id": "zoom-zoom-5277-t08",
+          "title": "Kapitel 02: Neues von den Nagern aus Klein Nageria",
+          "index": 7,
+          "startTime": 647.323,
+          "duration": 104.782
+        },
+        {
+          "id": "zoom-zoom-5277-t09",
+          "title": "Kapitel 03: Neues von den Nagern aus Klein Nageria",
+          "index": 8,
+          "startTime": 752.105,
+          "duration": 114.035
+        },
+        {
+          "id": "zoom-zoom-5277-t10",
+          "title": "Kapitel 04: Neues von den Nagern aus Klein Nageria",
+          "index": 9,
+          "startTime": 866.14,
+          "duration": 103.77
+        },
+        {
+          "id": "zoom-zoom-5277-t11",
+          "title": "Kapitel 05: Neues von den Nagern aus Klein Nageria",
+          "index": 10,
+          "startTime": 969.91,
+          "duration": 105.77
+        },
+        {
+          "id": "zoom-zoom-5277-t12",
+          "title": "Kapitel 01: Der Pate der Braut",
+          "index": 11,
+          "startTime": 1075.68,
+          "duration": 103.398
+        },
+        {
+          "id": "zoom-zoom-5277-t13",
+          "title": "Kapitel 02: Der Pate der Braut",
+          "index": 12,
+          "startTime": 1179.078,
+          "duration": 94.387
+        },
+        {
+          "id": "zoom-zoom-5277-t14",
+          "title": "Kapitel 03: Der Pate der Braut",
+          "index": 13,
+          "startTime": 1273.465,
+          "duration": 100.037
+        },
+        {
+          "id": "zoom-zoom-5277-t15",
+          "title": "Kapitel 04: Der Pate der Braut",
+          "index": 14,
+          "startTime": 1373.502,
+          "duration": 100.313
+        },
+        {
+          "id": "zoom-zoom-5277-t16",
+          "title": "Kapitel 05: Der Pate der Braut",
+          "index": 15,
+          "startTime": 1473.815,
+          "duration": 90.064
+        },
+        {
+          "id": "zoom-zoom-5277-t17",
+          "title": "Kapitel 01: Du glaubst also, du kannst tanzen",
+          "index": 16,
+          "startTime": 1563.879,
+          "duration": 109.999
+        },
+        {
+          "id": "zoom-zoom-5277-t18",
+          "title": "Kapitel 02: Du glaubst also, du kannst tanzen",
+          "index": 17,
+          "startTime": 1673.878,
+          "duration": 106.004
+        },
+        {
+          "id": "zoom-zoom-5277-t19",
+          "title": "Kapitel 03: Du glaubst also, du kannst tanzen",
+          "index": 18,
+          "startTime": 1779.882,
+          "duration": 104.299
+        },
+        {
+          "id": "zoom-zoom-5277-t20",
+          "title": "Kapitel 04: Du glaubst also, du kannst tanzen",
+          "index": 19,
+          "startTime": 1884.181,
+          "duration": 110.695
+        },
+        {
+          "id": "zoom-zoom-5277-t21",
+          "title": "Kapitel 05: Du glaubst also, du kannst tanzen",
+          "index": 20,
+          "startTime": 1994.876,
+          "duration": 97.019
+        },
+        {
+          "id": "zoom-zoom-5277-t22",
+          "title": "Kapitel 06: Du glaubst also, du kannst tanzen",
+          "index": 21,
+          "startTime": 2091.895,
+          "duration": 95.77
+        },
+        {
+          "id": "zoom-zoom-5277-t23",
+          "title": "Kapitel 07: Du glaubst also, du kannst tanzen",
+          "index": 22,
+          "startTime": 2187.665,
+          "duration": 95.813
+        },
+        {
+          "id": "zoom-zoom-5277-t24",
+          "title": "Kapitel 01: Ein schnelles Abendessen",
+          "index": 23,
+          "startTime": 2283.478,
+          "duration": 102.677
+        },
+        {
+          "id": "zoom-zoom-5277-t25",
+          "title": "Kapitel 02: Ein schnelles Abendessen",
+          "index": 24,
+          "startTime": 2386.155,
+          "duration": 102.255
+        },
+        {
+          "id": "zoom-zoom-5277-t26",
+          "title": "Kapitel 03: Ein schnelles Abendessen",
+          "index": 25,
+          "startTime": 2488.41,
+          "duration": 101.182
+        },
+        {
+          "id": "zoom-zoom-5277-t27",
+          "title": "Kapitel 04: Ein schnelles Abendessen",
+          "index": 26,
+          "startTime": 2589.592,
+          "duration": 110.15
+        },
+        {
+          "id": "zoom-zoom-5277-t28",
+          "title": "Kapitel 05: Ein schnelles Abendessen",
+          "index": 27,
+          "startTime": 2699.742,
+          "duration": 90.622
+        },
+        {
+          "id": "zoom-zoom-5277-t29",
+          "title": "Kapitel 06: Ein schnelles Abendessen",
+          "index": 28,
+          "startTime": 2790.364,
+          "duration": 102.508
+        },
+        {
+          "id": "zoom-zoom-5277-t30",
+          "title": "Kapitel 07: Ein schnelles Abendessen",
+          "index": 29,
+          "startTime": 2892.872,
+          "duration": 97.887
+        },
+        {
+          "id": "zoom-zoom-5277-t31",
+          "title": "Kapitel 08: Ein schnelles Abendessen",
+          "index": 30,
+          "startTime": 2990.759,
+          "duration": 96.74
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

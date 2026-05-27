@@ -15,11 +15,138 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e5/8d/94/e58d94d4-03b9-c08a-0142-f66e27b7b192/mzm.kjyzkchm.jpg/100x100bb.jpg",
       "description": "Ein spannendes Hörspielalbum, das sich in einer futuristischen Welt abspielt.",
-      "totalDuration": 0,
+      "totalDuration": 4658.627,
       "platforms": {
         "appleMusic": "1034806500"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-plan-6500-t01",
+          "title": "Planet Eden, Teil 1 - Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 29.16
+        },
+        {
+          "id": "plan-plan-6500-t02",
+          "title": "Planet Eden, Teil 1 - Kapitel 2",
+          "index": 1,
+          "startTime": 29.16,
+          "duration": 240.973
+        },
+        {
+          "id": "plan-plan-6500-t03",
+          "title": "Planet Eden, Teil 1 - Kapitel 3",
+          "index": 2,
+          "startTime": 270.133,
+          "duration": 195.307
+        },
+        {
+          "id": "plan-plan-6500-t04",
+          "title": "Planet Eden, Teil 1 - Kapitel 4",
+          "index": 3,
+          "startTime": 465.44,
+          "duration": 330.227
+        },
+        {
+          "id": "plan-plan-6500-t05",
+          "title": "Planet Eden, Teil 1 - Kapitel 5",
+          "index": 4,
+          "startTime": 795.667,
+          "duration": 259.507
+        },
+        {
+          "id": "plan-plan-6500-t06",
+          "title": "Planet Eden, Teil 1 - Kapitel 6",
+          "index": 5,
+          "startTime": 1055.174,
+          "duration": 449.293
+        },
+        {
+          "id": "plan-plan-6500-t07",
+          "title": "Planet Eden, Teil 1 - Kapitel 7",
+          "index": 6,
+          "startTime": 1504.467,
+          "duration": 220.653
+        },
+        {
+          "id": "plan-plan-6500-t08",
+          "title": "Planet Eden, Teil 1 - Kapitel 8",
+          "index": 7,
+          "startTime": 1725.12,
+          "duration": 147.987
+        },
+        {
+          "id": "plan-plan-6500-t09",
+          "title": "Planet Eden, Teil 1 - Kapitel 9",
+          "index": 8,
+          "startTime": 1873.107,
+          "duration": 334.973
+        },
+        {
+          "id": "plan-plan-6500-t10",
+          "title": "Planet Eden, Teil 1 - Kapitel 10",
+          "index": 9,
+          "startTime": 2208.08,
+          "duration": 85.587
+        },
+        {
+          "id": "plan-plan-6500-t11",
+          "title": "Planet Eden, Teil 1 - Kapitel 11",
+          "index": 10,
+          "startTime": 2293.667,
+          "duration": 184.48
+        },
+        {
+          "id": "plan-plan-6500-t12",
+          "title": "Planet Eden, Teil 1 - Kapitel 12",
+          "index": 11,
+          "startTime": 2478.147,
+          "duration": 216.107
+        },
+        {
+          "id": "plan-plan-6500-t13",
+          "title": "Planet Eden, Teil 1 - Kapitel 13",
+          "index": 12,
+          "startTime": 2694.254,
+          "duration": 328.907
+        },
+        {
+          "id": "plan-plan-6500-t14",
+          "title": "Planet Eden, Teil 1 - Kapitel 14",
+          "index": 13,
+          "startTime": 3023.161,
+          "duration": 280.16
+        },
+        {
+          "id": "plan-plan-6500-t15",
+          "title": "Planet Eden, Teil 1 - Kapitel 15",
+          "index": 14,
+          "startTime": 3303.321,
+          "duration": 242.52
+        },
+        {
+          "id": "plan-plan-6500-t16",
+          "title": "Planet Eden, Teil 1 - Kapitel 16",
+          "index": 15,
+          "startTime": 3545.841,
+          "duration": 193.68
+        },
+        {
+          "id": "plan-plan-6500-t17",
+          "title": "Planet Eden, Teil 1 - Kapitel 17",
+          "index": 16,
+          "startTime": 3739.521,
+          "duration": 788.613
+        },
+        {
+          "id": "plan-plan-6500-t18",
+          "title": "Planet Eden, Teil 1 - Kapitel 18",
+          "index": 17,
+          "startTime": 4528.134,
+          "duration": 130.493
+        }
+      ]
     },
     {
       "id": "1035333775",
@@ -28,11 +155,152 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/0b/38/b00b3801-bf57-86fa-1ef8-727c0e59e034/mzm.utlqekck.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspielalbum mit 20 Geschichten, das auf Apple Music verfügbar ist.",
-      "totalDuration": 0,
+      "totalDuration": 3833.161,
       "platforms": {
         "appleMusic": "1035333775"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-plan-3775-t01",
+          "title": "Planet Eden, Teil 2 - Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 31.853
+        },
+        {
+          "id": "plan-plan-3775-t02",
+          "title": "Planet Eden, Teil 2 - Kapitel 2",
+          "index": 1,
+          "startTime": 31.853,
+          "duration": 264.56
+        },
+        {
+          "id": "plan-plan-3775-t03",
+          "title": "Planet Eden, Teil 2 - Kapitel 3",
+          "index": 2,
+          "startTime": 296.413,
+          "duration": 204.12
+        },
+        {
+          "id": "plan-plan-3775-t04",
+          "title": "Planet Eden, Teil 2 - Kapitel 4",
+          "index": 3,
+          "startTime": 500.533,
+          "duration": 181.44
+        },
+        {
+          "id": "plan-plan-3775-t05",
+          "title": "Planet Eden, Teil 2 - Kapitel 5",
+          "index": 4,
+          "startTime": 681.973,
+          "duration": 193.747
+        },
+        {
+          "id": "plan-plan-3775-t06",
+          "title": "Planet Eden, Teil 2 - Kapitel 6",
+          "index": 5,
+          "startTime": 875.72,
+          "duration": 482.96
+        },
+        {
+          "id": "plan-plan-3775-t07",
+          "title": "Planet Eden, Teil 2 - Kapitel 7",
+          "index": 6,
+          "startTime": 1358.68,
+          "duration": 177.373
+        },
+        {
+          "id": "plan-plan-3775-t08",
+          "title": "Planet Eden, Teil 2 - Kapitel 8",
+          "index": 7,
+          "startTime": 1536.053,
+          "duration": 256.0
+        },
+        {
+          "id": "plan-plan-3775-t09",
+          "title": "Planet Eden, Teil 2 - Kapitel 9",
+          "index": 8,
+          "startTime": 1792.053,
+          "duration": 247.627
+        },
+        {
+          "id": "plan-plan-3775-t10",
+          "title": "Planet Eden, Teil 2 - Kapitel 10",
+          "index": 9,
+          "startTime": 2039.68,
+          "duration": 93.027
+        },
+        {
+          "id": "plan-plan-3775-t11",
+          "title": "Planet Eden, Teil 2 - Kapitel 11",
+          "index": 10,
+          "startTime": 2132.707,
+          "duration": 94.52
+        },
+        {
+          "id": "plan-plan-3775-t12",
+          "title": "Planet Eden, Teil 2 - Kapitel 12",
+          "index": 11,
+          "startTime": 2227.227,
+          "duration": 153.267
+        },
+        {
+          "id": "plan-plan-3775-t13",
+          "title": "Planet Eden, Teil 2 - Kapitel 13",
+          "index": 12,
+          "startTime": 2380.494,
+          "duration": 378.653
+        },
+        {
+          "id": "plan-plan-3775-t14",
+          "title": "Planet Eden, Teil 2 - Kapitel 14",
+          "index": 13,
+          "startTime": 2759.147,
+          "duration": 262.387
+        },
+        {
+          "id": "plan-plan-3775-t15",
+          "title": "Planet Eden, Teil 2 - Kapitel 15",
+          "index": 14,
+          "startTime": 3021.534,
+          "duration": 102.907
+        },
+        {
+          "id": "plan-plan-3775-t16",
+          "title": "Planet Eden, Teil 2 - Kapitel 16",
+          "index": 15,
+          "startTime": 3124.441,
+          "duration": 237.4
+        },
+        {
+          "id": "plan-plan-3775-t17",
+          "title": "Planet Eden, Teil 2 - Kapitel 17",
+          "index": 16,
+          "startTime": 3361.841,
+          "duration": 153.947
+        },
+        {
+          "id": "plan-plan-3775-t18",
+          "title": "Planet Eden, Teil 2 - Kapitel 18",
+          "index": 17,
+          "startTime": 3515.788,
+          "duration": 85.427
+        },
+        {
+          "id": "plan-plan-3775-t19",
+          "title": "Planet Eden, Teil 2 - Kapitel 19",
+          "index": 18,
+          "startTime": 3601.215,
+          "duration": 132.173
+        },
+        {
+          "id": "plan-plan-3775-t20",
+          "title": "Planet Eden, Teil 2 - Kapitel 20",
+          "index": 19,
+          "startTime": 3733.388,
+          "duration": 99.773
+        }
+      ]
     },
     {
       "id": "1035332134",
@@ -41,11 +309,166 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/1d/e8/f3/1de8f3d0-3ac9-336f-458a-dac490b34978/4260147775827_1448.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel von Planet Eden mit 22 Tracks.",
-      "totalDuration": 0,
+      "totalDuration": 3151.826,
       "platforms": {
         "appleMusic": "1035332134"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-2134-t01",
+          "title": "Planet Eden, Teil 3 - Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 27.947
+        },
+        {
+          "id": "plan-teil-2134-t02",
+          "title": "Planet Eden, Teil 3 - Kapitel 2",
+          "index": 1,
+          "startTime": 27.947,
+          "duration": 302.24
+        },
+        {
+          "id": "plan-teil-2134-t03",
+          "title": "Planet Eden, Teil 3 - Kapitel 3",
+          "index": 2,
+          "startTime": 330.187,
+          "duration": 289.8
+        },
+        {
+          "id": "plan-teil-2134-t04",
+          "title": "Planet Eden, Teil 3 - Kapitel 4",
+          "index": 3,
+          "startTime": 619.987,
+          "duration": 186.453
+        },
+        {
+          "id": "plan-teil-2134-t05",
+          "title": "Planet Eden, Teil 3 - Kapitel 5",
+          "index": 4,
+          "startTime": 806.44,
+          "duration": 127.64
+        },
+        {
+          "id": "plan-teil-2134-t06",
+          "title": "Planet Eden, Teil 3 - Kapitel 6",
+          "index": 5,
+          "startTime": 934.08,
+          "duration": 135.147
+        },
+        {
+          "id": "plan-teil-2134-t07",
+          "title": "Planet Eden, Teil 3 - Kapitel 7",
+          "index": 6,
+          "startTime": 1069.227,
+          "duration": 242.293
+        },
+        {
+          "id": "plan-teil-2134-t08",
+          "title": "Planet Eden, Teil 3 - Kapitel 8",
+          "index": 7,
+          "startTime": 1311.52,
+          "duration": 115.72
+        },
+        {
+          "id": "plan-teil-2134-t09",
+          "title": "Planet Eden, Teil 3 - Kapitel 9",
+          "index": 8,
+          "startTime": 1427.24,
+          "duration": 118.373
+        },
+        {
+          "id": "plan-teil-2134-t10",
+          "title": "Planet Eden, Teil 3 - Kapitel 10",
+          "index": 9,
+          "startTime": 1545.613,
+          "duration": 78.387
+        },
+        {
+          "id": "plan-teil-2134-t11",
+          "title": "Planet Eden, Teil 3 - Kapitel 11",
+          "index": 10,
+          "startTime": 1624.0,
+          "duration": 96.627
+        },
+        {
+          "id": "plan-teil-2134-t12",
+          "title": "Planet Eden, Teil 3 - Kapitel 12",
+          "index": 11,
+          "startTime": 1720.627,
+          "duration": 43.453
+        },
+        {
+          "id": "plan-teil-2134-t13",
+          "title": "Planet Eden, Teil 3 - Kapitel 13",
+          "index": 12,
+          "startTime": 1764.08,
+          "duration": 97.827
+        },
+        {
+          "id": "plan-teil-2134-t14",
+          "title": "Planet Eden, Teil 3 - Kapitel 14",
+          "index": 13,
+          "startTime": 1861.907,
+          "duration": 53.093
+        },
+        {
+          "id": "plan-teil-2134-t15",
+          "title": "Planet Eden, Teil 3 - Kapitel 15",
+          "index": 14,
+          "startTime": 1915.0,
+          "duration": 100.48
+        },
+        {
+          "id": "plan-teil-2134-t16",
+          "title": "Planet Eden, Teil 3 - Kapitel 16",
+          "index": 15,
+          "startTime": 2015.48,
+          "duration": 490.507
+        },
+        {
+          "id": "plan-teil-2134-t17",
+          "title": "Planet Eden, Teil 3 - Kapitel 17",
+          "index": 16,
+          "startTime": 2505.987,
+          "duration": 75.053
+        },
+        {
+          "id": "plan-teil-2134-t18",
+          "title": "Planet Eden, Teil 3 - Kapitel 18",
+          "index": 17,
+          "startTime": 2581.04,
+          "duration": 36.733
+        },
+        {
+          "id": "plan-teil-2134-t19",
+          "title": "Planet Eden, Teil 3 - Kapitel 19",
+          "index": 18,
+          "startTime": 2617.773,
+          "duration": 37.4
+        },
+        {
+          "id": "plan-teil-2134-t20",
+          "title": "Planet Eden, Teil 3 - Kapitel 20",
+          "index": 19,
+          "startTime": 2655.173,
+          "duration": 201.493
+        },
+        {
+          "id": "plan-teil-2134-t21",
+          "title": "Planet Eden, Teil 3 - Kapitel 21",
+          "index": 20,
+          "startTime": 2856.666,
+          "duration": 130.027
+        },
+        {
+          "id": "plan-teil-2134-t22",
+          "title": "Planet Eden, Teil 3 - Kapitel 22",
+          "index": 21,
+          "startTime": 2986.693,
+          "duration": 165.133
+        }
+      ]
     },
     {
       "id": "1035333331",
@@ -54,11 +477,110 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/70/3a/8d/703a8d83-5cf4-f818-f224-e6e7958f785b/mzm.dinbojrx.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Teil einer Serie über 'Planet Eden' und gehört zum Genre der Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 3338.334,
       "platforms": {
         "appleMusic": "1035333331"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-plan-3331-t01",
+          "title": "Planet Eden, Teil 4 - Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 29.453
+        },
+        {
+          "id": "plan-plan-3331-t02",
+          "title": "Planet Eden, Teil 4 - Kapitel 2",
+          "index": 1,
+          "startTime": 29.453,
+          "duration": 112.413
+        },
+        {
+          "id": "plan-plan-3331-t03",
+          "title": "Planet Eden, Teil 4 - Kapitel 3",
+          "index": 2,
+          "startTime": 141.866,
+          "duration": 348.853
+        },
+        {
+          "id": "plan-plan-3331-t04",
+          "title": "Planet Eden, Teil 4 - Kapitel 4",
+          "index": 3,
+          "startTime": 490.719,
+          "duration": 369.56
+        },
+        {
+          "id": "plan-plan-3331-t05",
+          "title": "Planet Eden, Teil 4 - Kapitel 5",
+          "index": 4,
+          "startTime": 860.279,
+          "duration": 337.96
+        },
+        {
+          "id": "plan-plan-3331-t06",
+          "title": "Planet Eden, Teil 4 - Kapitel 6",
+          "index": 5,
+          "startTime": 1198.239,
+          "duration": 280.107
+        },
+        {
+          "id": "plan-plan-3331-t07",
+          "title": "Planet Eden, Teil 4 - Kapitel 7",
+          "index": 6,
+          "startTime": 1478.346,
+          "duration": 247.987
+        },
+        {
+          "id": "plan-plan-3331-t08",
+          "title": "Planet Eden, Teil 4 - Kapitel 8",
+          "index": 7,
+          "startTime": 1726.333,
+          "duration": 353.267
+        },
+        {
+          "id": "plan-plan-3331-t09",
+          "title": "Planet Eden, Teil 4 - Kapitel 9",
+          "index": 8,
+          "startTime": 2079.6,
+          "duration": 223.907
+        },
+        {
+          "id": "plan-plan-3331-t10",
+          "title": "Planet Eden, Teil 4 - Kapitel 10",
+          "index": 9,
+          "startTime": 2303.507,
+          "duration": 177.667
+        },
+        {
+          "id": "plan-plan-3331-t11",
+          "title": "Planet Eden, Teil 4 - Kapitel 11",
+          "index": 10,
+          "startTime": 2481.174,
+          "duration": 190.547
+        },
+        {
+          "id": "plan-plan-3331-t12",
+          "title": "Planet Eden, Teil 4 - Kapitel 12",
+          "index": 11,
+          "startTime": 2671.721,
+          "duration": 242.693
+        },
+        {
+          "id": "plan-plan-3331-t13",
+          "title": "Planet Eden, Teil 4 - Kapitel 13",
+          "index": 12,
+          "startTime": 2914.414,
+          "duration": 171.133
+        },
+        {
+          "id": "plan-plan-3331-t14",
+          "title": "Planet Eden, Teil 4 - Kapitel 14",
+          "index": 13,
+          "startTime": 3085.547,
+          "duration": 252.787
+        }
+      ]
     },
     {
       "id": "1034806499",
@@ -67,11 +589,159 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/8e/33/2a/8e332afd-0921-679a-fbf3-f4b6d9a577eb/4260147775841_1448.jpg/100x100bb.jpg",
       "description": "Ein spannendes Hörspielalbum über die fiktive Welt 'Planet Eden'.",
-      "totalDuration": 0,
+      "totalDuration": 3180.387,
       "platforms": {
         "appleMusic": "1034806499"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-plan-6499-t01",
+          "title": "Planet Eden, Teil 5 - Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 28.64
+        },
+        {
+          "id": "plan-plan-6499-t02",
+          "title": "Planet Eden, Teil 5 - Kapitel 2",
+          "index": 1,
+          "startTime": 28.64,
+          "duration": 72.973
+        },
+        {
+          "id": "plan-plan-6499-t03",
+          "title": "Planet Eden, Teil 5 - Kapitel 3",
+          "index": 2,
+          "startTime": 101.613,
+          "duration": 76.453
+        },
+        {
+          "id": "plan-plan-6499-t04",
+          "title": "Planet Eden, Teil 5 - Kapitel 4",
+          "index": 3,
+          "startTime": 178.066,
+          "duration": 132.4
+        },
+        {
+          "id": "plan-plan-6499-t05",
+          "title": "Planet Eden, Teil 5 - Kapitel 5",
+          "index": 4,
+          "startTime": 310.466,
+          "duration": 150.8
+        },
+        {
+          "id": "plan-plan-6499-t06",
+          "title": "Planet Eden, Teil 5 - Kapitel 6",
+          "index": 5,
+          "startTime": 461.266,
+          "duration": 121.387
+        },
+        {
+          "id": "plan-plan-6499-t07",
+          "title": "Planet Eden, Teil 5 - Kapitel 7",
+          "index": 6,
+          "startTime": 582.653,
+          "duration": 56.413
+        },
+        {
+          "id": "plan-plan-6499-t08",
+          "title": "Planet Eden, Teil 5 - Kapitel 8",
+          "index": 7,
+          "startTime": 639.066,
+          "duration": 67.52
+        },
+        {
+          "id": "plan-plan-6499-t09",
+          "title": "Planet Eden, Teil 5 - Kapitel 9",
+          "index": 8,
+          "startTime": 706.586,
+          "duration": 94.747
+        },
+        {
+          "id": "plan-plan-6499-t10",
+          "title": "Planet Eden, Teil 5 - Kapitel 10",
+          "index": 9,
+          "startTime": 801.333,
+          "duration": 74.187
+        },
+        {
+          "id": "plan-plan-6499-t11",
+          "title": "Planet Eden, Teil 5 - Kapitel 11",
+          "index": 10,
+          "startTime": 875.52,
+          "duration": 309.64
+        },
+        {
+          "id": "plan-plan-6499-t12",
+          "title": "Planet Eden, Teil 5 - Kapitel 12",
+          "index": 11,
+          "startTime": 1185.16,
+          "duration": 100.973
+        },
+        {
+          "id": "plan-plan-6499-t13",
+          "title": "Planet Eden, Teil 5 - Kapitel 13",
+          "index": 12,
+          "startTime": 1286.133,
+          "duration": 378.76
+        },
+        {
+          "id": "plan-plan-6499-t14",
+          "title": "Planet Eden, Teil 5 - Kapitel 14",
+          "index": 13,
+          "startTime": 1664.893,
+          "duration": 115.133
+        },
+        {
+          "id": "plan-plan-6499-t15",
+          "title": "Planet Eden, Teil 5 - Kapitel 15",
+          "index": 14,
+          "startTime": 1780.026,
+          "duration": 268.56
+        },
+        {
+          "id": "plan-plan-6499-t16",
+          "title": "Planet Eden, Teil 5 - Kapitel 16",
+          "index": 15,
+          "startTime": 2048.586,
+          "duration": 153.32
+        },
+        {
+          "id": "plan-plan-6499-t17",
+          "title": "Planet Eden, Teil 5 - Kapitel 17",
+          "index": 16,
+          "startTime": 2201.906,
+          "duration": 168.667
+        },
+        {
+          "id": "plan-plan-6499-t18",
+          "title": "Planet Eden, Teil 5 - Kapitel 18",
+          "index": 17,
+          "startTime": 2370.573,
+          "duration": 96.147
+        },
+        {
+          "id": "plan-plan-6499-t19",
+          "title": "Planet Eden, Teil 5 - Kapitel 19",
+          "index": 18,
+          "startTime": 2466.72,
+          "duration": 146.72
+        },
+        {
+          "id": "plan-plan-6499-t20",
+          "title": "Planet Eden, Teil 5 - Kapitel 20",
+          "index": 19,
+          "startTime": 2613.44,
+          "duration": 333.467
+        },
+        {
+          "id": "plan-plan-6499-t21",
+          "title": "Planet Eden, Teil 5 - Kapitel 21",
+          "index": 20,
+          "startTime": 2946.907,
+          "duration": 233.48
+        }
+      ]
     },
     {
       "id": "1034807125",
@@ -80,11 +750,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/a2/bd/53/a2bd5332-9d50-51ae-3016-488ce361389c/mzm.focceuco.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum mit 25 Tracks im Genre 'Hörspiele', das sich in einem Science-Fiction-Universum abspielt.",
-      "totalDuration": 0,
+      "totalDuration": 3324.028,
       "platforms": {
         "appleMusic": "1034807125"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-plan-7125-t01",
+          "title": "Planet Eden, Teil 6 - Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 117.467
+        },
+        {
+          "id": "plan-plan-7125-t02",
+          "title": "Planet Eden, Teil 6 - Kapitel 2",
+          "index": 1,
+          "startTime": 117.467,
+          "duration": 196.24
+        },
+        {
+          "id": "plan-plan-7125-t03",
+          "title": "Planet Eden, Teil 6 - Kapitel 3",
+          "index": 2,
+          "startTime": 313.707,
+          "duration": 143.427
+        },
+        {
+          "id": "plan-plan-7125-t04",
+          "title": "Planet Eden, Teil 6 - Kapitel 4",
+          "index": 3,
+          "startTime": 457.134,
+          "duration": 301.707
+        },
+        {
+          "id": "plan-plan-7125-t05",
+          "title": "Planet Eden, Teil 6 - Kapitel 5",
+          "index": 4,
+          "startTime": 758.841,
+          "duration": 208.667
+        },
+        {
+          "id": "plan-plan-7125-t06",
+          "title": "Planet Eden, Teil 6 - Kapitel 6",
+          "index": 5,
+          "startTime": 967.508,
+          "duration": 109.587
+        },
+        {
+          "id": "plan-plan-7125-t07",
+          "title": "Planet Eden, Teil 6 - Kapitel 7",
+          "index": 6,
+          "startTime": 1077.095,
+          "duration": 123.173
+        },
+        {
+          "id": "plan-plan-7125-t08",
+          "title": "Planet Eden, Teil 6 - Kapitel 8",
+          "index": 7,
+          "startTime": 1200.268,
+          "duration": 124.613
+        },
+        {
+          "id": "plan-plan-7125-t09",
+          "title": "Planet Eden, Teil 6 - Kapitel 9",
+          "index": 8,
+          "startTime": 1324.881,
+          "duration": 186.72
+        },
+        {
+          "id": "plan-plan-7125-t10",
+          "title": "Planet Eden, Teil 6 - Kapitel 10",
+          "index": 9,
+          "startTime": 1511.601,
+          "duration": 112.693
+        },
+        {
+          "id": "plan-plan-7125-t11",
+          "title": "Planet Eden, Teil 6 - Kapitel 11",
+          "index": 10,
+          "startTime": 1624.294,
+          "duration": 148.813
+        },
+        {
+          "id": "plan-plan-7125-t12",
+          "title": "Planet Eden, Teil 6 - Kapitel 12",
+          "index": 11,
+          "startTime": 1773.107,
+          "duration": 134.04
+        },
+        {
+          "id": "plan-plan-7125-t13",
+          "title": "Planet Eden, Teil 6 - Kapitel 13",
+          "index": 12,
+          "startTime": 1907.147,
+          "duration": 112.48
+        },
+        {
+          "id": "plan-plan-7125-t14",
+          "title": "Planet Eden, Teil 6 - Kapitel 14",
+          "index": 13,
+          "startTime": 2019.627,
+          "duration": 214.84
+        },
+        {
+          "id": "plan-plan-7125-t15",
+          "title": "Planet Eden, Teil 6 - Kapitel 15",
+          "index": 14,
+          "startTime": 2234.467,
+          "duration": 156.88
+        },
+        {
+          "id": "plan-plan-7125-t16",
+          "title": "Planet Eden, Teil 6 - Kapitel 16",
+          "index": 15,
+          "startTime": 2391.347,
+          "duration": 64.027
+        },
+        {
+          "id": "plan-plan-7125-t17",
+          "title": "Planet Eden, Teil 6 - Kapitel 17",
+          "index": 16,
+          "startTime": 2455.374,
+          "duration": 151.0
+        },
+        {
+          "id": "plan-plan-7125-t18",
+          "title": "Planet Eden, Teil 6 - Kapitel 18",
+          "index": 17,
+          "startTime": 2606.374,
+          "duration": 85.187
+        },
+        {
+          "id": "plan-plan-7125-t19",
+          "title": "Planet Eden, Teil 6 - Kapitel 19",
+          "index": 18,
+          "startTime": 2691.561,
+          "duration": 54.16
+        },
+        {
+          "id": "plan-plan-7125-t20",
+          "title": "Planet Eden, Teil 6 - Kapitel 20",
+          "index": 19,
+          "startTime": 2745.721,
+          "duration": 69.747
+        },
+        {
+          "id": "plan-plan-7125-t21",
+          "title": "Planet Eden, Teil 6 - Kapitel 21",
+          "index": 20,
+          "startTime": 2815.468,
+          "duration": 32.8
+        },
+        {
+          "id": "plan-plan-7125-t22",
+          "title": "Planet Eden, Teil 6 - Kapitel 22",
+          "index": 21,
+          "startTime": 2848.268,
+          "duration": 202.64
+        },
+        {
+          "id": "plan-plan-7125-t23",
+          "title": "Planet Eden, Teil 6 - Kapitel 23",
+          "index": 22,
+          "startTime": 3050.908,
+          "duration": 111.507
+        },
+        {
+          "id": "plan-plan-7125-t24",
+          "title": "Planet Eden, Teil 6 - Kapitel 24",
+          "index": 23,
+          "startTime": 3162.415,
+          "duration": 30.333
+        },
+        {
+          "id": "plan-plan-7125-t25",
+          "title": "Planet Eden, Teil 6 - Kapitel 25",
+          "index": 24,
+          "startTime": 3192.748,
+          "duration": 131.28
+        }
+      ]
     },
     {
       "id": "1604390588",
@@ -93,11 +939,208 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/de/0c/91de0c7a-c644-d92c-ff70-cb839d3717e7/4260507171160_3000.jpg/100x100bb.jpg",
       "description": "Ein Album mit 28 Tracks des Künstlers Planet Eden, das sich im Genre Hörspiele bewegt.",
-      "totalDuration": 0,
+      "totalDuration": 2540.998,
       "platforms": {
         "appleMusic": "1604390588"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-0588-t01",
+          "title": "Kapitel 1 - Teil 7: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.686
+        },
+        {
+          "id": "plan-teil-0588-t02",
+          "title": "Kapitel 2 - Teil 7: Planet Eden",
+          "index": 1,
+          "startTime": 90.686,
+          "duration": 91.157
+        },
+        {
+          "id": "plan-teil-0588-t03",
+          "title": "Kapitel 3 - Teil 7: Planet Eden",
+          "index": 2,
+          "startTime": 181.843,
+          "duration": 90.151
+        },
+        {
+          "id": "plan-teil-0588-t04",
+          "title": "Kapitel 4 - Teil 7: Planet Eden",
+          "index": 3,
+          "startTime": 271.994,
+          "duration": 91.422
+        },
+        {
+          "id": "plan-teil-0588-t05",
+          "title": "Kapitel 5 - Teil 7: Planet Eden",
+          "index": 4,
+          "startTime": 363.416,
+          "duration": 91.387
+        },
+        {
+          "id": "plan-teil-0588-t06",
+          "title": "Kapitel 6 - Teil 7: Planet Eden",
+          "index": 5,
+          "startTime": 454.803,
+          "duration": 90.661
+        },
+        {
+          "id": "plan-teil-0588-t07",
+          "title": "Kapitel 7 - Teil 7: Planet Eden",
+          "index": 6,
+          "startTime": 545.464,
+          "duration": 91.406
+        },
+        {
+          "id": "plan-teil-0588-t08",
+          "title": "Kapitel 8 - Teil 7: Planet Eden",
+          "index": 7,
+          "startTime": 636.87,
+          "duration": 90.261
+        },
+        {
+          "id": "plan-teil-0588-t09",
+          "title": "Kapitel 9 - Teil 7: Planet Eden",
+          "index": 8,
+          "startTime": 727.131,
+          "duration": 92.808
+        },
+        {
+          "id": "plan-teil-0588-t10",
+          "title": "Kapitel 10 - Teil 7: Planet Eden",
+          "index": 9,
+          "startTime": 819.939,
+          "duration": 90.879
+        },
+        {
+          "id": "plan-teil-0588-t11",
+          "title": "Kapitel 11 - Teil 7: Planet Eden",
+          "index": 10,
+          "startTime": 910.818,
+          "duration": 90.215
+        },
+        {
+          "id": "plan-teil-0588-t12",
+          "title": "Kapitel 12 - Teil 7: Planet Eden",
+          "index": 11,
+          "startTime": 1001.033,
+          "duration": 90.998
+        },
+        {
+          "id": "plan-teil-0588-t13",
+          "title": "Kapitel 13 - Teil 7: Planet Eden",
+          "index": 12,
+          "startTime": 1092.031,
+          "duration": 90.065
+        },
+        {
+          "id": "plan-teil-0588-t14",
+          "title": "Kapitel 14 - Teil 7: Planet Eden",
+          "index": 13,
+          "startTime": 1182.096,
+          "duration": 90.15
+        },
+        {
+          "id": "plan-teil-0588-t15",
+          "title": "Kapitel 15 - Teil 7: Planet Eden",
+          "index": 14,
+          "startTime": 1272.246,
+          "duration": 90.115
+        },
+        {
+          "id": "plan-teil-0588-t16",
+          "title": "Kapitel 16 - Teil 7: Planet Eden",
+          "index": 15,
+          "startTime": 1362.361,
+          "duration": 90.769
+        },
+        {
+          "id": "plan-teil-0588-t17",
+          "title": "Kapitel 17 - Teil 7: Planet Eden",
+          "index": 16,
+          "startTime": 1453.13,
+          "duration": 90.101
+        },
+        {
+          "id": "plan-teil-0588-t18",
+          "title": "Kapitel 18 - Teil 7: Planet Eden",
+          "index": 17,
+          "startTime": 1543.231,
+          "duration": 90.765
+        },
+        {
+          "id": "plan-teil-0588-t19",
+          "title": "Kapitel 19 - Teil 7: Planet Eden",
+          "index": 18,
+          "startTime": 1633.996,
+          "duration": 90.481
+        },
+        {
+          "id": "plan-teil-0588-t20",
+          "title": "Kapitel 20 - Teil 7: Planet Eden",
+          "index": 19,
+          "startTime": 1724.477,
+          "duration": 90.373
+        },
+        {
+          "id": "plan-teil-0588-t21",
+          "title": "Kapitel 21 - Teil 7: Planet Eden",
+          "index": 20,
+          "startTime": 1814.85,
+          "duration": 91.52
+        },
+        {
+          "id": "plan-teil-0588-t22",
+          "title": "Kapitel 22 - Teil 7: Planet Eden",
+          "index": 21,
+          "startTime": 1906.37,
+          "duration": 90.016
+        },
+        {
+          "id": "plan-teil-0588-t23",
+          "title": "Kapitel 23 - Teil 7: Planet Eden",
+          "index": 22,
+          "startTime": 1996.386,
+          "duration": 90.753
+        },
+        {
+          "id": "plan-teil-0588-t24",
+          "title": "Kapitel 24 - Teil 7: Planet Eden",
+          "index": 23,
+          "startTime": 2087.139,
+          "duration": 91.809
+        },
+        {
+          "id": "plan-teil-0588-t25",
+          "title": "Kapitel 25 - Teil 7: Planet Eden",
+          "index": 24,
+          "startTime": 2178.948,
+          "duration": 90.15
+        },
+        {
+          "id": "plan-teil-0588-t26",
+          "title": "Kapitel 26 - Teil 7: Planet Eden",
+          "index": 25,
+          "startTime": 2269.098,
+          "duration": 90.123
+        },
+        {
+          "id": "plan-teil-0588-t27",
+          "title": "Kapitel 27 - Teil 7: Planet Eden",
+          "index": 26,
+          "startTime": 2359.221,
+          "duration": 90.954
+        },
+        {
+          "id": "plan-teil-0588-t28",
+          "title": "Kapitel 28 - Teil 7: Planet Eden",
+          "index": 27,
+          "startTime": 2450.175,
+          "duration": 90.823
+        }
+      ]
     },
     {
       "id": "1604424068",
@@ -106,11 +1149,243 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/86/9c/2a/869c2ab0-4c95-ce1f-71e9-af21423dd65e/4260507171184_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält acht Teile eines Hörspiels mit insgesamt 33 Tracks. Es handelt sich um ein Hörspielalbum, das auf Apple Music verfügbar ist.",
-      "totalDuration": 0,
+      "totalDuration": 3048.002,
       "platforms": {
         "appleMusic": "1604424068"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-4068-t01",
+          "title": "Kapitel 1 - Teil 8: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.005
+        },
+        {
+          "id": "plan-teil-4068-t02",
+          "title": "Kapitel 2 - Teil 8: Planet Eden",
+          "index": 1,
+          "startTime": 90.005,
+          "duration": 91.442
+        },
+        {
+          "id": "plan-teil-4068-t03",
+          "title": "Kapitel 3 - Teil 8: Planet Eden",
+          "index": 2,
+          "startTime": 181.447,
+          "duration": 90.331
+        },
+        {
+          "id": "plan-teil-4068-t04",
+          "title": "Kapitel 4 - Teil 8: Planet Eden",
+          "index": 3,
+          "startTime": 271.778,
+          "duration": 90.1
+        },
+        {
+          "id": "plan-teil-4068-t05",
+          "title": "Kapitel 5 - Teil 8: Planet Eden",
+          "index": 4,
+          "startTime": 361.878,
+          "duration": 92.317
+        },
+        {
+          "id": "plan-teil-4068-t06",
+          "title": "Kapitel 6 - Teil 8: Planet Eden",
+          "index": 5,
+          "startTime": 454.195,
+          "duration": 92.412
+        },
+        {
+          "id": "plan-teil-4068-t07",
+          "title": "Kapitel 7 - Teil 8: Planet Eden",
+          "index": 6,
+          "startTime": 546.607,
+          "duration": 91.252
+        },
+        {
+          "id": "plan-teil-4068-t08",
+          "title": "Kapitel 8 - Teil 8: Planet Eden",
+          "index": 7,
+          "startTime": 637.859,
+          "duration": 91.854
+        },
+        {
+          "id": "plan-teil-4068-t09",
+          "title": "Kapitel 9 - Teil 8: Planet Eden",
+          "index": 8,
+          "startTime": 729.713,
+          "duration": 90.039
+        },
+        {
+          "id": "plan-teil-4068-t10",
+          "title": "Kapitel 10 - Teil 8: Planet Eden",
+          "index": 9,
+          "startTime": 819.752,
+          "duration": 90.602
+        },
+        {
+          "id": "plan-teil-4068-t11",
+          "title": "Kapitel 11 - Teil 8: Planet Eden",
+          "index": 10,
+          "startTime": 910.354,
+          "duration": 90.303
+        },
+        {
+          "id": "plan-teil-4068-t12",
+          "title": "Kapitel 12 - Teil 8: Planet Eden",
+          "index": 11,
+          "startTime": 1000.657,
+          "duration": 90.017
+        },
+        {
+          "id": "plan-teil-4068-t13",
+          "title": "Kapitel 13 - Teil 8: Planet Eden",
+          "index": 12,
+          "startTime": 1090.674,
+          "duration": 90.095
+        },
+        {
+          "id": "plan-teil-4068-t14",
+          "title": "Kapitel 14 - Teil 8: Planet Eden",
+          "index": 13,
+          "startTime": 1180.769,
+          "duration": 90.754
+        },
+        {
+          "id": "plan-teil-4068-t15",
+          "title": "Kapitel 15 - Teil 8: Planet Eden",
+          "index": 14,
+          "startTime": 1271.523,
+          "duration": 92.246
+        },
+        {
+          "id": "plan-teil-4068-t16",
+          "title": "Kapitel 16 - Teil 8: Planet Eden",
+          "index": 15,
+          "startTime": 1363.769,
+          "duration": 92.641
+        },
+        {
+          "id": "plan-teil-4068-t17",
+          "title": "Kapitel 17 - Teil 8: Planet Eden",
+          "index": 16,
+          "startTime": 1456.41,
+          "duration": 91.013
+        },
+        {
+          "id": "plan-teil-4068-t18",
+          "title": "Kapitel 18 - Teil 8: Planet Eden",
+          "index": 17,
+          "startTime": 1547.423,
+          "duration": 90.13
+        },
+        {
+          "id": "plan-teil-4068-t19",
+          "title": "Kapitel 19 - Teil 8: Planet Eden",
+          "index": 18,
+          "startTime": 1637.553,
+          "duration": 90.002
+        },
+        {
+          "id": "plan-teil-4068-t20",
+          "title": "Kapitel 20 - Teil 8: Planet Eden",
+          "index": 19,
+          "startTime": 1727.555,
+          "duration": 90.922
+        },
+        {
+          "id": "plan-teil-4068-t21",
+          "title": "Kapitel 21 - Teil 8: Planet Eden",
+          "index": 20,
+          "startTime": 1818.477,
+          "duration": 90.085
+        },
+        {
+          "id": "plan-teil-4068-t22",
+          "title": "Kapitel 22 - Teil 8: Planet Eden",
+          "index": 21,
+          "startTime": 1908.562,
+          "duration": 91.487
+        },
+        {
+          "id": "plan-teil-4068-t23",
+          "title": "Kapitel 23 - Teil 8: Planet Eden",
+          "index": 22,
+          "startTime": 2000.049,
+          "duration": 91.123
+        },
+        {
+          "id": "plan-teil-4068-t24",
+          "title": "Kapitel 24 - Teil 8: Planet Eden",
+          "index": 23,
+          "startTime": 2091.172,
+          "duration": 90.025
+        },
+        {
+          "id": "plan-teil-4068-t25",
+          "title": "Kapitel 25 - Teil 8: Planet Eden",
+          "index": 24,
+          "startTime": 2181.197,
+          "duration": 93.406
+        },
+        {
+          "id": "plan-teil-4068-t26",
+          "title": "Kapitel 26 - Teil 8: Planet Eden",
+          "index": 25,
+          "startTime": 2274.603,
+          "duration": 91.564
+        },
+        {
+          "id": "plan-teil-4068-t27",
+          "title": "Kapitel 27 - Teil 8: Planet Eden",
+          "index": 26,
+          "startTime": 2366.167,
+          "duration": 90.008
+        },
+        {
+          "id": "plan-teil-4068-t28",
+          "title": "Kapitel 28 - Teil 8: Planet Eden",
+          "index": 27,
+          "startTime": 2456.175,
+          "duration": 90.273
+        },
+        {
+          "id": "plan-teil-4068-t29",
+          "title": "Kapitel 29 - Teil 8: Planet Eden",
+          "index": 28,
+          "startTime": 2546.448,
+          "duration": 90.346
+        },
+        {
+          "id": "plan-teil-4068-t30",
+          "title": "Kapitel 30 - Teil 8: Planet Eden",
+          "index": 29,
+          "startTime": 2636.794,
+          "duration": 90.15
+        },
+        {
+          "id": "plan-teil-4068-t31",
+          "title": "Kapitel 31 - Teil 8: Planet Eden",
+          "index": 30,
+          "startTime": 2726.944,
+          "duration": 90.139
+        },
+        {
+          "id": "plan-teil-4068-t32",
+          "title": "Kapitel 32 - Teil 8: Planet Eden",
+          "index": 31,
+          "startTime": 2817.083,
+          "duration": 91.643
+        },
+        {
+          "id": "plan-teil-4068-t33",
+          "title": "Kapitel 33 - Teil 8: Planet Eden",
+          "index": 32,
+          "startTime": 2908.726,
+          "duration": 139.276
+        }
+      ]
     },
     {
       "id": "1628287512",
@@ -119,11 +1394,229 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/a4/32/67a43255-87e3-65ca-b8cb-58bbd173973b/4260507175120_3000.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum mit dem Titel 'Planet Eden, Teil 9' von Planet Eden, das sich auf 31 Tracks über das Genre Hörspiele erstreckt.",
-      "totalDuration": 0,
+      "totalDuration": 2870.001,
       "platforms": {
         "appleMusic": "1628287512"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-plan-7512-t01",
+          "title": "Kapitel 1 - Planet Eden, Teil 9",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.013
+        },
+        {
+          "id": "plan-plan-7512-t02",
+          "title": "Kapitel 2 - Planet Eden, Teil 9",
+          "index": 1,
+          "startTime": 90.013,
+          "duration": 90.052
+        },
+        {
+          "id": "plan-plan-7512-t03",
+          "title": "Kapitel 3 - Planet Eden, Teil 9",
+          "index": 2,
+          "startTime": 180.065,
+          "duration": 90.614
+        },
+        {
+          "id": "plan-plan-7512-t04",
+          "title": "Kapitel 4 - Planet Eden, Teil 9",
+          "index": 3,
+          "startTime": 270.679,
+          "duration": 92.179
+        },
+        {
+          "id": "plan-plan-7512-t05",
+          "title": "Kapitel 5 - Planet Eden, Teil 9",
+          "index": 4,
+          "startTime": 362.858,
+          "duration": 90.035
+        },
+        {
+          "id": "plan-plan-7512-t06",
+          "title": "Kapitel 6 - Planet Eden, Teil 9",
+          "index": 5,
+          "startTime": 452.893,
+          "duration": 91.8
+        },
+        {
+          "id": "plan-plan-7512-t07",
+          "title": "Kapitel 7 - Planet Eden, Teil 9",
+          "index": 6,
+          "startTime": 544.693,
+          "duration": 92.784
+        },
+        {
+          "id": "plan-plan-7512-t08",
+          "title": "Kapitel 8 - Planet Eden, Teil 9",
+          "index": 7,
+          "startTime": 637.477,
+          "duration": 92.245
+        },
+        {
+          "id": "plan-plan-7512-t09",
+          "title": "Kapitel 9 - Planet Eden, Teil 9",
+          "index": 8,
+          "startTime": 729.722,
+          "duration": 90.407
+        },
+        {
+          "id": "plan-plan-7512-t10",
+          "title": "Kapitel 10 - Planet Eden, Teil 9",
+          "index": 9,
+          "startTime": 820.129,
+          "duration": 90.016
+        },
+        {
+          "id": "plan-plan-7512-t11",
+          "title": "Kapitel 11 - Planet Eden, Teil 9",
+          "index": 10,
+          "startTime": 910.145,
+          "duration": 91.029
+        },
+        {
+          "id": "plan-plan-7512-t12",
+          "title": "Kapitel 12 - Planet Eden, Teil 9",
+          "index": 11,
+          "startTime": 1001.174,
+          "duration": 90.083
+        },
+        {
+          "id": "plan-plan-7512-t13",
+          "title": "Kapitel 13 - Planet Eden, Teil 9",
+          "index": 12,
+          "startTime": 1091.257,
+          "duration": 92.779
+        },
+        {
+          "id": "plan-plan-7512-t14",
+          "title": "Kapitel 14 - Planet Eden, Teil 9",
+          "index": 13,
+          "startTime": 1184.036,
+          "duration": 91.438
+        },
+        {
+          "id": "plan-plan-7512-t15",
+          "title": "Kapitel 15 - Planet Eden, Teil 9",
+          "index": 14,
+          "startTime": 1275.474,
+          "duration": 90.711
+        },
+        {
+          "id": "plan-plan-7512-t16",
+          "title": "Kapitel 16 - Planet Eden, Teil 9",
+          "index": 15,
+          "startTime": 1366.185,
+          "duration": 91.65
+        },
+        {
+          "id": "plan-plan-7512-t17",
+          "title": "Kapitel 17 - Planet Eden, Teil 9",
+          "index": 16,
+          "startTime": 1457.835,
+          "duration": 92.122
+        },
+        {
+          "id": "plan-plan-7512-t18",
+          "title": "Kapitel 18 - Planet Eden, Teil 9",
+          "index": 17,
+          "startTime": 1549.957,
+          "duration": 91.593
+        },
+        {
+          "id": "plan-plan-7512-t19",
+          "title": "Kapitel 19 - Planet Eden, Teil 9",
+          "index": 18,
+          "startTime": 1641.55,
+          "duration": 90.017
+        },
+        {
+          "id": "plan-plan-7512-t20",
+          "title": "Kapitel 20 - Planet Eden, Teil 9",
+          "index": 19,
+          "startTime": 1731.567,
+          "duration": 90.011
+        },
+        {
+          "id": "plan-plan-7512-t21",
+          "title": "Kapitel 21 - Planet Eden, Teil 9",
+          "index": 20,
+          "startTime": 1821.578,
+          "duration": 90.818
+        },
+        {
+          "id": "plan-plan-7512-t22",
+          "title": "Kapitel 22 - Planet Eden, Teil 9",
+          "index": 21,
+          "startTime": 1912.396,
+          "duration": 92.313
+        },
+        {
+          "id": "plan-plan-7512-t23",
+          "title": "Kapitel 23 - Planet Eden, Teil 9",
+          "index": 22,
+          "startTime": 2004.709,
+          "duration": 95.856
+        },
+        {
+          "id": "plan-plan-7512-t24",
+          "title": "Kapitel 24 - Planet Eden, Teil 9",
+          "index": 23,
+          "startTime": 2100.565,
+          "duration": 90.803
+        },
+        {
+          "id": "plan-plan-7512-t25",
+          "title": "Kapitel 25 - Planet Eden, Teil 9",
+          "index": 24,
+          "startTime": 2191.368,
+          "duration": 90.016
+        },
+        {
+          "id": "plan-plan-7512-t26",
+          "title": "Kapitel 26 - Planet Eden, Teil 9",
+          "index": 25,
+          "startTime": 2281.384,
+          "duration": 93.039
+        },
+        {
+          "id": "plan-plan-7512-t27",
+          "title": "Kapitel 27 - Planet Eden, Teil 9",
+          "index": 26,
+          "startTime": 2374.423,
+          "duration": 92.2
+        },
+        {
+          "id": "plan-plan-7512-t28",
+          "title": "Kapitel 28 - Planet Eden, Teil 9",
+          "index": 27,
+          "startTime": 2466.623,
+          "duration": 97.008
+        },
+        {
+          "id": "plan-plan-7512-t29",
+          "title": "Kapitel 29 - Planet Eden, Teil 9",
+          "index": 28,
+          "startTime": 2563.631,
+          "duration": 90.664
+        },
+        {
+          "id": "plan-plan-7512-t30",
+          "title": "Kapitel 30 - Planet Eden, Teil 9",
+          "index": 29,
+          "startTime": 2654.295,
+          "duration": 90.133
+        },
+        {
+          "id": "plan-plan-7512-t31",
+          "title": "Kapitel 31 - Planet Eden, Teil 9",
+          "index": 30,
+          "startTime": 2744.428,
+          "duration": 125.573
+        }
+      ]
     },
     {
       "id": "1648276354",
@@ -132,11 +1625,215 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/81/1a/3c811a7c-0740-21ca-5cb2-fb5f50d43597/4260507177056_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspielalbum, das auf dem deutschen Markt erscheint und von der Bezeichnung 'Hörspiele' eindeutig als Hörspiel identifiziert wird.",
-      "totalDuration": 0,
+      "totalDuration": 2679.002,
       "platforms": {
         "appleMusic": "1648276354"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-6354-t01",
+          "title": "Kapitel 1 - Teil 10: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 92.881
+        },
+        {
+          "id": "plan-teil-6354-t02",
+          "title": "Kapitel 2 - Teil 10: Planet Eden",
+          "index": 1,
+          "startTime": 92.881,
+          "duration": 90.075
+        },
+        {
+          "id": "plan-teil-6354-t03",
+          "title": "Kapitel 3 - Teil 10: Planet Eden",
+          "index": 2,
+          "startTime": 182.956,
+          "duration": 90.369
+        },
+        {
+          "id": "plan-teil-6354-t04",
+          "title": "Kapitel 4 - Teil 10: Planet Eden",
+          "index": 3,
+          "startTime": 273.325,
+          "duration": 91.79
+        },
+        {
+          "id": "plan-teil-6354-t05",
+          "title": "Kapitel 5 - Teil 10: Planet Eden",
+          "index": 4,
+          "startTime": 365.115,
+          "duration": 91.698
+        },
+        {
+          "id": "plan-teil-6354-t06",
+          "title": "Kapitel 6 - Teil 10: Planet Eden",
+          "index": 5,
+          "startTime": 456.813,
+          "duration": 90.263
+        },
+        {
+          "id": "plan-teil-6354-t07",
+          "title": "Kapitel 7 - Teil 10: Planet Eden",
+          "index": 6,
+          "startTime": 547.076,
+          "duration": 96.254
+        },
+        {
+          "id": "plan-teil-6354-t08",
+          "title": "Kapitel 8 - Teil 10: Planet Eden",
+          "index": 7,
+          "startTime": 643.33,
+          "duration": 93.493
+        },
+        {
+          "id": "plan-teil-6354-t09",
+          "title": "Kapitel 9 - Teil 10: Planet Eden",
+          "index": 8,
+          "startTime": 736.823,
+          "duration": 90.339
+        },
+        {
+          "id": "plan-teil-6354-t10",
+          "title": "Kapitel 10 - Teil 10: Planet Eden",
+          "index": 9,
+          "startTime": 827.162,
+          "duration": 91.396
+        },
+        {
+          "id": "plan-teil-6354-t11",
+          "title": "Kapitel 11 - Teil 10: Planet Eden",
+          "index": 10,
+          "startTime": 918.558,
+          "duration": 90.119
+        },
+        {
+          "id": "plan-teil-6354-t12",
+          "title": "Kapitel 12 - Teil 10: Planet Eden",
+          "index": 11,
+          "startTime": 1008.677,
+          "duration": 90.185
+        },
+        {
+          "id": "plan-teil-6354-t13",
+          "title": "Kapitel 13 - Teil 10: Planet Eden",
+          "index": 12,
+          "startTime": 1098.862,
+          "duration": 93.222
+        },
+        {
+          "id": "plan-teil-6354-t14",
+          "title": "Kapitel 14 - Teil 10: Planet Eden",
+          "index": 13,
+          "startTime": 1192.084,
+          "duration": 91.041
+        },
+        {
+          "id": "plan-teil-6354-t15",
+          "title": "Kapitel 15 - Teil 10: Planet Eden",
+          "index": 14,
+          "startTime": 1283.125,
+          "duration": 90.917
+        },
+        {
+          "id": "plan-teil-6354-t16",
+          "title": "Kapitel 16 - Teil 10: Planet Eden",
+          "index": 15,
+          "startTime": 1374.042,
+          "duration": 90.665
+        },
+        {
+          "id": "plan-teil-6354-t17",
+          "title": "Kapitel 17 - Teil 10: Planet Eden",
+          "index": 16,
+          "startTime": 1464.707,
+          "duration": 90.401
+        },
+        {
+          "id": "plan-teil-6354-t18",
+          "title": "Kapitel 18 - Teil 10: Planet Eden",
+          "index": 17,
+          "startTime": 1555.108,
+          "duration": 93.486
+        },
+        {
+          "id": "plan-teil-6354-t19",
+          "title": "Kapitel 19 - Teil 10: Planet Eden",
+          "index": 18,
+          "startTime": 1648.594,
+          "duration": 91.461
+        },
+        {
+          "id": "plan-teil-6354-t20",
+          "title": "Kapitel 20 - Teil 10: Planet Eden",
+          "index": 19,
+          "startTime": 1740.055,
+          "duration": 92.813
+        },
+        {
+          "id": "plan-teil-6354-t21",
+          "title": "Kapitel 21 - Teil 10: Planet Eden",
+          "index": 20,
+          "startTime": 1832.868,
+          "duration": 90.334
+        },
+        {
+          "id": "plan-teil-6354-t22",
+          "title": "Kapitel 22 - Teil 10: Planet Eden",
+          "index": 21,
+          "startTime": 1923.202,
+          "duration": 91.341
+        },
+        {
+          "id": "plan-teil-6354-t23",
+          "title": "Kapitel 23 - Teil 10: Planet Eden",
+          "index": 22,
+          "startTime": 2014.543,
+          "duration": 91.529
+        },
+        {
+          "id": "plan-teil-6354-t24",
+          "title": "Kapitel 24 - Teil 10: Planet Eden",
+          "index": 23,
+          "startTime": 2106.072,
+          "duration": 91.001
+        },
+        {
+          "id": "plan-teil-6354-t25",
+          "title": "Kapitel 25 - Teil 10: Planet Eden",
+          "index": 24,
+          "startTime": 2197.073,
+          "duration": 91.582
+        },
+        {
+          "id": "plan-teil-6354-t26",
+          "title": "Kapitel 26 - Teil 10: Planet Eden",
+          "index": 25,
+          "startTime": 2288.655,
+          "duration": 90.015
+        },
+        {
+          "id": "plan-teil-6354-t27",
+          "title": "Kapitel 27 - Teil 10: Planet Eden",
+          "index": 26,
+          "startTime": 2378.67,
+          "duration": 90.506
+        },
+        {
+          "id": "plan-teil-6354-t28",
+          "title": "Kapitel 28 - Teil 10: Planet Eden",
+          "index": 27,
+          "startTime": 2469.176,
+          "duration": 90.198
+        },
+        {
+          "id": "plan-teil-6354-t29",
+          "title": "Kapitel 29 - Teil 10: Planet Eden",
+          "index": 28,
+          "startTime": 2559.374,
+          "duration": 119.628
+        }
+      ]
     },
     {
       "id": "1682888147",
@@ -145,11 +1842,229 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/d9/0b/e3d90bcd-e8ee-fde8-2cec-6c8028cfe1dd/4260507182906_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält 31 Hörspiel-Tracks und trägt den Titel 'Teil 11: Planet Eden'. Es wird von 'Planet Eden' produziert und gehört zum Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 2833.999,
       "platforms": {
         "appleMusic": "1682888147"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-8147-t01",
+          "title": "Kapitel 1 - Teil 11: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.028
+        },
+        {
+          "id": "plan-teil-8147-t02",
+          "title": "Kapitel 2 - Teil 11: Planet Eden",
+          "index": 1,
+          "startTime": 90.028,
+          "duration": 93.345
+        },
+        {
+          "id": "plan-teil-8147-t03",
+          "title": "Kapitel 3 - Teil 11: Planet Eden",
+          "index": 2,
+          "startTime": 183.373,
+          "duration": 91.643
+        },
+        {
+          "id": "plan-teil-8147-t04",
+          "title": "Kapitel 4 - Teil 11: Planet Eden",
+          "index": 3,
+          "startTime": 275.016,
+          "duration": 91.217
+        },
+        {
+          "id": "plan-teil-8147-t05",
+          "title": "Kapitel 5 - Teil 11: Planet Eden",
+          "index": 4,
+          "startTime": 366.233,
+          "duration": 91.946
+        },
+        {
+          "id": "plan-teil-8147-t06",
+          "title": "Kapitel 6 - Teil 11: Planet Eden",
+          "index": 5,
+          "startTime": 458.179,
+          "duration": 90.034
+        },
+        {
+          "id": "plan-teil-8147-t07",
+          "title": "Kapitel 7 - Teil 11: Planet Eden",
+          "index": 6,
+          "startTime": 548.213,
+          "duration": 91.227
+        },
+        {
+          "id": "plan-teil-8147-t08",
+          "title": "Kapitel 8 - Teil 11: Planet Eden",
+          "index": 7,
+          "startTime": 639.44,
+          "duration": 91.456
+        },
+        {
+          "id": "plan-teil-8147-t09",
+          "title": "Kapitel 9 - Teil 11: Planet Eden",
+          "index": 8,
+          "startTime": 730.896,
+          "duration": 91.23
+        },
+        {
+          "id": "plan-teil-8147-t10",
+          "title": "Kapitel 10 - Teil 11: Planet Eden",
+          "index": 9,
+          "startTime": 822.126,
+          "duration": 90.435
+        },
+        {
+          "id": "plan-teil-8147-t11",
+          "title": "Kapitel 11 - Teil 11: Planet Eden",
+          "index": 10,
+          "startTime": 912.561,
+          "duration": 91.258
+        },
+        {
+          "id": "plan-teil-8147-t12",
+          "title": "Kapitel 12 - Teil 11: Planet Eden",
+          "index": 11,
+          "startTime": 1003.819,
+          "duration": 91.325
+        },
+        {
+          "id": "plan-teil-8147-t13",
+          "title": "Kapitel 13 - Teil 11: Planet Eden",
+          "index": 12,
+          "startTime": 1095.144,
+          "duration": 90.002
+        },
+        {
+          "id": "plan-teil-8147-t14",
+          "title": "Kapitel 14 - Teil 11: Planet Eden",
+          "index": 13,
+          "startTime": 1185.146,
+          "duration": 90.416
+        },
+        {
+          "id": "plan-teil-8147-t15",
+          "title": "Kapitel 15 - Teil 11: Planet Eden",
+          "index": 14,
+          "startTime": 1275.562,
+          "duration": 90.189
+        },
+        {
+          "id": "plan-teil-8147-t16",
+          "title": "Kapitel 16 - Teil 11: Planet Eden",
+          "index": 15,
+          "startTime": 1365.751,
+          "duration": 90.727
+        },
+        {
+          "id": "plan-teil-8147-t17",
+          "title": "Kapitel 17 - Teil 11: Planet Eden",
+          "index": 16,
+          "startTime": 1456.478,
+          "duration": 90.434
+        },
+        {
+          "id": "plan-teil-8147-t18",
+          "title": "Kapitel 18 - Teil 11: Planet Eden",
+          "index": 17,
+          "startTime": 1546.912,
+          "duration": 90.596
+        },
+        {
+          "id": "plan-teil-8147-t19",
+          "title": "Kapitel 19 - Teil 11: Planet Eden",
+          "index": 18,
+          "startTime": 1637.508,
+          "duration": 93.212
+        },
+        {
+          "id": "plan-teil-8147-t20",
+          "title": "Kapitel 20 - Teil 11: Planet Eden",
+          "index": 19,
+          "startTime": 1730.72,
+          "duration": 90.575
+        },
+        {
+          "id": "plan-teil-8147-t21",
+          "title": "Kapitel 21 - Teil 11: Planet Eden",
+          "index": 20,
+          "startTime": 1821.295,
+          "duration": 93.039
+        },
+        {
+          "id": "plan-teil-8147-t22",
+          "title": "Kapitel 22 - Teil 11: Planet Eden",
+          "index": 21,
+          "startTime": 1914.334,
+          "duration": 91.028
+        },
+        {
+          "id": "plan-teil-8147-t23",
+          "title": "Kapitel 23 - Teil 11: Planet Eden",
+          "index": 22,
+          "startTime": 2005.362,
+          "duration": 91.741
+        },
+        {
+          "id": "plan-teil-8147-t24",
+          "title": "Kapitel 24 - Teil 11: Planet Eden",
+          "index": 23,
+          "startTime": 2097.103,
+          "duration": 92.268
+        },
+        {
+          "id": "plan-teil-8147-t25",
+          "title": "Kapitel 25 - Teil 11: Planet Eden",
+          "index": 24,
+          "startTime": 2189.371,
+          "duration": 92.433
+        },
+        {
+          "id": "plan-teil-8147-t26",
+          "title": "Kapitel 26 - Teil 11: Planet Eden",
+          "index": 25,
+          "startTime": 2281.804,
+          "duration": 90.452
+        },
+        {
+          "id": "plan-teil-8147-t27",
+          "title": "Kapitel 27 - Teil 11: Planet Eden",
+          "index": 26,
+          "startTime": 2372.256,
+          "duration": 90.59
+        },
+        {
+          "id": "plan-teil-8147-t28",
+          "title": "Kapitel 28 - Teil 11: Planet Eden",
+          "index": 27,
+          "startTime": 2462.846,
+          "duration": 94.589
+        },
+        {
+          "id": "plan-teil-8147-t29",
+          "title": "Kapitel 29 - Teil 11: Planet Eden",
+          "index": 28,
+          "startTime": 2557.435,
+          "duration": 91.684
+        },
+        {
+          "id": "plan-teil-8147-t30",
+          "title": "Kapitel 30 - Teil 11: Planet Eden",
+          "index": 29,
+          "startTime": 2649.119,
+          "duration": 90.829
+        },
+        {
+          "id": "plan-teil-8147-t31",
+          "title": "Kapitel 31 - Teil 11: Planet Eden",
+          "index": 30,
+          "startTime": 2739.948,
+          "duration": 94.051
+        }
+      ]
     },
     {
       "id": "1701691578",
@@ -158,11 +2073,257 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/4d/72/e04d7232-e373-6442-9619-1ce8312ed137/4260507188304_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein deutscher Hörspiel-Album von Planet Eden mit 35 Tracks, das sich im Science-Fiction-Genre bewegt.",
-      "totalDuration": 0,
+      "totalDuration": 3231.002,
       "platforms": {
         "appleMusic": "1701691578"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-1578-t01",
+          "title": "Kapitel 1 - Teil 12: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.019
+        },
+        {
+          "id": "plan-teil-1578-t02",
+          "title": "Kapitel 2 - Teil 12: Planet Eden",
+          "index": 1,
+          "startTime": 90.019,
+          "duration": 90.451
+        },
+        {
+          "id": "plan-teil-1578-t03",
+          "title": "Kapitel 3 - Teil 12: Planet Eden",
+          "index": 2,
+          "startTime": 180.47,
+          "duration": 94.813
+        },
+        {
+          "id": "plan-teil-1578-t04",
+          "title": "Kapitel 4 - Teil 12: Planet Eden",
+          "index": 3,
+          "startTime": 275.283,
+          "duration": 98.256
+        },
+        {
+          "id": "plan-teil-1578-t05",
+          "title": "Kapitel 5 - Teil 12: Planet Eden",
+          "index": 4,
+          "startTime": 373.539,
+          "duration": 93.435
+        },
+        {
+          "id": "plan-teil-1578-t06",
+          "title": "Kapitel 6 - Teil 12: Planet Eden",
+          "index": 5,
+          "startTime": 466.974,
+          "duration": 90.002
+        },
+        {
+          "id": "plan-teil-1578-t07",
+          "title": "Kapitel 7 - Teil 12: Planet Eden",
+          "index": 6,
+          "startTime": 556.976,
+          "duration": 91.074
+        },
+        {
+          "id": "plan-teil-1578-t08",
+          "title": "Kapitel 8 - Teil 12: Planet Eden",
+          "index": 7,
+          "startTime": 648.05,
+          "duration": 91.13
+        },
+        {
+          "id": "plan-teil-1578-t09",
+          "title": "Kapitel 9 - Teil 12: Planet Eden",
+          "index": 8,
+          "startTime": 739.18,
+          "duration": 90.102
+        },
+        {
+          "id": "plan-teil-1578-t10",
+          "title": "Kapitel 10 - Teil 12: Planet Eden",
+          "index": 9,
+          "startTime": 829.282,
+          "duration": 90.235
+        },
+        {
+          "id": "plan-teil-1578-t11",
+          "title": "Kapitel 11 - Teil 12: Planet Eden",
+          "index": 10,
+          "startTime": 919.517,
+          "duration": 91.845
+        },
+        {
+          "id": "plan-teil-1578-t12",
+          "title": "Kapitel 12 - Teil 12: Planet Eden",
+          "index": 11,
+          "startTime": 1011.362,
+          "duration": 90.751
+        },
+        {
+          "id": "plan-teil-1578-t13",
+          "title": "Kapitel 13 - Teil 12: Planet Eden",
+          "index": 12,
+          "startTime": 1102.113,
+          "duration": 91.992
+        },
+        {
+          "id": "plan-teil-1578-t14",
+          "title": "Kapitel 14 - Teil 12: Planet Eden",
+          "index": 13,
+          "startTime": 1194.105,
+          "duration": 90.996
+        },
+        {
+          "id": "plan-teil-1578-t15",
+          "title": "Kapitel 15 - Teil 12: Planet Eden",
+          "index": 14,
+          "startTime": 1285.101,
+          "duration": 91.298
+        },
+        {
+          "id": "plan-teil-1578-t16",
+          "title": "Kapitel 16 - Teil 12: Planet Eden",
+          "index": 15,
+          "startTime": 1376.399,
+          "duration": 91.806
+        },
+        {
+          "id": "plan-teil-1578-t17",
+          "title": "Kapitel 17 - Teil 12: Planet Eden",
+          "index": 16,
+          "startTime": 1468.205,
+          "duration": 90.0
+        },
+        {
+          "id": "plan-teil-1578-t18",
+          "title": "Kapitel 18 - Teil 12: Planet Eden",
+          "index": 17,
+          "startTime": 1558.205,
+          "duration": 91.211
+        },
+        {
+          "id": "plan-teil-1578-t19",
+          "title": "Kapitel 19 - Teil 12: Planet Eden",
+          "index": 18,
+          "startTime": 1649.416,
+          "duration": 91.08
+        },
+        {
+          "id": "plan-teil-1578-t20",
+          "title": "Kapitel 20 - Teil 12: Planet Eden",
+          "index": 19,
+          "startTime": 1740.496,
+          "duration": 93.006
+        },
+        {
+          "id": "plan-teil-1578-t21",
+          "title": "Kapitel 21 - Teil 12: Planet Eden",
+          "index": 20,
+          "startTime": 1833.502,
+          "duration": 90.179
+        },
+        {
+          "id": "plan-teil-1578-t22",
+          "title": "Kapitel 22 - Teil 12: Planet Eden",
+          "index": 21,
+          "startTime": 1923.681,
+          "duration": 91.99
+        },
+        {
+          "id": "plan-teil-1578-t23",
+          "title": "Kapitel 23 - Teil 12: Planet Eden",
+          "index": 22,
+          "startTime": 2015.671,
+          "duration": 90.301
+        },
+        {
+          "id": "plan-teil-1578-t24",
+          "title": "Kapitel 24 - Teil 12: Planet Eden",
+          "index": 23,
+          "startTime": 2105.972,
+          "duration": 90.348
+        },
+        {
+          "id": "plan-teil-1578-t25",
+          "title": "Kapitel 25 - Teil 12: Planet Eden",
+          "index": 24,
+          "startTime": 2196.32,
+          "duration": 91.011
+        },
+        {
+          "id": "plan-teil-1578-t26",
+          "title": "Kapitel 26 - Teil 12: Planet Eden",
+          "index": 25,
+          "startTime": 2287.331,
+          "duration": 91.251
+        },
+        {
+          "id": "plan-teil-1578-t27",
+          "title": "Kapitel 27 - Teil 12: Planet Eden",
+          "index": 26,
+          "startTime": 2378.582,
+          "duration": 92.975
+        },
+        {
+          "id": "plan-teil-1578-t28",
+          "title": "Kapitel 28 - Teil 12: Planet Eden",
+          "index": 27,
+          "startTime": 2471.557,
+          "duration": 92.414
+        },
+        {
+          "id": "plan-teil-1578-t29",
+          "title": "Kapitel 29 - Teil 12: Planet Eden",
+          "index": 28,
+          "startTime": 2563.971,
+          "duration": 90.714
+        },
+        {
+          "id": "plan-teil-1578-t30",
+          "title": "Kapitel 30 - Teil 12: Planet Eden",
+          "index": 29,
+          "startTime": 2654.685,
+          "duration": 93.331
+        },
+        {
+          "id": "plan-teil-1578-t31",
+          "title": "Kapitel 31 - Teil 12: Planet Eden",
+          "index": 30,
+          "startTime": 2748.016,
+          "duration": 90.534
+        },
+        {
+          "id": "plan-teil-1578-t32",
+          "title": "Kapitel 32 - Teil 12: Planet Eden",
+          "index": 31,
+          "startTime": 2838.55,
+          "duration": 90.231
+        },
+        {
+          "id": "plan-teil-1578-t33",
+          "title": "Kapitel 33 - Teil 12: Planet Eden",
+          "index": 32,
+          "startTime": 2928.781,
+          "duration": 92.26
+        },
+        {
+          "id": "plan-teil-1578-t34",
+          "title": "Kapitel 34 - Teil 12: Planet Eden",
+          "index": 33,
+          "startTime": 3021.041,
+          "duration": 91.779
+        },
+        {
+          "id": "plan-teil-1578-t35",
+          "title": "Kapitel 35 - Teil 12: Planet Eden",
+          "index": 34,
+          "startTime": 3112.82,
+          "duration": 118.182
+        }
+      ]
     },
     {
       "id": "1710010385",
@@ -171,11 +2332,264 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/a5/89/a4a58913-d87f-f2c1-5931-04ef8d524afa/4260507190185_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält 36 Hörspiel-Tracks und trägt den Titel 'Teil 13: Planet Eden', was typisch für Hörspiele oder Hörbücher ist.",
-      "totalDuration": 0,
+      "totalDuration": 3274.997,
       "platforms": {
         "appleMusic": "1710010385"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-0385-t01",
+          "title": "Kapitel 1 - Teil 13: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.837
+        },
+        {
+          "id": "plan-teil-0385-t02",
+          "title": "Kapitel 2 - Teil 13: Planet Eden",
+          "index": 1,
+          "startTime": 90.837,
+          "duration": 90.006
+        },
+        {
+          "id": "plan-teil-0385-t03",
+          "title": "Kapitel 3 - Teil 13: Planet Eden",
+          "index": 2,
+          "startTime": 180.843,
+          "duration": 90.002
+        },
+        {
+          "id": "plan-teil-0385-t04",
+          "title": "Kapitel 4 - Teil 13: Planet Eden",
+          "index": 3,
+          "startTime": 270.845,
+          "duration": 91.525
+        },
+        {
+          "id": "plan-teil-0385-t05",
+          "title": "Kapitel 5 - Teil 13: Planet Eden",
+          "index": 4,
+          "startTime": 362.37,
+          "duration": 90.218
+        },
+        {
+          "id": "plan-teil-0385-t06",
+          "title": "Kapitel 6 - Teil 13: Planet Eden",
+          "index": 5,
+          "startTime": 452.588,
+          "duration": 90.036
+        },
+        {
+          "id": "plan-teil-0385-t07",
+          "title": "Kapitel 7 - Teil 13: Planet Eden",
+          "index": 6,
+          "startTime": 542.624,
+          "duration": 91.995
+        },
+        {
+          "id": "plan-teil-0385-t08",
+          "title": "Kapitel 8 - Teil 13: Planet Eden",
+          "index": 7,
+          "startTime": 634.619,
+          "duration": 90.567
+        },
+        {
+          "id": "plan-teil-0385-t09",
+          "title": "Kapitel 9 - Teil 13: Planet Eden",
+          "index": 8,
+          "startTime": 725.186,
+          "duration": 90.043
+        },
+        {
+          "id": "plan-teil-0385-t10",
+          "title": "Kapitel 10 - Teil 13: Planet Eden",
+          "index": 9,
+          "startTime": 815.229,
+          "duration": 90.243
+        },
+        {
+          "id": "plan-teil-0385-t11",
+          "title": "Kapitel 11 - Teil 13: Planet Eden",
+          "index": 10,
+          "startTime": 905.472,
+          "duration": 91.381
+        },
+        {
+          "id": "plan-teil-0385-t12",
+          "title": "Kapitel 12 - Teil 13: Planet Eden",
+          "index": 11,
+          "startTime": 996.853,
+          "duration": 90.333
+        },
+        {
+          "id": "plan-teil-0385-t13",
+          "title": "Kapitel 13 - Teil 13: Planet Eden",
+          "index": 12,
+          "startTime": 1087.186,
+          "duration": 90.021
+        },
+        {
+          "id": "plan-teil-0385-t14",
+          "title": "Kapitel 14 - Teil 13: Planet Eden",
+          "index": 13,
+          "startTime": 1177.207,
+          "duration": 90.187
+        },
+        {
+          "id": "plan-teil-0385-t15",
+          "title": "Kapitel 15 - Teil 13: Planet Eden",
+          "index": 14,
+          "startTime": 1267.394,
+          "duration": 90.106
+        },
+        {
+          "id": "plan-teil-0385-t16",
+          "title": "Kapitel 16 - Teil 13: Planet Eden",
+          "index": 15,
+          "startTime": 1357.5,
+          "duration": 90.76
+        },
+        {
+          "id": "plan-teil-0385-t17",
+          "title": "Kapitel 17 - Teil 13: Planet Eden",
+          "index": 16,
+          "startTime": 1448.26,
+          "duration": 90.327
+        },
+        {
+          "id": "plan-teil-0385-t18",
+          "title": "Kapitel 18 - Teil 13: Planet Eden",
+          "index": 17,
+          "startTime": 1538.587,
+          "duration": 91.585
+        },
+        {
+          "id": "plan-teil-0385-t19",
+          "title": "Kapitel 19 - Teil 13: Planet Eden",
+          "index": 18,
+          "startTime": 1630.172,
+          "duration": 90.643
+        },
+        {
+          "id": "plan-teil-0385-t20",
+          "title": "Kapitel 20 - Teil 13: Planet Eden",
+          "index": 19,
+          "startTime": 1720.815,
+          "duration": 91.812
+        },
+        {
+          "id": "plan-teil-0385-t21",
+          "title": "Kapitel 21 - Teil 13: Planet Eden",
+          "index": 20,
+          "startTime": 1812.627,
+          "duration": 90.657
+        },
+        {
+          "id": "plan-teil-0385-t22",
+          "title": "Kapitel 22 - Teil 13: Planet Eden",
+          "index": 21,
+          "startTime": 1903.284,
+          "duration": 93.78
+        },
+        {
+          "id": "plan-teil-0385-t23",
+          "title": "Kapitel 23 - Teil 13: Planet Eden",
+          "index": 22,
+          "startTime": 1997.064,
+          "duration": 91.179
+        },
+        {
+          "id": "plan-teil-0385-t24",
+          "title": "Kapitel 24 - Teil 13: Planet Eden",
+          "index": 23,
+          "startTime": 2088.243,
+          "duration": 90.427
+        },
+        {
+          "id": "plan-teil-0385-t25",
+          "title": "Kapitel 25 - Teil 13: Planet Eden",
+          "index": 24,
+          "startTime": 2178.67,
+          "duration": 90.324
+        },
+        {
+          "id": "plan-teil-0385-t26",
+          "title": "Kapitel 26 - Teil 13: Planet Eden",
+          "index": 25,
+          "startTime": 2268.994,
+          "duration": 90.158
+        },
+        {
+          "id": "plan-teil-0385-t27",
+          "title": "Kapitel 27 - Teil 13: Planet Eden",
+          "index": 26,
+          "startTime": 2359.152,
+          "duration": 90.856
+        },
+        {
+          "id": "plan-teil-0385-t28",
+          "title": "Kapitel 28 - Teil 13: Planet Eden",
+          "index": 27,
+          "startTime": 2450.008,
+          "duration": 90.384
+        },
+        {
+          "id": "plan-teil-0385-t29",
+          "title": "Kapitel 29 - Teil 13: Planet Eden",
+          "index": 28,
+          "startTime": 2540.392,
+          "duration": 90.291
+        },
+        {
+          "id": "plan-teil-0385-t30",
+          "title": "Kapitel 30 - Teil 13: Planet Eden",
+          "index": 29,
+          "startTime": 2630.683,
+          "duration": 90.589
+        },
+        {
+          "id": "plan-teil-0385-t31",
+          "title": "Kapitel 31 - Teil 13: Planet Eden",
+          "index": 30,
+          "startTime": 2721.272,
+          "duration": 90.114
+        },
+        {
+          "id": "plan-teil-0385-t32",
+          "title": "Kapitel 32 - Teil 13: Planet Eden",
+          "index": 31,
+          "startTime": 2811.386,
+          "duration": 90.011
+        },
+        {
+          "id": "plan-teil-0385-t33",
+          "title": "Kapitel 33 - Teil 13: Planet Eden",
+          "index": 32,
+          "startTime": 2901.397,
+          "duration": 90.224
+        },
+        {
+          "id": "plan-teil-0385-t34",
+          "title": "Kapitel 34 - Teil 13: Planet Eden",
+          "index": 33,
+          "startTime": 2991.621,
+          "duration": 90.23
+        },
+        {
+          "id": "plan-teil-0385-t35",
+          "title": "Kapitel 35 - Teil 13: Planet Eden",
+          "index": 34,
+          "startTime": 3081.851,
+          "duration": 93.146
+        },
+        {
+          "id": "plan-teil-0385-t36",
+          "title": "Kapitel 36 - Teil 13: Planet Eden",
+          "index": 35,
+          "startTime": 3174.997,
+          "duration": 100.0
+        }
+      ]
     },
     {
       "id": "1733208210",
@@ -184,11 +2598,271 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ed/92/72/ed92724e-2971-ab62-1216-06c340c328ed/4260507193940_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspielalbum mit 37 Tracks unter dem Titel 'Teil 14: Planet Eden' von Planet Eden. Es handelt sich um ein Science-Fiction Hörspielalbum.",
-      "totalDuration": 0,
+      "totalDuration": 3425.999,
       "platforms": {
         "appleMusic": "1733208210"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-8210-t01",
+          "title": "Kapitel 1 - Teil 14: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.132
+        },
+        {
+          "id": "plan-teil-8210-t02",
+          "title": "Kapitel 2 - Teil 14: Planet Eden",
+          "index": 1,
+          "startTime": 90.132,
+          "duration": 90.319
+        },
+        {
+          "id": "plan-teil-8210-t03",
+          "title": "Kapitel 3 - Teil 14: Planet Eden",
+          "index": 2,
+          "startTime": 180.451,
+          "duration": 90.124
+        },
+        {
+          "id": "plan-teil-8210-t04",
+          "title": "Kapitel 4 - Teil 14: Planet Eden",
+          "index": 3,
+          "startTime": 270.575,
+          "duration": 90.028
+        },
+        {
+          "id": "plan-teil-8210-t05",
+          "title": "Kapitel 5 - Teil 14: Planet Eden",
+          "index": 4,
+          "startTime": 360.603,
+          "duration": 90.006
+        },
+        {
+          "id": "plan-teil-8210-t06",
+          "title": "Kapitel 6 - Teil 14: Planet Eden",
+          "index": 5,
+          "startTime": 450.609,
+          "duration": 90.027
+        },
+        {
+          "id": "plan-teil-8210-t07",
+          "title": "Kapitel 7 - Teil 14: Planet Eden",
+          "index": 6,
+          "startTime": 540.636,
+          "duration": 90.317
+        },
+        {
+          "id": "plan-teil-8210-t08",
+          "title": "Kapitel 8 - Teil 14: Planet Eden",
+          "index": 7,
+          "startTime": 630.953,
+          "duration": 90.585
+        },
+        {
+          "id": "plan-teil-8210-t09",
+          "title": "Kapitel 9 - Teil 14: Planet Eden",
+          "index": 8,
+          "startTime": 721.538,
+          "duration": 90.142
+        },
+        {
+          "id": "plan-teil-8210-t10",
+          "title": "Kapitel 10 - Teil 14: Planet Eden",
+          "index": 9,
+          "startTime": 811.68,
+          "duration": 90.185
+        },
+        {
+          "id": "plan-teil-8210-t11",
+          "title": "Kapitel 11 - Teil 14: Planet Eden",
+          "index": 10,
+          "startTime": 901.865,
+          "duration": 91.531
+        },
+        {
+          "id": "plan-teil-8210-t12",
+          "title": "Kapitel 12 - Teil 14: Planet Eden",
+          "index": 11,
+          "startTime": 993.396,
+          "duration": 92.173
+        },
+        {
+          "id": "plan-teil-8210-t13",
+          "title": "Kapitel 13 - Teil 14: Planet Eden",
+          "index": 12,
+          "startTime": 1085.569,
+          "duration": 90.989
+        },
+        {
+          "id": "plan-teil-8210-t14",
+          "title": "Kapitel 14 - Teil 14: Planet Eden",
+          "index": 13,
+          "startTime": 1176.558,
+          "duration": 90.575
+        },
+        {
+          "id": "plan-teil-8210-t15",
+          "title": "Kapitel 15 - Teil 14: Planet Eden",
+          "index": 14,
+          "startTime": 1267.133,
+          "duration": 91.067
+        },
+        {
+          "id": "plan-teil-8210-t16",
+          "title": "Kapitel 16 - Teil 14: Planet Eden",
+          "index": 15,
+          "startTime": 1358.2,
+          "duration": 91.81
+        },
+        {
+          "id": "plan-teil-8210-t17",
+          "title": "Kapitel 17 - Teil 14: Planet Eden",
+          "index": 16,
+          "startTime": 1450.01,
+          "duration": 91.942
+        },
+        {
+          "id": "plan-teil-8210-t18",
+          "title": "Kapitel 18 - Teil 14: Planet Eden",
+          "index": 17,
+          "startTime": 1541.952,
+          "duration": 92.775
+        },
+        {
+          "id": "plan-teil-8210-t19",
+          "title": "Kapitel 19 - Teil 14: Planet Eden",
+          "index": 18,
+          "startTime": 1634.727,
+          "duration": 91.374
+        },
+        {
+          "id": "plan-teil-8210-t20",
+          "title": "Kapitel 20 - Teil 14: Planet Eden",
+          "index": 19,
+          "startTime": 1726.101,
+          "duration": 90.029
+        },
+        {
+          "id": "plan-teil-8210-t21",
+          "title": "Kapitel 21 - Teil 14: Planet Eden",
+          "index": 20,
+          "startTime": 1816.13,
+          "duration": 90.018
+        },
+        {
+          "id": "plan-teil-8210-t22",
+          "title": "Kapitel 22 - Teil 14: Planet Eden",
+          "index": 21,
+          "startTime": 1906.148,
+          "duration": 90.002
+        },
+        {
+          "id": "plan-teil-8210-t23",
+          "title": "Kapitel 23 - Teil 14: Planet Eden",
+          "index": 22,
+          "startTime": 1996.15,
+          "duration": 91.261
+        },
+        {
+          "id": "plan-teil-8210-t24",
+          "title": "Kapitel 24 - Teil 14: Planet Eden",
+          "index": 23,
+          "startTime": 2087.411,
+          "duration": 91.567
+        },
+        {
+          "id": "plan-teil-8210-t25",
+          "title": "Kapitel 25 - Teil 14: Planet Eden",
+          "index": 24,
+          "startTime": 2178.978,
+          "duration": 91.711
+        },
+        {
+          "id": "plan-teil-8210-t26",
+          "title": "Kapitel 26 - Teil 14: Planet Eden",
+          "index": 25,
+          "startTime": 2270.689,
+          "duration": 90.66
+        },
+        {
+          "id": "plan-teil-8210-t27",
+          "title": "Kapitel 27 - Teil 14: Planet Eden",
+          "index": 26,
+          "startTime": 2361.349,
+          "duration": 91.304
+        },
+        {
+          "id": "plan-teil-8210-t28",
+          "title": "Kapitel 28 - Teil 14: Planet Eden",
+          "index": 27,
+          "startTime": 2452.653,
+          "duration": 90.28
+        },
+        {
+          "id": "plan-teil-8210-t29",
+          "title": "Kapitel 29 - Teil 14: Planet Eden",
+          "index": 28,
+          "startTime": 2542.933,
+          "duration": 90.007
+        },
+        {
+          "id": "plan-teil-8210-t30",
+          "title": "Kapitel 30 - Teil 14: Planet Eden",
+          "index": 29,
+          "startTime": 2632.94,
+          "duration": 90.126
+        },
+        {
+          "id": "plan-teil-8210-t31",
+          "title": "Kapitel 31 - Teil 14: Planet Eden",
+          "index": 30,
+          "startTime": 2723.066,
+          "duration": 90.936
+        },
+        {
+          "id": "plan-teil-8210-t32",
+          "title": "Kapitel 32 - Teil 14: Planet Eden",
+          "index": 31,
+          "startTime": 2814.002,
+          "duration": 91.033
+        },
+        {
+          "id": "plan-teil-8210-t33",
+          "title": "Kapitel 33 - Teil 14: Planet Eden",
+          "index": 32,
+          "startTime": 2905.035,
+          "duration": 91.779
+        },
+        {
+          "id": "plan-teil-8210-t34",
+          "title": "Kapitel 34 - Teil 14: Planet Eden",
+          "index": 33,
+          "startTime": 2996.814,
+          "duration": 90.125
+        },
+        {
+          "id": "plan-teil-8210-t35",
+          "title": "Kapitel 35 - Teil 14: Planet Eden",
+          "index": 34,
+          "startTime": 3086.939,
+          "duration": 91.634
+        },
+        {
+          "id": "plan-teil-8210-t36",
+          "title": "Kapitel 36 - Teil 14: Planet Eden",
+          "index": 35,
+          "startTime": 3178.573,
+          "duration": 90.717
+        },
+        {
+          "id": "plan-teil-8210-t37",
+          "title": "Kapitel 37 - Teil 14: Planet Eden",
+          "index": 36,
+          "startTime": 3269.29,
+          "duration": 156.709
+        }
+      ]
     },
     {
       "id": "1751251081",
@@ -197,11 +2871,250 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/36/17/9b361714-30fa-cc50-4c33-c95746369a14/4260507196347_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album scheint ein Hörspiel zu sein, das sich auf ein Science-Fiction-Thema konzentriert.",
-      "totalDuration": 0,
+      "totalDuration": 3123.001,
       "platforms": {
         "appleMusic": "1751251081"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-1081-t01",
+          "title": "Kapitel 1 - Teil 15: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.165
+        },
+        {
+          "id": "plan-teil-1081-t02",
+          "title": "Kapitel 2 - Teil 15: Planet Eden",
+          "index": 1,
+          "startTime": 90.165,
+          "duration": 91.736
+        },
+        {
+          "id": "plan-teil-1081-t03",
+          "title": "Kapitel 3 - Teil 15: Planet Eden",
+          "index": 2,
+          "startTime": 181.901,
+          "duration": 90.699
+        },
+        {
+          "id": "plan-teil-1081-t04",
+          "title": "Kapitel 4 - Teil 15: Planet Eden",
+          "index": 3,
+          "startTime": 272.6,
+          "duration": 92.609
+        },
+        {
+          "id": "plan-teil-1081-t05",
+          "title": "Kapitel 5 - Teil 15: Planet Eden",
+          "index": 4,
+          "startTime": 365.209,
+          "duration": 92.798
+        },
+        {
+          "id": "plan-teil-1081-t06",
+          "title": "Kapitel 6 - Teil 15: Planet Eden",
+          "index": 5,
+          "startTime": 458.007,
+          "duration": 91.557
+        },
+        {
+          "id": "plan-teil-1081-t07",
+          "title": "Kapitel 7 - Teil 15: Planet Eden",
+          "index": 6,
+          "startTime": 549.564,
+          "duration": 90.001
+        },
+        {
+          "id": "plan-teil-1081-t08",
+          "title": "Kapitel 8 - Teil 15: Planet Eden",
+          "index": 7,
+          "startTime": 639.565,
+          "duration": 90.14
+        },
+        {
+          "id": "plan-teil-1081-t09",
+          "title": "Kapitel 9 - Teil 15: Planet Eden",
+          "index": 8,
+          "startTime": 729.705,
+          "duration": 90.152
+        },
+        {
+          "id": "plan-teil-1081-t10",
+          "title": "Kapitel 10 - Teil 15: Planet Eden",
+          "index": 9,
+          "startTime": 819.857,
+          "duration": 90.335
+        },
+        {
+          "id": "plan-teil-1081-t11",
+          "title": "Kapitel 11 - Teil 15: Planet Eden",
+          "index": 10,
+          "startTime": 910.192,
+          "duration": 91.108
+        },
+        {
+          "id": "plan-teil-1081-t12",
+          "title": "Kapitel 12 - Teil 15: Planet Eden",
+          "index": 11,
+          "startTime": 1001.3,
+          "duration": 90.077
+        },
+        {
+          "id": "plan-teil-1081-t13",
+          "title": "Kapitel 13 - Teil 15: Planet Eden",
+          "index": 12,
+          "startTime": 1091.377,
+          "duration": 90.005
+        },
+        {
+          "id": "plan-teil-1081-t14",
+          "title": "Kapitel 14 - Teil 15: Planet Eden",
+          "index": 13,
+          "startTime": 1181.382,
+          "duration": 91.012
+        },
+        {
+          "id": "plan-teil-1081-t15",
+          "title": "Kapitel 15 - Teil 15: Planet Eden",
+          "index": 14,
+          "startTime": 1272.394,
+          "duration": 90.767
+        },
+        {
+          "id": "plan-teil-1081-t16",
+          "title": "Kapitel 16 - Teil 15: Planet Eden",
+          "index": 15,
+          "startTime": 1363.161,
+          "duration": 91.243
+        },
+        {
+          "id": "plan-teil-1081-t17",
+          "title": "Kapitel 17 - Teil 15: Planet Eden",
+          "index": 16,
+          "startTime": 1454.404,
+          "duration": 90.217
+        },
+        {
+          "id": "plan-teil-1081-t18",
+          "title": "Kapitel 18 - Teil 15: Planet Eden",
+          "index": 17,
+          "startTime": 1544.621,
+          "duration": 90.85
+        },
+        {
+          "id": "plan-teil-1081-t19",
+          "title": "Kapitel 19 - Teil 15: Planet Eden",
+          "index": 18,
+          "startTime": 1635.471,
+          "duration": 90.979
+        },
+        {
+          "id": "plan-teil-1081-t20",
+          "title": "Kapitel 20 - Teil 15: Planet Eden",
+          "index": 19,
+          "startTime": 1726.45,
+          "duration": 90.46
+        },
+        {
+          "id": "plan-teil-1081-t21",
+          "title": "Kapitel 21 - Teil 15: Planet Eden",
+          "index": 20,
+          "startTime": 1816.91,
+          "duration": 90.328
+        },
+        {
+          "id": "plan-teil-1081-t22",
+          "title": "Kapitel 22 - Teil 15: Planet Eden",
+          "index": 21,
+          "startTime": 1907.238,
+          "duration": 90.466
+        },
+        {
+          "id": "plan-teil-1081-t23",
+          "title": "Kapitel 23 - Teil 15: Planet Eden",
+          "index": 22,
+          "startTime": 1997.704,
+          "duration": 90.525
+        },
+        {
+          "id": "plan-teil-1081-t24",
+          "title": "Kapitel 24 - Teil 15: Planet Eden",
+          "index": 23,
+          "startTime": 2088.229,
+          "duration": 90.97
+        },
+        {
+          "id": "plan-teil-1081-t25",
+          "title": "Kapitel 25 - Teil 15: Planet Eden",
+          "index": 24,
+          "startTime": 2179.199,
+          "duration": 90.574
+        },
+        {
+          "id": "plan-teil-1081-t26",
+          "title": "Kapitel 26 - Teil 15: Planet Eden",
+          "index": 25,
+          "startTime": 2269.773,
+          "duration": 90.77
+        },
+        {
+          "id": "plan-teil-1081-t27",
+          "title": "Kapitel 27 - Teil 15: Planet Eden",
+          "index": 26,
+          "startTime": 2360.543,
+          "duration": 92.069
+        },
+        {
+          "id": "plan-teil-1081-t28",
+          "title": "Kapitel 28 - Teil 15: Planet Eden",
+          "index": 27,
+          "startTime": 2452.612,
+          "duration": 92.347
+        },
+        {
+          "id": "plan-teil-1081-t29",
+          "title": "Kapitel 29 - Teil 15: Planet Eden",
+          "index": 28,
+          "startTime": 2544.959,
+          "duration": 90.018
+        },
+        {
+          "id": "plan-teil-1081-t30",
+          "title": "Kapitel 30 - Teil 15: Planet Eden",
+          "index": 29,
+          "startTime": 2634.977,
+          "duration": 90.94
+        },
+        {
+          "id": "plan-teil-1081-t31",
+          "title": "Kapitel 31 - Teil 15: Planet Eden",
+          "index": 30,
+          "startTime": 2725.917,
+          "duration": 92.758
+        },
+        {
+          "id": "plan-teil-1081-t32",
+          "title": "Kapitel 32 - Teil 15: Planet Eden",
+          "index": 31,
+          "startTime": 2818.675,
+          "duration": 91.369
+        },
+        {
+          "id": "plan-teil-1081-t33",
+          "title": "Kapitel 33 - Teil 15: Planet Eden",
+          "index": 32,
+          "startTime": 2910.044,
+          "duration": 90.483
+        },
+        {
+          "id": "plan-teil-1081-t34",
+          "title": "Kapitel 34 - Teil 15: Planet Eden",
+          "index": 33,
+          "startTime": 3000.527,
+          "duration": 122.474
+        }
+      ]
     },
     {
       "id": "1761147705",
@@ -210,11 +3123,236 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/79/b8/0c79b83f-e1a9-de75-2bdf-3fcbfa9d3ec1/4260507198396_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel, das auf dem Genre Hörspiel basiert. Es könnte ein spannendes Abenteuer oder ein Science-Fiction-Abenteuer sein.",
-      "totalDuration": 0,
+      "totalDuration": 2937.002,
       "platforms": {
         "appleMusic": "1761147705"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-7705-t01",
+          "title": "Kapitel 1 - Teil 16: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.002
+        },
+        {
+          "id": "plan-teil-7705-t02",
+          "title": "Kapitel 2 - Teil 16: Planet Eden",
+          "index": 1,
+          "startTime": 90.002,
+          "duration": 94.128
+        },
+        {
+          "id": "plan-teil-7705-t03",
+          "title": "Kapitel 3 - Teil 16: Planet Eden",
+          "index": 2,
+          "startTime": 184.13,
+          "duration": 92.84
+        },
+        {
+          "id": "plan-teil-7705-t04",
+          "title": "Kapitel 4 - Teil 16: Planet Eden",
+          "index": 3,
+          "startTime": 276.97,
+          "duration": 91.911
+        },
+        {
+          "id": "plan-teil-7705-t05",
+          "title": "Kapitel 5 - Teil 16: Planet Eden",
+          "index": 4,
+          "startTime": 368.881,
+          "duration": 91.197
+        },
+        {
+          "id": "plan-teil-7705-t06",
+          "title": "Kapitel 6 - Teil 16: Planet Eden",
+          "index": 5,
+          "startTime": 460.078,
+          "duration": 90.712
+        },
+        {
+          "id": "plan-teil-7705-t07",
+          "title": "Kapitel 7 - Teil 16: Planet Eden",
+          "index": 6,
+          "startTime": 550.79,
+          "duration": 90.037
+        },
+        {
+          "id": "plan-teil-7705-t08",
+          "title": "Kapitel 8 - Teil 16: Planet Eden",
+          "index": 7,
+          "startTime": 640.827,
+          "duration": 90.595
+        },
+        {
+          "id": "plan-teil-7705-t09",
+          "title": "Kapitel 9 - Teil 16: Planet Eden",
+          "index": 8,
+          "startTime": 731.422,
+          "duration": 90.817
+        },
+        {
+          "id": "plan-teil-7705-t10",
+          "title": "Kapitel 10 - Teil 16: Planet Eden",
+          "index": 9,
+          "startTime": 822.239,
+          "duration": 90.188
+        },
+        {
+          "id": "plan-teil-7705-t11",
+          "title": "Kapitel 11 - Teil 16: Planet Eden",
+          "index": 10,
+          "startTime": 912.427,
+          "duration": 90.415
+        },
+        {
+          "id": "plan-teil-7705-t12",
+          "title": "Kapitel 12 - Teil 16: Planet Eden",
+          "index": 11,
+          "startTime": 1002.842,
+          "duration": 92.328
+        },
+        {
+          "id": "plan-teil-7705-t13",
+          "title": "Kapitel 13 - Teil 16: Planet Eden",
+          "index": 12,
+          "startTime": 1095.17,
+          "duration": 90.03
+        },
+        {
+          "id": "plan-teil-7705-t14",
+          "title": "Kapitel 14 - Teil 16: Planet Eden",
+          "index": 13,
+          "startTime": 1185.2,
+          "duration": 90.295
+        },
+        {
+          "id": "plan-teil-7705-t15",
+          "title": "Kapitel 15 - Teil 16: Planet Eden",
+          "index": 14,
+          "startTime": 1275.495,
+          "duration": 90.366
+        },
+        {
+          "id": "plan-teil-7705-t16",
+          "title": "Kapitel 16 - Teil 16: Planet Eden",
+          "index": 15,
+          "startTime": 1365.861,
+          "duration": 92.068
+        },
+        {
+          "id": "plan-teil-7705-t17",
+          "title": "Kapitel 17 - Teil 16: Planet Eden",
+          "index": 16,
+          "startTime": 1457.929,
+          "duration": 91.308
+        },
+        {
+          "id": "plan-teil-7705-t18",
+          "title": "Kapitel 18 - Teil 16: Planet Eden",
+          "index": 17,
+          "startTime": 1549.237,
+          "duration": 92.712
+        },
+        {
+          "id": "plan-teil-7705-t19",
+          "title": "Kapitel 19 - Teil 16: Planet Eden",
+          "index": 18,
+          "startTime": 1641.949,
+          "duration": 90.413
+        },
+        {
+          "id": "plan-teil-7705-t20",
+          "title": "Kapitel 20 - Teil 16: Planet Eden",
+          "index": 19,
+          "startTime": 1732.362,
+          "duration": 90.861
+        },
+        {
+          "id": "plan-teil-7705-t21",
+          "title": "Kapitel 21 - Teil 16: Planet Eden",
+          "index": 20,
+          "startTime": 1823.223,
+          "duration": 90.01
+        },
+        {
+          "id": "plan-teil-7705-t22",
+          "title": "Kapitel 22 - Teil 16: Planet Eden",
+          "index": 21,
+          "startTime": 1913.233,
+          "duration": 94.525
+        },
+        {
+          "id": "plan-teil-7705-t23",
+          "title": "Kapitel 23 - Teil 16: Planet Eden",
+          "index": 22,
+          "startTime": 2007.758,
+          "duration": 92.626
+        },
+        {
+          "id": "plan-teil-7705-t24",
+          "title": "Kapitel 24 - Teil 16: Planet Eden",
+          "index": 23,
+          "startTime": 2100.384,
+          "duration": 91.057
+        },
+        {
+          "id": "plan-teil-7705-t25",
+          "title": "Kapitel 25 - Teil 16: Planet Eden",
+          "index": 24,
+          "startTime": 2191.441,
+          "duration": 90.536
+        },
+        {
+          "id": "plan-teil-7705-t26",
+          "title": "Kapitel 26 - Teil 16: Planet Eden",
+          "index": 25,
+          "startTime": 2281.977,
+          "duration": 94.782
+        },
+        {
+          "id": "plan-teil-7705-t27",
+          "title": "Kapitel 27 - Teil 16: Planet Eden",
+          "index": 26,
+          "startTime": 2376.759,
+          "duration": 91.094
+        },
+        {
+          "id": "plan-teil-7705-t28",
+          "title": "Kapitel 28 - Teil 16: Planet Eden",
+          "index": 27,
+          "startTime": 2467.853,
+          "duration": 90.28
+        },
+        {
+          "id": "plan-teil-7705-t29",
+          "title": "Kapitel 29 - Teil 16: Planet Eden",
+          "index": 28,
+          "startTime": 2558.133,
+          "duration": 94.134
+        },
+        {
+          "id": "plan-teil-7705-t30",
+          "title": "Kapitel 30 - Teil 16: Planet Eden",
+          "index": 29,
+          "startTime": 2652.267,
+          "duration": 91.782
+        },
+        {
+          "id": "plan-teil-7705-t31",
+          "title": "Kapitel 31 - Teil 16: Planet Eden",
+          "index": 30,
+          "startTime": 2744.049,
+          "duration": 90.053
+        },
+        {
+          "id": "plan-teil-7705-t32",
+          "title": "Kapitel 32 - Teil 16: Planet Eden",
+          "index": 31,
+          "startTime": 2834.102,
+          "duration": 102.9
+        }
+      ]
     },
     {
       "id": "1816675410",
@@ -223,11 +3361,236 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/5f/2d/465f2d70-cae6-faa0-cd87-84cedb48cfe1/4260507205193_3000.jpg/100x100bb.jpg",
       "description": "Das Album 'Teil 17: Planet Eden' von Planet Eden ist ein Hörspiel-Album auf Apple Music.",
-      "totalDuration": 0,
+      "totalDuration": 2937.002,
       "platforms": {
         "appleMusic": "1816675410"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-5410-t01",
+          "title": "Kapitel 1 - Teil 17: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 91.859
+        },
+        {
+          "id": "plan-teil-5410-t02",
+          "title": "Kapitel 2 - Teil 17: Planet Eden",
+          "index": 1,
+          "startTime": 91.859,
+          "duration": 90.962
+        },
+        {
+          "id": "plan-teil-5410-t03",
+          "title": "Kapitel 3 - Teil 17: Planet Eden",
+          "index": 2,
+          "startTime": 182.821,
+          "duration": 90.006
+        },
+        {
+          "id": "plan-teil-5410-t04",
+          "title": "Kapitel 4 - Teil 17: Planet Eden",
+          "index": 3,
+          "startTime": 272.827,
+          "duration": 90.139
+        },
+        {
+          "id": "plan-teil-5410-t05",
+          "title": "Kapitel 5 - Teil 17: Planet Eden",
+          "index": 4,
+          "startTime": 362.966,
+          "duration": 91.118
+        },
+        {
+          "id": "plan-teil-5410-t06",
+          "title": "Kapitel 6 - Teil 17: Planet Eden",
+          "index": 5,
+          "startTime": 454.084,
+          "duration": 90.145
+        },
+        {
+          "id": "plan-teil-5410-t07",
+          "title": "Kapitel 7 - Teil 17: Planet Eden",
+          "index": 6,
+          "startTime": 544.229,
+          "duration": 90.999
+        },
+        {
+          "id": "plan-teil-5410-t08",
+          "title": "Kapitel 8 - Teil 17: Planet Eden",
+          "index": 7,
+          "startTime": 635.228,
+          "duration": 92.645
+        },
+        {
+          "id": "plan-teil-5410-t09",
+          "title": "Kapitel 9 - Teil 17: Planet Eden",
+          "index": 8,
+          "startTime": 727.873,
+          "duration": 91.941
+        },
+        {
+          "id": "plan-teil-5410-t10",
+          "title": "Kapitel 10 - Teil 17: Planet Eden",
+          "index": 9,
+          "startTime": 819.814,
+          "duration": 90.206
+        },
+        {
+          "id": "plan-teil-5410-t11",
+          "title": "Kapitel 11 - Teil 17: Planet Eden",
+          "index": 10,
+          "startTime": 910.02,
+          "duration": 90.194
+        },
+        {
+          "id": "plan-teil-5410-t12",
+          "title": "Kapitel 12 - Teil 17: Planet Eden",
+          "index": 11,
+          "startTime": 1000.214,
+          "duration": 91.46
+        },
+        {
+          "id": "plan-teil-5410-t13",
+          "title": "Kapitel 13 - Teil 17: Planet Eden",
+          "index": 12,
+          "startTime": 1091.674,
+          "duration": 90.034
+        },
+        {
+          "id": "plan-teil-5410-t14",
+          "title": "Kapitel 14 - Teil 17: Planet Eden",
+          "index": 13,
+          "startTime": 1181.708,
+          "duration": 91.125
+        },
+        {
+          "id": "plan-teil-5410-t15",
+          "title": "Kapitel 15 - Teil 17: Planet Eden",
+          "index": 14,
+          "startTime": 1272.833,
+          "duration": 90.584
+        },
+        {
+          "id": "plan-teil-5410-t16",
+          "title": "Kapitel 16 - Teil 17: Planet Eden",
+          "index": 15,
+          "startTime": 1363.417,
+          "duration": 90.005
+        },
+        {
+          "id": "plan-teil-5410-t17",
+          "title": "Kapitel 17 - Teil 17: Planet Eden",
+          "index": 16,
+          "startTime": 1453.422,
+          "duration": 90.158
+        },
+        {
+          "id": "plan-teil-5410-t18",
+          "title": "Kapitel 18 - Teil 17: Planet Eden",
+          "index": 17,
+          "startTime": 1543.58,
+          "duration": 91.674
+        },
+        {
+          "id": "plan-teil-5410-t19",
+          "title": "Kapitel 19 - Teil 17: Planet Eden",
+          "index": 18,
+          "startTime": 1635.254,
+          "duration": 90.031
+        },
+        {
+          "id": "plan-teil-5410-t20",
+          "title": "Kapitel 20 - Teil 17: Planet Eden",
+          "index": 19,
+          "startTime": 1725.285,
+          "duration": 90.588
+        },
+        {
+          "id": "plan-teil-5410-t21",
+          "title": "Kapitel 21 - Teil 17: Planet Eden",
+          "index": 20,
+          "startTime": 1815.873,
+          "duration": 90.136
+        },
+        {
+          "id": "plan-teil-5410-t22",
+          "title": "Kapitel 22 - Teil 17: Planet Eden",
+          "index": 21,
+          "startTime": 1906.009,
+          "duration": 91.2
+        },
+        {
+          "id": "plan-teil-5410-t23",
+          "title": "Kapitel 23 - Teil 17: Planet Eden",
+          "index": 22,
+          "startTime": 1997.209,
+          "duration": 90.463
+        },
+        {
+          "id": "plan-teil-5410-t24",
+          "title": "Kapitel 24 - Teil 17: Planet Eden",
+          "index": 23,
+          "startTime": 2087.672,
+          "duration": 90.721
+        },
+        {
+          "id": "plan-teil-5410-t25",
+          "title": "Kapitel 25 - Teil 17: Planet Eden",
+          "index": 24,
+          "startTime": 2178.393,
+          "duration": 91.237
+        },
+        {
+          "id": "plan-teil-5410-t26",
+          "title": "Kapitel 26 - Teil 17: Planet Eden",
+          "index": 25,
+          "startTime": 2269.63,
+          "duration": 90.341
+        },
+        {
+          "id": "plan-teil-5410-t27",
+          "title": "Kapitel 27 - Teil 17: Planet Eden",
+          "index": 26,
+          "startTime": 2359.971,
+          "duration": 90.165
+        },
+        {
+          "id": "plan-teil-5410-t28",
+          "title": "Kapitel 28 - Teil 17: Planet Eden",
+          "index": 27,
+          "startTime": 2450.136,
+          "duration": 92.086
+        },
+        {
+          "id": "plan-teil-5410-t29",
+          "title": "Kapitel 29 - Teil 17: Planet Eden",
+          "index": 28,
+          "startTime": 2542.222,
+          "duration": 90.84
+        },
+        {
+          "id": "plan-teil-5410-t30",
+          "title": "Kapitel 30 - Teil 17: Planet Eden",
+          "index": 29,
+          "startTime": 2633.062,
+          "duration": 90.866
+        },
+        {
+          "id": "plan-teil-5410-t31",
+          "title": "Kapitel 31 - Teil 17: Planet Eden",
+          "index": 30,
+          "startTime": 2723.928,
+          "duration": 94.945
+        },
+        {
+          "id": "plan-teil-5410-t32",
+          "title": "Kapitel 32 - Teil 17: Planet Eden",
+          "index": 31,
+          "startTime": 2818.873,
+          "duration": 118.129
+        }
+      ]
     },
     {
       "id": "1838473549",
@@ -236,12 +3599,209 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/57/00/6557003a-b67a-cc70-dacd-f715b796ed90/4260507210586_3000.jpg/100x100bb.jpg",
       "description": "Dieses Hörspielalbum bietet ein episches Abenteuer in einer fernen Galaxie.",
-      "totalDuration": 0,
+      "totalDuration": 2585.002,
       "platforms": {
         "appleMusic": "1838473549"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "plan-teil-3549-t01",
+          "title": "Kapitel 1 - Teil 18: Planet Eden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 91.471
+        },
+        {
+          "id": "plan-teil-3549-t02",
+          "title": "Kapitel 2 - Teil 18: Planet Eden",
+          "index": 1,
+          "startTime": 91.471,
+          "duration": 90.076
+        },
+        {
+          "id": "plan-teil-3549-t03",
+          "title": "Kapitel 3 - Teil 18: Planet Eden",
+          "index": 2,
+          "startTime": 181.547,
+          "duration": 90.622
+        },
+        {
+          "id": "plan-teil-3549-t04",
+          "title": "Kapitel 4 - Teil 18: Planet Eden",
+          "index": 3,
+          "startTime": 272.169,
+          "duration": 91.182
+        },
+        {
+          "id": "plan-teil-3549-t05",
+          "title": "Kapitel 5 - Teil 18: Planet Eden",
+          "index": 4,
+          "startTime": 363.351,
+          "duration": 90.076
+        },
+        {
+          "id": "plan-teil-3549-t06",
+          "title": "Kapitel 6 - Teil 18: Planet Eden",
+          "index": 5,
+          "startTime": 453.427,
+          "duration": 90.022
+        },
+        {
+          "id": "plan-teil-3549-t07",
+          "title": "Kapitel 7 - Teil 18: Planet Eden",
+          "index": 6,
+          "startTime": 543.449,
+          "duration": 90.088
+        },
+        {
+          "id": "plan-teil-3549-t08",
+          "title": "Kapitel 8 - Teil 18: Planet Eden",
+          "index": 7,
+          "startTime": 633.537,
+          "duration": 90.161
+        },
+        {
+          "id": "plan-teil-3549-t09",
+          "title": "Kapitel 9 - Teil 18: Planet Eden",
+          "index": 8,
+          "startTime": 723.698,
+          "duration": 90.796
+        },
+        {
+          "id": "plan-teil-3549-t10",
+          "title": "Kapitel 10 - Teil 18: Planet Eden",
+          "index": 9,
+          "startTime": 814.494,
+          "duration": 90.619
+        },
+        {
+          "id": "plan-teil-3549-t11",
+          "title": "Kapitel 11 - Teil 18: Planet Eden",
+          "index": 10,
+          "startTime": 905.113,
+          "duration": 90.001
+        },
+        {
+          "id": "plan-teil-3549-t12",
+          "title": "Kapitel 12 - Teil 18: Planet Eden",
+          "index": 11,
+          "startTime": 995.114,
+          "duration": 91.657
+        },
+        {
+          "id": "plan-teil-3549-t13",
+          "title": "Kapitel 13 - Teil 18: Planet Eden",
+          "index": 12,
+          "startTime": 1086.771,
+          "duration": 90.112
+        },
+        {
+          "id": "plan-teil-3549-t14",
+          "title": "Kapitel 14 - Teil 18: Planet Eden",
+          "index": 13,
+          "startTime": 1176.883,
+          "duration": 90.007
+        },
+        {
+          "id": "plan-teil-3549-t15",
+          "title": "Kapitel 15 - Teil 18: Planet Eden",
+          "index": 14,
+          "startTime": 1266.89,
+          "duration": 90.036
+        },
+        {
+          "id": "plan-teil-3549-t16",
+          "title": "Kapitel 16 - Teil 18: Planet Eden",
+          "index": 15,
+          "startTime": 1356.926,
+          "duration": 90.086
+        },
+        {
+          "id": "plan-teil-3549-t17",
+          "title": "Kapitel 17 - Teil 18: Planet Eden",
+          "index": 16,
+          "startTime": 1447.012,
+          "duration": 90.012
+        },
+        {
+          "id": "plan-teil-3549-t18",
+          "title": "Kapitel 18 - Teil 18: Planet Eden",
+          "index": 17,
+          "startTime": 1537.024,
+          "duration": 92.255
+        },
+        {
+          "id": "plan-teil-3549-t19",
+          "title": "Kapitel 19 - Teil 18: Planet Eden",
+          "index": 18,
+          "startTime": 1629.279,
+          "duration": 90.06
+        },
+        {
+          "id": "plan-teil-3549-t20",
+          "title": "Kapitel 20 - Teil 18: Planet Eden",
+          "index": 19,
+          "startTime": 1719.339,
+          "duration": 90.709
+        },
+        {
+          "id": "plan-teil-3549-t21",
+          "title": "Kapitel 21 - Teil 18: Planet Eden",
+          "index": 20,
+          "startTime": 1810.048,
+          "duration": 90.011
+        },
+        {
+          "id": "plan-teil-3549-t22",
+          "title": "Kapitel 22 - Teil 18: Planet Eden",
+          "index": 21,
+          "startTime": 1900.059,
+          "duration": 92.755
+        },
+        {
+          "id": "plan-teil-3549-t23",
+          "title": "Kapitel 23 - Teil 18: Planet Eden",
+          "index": 22,
+          "startTime": 1992.814,
+          "duration": 91.032
+        },
+        {
+          "id": "plan-teil-3549-t24",
+          "title": "Kapitel 24 - Teil 18: Planet Eden",
+          "index": 23,
+          "startTime": 2083.846,
+          "duration": 90.003
+        },
+        {
+          "id": "plan-teil-3549-t25",
+          "title": "Kapitel 25 - Teil 18: Planet Eden",
+          "index": 24,
+          "startTime": 2173.849,
+          "duration": 90.016
+        },
+        {
+          "id": "plan-teil-3549-t26",
+          "title": "Kapitel 26 - Teil 18: Planet Eden",
+          "index": 25,
+          "startTime": 2263.865,
+          "duration": 90.007
+        },
+        {
+          "id": "plan-teil-3549-t27",
+          "title": "Kapitel 27 - Teil 18: Planet Eden",
+          "index": 26,
+          "startTime": 2353.872,
+          "duration": 90.556
+        },
+        {
+          "id": "plan-teil-3549-t28",
+          "title": "Kapitel 28 - Teil 18: Planet Eden",
+          "index": 27,
+          "startTime": 2444.428,
+          "duration": 140.574
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

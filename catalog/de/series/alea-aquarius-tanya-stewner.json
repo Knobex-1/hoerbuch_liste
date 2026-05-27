@@ -28,11 +28,334 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/b3/d3/6db3d3a0-afb1-3022-2c5b-85b6b48c8107/4061229418904.jpg/100x100bb.jpg",
       "description": "Ein Album mit dem Titel 'Alea Aquarius - Das Hörspiel. Folge 1: Die Alpha Cru' von Alea Aquarius & Tanya Stewner, das sich auf Hörspiele spezialisiert hat.",
-      "totalDuration": 0,
+      "totalDuration": 5620.881,
       "platforms": {
         "appleMusic": "1831979248"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "alea-alea-9248-t01",
+          "title": "Prolog: Die Alpha Cru (Folge 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 68.918
+        },
+        {
+          "id": "alea-alea-9248-t02",
+          "title": "Wenn das Wasser ruft (Titelsong)",
+          "index": 1,
+          "startTime": 68.918,
+          "duration": 87.48
+        },
+        {
+          "id": "alea-alea-9248-t03",
+          "title": "Kapitel 01: Die Alpha Cru (Folge 01)",
+          "index": 2,
+          "startTime": 156.398,
+          "duration": 131.622
+        },
+        {
+          "id": "alea-alea-9248-t04",
+          "title": "Kapitel 02: Die Alpha Cru (Folge 01)",
+          "index": 3,
+          "startTime": 288.02,
+          "duration": 123.159
+        },
+        {
+          "id": "alea-alea-9248-t05",
+          "title": "Kapitel 03: Die Alpha Cru (Folge 01)",
+          "index": 4,
+          "startTime": 411.179,
+          "duration": 120.535
+        },
+        {
+          "id": "alea-alea-9248-t06",
+          "title": "Kapitel 04: Die Alpha Cru (Folge 01)",
+          "index": 5,
+          "startTime": 531.714,
+          "duration": 122.439
+        },
+        {
+          "id": "alea-alea-9248-t07",
+          "title": "Kapitel 05: Die Alpha Cru (Folge 01)",
+          "index": 6,
+          "startTime": 654.153,
+          "duration": 132.656
+        },
+        {
+          "id": "alea-alea-9248-t08",
+          "title": "Kapitel 06: Die Alpha Cru (Folge 01)",
+          "index": 7,
+          "startTime": 786.809,
+          "duration": 122.416
+        },
+        {
+          "id": "alea-alea-9248-t09",
+          "title": "Kapitel 07: Die Alpha Cru (Folge 01)",
+          "index": 8,
+          "startTime": 909.225,
+          "duration": 120.581
+        },
+        {
+          "id": "alea-alea-9248-t10",
+          "title": "Kapitel 08: Die Alpha Cru (Folge 01)",
+          "index": 9,
+          "startTime": 1029.806,
+          "duration": 121.533
+        },
+        {
+          "id": "alea-alea-9248-t11",
+          "title": "Kapitel 09: Die Alpha Cru (Folge 01)",
+          "index": 10,
+          "startTime": 1151.339,
+          "duration": 120.581
+        },
+        {
+          "id": "alea-alea-9248-t12",
+          "title": "Kapitel 10: Die Alpha Cru (Folge 01)",
+          "index": 11,
+          "startTime": 1271.92,
+          "duration": 120.326
+        },
+        {
+          "id": "alea-alea-9248-t13",
+          "title": "Kapitel 11: Die Alpha Cru (Folge 01)",
+          "index": 12,
+          "startTime": 1392.246,
+          "duration": 120.651
+        },
+        {
+          "id": "alea-alea-9248-t14",
+          "title": "Kapitel 12: Die Alpha Cru (Folge 01)",
+          "index": 13,
+          "startTime": 1512.897,
+          "duration": 122.717
+        },
+        {
+          "id": "alea-alea-9248-t15",
+          "title": "Kapitel 13: Die Alpha Cru (Folge 01)",
+          "index": 14,
+          "startTime": 1635.614,
+          "duration": 122.305
+        },
+        {
+          "id": "alea-alea-9248-t16",
+          "title": "Kapitel 14: Die Alpha Cru (Folge 01)",
+          "index": 15,
+          "startTime": 1757.919,
+          "duration": 120.554
+        },
+        {
+          "id": "alea-alea-9248-t17",
+          "title": "Kapitel 15: Die Alpha Cru (Folge 01)",
+          "index": 16,
+          "startTime": 1878.473,
+          "duration": 120.307
+        },
+        {
+          "id": "alea-alea-9248-t18",
+          "title": "Kapitel 16: Die Alpha Cru (Folge 01)",
+          "index": 17,
+          "startTime": 1998.78,
+          "duration": 123.861
+        },
+        {
+          "id": "alea-alea-9248-t19",
+          "title": "Kapitel 17: Die Alpha Cru (Folge 01)",
+          "index": 18,
+          "startTime": 2122.641,
+          "duration": 124.552
+        },
+        {
+          "id": "alea-alea-9248-t20",
+          "title": "Kapitel 18: Die Alpha Cru (Folge 01)",
+          "index": 19,
+          "startTime": 2247.193,
+          "duration": 123.206
+        },
+        {
+          "id": "alea-alea-9248-t21",
+          "title": "Kapitel 19: Die Alpha Cru (Folge 01)",
+          "index": 20,
+          "startTime": 2370.399,
+          "duration": 120.36
+        },
+        {
+          "id": "alea-alea-9248-t22",
+          "title": "Kapitel 20: Die Alpha Cru (Folge 01)",
+          "index": 21,
+          "startTime": 2490.759,
+          "duration": 121.452
+        },
+        {
+          "id": "alea-alea-9248-t23",
+          "title": "Kapitel 21: Die Alpha Cru (Folge 01)",
+          "index": 22,
+          "startTime": 2612.211,
+          "duration": 120.303
+        },
+        {
+          "id": "alea-alea-9248-t24",
+          "title": "Kapitel 22: Die Alpha Cru (Folge 01)",
+          "index": 23,
+          "startTime": 2732.514,
+          "duration": 122.613
+        },
+        {
+          "id": "alea-alea-9248-t25",
+          "title": "Kapitel 23: Die Alpha Cru (Folge 01)",
+          "index": 24,
+          "startTime": 2855.127,
+          "duration": 121.162
+        },
+        {
+          "id": "alea-alea-9248-t26",
+          "title": "Kapitel 24: Die Alpha Cru (Folge 01)",
+          "index": 25,
+          "startTime": 2976.289,
+          "duration": 121.487
+        },
+        {
+          "id": "alea-alea-9248-t27",
+          "title": "Kapitel 25: Die Alpha Cru (Folge 01)",
+          "index": 26,
+          "startTime": 3097.776,
+          "duration": 122.384
+        },
+        {
+          "id": "alea-alea-9248-t28",
+          "title": "Kapitel 26: Die Alpha Cru (Folge 01)",
+          "index": 27,
+          "startTime": 3220.16,
+          "duration": 124.32
+        },
+        {
+          "id": "alea-alea-9248-t29",
+          "title": "Kapitel 27: Die Alpha Cru (Folge 01)",
+          "index": 28,
+          "startTime": 3344.48,
+          "duration": 123.121
+        },
+        {
+          "id": "alea-alea-9248-t30",
+          "title": "Kapitel 28: Die Alpha Cru (Folge 01)",
+          "index": 29,
+          "startTime": 3467.601,
+          "duration": 120.488
+        },
+        {
+          "id": "alea-alea-9248-t31",
+          "title": "Kapitel 29: Die Alpha Cru (Folge 01)",
+          "index": 30,
+          "startTime": 3588.089,
+          "duration": 124.18
+        },
+        {
+          "id": "alea-alea-9248-t32",
+          "title": "Kapitel 30: Die Alpha Cru (Folge 01)",
+          "index": 31,
+          "startTime": 3712.269,
+          "duration": 123.019
+        },
+        {
+          "id": "alea-alea-9248-t33",
+          "title": "Kapitel 31: Die Alpha Cru (Folge 01)",
+          "index": 32,
+          "startTime": 3835.288,
+          "duration": 123.124
+        },
+        {
+          "id": "alea-alea-9248-t34",
+          "title": "Kapitel 32: Die Alpha Cru (Folge 01)",
+          "index": 33,
+          "startTime": 3958.412,
+          "duration": 123.182
+        },
+        {
+          "id": "alea-alea-9248-t35",
+          "title": "Kapitel 33: Die Alpha Cru (Folge 01)",
+          "index": 34,
+          "startTime": 4081.594,
+          "duration": 122.149
+        },
+        {
+          "id": "alea-alea-9248-t36",
+          "title": "Kapitel 34: Die Alpha Cru (Folge 01)",
+          "index": 35,
+          "startTime": 4203.743,
+          "duration": 122.738
+        },
+        {
+          "id": "alea-alea-9248-t37",
+          "title": "Kapitel 35: Die Alpha Cru (Folge 01)",
+          "index": 36,
+          "startTime": 4326.481,
+          "duration": 120.305
+        },
+        {
+          "id": "alea-alea-9248-t38",
+          "title": "Kapitel 36: Die Alpha Cru (Folge 01)",
+          "index": 37,
+          "startTime": 4446.786,
+          "duration": 122.485
+        },
+        {
+          "id": "alea-alea-9248-t39",
+          "title": "Kapitel 37: Die Alpha Cru (Folge 01)",
+          "index": 38,
+          "startTime": 4569.271,
+          "duration": 130.171
+        },
+        {
+          "id": "alea-alea-9248-t40",
+          "title": "Kapitel 38: Die Alpha Cru (Folge 01)",
+          "index": 39,
+          "startTime": 4699.442,
+          "duration": 124.83
+        },
+        {
+          "id": "alea-alea-9248-t41",
+          "title": "Kapitel 39: Die Alpha Cru (Folge 01)",
+          "index": 40,
+          "startTime": 4824.272,
+          "duration": 125.481
+        },
+        {
+          "id": "alea-alea-9248-t42",
+          "title": "Kapitel 40: Die Alpha Cru (Folge 01)",
+          "index": 41,
+          "startTime": 4949.753,
+          "duration": 124.761
+        },
+        {
+          "id": "alea-alea-9248-t43",
+          "title": "Kapitel 41: Die Alpha Cru (Folge 01)",
+          "index": 42,
+          "startTime": 5074.514,
+          "duration": 123.077
+        },
+        {
+          "id": "alea-alea-9248-t44",
+          "title": "Kapitel 42: Die Alpha Cru (Folge 01)",
+          "index": 43,
+          "startTime": 5197.591,
+          "duration": 122.526
+        },
+        {
+          "id": "alea-alea-9248-t45",
+          "title": "Kapitel 43: Die Alpha Cru (Folge 01)",
+          "index": 44,
+          "startTime": 5320.117,
+          "duration": 147.156
+        },
+        {
+          "id": "alea-alea-9248-t46",
+          "title": "Credits: Die Alpha Cru (Folge 01)",
+          "index": 45,
+          "startTime": 5467.273,
+          "duration": 153.608
+        }
+      ]
     },
     {
       "id": "1848883577",
@@ -54,11 +377,362 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/db/18/44db18ef-f643-dccc-93e2-e4c18417eeb7/4013575962921.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel-Album von Alea Aquarius und Tanya Stewner, das Teil einer Reihe ist. Es ist bekannt für kriminalistische Inhalte und bietet ein tiefgehenderes Erlebnis als typische Musikstücke.",
-      "totalDuration": 0,
+      "totalDuration": 6024.679,
       "platforms": {
         "appleMusic": "1848884170"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "alea-alea-4170-t01",
+          "title": "Prolog: Lennox Scorpio (Folge 02)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 43.792
+        },
+        {
+          "id": "alea-alea-4170-t02",
+          "title": "Wenn das Wasser ruft (Titelsong)",
+          "index": 1,
+          "startTime": 43.792,
+          "duration": 82.635
+        },
+        {
+          "id": "alea-alea-4170-t03",
+          "title": "Kapitel 01: Lennox Scorpio (Folge 02)",
+          "index": 2,
+          "startTime": 126.427,
+          "duration": 123.228
+        },
+        {
+          "id": "alea-alea-4170-t04",
+          "title": "Kapitel 02: Lennox Scorpio (Folge 02)",
+          "index": 3,
+          "startTime": 249.655,
+          "duration": 121.295
+        },
+        {
+          "id": "alea-alea-4170-t05",
+          "title": "Kapitel 03: Lennox Scorpio (Folge 02)",
+          "index": 4,
+          "startTime": 370.95,
+          "duration": 126.475
+        },
+        {
+          "id": "alea-alea-4170-t06",
+          "title": "Kapitel 04: Lennox Scorpio (Folge 02)",
+          "index": 5,
+          "startTime": 497.425,
+          "duration": 134.632
+        },
+        {
+          "id": "alea-alea-4170-t07",
+          "title": "Kapitel 05: Lennox Scorpio (Folge 02)",
+          "index": 6,
+          "startTime": 632.057,
+          "duration": 120.382
+        },
+        {
+          "id": "alea-alea-4170-t08",
+          "title": "Kapitel 06: Lennox Scorpio (Folge 02)",
+          "index": 7,
+          "startTime": 752.439,
+          "duration": 120.497
+        },
+        {
+          "id": "alea-alea-4170-t09",
+          "title": "Kapitel 07: Lennox Scorpio (Folge 02)",
+          "index": 8,
+          "startTime": 872.936,
+          "duration": 121.613
+        },
+        {
+          "id": "alea-alea-4170-t10",
+          "title": "Kapitel 08: Lennox Scorpio (Folge 02)",
+          "index": 9,
+          "startTime": 994.549,
+          "duration": 121.597
+        },
+        {
+          "id": "alea-alea-4170-t11",
+          "title": "Kapitel 09: Lennox Scorpio (Folge 02)",
+          "index": 10,
+          "startTime": 1116.146,
+          "duration": 126.04
+        },
+        {
+          "id": "alea-alea-4170-t12",
+          "title": "Kapitel 10: Lennox Scorpio (Folge 02)",
+          "index": 11,
+          "startTime": 1242.186,
+          "duration": 120.135
+        },
+        {
+          "id": "alea-alea-4170-t13",
+          "title": "Kapitel 11: Lennox Scorpio (Folge 02)",
+          "index": 12,
+          "startTime": 1362.321,
+          "duration": 121.194
+        },
+        {
+          "id": "alea-alea-4170-t14",
+          "title": "Kapitel 12: Lennox Scorpio (Folge 02)",
+          "index": 13,
+          "startTime": 1483.515,
+          "duration": 134.363
+        },
+        {
+          "id": "alea-alea-4170-t15",
+          "title": "Kapitel 13: Lennox Scorpio (Folge 02)",
+          "index": 14,
+          "startTime": 1617.878,
+          "duration": 120.767
+        },
+        {
+          "id": "alea-alea-4170-t16",
+          "title": "Kapitel 14: Lennox Scorpio (Folge 02)",
+          "index": 15,
+          "startTime": 1738.645,
+          "duration": 120.404
+        },
+        {
+          "id": "alea-alea-4170-t17",
+          "title": "Kapitel 15: Lennox Scorpio (Folge 02)",
+          "index": 16,
+          "startTime": 1859.049,
+          "duration": 120.317
+        },
+        {
+          "id": "alea-alea-4170-t18",
+          "title": "Kapitel 16: Lennox Scorpio (Folge 02)",
+          "index": 17,
+          "startTime": 1979.366,
+          "duration": 120.538
+        },
+        {
+          "id": "alea-alea-4170-t19",
+          "title": "Kapitel 17: Lennox Scorpio (Folge 02)",
+          "index": 18,
+          "startTime": 2099.904,
+          "duration": 120.475
+        },
+        {
+          "id": "alea-alea-4170-t20",
+          "title": "Kapitel 18: Lennox Scorpio (Folge 02)",
+          "index": 19,
+          "startTime": 2220.379,
+          "duration": 120.08
+        },
+        {
+          "id": "alea-alea-4170-t21",
+          "title": "Kapitel 19: Lennox Scorpio (Folge 02)",
+          "index": 20,
+          "startTime": 2340.459,
+          "duration": 122.459
+        },
+        {
+          "id": "alea-alea-4170-t22",
+          "title": "Kapitel 20: Lennox Scorpio (Folge 02)",
+          "index": 21,
+          "startTime": 2462.918,
+          "duration": 122.372
+        },
+        {
+          "id": "alea-alea-4170-t23",
+          "title": "Kapitel 21: Lennox Scorpio (Folge 02)",
+          "index": 22,
+          "startTime": 2585.29,
+          "duration": 120.886
+        },
+        {
+          "id": "alea-alea-4170-t24",
+          "title": "Kapitel 22: Lennox Scorpio (Folge 02)",
+          "index": 23,
+          "startTime": 2706.176,
+          "duration": 123.566
+        },
+        {
+          "id": "alea-alea-4170-t25",
+          "title": "Kapitel 23: Lennox Scorpio (Folge 02)",
+          "index": 24,
+          "startTime": 2829.742,
+          "duration": 121.795
+        },
+        {
+          "id": "alea-alea-4170-t26",
+          "title": "Kapitel 24: Lennox Scorpio (Folge 02)",
+          "index": 25,
+          "startTime": 2951.537,
+          "duration": 122.586
+        },
+        {
+          "id": "alea-alea-4170-t27",
+          "title": "Kapitel 25: Lennox Scorpio (Folge 02)",
+          "index": 26,
+          "startTime": 3074.123,
+          "duration": 122.254
+        },
+        {
+          "id": "alea-alea-4170-t28",
+          "title": "Kapitel 26: Lennox Scorpio (Folge 02)",
+          "index": 27,
+          "startTime": 3196.377,
+          "duration": 121.874
+        },
+        {
+          "id": "alea-alea-4170-t29",
+          "title": "Kapitel 27: Lennox Scorpio (Folge 02)",
+          "index": 28,
+          "startTime": 3318.251,
+          "duration": 123.882
+        },
+        {
+          "id": "alea-alea-4170-t30",
+          "title": "Kapitel 28: Lennox Scorpio (Folge 02)",
+          "index": 29,
+          "startTime": 3442.133,
+          "duration": 123.803
+        },
+        {
+          "id": "alea-alea-4170-t31",
+          "title": "Kapitel 29: Lennox Scorpio (Folge 02)",
+          "index": 30,
+          "startTime": 3565.936,
+          "duration": 123.645
+        },
+        {
+          "id": "alea-alea-4170-t32",
+          "title": "Kapitel 30: Lennox Scorpio (Folge 02)",
+          "index": 31,
+          "startTime": 3689.581,
+          "duration": 121.637
+        },
+        {
+          "id": "alea-alea-4170-t33",
+          "title": "Kapitel 31: Lennox Scorpio (Folge 02)",
+          "index": 32,
+          "startTime": 3811.218,
+          "duration": 124.261
+        },
+        {
+          "id": "alea-alea-4170-t34",
+          "title": "Kapitel 32: Lennox Scorpio (Folge 02)",
+          "index": 33,
+          "startTime": 3935.479,
+          "duration": 124.23
+        },
+        {
+          "id": "alea-alea-4170-t35",
+          "title": "Kapitel 33: Lennox Scorpio (Folge 02)",
+          "index": 34,
+          "startTime": 4059.709,
+          "duration": 121.036
+        },
+        {
+          "id": "alea-alea-4170-t36",
+          "title": "Kapitel 34: Lennox Scorpio (Folge 02)",
+          "index": 35,
+          "startTime": 4180.745,
+          "duration": 124.641
+        },
+        {
+          "id": "alea-alea-4170-t37",
+          "title": "Kapitel 35: Lennox Scorpio (Folge 02)",
+          "index": 36,
+          "startTime": 4305.386,
+          "duration": 120.214
+        },
+        {
+          "id": "alea-alea-4170-t38",
+          "title": "Kapitel 36: Lennox Scorpio (Folge 02)",
+          "index": 37,
+          "startTime": 4425.6,
+          "duration": 123.914
+        },
+        {
+          "id": "alea-alea-4170-t39",
+          "title": "Kapitel 37: Lennox Scorpio (Folge 02)",
+          "index": 38,
+          "startTime": 4549.514,
+          "duration": 123.25
+        },
+        {
+          "id": "alea-alea-4170-t40",
+          "title": "Kapitel 38: Lennox Scorpio (Folge 02)",
+          "index": 39,
+          "startTime": 4672.764,
+          "duration": 121.953
+        },
+        {
+          "id": "alea-alea-4170-t41",
+          "title": "Kapitel 39: Lennox Scorpio (Folge 02)",
+          "index": 40,
+          "startTime": 4794.717,
+          "duration": 122.317
+        },
+        {
+          "id": "alea-alea-4170-t42",
+          "title": "Kapitel 40: Lennox Scorpio (Folge 02)",
+          "index": 41,
+          "startTime": 4917.034,
+          "duration": 124.18
+        },
+        {
+          "id": "alea-alea-4170-t43",
+          "title": "Kapitel 41: Lennox Scorpio (Folge 02)",
+          "index": 42,
+          "startTime": 5041.214,
+          "duration": 123.012
+        },
+        {
+          "id": "alea-alea-4170-t44",
+          "title": "Kapitel 42: Lennox Scorpio (Folge 02)",
+          "index": 43,
+          "startTime": 5164.226,
+          "duration": 121.827
+        },
+        {
+          "id": "alea-alea-4170-t45",
+          "title": "Kapitel 43: Lennox Scorpio (Folge 02)",
+          "index": 44,
+          "startTime": 5286.053,
+          "duration": 122.759
+        },
+        {
+          "id": "alea-alea-4170-t46",
+          "title": "Kapitel 44: Lennox Scorpio (Folge 02)",
+          "index": 45,
+          "startTime": 5408.812,
+          "duration": 124.26
+        },
+        {
+          "id": "alea-alea-4170-t47",
+          "title": "Kapitel 45: Lennox Scorpio (Folge 02)",
+          "index": 46,
+          "startTime": 5533.072,
+          "duration": 122.728
+        },
+        {
+          "id": "alea-alea-4170-t48",
+          "title": "Kapitel 46: Lennox Scorpio (Folge 02)",
+          "index": 47,
+          "startTime": 5655.8,
+          "duration": 124.83
+        },
+        {
+          "id": "alea-alea-4170-t49",
+          "title": "Kapitel 47: Lennox Scorpio (Folge 02)",
+          "index": 48,
+          "startTime": 5780.63,
+          "duration": 121.21
+        },
+        {
+          "id": "alea-alea-4170-t50",
+          "title": "Kapitel 48: Lennox Scorpio (Folge 02)",
+          "index": 49,
+          "startTime": 5901.84,
+          "duration": 122.839
+        }
+      ]
     },
     {
       "id": "1858687634",
@@ -80,11 +754,306 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/07/31/8c073116-40a4-6fe9-f236-a9f372e685e6/4061229418966.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel der Serie Alea Aquarius, Teil 3, das von Alea Aquarius und Tanya Stewner produziert wurde. Es besteht aus 42 Tracks und gehört zur Hörspiel-Genre.",
-      "totalDuration": 0,
+      "totalDuration": 5170.16,
       "platforms": {
         "appleMusic": "1858622268"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "alea-alea-2268-t01",
+          "title": "Prolog: Tauchgang mit Folgen (Folge 03)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 77.681
+        },
+        {
+          "id": "alea-alea-2268-t02",
+          "title": "Wenn das Wasser ruft (Titelsong)",
+          "index": 1,
+          "startTime": 77.681,
+          "duration": 82.848
+        },
+        {
+          "id": "alea-alea-2268-t03",
+          "title": "Kapitel 01: Tauchgang mit Folgen (Folge 03)",
+          "index": 2,
+          "startTime": 160.529,
+          "duration": 122.825
+        },
+        {
+          "id": "alea-alea-2268-t04",
+          "title": "Kapitel 02: Tauchgang mit Folgen (Folge 03)",
+          "index": 3,
+          "startTime": 283.354,
+          "duration": 125.64
+        },
+        {
+          "id": "alea-alea-2268-t05",
+          "title": "Kapitel 03: Tauchgang mit Folgen (Folge 03)",
+          "index": 4,
+          "startTime": 408.994,
+          "duration": 120.535
+        },
+        {
+          "id": "alea-alea-2268-t06",
+          "title": "Kapitel 04: Tauchgang mit Folgen (Folge 03)",
+          "index": 5,
+          "startTime": 529.529,
+          "duration": 123.0
+        },
+        {
+          "id": "alea-alea-2268-t07",
+          "title": "Kapitel 05: Tauchgang mit Folgen (Folge 03)",
+          "index": 6,
+          "startTime": 652.529,
+          "duration": 122.906
+        },
+        {
+          "id": "alea-alea-2268-t08",
+          "title": "Kapitel 06: Tauchgang mit Folgen (Folge 03)",
+          "index": 7,
+          "startTime": 775.435,
+          "duration": 122.209
+        },
+        {
+          "id": "alea-alea-2268-t09",
+          "title": "Kapitel 07: Tauchgang mit Folgen (Folge 03)",
+          "index": 8,
+          "startTime": 897.644,
+          "duration": 123.081
+        },
+        {
+          "id": "alea-alea-2268-t10",
+          "title": "Kapitel 08: Tauchgang mit Folgen (Folge 03)",
+          "index": 9,
+          "startTime": 1020.725,
+          "duration": 123.396
+        },
+        {
+          "id": "alea-alea-2268-t11",
+          "title": "Kapitel 09: Tauchgang mit Folgen (Folge 03)",
+          "index": 10,
+          "startTime": 1144.121,
+          "duration": 123.964
+        },
+        {
+          "id": "alea-alea-2268-t12",
+          "title": "Kapitel 10: Tauchgang mit Folgen (Folge 03)",
+          "index": 11,
+          "startTime": 1268.085,
+          "duration": 120.279
+        },
+        {
+          "id": "alea-alea-2268-t13",
+          "title": "Kapitel 11: Tauchgang mit Folgen (Folge 03)",
+          "index": 12,
+          "startTime": 1388.364,
+          "duration": 124.031
+        },
+        {
+          "id": "alea-alea-2268-t14",
+          "title": "Kapitel 12: Tauchgang mit Folgen (Folge 03)",
+          "index": 13,
+          "startTime": 1512.395,
+          "duration": 122.918
+        },
+        {
+          "id": "alea-alea-2268-t15",
+          "title": "Kapitel 13: Tauchgang mit Folgen (Folge 03)",
+          "index": 14,
+          "startTime": 1635.313,
+          "duration": 124.965
+        },
+        {
+          "id": "alea-alea-2268-t16",
+          "title": "Kapitel 14: Tauchgang mit Folgen (Folge 03)",
+          "index": 15,
+          "startTime": 1760.278,
+          "duration": 120.319
+        },
+        {
+          "id": "alea-alea-2268-t17",
+          "title": "Kapitel 15: Tauchgang mit Folgen (Folge 03)",
+          "index": 16,
+          "startTime": 1880.597,
+          "duration": 124.74
+        },
+        {
+          "id": "alea-alea-2268-t18",
+          "title": "Kapitel 16: Tauchgang mit Folgen (Folge 03)",
+          "index": 17,
+          "startTime": 2005.337,
+          "duration": 121.534
+        },
+        {
+          "id": "alea-alea-2268-t19",
+          "title": "Kapitel 17: Tauchgang mit Folgen (Folge 03)",
+          "index": 18,
+          "startTime": 2126.871,
+          "duration": 124.66
+        },
+        {
+          "id": "alea-alea-2268-t20",
+          "title": "Kapitel 18: Tauchgang mit Folgen (Folge 03)",
+          "index": 19,
+          "startTime": 2251.531,
+          "duration": 123.0
+        },
+        {
+          "id": "alea-alea-2268-t21",
+          "title": "Kapitel 19: Tauchgang mit Folgen (Folge 03)",
+          "index": 20,
+          "startTime": 2374.531,
+          "duration": 121.83
+        },
+        {
+          "id": "alea-alea-2268-t22",
+          "title": "Kapitel 20: Tauchgang mit Folgen (Folge 03)",
+          "index": 21,
+          "startTime": 2496.361,
+          "duration": 122.383
+        },
+        {
+          "id": "alea-alea-2268-t23",
+          "title": "Kapitel 21: Tauchgang mit Folgen (Folge 03)",
+          "index": 22,
+          "startTime": 2618.744,
+          "duration": 120.982
+        },
+        {
+          "id": "alea-alea-2268-t24",
+          "title": "Kapitel 22: Tauchgang mit Folgen (Folge 03)",
+          "index": 23,
+          "startTime": 2739.726,
+          "duration": 122.591
+        },
+        {
+          "id": "alea-alea-2268-t25",
+          "title": "Kapitel 23: Tauchgang mit Folgen (Folge 03)",
+          "index": 24,
+          "startTime": 2862.317,
+          "duration": 124.481
+        },
+        {
+          "id": "alea-alea-2268-t26",
+          "title": "Kapitel 24: Tauchgang mit Folgen (Folge 03)",
+          "index": 25,
+          "startTime": 2986.798,
+          "duration": 121.77
+        },
+        {
+          "id": "alea-alea-2268-t27",
+          "title": "Kapitel 25: Tauchgang mit Folgen (Folge 03)",
+          "index": 26,
+          "startTime": 3108.568,
+          "duration": 122.085
+        },
+        {
+          "id": "alea-alea-2268-t28",
+          "title": "Kapitel 26: Tauchgang mit Folgen (Folge 03)",
+          "index": 27,
+          "startTime": 3230.653,
+          "duration": 126.202
+        },
+        {
+          "id": "alea-alea-2268-t29",
+          "title": "Kapitel 27: Tauchgang mit Folgen (Folge 03)",
+          "index": 28,
+          "startTime": 3356.855,
+          "duration": 122.018
+        },
+        {
+          "id": "alea-alea-2268-t30",
+          "title": "Kapitel 28: Tauchgang mit Folgen (Folge 03)",
+          "index": 29,
+          "startTime": 3478.873,
+          "duration": 122.4
+        },
+        {
+          "id": "alea-alea-2268-t31",
+          "title": "Kapitel 29: Tauchgang mit Folgen (Folge 03)",
+          "index": 30,
+          "startTime": 3601.273,
+          "duration": 120.622
+        },
+        {
+          "id": "alea-alea-2268-t32",
+          "title": "Kapitel 30: Tauchgang mit Folgen (Folge 03)",
+          "index": 31,
+          "startTime": 3721.895,
+          "duration": 121.252
+        },
+        {
+          "id": "alea-alea-2268-t33",
+          "title": "Kapitel 31: Tauchgang mit Folgen (Folge 03)",
+          "index": 32,
+          "startTime": 3843.147,
+          "duration": 125.404
+        },
+        {
+          "id": "alea-alea-2268-t34",
+          "title": "Kapitel 32: Tauchgang mit Folgen (Folge 03)",
+          "index": 33,
+          "startTime": 3968.551,
+          "duration": 131.378
+        },
+        {
+          "id": "alea-alea-2268-t35",
+          "title": "Kapitel 33: Tauchgang mit Folgen (Folge 03)",
+          "index": 34,
+          "startTime": 4099.929,
+          "duration": 124.594
+        },
+        {
+          "id": "alea-alea-2268-t36",
+          "title": "Kapitel 34: Tauchgang mit Folgen (Folge 03)",
+          "index": 35,
+          "startTime": 4224.523,
+          "duration": 121.41
+        },
+        {
+          "id": "alea-alea-2268-t37",
+          "title": "Kapitel 35: Tauchgang mit Folgen (Folge 03)",
+          "index": 36,
+          "startTime": 4345.933,
+          "duration": 122.344
+        },
+        {
+          "id": "alea-alea-2268-t38",
+          "title": "Kapitel 36: Tauchgang mit Folgen (Folge 03)",
+          "index": 37,
+          "startTime": 4468.277,
+          "duration": 121.68
+        },
+        {
+          "id": "alea-alea-2268-t39",
+          "title": "Kapitel 37: Tauchgang mit Folgen (Folge 03)",
+          "index": 38,
+          "startTime": 4589.957,
+          "duration": 122.378
+        },
+        {
+          "id": "alea-alea-2268-t40",
+          "title": "Kapitel 38: Tauchgang mit Folgen (Folge 03)",
+          "index": 39,
+          "startTime": 4712.335,
+          "duration": 121.612
+        },
+        {
+          "id": "alea-alea-2268-t41",
+          "title": "Kapitel 39: Tauchgang mit Folgen (Folge 03)",
+          "index": 40,
+          "startTime": 4833.947,
+          "duration": 201.378
+        },
+        {
+          "id": "alea-alea-2268-t42",
+          "title": "Credits: Tauchgang mit Folgen (Folge 03)",
+          "index": 41,
+          "startTime": 5035.325,
+          "duration": 134.835
+        }
+      ]
     },
     {
       "id": "1872724810",
@@ -119,12 +1088,356 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/03/24/8d03245c-f299-8d66-9eea-e598e695a6ad/4061229419024.jpg/100x100bb.jpg",
       "description": "Das Album enthält das Hörspiel 'Alea Aquarius - Das Hörspiel. Folge 5: Die geheime Unterwasser-Kuppel', das von Alea Aquarius und Tanya Stewner produziert wurde. Es umfasst 49 Tracks im Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 5935.467,
       "platforms": {
         "appleMusic": "1888511107"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "alea-alea-1107-t01",
+          "title": "Prolog: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 87.881
+        },
+        {
+          "id": "alea-alea-1107-t02",
+          "title": "Wenn das Wasser ruft (Titelsong)",
+          "index": 1,
+          "startTime": 87.881,
+          "duration": 82.393
+        },
+        {
+          "id": "alea-alea-1107-t03",
+          "title": "Kapitel 01: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 2,
+          "startTime": 170.274,
+          "duration": 121.924
+        },
+        {
+          "id": "alea-alea-1107-t04",
+          "title": "Kapitel 02: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 3,
+          "startTime": 292.198,
+          "duration": 123.182
+        },
+        {
+          "id": "alea-alea-1107-t05",
+          "title": "Kapitel 03: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 4,
+          "startTime": 415.38,
+          "duration": 128.481
+        },
+        {
+          "id": "alea-alea-1107-t06",
+          "title": "Kapitel 04: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 5,
+          "startTime": 543.861,
+          "duration": 123.115
+        },
+        {
+          "id": "alea-alea-1107-t07",
+          "title": "Kapitel 05: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 6,
+          "startTime": 666.976,
+          "duration": 123.953
+        },
+        {
+          "id": "alea-alea-1107-t08",
+          "title": "Kapitel 06: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 7,
+          "startTime": 790.929,
+          "duration": 120.096
+        },
+        {
+          "id": "alea-alea-1107-t09",
+          "title": "Kapitel 07: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 8,
+          "startTime": 911.025,
+          "duration": 122.058
+        },
+        {
+          "id": "alea-alea-1107-t10",
+          "title": "Kapitel 08: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 9,
+          "startTime": 1033.083,
+          "duration": 123.115
+        },
+        {
+          "id": "alea-alea-1107-t11",
+          "title": "Kapitel 09: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 10,
+          "startTime": 1156.198,
+          "duration": 120.046
+        },
+        {
+          "id": "alea-alea-1107-t12",
+          "title": "Kapitel 10: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 11,
+          "startTime": 1276.244,
+          "duration": 126.133
+        },
+        {
+          "id": "alea-alea-1107-t13",
+          "title": "Kapitel 11: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 12,
+          "startTime": 1402.377,
+          "duration": 124.574
+        },
+        {
+          "id": "alea-alea-1107-t14",
+          "title": "Kapitel 12: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 13,
+          "startTime": 1526.951,
+          "duration": 122.108
+        },
+        {
+          "id": "alea-alea-1107-t15",
+          "title": "Kapitel 13: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 14,
+          "startTime": 1649.059,
+          "duration": 121.79
+        },
+        {
+          "id": "alea-alea-1107-t16",
+          "title": "Kapitel 14: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 15,
+          "startTime": 1770.849,
+          "duration": 120.029
+        },
+        {
+          "id": "alea-alea-1107-t17",
+          "title": "Kapitel 15: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 16,
+          "startTime": 1890.878,
+          "duration": 123.048
+        },
+        {
+          "id": "alea-alea-1107-t18",
+          "title": "Kapitel 16: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 17,
+          "startTime": 2013.926,
+          "duration": 120.448
+        },
+        {
+          "id": "alea-alea-1107-t19",
+          "title": "Kapitel 17: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 18,
+          "startTime": 2134.374,
+          "duration": 123.853
+        },
+        {
+          "id": "alea-alea-1107-t20",
+          "title": "Kapitel 18: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 19,
+          "startTime": 2258.227,
+          "duration": 123.148
+        },
+        {
+          "id": "alea-alea-1107-t21",
+          "title": "Kapitel 19: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 20,
+          "startTime": 2381.375,
+          "duration": 121.018
+        },
+        {
+          "id": "alea-alea-1107-t22",
+          "title": "Kapitel 20: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 21,
+          "startTime": 2502.393,
+          "duration": 120.264
+        },
+        {
+          "id": "alea-alea-1107-t23",
+          "title": "Kapitel 21: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 22,
+          "startTime": 2622.657,
+          "duration": 122.192
+        },
+        {
+          "id": "alea-alea-1107-t24",
+          "title": "Kapitel 22: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 23,
+          "startTime": 2744.849,
+          "duration": 121.874
+        },
+        {
+          "id": "alea-alea-1107-t25",
+          "title": "Kapitel 23: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 24,
+          "startTime": 2866.723,
+          "duration": 121.371
+        },
+        {
+          "id": "alea-alea-1107-t26",
+          "title": "Kapitel 24: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 25,
+          "startTime": 2988.094,
+          "duration": 122.544
+        },
+        {
+          "id": "alea-alea-1107-t27",
+          "title": "Kapitel 25: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 26,
+          "startTime": 3110.638,
+          "duration": 121.471
+        },
+        {
+          "id": "alea-alea-1107-t28",
+          "title": "Kapitel 26: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 27,
+          "startTime": 3232.109,
+          "duration": 122.897
+        },
+        {
+          "id": "alea-alea-1107-t29",
+          "title": "Kapitel 27: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 28,
+          "startTime": 3355.006,
+          "duration": 122.729
+        },
+        {
+          "id": "alea-alea-1107-t30",
+          "title": "Kapitel 28: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 29,
+          "startTime": 3477.735,
+          "duration": 128.968
+        },
+        {
+          "id": "alea-alea-1107-t31",
+          "title": "Kapitel 29: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 30,
+          "startTime": 3606.703,
+          "duration": 121.823
+        },
+        {
+          "id": "alea-alea-1107-t32",
+          "title": "Kapitel 30: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 31,
+          "startTime": 3728.526,
+          "duration": 123.039
+        },
+        {
+          "id": "alea-alea-1107-t33",
+          "title": "Kapitel 31: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 32,
+          "startTime": 3851.565,
+          "duration": 121.932
+        },
+        {
+          "id": "alea-alea-1107-t34",
+          "title": "Kapitel 32: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 33,
+          "startTime": 3973.497,
+          "duration": 121.371
+        },
+        {
+          "id": "alea-alea-1107-t35",
+          "title": "Kapitel 33: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 34,
+          "startTime": 4094.868,
+          "duration": 121.169
+        },
+        {
+          "id": "alea-alea-1107-t36",
+          "title": "Kapitel 34: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 35,
+          "startTime": 4216.037,
+          "duration": 122.134
+        },
+        {
+          "id": "alea-alea-1107-t37",
+          "title": "Kapitel 35: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 36,
+          "startTime": 4338.171,
+          "duration": 123.576
+        },
+        {
+          "id": "alea-alea-1107-t38",
+          "title": "Kapitel 36: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 37,
+          "startTime": 4461.747,
+          "duration": 121.002
+        },
+        {
+          "id": "alea-alea-1107-t39",
+          "title": "Kapitel 37: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 38,
+          "startTime": 4582.749,
+          "duration": 121.365
+        },
+        {
+          "id": "alea-alea-1107-t40",
+          "title": "Kapitel 38: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 39,
+          "startTime": 4704.114,
+          "duration": 120.151
+        },
+        {
+          "id": "alea-alea-1107-t41",
+          "title": "Kapitel 39: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 40,
+          "startTime": 4824.265,
+          "duration": 120.498
+        },
+        {
+          "id": "alea-alea-1107-t42",
+          "title": "Kapitel 40: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 41,
+          "startTime": 4944.763,
+          "duration": 122.343
+        },
+        {
+          "id": "alea-alea-1107-t43",
+          "title": "Kapitel 41: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 42,
+          "startTime": 5067.106,
+          "duration": 121.345
+        },
+        {
+          "id": "alea-alea-1107-t44",
+          "title": "Kapitel 42: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 43,
+          "startTime": 5188.451,
+          "duration": 121.622
+        },
+        {
+          "id": "alea-alea-1107-t45",
+          "title": "Kapitel 43: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 44,
+          "startTime": 5310.073,
+          "duration": 123.308
+        },
+        {
+          "id": "alea-alea-1107-t46",
+          "title": "Kapitel 44: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 45,
+          "startTime": 5433.381,
+          "duration": 120.582
+        },
+        {
+          "id": "alea-alea-1107-t47",
+          "title": "Kapitel 45: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 46,
+          "startTime": 5553.963,
+          "duration": 123.66
+        },
+        {
+          "id": "alea-alea-1107-t48",
+          "title": "Kapitel 46: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 47,
+          "startTime": 5677.623,
+          "duration": 122.285
+        },
+        {
+          "id": "alea-alea-1107-t49",
+          "title": "Credits: Die geheime Unterwasser-Kuppel (Folge 05)",
+          "index": 48,
+          "startTime": 5799.908,
+          "duration": 135.559
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

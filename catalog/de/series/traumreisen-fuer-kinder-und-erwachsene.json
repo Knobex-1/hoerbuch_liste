@@ -15,11 +15,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/c6/e4/a7c6e415-0fdc-1be6-1807-203c32133bef/4066004967776_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele mit dem Titel 'Traumreise: Abendlicher Strandspaziergang - EP', das sich an Kinder und Erwachsene richtet. Es bietet eine entspannende und fantasievolle Reise durch verschiedene Themengebiete, ideal für entspannte Momente und Unterhaltung.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895848715"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-8715-t01",
+          "title": "Folge 1 - Traumreise: Abendlicher Strandspaziergang",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 181.678
+        },
+        {
+          "id": "trau-trau-8715-t02",
+          "title": "Folge 2 - Traumreise: Abendlicher Strandspaziergang",
+          "index": 1,
+          "startTime": 181.678,
+          "duration": 182.23
+        },
+        {
+          "id": "trau-trau-8715-t03",
+          "title": "Folge 3 - Traumreise: Abendlicher Strandspaziergang",
+          "index": 2,
+          "startTime": 363.908,
+          "duration": 189.157
+        },
+        {
+          "id": "trau-trau-8715-t04",
+          "title": "Folge 4 - Traumreise: Abendlicher Strandspaziergang",
+          "index": 3,
+          "startTime": 553.065,
+          "duration": 204.805
+        }
+      ]
     },
     {
       "id": "1895849190",
@@ -28,11 +57,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/5b/8c/5a5b8ca8-d9fd-a688-4c3f-48b8fa6c14b8/4066004967813_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele, die sich in einem geheimnisvollen Blumengarten spielen und für Kinder und Erwachsene geeignet sind.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895849190"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-9190-t01",
+          "title": "Folge 1 - Traumreise: Der geheimnisvolle Blumengarten",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.38
+        },
+        {
+          "id": "trau-trau-9190-t02",
+          "title": "Folge 2 - Traumreise: Der geheimnisvolle Blumengarten",
+          "index": 1,
+          "startTime": 180.38,
+          "duration": 182.852
+        },
+        {
+          "id": "trau-trau-9190-t03",
+          "title": "Folge 3 - Traumreise: Der geheimnisvolle Blumengarten",
+          "index": 2,
+          "startTime": 363.232,
+          "duration": 189.833
+        },
+        {
+          "id": "trau-trau-9190-t04",
+          "title": "Folge 4 - Traumreise: Der geheimnisvolle Blumengarten",
+          "index": 3,
+          "startTime": 553.065,
+          "duration": 204.805
+        }
+      ]
     },
     {
       "id": "1895858816",
@@ -41,11 +99,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/b4/f9/c8b4f9fe-9a4a-f87b-96ab-944a7985f34c/4066004967851_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album bietet eine Reise in die 80er Jahre, ideal für Kinder und Erwachsene. Es enthält verschiedene Hörspiel-Stücke, die Unterhaltung und Unterhaltung bieten.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895858816"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-8816-t01",
+          "title": "Folge 1 - Traumreise: Ein Tag in den 80er Jahren",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.648
+        },
+        {
+          "id": "trau-trau-8816-t02",
+          "title": "Folge 2 - Traumreise: Ein Tag in den 80er Jahren",
+          "index": 1,
+          "startTime": 180.648,
+          "duration": 180.581
+        },
+        {
+          "id": "trau-trau-8816-t03",
+          "title": "Folge 3 - Traumreise: Ein Tag in den 80er Jahren",
+          "index": 2,
+          "startTime": 361.229,
+          "duration": 181.744
+        },
+        {
+          "id": "trau-trau-8816-t04",
+          "title": "Folge 4 - Traumreise: Ein Tag in den 80er Jahren",
+          "index": 3,
+          "startTime": 542.973,
+          "duration": 214.897
+        }
+      ]
     },
     {
       "id": "1895857672",
@@ -54,11 +141,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/b6/c0/edb6c080-a1ad-cf71-baaa-4fa5edbcc14a/4066004967530_3000.jpg/100x100bb.jpg",
       "description": "Das Album 'Traumreise: Endlich Frühling - EP' von 'Traumreisen für Kinder und Erwachsene' ist ein Hörspielalbum mit 4 Tracks im Genre Hörspiel.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895857672"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-7672-t01",
+          "title": "Folge 1 - Traumreise: Endlich Frühling",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 181.409
+        },
+        {
+          "id": "trau-trau-7672-t02",
+          "title": "Folge 2 - Traumreise: Endlich Frühling",
+          "index": 1,
+          "startTime": 181.409,
+          "duration": 180.146
+        },
+        {
+          "id": "trau-trau-7672-t03",
+          "title": "Folge 3 - Traumreise: Endlich Frühling",
+          "index": 2,
+          "startTime": 361.555,
+          "duration": 181.417
+        },
+        {
+          "id": "trau-trau-7672-t04",
+          "title": "Folge 4 - Traumreise: Endlich Frühling",
+          "index": 3,
+          "startTime": 542.972,
+          "duration": 214.898
+        }
+      ]
     },
     {
       "id": "1895859316",
@@ -67,11 +183,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/b6/67/f3b667bd-39d2-6c3d-c3b6-23ca17d56f4d/4066004967899_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele im Genre 'Hörspiele', das speziell für Kinder und Erwachsene konzipiert ist, was auf ein Unterhaltungsformat im Hörbuchstil hinweist.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895859316"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-9316-t01",
+          "title": "Folge 1 - Traumreise: Festival of Lights in Berlin",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.797
+        },
+        {
+          "id": "trau-trau-9316-t02",
+          "title": "Folge 2 - Traumreise: Festival of Lights in Berlin",
+          "index": 1,
+          "startTime": 180.797,
+          "duration": 182.026
+        },
+        {
+          "id": "trau-trau-9316-t03",
+          "title": "Folge 3 - Traumreise: Festival of Lights in Berlin",
+          "index": 2,
+          "startTime": 362.823,
+          "duration": 188.822
+        },
+        {
+          "id": "trau-trau-9316-t04",
+          "title": "Folge 4 - Traumreise: Festival of Lights in Berlin",
+          "index": 3,
+          "startTime": 551.645,
+          "duration": 206.225
+        }
+      ]
     },
     {
       "id": "1895849617",
@@ -80,11 +225,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/59/ac/4259ac95-2a3c-2982-4f20-1f5298bfd7a0/4066004967738_3000.jpg/100x100bb.jpg",
       "description": "Ein Album, das sich auf Hörspiele für Kinder und Erwachsene konzentriert, deutet stark darauf hin, dass es sich um ein Hörspiel oder Hörbuch handelt.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895849617"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-9617-t01",
+          "title": "Folge 1 - Traumreise: In den bunten Herbstwald",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.533
+        },
+        {
+          "id": "trau-trau-9617-t02",
+          "title": "Folge 2 - Traumreise: In den bunten Herbstwald",
+          "index": 1,
+          "startTime": 180.533,
+          "duration": 182.699
+        },
+        {
+          "id": "trau-trau-9617-t03",
+          "title": "Folge 3 - Traumreise: In den bunten Herbstwald",
+          "index": 2,
+          "startTime": 363.232,
+          "duration": 189.833
+        },
+        {
+          "id": "trau-trau-9617-t04",
+          "title": "Folge 4 - Traumreise: In den bunten Herbstwald",
+          "index": 3,
+          "startTime": 553.065,
+          "duration": 204.805
+        }
+      ]
     },
     {
       "id": "1895857213",
@@ -93,11 +267,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/6e/0e/9d6e0e4c-b74f-8a8c-4ab2-c94e04266826/4066004967493_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele für Kinder und Erwachsene, die sich auf Sommerfeste im Park konzentrieren.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895857213"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-7213-t01",
+          "title": "Folge 1 - Traumreise: Sommerfest im Park",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 181.443
+        },
+        {
+          "id": "trau-trau-7213-t02",
+          "title": "Folge 2 - Traumreise: Sommerfest im Park",
+          "index": 1,
+          "startTime": 181.443,
+          "duration": 189.415
+        },
+        {
+          "id": "trau-trau-7213-t03",
+          "title": "Folge 3 - Traumreise: Sommerfest im Park",
+          "index": 2,
+          "startTime": 370.858,
+          "duration": 182.207
+        },
+        {
+          "id": "trau-trau-7213-t04",
+          "title": "Folge 4 - Traumreise: Sommerfest im Park",
+          "index": 3,
+          "startTime": 553.065,
+          "duration": 204.805
+        }
+      ]
     },
     {
       "id": "1895849691",
@@ -106,11 +309,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/ff/24/a3ff24a2-bd95-3a00-56cb-896b3d2cebf2/4066004967691_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele, die sich auf eine Reise durch Berlin konzentrieren und sowohl Kinder als auch Erwachsene ansprechen.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895849691"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-9691-t01",
+          "title": "Folge 1 - Traumreise: Spaziergang durch Berlin",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.9
+        },
+        {
+          "id": "trau-trau-9691-t02",
+          "title": "Folge 2 - Traumreise: Spaziergang durch Berlin",
+          "index": 1,
+          "startTime": 180.9,
+          "duration": 189.863
+        },
+        {
+          "id": "trau-trau-9691-t03",
+          "title": "Folge 3 - Traumreise: Spaziergang durch Berlin",
+          "index": 2,
+          "startTime": 370.763,
+          "duration": 182.302
+        },
+        {
+          "id": "trau-trau-9691-t04",
+          "title": "Folge 4 - Traumreise: Spaziergang durch Berlin",
+          "index": 3,
+          "startTime": 553.065,
+          "duration": 204.805
+        }
+      ]
     },
     {
       "id": "6764612330",
@@ -119,11 +351,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/f7/3a/4ff73a56-a14a-3944-1988-f5b3d6df8204/4066004967653_3000.jpg/100x100bb.jpg",
       "description": "Ein Album, das sich auf eine 'Traumreise durch Rom' konzentriert und sich an Kinder und Erwachsene richtet, deutet stark auf ein Hörspiel oder Hörbuch hin, da es sich um eine fiktive Erzählung oder Geschichte handelt.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "6764612330"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-2330-t01",
+          "title": "Folge 1 - Traumreise: Spaziergang durch Rom",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.658
+        },
+        {
+          "id": "trau-trau-2330-t02",
+          "title": "Folge 2 - Traumreise: Spaziergang durch Rom",
+          "index": 1,
+          "startTime": 180.658,
+          "duration": 181.228
+        },
+        {
+          "id": "trau-trau-2330-t03",
+          "title": "Folge 3 - Traumreise: Spaziergang durch Rom",
+          "index": 2,
+          "startTime": 361.886,
+          "duration": 181.087
+        },
+        {
+          "id": "trau-trau-2330-t04",
+          "title": "Folge 4 - Traumreise: Spaziergang durch Rom",
+          "index": 3,
+          "startTime": 542.973,
+          "duration": 214.897
+        }
+      ]
     },
     {
       "id": "1895858367",
@@ -132,11 +393,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/b9/9a/33b99a87-fd3a-0c98-7d2f-a048c27451a4/4066004967615_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele, die sich auf eine Reise durch Tokio konzentrieren und für Kinder und Erwachsene gedacht sind.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895858367"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-8367-t01",
+          "title": "Folge 1 - Traumreise: Spaziergang durch Tokio",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.125
+        },
+        {
+          "id": "trau-trau-8367-t02",
+          "title": "Folge 2 - Traumreise: Spaziergang durch Tokio",
+          "index": 1,
+          "startTime": 180.125,
+          "duration": 180.125
+        },
+        {
+          "id": "trau-trau-8367-t03",
+          "title": "Folge 3 - Traumreise: Spaziergang durch Tokio",
+          "index": 2,
+          "startTime": 360.25,
+          "duration": 182.722
+        },
+        {
+          "id": "trau-trau-8367-t04",
+          "title": "Folge 4 - Traumreise: Spaziergang durch Tokio",
+          "index": 3,
+          "startTime": 542.972,
+          "duration": 214.898
+        }
+      ]
     },
     {
       "id": "1895858172",
@@ -145,12 +435,41 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/0c/3a/190c3ad6-2da5-78cd-ce99-7226d52e9292/4066004967578_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album bietet eine winterliche Reise durch die Natur, ideal für Entspannung und Unterhaltung für Kinder und Erwachsene.",
-      "totalDuration": 0,
+      "totalDuration": 757.87,
       "platforms": {
         "appleMusic": "1895858172"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "trau-trau-8172-t01",
+          "title": "Folge 1 - Traumreise: Winterlicher Spaziergang am See",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.125
+        },
+        {
+          "id": "trau-trau-8172-t02",
+          "title": "Folge 2 - Traumreise: Winterlicher Spaziergang am See",
+          "index": 1,
+          "startTime": 180.125,
+          "duration": 181.026
+        },
+        {
+          "id": "trau-trau-8172-t03",
+          "title": "Folge 3 - Traumreise: Winterlicher Spaziergang am See",
+          "index": 2,
+          "startTime": 361.151,
+          "duration": 181.821
+        },
+        {
+          "id": "trau-trau-8172-t04",
+          "title": "Folge 4 - Traumreise: Winterlicher Spaziergang am See",
+          "index": 3,
+          "startTime": 542.972,
+          "duration": 214.898
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

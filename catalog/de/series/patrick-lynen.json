@@ -262,11 +262,40 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/57/c9/12/57c912c2-5ae8-60a1-4eb4-db20a9a73638/859731604496_cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält beruhigende Mini-Meditationen für Kinder, die zum Einschlafen und Träumen dienen. Es ist Teil des Genres Hörspiele und zielt darauf ab, ein entspannendes Erlebnis für Kinder zu bieten.",
-      "totalDuration": 0,
+      "totalDuration": 3713.681,
       "platforms": {
         "appleMusic": "1457385142"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "patr-eins-5142-t01",
+          "title": "Traumhafte Bilder",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 644.827
+        },
+        {
+          "id": "patr-eins-5142-t02",
+          "title": "Der Loewe in Dir",
+          "index": 1,
+          "startTime": 644.827,
+          "duration": 1291.667
+        },
+        {
+          "id": "patr-eins-5142-t03",
+          "title": "Sanft, Weich Und Warm",
+          "index": 2,
+          "startTime": 1936.494,
+          "duration": 639.947
+        },
+        {
+          "id": "patr-eins-5142-t04",
+          "title": "Das Licht in Dir",
+          "index": 3,
+          "startTime": 2576.441,
+          "duration": 1137.24
+        }
+      ]
     },
     {
       "id": "1732707617",
@@ -750,5 +779,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

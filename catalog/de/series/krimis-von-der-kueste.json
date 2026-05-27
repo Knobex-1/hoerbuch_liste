@@ -17,11 +17,201 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/89/7a/30897ab2-f5e2-215d-25be-663faec8ddca/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 1: Theresa' aus der Reihe 'Krimis von der Küste'. Es bietet spannende Kriminalgeschichten entlang der Küste.",
-      "totalDuration": 0,
+      "totalDuration": 4186.496,
       "platforms": {
         "appleMusic": "1695602779"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-folg-2779-t01",
+          "title": "Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t02",
+          "title": "Kapitel 2",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t03",
+          "title": "Kapitel 3",
+          "index": 2,
+          "startTime": 302.446,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t04",
+          "title": "Kapitel 4",
+          "index": 3,
+          "startTime": 453.669,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t05",
+          "title": "Kapitel 5",
+          "index": 4,
+          "startTime": 604.892,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t06",
+          "title": "Kapitel 6",
+          "index": 5,
+          "startTime": 756.115,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t07",
+          "title": "Kapitel 7",
+          "index": 6,
+          "startTime": 907.338,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t08",
+          "title": "Kapitel 8",
+          "index": 7,
+          "startTime": 1058.561,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t09",
+          "title": "Kapitel 9",
+          "index": 8,
+          "startTime": 1209.784,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t10",
+          "title": "Kapitel 10",
+          "index": 9,
+          "startTime": 1361.007,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t11",
+          "title": "Kapitel 11",
+          "index": 10,
+          "startTime": 1512.23,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t12",
+          "title": "Kapitel 12",
+          "index": 11,
+          "startTime": 1663.453,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t13",
+          "title": "Kapitel 13",
+          "index": 12,
+          "startTime": 1814.676,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t14",
+          "title": "Kapitel 14",
+          "index": 13,
+          "startTime": 1965.899,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t15",
+          "title": "Kapitel 15",
+          "index": 14,
+          "startTime": 2117.122,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t16",
+          "title": "Kapitel 16",
+          "index": 15,
+          "startTime": 2268.345,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t17",
+          "title": "Kapitel 17",
+          "index": 16,
+          "startTime": 2419.568,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t18",
+          "title": "Kapitel 18",
+          "index": 17,
+          "startTime": 2570.791,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t19",
+          "title": "Kapitel 19",
+          "index": 18,
+          "startTime": 2722.014,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t20",
+          "title": "Kapitel 20",
+          "index": 19,
+          "startTime": 2873.237,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t21",
+          "title": "Kapitel 21",
+          "index": 20,
+          "startTime": 3024.46,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t22",
+          "title": "Kapitel 22",
+          "index": 21,
+          "startTime": 3175.683,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t23",
+          "title": "Kapitel 23",
+          "index": 22,
+          "startTime": 3326.906,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t24",
+          "title": "Kapitel 24",
+          "index": 23,
+          "startTime": 3478.129,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t25",
+          "title": "Kapitel 25",
+          "index": 24,
+          "startTime": 3629.352,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t26",
+          "title": "Kapitel 26",
+          "index": 25,
+          "startTime": 3780.575,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-folg-2779-t27",
+          "title": "Kapitel 27",
+          "index": 26,
+          "startTime": 3931.798,
+          "duration": 254.698
+        }
+      ]
     },
     {
       "id": "1715474350",
@@ -30,11 +220,159 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/d1/ae/00d1aea9-670a-219b-7804-9ceb4a59e316/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele, die sich auf Krimis entlang der Küste konzentrieren. Es bietet Spannung und Spannung in der Atmosphäre der Nordseeküste.",
-      "totalDuration": 0,
+      "totalDuration": 3229.043,
       "platforms": {
         "appleMusic": "1715474350"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-krim-4350-t01",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t02",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 2)",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t03",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 3)",
+          "index": 2,
+          "startTime": 302.446,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t04",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 4)",
+          "index": 3,
+          "startTime": 453.669,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t05",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 5)",
+          "index": 4,
+          "startTime": 604.892,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t06",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 6)",
+          "index": 5,
+          "startTime": 756.115,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t07",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 7)",
+          "index": 6,
+          "startTime": 907.338,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t08",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 8)",
+          "index": 7,
+          "startTime": 1058.561,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t09",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 9)",
+          "index": 8,
+          "startTime": 1209.784,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t10",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 10)",
+          "index": 9,
+          "startTime": 1361.007,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t11",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 11)",
+          "index": 10,
+          "startTime": 1512.23,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t12",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 12)",
+          "index": 11,
+          "startTime": 1663.453,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t13",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 13)",
+          "index": 12,
+          "startTime": 1814.676,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t14",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 14)",
+          "index": 13,
+          "startTime": 1965.899,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t15",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 15)",
+          "index": 14,
+          "startTime": 2117.122,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t16",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 16)",
+          "index": 15,
+          "startTime": 2268.345,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t17",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 17)",
+          "index": 16,
+          "startTime": 2419.568,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t18",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 18)",
+          "index": 17,
+          "startTime": 2570.791,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t19",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 19)",
+          "index": 18,
+          "startTime": 2722.014,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t20",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 20)",
+          "index": 19,
+          "startTime": 2873.237,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-4350-t21",
+          "title": "Krimis von der Küste Folge 2 - Bis zum Hals (Teil 21)",
+          "index": 20,
+          "startTime": 3024.46,
+          "duration": 204.583
+        }
+      ]
     },
     {
       "id": "1734258821",
@@ -43,11 +381,173 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f1/7f/52/f17f52de-766e-7c8b-0aa4-68192f2444a4/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Krimis und ist als Hörspiel formatiert.",
-      "totalDuration": 0,
+      "totalDuration": 3478.129,
       "platforms": {
         "appleMusic": "1734258821"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-krim-8821-t01",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t02",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 2)",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t03",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 3)",
+          "index": 2,
+          "startTime": 302.446,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t04",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 4)",
+          "index": 3,
+          "startTime": 453.669,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t05",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 5)",
+          "index": 4,
+          "startTime": 604.892,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t06",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 6)",
+          "index": 5,
+          "startTime": 756.115,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t07",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 7)",
+          "index": 6,
+          "startTime": 907.338,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t08",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 8)",
+          "index": 7,
+          "startTime": 1058.561,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t09",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 9)",
+          "index": 8,
+          "startTime": 1209.784,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t10",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 10)",
+          "index": 9,
+          "startTime": 1361.007,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t11",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 11)",
+          "index": 10,
+          "startTime": 1512.23,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t12",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 12)",
+          "index": 11,
+          "startTime": 1663.453,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t13",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 13)",
+          "index": 12,
+          "startTime": 1814.676,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t14",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 14)",
+          "index": 13,
+          "startTime": 1965.899,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t15",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 15)",
+          "index": 14,
+          "startTime": 2117.122,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t16",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 16)",
+          "index": 15,
+          "startTime": 2268.345,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t17",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 17)",
+          "index": 16,
+          "startTime": 2419.568,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t18",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 18)",
+          "index": 17,
+          "startTime": 2570.791,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t19",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 19)",
+          "index": 18,
+          "startTime": 2722.014,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t20",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 20)",
+          "index": 19,
+          "startTime": 2873.237,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t21",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 21)",
+          "index": 20,
+          "startTime": 3024.46,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t22",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 22)",
+          "index": 21,
+          "startTime": 3175.683,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-8821-t23",
+          "title": "Krimis von der Küste Folge 3 - Sommerschnee (Teil 23)",
+          "index": 22,
+          "startTime": 3326.906,
+          "duration": 151.223
+        }
+      ]
     },
     {
       "id": "1764941824",
@@ -56,11 +556,152 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/17/6c/f1176ce7-ad05-19c2-db4f-908141c108ce/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album beinhaltet Krimis, die an der Küste spielen und sich auf Spannung und Spannung konzentrieren.",
-      "totalDuration": 0,
+      "totalDuration": 3659.687,
       "platforms": {
         "appleMusic": "1764941824"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-krim-1824-t01",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-1824-t02",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 2)",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t03",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 3)",
+          "index": 2,
+          "startTime": 332.905,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t04",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 4)",
+          "index": 3,
+          "startTime": 514.587,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t05",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 5)",
+          "index": 4,
+          "startTime": 696.269,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t06",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 6)",
+          "index": 5,
+          "startTime": 877.951,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t07",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 7)",
+          "index": 6,
+          "startTime": 1059.633,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t08",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 8)",
+          "index": 7,
+          "startTime": 1241.315,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t09",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 9)",
+          "index": 8,
+          "startTime": 1422.997,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t10",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 10)",
+          "index": 9,
+          "startTime": 1604.679,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t11",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 11)",
+          "index": 10,
+          "startTime": 1786.361,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t12",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 12)",
+          "index": 11,
+          "startTime": 1968.043,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t13",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 13)",
+          "index": 12,
+          "startTime": 2149.725,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t14",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 14)",
+          "index": 13,
+          "startTime": 2331.407,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t15",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 15)",
+          "index": 14,
+          "startTime": 2513.089,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t16",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 16)",
+          "index": 15,
+          "startTime": 2694.771,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t17",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 17)",
+          "index": 16,
+          "startTime": 2876.453,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t18",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 18)",
+          "index": 17,
+          "startTime": 3058.135,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t19",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 19)",
+          "index": 18,
+          "startTime": 3239.817,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1824-t20",
+          "title": "Krimis von der Küste Folge 4 - Ich sehe Dich (Teil 20)",
+          "index": 19,
+          "startTime": 3421.499,
+          "duration": 238.188
+        }
+      ]
     },
     {
       "id": "1764941444",
@@ -69,11 +710,180 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/3d/6a/413d6a41-f8aa-71e6-39f1-c17796160a43/cover.jpg/100x100bb.jpg",
       "description": "Das Album enthält Hörspiel-Tracks über Kriminalfälle an der Küste.",
-      "totalDuration": 0,
+      "totalDuration": 4300.048,
       "platforms": {
         "appleMusic": "1764941444"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-krim-1444-t01",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-1444-t02",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 2)",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t03",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 3)",
+          "index": 2,
+          "startTime": 332.905,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t04",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 4)",
+          "index": 3,
+          "startTime": 514.587,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t05",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 5)",
+          "index": 4,
+          "startTime": 696.269,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t06",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 6)",
+          "index": 5,
+          "startTime": 877.951,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t07",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 7)",
+          "index": 6,
+          "startTime": 1059.633,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t08",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 8)",
+          "index": 7,
+          "startTime": 1241.315,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t09",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 9)",
+          "index": 8,
+          "startTime": 1422.997,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t10",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 10)",
+          "index": 9,
+          "startTime": 1604.679,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t11",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 11)",
+          "index": 10,
+          "startTime": 1786.361,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t12",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 12)",
+          "index": 11,
+          "startTime": 1968.043,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t13",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 13)",
+          "index": 12,
+          "startTime": 2149.725,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t14",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 14)",
+          "index": 13,
+          "startTime": 2331.407,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t15",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 15)",
+          "index": 14,
+          "startTime": 2513.089,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t16",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 16)",
+          "index": 15,
+          "startTime": 2694.771,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t17",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 17)",
+          "index": 16,
+          "startTime": 2876.453,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t18",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 18)",
+          "index": 17,
+          "startTime": 3058.135,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t19",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 19)",
+          "index": 18,
+          "startTime": 3239.817,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t20",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 20)",
+          "index": 19,
+          "startTime": 3421.499,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t21",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 21)",
+          "index": 20,
+          "startTime": 3603.181,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t22",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 22)",
+          "index": 21,
+          "startTime": 3784.863,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t23",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 23)",
+          "index": 22,
+          "startTime": 3966.545,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1444-t24",
+          "title": "Krimis von der Küste Folge 5 - Ich sehe Dich (Teil 24)",
+          "index": 23,
+          "startTime": 4148.227,
+          "duration": 151.821
+        }
+      ]
     },
     {
       "id": "1784941851",
@@ -82,11 +892,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/d9/68/26d96899-3203-7933-a43d-0637fdc08fdf/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele, die sich um Kriminalfälle an der Küste drehen.",
-      "totalDuration": 0,
+      "totalDuration": 4622.329,
       "platforms": {
         "appleMusic": "1784941851"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-krim-1851-t01",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-1851-t02",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 2)",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t03",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 3)",
+          "index": 2,
+          "startTime": 332.905,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t04",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 4)",
+          "index": 3,
+          "startTime": 514.587,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t05",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 5)",
+          "index": 4,
+          "startTime": 696.269,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t06",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 6)",
+          "index": 5,
+          "startTime": 877.951,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t07",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 7)",
+          "index": 6,
+          "startTime": 1059.633,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t08",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 8)",
+          "index": 7,
+          "startTime": 1241.315,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t09",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 9)",
+          "index": 8,
+          "startTime": 1422.997,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t10",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 10)",
+          "index": 9,
+          "startTime": 1604.679,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t11",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 11)",
+          "index": 10,
+          "startTime": 1786.361,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t12",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 12)",
+          "index": 11,
+          "startTime": 1968.043,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t13",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 13)",
+          "index": 12,
+          "startTime": 2149.725,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t14",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 14)",
+          "index": 13,
+          "startTime": 2331.407,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t15",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 15)",
+          "index": 14,
+          "startTime": 2513.089,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t16",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 16)",
+          "index": 15,
+          "startTime": 2694.771,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t17",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 17)",
+          "index": 16,
+          "startTime": 2876.453,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t18",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 18)",
+          "index": 17,
+          "startTime": 3058.135,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t19",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 19)",
+          "index": 18,
+          "startTime": 3239.817,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t20",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 20)",
+          "index": 19,
+          "startTime": 3421.499,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t21",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 21)",
+          "index": 20,
+          "startTime": 3603.181,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t22",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 22)",
+          "index": 21,
+          "startTime": 3784.863,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t23",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 23)",
+          "index": 22,
+          "startTime": 3966.545,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t24",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 24)",
+          "index": 23,
+          "startTime": 4148.227,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-1851-t25",
+          "title": "Krimis von der Küste Folge 6 - Giftiger Tee (Teil 25)",
+          "index": 24,
+          "startTime": 4329.909,
+          "duration": 292.42
+        }
+      ]
     },
     {
       "id": "1795433584",
@@ -95,11 +1081,180 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/83/ff/3583ffad-88d7-46ed-f0e4-f16510db3de6/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele im Genre 'Krimi' mit einer besonderen Verbindung zur Küste. Es bietet spannende Geschichten in 24 Folgen, ideal für Krimifans.",
-      "totalDuration": 0,
+      "totalDuration": 4395.088,
       "platforms": {
         "appleMusic": "1795433584"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-krim-3584-t01",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-3584-t02",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 2)",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t03",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 3)",
+          "index": 2,
+          "startTime": 332.905,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t04",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 4)",
+          "index": 3,
+          "startTime": 514.587,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t05",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 5)",
+          "index": 4,
+          "startTime": 696.269,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t06",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 6)",
+          "index": 5,
+          "startTime": 877.951,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t07",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 7)",
+          "index": 6,
+          "startTime": 1059.633,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t08",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 8)",
+          "index": 7,
+          "startTime": 1241.315,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t09",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 9)",
+          "index": 8,
+          "startTime": 1422.997,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t10",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 10)",
+          "index": 9,
+          "startTime": 1604.679,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t11",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 11)",
+          "index": 10,
+          "startTime": 1786.361,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t12",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 12)",
+          "index": 11,
+          "startTime": 1968.043,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t13",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 13)",
+          "index": 12,
+          "startTime": 2149.725,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t14",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 14)",
+          "index": 13,
+          "startTime": 2331.407,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t15",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 15)",
+          "index": 14,
+          "startTime": 2513.089,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t16",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 16)",
+          "index": 15,
+          "startTime": 2694.771,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t17",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 17)",
+          "index": 16,
+          "startTime": 2876.453,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t18",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 18)",
+          "index": 17,
+          "startTime": 3058.135,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t19",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 19)",
+          "index": 18,
+          "startTime": 3239.817,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t20",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 20)",
+          "index": 19,
+          "startTime": 3421.499,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t21",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 21)",
+          "index": 20,
+          "startTime": 3603.181,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t22",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 22)",
+          "index": 21,
+          "startTime": 3784.863,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t23",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 23)",
+          "index": 22,
+          "startTime": 3966.545,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-3584-t24",
+          "title": "Krimis von der Küste Folge 7 - Trübes Wasser (Teil 24)",
+          "index": 23,
+          "startTime": 4148.227,
+          "duration": 246.861
+        }
+      ]
     },
     {
       "id": "1846569706",
@@ -108,11 +1263,145 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/37/2e/44372e56-ee23-8e7c-df34-e70ce2b795da/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält 19 Hörspiel-Episoden über Krimis, die sich an der Küste von Cuxhaven abspielen.",
-      "totalDuration": 0,
+      "totalDuration": 3478.006,
       "platforms": {
         "appleMusic": "1846569706"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-krim-9706-t01",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-9706-t02",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 2)",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t03",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 3)",
+          "index": 2,
+          "startTime": 332.905,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t04",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 4)",
+          "index": 3,
+          "startTime": 514.587,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t05",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 5)",
+          "index": 4,
+          "startTime": 696.269,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t06",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 6)",
+          "index": 5,
+          "startTime": 877.951,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t07",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 7)",
+          "index": 6,
+          "startTime": 1059.633,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t08",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 8)",
+          "index": 7,
+          "startTime": 1241.315,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t09",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 9)",
+          "index": 8,
+          "startTime": 1422.997,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t10",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 10)",
+          "index": 9,
+          "startTime": 1604.679,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t11",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 11)",
+          "index": 10,
+          "startTime": 1786.361,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t12",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 12)",
+          "index": 11,
+          "startTime": 1968.043,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t13",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 13)",
+          "index": 12,
+          "startTime": 2149.725,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t14",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 14)",
+          "index": 13,
+          "startTime": 2331.407,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t15",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 15)",
+          "index": 14,
+          "startTime": 2513.089,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t16",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 16)",
+          "index": 15,
+          "startTime": 2694.771,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t17",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 17)",
+          "index": 16,
+          "startTime": 2876.453,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t18",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 18)",
+          "index": 17,
+          "startTime": 3058.135,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-9706-t19",
+          "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven (Teil 19)",
+          "index": 18,
+          "startTime": 3239.817,
+          "duration": 238.189
+        }
+      ]
     },
     {
       "id": "1879555166",
@@ -121,12 +1410,153 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/da/e4/f2dae4f8-613a-1fa4-7b62-8c00d5fd262f/cover.jpg/100x100bb.jpg",
       "description": "Das Album enthält Hörspiele über Krimis, die an der Küste angesiedelt sind.",
-      "totalDuration": 0,
+      "totalDuration": 3634.5,
       "platforms": {
         "appleMusic": "1879555166"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "krim-krim-5166-t01",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 151.223
+        },
+        {
+          "id": "krim-krim-5166-t02",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 2)",
+          "index": 1,
+          "startTime": 151.223,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t03",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 3)",
+          "index": 2,
+          "startTime": 332.905,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t04",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 4)",
+          "index": 3,
+          "startTime": 514.587,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t05",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 5)",
+          "index": 4,
+          "startTime": 696.269,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t06",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 6)",
+          "index": 5,
+          "startTime": 877.951,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t07",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 7)",
+          "index": 6,
+          "startTime": 1059.633,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t08",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 8)",
+          "index": 7,
+          "startTime": 1241.315,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t09",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 9)",
+          "index": 8,
+          "startTime": 1422.997,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t10",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 10)",
+          "index": 9,
+          "startTime": 1604.679,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t11",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 11)",
+          "index": 10,
+          "startTime": 1786.361,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t12",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 12)",
+          "index": 11,
+          "startTime": 1968.043,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t13",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 13)",
+          "index": 12,
+          "startTime": 2149.725,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t14",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 14)",
+          "index": 13,
+          "startTime": 2331.407,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t15",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 15)",
+          "index": 14,
+          "startTime": 2513.089,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t16",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 16)",
+          "index": 15,
+          "startTime": 2694.771,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t17",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 17)",
+          "index": 16,
+          "startTime": 2876.453,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t18",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 18)",
+          "index": 17,
+          "startTime": 3058.135,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t19",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 19)",
+          "index": 18,
+          "startTime": 3239.817,
+          "duration": 181.682
+        },
+        {
+          "id": "krim-krim-5166-t20",
+          "title": "Krimis von der Küste 09 - Justitias Nacht (Teil 20)",
+          "index": 19,
+          "startTime": 3421.499,
+          "duration": 213.001
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }

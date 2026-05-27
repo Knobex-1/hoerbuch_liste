@@ -15,11 +15,68 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/9d/f5/mzi.tbkfipuy.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält acht Hörspieltracks, die typischerweise in Form von Geschichten oder Dramen produziert sind.",
-      "totalDuration": 0,
+      "totalDuration": 3923.582,
       "platforms": {
         "appleMusic": "311034509"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-dasf-4509-t01",
+          "title": "Deplazierte Liebe",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 558.896
+        },
+        {
+          "id": "kaim-dasf-4509-t02",
+          "title": "Die Last Mit Dem Mobilen Telephon Im Alltag",
+          "index": 1,
+          "startTime": 558.896,
+          "duration": 280.419
+        },
+        {
+          "id": "kaim-dasf-4509-t03",
+          "title": "Unverschämte Kommunikation Unter Anderem Am Beispiel Eines Brötchenkaufs",
+          "index": 2,
+          "startTime": 839.315,
+          "duration": 420.282
+        },
+        {
+          "id": "kaim-dasf-4509-t04",
+          "title": "Hundstage",
+          "index": 3,
+          "startTime": 1259.597,
+          "duration": 457.746
+        },
+        {
+          "id": "kaim-dasf-4509-t05",
+          "title": "Die Sache Mit Dem Renovieren",
+          "index": 4,
+          "startTime": 1717.343,
+          "duration": 705.142
+        },
+        {
+          "id": "kaim-dasf-4509-t06",
+          "title": "Als Ein Hosenkauf In Angriff Genommen Wurde",
+          "index": 5,
+          "startTime": 2422.485,
+          "duration": 467.528
+        },
+        {
+          "id": "kaim-dasf-4509-t07",
+          "title": "Schuhe Kaufen Und Andere Kleidungsprobleme Im Theaterabonnement",
+          "index": 6,
+          "startTime": 2890.013,
+          "duration": 625.983
+        },
+        {
+          "id": "kaim-dasf-4509-t08",
+          "title": "Nimm Den Müll Mit!",
+          "index": 7,
+          "startTime": 3515.996,
+          "duration": 407.586
+        }
+      ]
     },
     {
       "id": "1626074833",
@@ -28,11 +85,257 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/98/85/f0988536-6f1c-a012-6c41-aabe780bf633/4251489304141_3000.jpg/100x100bb.jpg",
       "description": "Ein Album, das sich auf Horror-Hörspiele konzentriert, typisch für deutsche Hörspieltraditionen.",
-      "totalDuration": 0,
+      "totalDuration": 4750.81,
       "platforms": {
         "appleMusic": "1626074833"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-dasg-4833-t01",
+          "title": "Teil 1 - Das Gruselhaus",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 136.672
+        },
+        {
+          "id": "kaim-dasg-4833-t02",
+          "title": "Teil 2 - Das Gruselhaus",
+          "index": 1,
+          "startTime": 136.672,
+          "duration": 214.335
+        },
+        {
+          "id": "kaim-dasg-4833-t03",
+          "title": "Teil 3 - Das Gruselhaus",
+          "index": 2,
+          "startTime": 351.007,
+          "duration": 126.616
+        },
+        {
+          "id": "kaim-dasg-4833-t04",
+          "title": "Teil 4 - Das Gruselhaus",
+          "index": 3,
+          "startTime": 477.623,
+          "duration": 132.911
+        },
+        {
+          "id": "kaim-dasg-4833-t05",
+          "title": "Teil 5 - Das Gruselhaus",
+          "index": 4,
+          "startTime": 610.534,
+          "duration": 143.438
+        },
+        {
+          "id": "kaim-dasg-4833-t06",
+          "title": "Teil 6 - Das Gruselhaus",
+          "index": 5,
+          "startTime": 753.972,
+          "duration": 130.743
+        },
+        {
+          "id": "kaim-dasg-4833-t07",
+          "title": "Teil 7 - Das Gruselhaus",
+          "index": 6,
+          "startTime": 884.715,
+          "duration": 145.476
+        },
+        {
+          "id": "kaim-dasg-4833-t08",
+          "title": "Teil 8 - Das Gruselhaus",
+          "index": 7,
+          "startTime": 1030.191,
+          "duration": 123.716
+        },
+        {
+          "id": "kaim-dasg-4833-t09",
+          "title": "Teil 9 - Das Gruselhaus",
+          "index": 8,
+          "startTime": 1153.907,
+          "duration": 122.122
+        },
+        {
+          "id": "kaim-dasg-4833-t10",
+          "title": "Teil 10 - Das Gruselhaus",
+          "index": 9,
+          "startTime": 1276.029,
+          "duration": 124.134
+        },
+        {
+          "id": "kaim-dasg-4833-t11",
+          "title": "Teil 11 - Das Gruselhaus",
+          "index": 10,
+          "startTime": 1400.163,
+          "duration": 128.94
+        },
+        {
+          "id": "kaim-dasg-4833-t12",
+          "title": "Teil 12 - Das Gruselhaus",
+          "index": 11,
+          "startTime": 1529.103,
+          "duration": 124.343
+        },
+        {
+          "id": "kaim-dasg-4833-t13",
+          "title": "Teil 13 - Das Gruselhaus",
+          "index": 12,
+          "startTime": 1653.446,
+          "duration": 134.4
+        },
+        {
+          "id": "kaim-dasg-4833-t14",
+          "title": "Teil 14 - Das Gruselhaus",
+          "index": 13,
+          "startTime": 1787.846,
+          "duration": 134.139
+        },
+        {
+          "id": "kaim-dasg-4833-t15",
+          "title": "Teil 15 - Das Gruselhaus",
+          "index": 14,
+          "startTime": 1921.985,
+          "duration": 152.816
+        },
+        {
+          "id": "kaim-dasg-4833-t16",
+          "title": "Teil 16 - Das Gruselhaus",
+          "index": 15,
+          "startTime": 2074.801,
+          "duration": 125.649
+        },
+        {
+          "id": "kaim-dasg-4833-t17",
+          "title": "Teil 17 - Das Gruselhaus",
+          "index": 16,
+          "startTime": 2200.45,
+          "duration": 125.231
+        },
+        {
+          "id": "kaim-dasg-4833-t18",
+          "title": "Teil 18 - Das Gruselhaus",
+          "index": 17,
+          "startTime": 2325.681,
+          "duration": 139.703
+        },
+        {
+          "id": "kaim-dasg-4833-t19",
+          "title": "Teil 19 - Das Gruselhaus",
+          "index": 18,
+          "startTime": 2465.384,
+          "duration": 123.977
+        },
+        {
+          "id": "kaim-dasg-4833-t20",
+          "title": "Teil 20 - Das Gruselhaus",
+          "index": 19,
+          "startTime": 2589.361,
+          "duration": 129.254
+        },
+        {
+          "id": "kaim-dasg-4833-t21",
+          "title": "Teil 21 - Das Gruselhaus",
+          "index": 20,
+          "startTime": 2718.615,
+          "duration": 122.932
+        },
+        {
+          "id": "kaim-dasg-4833-t22",
+          "title": "Teil 22 - Das Gruselhaus",
+          "index": 21,
+          "startTime": 2841.547,
+          "duration": 129.411
+        },
+        {
+          "id": "kaim-dasg-4833-t23",
+          "title": "Teil 23 - Das Gruselhaus",
+          "index": 22,
+          "startTime": 2970.958,
+          "duration": 132.963
+        },
+        {
+          "id": "kaim-dasg-4833-t24",
+          "title": "Teil 24 - Das Gruselhaus",
+          "index": 23,
+          "startTime": 3103.921,
+          "duration": 128.575
+        },
+        {
+          "id": "kaim-dasg-4833-t25",
+          "title": "Teil 25 - Das Gruselhaus",
+          "index": 24,
+          "startTime": 3232.496,
+          "duration": 124.97
+        },
+        {
+          "id": "kaim-dasg-4833-t26",
+          "title": "Teil 26 - Das Gruselhaus",
+          "index": 25,
+          "startTime": 3357.466,
+          "duration": 123.011
+        },
+        {
+          "id": "kaim-dasg-4833-t27",
+          "title": "Teil 27 - Das Gruselhaus",
+          "index": 26,
+          "startTime": 3480.477,
+          "duration": 122.07
+        },
+        {
+          "id": "kaim-dasg-4833-t28",
+          "title": "Teil 28 - Das Gruselhaus",
+          "index": 27,
+          "startTime": 3602.547,
+          "duration": 122.305
+        },
+        {
+          "id": "kaim-dasg-4833-t29",
+          "title": "Teil 29 - Das Gruselhaus",
+          "index": 28,
+          "startTime": 3724.852,
+          "duration": 123.167
+        },
+        {
+          "id": "kaim-dasg-4833-t30",
+          "title": "Teil 30 - Das Gruselhaus",
+          "index": 29,
+          "startTime": 3848.019,
+          "duration": 128.131
+        },
+        {
+          "id": "kaim-dasg-4833-t31",
+          "title": "Teil 31 - Das Gruselhaus",
+          "index": 30,
+          "startTime": 3976.15,
+          "duration": 124.238
+        },
+        {
+          "id": "kaim-dasg-4833-t32",
+          "title": "Teil 32 - Das Gruselhaus",
+          "index": 31,
+          "startTime": 4100.388,
+          "duration": 165.329
+        },
+        {
+          "id": "kaim-dasg-4833-t33",
+          "title": "Teil 33 - Das Gruselhaus",
+          "index": 32,
+          "startTime": 4265.717,
+          "duration": 130.168
+        },
+        {
+          "id": "kaim-dasg-4833-t34",
+          "title": "Teil 34 - Das Gruselhaus",
+          "index": 33,
+          "startTime": 4395.885,
+          "duration": 124.865
+        },
+        {
+          "id": "kaim-dasg-4833-t35",
+          "title": "Teil 35 - Das Gruselhaus",
+          "index": 34,
+          "startTime": 4520.75,
+          "duration": 230.06
+        }
+      ]
     },
     {
       "id": "1622017949",
@@ -41,11 +344,362 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2a/a1/a7/2aa1a793-0448-1b33-bf4c-57fa2c800e41/4251489304127_3000.jpg/100x100bb.jpg",
       "description": "Das Album enthält 56 Tracks im Genre Hörspiele. Es handelt sich um ein Hörspiel, das auf Apple Music verfügbar ist.",
-      "totalDuration": 0,
+      "totalDuration": 7064.213,
       "platforms": {
         "appleMusic": "1622017949"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-dasd-7949-t01",
+          "title": "Das dicke Ende, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 121.912
+        },
+        {
+          "id": "kaim-dasd-7949-t02",
+          "title": "Das dicke Ende, Teil 2",
+          "index": 1,
+          "startTime": 121.912,
+          "duration": 125.257
+        },
+        {
+          "id": "kaim-dasd-7949-t03",
+          "title": "Das dicke Ende, Teil 3",
+          "index": 2,
+          "startTime": 247.169,
+          "duration": 163.187
+        },
+        {
+          "id": "kaim-dasd-7949-t04",
+          "title": "Das dicke Ende, Teil 4",
+          "index": 3,
+          "startTime": 410.356,
+          "duration": 218.07
+        },
+        {
+          "id": "kaim-dasd-7949-t05",
+          "title": "Das dicke Ende, Teil 5",
+          "index": 4,
+          "startTime": 628.426,
+          "duration": 127.791
+        },
+        {
+          "id": "kaim-dasd-7949-t06",
+          "title": "Das dicke Ende, Teil 6",
+          "index": 5,
+          "startTime": 756.217,
+          "duration": 124.97
+        },
+        {
+          "id": "kaim-dasd-7949-t07",
+          "title": "Das dicke Ende, Teil 7",
+          "index": 6,
+          "startTime": 881.187,
+          "duration": 122.984
+        },
+        {
+          "id": "kaim-dasd-7949-t08",
+          "title": "Das dicke Ende, Teil 8",
+          "index": 7,
+          "startTime": 1004.171,
+          "duration": 122.305
+        },
+        {
+          "id": "kaim-dasd-7949-t09",
+          "title": "Das dicke Ende, Teil 9",
+          "index": 8,
+          "startTime": 1126.476,
+          "duration": 122.096
+        },
+        {
+          "id": "kaim-dasd-7949-t10",
+          "title": "Das dicke Ende, Teil 10",
+          "index": 9,
+          "startTime": 1248.572,
+          "duration": 123.82
+        },
+        {
+          "id": "kaim-dasd-7949-t11",
+          "title": "Das dicke Ende, Teil 11",
+          "index": 10,
+          "startTime": 1372.392,
+          "duration": 122.227
+        },
+        {
+          "id": "kaim-dasd-7949-t12",
+          "title": "Das dicke Ende, Teil 12",
+          "index": 11,
+          "startTime": 1494.619,
+          "duration": 124.761
+        },
+        {
+          "id": "kaim-dasd-7949-t13",
+          "title": "Das dicke Ende, Teil 13",
+          "index": 12,
+          "startTime": 1619.38,
+          "duration": 149.473
+        },
+        {
+          "id": "kaim-dasd-7949-t14",
+          "title": "Das dicke Ende, Teil 14",
+          "index": 13,
+          "startTime": 1768.853,
+          "duration": 124.395
+        },
+        {
+          "id": "kaim-dasd-7949-t15",
+          "title": "Das dicke Ende, Teil 15",
+          "index": 14,
+          "startTime": 1893.248,
+          "duration": 128.627
+        },
+        {
+          "id": "kaim-dasd-7949-t16",
+          "title": "Das dicke Ende, Teil 16",
+          "index": 15,
+          "startTime": 2021.875,
+          "duration": 125.022
+        },
+        {
+          "id": "kaim-dasd-7949-t17",
+          "title": "Das dicke Ende, Teil 17",
+          "index": 16,
+          "startTime": 2146.897,
+          "duration": 137.064
+        },
+        {
+          "id": "kaim-dasd-7949-t18",
+          "title": "Das dicke Ende, Teil 18",
+          "index": 17,
+          "startTime": 2283.961,
+          "duration": 136.542
+        },
+        {
+          "id": "kaim-dasd-7949-t19",
+          "title": "Das dicke Ende, Teil 19",
+          "index": 18,
+          "startTime": 2420.503,
+          "duration": 153.417
+        },
+        {
+          "id": "kaim-dasd-7949-t20",
+          "title": "Das dicke Ende, Teil 20",
+          "index": 19,
+          "startTime": 2573.92,
+          "duration": 259.762
+        },
+        {
+          "id": "kaim-dasd-7949-t21",
+          "title": "Das dicke Ende, Teil 21",
+          "index": 20,
+          "startTime": 2833.682,
+          "duration": 191.242
+        },
+        {
+          "id": "kaim-dasd-7949-t22",
+          "title": "Das dicke Ende, Teil 22",
+          "index": 21,
+          "startTime": 3024.924,
+          "duration": 128.993
+        },
+        {
+          "id": "kaim-dasd-7949-t23",
+          "title": "Das dicke Ende, Teil 23",
+          "index": 22,
+          "startTime": 3153.917,
+          "duration": 124.238
+        },
+        {
+          "id": "kaim-dasd-7949-t24",
+          "title": "Das dicke Ende, Teil 24",
+          "index": 23,
+          "startTime": 3278.155,
+          "duration": 143.569
+        },
+        {
+          "id": "kaim-dasd-7949-t25",
+          "title": "Das dicke Ende, Teil 25",
+          "index": 24,
+          "startTime": 3421.724,
+          "duration": 121.966
+        },
+        {
+          "id": "kaim-dasd-7949-t26",
+          "title": "Das dicke Ende, Teil 26",
+          "index": 25,
+          "startTime": 3543.69,
+          "duration": 166.478
+        },
+        {
+          "id": "kaim-dasd-7949-t27",
+          "title": "Das dicke Ende, Teil 27",
+          "index": 26,
+          "startTime": 3710.168,
+          "duration": 122.593
+        },
+        {
+          "id": "kaim-dasd-7949-t28",
+          "title": "Das dicke Ende, Teil 28",
+          "index": 27,
+          "startTime": 3832.761,
+          "duration": 197.329
+        },
+        {
+          "id": "kaim-dasd-7949-t29",
+          "title": "Das dicke Ende, Teil 29",
+          "index": 28,
+          "startTime": 4030.09,
+          "duration": 128.392
+        },
+        {
+          "id": "kaim-dasd-7949-t30",
+          "title": "Das dicke Ende, Teil 30",
+          "index": 29,
+          "startTime": 4158.482,
+          "duration": 127.582
+        },
+        {
+          "id": "kaim-dasd-7949-t31",
+          "title": "Das dicke Ende, Teil 31",
+          "index": 30,
+          "startTime": 4286.064,
+          "duration": 145.241
+        },
+        {
+          "id": "kaim-dasd-7949-t32",
+          "title": "Das dicke Ende, Teil 32",
+          "index": 31,
+          "startTime": 4431.305,
+          "duration": 128.522
+        },
+        {
+          "id": "kaim-dasd-7949-t33",
+          "title": "Das dicke Ende, Teil 33",
+          "index": 32,
+          "startTime": 4559.827,
+          "duration": 147.853
+        },
+        {
+          "id": "kaim-dasd-7949-t34",
+          "title": "Das dicke Ende, Teil 34",
+          "index": 33,
+          "startTime": 4707.68,
+          "duration": 126.851
+        },
+        {
+          "id": "kaim-dasd-7949-t35",
+          "title": "Das dicke Ende, Teil 35",
+          "index": 34,
+          "startTime": 4834.531,
+          "duration": 130.064
+        },
+        {
+          "id": "kaim-dasd-7949-t36",
+          "title": "Das dicke Ende, Teil 36",
+          "index": 35,
+          "startTime": 4964.595,
+          "duration": 124.761
+        },
+        {
+          "id": "kaim-dasd-7949-t37",
+          "title": "Das dicke Ende, Teil 37",
+          "index": 36,
+          "startTime": 5089.356,
+          "duration": 124.264
+        },
+        {
+          "id": "kaim-dasd-7949-t38",
+          "title": "Das dicke Ende, Teil 38",
+          "index": 37,
+          "startTime": 5213.62,
+          "duration": 131.605
+        },
+        {
+          "id": "kaim-dasd-7949-t39",
+          "title": "Das dicke Ende, Teil 39",
+          "index": 38,
+          "startTime": 5345.225,
+          "duration": 131.109
+        },
+        {
+          "id": "kaim-dasd-7949-t40",
+          "title": "Das dicke Ende, Teil 40",
+          "index": 39,
+          "startTime": 5476.334,
+          "duration": 135.393
+        },
+        {
+          "id": "kaim-dasd-7949-t41",
+          "title": "Das dicke Ende, Teil 41",
+          "index": 40,
+          "startTime": 5611.727,
+          "duration": 125.309
+        },
+        {
+          "id": "kaim-dasd-7949-t42",
+          "title": "Das dicke Ende, Teil 42",
+          "index": 41,
+          "startTime": 5737.036,
+          "duration": 165.172
+        },
+        {
+          "id": "kaim-dasd-7949-t43",
+          "title": "Das dicke Ende, Teil 43",
+          "index": 42,
+          "startTime": 5902.208,
+          "duration": 124.056
+        },
+        {
+          "id": "kaim-dasd-7949-t44",
+          "title": "Das dicke Ende, Teil 44",
+          "index": 43,
+          "startTime": 6026.264,
+          "duration": 123.82
+        },
+        {
+          "id": "kaim-dasd-7949-t45",
+          "title": "Das dicke Ende, Teil 45",
+          "index": 44,
+          "startTime": 6150.084,
+          "duration": 126.354
+        },
+        {
+          "id": "kaim-dasd-7949-t46",
+          "title": "Das dicke Ende, Teil 46",
+          "index": 45,
+          "startTime": 6276.438,
+          "duration": 257.855
+        },
+        {
+          "id": "kaim-dasd-7949-t47",
+          "title": "Das dicke Ende, Teil 47",
+          "index": 46,
+          "startTime": 6534.293,
+          "duration": 128.0
+        },
+        {
+          "id": "kaim-dasd-7949-t48",
+          "title": "Das dicke Ende, Teil 48",
+          "index": 47,
+          "startTime": 6662.293,
+          "duration": 131.213
+        },
+        {
+          "id": "kaim-dasd-7949-t49",
+          "title": "Das dicke Ende, Teil 49",
+          "index": 48,
+          "startTime": 6793.506,
+          "duration": 145.763
+        },
+        {
+          "id": "kaim-dasd-7949-t50",
+          "title": "Das dicke Ende, Teil 50",
+          "index": 49,
+          "startTime": 6939.269,
+          "duration": 124.944
+        }
+      ]
     },
     {
       "id": "1440804747",
@@ -54,11 +708,222 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a6/7d/6b/a67d6b8c-d35a-5156-d950-6f859a26a7c8/9783864845635_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Die Ausrottung der Nachbarschaft' von Kai Magnus Sting. Es umfasst 30 Tracks und ist im Genre Hörspiele klassifiziert.",
-      "totalDuration": 0,
+      "totalDuration": 7746.64,
       "platforms": {
         "appleMusic": "1440804747"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-diea-4747-t01",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 236.027
+        },
+        {
+          "id": "kaim-diea-4747-t02",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 2",
+          "index": 1,
+          "startTime": 236.027,
+          "duration": 277.947
+        },
+        {
+          "id": "kaim-diea-4747-t03",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 3",
+          "index": 2,
+          "startTime": 513.974,
+          "duration": 158.32
+        },
+        {
+          "id": "kaim-diea-4747-t04",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 4",
+          "index": 3,
+          "startTime": 672.294,
+          "duration": 377.973
+        },
+        {
+          "id": "kaim-diea-4747-t05",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 5",
+          "index": 4,
+          "startTime": 1050.267,
+          "duration": 296.08
+        },
+        {
+          "id": "kaim-diea-4747-t06",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 6",
+          "index": 5,
+          "startTime": 1346.347,
+          "duration": 523.16
+        },
+        {
+          "id": "kaim-diea-4747-t07",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 7",
+          "index": 6,
+          "startTime": 1869.507,
+          "duration": 291.933
+        },
+        {
+          "id": "kaim-diea-4747-t08",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 8",
+          "index": 7,
+          "startTime": 2161.44,
+          "duration": 84.813
+        },
+        {
+          "id": "kaim-diea-4747-t09",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 9",
+          "index": 8,
+          "startTime": 2246.253,
+          "duration": 81.36
+        },
+        {
+          "id": "kaim-diea-4747-t10",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 10",
+          "index": 9,
+          "startTime": 2327.613,
+          "duration": 254.933
+        },
+        {
+          "id": "kaim-diea-4747-t11",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 11",
+          "index": 10,
+          "startTime": 2582.546,
+          "duration": 318.56
+        },
+        {
+          "id": "kaim-diea-4747-t12",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 12",
+          "index": 11,
+          "startTime": 2901.106,
+          "duration": 267.213
+        },
+        {
+          "id": "kaim-diea-4747-t13",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 13",
+          "index": 12,
+          "startTime": 3168.319,
+          "duration": 27.04
+        },
+        {
+          "id": "kaim-diea-4747-t14",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 14",
+          "index": 13,
+          "startTime": 3195.359,
+          "duration": 147.987
+        },
+        {
+          "id": "kaim-diea-4747-t15",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 15",
+          "index": 14,
+          "startTime": 3343.346,
+          "duration": 62.133
+        },
+        {
+          "id": "kaim-diea-4747-t16",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 16",
+          "index": 15,
+          "startTime": 3405.479,
+          "duration": 435.88
+        },
+        {
+          "id": "kaim-diea-4747-t17",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 17",
+          "index": 16,
+          "startTime": 3841.359,
+          "duration": 228.133
+        },
+        {
+          "id": "kaim-diea-4747-t18",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 18",
+          "index": 17,
+          "startTime": 4069.492,
+          "duration": 53.973
+        },
+        {
+          "id": "kaim-diea-4747-t19",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 19",
+          "index": 18,
+          "startTime": 4123.465,
+          "duration": 451.573
+        },
+        {
+          "id": "kaim-diea-4747-t20",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 20",
+          "index": 19,
+          "startTime": 4575.038,
+          "duration": 33.733
+        },
+        {
+          "id": "kaim-diea-4747-t21",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 21",
+          "index": 20,
+          "startTime": 4608.771,
+          "duration": 65.067
+        },
+        {
+          "id": "kaim-diea-4747-t22",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 22",
+          "index": 21,
+          "startTime": 4673.838,
+          "duration": 394.067
+        },
+        {
+          "id": "kaim-diea-4747-t23",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 23",
+          "index": 22,
+          "startTime": 5067.905,
+          "duration": 199.44
+        },
+        {
+          "id": "kaim-diea-4747-t24",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 24",
+          "index": 23,
+          "startTime": 5267.345,
+          "duration": 37.48
+        },
+        {
+          "id": "kaim-diea-4747-t25",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 25",
+          "index": 24,
+          "startTime": 5304.825,
+          "duration": 575.107
+        },
+        {
+          "id": "kaim-diea-4747-t26",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 26",
+          "index": 25,
+          "startTime": 5879.932,
+          "duration": 201.187
+        },
+        {
+          "id": "kaim-diea-4747-t27",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 27",
+          "index": 26,
+          "startTime": 6081.119,
+          "duration": 341.72
+        },
+        {
+          "id": "kaim-diea-4747-t28",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 28",
+          "index": 27,
+          "startTime": 6422.839,
+          "duration": 72.227
+        },
+        {
+          "id": "kaim-diea-4747-t29",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 29",
+          "index": 28,
+          "startTime": 6495.066,
+          "duration": 520.907
+        },
+        {
+          "id": "kaim-diea-4747-t30",
+          "title": "Die Ausrottung der Nachbarschaft, Teil 30",
+          "index": 29,
+          "startTime": 7015.973,
+          "duration": 730.667
+        }
+      ]
     },
     {
       "id": "1626527207",
@@ -67,11 +932,243 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/d1/e1/83d1e1b8-c64b-ab4a-256c-9175cc8f2691/4251489304165_3000.jpg/100x100bb.jpg",
       "description": "Ein Album mit dem Titel 'Die blauen Nashörner' von Kai Magnus Sting, das sich im Genre Hörspiele bewegt. Es umfasst 33 Tracks und ist somit eindeutig als Hörspiel eingestuft.",
-      "totalDuration": 0,
+      "totalDuration": 4688.351,
       "platforms": {
         "appleMusic": "1626527207"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-dieb-7207-t01",
+          "title": "Teil 1 - Die blauen Nashörner",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 155.689
+        },
+        {
+          "id": "kaim-dieb-7207-t02",
+          "title": "Teil 2 - Die blauen Nashörner",
+          "index": 1,
+          "startTime": 155.689,
+          "duration": 124.526
+        },
+        {
+          "id": "kaim-dieb-7207-t03",
+          "title": "Teil 3 - Die blauen Nashörner",
+          "index": 2,
+          "startTime": 280.215,
+          "duration": 130.638
+        },
+        {
+          "id": "kaim-dieb-7207-t04",
+          "title": "Teil 4 - Die blauen Nashörner",
+          "index": 3,
+          "startTime": 410.853,
+          "duration": 162.142
+        },
+        {
+          "id": "kaim-dieb-7207-t05",
+          "title": "Teil 5 - Die blauen Nashörner",
+          "index": 4,
+          "startTime": 572.995,
+          "duration": 151.118
+        },
+        {
+          "id": "kaim-dieb-7207-t06",
+          "title": "Teil 6 - Die blauen Nashörner",
+          "index": 5,
+          "startTime": 724.113,
+          "duration": 129.881
+        },
+        {
+          "id": "kaim-dieb-7207-t07",
+          "title": "Teil 7 - Die blauen Nashörner",
+          "index": 6,
+          "startTime": 853.994,
+          "duration": 130.429
+        },
+        {
+          "id": "kaim-dieb-7207-t08",
+          "title": "Teil 8 - Die blauen Nashörner",
+          "index": 7,
+          "startTime": 984.423,
+          "duration": 125.231
+        },
+        {
+          "id": "kaim-dieb-7207-t09",
+          "title": "Teil 9 - Die blauen Nashörner",
+          "index": 8,
+          "startTime": 1109.654,
+          "duration": 190.302
+        },
+        {
+          "id": "kaim-dieb-7207-t10",
+          "title": "Teil 10 - Die blauen Nashörner",
+          "index": 9,
+          "startTime": 1299.956,
+          "duration": 123.141
+        },
+        {
+          "id": "kaim-dieb-7207-t11",
+          "title": "Teil 11 - Die blauen Nashörner",
+          "index": 10,
+          "startTime": 1423.097,
+          "duration": 132.545
+        },
+        {
+          "id": "kaim-dieb-7207-t12",
+          "title": "Teil 12 - Die blauen Nashörner",
+          "index": 11,
+          "startTime": 1555.642,
+          "duration": 144.509
+        },
+        {
+          "id": "kaim-dieb-7207-t13",
+          "title": "Teil 13 - Die blauen Nashörner",
+          "index": 12,
+          "startTime": 1700.151,
+          "duration": 185.992
+        },
+        {
+          "id": "kaim-dieb-7207-t14",
+          "title": "Teil 14 - Die blauen Nashörner",
+          "index": 13,
+          "startTime": 1886.143,
+          "duration": 124.604
+        },
+        {
+          "id": "kaim-dieb-7207-t15",
+          "title": "Teil 15 - Die blauen Nashörner",
+          "index": 14,
+          "startTime": 2010.747,
+          "duration": 125.858
+        },
+        {
+          "id": "kaim-dieb-7207-t16",
+          "title": "Teil 16 - Die blauen Nashörner",
+          "index": 15,
+          "startTime": 2136.605,
+          "duration": 131.239
+        },
+        {
+          "id": "kaim-dieb-7207-t17",
+          "title": "Teil 17 - Die blauen Nashörner",
+          "index": 16,
+          "startTime": 2267.844,
+          "duration": 155.272
+        },
+        {
+          "id": "kaim-dieb-7207-t18",
+          "title": "Teil 18 - Die blauen Nashörner",
+          "index": 17,
+          "startTime": 2423.116,
+          "duration": 148.193
+        },
+        {
+          "id": "kaim-dieb-7207-t19",
+          "title": "Teil 19 - Die blauen Nashörner",
+          "index": 18,
+          "startTime": 2571.309,
+          "duration": 125.048
+        },
+        {
+          "id": "kaim-dieb-7207-t20",
+          "title": "Teil 20 - Die blauen Nashörner",
+          "index": 19,
+          "startTime": 2696.357,
+          "duration": 128.418
+        },
+        {
+          "id": "kaim-dieb-7207-t21",
+          "title": "Teil 21 - Die blauen Nashörner",
+          "index": 20,
+          "startTime": 2824.775,
+          "duration": 162.482
+        },
+        {
+          "id": "kaim-dieb-7207-t22",
+          "title": "Teil 22 - Die blauen Nashörner",
+          "index": 21,
+          "startTime": 2987.257,
+          "duration": 122.462
+        },
+        {
+          "id": "kaim-dieb-7207-t23",
+          "title": "Teil 23 - Die blauen Nashörner",
+          "index": 22,
+          "startTime": 3109.719,
+          "duration": 132.702
+        },
+        {
+          "id": "kaim-dieb-7207-t24",
+          "title": "Teil 24 - Die blauen Nashörner",
+          "index": 23,
+          "startTime": 3242.421,
+          "duration": 122.697
+        },
+        {
+          "id": "kaim-dieb-7207-t25",
+          "title": "Teil 25 - Die blauen Nashörner",
+          "index": 24,
+          "startTime": 3365.118,
+          "duration": 152.346
+        },
+        {
+          "id": "kaim-dieb-7207-t26",
+          "title": "Teil 26 - Die blauen Nashörner",
+          "index": 25,
+          "startTime": 3517.464,
+          "duration": 125.048
+        },
+        {
+          "id": "kaim-dieb-7207-t27",
+          "title": "Teil 27 - Die blauen Nashörner",
+          "index": 26,
+          "startTime": 3642.512,
+          "duration": 158.224
+        },
+        {
+          "id": "kaim-dieb-7207-t28",
+          "title": "Teil 28 - Die blauen Nashörner",
+          "index": 27,
+          "startTime": 3800.736,
+          "duration": 149.055
+        },
+        {
+          "id": "kaim-dieb-7207-t29",
+          "title": "Teil 29 - Die blauen Nashörner",
+          "index": 28,
+          "startTime": 3949.791,
+          "duration": 168.699
+        },
+        {
+          "id": "kaim-dieb-7207-t30",
+          "title": "Teil 30 - Die blauen Nashörner",
+          "index": 29,
+          "startTime": 4118.49,
+          "duration": 130.586
+        },
+        {
+          "id": "kaim-dieb-7207-t31",
+          "title": "Teil 31 - Die blauen Nashörner",
+          "index": 30,
+          "startTime": 4249.076,
+          "duration": 125.492
+        },
+        {
+          "id": "kaim-dieb-7207-t32",
+          "title": "Teil 32 - Die blauen Nashörner",
+          "index": 31,
+          "startTime": 4374.568,
+          "duration": 151.824
+        },
+        {
+          "id": "kaim-dieb-7207-t33",
+          "title": "Teil 33 - Die blauen Nashörner",
+          "index": 32,
+          "startTime": 4526.392,
+          "duration": 161.959
+        }
+      ]
     },
     {
       "id": "501760678",
@@ -80,11 +1177,131 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/bb/df/92/mzi.zghdogtq.jpg/100x100bb.jpg",
       "description": "Dieses Album könnte ein deutsches Hörspiel oder Hörbuch sein, da der Titel 'Hömma, weiß Bescheid!' humorvoll klingt und das Genre Comedy ist.",
-      "totalDuration": 0,
+      "totalDuration": 4754.666,
       "platforms": {
         "appleMusic": "501760678"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-hmma-0678-t01",
+          "title": "Der Anfang vom Pott",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 513.48
+        },
+        {
+          "id": "kaim-hmma-0678-t02",
+          "title": "Hömma I: Gleich zu Beginn die Essenz...",
+          "index": 1,
+          "startTime": 513.48,
+          "duration": 381.92
+        },
+        {
+          "id": "kaim-hmma-0678-t03",
+          "title": "Hömma II: Die Besonderheit der Pluralbildung...",
+          "index": 2,
+          "startTime": 895.4,
+          "duration": 181.04
+        },
+        {
+          "id": "kaim-hmma-0678-t04",
+          "title": "Hömma III: Anwesende Abwesenheit...",
+          "index": 3,
+          "startTime": 1076.44,
+          "duration": 194.627
+        },
+        {
+          "id": "kaim-hmma-0678-t05",
+          "title": "Hömma IV: Gelebtes Desinteresse",
+          "index": 4,
+          "startTime": 1271.067,
+          "duration": 152.16
+        },
+        {
+          "id": "kaim-hmma-0678-t06",
+          "title": "Hömma V: Die destillierte Fokussierung...",
+          "index": 5,
+          "startTime": 1423.227,
+          "duration": 88.173
+        },
+        {
+          "id": "kaim-hmma-0678-t07",
+          "title": "Hömma VI: Die Geselligkeit im Ruhrgebiet",
+          "index": 6,
+          "startTime": 1511.4,
+          "duration": 80.947
+        },
+        {
+          "id": "kaim-hmma-0678-t08",
+          "title": "Hömma VII: Das Nach-hin-Gehen unter Einbeziehung...",
+          "index": 7,
+          "startTime": 1592.347,
+          "duration": 295.587
+        },
+        {
+          "id": "kaim-hmma-0678-t09",
+          "title": "Hömma VIII: Angewandtes Ruhrgebiet am Beispiel der S1",
+          "index": 8,
+          "startTime": 1887.934,
+          "duration": 241.32
+        },
+        {
+          "id": "kaim-hmma-0678-t10",
+          "title": "Hömma IX: Die Aufhebung der Sisyphusierung...",
+          "index": 9,
+          "startTime": 2129.254,
+          "duration": 150.973
+        },
+        {
+          "id": "kaim-hmma-0678-t11",
+          "title": "Fragen Sie den Experten!",
+          "index": 10,
+          "startTime": 2280.227,
+          "duration": 476.44
+        },
+        {
+          "id": "kaim-hmma-0678-t12",
+          "title": "Dr. Plönner",
+          "index": 11,
+          "startTime": 2756.667,
+          "duration": 237.427
+        },
+        {
+          "id": "kaim-hmma-0678-t13",
+          "title": "Der erste Mensch",
+          "index": 12,
+          "startTime": 2994.094,
+          "duration": 449.88
+        },
+        {
+          "id": "kaim-hmma-0678-t14",
+          "title": "Ein Küchengespräch",
+          "index": 13,
+          "startTime": 3443.974,
+          "duration": 361.773
+        },
+        {
+          "id": "kaim-hmma-0678-t15",
+          "title": "Der Nudelsalat",
+          "index": 14,
+          "startTime": 3805.747,
+          "duration": 524.933
+        },
+        {
+          "id": "kaim-hmma-0678-t16",
+          "title": "Mozzarellageschichte",
+          "index": 15,
+          "startTime": 4330.68,
+          "duration": 332.853
+        },
+        {
+          "id": "kaim-hmma-0678-t17",
+          "title": "Pottschluss",
+          "index": 16,
+          "startTime": 4663.533,
+          "duration": 91.133
+        }
+      ]
     },
     {
       "id": "1441310150",
@@ -93,11 +1310,229 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/51/42/d4/5142d4e2-a729-7277-ea69-491e9ec243e4/9783864845659_3000.jpg/100x100bb.jpg",
       "description": "Das Album 'Kurmorde (Hörspiel)' von Kai Magnus Sting enthält 31 Hörspiel-Tracks und fällt eindeutig in den Hörspiel-Genre. Es handelt sich um ein spannendes Hörspiel-Album, das sich auf Kriminalgeschichten konzentriert.",
-      "totalDuration": 0,
+      "totalDuration": 7560.134,
       "platforms": {
         "appleMusic": "1441310150"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-kurm-0150-t01",
+          "title": "Kurmorde, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 110.587
+        },
+        {
+          "id": "kaim-kurm-0150-t02",
+          "title": "Kurmorde, Teil 2",
+          "index": 1,
+          "startTime": 110.587,
+          "duration": 268.52
+        },
+        {
+          "id": "kaim-kurm-0150-t03",
+          "title": "Kurmorde, Teil 3",
+          "index": 2,
+          "startTime": 379.107,
+          "duration": 124.333
+        },
+        {
+          "id": "kaim-kurm-0150-t04",
+          "title": "Kurmorde, Teil 4",
+          "index": 3,
+          "startTime": 503.44,
+          "duration": 185.267
+        },
+        {
+          "id": "kaim-kurm-0150-t05",
+          "title": "Kurmorde, Teil 5",
+          "index": 4,
+          "startTime": 688.707,
+          "duration": 234.44
+        },
+        {
+          "id": "kaim-kurm-0150-t06",
+          "title": "Kurmorde, Teil 6",
+          "index": 5,
+          "startTime": 923.147,
+          "duration": 199.413
+        },
+        {
+          "id": "kaim-kurm-0150-t07",
+          "title": "Kurmorde, Teil 7",
+          "index": 6,
+          "startTime": 1122.56,
+          "duration": 72.707
+        },
+        {
+          "id": "kaim-kurm-0150-t08",
+          "title": "Kurmorde, Teil 8",
+          "index": 7,
+          "startTime": 1195.267,
+          "duration": 165.187
+        },
+        {
+          "id": "kaim-kurm-0150-t09",
+          "title": "Kurmorde, Teil 9",
+          "index": 8,
+          "startTime": 1360.454,
+          "duration": 111.2
+        },
+        {
+          "id": "kaim-kurm-0150-t10",
+          "title": "Kurmorde, Teil 10",
+          "index": 9,
+          "startTime": 1471.654,
+          "duration": 177.627
+        },
+        {
+          "id": "kaim-kurm-0150-t11",
+          "title": "Kurmorde, Teil 11",
+          "index": 10,
+          "startTime": 1649.281,
+          "duration": 379.387
+        },
+        {
+          "id": "kaim-kurm-0150-t12",
+          "title": "Kurmorde, Teil 12",
+          "index": 11,
+          "startTime": 2028.668,
+          "duration": 89.68
+        },
+        {
+          "id": "kaim-kurm-0150-t13",
+          "title": "Kurmorde, Teil 13",
+          "index": 12,
+          "startTime": 2118.348,
+          "duration": 283.773
+        },
+        {
+          "id": "kaim-kurm-0150-t14",
+          "title": "Kurmorde, Teil 14",
+          "index": 13,
+          "startTime": 2402.121,
+          "duration": 233.4
+        },
+        {
+          "id": "kaim-kurm-0150-t15",
+          "title": "Kurmorde, Teil 15",
+          "index": 14,
+          "startTime": 2635.521,
+          "duration": 400.68
+        },
+        {
+          "id": "kaim-kurm-0150-t16",
+          "title": "Kurmorde, Teil 16",
+          "index": 15,
+          "startTime": 3036.201,
+          "duration": 64.093
+        },
+        {
+          "id": "kaim-kurm-0150-t17",
+          "title": "Kurmorde, Teil 17",
+          "index": 16,
+          "startTime": 3100.294,
+          "duration": 235.453
+        },
+        {
+          "id": "kaim-kurm-0150-t18",
+          "title": "Kurmorde, Teil 18",
+          "index": 17,
+          "startTime": 3335.747,
+          "duration": 148.88
+        },
+        {
+          "id": "kaim-kurm-0150-t19",
+          "title": "Kurmorde, Teil 19",
+          "index": 18,
+          "startTime": 3484.627,
+          "duration": 410.067
+        },
+        {
+          "id": "kaim-kurm-0150-t20",
+          "title": "Kurmorde, Teil 20",
+          "index": 19,
+          "startTime": 3894.694,
+          "duration": 123.467
+        },
+        {
+          "id": "kaim-kurm-0150-t21",
+          "title": "Kurmorde, Teil 21",
+          "index": 20,
+          "startTime": 4018.161,
+          "duration": 239.653
+        },
+        {
+          "id": "kaim-kurm-0150-t22",
+          "title": "Kurmorde, Teil 22",
+          "index": 21,
+          "startTime": 4257.814,
+          "duration": 70.733
+        },
+        {
+          "id": "kaim-kurm-0150-t23",
+          "title": "Kurmorde, Teil 23",
+          "index": 22,
+          "startTime": 4328.547,
+          "duration": 139.347
+        },
+        {
+          "id": "kaim-kurm-0150-t24",
+          "title": "Kurmorde, Teil 24",
+          "index": 23,
+          "startTime": 4467.894,
+          "duration": 58.44
+        },
+        {
+          "id": "kaim-kurm-0150-t25",
+          "title": "Kurmorde, Teil 25",
+          "index": 24,
+          "startTime": 4526.334,
+          "duration": 192.893
+        },
+        {
+          "id": "kaim-kurm-0150-t26",
+          "title": "Kurmorde, Teil 26",
+          "index": 25,
+          "startTime": 4719.227,
+          "duration": 135.427
+        },
+        {
+          "id": "kaim-kurm-0150-t27",
+          "title": "Kurmorde, Teil 27",
+          "index": 26,
+          "startTime": 4854.654,
+          "duration": 220.347
+        },
+        {
+          "id": "kaim-kurm-0150-t28",
+          "title": "Kurmorde, Teil 28",
+          "index": 27,
+          "startTime": 5075.001,
+          "duration": 190.36
+        },
+        {
+          "id": "kaim-kurm-0150-t29",
+          "title": "Kurmorde, Teil 29",
+          "index": 28,
+          "startTime": 5265.361,
+          "duration": 449.88
+        },
+        {
+          "id": "kaim-kurm-0150-t30",
+          "title": "Kurmorde, Teil 30",
+          "index": 29,
+          "startTime": 5715.241,
+          "duration": 466.813
+        },
+        {
+          "id": "kaim-kurm-0150-t31",
+          "title": "Kurmorde, Teil 31",
+          "index": 30,
+          "startTime": 6182.054,
+          "duration": 1378.08
+        }
+      ]
     },
     {
       "id": "1441131719",
@@ -106,11 +1541,362 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6e/27/75/6e2775df-8c7c-5db2-7d91-095c772ec453/9783864845666_3000.jpg/100x100bb.jpg",
       "description": "Ein Album, das als Hörspiel veröffentlicht wurde, enthält gesprochene Geschichten, oft mit Dialogen und Musik, um das Erlebnis zu verstärken. Es könnte Krimis, Thrillers oder Abenteuer umfassen.",
-      "totalDuration": 0,
+      "totalDuration": 11658.387,
       "platforms": {
         "appleMusic": "1441131719"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-leic-1719-t01",
+          "title": "Leichenpuzzle, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 312.0
+        },
+        {
+          "id": "kaim-leic-1719-t02",
+          "title": "Leichenpuzzle, Teil 2",
+          "index": 1,
+          "startTime": 312.0,
+          "duration": 120.453
+        },
+        {
+          "id": "kaim-leic-1719-t03",
+          "title": "Leichenpuzzle, Teil 3",
+          "index": 2,
+          "startTime": 432.453,
+          "duration": 272.173
+        },
+        {
+          "id": "kaim-leic-1719-t04",
+          "title": "Leichenpuzzle, Teil 4",
+          "index": 3,
+          "startTime": 704.626,
+          "duration": 247.667
+        },
+        {
+          "id": "kaim-leic-1719-t05",
+          "title": "Leichenpuzzle, Teil 5",
+          "index": 4,
+          "startTime": 952.293,
+          "duration": 261.413
+        },
+        {
+          "id": "kaim-leic-1719-t06",
+          "title": "Leichenpuzzle, Teil 6",
+          "index": 5,
+          "startTime": 1213.706,
+          "duration": 367.773
+        },
+        {
+          "id": "kaim-leic-1719-t07",
+          "title": "Leichenpuzzle, Teil 7",
+          "index": 6,
+          "startTime": 1581.479,
+          "duration": 466.053
+        },
+        {
+          "id": "kaim-leic-1719-t08",
+          "title": "Leichenpuzzle, Teil 8",
+          "index": 7,
+          "startTime": 2047.532,
+          "duration": 185.493
+        },
+        {
+          "id": "kaim-leic-1719-t09",
+          "title": "Leichenpuzzle, Teil 9",
+          "index": 8,
+          "startTime": 2233.025,
+          "duration": 154.587
+        },
+        {
+          "id": "kaim-leic-1719-t10",
+          "title": "Leichenpuzzle, Teil 10",
+          "index": 9,
+          "startTime": 2387.612,
+          "duration": 39.587
+        },
+        {
+          "id": "kaim-leic-1719-t11",
+          "title": "Leichenpuzzle, Teil 11",
+          "index": 10,
+          "startTime": 2427.199,
+          "duration": 407.093
+        },
+        {
+          "id": "kaim-leic-1719-t12",
+          "title": "Leichenpuzzle, Teil 12",
+          "index": 11,
+          "startTime": 2834.292,
+          "duration": 203.88
+        },
+        {
+          "id": "kaim-leic-1719-t13",
+          "title": "Leichenpuzzle, Teil 13",
+          "index": 12,
+          "startTime": 3038.172,
+          "duration": 269.2
+        },
+        {
+          "id": "kaim-leic-1719-t14",
+          "title": "Leichenpuzzle, Teil 14",
+          "index": 13,
+          "startTime": 3307.372,
+          "duration": 165.467
+        },
+        {
+          "id": "kaim-leic-1719-t15",
+          "title": "Leichenpuzzle, Teil 15",
+          "index": 14,
+          "startTime": 3472.839,
+          "duration": 191.24
+        },
+        {
+          "id": "kaim-leic-1719-t16",
+          "title": "Leichenpuzzle, Teil 16",
+          "index": 15,
+          "startTime": 3664.079,
+          "duration": 253.613
+        },
+        {
+          "id": "kaim-leic-1719-t17",
+          "title": "Leichenpuzzle, Teil 17",
+          "index": 16,
+          "startTime": 3917.692,
+          "duration": 291.347
+        },
+        {
+          "id": "kaim-leic-1719-t18",
+          "title": "Leichenpuzzle, Teil 18",
+          "index": 17,
+          "startTime": 4209.039,
+          "duration": 183.747
+        },
+        {
+          "id": "kaim-leic-1719-t19",
+          "title": "Leichenpuzzle, Teil 19",
+          "index": 18,
+          "startTime": 4392.786,
+          "duration": 271.627
+        },
+        {
+          "id": "kaim-leic-1719-t20",
+          "title": "Leichenpuzzle, Teil 20",
+          "index": 19,
+          "startTime": 4664.413,
+          "duration": 249.733
+        },
+        {
+          "id": "kaim-leic-1719-t21",
+          "title": "Leichenpuzzle, Teil 21",
+          "index": 20,
+          "startTime": 4914.146,
+          "duration": 172.04
+        },
+        {
+          "id": "kaim-leic-1719-t22",
+          "title": "Leichenpuzzle, Teil 22",
+          "index": 21,
+          "startTime": 5086.186,
+          "duration": 88.387
+        },
+        {
+          "id": "kaim-leic-1719-t23",
+          "title": "Leichenpuzzle, Teil 23",
+          "index": 22,
+          "startTime": 5174.573,
+          "duration": 307.787
+        },
+        {
+          "id": "kaim-leic-1719-t24",
+          "title": "Leichenpuzzle, Teil 24",
+          "index": 23,
+          "startTime": 5482.36,
+          "duration": 237.533
+        },
+        {
+          "id": "kaim-leic-1719-t25",
+          "title": "Leichenpuzzle, Teil 25",
+          "index": 24,
+          "startTime": 5719.893,
+          "duration": 322.787
+        },
+        {
+          "id": "kaim-leic-1719-t26",
+          "title": "Leichenpuzzle, Teil 26",
+          "index": 25,
+          "startTime": 6042.68,
+          "duration": 159.467
+        },
+        {
+          "id": "kaim-leic-1719-t27",
+          "title": "Leichenpuzzle, Teil 27",
+          "index": 26,
+          "startTime": 6202.147,
+          "duration": 326.52
+        },
+        {
+          "id": "kaim-leic-1719-t28",
+          "title": "Leichenpuzzle, Teil 28",
+          "index": 27,
+          "startTime": 6528.667,
+          "duration": 275.867
+        },
+        {
+          "id": "kaim-leic-1719-t29",
+          "title": "Leichenpuzzle, Teil 29",
+          "index": 28,
+          "startTime": 6804.534,
+          "duration": 244.6
+        },
+        {
+          "id": "kaim-leic-1719-t30",
+          "title": "Leichenpuzzle, Teil 30",
+          "index": 29,
+          "startTime": 7049.134,
+          "duration": 222.733
+        },
+        {
+          "id": "kaim-leic-1719-t31",
+          "title": "Leichenpuzzle, Teil 31",
+          "index": 30,
+          "startTime": 7271.867,
+          "duration": 49.347
+        },
+        {
+          "id": "kaim-leic-1719-t32",
+          "title": "Leichenpuzzle, Teil 32",
+          "index": 31,
+          "startTime": 7321.214,
+          "duration": 415.28
+        },
+        {
+          "id": "kaim-leic-1719-t33",
+          "title": "Leichenpuzzle, Teil 33",
+          "index": 32,
+          "startTime": 7736.494,
+          "duration": 118.96
+        },
+        {
+          "id": "kaim-leic-1719-t34",
+          "title": "Leichenpuzzle, Teil 34",
+          "index": 33,
+          "startTime": 7855.454,
+          "duration": 192.72
+        },
+        {
+          "id": "kaim-leic-1719-t35",
+          "title": "Leichenpuzzle, Teil 35",
+          "index": 34,
+          "startTime": 8048.174,
+          "duration": 245.707
+        },
+        {
+          "id": "kaim-leic-1719-t36",
+          "title": "Leichenpuzzle, Teil 36",
+          "index": 35,
+          "startTime": 8293.881,
+          "duration": 59.32
+        },
+        {
+          "id": "kaim-leic-1719-t37",
+          "title": "Leichenpuzzle, Teil 37",
+          "index": 36,
+          "startTime": 8353.201,
+          "duration": 118.867
+        },
+        {
+          "id": "kaim-leic-1719-t38",
+          "title": "Leichenpuzzle, Teil 38",
+          "index": 37,
+          "startTime": 8472.068,
+          "duration": 420.867
+        },
+        {
+          "id": "kaim-leic-1719-t39",
+          "title": "Leichenpuzzle, Teil 39",
+          "index": 38,
+          "startTime": 8892.935,
+          "duration": 291.253
+        },
+        {
+          "id": "kaim-leic-1719-t40",
+          "title": "Leichenpuzzle, Teil 40",
+          "index": 39,
+          "startTime": 9184.188,
+          "duration": 128.613
+        },
+        {
+          "id": "kaim-leic-1719-t41",
+          "title": "Leichenpuzzle, Teil 41",
+          "index": 40,
+          "startTime": 9312.801,
+          "duration": 276.947
+        },
+        {
+          "id": "kaim-leic-1719-t42",
+          "title": "Leichenpuzzle, Teil 42",
+          "index": 41,
+          "startTime": 9589.748,
+          "duration": 276.093
+        },
+        {
+          "id": "kaim-leic-1719-t43",
+          "title": "Leichenpuzzle, Teil 43",
+          "index": 42,
+          "startTime": 9865.841,
+          "duration": 135.293
+        },
+        {
+          "id": "kaim-leic-1719-t44",
+          "title": "Leichenpuzzle, Teil 44",
+          "index": 43,
+          "startTime": 10001.134,
+          "duration": 70.08
+        },
+        {
+          "id": "kaim-leic-1719-t45",
+          "title": "Leichenpuzzle, Teil 45",
+          "index": 44,
+          "startTime": 10071.214,
+          "duration": 266.093
+        },
+        {
+          "id": "kaim-leic-1719-t46",
+          "title": "Leichenpuzzle, Teil 46",
+          "index": 45,
+          "startTime": 10337.307,
+          "duration": 284.667
+        },
+        {
+          "id": "kaim-leic-1719-t47",
+          "title": "Leichenpuzzle, Teil 47",
+          "index": 46,
+          "startTime": 10621.974,
+          "duration": 263.64
+        },
+        {
+          "id": "kaim-leic-1719-t48",
+          "title": "Leichenpuzzle, Teil 48",
+          "index": 47,
+          "startTime": 10885.614,
+          "duration": 282.867
+        },
+        {
+          "id": "kaim-leic-1719-t49",
+          "title": "Leichenpuzzle, Teil 49",
+          "index": 48,
+          "startTime": 11168.481,
+          "duration": 306.093
+        },
+        {
+          "id": "kaim-leic-1719-t50",
+          "title": "Leichenpuzzle, Teil 50",
+          "index": 49,
+          "startTime": 11474.574,
+          "duration": 183.813
+        }
+      ]
     },
     {
       "id": "1441309558",
@@ -119,11 +1905,145 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/15/70/3a/15703adc-f644-5a4b-5c94-813b6522cc91/9783864845673_3000.jpg/100x100bb.jpg",
       "description": "Ein Album mit dem Titel 'Schlachtplatte (Hörspiel)' von Kai Magnus Sting, das sich auf das Genre Hörspiel spezialisiert hat.",
-      "totalDuration": 0,
+      "totalDuration": 4797.599,
       "platforms": {
         "appleMusic": "1441309558"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-schl-9558-t01",
+          "title": "Schlachtplatte, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 91.973
+        },
+        {
+          "id": "kaim-schl-9558-t02",
+          "title": "Schlachtplatte, Teil 2",
+          "index": 1,
+          "startTime": 91.973,
+          "duration": 269.053
+        },
+        {
+          "id": "kaim-schl-9558-t03",
+          "title": "Schlachtplatte, Teil 3",
+          "index": 2,
+          "startTime": 361.026,
+          "duration": 114.2
+        },
+        {
+          "id": "kaim-schl-9558-t04",
+          "title": "Schlachtplatte, Teil 4",
+          "index": 3,
+          "startTime": 475.226,
+          "duration": 125.227
+        },
+        {
+          "id": "kaim-schl-9558-t05",
+          "title": "Schlachtplatte, Teil 5",
+          "index": 4,
+          "startTime": 600.453,
+          "duration": 339.467
+        },
+        {
+          "id": "kaim-schl-9558-t06",
+          "title": "Schlachtplatte, Teil 6",
+          "index": 5,
+          "startTime": 939.92,
+          "duration": 16.08
+        },
+        {
+          "id": "kaim-schl-9558-t07",
+          "title": "Schlachtplatte, Teil 7",
+          "index": 6,
+          "startTime": 956.0,
+          "duration": 220.733
+        },
+        {
+          "id": "kaim-schl-9558-t08",
+          "title": "Schlachtplatte, Teil 8",
+          "index": 7,
+          "startTime": 1176.733,
+          "duration": 91.293
+        },
+        {
+          "id": "kaim-schl-9558-t09",
+          "title": "Schlachtplatte, Teil 9",
+          "index": 8,
+          "startTime": 1268.026,
+          "duration": 102.64
+        },
+        {
+          "id": "kaim-schl-9558-t10",
+          "title": "Schlachtplatte, Teil 10",
+          "index": 9,
+          "startTime": 1370.666,
+          "duration": 508.333
+        },
+        {
+          "id": "kaim-schl-9558-t11",
+          "title": "Schlachtplatte, Teil 11",
+          "index": 10,
+          "startTime": 1878.999,
+          "duration": 54.493
+        },
+        {
+          "id": "kaim-schl-9558-t12",
+          "title": "Schlachtplatte, Teil 12",
+          "index": 11,
+          "startTime": 1933.492,
+          "duration": 58.173
+        },
+        {
+          "id": "kaim-schl-9558-t13",
+          "title": "Schlachtplatte, Teil 13",
+          "index": 12,
+          "startTime": 1991.665,
+          "duration": 243.867
+        },
+        {
+          "id": "kaim-schl-9558-t14",
+          "title": "Schlachtplatte, Teil 14",
+          "index": 13,
+          "startTime": 2235.532,
+          "duration": 690.987
+        },
+        {
+          "id": "kaim-schl-9558-t15",
+          "title": "Schlachtplatte, Teil 15",
+          "index": 14,
+          "startTime": 2926.519,
+          "duration": 263.053
+        },
+        {
+          "id": "kaim-schl-9558-t16",
+          "title": "Schlachtplatte, Teil 16",
+          "index": 15,
+          "startTime": 3189.572,
+          "duration": 368.973
+        },
+        {
+          "id": "kaim-schl-9558-t17",
+          "title": "Schlachtplatte, Teil 17",
+          "index": 16,
+          "startTime": 3558.545,
+          "duration": 437.747
+        },
+        {
+          "id": "kaim-schl-9558-t18",
+          "title": "Schlachtplatte, Teil 18",
+          "index": 17,
+          "startTime": 3996.292,
+          "duration": 787.08
+        },
+        {
+          "id": "kaim-schl-9558-t19",
+          "title": "Schlachtplatte, Teil 19",
+          "index": 18,
+          "startTime": 4783.372,
+          "duration": 14.227
+        }
+      ]
     },
     {
       "id": "1215790677",
@@ -132,11 +2052,173 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2a/8c/d2/2a8cd2a0-613d-9538-6784-219dcddc46bf/9783844526493_1448.jpg/100x100bb.jpg",
       "description": "Ein spannender Krimi-Spaß mit 23 Episoden, der Spannung und Unterhaltung bietet.",
-      "totalDuration": 0,
+      "totalDuration": 9299.573,
       "platforms": {
         "appleMusic": "1215790677"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-todu-0677-t01",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 147.747
+        },
+        {
+          "id": "kaim-todu-0677-t02",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 2",
+          "index": 1,
+          "startTime": 147.747,
+          "duration": 991.667
+        },
+        {
+          "id": "kaim-todu-0677-t03",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 3",
+          "index": 2,
+          "startTime": 1139.414,
+          "duration": 79.573
+        },
+        {
+          "id": "kaim-todu-0677-t04",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 4",
+          "index": 3,
+          "startTime": 1218.987,
+          "duration": 902.6
+        },
+        {
+          "id": "kaim-todu-0677-t05",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 5",
+          "index": 4,
+          "startTime": 2121.587,
+          "duration": 175.173
+        },
+        {
+          "id": "kaim-todu-0677-t06",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 6",
+          "index": 5,
+          "startTime": 2296.76,
+          "duration": 1513.427
+        },
+        {
+          "id": "kaim-todu-0677-t07",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 7",
+          "index": 6,
+          "startTime": 3810.187,
+          "duration": 335.96
+        },
+        {
+          "id": "kaim-todu-0677-t08",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 8",
+          "index": 7,
+          "startTime": 4146.147,
+          "duration": 29.72
+        },
+        {
+          "id": "kaim-todu-0677-t09",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 9",
+          "index": 8,
+          "startTime": 4175.867,
+          "duration": 29.307
+        },
+        {
+          "id": "kaim-todu-0677-t10",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 10",
+          "index": 9,
+          "startTime": 4205.174,
+          "duration": 45.733
+        },
+        {
+          "id": "kaim-todu-0677-t11",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 11",
+          "index": 10,
+          "startTime": 4250.907,
+          "duration": 897.507
+        },
+        {
+          "id": "kaim-todu-0677-t12",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 12",
+          "index": 11,
+          "startTime": 5148.414,
+          "duration": 57.453
+        },
+        {
+          "id": "kaim-todu-0677-t13",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 13",
+          "index": 12,
+          "startTime": 5205.867,
+          "duration": 871.24
+        },
+        {
+          "id": "kaim-todu-0677-t14",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 14",
+          "index": 13,
+          "startTime": 6077.107,
+          "duration": 60.853
+        },
+        {
+          "id": "kaim-todu-0677-t15",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 15",
+          "index": 14,
+          "startTime": 6137.96,
+          "duration": 714.12
+        },
+        {
+          "id": "kaim-todu-0677-t16",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 16",
+          "index": 15,
+          "startTime": 6852.08,
+          "duration": 118.0
+        },
+        {
+          "id": "kaim-todu-0677-t17",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 17",
+          "index": 16,
+          "startTime": 6970.08,
+          "duration": 348.213
+        },
+        {
+          "id": "kaim-todu-0677-t18",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 18",
+          "index": 17,
+          "startTime": 7318.293,
+          "duration": 549.613
+        },
+        {
+          "id": "kaim-todu-0677-t19",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 19",
+          "index": 18,
+          "startTime": 7867.906,
+          "duration": 194.28
+        },
+        {
+          "id": "kaim-todu-0677-t20",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 20",
+          "index": 19,
+          "startTime": 8062.186,
+          "duration": 28.987
+        },
+        {
+          "id": "kaim-todu-0677-t21",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 21",
+          "index": 20,
+          "startTime": 8091.173,
+          "duration": 28.64
+        },
+        {
+          "id": "kaim-todu-0677-t22",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 22",
+          "index": 21,
+          "startTime": 8119.813,
+          "duration": 43.147
+        },
+        {
+          "id": "kaim-todu-0677-t23",
+          "title": "Tod unter Gurken - Ein mörderischer Krimi-Spaß, Kapitel 23",
+          "index": 22,
+          "startTime": 8162.96,
+          "duration": 1136.613
+        }
+      ]
     },
     {
       "id": "1453400342",
@@ -145,11 +2227,271 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/0c/74/6d0c7471-f86e-0354-aed5-ce3b73149a85/9783844533927_3000.jpg/100x100bb.jpg",
       "description": "Ein spannender Krimi-Spaß im Stil des berühmten deutschen Hörspiel-Autors Kai Magnus Sting.",
-      "totalDuration": 0,
+      "totalDuration": 7874.986,
       "platforms": {
         "appleMusic": "1453400342"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-todu-0342-t01",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 117.973
+        },
+        {
+          "id": "kaim-todu-0342-t02",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 2",
+          "index": 1,
+          "startTime": 117.973,
+          "duration": 152.293
+        },
+        {
+          "id": "kaim-todu-0342-t03",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 3",
+          "index": 2,
+          "startTime": 270.266,
+          "duration": 67.613
+        },
+        {
+          "id": "kaim-todu-0342-t04",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 4",
+          "index": 3,
+          "startTime": 337.879,
+          "duration": 184.56
+        },
+        {
+          "id": "kaim-todu-0342-t05",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 5",
+          "index": 4,
+          "startTime": 522.439,
+          "duration": 172.76
+        },
+        {
+          "id": "kaim-todu-0342-t06",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 6",
+          "index": 5,
+          "startTime": 695.199,
+          "duration": 228.173
+        },
+        {
+          "id": "kaim-todu-0342-t07",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 7",
+          "index": 6,
+          "startTime": 923.372,
+          "duration": 211.56
+        },
+        {
+          "id": "kaim-todu-0342-t08",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 8",
+          "index": 7,
+          "startTime": 1134.932,
+          "duration": 291.187
+        },
+        {
+          "id": "kaim-todu-0342-t09",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 9",
+          "index": 8,
+          "startTime": 1426.119,
+          "duration": 349.827
+        },
+        {
+          "id": "kaim-todu-0342-t10",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 10",
+          "index": 9,
+          "startTime": 1775.946,
+          "duration": 371.533
+        },
+        {
+          "id": "kaim-todu-0342-t11",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 11",
+          "index": 10,
+          "startTime": 2147.479,
+          "duration": 299.32
+        },
+        {
+          "id": "kaim-todu-0342-t12",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 12",
+          "index": 11,
+          "startTime": 2446.799,
+          "duration": 209.32
+        },
+        {
+          "id": "kaim-todu-0342-t13",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 13",
+          "index": 12,
+          "startTime": 2656.119,
+          "duration": 191.107
+        },
+        {
+          "id": "kaim-todu-0342-t14",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 14",
+          "index": 13,
+          "startTime": 2847.226,
+          "duration": 187.28
+        },
+        {
+          "id": "kaim-todu-0342-t15",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 15",
+          "index": 14,
+          "startTime": 3034.506,
+          "duration": 254.76
+        },
+        {
+          "id": "kaim-todu-0342-t16",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 16",
+          "index": 15,
+          "startTime": 3289.266,
+          "duration": 214.32
+        },
+        {
+          "id": "kaim-todu-0342-t17",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 17",
+          "index": 16,
+          "startTime": 3503.586,
+          "duration": 267.547
+        },
+        {
+          "id": "kaim-todu-0342-t18",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 18",
+          "index": 17,
+          "startTime": 3771.133,
+          "duration": 244.413
+        },
+        {
+          "id": "kaim-todu-0342-t19",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 19",
+          "index": 18,
+          "startTime": 4015.546,
+          "duration": 223.147
+        },
+        {
+          "id": "kaim-todu-0342-t20",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 20",
+          "index": 19,
+          "startTime": 4238.693,
+          "duration": 178.707
+        },
+        {
+          "id": "kaim-todu-0342-t21",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 21",
+          "index": 20,
+          "startTime": 4417.4,
+          "duration": 188.933
+        },
+        {
+          "id": "kaim-todu-0342-t22",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 22",
+          "index": 21,
+          "startTime": 4606.333,
+          "duration": 117.733
+        },
+        {
+          "id": "kaim-todu-0342-t23",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 23",
+          "index": 22,
+          "startTime": 4724.066,
+          "duration": 126.027
+        },
+        {
+          "id": "kaim-todu-0342-t24",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 24",
+          "index": 23,
+          "startTime": 4850.093,
+          "duration": 277.107
+        },
+        {
+          "id": "kaim-todu-0342-t25",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 25",
+          "index": 24,
+          "startTime": 5127.2,
+          "duration": 158.28
+        },
+        {
+          "id": "kaim-todu-0342-t26",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 26",
+          "index": 25,
+          "startTime": 5285.48,
+          "duration": 160.533
+        },
+        {
+          "id": "kaim-todu-0342-t27",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 27",
+          "index": 26,
+          "startTime": 5446.013,
+          "duration": 233.667
+        },
+        {
+          "id": "kaim-todu-0342-t28",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 28",
+          "index": 27,
+          "startTime": 5679.68,
+          "duration": 177.68
+        },
+        {
+          "id": "kaim-todu-0342-t29",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 29",
+          "index": 28,
+          "startTime": 5857.36,
+          "duration": 202.507
+        },
+        {
+          "id": "kaim-todu-0342-t30",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 30",
+          "index": 29,
+          "startTime": 6059.867,
+          "duration": 245.413
+        },
+        {
+          "id": "kaim-todu-0342-t31",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 31",
+          "index": 30,
+          "startTime": 6305.28,
+          "duration": 283.733
+        },
+        {
+          "id": "kaim-todu-0342-t32",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 32",
+          "index": 31,
+          "startTime": 6589.013,
+          "duration": 178.547
+        },
+        {
+          "id": "kaim-todu-0342-t33",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 33",
+          "index": 32,
+          "startTime": 6767.56,
+          "duration": 248.133
+        },
+        {
+          "id": "kaim-todu-0342-t34",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 34",
+          "index": 33,
+          "startTime": 7015.693,
+          "duration": 173.96
+        },
+        {
+          "id": "kaim-todu-0342-t35",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 35",
+          "index": 34,
+          "startTime": 7189.653,
+          "duration": 187.96
+        },
+        {
+          "id": "kaim-todu-0342-t36",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 36",
+          "index": 35,
+          "startTime": 7377.613,
+          "duration": 198.8
+        },
+        {
+          "id": "kaim-todu-0342-t37",
+          "title": "Tod unter Gurken 2 - Noch ein mörderischer Krimi-Spaß, Kapitel 37",
+          "index": 36,
+          "startTime": 7576.413,
+          "duration": 298.573
+        }
+      ]
     },
     {
       "id": "1435672687",
@@ -158,11 +2500,180 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c5/08/0a/c5080a17-1f71-8441-b6ae-80e65d4969c1/9783844530957_3000.jpg/100x100bb.jpg",
       "description": "Ein weihnachtlicher Krimi-Spaß in 24 Geschichten.",
-      "totalDuration": 0,
+      "totalDuration": 4742.947,
       "platforms": {
         "appleMusic": "1435672687"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-todu-2687-t01",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 174.173
+        },
+        {
+          "id": "kaim-todu-2687-t02",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 2",
+          "index": 1,
+          "startTime": 174.173,
+          "duration": 250.933
+        },
+        {
+          "id": "kaim-todu-2687-t03",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 3",
+          "index": 2,
+          "startTime": 425.106,
+          "duration": 299.64
+        },
+        {
+          "id": "kaim-todu-2687-t04",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 4",
+          "index": 3,
+          "startTime": 724.746,
+          "duration": 169.347
+        },
+        {
+          "id": "kaim-todu-2687-t05",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 5",
+          "index": 4,
+          "startTime": 894.093,
+          "duration": 165.64
+        },
+        {
+          "id": "kaim-todu-2687-t06",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 6",
+          "index": 5,
+          "startTime": 1059.733,
+          "duration": 171.267
+        },
+        {
+          "id": "kaim-todu-2687-t07",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 7",
+          "index": 6,
+          "startTime": 1231.0,
+          "duration": 155.707
+        },
+        {
+          "id": "kaim-todu-2687-t08",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 8",
+          "index": 7,
+          "startTime": 1386.707,
+          "duration": 191.813
+        },
+        {
+          "id": "kaim-todu-2687-t09",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 9",
+          "index": 8,
+          "startTime": 1578.52,
+          "duration": 113.053
+        },
+        {
+          "id": "kaim-todu-2687-t10",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 10",
+          "index": 9,
+          "startTime": 1691.573,
+          "duration": 137.56
+        },
+        {
+          "id": "kaim-todu-2687-t11",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 11",
+          "index": 10,
+          "startTime": 1829.133,
+          "duration": 151.573
+        },
+        {
+          "id": "kaim-todu-2687-t12",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 12",
+          "index": 11,
+          "startTime": 1980.706,
+          "duration": 174.32
+        },
+        {
+          "id": "kaim-todu-2687-t13",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 13",
+          "index": 12,
+          "startTime": 2155.026,
+          "duration": 105.107
+        },
+        {
+          "id": "kaim-todu-2687-t14",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 14",
+          "index": 13,
+          "startTime": 2260.133,
+          "duration": 143.213
+        },
+        {
+          "id": "kaim-todu-2687-t15",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 15",
+          "index": 14,
+          "startTime": 2403.346,
+          "duration": 190.867
+        },
+        {
+          "id": "kaim-todu-2687-t16",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 16",
+          "index": 15,
+          "startTime": 2594.213,
+          "duration": 307.707
+        },
+        {
+          "id": "kaim-todu-2687-t17",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 17",
+          "index": 16,
+          "startTime": 2901.92,
+          "duration": 242.893
+        },
+        {
+          "id": "kaim-todu-2687-t18",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 18",
+          "index": 17,
+          "startTime": 3144.813,
+          "duration": 155.853
+        },
+        {
+          "id": "kaim-todu-2687-t19",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 19",
+          "index": 18,
+          "startTime": 3300.666,
+          "duration": 207.36
+        },
+        {
+          "id": "kaim-todu-2687-t20",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 20",
+          "index": 19,
+          "startTime": 3508.026,
+          "duration": 202.52
+        },
+        {
+          "id": "kaim-todu-2687-t21",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 21",
+          "index": 20,
+          "startTime": 3710.546,
+          "duration": 106.507
+        },
+        {
+          "id": "kaim-todu-2687-t22",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 22",
+          "index": 21,
+          "startTime": 3817.053,
+          "duration": 174.4
+        },
+        {
+          "id": "kaim-todu-2687-t23",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 23",
+          "index": 22,
+          "startTime": 3991.453,
+          "duration": 526.987
+        },
+        {
+          "id": "kaim-todu-2687-t24",
+          "title": "Tod unter Lametta - Ein weihnachtlicher Krimi-Spaß in 24 Geschichten, Kapitel 24",
+          "index": 23,
+          "startTime": 4518.44,
+          "duration": 224.507
+        }
+      ]
     },
     {
       "id": "1480546054",
@@ -171,11 +2682,180 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/17/41/7e/17417eb5-8bdd-b64c-9591-88c3655ace38/9783844535662_3000.jpg/100x100bb.jpg",
       "description": "Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln.",
-      "totalDuration": 0,
+      "totalDuration": 7723.4,
       "platforms": {
         "appleMusic": "1480546054"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-todu-6054-t01",
+          "title": "Kapitel 1 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 358.8
+        },
+        {
+          "id": "kaim-todu-6054-t02",
+          "title": "Kapitel 2 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 1,
+          "startTime": 358.8,
+          "duration": 473.013
+        },
+        {
+          "id": "kaim-todu-6054-t03",
+          "title": "Kapitel 3 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 2,
+          "startTime": 831.813,
+          "duration": 258.987
+        },
+        {
+          "id": "kaim-todu-6054-t04",
+          "title": "Kapitel 4 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 3,
+          "startTime": 1090.8,
+          "duration": 323.827
+        },
+        {
+          "id": "kaim-todu-6054-t05",
+          "title": "Kapitel 5 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 4,
+          "startTime": 1414.627,
+          "duration": 351.987
+        },
+        {
+          "id": "kaim-todu-6054-t06",
+          "title": "Kapitel 6 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 5,
+          "startTime": 1766.614,
+          "duration": 400.227
+        },
+        {
+          "id": "kaim-todu-6054-t07",
+          "title": "Kapitel 7 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 6,
+          "startTime": 2166.841,
+          "duration": 237.387
+        },
+        {
+          "id": "kaim-todu-6054-t08",
+          "title": "Kapitel 8 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 7,
+          "startTime": 2404.228,
+          "duration": 411.04
+        },
+        {
+          "id": "kaim-todu-6054-t09",
+          "title": "Kapitel 9 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 8,
+          "startTime": 2815.268,
+          "duration": 318.173
+        },
+        {
+          "id": "kaim-todu-6054-t10",
+          "title": "Kapitel 10 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 9,
+          "startTime": 3133.441,
+          "duration": 249.533
+        },
+        {
+          "id": "kaim-todu-6054-t11",
+          "title": "Kapitel 11 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 10,
+          "startTime": 3382.974,
+          "duration": 412.92
+        },
+        {
+          "id": "kaim-todu-6054-t12",
+          "title": "Kapitel 12 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 11,
+          "startTime": 3795.894,
+          "duration": 391.4
+        },
+        {
+          "id": "kaim-todu-6054-t13",
+          "title": "Kapitel 13 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 12,
+          "startTime": 4187.294,
+          "duration": 193.36
+        },
+        {
+          "id": "kaim-todu-6054-t14",
+          "title": "Kapitel 14 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 13,
+          "startTime": 4380.654,
+          "duration": 196.4
+        },
+        {
+          "id": "kaim-todu-6054-t15",
+          "title": "Kapitel 15 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 14,
+          "startTime": 4577.054,
+          "duration": 463.507
+        },
+        {
+          "id": "kaim-todu-6054-t16",
+          "title": "Kapitel 16 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 15,
+          "startTime": 5040.561,
+          "duration": 367.12
+        },
+        {
+          "id": "kaim-todu-6054-t17",
+          "title": "Kapitel 17 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 16,
+          "startTime": 5407.681,
+          "duration": 265.067
+        },
+        {
+          "id": "kaim-todu-6054-t18",
+          "title": "Kapitel 18 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 17,
+          "startTime": 5672.748,
+          "duration": 251.48
+        },
+        {
+          "id": "kaim-todu-6054-t19",
+          "title": "Kapitel 19 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 18,
+          "startTime": 5924.228,
+          "duration": 362.813
+        },
+        {
+          "id": "kaim-todu-6054-t20",
+          "title": "Kapitel 20 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 19,
+          "startTime": 6287.041,
+          "duration": 267.96
+        },
+        {
+          "id": "kaim-todu-6054-t21",
+          "title": "Kapitel 21 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 20,
+          "startTime": 6555.001,
+          "duration": 309.12
+        },
+        {
+          "id": "kaim-todu-6054-t22",
+          "title": "Kapitel 22 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 21,
+          "startTime": 6864.121,
+          "duration": 351.173
+        },
+        {
+          "id": "kaim-todu-6054-t23",
+          "title": "Kapitel 23 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 22,
+          "startTime": 7215.294,
+          "duration": 195.893
+        },
+        {
+          "id": "kaim-todu-6054-t24",
+          "title": "Kapitel 24 - Tod unter Lametta 2 - Ein weihnachtlicher Krimi-Spaß in 24 Kapiteln",
+          "index": 23,
+          "startTime": 7411.187,
+          "duration": 312.213
+        }
+      ]
     },
     {
       "id": "1776602778",
@@ -184,11 +2864,236 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/9d/c1/049dc18d-affc-2fc6-1a76-3cf4146b1545/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album scheint ein Comedy-Hörspiel oder Hörbuch zu sein, basierend auf dem Titel und dem Genre. Es enthält 32 Tracks und bietet Unterhaltung durch Humor.",
-      "totalDuration": 0,
+      "totalDuration": 9655.0,
       "platforms": {
         "appleMusic": "1776602778"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-undi-2778-t01",
+          "title": "Wie es geht und was noch kommt (Live)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 182.6
+        },
+        {
+          "id": "kaim-undi-2778-t02",
+          "title": "Arzt und Untersuchung (Live)",
+          "index": 1,
+          "startTime": 182.6,
+          "duration": 408.8
+        },
+        {
+          "id": "kaim-undi-2778-t03",
+          "title": "Beim Zahnarzt (Live)",
+          "index": 2,
+          "startTime": 591.4,
+          "duration": 333.4
+        },
+        {
+          "id": "kaim-undi-2778-t04",
+          "title": "Arzt und Ernährung (Live)",
+          "index": 3,
+          "startTime": 924.8,
+          "duration": 232.507
+        },
+        {
+          "id": "kaim-undi-2778-t05",
+          "title": "Tee (Live)",
+          "index": 4,
+          "startTime": 1157.307,
+          "duration": 242.0
+        },
+        {
+          "id": "kaim-undi-2778-t06",
+          "title": "Arzt und Bewegung 1 (Live)",
+          "index": 5,
+          "startTime": 1399.307,
+          "duration": 230.427
+        },
+        {
+          "id": "kaim-undi-2778-t07",
+          "title": "Die Radfahrgeschichte (Live)",
+          "index": 6,
+          "startTime": 1629.734,
+          "duration": 426.08
+        },
+        {
+          "id": "kaim-undi-2778-t08",
+          "title": "Arzt und Bewegung 2 (Live)",
+          "index": 7,
+          "startTime": 2055.814,
+          "duration": 69.107
+        },
+        {
+          "id": "kaim-undi-2778-t09",
+          "title": "Kaffee-Variante 1: To go (Live)",
+          "index": 8,
+          "startTime": 2124.921,
+          "duration": 343.52
+        },
+        {
+          "id": "kaim-undi-2778-t10",
+          "title": "Kaffee-Variante 2: To sit (Live)",
+          "index": 9,
+          "startTime": 2468.441,
+          "duration": 135.547
+        },
+        {
+          "id": "kaim-undi-2778-t11",
+          "title": "Unterwegs müssen müssen (Live)",
+          "index": 10,
+          "startTime": 2603.988,
+          "duration": 196.453
+        },
+        {
+          "id": "kaim-undi-2778-t12",
+          "title": "Der Wind (Live)",
+          "index": 11,
+          "startTime": 2800.441,
+          "duration": 161.373
+        },
+        {
+          "id": "kaim-undi-2778-t13",
+          "title": "Die hochphilosophischen Omma-Sätze (Live)",
+          "index": 12,
+          "startTime": 2961.814,
+          "duration": 622.867
+        },
+        {
+          "id": "kaim-undi-2778-t14",
+          "title": "Das Kellerentrümpeln (Live)",
+          "index": 13,
+          "startTime": 3584.681,
+          "duration": 144.013
+        },
+        {
+          "id": "kaim-undi-2778-t15",
+          "title": "Das Internetproblem (Live)",
+          "index": 14,
+          "startTime": 3728.694,
+          "duration": 554.227
+        },
+        {
+          "id": "kaim-undi-2778-t16",
+          "title": "Aberwitz mit Deko (Live)",
+          "index": 15,
+          "startTime": 4282.921,
+          "duration": 631.747
+        },
+        {
+          "id": "kaim-undi-2778-t17",
+          "title": "Gulaschsuppe 1 (Live)",
+          "index": 16,
+          "startTime": 4914.668,
+          "duration": 451.84
+        },
+        {
+          "id": "kaim-undi-2778-t18",
+          "title": "Was man nicht mag (Live)",
+          "index": 17,
+          "startTime": 5366.508,
+          "duration": 367.453
+        },
+        {
+          "id": "kaim-undi-2778-t19",
+          "title": "Butterkuchen (Live)",
+          "index": 18,
+          "startTime": 5733.961,
+          "duration": 202.693
+        },
+        {
+          "id": "kaim-undi-2778-t20",
+          "title": "Gulaschsuppe 2 (Live)",
+          "index": 19,
+          "startTime": 5936.654,
+          "duration": 188.76
+        },
+        {
+          "id": "kaim-undi-2778-t21",
+          "title": "Dr. Plönner (Live)",
+          "index": 20,
+          "startTime": 6125.414,
+          "duration": 202.867
+        },
+        {
+          "id": "kaim-undi-2778-t22",
+          "title": "Das Aufstehen und die Folgen (Live)",
+          "index": 21,
+          "startTime": 6328.281,
+          "duration": 111.653
+        },
+        {
+          "id": "kaim-undi-2778-t23",
+          "title": "Gemeinsames Frühstück (Live)",
+          "index": 22,
+          "startTime": 6439.934,
+          "duration": 176.067
+        },
+        {
+          "id": "kaim-undi-2778-t24",
+          "title": "Textaufgaben und Lehrkörper (Live)",
+          "index": 23,
+          "startTime": 6616.001,
+          "duration": 388.6
+        },
+        {
+          "id": "kaim-undi-2778-t25",
+          "title": "Die Hotelgeschichte (Live)",
+          "index": 24,
+          "startTime": 7004.601,
+          "duration": 563.013
+        },
+        {
+          "id": "kaim-undi-2778-t26",
+          "title": "Das Telefonieren (Live)",
+          "index": 25,
+          "startTime": 7567.614,
+          "duration": 490.013
+        },
+        {
+          "id": "kaim-undi-2778-t27",
+          "title": "Das Fernsehen (Live)",
+          "index": 26,
+          "startTime": 8057.627,
+          "duration": 277.88
+        },
+        {
+          "id": "kaim-undi-2778-t28",
+          "title": "Der erste Mensch (Live)",
+          "index": 27,
+          "startTime": 8335.507,
+          "duration": 218.653
+        },
+        {
+          "id": "kaim-undi-2778-t29",
+          "title": "Quärke (Live)",
+          "index": 28,
+          "startTime": 8554.16,
+          "duration": 174.507
+        },
+        {
+          "id": "kaim-undi-2778-t30",
+          "title": "Die Übergangsjacke und der Schwimmshorts (Live)",
+          "index": 29,
+          "startTime": 8728.667,
+          "duration": 255.293
+        },
+        {
+          "id": "kaim-undi-2778-t31",
+          "title": "Der Nudelsalat (Live)",
+          "index": 30,
+          "startTime": 8983.96,
+          "duration": 403.76
+        },
+        {
+          "id": "kaim-undi-2778-t32",
+          "title": "Mozzarella und Hose (Live)",
+          "index": 31,
+          "startTime": 9387.72,
+          "duration": 267.28
+        }
+      ]
     },
     {
       "id": "209461272",
@@ -197,11 +3102,89 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/8e/0b/12/mzi.zzvkuxdy.jpg/100x100bb.jpg",
       "description": "Dieses Album scheint ein deutscher Hörspiel- oder Hörbuch-Inhalt zu sein, da es sich auf Comedy spezialisiert hat.",
-      "totalDuration": 0,
+      "totalDuration": 4670.999,
       "platforms": {
         "appleMusic": "209461272"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-unte-1272-t01",
+          "title": "Weihnachtsauftakt mit Musikabstinenz",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 118.107
+        },
+        {
+          "id": "kaim-unte-1272-t02",
+          "title": "Die Weihnachtsschreckenstrias: Backen Geschenke Adventskalender",
+          "index": 1,
+          "startTime": 118.107,
+          "duration": 111.853
+        },
+        {
+          "id": "kaim-unte-1272-t03",
+          "title": "Das Ich contra Tante Frieda und das Marzipan dieser Welt",
+          "index": 2,
+          "startTime": 229.96,
+          "duration": 148.373
+        },
+        {
+          "id": "kaim-unte-1272-t04",
+          "title": "Die durchaus komplizierte Weihnachtsbaumthematik mit zwei unbeabsichtigten Exkursen in die Bereiche des Nadelns und der geographischen Unzulänglichkeiten",
+          "index": 3,
+          "startTime": 378.333,
+          "duration": 684.293
+        },
+        {
+          "id": "kaim-unte-1272-t05",
+          "title": "Lichterkettenverhudelungen",
+          "index": 4,
+          "startTime": 1062.626,
+          "duration": 78.453
+        },
+        {
+          "id": "kaim-unte-1272-t06",
+          "title": "Was soll geschenkt werden und was erwartet man vom Geschenk?",
+          "index": 5,
+          "startTime": 1141.079,
+          "duration": 152.2
+        },
+        {
+          "id": "kaim-unte-1272-t07",
+          "title": "Der Zwang der Belichterungen",
+          "index": 6,
+          "startTime": 1293.279,
+          "duration": 36.907
+        },
+        {
+          "id": "kaim-unte-1272-t08",
+          "title": "Teebräuche und alljährliche Kirchenbesuche",
+          "index": 7,
+          "startTime": 1330.186,
+          "duration": 262.173
+        },
+        {
+          "id": "kaim-unte-1272-t09",
+          "title": "Das Weihnachtsduell",
+          "index": 8,
+          "startTime": 1592.359,
+          "duration": 1347.827
+        },
+        {
+          "id": "kaim-unte-1272-t10",
+          "title": "Die Weihnachtskarpfengans",
+          "index": 9,
+          "startTime": 2940.186,
+          "duration": 798.0
+        },
+        {
+          "id": "kaim-unte-1272-t11",
+          "title": "Die Wahrheit über Weihnachten",
+          "index": 10,
+          "startTime": 3738.186,
+          "duration": 932.813
+        }
+      ]
     },
     {
       "id": "1658093158",
@@ -210,11 +3193,131 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3a/b9/2d/3ab92db9-b433-a2f3-a3e2-370ac0de1167/4251489304530_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspielalbum von Kai Magnus Sting und Das Spardosen-Terzett, das 17 Tracks umfasst und im Genre Hörspiele angesiedelt ist.",
-      "totalDuration": 0,
+      "totalDuration": 4733.311,
       "platforms": {
         "appleMusic": "1658093158"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-unte-3158-t01",
+          "title": "Guten Abend!",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 117.786
+        },
+        {
+          "id": "kaim-unte-3158-t02",
+          "title": "Weihnachtsbegrüssung",
+          "index": 1,
+          "startTime": 117.786,
+          "duration": 111.491
+        },
+        {
+          "id": "kaim-unte-3158-t03",
+          "title": "Weihnachtsdekoration",
+          "index": 2,
+          "startTime": 229.277,
+          "duration": 154.567
+        },
+        {
+          "id": "kaim-unte-3158-t04",
+          "title": "Weihnachtsgebäck",
+          "index": 3,
+          "startTime": 383.844,
+          "duration": 144.588
+        },
+        {
+          "id": "kaim-unte-3158-t05",
+          "title": "Weihnachtsmusikmarzipan",
+          "index": 4,
+          "startTime": 528.432,
+          "duration": 115.043
+        },
+        {
+          "id": "kaim-unte-3158-t06",
+          "title": "Sound Little Bell (Kling Glöckchen)",
+          "index": 5,
+          "startTime": 643.475,
+          "duration": 150.753
+        },
+        {
+          "id": "kaim-unte-3158-t07",
+          "title": "Geschenk für einen guten Freund",
+          "index": 6,
+          "startTime": 794.228,
+          "duration": 240.039
+        },
+        {
+          "id": "kaim-unte-3158-t08",
+          "title": "Basssolo (Stille Nacht)",
+          "index": 7,
+          "startTime": 1034.267,
+          "duration": 434.129
+        },
+        {
+          "id": "kaim-unte-3158-t09",
+          "title": "Die Weihnachtsfeier",
+          "index": 8,
+          "startTime": 1468.396,
+          "duration": 728.007
+        },
+        {
+          "id": "kaim-unte-3158-t10",
+          "title": "Spritzgebäck",
+          "index": 9,
+          "startTime": 2196.403,
+          "duration": 321.045
+        },
+        {
+          "id": "kaim-unte-3158-t11",
+          "title": "Spieluhr (Stille Nacht)",
+          "index": 10,
+          "startTime": 2517.448,
+          "duration": 79.595
+        },
+        {
+          "id": "kaim-unte-3158-t12",
+          "title": "Weihnachten 1: Der Baumkauf und seine Dekoration",
+          "index": 11,
+          "startTime": 2597.043,
+          "duration": 478.668
+        },
+        {
+          "id": "kaim-unte-3158-t13",
+          "title": "Weihnachten 2: Allgemeine Familieneintrudelung",
+          "index": 12,
+          "startTime": 3075.711,
+          "duration": 609.646
+        },
+        {
+          "id": "kaim-unte-3158-t14",
+          "title": "Weihnachten 3: Kirche, Krippenspiel und Katastrophen",
+          "index": 13,
+          "startTime": 3685.357,
+          "duration": 278.256
+        },
+        {
+          "id": "kaim-unte-3158-t15",
+          "title": "Weihnachten 4: Heiligabend zusammen!",
+          "index": 14,
+          "startTime": 3963.613,
+          "duration": 324.571
+        },
+        {
+          "id": "kaim-unte-3158-t16",
+          "title": "Daunenjacke",
+          "index": 15,
+          "startTime": 4288.184,
+          "duration": 349.362
+        },
+        {
+          "id": "kaim-unte-3158-t17",
+          "title": "O du fröhliche",
+          "index": 16,
+          "startTime": 4637.546,
+          "duration": 95.765
+        }
+      ]
     },
     {
       "id": "311086418",
@@ -223,11 +3326,152 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/75/df/mzi.tnvaoeuh.jpg/100x100bb.jpg",
       "description": "Dieses Album könnte ein deutsches Hörspiel oder Hörbuch sein, das Comedy-Inhalte bietet.",
-      "totalDuration": 0,
+      "totalDuration": 4132.094,
       "platforms": {
         "appleMusic": "311086418"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-watw-6418-t01",
+          "title": "Auftakt",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 9.8
+        },
+        {
+          "id": "kaim-watw-6418-t02",
+          "title": "Die Ansprache",
+          "index": 1,
+          "startTime": 9.8,
+          "duration": 231.44
+        },
+        {
+          "id": "kaim-watw-6418-t03",
+          "title": "Die Befreiung Der Wespen",
+          "index": 2,
+          "startTime": 241.24,
+          "duration": 115.653
+        },
+        {
+          "id": "kaim-watw-6418-t04",
+          "title": "Im Stau",
+          "index": 3,
+          "startTime": 356.893,
+          "duration": 339.147
+        },
+        {
+          "id": "kaim-watw-6418-t05",
+          "title": "Alltagsgeschichten",
+          "index": 4,
+          "startTime": 696.04,
+          "duration": 406.493
+        },
+        {
+          "id": "kaim-watw-6418-t06",
+          "title": "Normal",
+          "index": 5,
+          "startTime": 1102.533,
+          "duration": 105.013
+        },
+        {
+          "id": "kaim-watw-6418-t07",
+          "title": "Abwechslung",
+          "index": 6,
+          "startTime": 1207.546,
+          "duration": 16.547
+        },
+        {
+          "id": "kaim-watw-6418-t08",
+          "title": "Der Lottogewinn",
+          "index": 7,
+          "startTime": 1224.093,
+          "duration": 539.227
+        },
+        {
+          "id": "kaim-watw-6418-t09",
+          "title": "Probenprobleme",
+          "index": 8,
+          "startTime": 1763.32,
+          "duration": 199.107
+        },
+        {
+          "id": "kaim-watw-6418-t10",
+          "title": "Gemeinsamkeiten",
+          "index": 9,
+          "startTime": 1962.427,
+          "duration": 131.44
+        },
+        {
+          "id": "kaim-watw-6418-t11",
+          "title": "Büfettordnungen",
+          "index": 10,
+          "startTime": 2093.867,
+          "duration": 411.88
+        },
+        {
+          "id": "kaim-watw-6418-t12",
+          "title": "Aufräumen",
+          "index": 11,
+          "startTime": 2505.747,
+          "duration": 114.64
+        },
+        {
+          "id": "kaim-watw-6418-t13",
+          "title": "Die Annonce",
+          "index": 12,
+          "startTime": 2620.387,
+          "duration": 472.04
+        },
+        {
+          "id": "kaim-watw-6418-t14",
+          "title": "Tod Auf Der Bühne",
+          "index": 13,
+          "startTime": 3092.427,
+          "duration": 35.24
+        },
+        {
+          "id": "kaim-watw-6418-t15",
+          "title": "Das Versehen",
+          "index": 14,
+          "startTime": 3127.667,
+          "duration": 165.147
+        },
+        {
+          "id": "kaim-watw-6418-t16",
+          "title": "Geschenke",
+          "index": 15,
+          "startTime": 3292.814,
+          "duration": 304.84
+        },
+        {
+          "id": "kaim-watw-6418-t17",
+          "title": "Familienverhältnisse",
+          "index": 16,
+          "startTime": 3597.654,
+          "duration": 293.56
+        },
+        {
+          "id": "kaim-watw-6418-t18",
+          "title": "Einstellung",
+          "index": 17,
+          "startTime": 3891.214,
+          "duration": 94.693
+        },
+        {
+          "id": "kaim-watw-6418-t19",
+          "title": "Schlußgedanken",
+          "index": 18,
+          "startTime": 3985.907,
+          "duration": 140.867
+        },
+        {
+          "id": "kaim-watw-6418-t20",
+          "title": "Ausklang",
+          "index": 19,
+          "startTime": 4126.774,
+          "duration": 5.32
+        }
+      ]
     },
     {
       "id": "49286476",
@@ -236,11 +3480,152 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Features/0a/7f/20/dj.ansdwchu.jpg/100x100bb.jpg",
       "description": "Ein Comedy-Album mit 20 Tracks, das typisch für deutsche Hörspiele ist.",
-      "totalDuration": 0,
+      "totalDuration": 4706.254,
       "platforms": {
         "appleMusic": "49286476"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-weil-6476-t01",
+          "title": "Zum Auftakt der Ereignisse",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 217.627
+        },
+        {
+          "id": "kaim-weil-6476-t02",
+          "title": "Liegengebliebenes Aufstehen im Gesamtzusammenhang",
+          "index": 1,
+          "startTime": 217.627,
+          "duration": 274.0
+        },
+        {
+          "id": "kaim-weil-6476-t03",
+          "title": "Keramische Auseinandersetzung 1",
+          "index": 2,
+          "startTime": 491.627,
+          "duration": 57.72
+        },
+        {
+          "id": "kaim-weil-6476-t04",
+          "title": "Folgend ausfallende Züge mit Grüßen von der Bäckerinnung",
+          "index": 3,
+          "startTime": 549.347,
+          "duration": 198.547
+        },
+        {
+          "id": "kaim-weil-6476-t05",
+          "title": "Keramische Auseinandersetzung 2",
+          "index": 4,
+          "startTime": 747.894,
+          "duration": 109.44
+        },
+        {
+          "id": "kaim-weil-6476-t06",
+          "title": "Philosophiererei",
+          "index": 5,
+          "startTime": 857.334,
+          "duration": 363.507
+        },
+        {
+          "id": "kaim-weil-6476-t07",
+          "title": "Friedliches stippen mit Schwein",
+          "index": 6,
+          "startTime": 1220.841,
+          "duration": 196.227
+        },
+        {
+          "id": "kaim-weil-6476-t08",
+          "title": "Schöner runder Geburtstag",
+          "index": 7,
+          "startTime": 1417.068,
+          "duration": 158.44
+        },
+        {
+          "id": "kaim-weil-6476-t09",
+          "title": "Von der Schönheit der Anfänge",
+          "index": 8,
+          "startTime": 1575.508,
+          "duration": 90.08
+        },
+        {
+          "id": "kaim-weil-6476-t10",
+          "title": "Lehrkörperanwesenheit 1",
+          "index": 9,
+          "startTime": 1665.588,
+          "duration": 65.373
+        },
+        {
+          "id": "kaim-weil-6476-t11",
+          "title": "Mathematische Problemkonfrontation",
+          "index": 10,
+          "startTime": 1730.961,
+          "duration": 233.627
+        },
+        {
+          "id": "kaim-weil-6476-t12",
+          "title": "Zusammenbauer und Kreuzwortlöser",
+          "index": 11,
+          "startTime": 1964.588,
+          "duration": 106.853
+        },
+        {
+          "id": "kaim-weil-6476-t13",
+          "title": "Lehrkörperanwesenheit 2",
+          "index": 12,
+          "startTime": 2071.441,
+          "duration": 54.16
+        },
+        {
+          "id": "kaim-weil-6476-t14",
+          "title": "Zementierung schlechter Stimmung und deren versuchte Auflösung",
+          "index": 13,
+          "startTime": 2125.601,
+          "duration": 394.84
+        },
+        {
+          "id": "kaim-weil-6476-t15",
+          "title": "Allgemeiner Humbug",
+          "index": 14,
+          "startTime": 2520.441,
+          "duration": 444.947
+        },
+        {
+          "id": "kaim-weil-6476-t16",
+          "title": "Wenn man fremd zu schlafen hat und einfach nur geweckt werden, gefrühstückt haben und seine Ruhe haben will",
+          "index": 15,
+          "startTime": 2965.388,
+          "duration": 436.733
+        },
+        {
+          "id": "kaim-weil-6476-t17",
+          "title": "Von der Gleichzeitigkeit der Ereignisse",
+          "index": 16,
+          "startTime": 3402.121,
+          "duration": 403.013
+        },
+        {
+          "id": "kaim-weil-6476-t18",
+          "title": "Von der Kuriosität des Ganzen",
+          "index": 17,
+          "startTime": 3805.134,
+          "duration": 332.48
+        },
+        {
+          "id": "kaim-weil-6476-t19",
+          "title": "Vom Verschwinden der Dinge",
+          "index": 18,
+          "startTime": 4137.614,
+          "duration": 330.2
+        },
+        {
+          "id": "kaim-weil-6476-t20",
+          "title": "Dialogischer Epilog",
+          "index": 19,
+          "startTime": 4467.814,
+          "duration": 238.44
+        }
+      ]
     },
     {
       "id": "1734191389",
@@ -249,11 +3634,187 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/32/f7/f6/32f7f635-d431-cd96-5c37-ba962e2bce51/4251489305520_3000.jpg/100x100bb.jpg",
       "description": "Ein Album mit dem Titel 'Wo ist Stieglitz?!' von Kai Magnus Sting, das sich auf Hörspiele spezialisiert, deutet eindeutig auf ein Hörspiel/Hörbuch hin. Es enthält 25 Tracks im Genre Hörspiele.",
-      "totalDuration": 0,
+      "totalDuration": 4778.638,
       "platforms": {
         "appleMusic": "1734191389"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-wois-1389-t01",
+          "title": "Leiche mit Schuss",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 83.019
+        },
+        {
+          "id": "kaim-wois-1389-t02",
+          "title": "Die Kantinenmorde I",
+          "index": 1,
+          "startTime": 83.019,
+          "duration": 320.003
+        },
+        {
+          "id": "kaim-wois-1389-t03",
+          "title": "Die Kantinenmorde II",
+          "index": 2,
+          "startTime": 403.022,
+          "duration": 241.435
+        },
+        {
+          "id": "kaim-wois-1389-t04",
+          "title": "Die Kantinenmorde III",
+          "index": 3,
+          "startTime": 644.457,
+          "duration": 187.945
+        },
+        {
+          "id": "kaim-wois-1389-t05",
+          "title": "Finale in der Torte",
+          "index": 4,
+          "startTime": 832.402,
+          "duration": 160.898
+        },
+        {
+          "id": "kaim-wois-1389-t06",
+          "title": "Spuk vorm Schrank",
+          "index": 5,
+          "startTime": 993.3,
+          "duration": 173.45
+        },
+        {
+          "id": "kaim-wois-1389-t07",
+          "title": "Das Salz des Salsas",
+          "index": 6,
+          "startTime": 1166.75,
+          "duration": 143.108
+        },
+        {
+          "id": "kaim-wois-1389-t08",
+          "title": "Ein Schuss für den richtigen Falschen",
+          "index": 7,
+          "startTime": 1309.858,
+          "duration": 223.281
+        },
+        {
+          "id": "kaim-wois-1389-t09",
+          "title": "Ausgepustet",
+          "index": 8,
+          "startTime": 1533.139,
+          "duration": 164.183
+        },
+        {
+          "id": "kaim-wois-1389-t10",
+          "title": "Wurst mit Senf",
+          "index": 9,
+          "startTime": 1697.322,
+          "duration": 186.396
+        },
+        {
+          "id": "kaim-wois-1389-t11",
+          "title": "Tödliches Bankgeheimnis",
+          "index": 10,
+          "startTime": 1883.718,
+          "duration": 203.803
+        },
+        {
+          "id": "kaim-wois-1389-t12",
+          "title": "Petersburger Hängung",
+          "index": 11,
+          "startTime": 2087.521,
+          "duration": 148.456
+        },
+        {
+          "id": "kaim-wois-1389-t13",
+          "title": "Die tödliche Badekappe",
+          "index": 12,
+          "startTime": 2235.977,
+          "duration": 209.219
+        },
+        {
+          "id": "kaim-wois-1389-t14",
+          "title": "Der abgemurkste Penguin",
+          "index": 13,
+          "startTime": 2445.196,
+          "duration": 176.273
+        },
+        {
+          "id": "kaim-wois-1389-t15",
+          "title": "Der lustige Tod",
+          "index": 14,
+          "startTime": 2621.469,
+          "duration": 159.379
+        },
+        {
+          "id": "kaim-wois-1389-t16",
+          "title": "Fahrrad unter Strom",
+          "index": 15,
+          "startTime": 2780.848,
+          "duration": 196.812
+        },
+        {
+          "id": "kaim-wois-1389-t17",
+          "title": "Verfliest nochmal!",
+          "index": 16,
+          "startTime": 2977.66,
+          "duration": 168.905
+        },
+        {
+          "id": "kaim-wois-1389-t18",
+          "title": "Der tote Elefant auf der Einhornparty",
+          "index": 17,
+          "startTime": 3146.565,
+          "duration": 187.862
+        },
+        {
+          "id": "kaim-wois-1389-t19",
+          "title": "Mordsgrüße aus Schweden",
+          "index": 18,
+          "startTime": 3334.427,
+          "duration": 259.55
+        },
+        {
+          "id": "kaim-wois-1389-t20",
+          "title": "Ausgebrüllt",
+          "index": 19,
+          "startTime": 3593.977,
+          "duration": 182.301
+        },
+        {
+          "id": "kaim-wois-1389-t21",
+          "title": "Aus der Kurve, aus dem Sinn",
+          "index": 20,
+          "startTime": 3776.278,
+          "duration": 191.546
+        },
+        {
+          "id": "kaim-wois-1389-t22",
+          "title": "Nageltod",
+          "index": 21,
+          "startTime": 3967.824,
+          "duration": 205.781
+        },
+        {
+          "id": "kaim-wois-1389-t23",
+          "title": "Das missglückte Rapunzel",
+          "index": 22,
+          "startTime": 4173.605,
+          "duration": 179.142
+        },
+        {
+          "id": "kaim-wois-1389-t24",
+          "title": "Der perfekte Mord",
+          "index": 23,
+          "startTime": 4352.747,
+          "duration": 280.515
+        },
+        {
+          "id": "kaim-wois-1389-t25",
+          "title": "Die Kantinenmorde IV",
+          "index": 24,
+          "startTime": 4633.262,
+          "duration": 145.376
+        }
+      ]
     },
     {
       "id": "1619962091",
@@ -262,12 +3823,363 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3c/89/8d/3c898d1c-8f47-6221-4e17-1f1ee05f6209/4251489304066_3000.jpg/100x100bb.jpg",
       "description": "Das Album 'Zwei Leichen in drei Koffern (Hörspiel)' ist ein Hörspiel von Kai Magnus Sting. Es enthält 58 Tracks und fällt eindeutig in die Kategorie des Hörspiels.",
-      "totalDuration": 0,
+      "totalDuration": 6097.778,
       "platforms": {
         "appleMusic": "1619962091"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "kaim-zwei-2091-t01",
+          "title": "Zwei Leichen in drei Koffern, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 120.998
+        },
+        {
+          "id": "kaim-zwei-2091-t02",
+          "title": "Zwei Leichen in drei Koffern, Teil 2",
+          "index": 1,
+          "startTime": 120.998,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t03",
+          "title": "Zwei Leichen in drei Koffern, Teil 3",
+          "index": 2,
+          "startTime": 241.997,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t04",
+          "title": "Zwei Leichen in drei Koffern, Teil 4",
+          "index": 3,
+          "startTime": 362.996,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t05",
+          "title": "Zwei Leichen in drei Koffern, Teil 5",
+          "index": 4,
+          "startTime": 483.995,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t06",
+          "title": "Zwei Leichen in drei Koffern, Teil 6",
+          "index": 5,
+          "startTime": 604.994,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t07",
+          "title": "Zwei Leichen in drei Koffern, Teil 7",
+          "index": 6,
+          "startTime": 725.993,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t08",
+          "title": "Zwei Leichen in drei Koffern, Teil 8",
+          "index": 7,
+          "startTime": 846.992,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t09",
+          "title": "Zwei Leichen in drei Koffern, Teil 9",
+          "index": 8,
+          "startTime": 967.991,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t10",
+          "title": "Zwei Leichen in drei Koffern, Teil 10",
+          "index": 9,
+          "startTime": 1088.99,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t11",
+          "title": "Zwei Leichen in drei Koffern, Teil 11",
+          "index": 10,
+          "startTime": 1209.989,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t12",
+          "title": "Zwei Leichen in drei Koffern, Teil 12",
+          "index": 11,
+          "startTime": 1330.988,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t13",
+          "title": "Zwei Leichen in drei Koffern, Teil 13",
+          "index": 12,
+          "startTime": 1451.987,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t14",
+          "title": "Zwei Leichen in drei Koffern, Teil 14",
+          "index": 13,
+          "startTime": 1572.986,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t15",
+          "title": "Zwei Leichen in drei Koffern, Teil 15",
+          "index": 14,
+          "startTime": 1693.985,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t16",
+          "title": "Zwei Leichen in drei Koffern, Teil 16",
+          "index": 15,
+          "startTime": 1814.984,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t17",
+          "title": "Zwei Leichen in drei Koffern, Teil 17",
+          "index": 16,
+          "startTime": 1935.983,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t18",
+          "title": "Zwei Leichen in drei Koffern, Teil 18",
+          "index": 17,
+          "startTime": 2056.982,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t19",
+          "title": "Zwei Leichen in drei Koffern, Teil 19",
+          "index": 18,
+          "startTime": 2177.981,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t20",
+          "title": "Zwei Leichen in drei Koffern, Teil 20",
+          "index": 19,
+          "startTime": 2298.98,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t21",
+          "title": "Zwei Leichen in drei Koffern, Teil 21",
+          "index": 20,
+          "startTime": 2419.979,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t22",
+          "title": "Zwei Leichen in drei Koffern, Teil 22",
+          "index": 21,
+          "startTime": 2540.978,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t23",
+          "title": "Zwei Leichen in drei Koffern, Teil 23",
+          "index": 22,
+          "startTime": 2661.977,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t24",
+          "title": "Zwei Leichen in drei Koffern, Teil 24",
+          "index": 23,
+          "startTime": 2782.976,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t25",
+          "title": "Zwei Leichen in drei Koffern, Teil 25",
+          "index": 24,
+          "startTime": 2903.975,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t26",
+          "title": "Zwei Leichen in drei Koffern, Teil 26",
+          "index": 25,
+          "startTime": 3024.974,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t27",
+          "title": "Zwei Leichen in drei Koffern, Teil 27",
+          "index": 26,
+          "startTime": 3145.973,
+          "duration": 168.829
+        },
+        {
+          "id": "kaim-zwei-2091-t28",
+          "title": "Zwei Leichen in drei Koffern, Teil 28",
+          "index": 27,
+          "startTime": 3314.802,
+          "duration": 120.998
+        },
+        {
+          "id": "kaim-zwei-2091-t29",
+          "title": "Zwei Leichen in drei Koffern, Teil 29",
+          "index": 28,
+          "startTime": 3435.8,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t30",
+          "title": "Zwei Leichen in drei Koffern, Teil 30",
+          "index": 29,
+          "startTime": 3556.799,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t31",
+          "title": "Zwei Leichen in drei Koffern, Teil 31",
+          "index": 30,
+          "startTime": 3677.798,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t32",
+          "title": "Zwei Leichen in drei Koffern, Teil 32",
+          "index": 31,
+          "startTime": 3798.797,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t33",
+          "title": "Zwei Leichen in drei Koffern, Teil 33",
+          "index": 32,
+          "startTime": 3919.796,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t34",
+          "title": "Zwei Leichen in drei Koffern, Teil 34",
+          "index": 33,
+          "startTime": 4040.795,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t35",
+          "title": "Zwei Leichen in drei Koffern, Teil 35",
+          "index": 34,
+          "startTime": 4161.794,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t36",
+          "title": "Zwei Leichen in drei Koffern, Teil 36",
+          "index": 35,
+          "startTime": 4282.793,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t37",
+          "title": "Zwei Leichen in drei Koffern, Teil 37",
+          "index": 36,
+          "startTime": 4403.792,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t38",
+          "title": "Zwei Leichen in drei Koffern, Teil 38",
+          "index": 37,
+          "startTime": 4524.791,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t39",
+          "title": "Zwei Leichen in drei Koffern, Teil 39",
+          "index": 38,
+          "startTime": 4645.79,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t40",
+          "title": "Zwei Leichen in drei Koffern, Teil 40",
+          "index": 39,
+          "startTime": 4766.789,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t41",
+          "title": "Zwei Leichen in drei Koffern, Teil 41",
+          "index": 40,
+          "startTime": 4887.788,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t42",
+          "title": "Zwei Leichen in drei Koffern, Teil 42",
+          "index": 41,
+          "startTime": 5008.787,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t43",
+          "title": "Zwei Leichen in drei Koffern, Teil 43",
+          "index": 42,
+          "startTime": 5129.786,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t44",
+          "title": "Zwei Leichen in drei Koffern, Teil 44",
+          "index": 43,
+          "startTime": 5250.785,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t45",
+          "title": "Zwei Leichen in drei Koffern, Teil 45",
+          "index": 44,
+          "startTime": 5371.784,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t46",
+          "title": "Zwei Leichen in drei Koffern, Teil 46",
+          "index": 45,
+          "startTime": 5492.783,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t47",
+          "title": "Zwei Leichen in drei Koffern, Teil 47",
+          "index": 46,
+          "startTime": 5613.782,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t48",
+          "title": "Zwei Leichen in drei Koffern, Teil 48",
+          "index": 47,
+          "startTime": 5734.781,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t49",
+          "title": "Zwei Leichen in drei Koffern, Teil 49",
+          "index": 48,
+          "startTime": 5855.78,
+          "duration": 120.999
+        },
+        {
+          "id": "kaim-zwei-2091-t50",
+          "title": "Zwei Leichen in drei Koffern, Teil 50",
+          "index": 49,
+          "startTime": 5976.779,
+          "duration": 120.999
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-27T18:01:36Z"
+  "updatedAt": "2026-05-27T18:32:41Z"
 }
