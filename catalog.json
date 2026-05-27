@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-27T18:10:23.983209+00:00",
+  "updatedAt": "2026-05-27T18:22:26.281510+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -31934,14 +31934,190 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ec/6d/b6/ec6db6a5-6202-4882-0da3-43904dbf188a/886446084008.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 3031.134,
       "platforms": {
         "appleMusic": "1442514076"
       },
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-4076-t01",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 168.667
+        },
+        {
+          "id": "tkkg-folg-4076-t02",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 02)",
+          "index": 1,
+          "startTime": 168.667,
+          "duration": 107.867
+        },
+        {
+          "id": "tkkg-folg-4076-t03",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 03)",
+          "index": 2,
+          "startTime": 276.534,
+          "duration": 123.693
+        },
+        {
+          "id": "tkkg-folg-4076-t04",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 04)",
+          "index": 3,
+          "startTime": 400.227,
+          "duration": 118.76
+        },
+        {
+          "id": "tkkg-folg-4076-t05",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 05)",
+          "index": 4,
+          "startTime": 518.987,
+          "duration": 118.547
+        },
+        {
+          "id": "tkkg-folg-4076-t06",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 06)",
+          "index": 5,
+          "startTime": 637.534,
+          "duration": 117.76
+        },
+        {
+          "id": "tkkg-folg-4076-t07",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 07)",
+          "index": 6,
+          "startTime": 755.294,
+          "duration": 115.707
+        },
+        {
+          "id": "tkkg-folg-4076-t08",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 08)",
+          "index": 7,
+          "startTime": 871.001,
+          "duration": 122.813
+        },
+        {
+          "id": "tkkg-folg-4076-t09",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 09)",
+          "index": 8,
+          "startTime": 993.814,
+          "duration": 133.213
+        },
+        {
+          "id": "tkkg-folg-4076-t10",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 10)",
+          "index": 9,
+          "startTime": 1127.027,
+          "duration": 108.507
+        },
+        {
+          "id": "tkkg-folg-4076-t11",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 11)",
+          "index": 10,
+          "startTime": 1235.534,
+          "duration": 140.16
+        },
+        {
+          "id": "tkkg-folg-4076-t12",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 12)",
+          "index": 11,
+          "startTime": 1375.694,
+          "duration": 98.307
+        },
+        {
+          "id": "tkkg-folg-4076-t13",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 13)",
+          "index": 12,
+          "startTime": 1474.001,
+          "duration": 130.453
+        },
+        {
+          "id": "tkkg-folg-4076-t14",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 14)",
+          "index": 13,
+          "startTime": 1604.454,
+          "duration": 121.867
+        },
+        {
+          "id": "tkkg-folg-4076-t15",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 15)",
+          "index": 14,
+          "startTime": 1726.321,
+          "duration": 117.32
+        },
+        {
+          "id": "tkkg-folg-4076-t16",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 16)",
+          "index": 15,
+          "startTime": 1843.641,
+          "duration": 122.547
+        },
+        {
+          "id": "tkkg-folg-4076-t17",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 17)",
+          "index": 16,
+          "startTime": 1966.188,
+          "duration": 120.493
+        },
+        {
+          "id": "tkkg-folg-4076-t18",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 18)",
+          "index": 17,
+          "startTime": 2086.681,
+          "duration": 115.493
+        },
+        {
+          "id": "tkkg-folg-4076-t19",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 19)",
+          "index": 18,
+          "startTime": 2202.174,
+          "duration": 125.92
+        },
+        {
+          "id": "tkkg-folg-4076-t20",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 20)",
+          "index": 19,
+          "startTime": 2328.094,
+          "duration": 113.8
+        },
+        {
+          "id": "tkkg-folg-4076-t21",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 21)",
+          "index": 20,
+          "startTime": 2441.894,
+          "duration": 109.347
+        },
+        {
+          "id": "tkkg-folg-4076-t22",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 22)",
+          "index": 21,
+          "startTime": 2551.241,
+          "duration": 136.147
+        },
+        {
+          "id": "tkkg-folg-4076-t23",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 23)",
+          "index": 22,
+          "startTime": 2687.388,
+          "duration": 107.853
+        },
+        {
+          "id": "tkkg-folg-4076-t24",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 24)",
+          "index": 23,
+          "startTime": 2795.241,
+          "duration": 124.573
+        },
+        {
+          "id": "tkkg-folg-4076-t25",
+          "title": "080 - Weißes Gift im Nachtexpress (Teil 25)",
+          "index": 24,
+          "startTime": 2919.814,
+          "duration": 111.32
+        }
+      ],
       "description": "Ein Album mit Hörspiel-Titel und -Genre, typisch für deutsche Hörspiele.",
       "episodeNumber": 80
     },
@@ -31951,14 +32127,190 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b3/f4/12/b3f41257-2c3d-5892-340a-6d64bf99b09d/886446015859.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2435.464,
       "platforms": {
         "appleMusic": "1442259055"
       },
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-9055-t01",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 142.213
+        },
+        {
+          "id": "tkkg-folg-9055-t02",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 02)",
+          "index": 1,
+          "startTime": 142.213,
+          "duration": 91.693
+        },
+        {
+          "id": "tkkg-folg-9055-t03",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 03)",
+          "index": 2,
+          "startTime": 233.906,
+          "duration": 95.773
+        },
+        {
+          "id": "tkkg-folg-9055-t04",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 04)",
+          "index": 3,
+          "startTime": 329.679,
+          "duration": 96.6
+        },
+        {
+          "id": "tkkg-folg-9055-t05",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 05)",
+          "index": 4,
+          "startTime": 426.279,
+          "duration": 91.613
+        },
+        {
+          "id": "tkkg-folg-9055-t06",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 06)",
+          "index": 5,
+          "startTime": 517.892,
+          "duration": 100.827
+        },
+        {
+          "id": "tkkg-folg-9055-t07",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 07)",
+          "index": 6,
+          "startTime": 618.719,
+          "duration": 104.627
+        },
+        {
+          "id": "tkkg-folg-9055-t08",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 08)",
+          "index": 7,
+          "startTime": 723.346,
+          "duration": 87.667
+        },
+        {
+          "id": "tkkg-folg-9055-t09",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 09)",
+          "index": 8,
+          "startTime": 811.013,
+          "duration": 98.107
+        },
+        {
+          "id": "tkkg-folg-9055-t10",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 10)",
+          "index": 9,
+          "startTime": 909.12,
+          "duration": 93.693
+        },
+        {
+          "id": "tkkg-folg-9055-t11",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 11)",
+          "index": 10,
+          "startTime": 1002.813,
+          "duration": 94.973
+        },
+        {
+          "id": "tkkg-folg-9055-t12",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 12)",
+          "index": 11,
+          "startTime": 1097.786,
+          "duration": 98.64
+        },
+        {
+          "id": "tkkg-folg-9055-t13",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 13)",
+          "index": 12,
+          "startTime": 1196.426,
+          "duration": 93.04
+        },
+        {
+          "id": "tkkg-folg-9055-t14",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 14)",
+          "index": 13,
+          "startTime": 1289.466,
+          "duration": 94.173
+        },
+        {
+          "id": "tkkg-folg-9055-t15",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 15)",
+          "index": 14,
+          "startTime": 1383.639,
+          "duration": 102.293
+        },
+        {
+          "id": "tkkg-folg-9055-t16",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 16)",
+          "index": 15,
+          "startTime": 1485.932,
+          "duration": 95.693
+        },
+        {
+          "id": "tkkg-folg-9055-t17",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 17)",
+          "index": 16,
+          "startTime": 1581.625,
+          "duration": 91.053
+        },
+        {
+          "id": "tkkg-folg-9055-t18",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 18)",
+          "index": 17,
+          "startTime": 1672.678,
+          "duration": 98.213
+        },
+        {
+          "id": "tkkg-folg-9055-t19",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 19)",
+          "index": 18,
+          "startTime": 1770.891,
+          "duration": 96.2
+        },
+        {
+          "id": "tkkg-folg-9055-t20",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 20)",
+          "index": 19,
+          "startTime": 1867.091,
+          "duration": 98.293
+        },
+        {
+          "id": "tkkg-folg-9055-t21",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 21)",
+          "index": 20,
+          "startTime": 1965.384,
+          "duration": 93.44
+        },
+        {
+          "id": "tkkg-folg-9055-t22",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 22)",
+          "index": 21,
+          "startTime": 2058.824,
+          "duration": 92.813
+        },
+        {
+          "id": "tkkg-folg-9055-t23",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 23)",
+          "index": 22,
+          "startTime": 2151.637,
+          "duration": 98.627
+        },
+        {
+          "id": "tkkg-folg-9055-t24",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 24)",
+          "index": 23,
+          "startTime": 2250.264,
+          "duration": 92.627
+        },
+        {
+          "id": "tkkg-folg-9055-t25",
+          "title": "045 - Unternehmen Grüne Hölle (Teil 25)",
+          "index": 24,
+          "startTime": 2342.891,
+          "duration": 92.573
+        }
+      ],
       "description": "Dieses Album ist Teil einer Hörspielserie mit dem Titel 'Folge 45: Unternehmen Grüne Hölle' von TKKG Retro-Archiv. Es enthält 25 Tracks im Genre Hörspiele.",
       "episodeNumber": 45
     },
@@ -31968,14 +32320,211 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/99/ee/ce/99eecee6-9944-46c7-42ce-1629f8d40ac4/886449194629.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 3149.252,
       "platforms": {
         "appleMusic": "1589804801"
       },
       "genres": [
         "Kinder & Jugend"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-4801-t01",
+          "title": "19 - Verschollen im Stollen (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 39.373
+        },
+        {
+          "id": "tkkg-folg-4801-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 39.373,
+          "duration": 62.707
+        },
+        {
+          "id": "tkkg-folg-4801-t03",
+          "title": "19 - Verschollen im Stollen (Teil 01)",
+          "index": 2,
+          "startTime": 102.08,
+          "duration": 120.32
+        },
+        {
+          "id": "tkkg-folg-4801-t04",
+          "title": "19 - Verschollen im Stollen (Teil 02)",
+          "index": 3,
+          "startTime": 222.4,
+          "duration": 121.173
+        },
+        {
+          "id": "tkkg-folg-4801-t05",
+          "title": "19 - Verschollen im Stollen (Teil 03)",
+          "index": 4,
+          "startTime": 343.573,
+          "duration": 121.2
+        },
+        {
+          "id": "tkkg-folg-4801-t06",
+          "title": "19 - Verschollen im Stollen (Teil 04)",
+          "index": 5,
+          "startTime": 464.773,
+          "duration": 120.6
+        },
+        {
+          "id": "tkkg-folg-4801-t07",
+          "title": "19 - Verschollen im Stollen (Teil 05)",
+          "index": 6,
+          "startTime": 585.373,
+          "duration": 121.493
+        },
+        {
+          "id": "tkkg-folg-4801-t08",
+          "title": "19 - Verschollen im Stollen (Teil 06)",
+          "index": 7,
+          "startTime": 706.866,
+          "duration": 121.867
+        },
+        {
+          "id": "tkkg-folg-4801-t09",
+          "title": "19 - Verschollen im Stollen (Teil 07)",
+          "index": 8,
+          "startTime": 828.733,
+          "duration": 121.2
+        },
+        {
+          "id": "tkkg-folg-4801-t10",
+          "title": "19 - Verschollen im Stollen (Teil 08)",
+          "index": 9,
+          "startTime": 949.933,
+          "duration": 121.107
+        },
+        {
+          "id": "tkkg-folg-4801-t11",
+          "title": "19 - Verschollen im Stollen (Teil 09)",
+          "index": 10,
+          "startTime": 1071.04,
+          "duration": 120.813
+        },
+        {
+          "id": "tkkg-folg-4801-t12",
+          "title": "19 - Verschollen im Stollen (Teil 10)",
+          "index": 11,
+          "startTime": 1191.853,
+          "duration": 122.28
+        },
+        {
+          "id": "tkkg-folg-4801-t13",
+          "title": "19 - Verschollen im Stollen (Teil 11)",
+          "index": 12,
+          "startTime": 1314.133,
+          "duration": 121.4
+        },
+        {
+          "id": "tkkg-folg-4801-t14",
+          "title": "19 - Verschollen im Stollen (Teil 12)",
+          "index": 13,
+          "startTime": 1435.533,
+          "duration": 120.067
+        },
+        {
+          "id": "tkkg-folg-4801-t15",
+          "title": "19 - Verschollen im Stollen (Teil 13)",
+          "index": 14,
+          "startTime": 1555.6,
+          "duration": 120.64
+        },
+        {
+          "id": "tkkg-folg-4801-t16",
+          "title": "19 - Verschollen im Stollen (Teil 14)",
+          "index": 15,
+          "startTime": 1676.24,
+          "duration": 120.68
+        },
+        {
+          "id": "tkkg-folg-4801-t17",
+          "title": "19 - Verschollen im Stollen (Teil 15)",
+          "index": 16,
+          "startTime": 1796.92,
+          "duration": 121.36
+        },
+        {
+          "id": "tkkg-folg-4801-t18",
+          "title": "19 - Verschollen im Stollen (Teil 16)",
+          "index": 17,
+          "startTime": 1918.28,
+          "duration": 122.293
+        },
+        {
+          "id": "tkkg-folg-4801-t19",
+          "title": "19 - Verschollen im Stollen (Teil 17)",
+          "index": 18,
+          "startTime": 2040.573,
+          "duration": 121.053
+        },
+        {
+          "id": "tkkg-folg-4801-t20",
+          "title": "19 - Verschollen im Stollen (Teil 18)",
+          "index": 19,
+          "startTime": 2161.626,
+          "duration": 120.573
+        },
+        {
+          "id": "tkkg-folg-4801-t21",
+          "title": "19 - Verschollen im Stollen (Teil 19)",
+          "index": 20,
+          "startTime": 2282.199,
+          "duration": 121.84
+        },
+        {
+          "id": "tkkg-folg-4801-t22",
+          "title": "19 - Verschollen im Stollen (Teil 20)",
+          "index": 21,
+          "startTime": 2404.039,
+          "duration": 120.693
+        },
+        {
+          "id": "tkkg-folg-4801-t23",
+          "title": "19 - Verschollen im Stollen (Teil 21)",
+          "index": 22,
+          "startTime": 2524.732,
+          "duration": 121.667
+        },
+        {
+          "id": "tkkg-folg-4801-t24",
+          "title": "19 - Verschollen im Stollen (Teil 22)",
+          "index": 23,
+          "startTime": 2646.399,
+          "duration": 127.013
+        },
+        {
+          "id": "tkkg-folg-4801-t25",
+          "title": "19 - Verschollen im Stollen (Teil 23)",
+          "index": 24,
+          "startTime": 2773.412,
+          "duration": 134.187
+        },
+        {
+          "id": "tkkg-folg-4801-t26",
+          "title": "19 - Verschollen im Stollen (Teil 24)",
+          "index": 25,
+          "startTime": 2907.599,
+          "duration": 125.04
+        },
+        {
+          "id": "tkkg-folg-4801-t27",
+          "title": "TKKG Junior Schlußsong",
+          "index": 26,
+          "startTime": 3032.639,
+          "duration": 66.8
+        },
+        {
+          "id": "tkkg-folg-4801-t28",
+          "title": "19 - Verschollen im Stollen (Outro)",
+          "index": 27,
+          "startTime": 3099.439,
+          "duration": 49.813
+        }
+      ],
       "description": "Ein spannendes Hörspiel, das spannende Abenteuer für Kinder bietet.",
       "episodeNumber": 19
     },
@@ -31985,7 +32534,7 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/77/fa/2f/77fa2f41-3549-9845-0d1a-4bd30e6d5bf4/886446087023.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 3091.083,
       "platforms": {
         "appleMusic": "1443501921"
       },
@@ -31994,7 +32543,183 @@
         "Krimi",
         "Thriller"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-1921-t01",
+          "title": "089 - Feind aus de Vergangenheit (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 162.08
+        },
+        {
+          "id": "tkkg-folg-1921-t02",
+          "title": "089 - Feind aus de Vergangenheit (Teil 02)",
+          "index": 1,
+          "startTime": 162.08,
+          "duration": 124.213
+        },
+        {
+          "id": "tkkg-folg-1921-t03",
+          "title": "089 - Feind aus de Vergangenheit (Teil 03)",
+          "index": 2,
+          "startTime": 286.293,
+          "duration": 119.787
+        },
+        {
+          "id": "tkkg-folg-1921-t04",
+          "title": "089 - Feind aus de Vergangenheit (Teil 04)",
+          "index": 3,
+          "startTime": 406.08,
+          "duration": 126.267
+        },
+        {
+          "id": "tkkg-folg-1921-t05",
+          "title": "089 - Feind aus de Vergangenheit (Teil 05)",
+          "index": 4,
+          "startTime": 532.347,
+          "duration": 117.28
+        },
+        {
+          "id": "tkkg-folg-1921-t06",
+          "title": "089 - Feind aus de Vergangenheit (Teil 06)",
+          "index": 5,
+          "startTime": 649.627,
+          "duration": 133.04
+        },
+        {
+          "id": "tkkg-folg-1921-t07",
+          "title": "089 - Feind aus de Vergangenheit (Teil 07)",
+          "index": 6,
+          "startTime": 782.667,
+          "duration": 114.307
+        },
+        {
+          "id": "tkkg-folg-1921-t08",
+          "title": "089 - Feind aus de Vergangenheit (Teil 08)",
+          "index": 7,
+          "startTime": 896.974,
+          "duration": 142.813
+        },
+        {
+          "id": "tkkg-folg-1921-t09",
+          "title": "089 - Feind aus de Vergangenheit (Teil 09)",
+          "index": 8,
+          "startTime": 1039.787,
+          "duration": 104.88
+        },
+        {
+          "id": "tkkg-folg-1921-t10",
+          "title": "089 - Feind aus de Vergangenheit (Teil 10)",
+          "index": 9,
+          "startTime": 1144.667,
+          "duration": 111.547
+        },
+        {
+          "id": "tkkg-folg-1921-t11",
+          "title": "089 - Feind aus de Vergangenheit (Teil 11)",
+          "index": 10,
+          "startTime": 1256.214,
+          "duration": 125.907
+        },
+        {
+          "id": "tkkg-folg-1921-t12",
+          "title": "089 - Feind aus de Vergangenheit (Teil 12)",
+          "index": 11,
+          "startTime": 1382.121,
+          "duration": 119.133
+        },
+        {
+          "id": "tkkg-folg-1921-t13",
+          "title": "089 - Feind aus de Vergangenheit (Teil 13)",
+          "index": 12,
+          "startTime": 1501.254,
+          "duration": 118.12
+        },
+        {
+          "id": "tkkg-folg-1921-t14",
+          "title": "089 - Feind aus de Vergangenheit (Teil 14)",
+          "index": 13,
+          "startTime": 1619.374,
+          "duration": 127.307
+        },
+        {
+          "id": "tkkg-folg-1921-t15",
+          "title": "089 - Feind aus de Vergangenheit (Teil 15)",
+          "index": 14,
+          "startTime": 1746.681,
+          "duration": 124.027
+        },
+        {
+          "id": "tkkg-folg-1921-t16",
+          "title": "089 - Feind aus de Vergangenheit (Teil 16)",
+          "index": 15,
+          "startTime": 1870.708,
+          "duration": 128.627
+        },
+        {
+          "id": "tkkg-folg-1921-t17",
+          "title": "089 - Feind aus de Vergangenheit (Teil 17)",
+          "index": 16,
+          "startTime": 1999.335,
+          "duration": 110.0
+        },
+        {
+          "id": "tkkg-folg-1921-t18",
+          "title": "089 - Feind aus de Vergangenheit (Teil 18)",
+          "index": 17,
+          "startTime": 2109.335,
+          "duration": 123.36
+        },
+        {
+          "id": "tkkg-folg-1921-t19",
+          "title": "089 - Feind aus de Vergangenheit (Teil 19)",
+          "index": 18,
+          "startTime": 2232.695,
+          "duration": 135.507
+        },
+        {
+          "id": "tkkg-folg-1921-t20",
+          "title": "089 - Feind aus de Vergangenheit (Teil 20)",
+          "index": 19,
+          "startTime": 2368.202,
+          "duration": 115.067
+        },
+        {
+          "id": "tkkg-folg-1921-t21",
+          "title": "089 - Feind aus de Vergangenheit (Teil 21)",
+          "index": 20,
+          "startTime": 2483.269,
+          "duration": 130.827
+        },
+        {
+          "id": "tkkg-folg-1921-t22",
+          "title": "089 - Feind aus de Vergangenheit (Teil 22)",
+          "index": 21,
+          "startTime": 2614.096,
+          "duration": 133.587
+        },
+        {
+          "id": "tkkg-folg-1921-t23",
+          "title": "089 - Feind aus de Vergangenheit (Teil 23)",
+          "index": 22,
+          "startTime": 2747.683,
+          "duration": 109.653
+        },
+        {
+          "id": "tkkg-folg-1921-t24",
+          "title": "089 - Feind aus de Vergangenheit (Teil 24)",
+          "index": 23,
+          "startTime": 2857.336,
+          "duration": 119.0
+        },
+        {
+          "id": "tkkg-folg-1921-t25",
+          "title": "089 - Feind aus de Vergangenheit (Teil 25)",
+          "index": 24,
+          "startTime": 2976.336,
+          "duration": 114.747
+        }
+      ],
       "description": "Dieses Album ist Teil einer Hörspielreihe mit dem Titel 'TKKG Retro-Archiv', und beinhaltet Geschichten rund um den Kriminaldetektivteam TKKG.",
       "episodeNumber": 89
     },
@@ -32004,7 +32729,7 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/be/ef/46/beef463b-6e2b-8c1d-ed8f-972db9b7b392/886446015200.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2281.307,
       "platforms": {
         "appleMusic": "1442237193"
       },
@@ -32012,7 +32737,183 @@
         "Krimi",
         "Thriller"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-7193-t01",
+          "title": "028 - Verrat im Höllental (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 133.32
+        },
+        {
+          "id": "tkkg-folg-7193-t02",
+          "title": "028 - Verrat im Höllental (Teil 02)",
+          "index": 1,
+          "startTime": 133.32,
+          "duration": 88.773
+        },
+        {
+          "id": "tkkg-folg-7193-t03",
+          "title": "028 - Verrat im Höllental (Teil 03)",
+          "index": 2,
+          "startTime": 222.093,
+          "duration": 88.04
+        },
+        {
+          "id": "tkkg-folg-7193-t04",
+          "title": "028 - Verrat im Höllental (Teil 04)",
+          "index": 3,
+          "startTime": 310.133,
+          "duration": 91.627
+        },
+        {
+          "id": "tkkg-folg-7193-t05",
+          "title": "028 - Verrat im Höllental (Teil 05)",
+          "index": 4,
+          "startTime": 401.76,
+          "duration": 89.36
+        },
+        {
+          "id": "tkkg-folg-7193-t06",
+          "title": "028 - Verrat im Höllental (Teil 06)",
+          "index": 5,
+          "startTime": 491.12,
+          "duration": 91.693
+        },
+        {
+          "id": "tkkg-folg-7193-t07",
+          "title": "028 - Verrat im Höllental (Teil 07)",
+          "index": 6,
+          "startTime": 582.813,
+          "duration": 88.6
+        },
+        {
+          "id": "tkkg-folg-7193-t08",
+          "title": "028 - Verrat im Höllental (Teil 08)",
+          "index": 7,
+          "startTime": 671.413,
+          "duration": 86.48
+        },
+        {
+          "id": "tkkg-folg-7193-t09",
+          "title": "028 - Verrat im Höllental (Teil 09)",
+          "index": 8,
+          "startTime": 757.893,
+          "duration": 91.68
+        },
+        {
+          "id": "tkkg-folg-7193-t10",
+          "title": "028 - Verrat im Höllental (Teil 10)",
+          "index": 9,
+          "startTime": 849.573,
+          "duration": 90.96
+        },
+        {
+          "id": "tkkg-folg-7193-t11",
+          "title": "028 - Verrat im Höllental (Teil 11)",
+          "index": 10,
+          "startTime": 940.533,
+          "duration": 94.773
+        },
+        {
+          "id": "tkkg-folg-7193-t12",
+          "title": "028 - Verrat im Höllental (Teil 12)",
+          "index": 11,
+          "startTime": 1035.306,
+          "duration": 86.187
+        },
+        {
+          "id": "tkkg-folg-7193-t13",
+          "title": "028 - Verrat im Höllental (Teil 13)",
+          "index": 12,
+          "startTime": 1121.493,
+          "duration": 91.96
+        },
+        {
+          "id": "tkkg-folg-7193-t14",
+          "title": "028 - Verrat im Höllental (Teil 14)",
+          "index": 13,
+          "startTime": 1213.453,
+          "duration": 90.48
+        },
+        {
+          "id": "tkkg-folg-7193-t15",
+          "title": "028 - Verrat im Höllental (Teil 15)",
+          "index": 14,
+          "startTime": 1303.933,
+          "duration": 87.04
+        },
+        {
+          "id": "tkkg-folg-7193-t16",
+          "title": "028 - Verrat im Höllental (Teil 16)",
+          "index": 15,
+          "startTime": 1390.973,
+          "duration": 91.76
+        },
+        {
+          "id": "tkkg-folg-7193-t17",
+          "title": "028 - Verrat im Höllental (Teil 17)",
+          "index": 16,
+          "startTime": 1482.733,
+          "duration": 88.413
+        },
+        {
+          "id": "tkkg-folg-7193-t18",
+          "title": "028 - Verrat im Höllental (Teil 18)",
+          "index": 17,
+          "startTime": 1571.146,
+          "duration": 91.213
+        },
+        {
+          "id": "tkkg-folg-7193-t19",
+          "title": "028 - Verrat im Höllental (Teil 19)",
+          "index": 18,
+          "startTime": 1662.359,
+          "duration": 87.987
+        },
+        {
+          "id": "tkkg-folg-7193-t20",
+          "title": "028 - Verrat im Höllental (Teil 20)",
+          "index": 19,
+          "startTime": 1750.346,
+          "duration": 93.587
+        },
+        {
+          "id": "tkkg-folg-7193-t21",
+          "title": "028 - Verrat im Höllental (Teil 21)",
+          "index": 20,
+          "startTime": 1843.933,
+          "duration": 88.227
+        },
+        {
+          "id": "tkkg-folg-7193-t22",
+          "title": "028 - Verrat im Höllental (Teil 22)",
+          "index": 21,
+          "startTime": 1932.16,
+          "duration": 91.987
+        },
+        {
+          "id": "tkkg-folg-7193-t23",
+          "title": "028 - Verrat im Höllental (Teil 23)",
+          "index": 22,
+          "startTime": 2024.147,
+          "duration": 88.667
+        },
+        {
+          "id": "tkkg-folg-7193-t24",
+          "title": "028 - Verrat im Höllental (Teil 24)",
+          "index": 23,
+          "startTime": 2112.814,
+          "duration": 89.52
+        },
+        {
+          "id": "tkkg-folg-7193-t25",
+          "title": "028 - Verrat im Höllental (Teil 25)",
+          "index": 24,
+          "startTime": 2202.334,
+          "duration": 78.973
+        }
+      ],
       "description": "Ein spannendes Hörspiel über Verrat im geheimnisvollen Höllental, das aufregende Abenteuer und Intrigen bietet.",
       "episodeNumber": 28
     },
@@ -32022,7 +32923,7 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7f/e9/95/7fe99567-ddef-51da-44d6-527bfba00abd/886446015583.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2836.48,
       "platforms": {
         "appleMusic": "1442249791"
       },
@@ -32030,7 +32931,183 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-9791-t01",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 158.28
+        },
+        {
+          "id": "tkkg-folg-9791-t02",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 02)",
+          "index": 1,
+          "startTime": 158.28,
+          "duration": 110.613
+        },
+        {
+          "id": "tkkg-folg-9791-t03",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 03)",
+          "index": 2,
+          "startTime": 268.893,
+          "duration": 111.2
+        },
+        {
+          "id": "tkkg-folg-9791-t04",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 04)",
+          "index": 3,
+          "startTime": 380.093,
+          "duration": 115.227
+        },
+        {
+          "id": "tkkg-folg-9791-t05",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 05)",
+          "index": 4,
+          "startTime": 495.32,
+          "duration": 104.453
+        },
+        {
+          "id": "tkkg-folg-9791-t06",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 06)",
+          "index": 5,
+          "startTime": 599.773,
+          "duration": 124.88
+        },
+        {
+          "id": "tkkg-folg-9791-t07",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 07)",
+          "index": 6,
+          "startTime": 724.653,
+          "duration": 102.88
+        },
+        {
+          "id": "tkkg-folg-9791-t08",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 08)",
+          "index": 7,
+          "startTime": 827.533,
+          "duration": 112.653
+        },
+        {
+          "id": "tkkg-folg-9791-t09",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 09)",
+          "index": 8,
+          "startTime": 940.186,
+          "duration": 115.107
+        },
+        {
+          "id": "tkkg-folg-9791-t10",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 10)",
+          "index": 9,
+          "startTime": 1055.293,
+          "duration": 114.04
+        },
+        {
+          "id": "tkkg-folg-9791-t11",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 11)",
+          "index": 10,
+          "startTime": 1169.333,
+          "duration": 105.24
+        },
+        {
+          "id": "tkkg-folg-9791-t12",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 12)",
+          "index": 11,
+          "startTime": 1274.573,
+          "duration": 113.64
+        },
+        {
+          "id": "tkkg-folg-9791-t13",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 13)",
+          "index": 12,
+          "startTime": 1388.213,
+          "duration": 100.733
+        },
+        {
+          "id": "tkkg-folg-9791-t14",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 14)",
+          "index": 13,
+          "startTime": 1488.946,
+          "duration": 121.067
+        },
+        {
+          "id": "tkkg-folg-9791-t15",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 15)",
+          "index": 14,
+          "startTime": 1610.013,
+          "duration": 113.4
+        },
+        {
+          "id": "tkkg-folg-9791-t16",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 16)",
+          "index": 15,
+          "startTime": 1723.413,
+          "duration": 116.933
+        },
+        {
+          "id": "tkkg-folg-9791-t17",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 17)",
+          "index": 16,
+          "startTime": 1840.346,
+          "duration": 103.64
+        },
+        {
+          "id": "tkkg-folg-9791-t18",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 18)",
+          "index": 17,
+          "startTime": 1943.986,
+          "duration": 121.213
+        },
+        {
+          "id": "tkkg-folg-9791-t19",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 19)",
+          "index": 18,
+          "startTime": 2065.199,
+          "duration": 99.667
+        },
+        {
+          "id": "tkkg-folg-9791-t20",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 20)",
+          "index": 19,
+          "startTime": 2164.866,
+          "duration": 121.747
+        },
+        {
+          "id": "tkkg-folg-9791-t21",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 21)",
+          "index": 20,
+          "startTime": 2286.613,
+          "duration": 107.48
+        },
+        {
+          "id": "tkkg-folg-9791-t22",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 22)",
+          "index": 21,
+          "startTime": 2394.093,
+          "duration": 106.787
+        },
+        {
+          "id": "tkkg-folg-9791-t23",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 23)",
+          "index": 22,
+          "startTime": 2500.88,
+          "duration": 112.813
+        },
+        {
+          "id": "tkkg-folg-9791-t24",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 24)",
+          "index": 23,
+          "startTime": 2613.693,
+          "duration": 116.56
+        },
+        {
+          "id": "tkkg-folg-9791-t25",
+          "title": "038 - Die weiße Schmuggler-Yacht (Teil 25)",
+          "index": 24,
+          "startTime": 2730.253,
+          "duration": 106.227
+        }
+      ],
       "description": "Dieses Album enthält das Hörspiel 'Folge 38: Die weiße Schmuggler-Yacht' von TKKG Retro-Archiv. Es handelt sich um ein spannendes Hörspiel, das dem Genre Krimi zuzuordnen ist.",
       "episodeNumber": 38
     },
@@ -32040,14 +33117,190 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/83/b3/fd/83b3fdb7-3c89-2729-d0ad-17d61bf9fdb0/886446082332.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2437.772,
       "platforms": {
         "appleMusic": "1442278612"
       },
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-8612-t01",
+          "title": "063 - Die Falle am Fuchsbach (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 140.693
+        },
+        {
+          "id": "tkkg-folg-8612-t02",
+          "title": "063 - Die Falle am Fuchsbach (Teil 02)",
+          "index": 1,
+          "startTime": 140.693,
+          "duration": 93.333
+        },
+        {
+          "id": "tkkg-folg-8612-t03",
+          "title": "063 - Die Falle am Fuchsbach (Teil 03)",
+          "index": 2,
+          "startTime": 234.026,
+          "duration": 94.76
+        },
+        {
+          "id": "tkkg-folg-8612-t04",
+          "title": "063 - Die Falle am Fuchsbach (Teil 04)",
+          "index": 3,
+          "startTime": 328.786,
+          "duration": 93.533
+        },
+        {
+          "id": "tkkg-folg-8612-t05",
+          "title": "063 - Die Falle am Fuchsbach (Teil 05)",
+          "index": 4,
+          "startTime": 422.319,
+          "duration": 98.693
+        },
+        {
+          "id": "tkkg-folg-8612-t06",
+          "title": "063 - Die Falle am Fuchsbach (Teil 06)",
+          "index": 5,
+          "startTime": 521.012,
+          "duration": 95.507
+        },
+        {
+          "id": "tkkg-folg-8612-t07",
+          "title": "063 - Die Falle am Fuchsbach (Teil 07)",
+          "index": 6,
+          "startTime": 616.519,
+          "duration": 95.373
+        },
+        {
+          "id": "tkkg-folg-8612-t08",
+          "title": "063 - Die Falle am Fuchsbach (Teil 08)",
+          "index": 7,
+          "startTime": 711.892,
+          "duration": 98.587
+        },
+        {
+          "id": "tkkg-folg-8612-t09",
+          "title": "063 - Die Falle am Fuchsbach (Teil 09)",
+          "index": 8,
+          "startTime": 810.479,
+          "duration": 95.733
+        },
+        {
+          "id": "tkkg-folg-8612-t10",
+          "title": "063 - Die Falle am Fuchsbach (Teil 10)",
+          "index": 9,
+          "startTime": 906.212,
+          "duration": 97.92
+        },
+        {
+          "id": "tkkg-folg-8612-t11",
+          "title": "063 - Die Falle am Fuchsbach (Teil 11)",
+          "index": 10,
+          "startTime": 1004.132,
+          "duration": 90.013
+        },
+        {
+          "id": "tkkg-folg-8612-t12",
+          "title": "063 - Die Falle am Fuchsbach (Teil 12)",
+          "index": 11,
+          "startTime": 1094.145,
+          "duration": 99.107
+        },
+        {
+          "id": "tkkg-folg-8612-t13",
+          "title": "063 - Die Falle am Fuchsbach (Teil 13)",
+          "index": 12,
+          "startTime": 1193.252,
+          "duration": 97.187
+        },
+        {
+          "id": "tkkg-folg-8612-t14",
+          "title": "063 - Die Falle am Fuchsbach (Teil 14)",
+          "index": 13,
+          "startTime": 1290.439,
+          "duration": 95.387
+        },
+        {
+          "id": "tkkg-folg-8612-t15",
+          "title": "063 - Die Falle am Fuchsbach (Teil 15)",
+          "index": 14,
+          "startTime": 1385.826,
+          "duration": 98.627
+        },
+        {
+          "id": "tkkg-folg-8612-t16",
+          "title": "063 - Die Falle am Fuchsbach (Teil 16)",
+          "index": 15,
+          "startTime": 1484.453,
+          "duration": 87.68
+        },
+        {
+          "id": "tkkg-folg-8612-t17",
+          "title": "063 - Die Falle am Fuchsbach (Teil 17)",
+          "index": 16,
+          "startTime": 1572.133,
+          "duration": 98.44
+        },
+        {
+          "id": "tkkg-folg-8612-t18",
+          "title": "063 - Die Falle am Fuchsbach (Teil 18)",
+          "index": 17,
+          "startTime": 1670.573,
+          "duration": 101.373
+        },
+        {
+          "id": "tkkg-folg-8612-t19",
+          "title": "063 - Die Falle am Fuchsbach (Teil 19)",
+          "index": 18,
+          "startTime": 1771.946,
+          "duration": 94.213
+        },
+        {
+          "id": "tkkg-folg-8612-t20",
+          "title": "063 - Die Falle am Fuchsbach (Teil 20)",
+          "index": 19,
+          "startTime": 1866.159,
+          "duration": 93.32
+        },
+        {
+          "id": "tkkg-folg-8612-t21",
+          "title": "063 - Die Falle am Fuchsbach (Teil 21)",
+          "index": 20,
+          "startTime": 1959.479,
+          "duration": 94.48
+        },
+        {
+          "id": "tkkg-folg-8612-t22",
+          "title": "063 - Die Falle am Fuchsbach (Teil 22)",
+          "index": 21,
+          "startTime": 2053.959,
+          "duration": 97.693
+        },
+        {
+          "id": "tkkg-folg-8612-t23",
+          "title": "063 - Die Falle am Fuchsbach (Teil 23)",
+          "index": 22,
+          "startTime": 2151.652,
+          "duration": 99.653
+        },
+        {
+          "id": "tkkg-folg-8612-t24",
+          "title": "063 - Die Falle am Fuchsbach (Teil 24)",
+          "index": 23,
+          "startTime": 2251.305,
+          "duration": 96.987
+        },
+        {
+          "id": "tkkg-folg-8612-t25",
+          "title": "063 - Die Falle am Fuchsbach (Teil 25)",
+          "index": 24,
+          "startTime": 2348.292,
+          "duration": 89.48
+        }
+      ],
       "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Folge 63: Die Falle am Fuchsbach' von TKKG Retro-Archiv.",
       "episodeNumber": 63
     },
@@ -32057,14 +33310,190 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7c/8b/b4/7c8bb49b-fe07-27a2-5cf9-b3733b3c1935/886446086248.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2888.185,
       "platforms": {
         "appleMusic": "1442516541"
       },
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-6541-t01",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 164.68
+        },
+        {
+          "id": "tkkg-folg-6541-t02",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 02)",
+          "index": 1,
+          "startTime": 164.68,
+          "duration": 120.893
+        },
+        {
+          "id": "tkkg-folg-6541-t03",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 03)",
+          "index": 2,
+          "startTime": 285.573,
+          "duration": 96.173
+        },
+        {
+          "id": "tkkg-folg-6541-t04",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 04)",
+          "index": 3,
+          "startTime": 381.746,
+          "duration": 106.747
+        },
+        {
+          "id": "tkkg-folg-6541-t05",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 05)",
+          "index": 4,
+          "startTime": 488.493,
+          "duration": 121.053
+        },
+        {
+          "id": "tkkg-folg-6541-t06",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 06)",
+          "index": 5,
+          "startTime": 609.546,
+          "duration": 109.28
+        },
+        {
+          "id": "tkkg-folg-6541-t07",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 07)",
+          "index": 6,
+          "startTime": 718.826,
+          "duration": 121.053
+        },
+        {
+          "id": "tkkg-folg-6541-t08",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 08)",
+          "index": 7,
+          "startTime": 839.879,
+          "duration": 120.92
+        },
+        {
+          "id": "tkkg-folg-6541-t09",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 09)",
+          "index": 8,
+          "startTime": 960.799,
+          "duration": 109.56
+        },
+        {
+          "id": "tkkg-folg-6541-t10",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 10)",
+          "index": 9,
+          "startTime": 1070.359,
+          "duration": 101.893
+        },
+        {
+          "id": "tkkg-folg-6541-t11",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 11)",
+          "index": 10,
+          "startTime": 1172.252,
+          "duration": 103.867
+        },
+        {
+          "id": "tkkg-folg-6541-t12",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 12)",
+          "index": 11,
+          "startTime": 1276.119,
+          "duration": 122.72
+        },
+        {
+          "id": "tkkg-folg-6541-t13",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 13)",
+          "index": 12,
+          "startTime": 1398.839,
+          "duration": 127.107
+        },
+        {
+          "id": "tkkg-folg-6541-t14",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 14)",
+          "index": 13,
+          "startTime": 1525.946,
+          "duration": 110.533
+        },
+        {
+          "id": "tkkg-folg-6541-t15",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 15)",
+          "index": 14,
+          "startTime": 1636.479,
+          "duration": 112.787
+        },
+        {
+          "id": "tkkg-folg-6541-t16",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 16)",
+          "index": 15,
+          "startTime": 1749.266,
+          "duration": 105.92
+        },
+        {
+          "id": "tkkg-folg-6541-t17",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 17)",
+          "index": 16,
+          "startTime": 1855.186,
+          "duration": 128.987
+        },
+        {
+          "id": "tkkg-folg-6541-t18",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 18)",
+          "index": 17,
+          "startTime": 1984.173,
+          "duration": 109.013
+        },
+        {
+          "id": "tkkg-folg-6541-t19",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 19)",
+          "index": 18,
+          "startTime": 2093.186,
+          "duration": 113.093
+        },
+        {
+          "id": "tkkg-folg-6541-t20",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 20)",
+          "index": 19,
+          "startTime": 2206.279,
+          "duration": 120.053
+        },
+        {
+          "id": "tkkg-folg-6541-t21",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 21)",
+          "index": 20,
+          "startTime": 2326.332,
+          "duration": 116.44
+        },
+        {
+          "id": "tkkg-folg-6541-t22",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 22)",
+          "index": 21,
+          "startTime": 2442.772,
+          "duration": 100.093
+        },
+        {
+          "id": "tkkg-folg-6541-t23",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 23)",
+          "index": 22,
+          "startTime": 2542.865,
+          "duration": 121.533
+        },
+        {
+          "id": "tkkg-folg-6541-t24",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 24)",
+          "index": 23,
+          "startTime": 2664.398,
+          "duration": 117.987
+        },
+        {
+          "id": "tkkg-folg-6541-t25",
+          "title": "086 - Die Schatzsucher-Mafia schlägt zu (Teil 25)",
+          "index": 24,
+          "startTime": 2782.385,
+          "duration": 105.8
+        }
+      ],
       "description": "Das Album 'Folge 86: Die Schatzsucher-Mafia schlägt zu' von TKKG Retro-Archiv gehört zu den Hörspielen, die auf Apple Music verfügbar sind.",
       "episodeNumber": 86
     },
@@ -32074,14 +33503,190 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/45/68/a8/4568a8db-bcc5-e289-619d-1464b74d949e/886446013435.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2599.427,
       "platforms": {
         "appleMusic": "1442208222"
       },
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-8222-t01",
+          "title": "017 - Die Doppelgängerin (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 142.533
+        },
+        {
+          "id": "tkkg-folg-8222-t02",
+          "title": "017 - Die Doppelgängerin (Teil 02)",
+          "index": 1,
+          "startTime": 142.533,
+          "duration": 110.173
+        },
+        {
+          "id": "tkkg-folg-8222-t03",
+          "title": "017 - Die Doppelgängerin (Teil 03)",
+          "index": 2,
+          "startTime": 252.706,
+          "duration": 96.987
+        },
+        {
+          "id": "tkkg-folg-8222-t04",
+          "title": "017 - Die Doppelgängerin (Teil 04)",
+          "index": 3,
+          "startTime": 349.693,
+          "duration": 100.24
+        },
+        {
+          "id": "tkkg-folg-8222-t05",
+          "title": "017 - Die Doppelgängerin (Teil 05)",
+          "index": 4,
+          "startTime": 449.933,
+          "duration": 103.707
+        },
+        {
+          "id": "tkkg-folg-8222-t06",
+          "title": "017 - Die Doppelgängerin (Teil 06)",
+          "index": 5,
+          "startTime": 553.64,
+          "duration": 99.627
+        },
+        {
+          "id": "tkkg-folg-8222-t07",
+          "title": "017 - Die Doppelgängerin (Teil 07)",
+          "index": 6,
+          "startTime": 653.267,
+          "duration": 105.24
+        },
+        {
+          "id": "tkkg-folg-8222-t08",
+          "title": "017 - Die Doppelgängerin (Teil 08)",
+          "index": 7,
+          "startTime": 758.507,
+          "duration": 97.56
+        },
+        {
+          "id": "tkkg-folg-8222-t09",
+          "title": "017 - Die Doppelgängerin (Teil 09)",
+          "index": 8,
+          "startTime": 856.067,
+          "duration": 105.4
+        },
+        {
+          "id": "tkkg-folg-8222-t10",
+          "title": "017 - Die Doppelgängerin (Teil 10)",
+          "index": 9,
+          "startTime": 961.467,
+          "duration": 100.613
+        },
+        {
+          "id": "tkkg-folg-8222-t11",
+          "title": "017 - Die Doppelgängerin (Teil 11)",
+          "index": 10,
+          "startTime": 1062.08,
+          "duration": 107.973
+        },
+        {
+          "id": "tkkg-folg-8222-t12",
+          "title": "017 - Die Doppelgängerin (Teil 12)",
+          "index": 11,
+          "startTime": 1170.053,
+          "duration": 100.467
+        },
+        {
+          "id": "tkkg-folg-8222-t13",
+          "title": "017 - Die Doppelgängerin (Teil 13)",
+          "index": 12,
+          "startTime": 1270.52,
+          "duration": 96.667
+        },
+        {
+          "id": "tkkg-folg-8222-t14",
+          "title": "017 - Die Doppelgängerin (Teil 14)",
+          "index": 13,
+          "startTime": 1367.187,
+          "duration": 101.653
+        },
+        {
+          "id": "tkkg-folg-8222-t15",
+          "title": "017 - Die Doppelgängerin (Teil 15)",
+          "index": 14,
+          "startTime": 1468.84,
+          "duration": 104.827
+        },
+        {
+          "id": "tkkg-folg-8222-t16",
+          "title": "017 - Die Doppelgängerin (Teil 16)",
+          "index": 15,
+          "startTime": 1573.667,
+          "duration": 101.547
+        },
+        {
+          "id": "tkkg-folg-8222-t17",
+          "title": "017 - Die Doppelgängerin (Teil 17)",
+          "index": 16,
+          "startTime": 1675.214,
+          "duration": 104.213
+        },
+        {
+          "id": "tkkg-folg-8222-t18",
+          "title": "017 - Die Doppelgängerin (Teil 18)",
+          "index": 17,
+          "startTime": 1779.427,
+          "duration": 100.32
+        },
+        {
+          "id": "tkkg-folg-8222-t19",
+          "title": "017 - Die Doppelgängerin (Teil 19)",
+          "index": 18,
+          "startTime": 1879.747,
+          "duration": 102.853
+        },
+        {
+          "id": "tkkg-folg-8222-t20",
+          "title": "017 - Die Doppelgängerin (Teil 20)",
+          "index": 19,
+          "startTime": 1982.6,
+          "duration": 101.52
+        },
+        {
+          "id": "tkkg-folg-8222-t21",
+          "title": "017 - Die Doppelgängerin (Teil 21)",
+          "index": 20,
+          "startTime": 2084.12,
+          "duration": 99.04
+        },
+        {
+          "id": "tkkg-folg-8222-t22",
+          "title": "017 - Die Doppelgängerin (Teil 22)",
+          "index": 21,
+          "startTime": 2183.16,
+          "duration": 100.96
+        },
+        {
+          "id": "tkkg-folg-8222-t23",
+          "title": "017 - Die Doppelgängerin (Teil 23)",
+          "index": 22,
+          "startTime": 2284.12,
+          "duration": 99.64
+        },
+        {
+          "id": "tkkg-folg-8222-t24",
+          "title": "017 - Die Doppelgängerin (Teil 24)",
+          "index": 23,
+          "startTime": 2383.76,
+          "duration": 106.2
+        },
+        {
+          "id": "tkkg-folg-8222-t25",
+          "title": "017 - Die Doppelgängerin (Teil 25)",
+          "index": 24,
+          "startTime": 2489.96,
+          "duration": 109.467
+        }
+      ],
       "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 17: Die Doppelgängerin' von TKKG Retro-Archiv, das 25 Tracks umfasst.",
       "episodeNumber": 17
     },
@@ -32091,7 +33696,7 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/de/30/e7de309c-9a7b-bbe5-cb45-e43aecfb3458/886449194612.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 3422.667,
       "platforms": {
         "appleMusic": "1580530491"
       },
@@ -32100,7 +33705,204 @@
         "Krimi",
         "Thriller"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-0491-t01",
+          "title": "18 - Stimmen aus dem Jenseits (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 64.253
+        },
+        {
+          "id": "tkkg-folg-0491-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 64.253,
+          "duration": 62.133
+        },
+        {
+          "id": "tkkg-folg-0491-t03",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 01)",
+          "index": 2,
+          "startTime": 126.386,
+          "duration": 128.867
+        },
+        {
+          "id": "tkkg-folg-0491-t04",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 02)",
+          "index": 3,
+          "startTime": 255.253,
+          "duration": 129.627
+        },
+        {
+          "id": "tkkg-folg-0491-t05",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 03)",
+          "index": 4,
+          "startTime": 384.88,
+          "duration": 126.8
+        },
+        {
+          "id": "tkkg-folg-0491-t06",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 04)",
+          "index": 5,
+          "startTime": 511.68,
+          "duration": 127.093
+        },
+        {
+          "id": "tkkg-folg-0491-t07",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 05)",
+          "index": 6,
+          "startTime": 638.773,
+          "duration": 132.0
+        },
+        {
+          "id": "tkkg-folg-0491-t08",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 06)",
+          "index": 7,
+          "startTime": 770.773,
+          "duration": 129.467
+        },
+        {
+          "id": "tkkg-folg-0491-t09",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 07)",
+          "index": 8,
+          "startTime": 900.24,
+          "duration": 128.733
+        },
+        {
+          "id": "tkkg-folg-0491-t10",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 08)",
+          "index": 9,
+          "startTime": 1028.973,
+          "duration": 126.907
+        },
+        {
+          "id": "tkkg-folg-0491-t11",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 09)",
+          "index": 10,
+          "startTime": 1155.88,
+          "duration": 126.893
+        },
+        {
+          "id": "tkkg-folg-0491-t12",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 10)",
+          "index": 11,
+          "startTime": 1282.773,
+          "duration": 132.627
+        },
+        {
+          "id": "tkkg-folg-0491-t13",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 11)",
+          "index": 12,
+          "startTime": 1415.4,
+          "duration": 125.587
+        },
+        {
+          "id": "tkkg-folg-0491-t14",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 12)",
+          "index": 13,
+          "startTime": 1540.987,
+          "duration": 132.64
+        },
+        {
+          "id": "tkkg-folg-0491-t15",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 13)",
+          "index": 14,
+          "startTime": 1673.627,
+          "duration": 128.68
+        },
+        {
+          "id": "tkkg-folg-0491-t16",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 14)",
+          "index": 15,
+          "startTime": 1802.307,
+          "duration": 130.0
+        },
+        {
+          "id": "tkkg-folg-0491-t17",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 15)",
+          "index": 16,
+          "startTime": 1932.307,
+          "duration": 126.773
+        },
+        {
+          "id": "tkkg-folg-0491-t18",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 16)",
+          "index": 17,
+          "startTime": 2059.08,
+          "duration": 130.8
+        },
+        {
+          "id": "tkkg-folg-0491-t19",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 17)",
+          "index": 18,
+          "startTime": 2189.88,
+          "duration": 131.947
+        },
+        {
+          "id": "tkkg-folg-0491-t20",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 18)",
+          "index": 19,
+          "startTime": 2321.827,
+          "duration": 128.067
+        },
+        {
+          "id": "tkkg-folg-0491-t21",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 19)",
+          "index": 20,
+          "startTime": 2449.894,
+          "duration": 132.867
+        },
+        {
+          "id": "tkkg-folg-0491-t22",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 20)",
+          "index": 21,
+          "startTime": 2582.761,
+          "duration": 131.96
+        },
+        {
+          "id": "tkkg-folg-0491-t23",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 21)",
+          "index": 22,
+          "startTime": 2714.721,
+          "duration": 127.28
+        },
+        {
+          "id": "tkkg-folg-0491-t24",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 22)",
+          "index": 23,
+          "startTime": 2842.001,
+          "duration": 130.68
+        },
+        {
+          "id": "tkkg-folg-0491-t25",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 23)",
+          "index": 24,
+          "startTime": 2972.681,
+          "duration": 133.213
+        },
+        {
+          "id": "tkkg-folg-0491-t26",
+          "title": "18 - Stimmen aus dem Jenseits (Teil 24)",
+          "index": 25,
+          "startTime": 3105.894,
+          "duration": 192.227
+        },
+        {
+          "id": "tkkg-folg-0491-t27",
+          "title": "TKKG Junior Schlußsong",
+          "index": 26,
+          "startTime": 3298.121,
+          "duration": 66.413
+        },
+        {
+          "id": "tkkg-folg-0491-t28",
+          "title": "18 - Stimmen aus dem Jenseits (Outro)",
+          "index": 27,
+          "startTime": 3364.534,
+          "duration": 58.133
+        }
+      ],
       "description": "Ein spannendes Hörspiel mit 28 Folgen, das Spannung und Unterhaltung bietet.",
       "episodeNumber": 18
     },
@@ -32110,7 +33912,7 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/25/6b/08/256b08b2-09cd-ad0a-4303-e77a8a67270d/886446013596.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2928.252,
       "platforms": {
         "appleMusic": "1442208662"
       },
@@ -32118,7 +33920,183 @@
         "Krimi",
         "Thriller"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-8662-t01",
+          "title": "021 - Die Rache des Bombenlegers (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 156.16
+        },
+        {
+          "id": "tkkg-folg-8662-t02",
+          "title": "021 - Die Rache des Bombenlegers (Teil 02)",
+          "index": 1,
+          "startTime": 156.16,
+          "duration": 115.053
+        },
+        {
+          "id": "tkkg-folg-8662-t03",
+          "title": "021 - Die Rache des Bombenlegers (Teil 03)",
+          "index": 2,
+          "startTime": 271.213,
+          "duration": 116.253
+        },
+        {
+          "id": "tkkg-folg-8662-t04",
+          "title": "021 - Die Rache des Bombenlegers (Teil 04)",
+          "index": 3,
+          "startTime": 387.466,
+          "duration": 111.427
+        },
+        {
+          "id": "tkkg-folg-8662-t05",
+          "title": "021 - Die Rache des Bombenlegers (Teil 05)",
+          "index": 4,
+          "startTime": 498.893,
+          "duration": 116.307
+        },
+        {
+          "id": "tkkg-folg-8662-t06",
+          "title": "021 - Die Rache des Bombenlegers (Teil 06)",
+          "index": 5,
+          "startTime": 615.2,
+          "duration": 108.267
+        },
+        {
+          "id": "tkkg-folg-8662-t07",
+          "title": "021 - Die Rache des Bombenlegers (Teil 07)",
+          "index": 6,
+          "startTime": 723.467,
+          "duration": 120.36
+        },
+        {
+          "id": "tkkg-folg-8662-t08",
+          "title": "021 - Die Rache des Bombenlegers (Teil 08)",
+          "index": 7,
+          "startTime": 843.827,
+          "duration": 113.173
+        },
+        {
+          "id": "tkkg-folg-8662-t09",
+          "title": "021 - Die Rache des Bombenlegers (Teil 09)",
+          "index": 8,
+          "startTime": 957.0,
+          "duration": 112.4
+        },
+        {
+          "id": "tkkg-folg-8662-t10",
+          "title": "021 - Die Rache des Bombenlegers (Teil 10)",
+          "index": 9,
+          "startTime": 1069.4,
+          "duration": 117.093
+        },
+        {
+          "id": "tkkg-folg-8662-t11",
+          "title": "021 - Die Rache des Bombenlegers (Teil 11)",
+          "index": 10,
+          "startTime": 1186.493,
+          "duration": 119.533
+        },
+        {
+          "id": "tkkg-folg-8662-t12",
+          "title": "021 - Die Rache des Bombenlegers (Teil 12)",
+          "index": 11,
+          "startTime": 1306.026,
+          "duration": 119.64
+        },
+        {
+          "id": "tkkg-folg-8662-t13",
+          "title": "021 - Die Rache des Bombenlegers (Teil 13)",
+          "index": 12,
+          "startTime": 1425.666,
+          "duration": 108.867
+        },
+        {
+          "id": "tkkg-folg-8662-t14",
+          "title": "021 - Die Rache des Bombenlegers (Teil 14)",
+          "index": 13,
+          "startTime": 1534.533,
+          "duration": 120.587
+        },
+        {
+          "id": "tkkg-folg-8662-t15",
+          "title": "021 - Die Rache des Bombenlegers (Teil 15)",
+          "index": 14,
+          "startTime": 1655.12,
+          "duration": 111.12
+        },
+        {
+          "id": "tkkg-folg-8662-t16",
+          "title": "021 - Die Rache des Bombenlegers (Teil 16)",
+          "index": 15,
+          "startTime": 1766.24,
+          "duration": 113.773
+        },
+        {
+          "id": "tkkg-folg-8662-t17",
+          "title": "021 - Die Rache des Bombenlegers (Teil 17)",
+          "index": 16,
+          "startTime": 1880.013,
+          "duration": 116.373
+        },
+        {
+          "id": "tkkg-folg-8662-t18",
+          "title": "021 - Die Rache des Bombenlegers (Teil 18)",
+          "index": 17,
+          "startTime": 1996.386,
+          "duration": 119.613
+        },
+        {
+          "id": "tkkg-folg-8662-t19",
+          "title": "021 - Die Rache des Bombenlegers (Teil 19)",
+          "index": 18,
+          "startTime": 2115.999,
+          "duration": 106.933
+        },
+        {
+          "id": "tkkg-folg-8662-t20",
+          "title": "021 - Die Rache des Bombenlegers (Teil 20)",
+          "index": 19,
+          "startTime": 2222.932,
+          "duration": 120.067
+        },
+        {
+          "id": "tkkg-folg-8662-t21",
+          "title": "021 - Die Rache des Bombenlegers (Teil 21)",
+          "index": 20,
+          "startTime": 2342.999,
+          "duration": 115.947
+        },
+        {
+          "id": "tkkg-folg-8662-t22",
+          "title": "021 - Die Rache des Bombenlegers (Teil 22)",
+          "index": 21,
+          "startTime": 2458.946,
+          "duration": 112.093
+        },
+        {
+          "id": "tkkg-folg-8662-t23",
+          "title": "021 - Die Rache des Bombenlegers (Teil 23)",
+          "index": 22,
+          "startTime": 2571.039,
+          "duration": 96.973
+        },
+        {
+          "id": "tkkg-folg-8662-t24",
+          "title": "021 - Die Rache des Bombenlegers (Teil 24)",
+          "index": 23,
+          "startTime": 2668.012,
+          "duration": 136.427
+        },
+        {
+          "id": "tkkg-folg-8662-t25",
+          "title": "021 - Die Rache des Bombenlegers (Teil 25)",
+          "index": 24,
+          "startTime": 2804.439,
+          "duration": 123.813
+        }
+      ],
       "description": "Dieses Album enthält Folge 21 von 'Die Rache des Bombenlegers', einem deutschen Hörspiel, das Spannung und Spannung bietet.",
       "episodeNumber": 21
     },
@@ -32128,7 +34106,7 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/ae/4e/68ae4efe-e6be-8075-dd17-816a44efed70/886449718504.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 3530.815,
       "platforms": {
         "appleMusic": "1610358406"
       },
@@ -32137,7 +34115,218 @@
         "Fantasy",
         "Kinder & Jugend"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-8406-t01",
+          "title": "21 - Der Fluch der Mumie (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 44.24
+        },
+        {
+          "id": "tkkg-folg-8406-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 44.24,
+          "duration": 62.44
+        },
+        {
+          "id": "tkkg-folg-8406-t03",
+          "title": "21 - Der Fluch der Mumie (Teil 01)",
+          "index": 2,
+          "startTime": 106.68,
+          "duration": 123.627
+        },
+        {
+          "id": "tkkg-folg-8406-t04",
+          "title": "21 - Der Fluch der Mumie (Teil 02)",
+          "index": 3,
+          "startTime": 230.307,
+          "duration": 123.2
+        },
+        {
+          "id": "tkkg-folg-8406-t05",
+          "title": "21 - Der Fluch der Mumie (Teil 03)",
+          "index": 4,
+          "startTime": 353.507,
+          "duration": 121.227
+        },
+        {
+          "id": "tkkg-folg-8406-t06",
+          "title": "21 - Der Fluch der Mumie (Teil 04)",
+          "index": 5,
+          "startTime": 474.734,
+          "duration": 133.227
+        },
+        {
+          "id": "tkkg-folg-8406-t07",
+          "title": "21 - Der Fluch der Mumie (Teil 05)",
+          "index": 6,
+          "startTime": 607.961,
+          "duration": 128.227
+        },
+        {
+          "id": "tkkg-folg-8406-t08",
+          "title": "21 - Der Fluch der Mumie (Teil 06)",
+          "index": 7,
+          "startTime": 736.188,
+          "duration": 121.227
+        },
+        {
+          "id": "tkkg-folg-8406-t09",
+          "title": "21 - Der Fluch der Mumie (Teil 07)",
+          "index": 8,
+          "startTime": 857.415,
+          "duration": 120.947
+        },
+        {
+          "id": "tkkg-folg-8406-t10",
+          "title": "21 - Der Fluch der Mumie (Teil 08)",
+          "index": 9,
+          "startTime": 978.362,
+          "duration": 126.667
+        },
+        {
+          "id": "tkkg-folg-8406-t11",
+          "title": "21 - Der Fluch der Mumie (Teil 09)",
+          "index": 10,
+          "startTime": 1105.029,
+          "duration": 120.0
+        },
+        {
+          "id": "tkkg-folg-8406-t12",
+          "title": "21 - Der Fluch der Mumie (Teil 10)",
+          "index": 11,
+          "startTime": 1225.029,
+          "duration": 122.933
+        },
+        {
+          "id": "tkkg-folg-8406-t13",
+          "title": "21 - Der Fluch der Mumie (Teil 11)",
+          "index": 12,
+          "startTime": 1347.962,
+          "duration": 123.0
+        },
+        {
+          "id": "tkkg-folg-8406-t14",
+          "title": "21 - Der Fluch der Mumie (Teil 12)",
+          "index": 13,
+          "startTime": 1470.962,
+          "duration": 121.0
+        },
+        {
+          "id": "tkkg-folg-8406-t15",
+          "title": "21 - Der Fluch der Mumie (Teil 13)",
+          "index": 14,
+          "startTime": 1591.962,
+          "duration": 120.88
+        },
+        {
+          "id": "tkkg-folg-8406-t16",
+          "title": "21 - Der Fluch der Mumie (Teil 14)",
+          "index": 15,
+          "startTime": 1712.842,
+          "duration": 123.293
+        },
+        {
+          "id": "tkkg-folg-8406-t17",
+          "title": "21 - Der Fluch der Mumie (Teil 15)",
+          "index": 16,
+          "startTime": 1836.135,
+          "duration": 120.027
+        },
+        {
+          "id": "tkkg-folg-8406-t18",
+          "title": "21 - Der Fluch der Mumie (Teil 16)",
+          "index": 17,
+          "startTime": 1956.162,
+          "duration": 123.64
+        },
+        {
+          "id": "tkkg-folg-8406-t19",
+          "title": "21 - Der Fluch der Mumie (Teil 17)",
+          "index": 18,
+          "startTime": 2079.802,
+          "duration": 122.6
+        },
+        {
+          "id": "tkkg-folg-8406-t20",
+          "title": "21 - Der Fluch der Mumie (Teil 18)",
+          "index": 19,
+          "startTime": 2202.402,
+          "duration": 122.293
+        },
+        {
+          "id": "tkkg-folg-8406-t21",
+          "title": "21 - Der Fluch der Mumie (Teil 19)",
+          "index": 20,
+          "startTime": 2324.695,
+          "duration": 121.507
+        },
+        {
+          "id": "tkkg-folg-8406-t22",
+          "title": "21 - Der Fluch der Mumie (Teil 20)",
+          "index": 21,
+          "startTime": 2446.202,
+          "duration": 122.053
+        },
+        {
+          "id": "tkkg-folg-8406-t23",
+          "title": "21 - Der Fluch der Mumie (Teil 21)",
+          "index": 22,
+          "startTime": 2568.255,
+          "duration": 121.04
+        },
+        {
+          "id": "tkkg-folg-8406-t24",
+          "title": "21 - Der Fluch der Mumie (Teil 22)",
+          "index": 23,
+          "startTime": 2689.295,
+          "duration": 123.307
+        },
+        {
+          "id": "tkkg-folg-8406-t25",
+          "title": "21 - Der Fluch der Mumie (Teil 23)",
+          "index": 24,
+          "startTime": 2812.602,
+          "duration": 123.6
+        },
+        {
+          "id": "tkkg-folg-8406-t26",
+          "title": "21 - Der Fluch der Mumie (Teil 24)",
+          "index": 25,
+          "startTime": 2936.202,
+          "duration": 121.987
+        },
+        {
+          "id": "tkkg-folg-8406-t27",
+          "title": "21 - Der Fluch der Mumie (Teil 25)",
+          "index": 26,
+          "startTime": 3058.189,
+          "duration": 129.853
+        },
+        {
+          "id": "tkkg-folg-8406-t28",
+          "title": "21 - Der Fluch der Mumie (Teil 26)",
+          "index": 27,
+          "startTime": 3188.042,
+          "duration": 214.4
+        },
+        {
+          "id": "tkkg-folg-8406-t29",
+          "title": "TKKG Junior Schlußsong",
+          "index": 28,
+          "startTime": 3402.442,
+          "duration": 68.333
+        },
+        {
+          "id": "tkkg-folg-8406-t30",
+          "title": "21 - Der Fluch der Mumie (Outro)",
+          "index": 29,
+          "startTime": 3470.775,
+          "duration": 60.04
+        }
+      ],
       "description": "Ein spannendes Hörspiel, das auf der beliebten TKKG-Reihe basiert, mit 30 Folgen voller Action und Spannung.",
       "episodeNumber": 21
     },
@@ -32147,14 +34336,190 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/72/1b/06/721b0691-3778-faba-216e-6404bb409910/886446013343.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 3026.054,
       "platforms": {
         "appleMusic": "1442203614"
       },
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-3614-t01",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 163.48
+        },
+        {
+          "id": "tkkg-folg-3614-t02",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 02)",
+          "index": 1,
+          "startTime": 163.48,
+          "duration": 116.747
+        },
+        {
+          "id": "tkkg-folg-3614-t03",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 03)",
+          "index": 2,
+          "startTime": 280.227,
+          "duration": 117.48
+        },
+        {
+          "id": "tkkg-folg-3614-t04",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 04)",
+          "index": 3,
+          "startTime": 397.707,
+          "duration": 132.44
+        },
+        {
+          "id": "tkkg-folg-3614-t05",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 05)",
+          "index": 4,
+          "startTime": 530.147,
+          "duration": 104.133
+        },
+        {
+          "id": "tkkg-folg-3614-t06",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 06)",
+          "index": 5,
+          "startTime": 634.28,
+          "duration": 115.667
+        },
+        {
+          "id": "tkkg-folg-3614-t07",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 07)",
+          "index": 6,
+          "startTime": 749.947,
+          "duration": 123.027
+        },
+        {
+          "id": "tkkg-folg-3614-t08",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 08)",
+          "index": 7,
+          "startTime": 872.974,
+          "duration": 115.507
+        },
+        {
+          "id": "tkkg-folg-3614-t09",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 09)",
+          "index": 8,
+          "startTime": 988.481,
+          "duration": 131.96
+        },
+        {
+          "id": "tkkg-folg-3614-t10",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 10)",
+          "index": 9,
+          "startTime": 1120.441,
+          "duration": 109.08
+        },
+        {
+          "id": "tkkg-folg-3614-t11",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 11)",
+          "index": 10,
+          "startTime": 1229.521,
+          "duration": 125.093
+        },
+        {
+          "id": "tkkg-folg-3614-t12",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 12)",
+          "index": 11,
+          "startTime": 1354.614,
+          "duration": 110.547
+        },
+        {
+          "id": "tkkg-folg-3614-t13",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 13)",
+          "index": 12,
+          "startTime": 1465.161,
+          "duration": 126.187
+        },
+        {
+          "id": "tkkg-folg-3614-t14",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 14)",
+          "index": 13,
+          "startTime": 1591.348,
+          "duration": 115.693
+        },
+        {
+          "id": "tkkg-folg-3614-t15",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 15)",
+          "index": 14,
+          "startTime": 1707.041,
+          "duration": 132.267
+        },
+        {
+          "id": "tkkg-folg-3614-t16",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 16)",
+          "index": 15,
+          "startTime": 1839.308,
+          "duration": 110.68
+        },
+        {
+          "id": "tkkg-folg-3614-t17",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 17)",
+          "index": 16,
+          "startTime": 1949.988,
+          "duration": 131.4
+        },
+        {
+          "id": "tkkg-folg-3614-t18",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 18)",
+          "index": 17,
+          "startTime": 2081.388,
+          "duration": 103.773
+        },
+        {
+          "id": "tkkg-folg-3614-t19",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 19)",
+          "index": 18,
+          "startTime": 2185.161,
+          "duration": 121.2
+        },
+        {
+          "id": "tkkg-folg-3614-t20",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 20)",
+          "index": 19,
+          "startTime": 2306.361,
+          "duration": 113.96
+        },
+        {
+          "id": "tkkg-folg-3614-t21",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 21)",
+          "index": 20,
+          "startTime": 2420.321,
+          "duration": 121.693
+        },
+        {
+          "id": "tkkg-folg-3614-t22",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 22)",
+          "index": 21,
+          "startTime": 2542.014,
+          "duration": 110.6
+        },
+        {
+          "id": "tkkg-folg-3614-t23",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 23)",
+          "index": 22,
+          "startTime": 2652.614,
+          "duration": 121.733
+        },
+        {
+          "id": "tkkg-folg-3614-t24",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 24)",
+          "index": 23,
+          "startTime": 2774.347,
+          "duration": 125.64
+        },
+        {
+          "id": "tkkg-folg-3614-t25",
+          "title": "013 - Die Bettelmönche aus Atlantis (Teil 25)",
+          "index": 24,
+          "startTime": 2899.987,
+          "duration": 126.067
+        }
+      ],
       "description": "Dieses Album beinhaltet 25 Hörspiel-Tracks des TKKG Retro-Archiv, das auf das Album 'Folge 13: Die Bettelmönche aus Atlantis' verweist. Es handelt sich somit um ein Hörspiel-Album.",
       "episodeNumber": 13
     },
@@ -32164,14 +34529,190 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/55/0e/fa/550efa8d-f970-9477-74b2-569ba5f3c216/886446015514.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2129.919,
       "platforms": {
         "appleMusic": "1442247459"
       },
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-7459-t01",
+          "title": "036 - Das Geschenk des Bösen (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 120.773
+        },
+        {
+          "id": "tkkg-folg-7459-t02",
+          "title": "036 - Das Geschenk des Bösen (Teil 02)",
+          "index": 1,
+          "startTime": 120.773,
+          "duration": 94.613
+        },
+        {
+          "id": "tkkg-folg-7459-t03",
+          "title": "036 - Das Geschenk des Bösen (Teil 03)",
+          "index": 2,
+          "startTime": 215.386,
+          "duration": 70.213
+        },
+        {
+          "id": "tkkg-folg-7459-t04",
+          "title": "036 - Das Geschenk des Bösen (Teil 04)",
+          "index": 3,
+          "startTime": 285.599,
+          "duration": 85.84
+        },
+        {
+          "id": "tkkg-folg-7459-t05",
+          "title": "036 - Das Geschenk des Bösen (Teil 05)",
+          "index": 4,
+          "startTime": 371.439,
+          "duration": 85.547
+        },
+        {
+          "id": "tkkg-folg-7459-t06",
+          "title": "036 - Das Geschenk des Bösen (Teil 06)",
+          "index": 5,
+          "startTime": 456.986,
+          "duration": 79.627
+        },
+        {
+          "id": "tkkg-folg-7459-t07",
+          "title": "036 - Das Geschenk des Bösen (Teil 07)",
+          "index": 6,
+          "startTime": 536.613,
+          "duration": 84.533
+        },
+        {
+          "id": "tkkg-folg-7459-t08",
+          "title": "036 - Das Geschenk des Bösen (Teil 08)",
+          "index": 7,
+          "startTime": 621.146,
+          "duration": 86.027
+        },
+        {
+          "id": "tkkg-folg-7459-t09",
+          "title": "036 - Das Geschenk des Bösen (Teil 09)",
+          "index": 8,
+          "startTime": 707.173,
+          "duration": 83.733
+        },
+        {
+          "id": "tkkg-folg-7459-t10",
+          "title": "036 - Das Geschenk des Bösen (Teil 10)",
+          "index": 9,
+          "startTime": 790.906,
+          "duration": 78.107
+        },
+        {
+          "id": "tkkg-folg-7459-t11",
+          "title": "036 - Das Geschenk des Bösen (Teil 11)",
+          "index": 10,
+          "startTime": 869.013,
+          "duration": 79.667
+        },
+        {
+          "id": "tkkg-folg-7459-t12",
+          "title": "036 - Das Geschenk des Bösen (Teil 12)",
+          "index": 11,
+          "startTime": 948.68,
+          "duration": 87.187
+        },
+        {
+          "id": "tkkg-folg-7459-t13",
+          "title": "036 - Das Geschenk des Bösen (Teil 13)",
+          "index": 12,
+          "startTime": 1035.867,
+          "duration": 81.333
+        },
+        {
+          "id": "tkkg-folg-7459-t14",
+          "title": "036 - Das Geschenk des Bösen (Teil 14)",
+          "index": 13,
+          "startTime": 1117.2,
+          "duration": 88.733
+        },
+        {
+          "id": "tkkg-folg-7459-t15",
+          "title": "036 - Das Geschenk des Bösen (Teil 15)",
+          "index": 14,
+          "startTime": 1205.933,
+          "duration": 81.373
+        },
+        {
+          "id": "tkkg-folg-7459-t16",
+          "title": "036 - Das Geschenk des Bösen (Teil 16)",
+          "index": 15,
+          "startTime": 1287.306,
+          "duration": 80.347
+        },
+        {
+          "id": "tkkg-folg-7459-t17",
+          "title": "036 - Das Geschenk des Bösen (Teil 17)",
+          "index": 16,
+          "startTime": 1367.653,
+          "duration": 84.293
+        },
+        {
+          "id": "tkkg-folg-7459-t18",
+          "title": "036 - Das Geschenk des Bösen (Teil 18)",
+          "index": 17,
+          "startTime": 1451.946,
+          "duration": 90.533
+        },
+        {
+          "id": "tkkg-folg-7459-t19",
+          "title": "036 - Das Geschenk des Bösen (Teil 19)",
+          "index": 18,
+          "startTime": 1542.479,
+          "duration": 76.92
+        },
+        {
+          "id": "tkkg-folg-7459-t20",
+          "title": "036 - Das Geschenk des Bösen (Teil 20)",
+          "index": 19,
+          "startTime": 1619.399,
+          "duration": 82.12
+        },
+        {
+          "id": "tkkg-folg-7459-t21",
+          "title": "036 - Das Geschenk des Bösen (Teil 21)",
+          "index": 20,
+          "startTime": 1701.519,
+          "duration": 82.653
+        },
+        {
+          "id": "tkkg-folg-7459-t22",
+          "title": "036 - Das Geschenk des Bösen (Teil 22)",
+          "index": 21,
+          "startTime": 1784.172,
+          "duration": 82.667
+        },
+        {
+          "id": "tkkg-folg-7459-t23",
+          "title": "036 - Das Geschenk des Bösen (Teil 23)",
+          "index": 22,
+          "startTime": 1866.839,
+          "duration": 84.107
+        },
+        {
+          "id": "tkkg-folg-7459-t24",
+          "title": "036 - Das Geschenk des Bösen (Teil 24)",
+          "index": 23,
+          "startTime": 1950.946,
+          "duration": 76.893
+        },
+        {
+          "id": "tkkg-folg-7459-t25",
+          "title": "036 - Das Geschenk des Bösen (Teil 25)",
+          "index": 24,
+          "startTime": 2027.839,
+          "duration": 102.08
+        }
+      ],
       "description": "Dieses Album enthält Episoden von einem Hörspiel, das sich um das Thema 'Das Geschenk des Bösen' dreht. Es ist Teil einer Serie mit 25 Folgen und passt somit in den Hörspiel-Genre.",
       "episodeNumber": 36
     },
@@ -32181,14 +34722,190 @@
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/26/36/1526361b-c78f-693f-b62b-786408cb071e/196874041659.jpg/100x100bb.jpg",
-      "totalDuration": 0,
+      "totalDuration": 2179.546,
       "platforms": {
         "appleMusic": "1895823496"
       },
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "tkkg-folg-3496-t01",
+          "title": "Inhaltsangabe: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 46.067
+        },
+        {
+          "id": "tkkg-folg-3496-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 46.067,
+          "duration": 62.787
+        },
+        {
+          "id": "tkkg-folg-3496-t03",
+          "title": "Kapitel 01: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 2,
+          "startTime": 108.854,
+          "duration": 91.987
+        },
+        {
+          "id": "tkkg-folg-3496-t04",
+          "title": "Kapitel 02: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 3,
+          "startTime": 200.841,
+          "duration": 90.293
+        },
+        {
+          "id": "tkkg-folg-3496-t05",
+          "title": "Kapitel 03: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 4,
+          "startTime": 291.134,
+          "duration": 91.053
+        },
+        {
+          "id": "tkkg-folg-3496-t06",
+          "title": "Kapitel 04: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 5,
+          "startTime": 382.187,
+          "duration": 93.6
+        },
+        {
+          "id": "tkkg-folg-3496-t07",
+          "title": "Kapitel 05: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 6,
+          "startTime": 475.787,
+          "duration": 91.947
+        },
+        {
+          "id": "tkkg-folg-3496-t08",
+          "title": "Kapitel 06: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 7,
+          "startTime": 567.734,
+          "duration": 92.08
+        },
+        {
+          "id": "tkkg-folg-3496-t09",
+          "title": "Kapitel 07: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 8,
+          "startTime": 659.814,
+          "duration": 92.04
+        },
+        {
+          "id": "tkkg-folg-3496-t10",
+          "title": "Kapitel 08: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 9,
+          "startTime": 751.854,
+          "duration": 91.627
+        },
+        {
+          "id": "tkkg-folg-3496-t11",
+          "title": "Kapitel 09: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 10,
+          "startTime": 843.481,
+          "duration": 92.613
+        },
+        {
+          "id": "tkkg-folg-3496-t12",
+          "title": "Kapitel 10: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 11,
+          "startTime": 936.094,
+          "duration": 91.893
+        },
+        {
+          "id": "tkkg-folg-3496-t13",
+          "title": "Kapitel 11: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 12,
+          "startTime": 1027.987,
+          "duration": 92.427
+        },
+        {
+          "id": "tkkg-folg-3496-t14",
+          "title": "Kapitel 12: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 13,
+          "startTime": 1120.414,
+          "duration": 91.32
+        },
+        {
+          "id": "tkkg-folg-3496-t15",
+          "title": "Kapitel 13: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 14,
+          "startTime": 1211.734,
+          "duration": 91.48
+        },
+        {
+          "id": "tkkg-folg-3496-t16",
+          "title": "Kapitel 14: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 15,
+          "startTime": 1303.214,
+          "duration": 91.413
+        },
+        {
+          "id": "tkkg-folg-3496-t17",
+          "title": "Kapitel 15: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 16,
+          "startTime": 1394.627,
+          "duration": 96.547
+        },
+        {
+          "id": "tkkg-folg-3496-t18",
+          "title": "Kapitel 16: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 17,
+          "startTime": 1491.174,
+          "duration": 91.333
+        },
+        {
+          "id": "tkkg-folg-3496-t19",
+          "title": "Kapitel 17: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 18,
+          "startTime": 1582.507,
+          "duration": 90.813
+        },
+        {
+          "id": "tkkg-folg-3496-t20",
+          "title": "Kapitel 18: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 19,
+          "startTime": 1673.32,
+          "duration": 95.2
+        },
+        {
+          "id": "tkkg-folg-3496-t21",
+          "title": "Kapitel 19: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 20,
+          "startTime": 1768.52,
+          "duration": 99.013
+        },
+        {
+          "id": "tkkg-folg-3496-t22",
+          "title": "Kapitel 20: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 21,
+          "startTime": 1867.533,
+          "duration": 96.84
+        },
+        {
+          "id": "tkkg-folg-3496-t23",
+          "title": "Kapitel 21: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 22,
+          "startTime": 1964.373,
+          "duration": 90.467
+        },
+        {
+          "id": "tkkg-folg-3496-t24",
+          "title": "TKKG Junior Schlußsong",
+          "index": 23,
+          "startTime": 2054.84,
+          "duration": 68.173
+        },
+        {
+          "id": "tkkg-folg-3496-t25",
+          "title": "Outro: Zwischen Wölfen und Banditen (Folge 43)",
+          "index": 24,
+          "startTime": 2123.013,
+          "duration": 56.533
+        }
+      ],
       "description": "Dieses Album ist ein Hörspielalbum mit 25 Folgen, das von TKKG Junior produziert wurde. Es handelt sich um ein spannendes Abenteuer, das sich um Wölfe und Banditen dreht.",
       "episodeNumber": 43
     },
