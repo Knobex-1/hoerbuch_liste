@@ -542,6 +542,45 @@
       "chapters": []
     },
     {
+      "id": "1686061283",
+      "title": "Folge 2: Darth Sidious auf der Spur (Labyrinth des Bösen)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/03/a5/a203a5c2-ffeb-acda-4463-25f314c0d2b0/4057664075185.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel aus der Star Wars-Serie, das auf der Jagd nach Darth Sidious in einer dunklen Welt ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686061283"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686064516",
+      "title": "Folge 3: Aufruhr auf Alderaan (Dark Lord)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/36/e2/9936e276-fa01-2adb-5cf6-9f8283718b6a/4057664075123.jpg/100x100bb.jpg",
+      "description": "Ein Star Wars Hörspiel mit Handlung auf Alderaan.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686064516"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686318178",
+      "title": "Folge 4: Der Untergang von Kashyyyk (Dark Lord)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/25/c2/0625c2e9-26b3-49e9-1b22-efeac7042522/4057664075031.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel aus der Star Wars-Reihe, das sich um Kashyyyk dreht.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686318178"
+      },
+      "chapters": []
+    },
+    {
       "id": "158627474",
       "title": "John Williams Conducts The Star Wars Trilogy",
       "episodeNumber": null,
@@ -2245,5 +2284,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T17:19:36Z"
+  "updatedAt": "2026-05-27T17:57:24Z"
 }

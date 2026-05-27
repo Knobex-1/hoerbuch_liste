@@ -1,79 +1,17 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-27T17:56:59Z",
+  "updatedAt": "2026-05-27T17:57:50Z",
   "series": [
     {
-      "id": "tkkg",
-      "title": "TKKG",
-      "author": "Stefan Wolf",
-      "narrator": "Verschiedene Sprecher",
-      "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
-      ],
-      "albumCount": 2,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/tkkg.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
-    },
-    {
-      "id": "folge",
-      "title": "Folge",
-      "author": "Alfred Hitchcock präsentiert",
+      "id": "misc-n",
+      "title": "Weitere Titel (N–Z)",
+      "author": "",
       "narrator": "",
-      "genres": [
-        "Hörspiel"
-      ],
-      "albumCount": 1915,
+      "genres": [],
+      "albumCount": 84,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/a0/41/0fa041f5-1124-2fd0-2c0c-0df04642c5af/4260507192493_3000.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/folge.json",
-      "seriesUpdatedAt": "2026-05-27T17:31:06Z"
-    },
-    {
-      "id": "sherlock-holmes",
-      "title": "Sherlock Holmes",
-      "author": "Arthur Conan Doyle",
-      "narrator": "Friedrich W. Bauschulte",
-      "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Thriller"
-      ],
-      "albumCount": 45,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/1d/57/881d576e-37c4-4321-7988-eecc3061786b/cover.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/sherlock-holmes.json",
-      "seriesUpdatedAt": "2026-05-27T17:31:06Z"
-    },
-    {
-      "id": "fuenf-freunde",
-      "title": "Fünf Freunde",
-      "author": "Enid Blyton",
-      "narrator": "Verschiedene Sprecher",
-      "genres": [
-        "Hörspiel",
-        "Abenteuer",
-        "Kinder & Jugend"
-      ],
-      "albumCount": 9,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6d/cf/6d/6dcf6de6-68e2-8bea-445a-1e4322118fcc/886448833086.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/fuenf-freunde.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
-    },
-    {
-      "id": "bibi-blocksberg",
-      "title": "Bibi Blocksberg",
-      "author": "Elfie Donnelly",
-      "narrator": "Susanne Pätzold",
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
-      ],
-      "albumCount": 1,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/0e/f8/bb0ef83b-1d26-8081-2ca5-eaa9a23b6091/4033694563984.jpg/600x600bb.jpg",
-      "dataURL": "catalog/de/series/bibi-blocksberg.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "dataURL": "catalog/de/series/misc-n.json",
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "misc-a",
@@ -81,10 +19,23 @@
       "author": "",
       "narrator": "",
       "genres": [],
-      "albumCount": 178,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/9f/46/cb9f4645-3083-680a-5d82-266465d2e00a/cover.jpg/100x100bb.jpg",
+      "albumCount": 935,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/06/82/0706822b-3c40-b292-ea63-a5c32d65ec37/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/misc-a.json",
-      "seriesUpdatedAt": "2026-05-27T17:31:06Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
+    },
+    {
+      "id": "alfred-hitchcock",
+      "title": "Alfred Hitchcock präsentiert",
+      "author": "Alfred Hitchcock präsentiert",
+      "narrator": "",
+      "genres": [
+        "Hörspiel"
+      ],
+      "albumCount": 531,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e6/9d/5c/e69d5c66-c43d-03d3-280c-b3e386d40b16/886445750294.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/alfred-hitchcock.json",
+      "seriesUpdatedAt": "2026-05-27T17:57:50Z"
     },
     {
       "id": "mark-brandis",
@@ -107,10 +58,10 @@
       "genres": [
         "Hörspiel"
       ],
-      "albumCount": 172,
+      "albumCount": 175,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/33/c4/b833c454-b176-5f75-df19-bcc5da060d72/4066339395770.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "marco-goellner",
@@ -148,21 +99,10 @@
         "Küstenkrimi",
         "Thriller"
       ],
-      "albumCount": 1,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/da/e4/f2dae4f8-613a-1fa4-7b62-8c00d5fd262f/cover.jpg/100x100bb.jpg",
+      "albumCount": 9,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/89/7a/30897ab2-f5e2-215d-25be-663faec8ddca/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/krimis-von-der-kueste.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
-    },
-    {
-      "id": "misc-n",
-      "title": "Weitere Titel (N–Z)",
-      "author": "",
-      "narrator": "",
-      "genres": [],
-      "albumCount": 7,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/d4/d5/0cd4d53c-bb6c-90a6-2a98-abdaab5c8348/4260507188847_3000.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/misc-n.json",
-      "seriesUpdatedAt": "2026-05-27T17:31:06Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "zoomania",
@@ -185,10 +125,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 29,
+      "albumCount": 185,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/31/19/1c/31191cbd-374a-1d55-c708-30d1b2b890a8/825646202249.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/bibi-und-tina.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "die-eiskoenigin",
@@ -198,10 +138,25 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 8,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/6e/f5/ab6ef58e-b97d-4dc2-5de1-8b0abcbc701a/cover_4062851751650.jpg/100x100bb.jpg",
+      "albumCount": 6,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/08/3c/43083cfb-d8cb-9394-eed5-fef917f46a67/4066339450424.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-eiskoenigin.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
+    },
+    {
+      "id": "fuenf-freunde",
+      "title": "Fünf Freunde",
+      "author": "Enid Blyton",
+      "narrator": "Verschiedene Sprecher",
+      "genres": [
+        "Hörspiel",
+        "Abenteuer",
+        "Kinder & Jugend"
+      ],
+      "albumCount": 3,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/9c/e6/82/9ce6824f-12a9-ad44-f3b2-31fea025a28a/886445160710.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/fuenf-freunde.json",
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "spidey-hoerspiel",
@@ -263,10 +218,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 96,
+      "albumCount": 98,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/2c/19/462c19b4-1cbb-38fb-03bf-d5b5beca6ddd/4066339911185.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/conni.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "meine-freundin-conni",
@@ -279,7 +234,7 @@
       "albumCount": 26,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/6f/ac/286fac18-afc9-9191-845a-2f38a95026c9/4057664075253.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/meine-freundin-conni.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "benjamin-bluemchen",
@@ -289,10 +244,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 6,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/1e/6f/d51e6f2f-27fb-38b2-cde3-50475d7e7887/825646243471.jpg/100x100bb.jpg",
+      "albumCount": 201,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/e1/78/26e17878-e313-cdf8-f2e9-9f69eddd306d/190295446703.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/benjamin-bluemchen.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "alea-aquarius-tanya-stewner",
@@ -315,10 +270,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 30,
+      "albumCount": 46,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/fe/d1/71fed1fa-78d1-73b3-2357-e4e0dfa05441/4057664423399_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/pettersson-und-findus.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "die-playmos",
@@ -328,10 +283,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 6,
+      "albumCount": 130,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/20/7f/21/207f21cf-6920-66f7-ea4b-76bcc718afeb/4260229662731_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-playmos.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "robin-hood-schlitzohr-von-sherwood",
@@ -354,10 +309,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 13,
+      "albumCount": 77,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/98/52/689852e2-a80d-c184-62fb-24aaeecc78f8/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/miraculous.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "yakari",
@@ -367,10 +322,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 1,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/63/7c/ff637ce6-c808-bbc9-3869-dd8dd6af5665/4013575911134.jpg/100x100bb.jpg",
+      "albumCount": 39,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ba/3a/10/ba3a104a-68ca-a5f2-7dcc-557dda57fc1c/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/yakari.json",
-      "seriesUpdatedAt": "2026-05-27T17:19:36Z"
+      "seriesUpdatedAt": "2026-05-27T17:57:24Z"
     },
     {
       "id": "patrick-lynen",

@@ -214,8 +214,8 @@
       "slug": "per-anhalter-durch-die-galaxis"
     },
     {
-      "title": "Folge",
-      "search_term": "folge",
+      "title": "Alfred Hitchcock präsentiert",
+      "search_term": "alfred hitchcock",
       "extra_search_terms": [],
       "artist_filter": "Alfred Hitchcock präsentiert",
       "genres": [
@@ -224,7 +224,7 @@
       "author": "Alfred Hitchcock präsentiert",
       "narrator": "",
       "enabled": true,
-      "slug": "folge"
+      "slug": "alfred-hitchcock"
     },
     {
       "title": "Planet Eden",
