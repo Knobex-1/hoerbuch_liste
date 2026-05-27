@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-27T06:26:13.160330+00:00",
+  "updatedAt": "2026-05-27T06:33:08.877458+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -17742,6 +17742,2247 @@
       ],
       "chapters": [],
       "description": "Ein Abenteuer im Fantasy-LitRPG-Genre mit Science-Fiction Elementen."
+    },
+    {
+      "id": "regi-denl-5115",
+      "title": "Den Letzten beißen die Robben - Ino Tjarks & Co. ermitteln - Ein Küsten-Krimi, Band 3 (ungekürzt)",
+      "author": "Regine Kölpin",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/fa/78/3bfa787a-820a-7f15-7a3c-d867bc3a31f9/9783965194625_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1670195115"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Küsten-Krimi von Ino Tjarks und Co., ermittelt von Regine Kölpin."
+    },
+    {
+      "id": "kris-krie-9872",
+      "title": "Krieg der Seesterne. Ein Küstenkrimi: Thies Detlefsen 12",
+      "author": "Krischan Koch",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/54/cc/84/54cc8444-234b-4318-d12e-e5d405f0fc49/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1731129872"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album scheint ein Hörspiel zu sein, da der Titel direkt auf ein Küstenkrimi von Thies Detlefsen hindeutet, das typischerweise als Hörspiel vertont wird."
+    },
+    {
+      "id": "kris-frie-8196",
+      "title": "Friedhof der Krustentiere. Ein Küstenkrimi: Thies Detlefsen 8",
+      "author": "Krischan Koch",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/41/b4/a5/41b4a56f-5d3c-1851-b4e6-74f9536e8b33/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1497318196"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Küstenkrimi um Thies Detlefsen, der auf einem Friedhof mit Krustentieren spielt. Thriller und Krimigenre deuten auf Spannung und Ermittlungen hin."
+    },
+    {
+      "id": "anne-soko-9513",
+      "title": "SoKo Nord - Die Tote von Pellworm: Küstenkrimi Nordseekrimi",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/f8/5d/caf85d8e-f626-54e0-b8fc-c029b00dbeb2/4099995454376.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1771599513"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Küstenkrimi, der in Norddeutschland spielt und Spannung bietet."
+    },
+    {
+      "id": "kris-mord-1869",
+      "title": "Mord im Nord-Ostsee-Express. Ein Küstenkrimi: Thies Detlefsen 10",
+      "author": "Krischan Koch",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1f/d1/8a/1fd18ac7-d59f-01a8-2d9c-ae3b26884540/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1609641869"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Mord im Nord-Ostsee-Express' ist ein Hörspiel im Genre Krimi und Thriller. Der Titel und das Genre deuten darauf hin, dass es sich um ein Hörspiel handelt."
+    },
+    {
+      "id": "krin-sylt-6436",
+      "title": "SYLT-KRIMI Möwengrab: Küstenkrimi (Nordseekrimi)",
+      "author": "Krinke Rehberg & Saga Storify",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/c1/d5/84c1d528-d38f-309c-f145-f3709468e8a5/9788728535813.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1714656436"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'SYLT-KRIMI Möwengrab: Küstenkrimi (Nordseekrimi)', das von Krinke Rehberg & Saga Storify produziert wurde. Es handelt sich um ein spannendes Hörspiel im Genre des Krimi-Thriller-Genres."
+    },
+    {
+      "id": "anne-nord-2656",
+      "title": "Nordsee Gier - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare, Band 4)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/9d/a1/8e9da1ba-fd0f-7d34-68b4-ae8cf7e29126/4066339686694.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1681052656"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält das Hörspiel 'Nordsee Gier - Die Küsten-Kommissare: Küstenkrimi', das Teil der 'Die Nordsee-Kommissare'-Reihe ist und sich auf Kriminalgeschichten in der Nordsee konzentriert."
+    },
+    {
+      "id": "krin-nord-3151",
+      "title": "NORDSEEKRIMI – Aenne Feddersen und die friesische Wut: Küstenkrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/ed/78/10ed7837-0c96-9e6b-26d5-c8cd556b526e/9788727175454.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1765743151"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält einen 'Küstenkrimi', was auf ein Hörspiel oder Hörbuch mit Krimithemen hindeutet."
+    },
+    {
+      "id": "bcsc-fami-3035",
+      "title": "Familienblut - Küstenkrimi: Ana Ortega ermittelt, Band 3",
+      "author": "B.C. Schiller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/a6/5c/a1a65cd7-ae03-76d1-0a65-59011627d9f8/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1814103035"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album umfasst ein Hörspiel, das Teil der Serie 'Familienblut - Küstenkrimi: Ana Ortega ermittelt' ist, und wird von B.C. Schiller gelesen."
+    },
+    {
+      "id": "lars-diem-2924",
+      "title": "Die Marschland-Morde: Küstenkrimi (ungekürzt)",
+      "author": "Lars Olsen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2f/9e/a9/2f9ea947-545e-fd03-0ec6-16fabee07222/4066004431208_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1618542924"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Küstenkrimi Hörspiel mit Spannung in den Marschlandschaften."
+    },
+    {
+      "id": "chri-ange-0005",
+      "title": "Angebissen - Kempff und der Hai - Küsten-Krimi (Ungekürzt)",
+      "author": "Christian Gailus",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2a/92/71/2a92713d-1907-700c-c0d0-22e7f0d0f03b/9783838792507_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1459640005"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein ungekürztes Hörspiel mit dem Titel 'Angebissen - Kempff und der Hai - Küsten-Krimi'. Es gehört zur Krimigenres und ist somit ein deutsches Hörspiel."
+    },
+    {
+      "id": "krin-sylt-6780",
+      "title": "SYLT-KRIMI Strandgrab: Küstenkrimi (Nordseekrimi)",
+      "author": "Krinke Rehberg & Saga Storify",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/0a/bd/af0abd3a-2bb7-c934-381a-36a486c57818/9788728535806.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1709256780"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Krimi-Hörspiel-Album über Sylt mit Spannung und Spannung."
+    },
+    {
+      "id": "bcsc-schn-8470",
+      "title": "Schöne Tote. Inselkrimi - Küstenkrimi: Ana Ortega ermittelt 2",
+      "author": "B.C. Schiller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/1f/72/621f72e9-1a05-979f-6b2d-13fbb4877efd/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1804138470"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Inselkrimi mit Ana Ortega, der auf Spannung und Spannung setzt."
+    },
+    {
+      "id": "anne-nord-7266",
+      "title": "Nordsee Hass - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare, Band 2)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ae/58/b8/ae58b80b-a30c-0eba-e74a-a32da6bd776d/4066339439177.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1660517266"
+      },
+      "genres": [
+        "Krimi",
+        "Thrillers"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel der Serie 'Die Nordsee-Kommissare', Band 2, das Spannung entlang der Nordsee bietet."
+    },
+    {
+      "id": "anne-nord-4878",
+      "title": "Nordsee Leid - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare, Band 3)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/31/a7/bd31a7d7-e3c3-6a6e-ff4f-46791d3224d1/4066339485600.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1675224878"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel, das Teil der Serie 'Die Nordsee-Kommissare' ist und sich auf kriminelle Abenteuer entlang der Nordseeküste konzentriert."
+    },
+    {
+      "id": "krin-sylt-2796",
+      "title": "SYLT-KRIMI Nordseegrab: Küstenkrimi (Nordseekrimi)",
+      "author": "Krinke Rehberg & Saga Storify",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/10/dc/0b/10dc0b28-7d2e-7a59-4eb5-c9a1c07c35a7/9788728535776.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1677832796"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Krimis und Thriller Hörspiel, das auf SYLT spielt."
+    },
+    {
+      "id": "krin-sylt-2234",
+      "title": "SYLT-KRIMI Grabesstille: Küstenkrimi (Nordseekrimi)",
+      "author": "Krinke Rehberg & Saga Storify",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/f9/8e/98f98e36-242d-b4ff-8681-5d43fcea3b2e/9788728535783.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1687932234"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel mit einem Küstenkrimi auf SYLT, der Spannung und Spannung bietet."
+    },
+    {
+      "id": "krin-sylt-9250",
+      "title": "SYLT-KRIMI Grabmal: Küstenkrimi (Nordseekrimi)",
+      "author": "Krinke Rehberg, Ilka Sehnert & Saga Storify",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/00/8e/64008e25-3e4a-205d-26aa-937a68dae00d/9788728535790.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1697909250"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit Krimis und Thrillern, das auf SYLT spielt."
+    },
+    {
+      "id": "anni-tote-2660",
+      "title": "Tote Fische fängt man schneller - Ein Küsten-Krimi - Mord an der Nordsee-Reihe, Band 1 (Ungekürzt)",
+      "author": "Annie de Vries",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a7/2f/48/a72f4809-6a3a-2bfa-c430-512edacd2bb1/9783987786402_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1732332660"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Krimireihe und ist daher ein Hörspiel."
+    },
+    {
+      "id": "chri-abge-2606",
+      "title": "Abgenagt - Kommissar Kempff kommt auf den Hund - Küsten-Krimi (Ungekürzt)",
+      "author": "Christian Gailus",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/7d/37/607d37dc-beea-03ee-887e-39f5f58c0729/9783838795188_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1527242606"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein ungekürztes Hörspiel, das den Kommissar Kempff in einem Küstenkrimi begleitet."
+    },
+    {
+      "id": "volk-dief-9132",
+      "title": "Die Flut - Ein Küstenkrimi - Ein Fall für Steve Cole-Reihe, Band 1 (Ungekürzt)",
+      "author": "Volker Dützer",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/49/12/244912fe-475d-3819-a553-917d7fad22c0/9783987789502_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1742629132"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein ungekürzter Band der Steve Cole-Reihe von Volker Dützer, der sich um ein Küstenkrimi dreht."
+    },
+    {
+      "id": "krin-nord-7994",
+      "title": "NORDSEEKRIMI – Aenne Feddersen und die verlorene Frau: Küstenkrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/cb/ae/5ccbae03-189a-b87f-19ee-a0e673ca1ae5/9788727175447.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1762797994"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel im Genre von Küstenkrimi mit Spannung und Spannung."
+    },
+    {
+      "id": "krin-nord-0468",
+      "title": "NORDSEEKRIMI – Aenne Feddersen und die Stille Nacht: Küstenkrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/ac/29/7dac2999-1a90-6947-b7b6-14a4681a86bd/9788727175461.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1766720468"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel/Hörbuch mit dem Titel 'NORDSEEKRIMI – Aenne Feddersen und die Stille Nacht: Küstenkrimi' von Krinke Rehberg im Krimigenre. Es handelt sich um ein Album auf Apple Music, das als Hörspiel/Hörbuch identifiziert wird."
+    },
+    {
+      "id": "krin-nord-5868",
+      "title": "NORDSEEKRIMI – Aenne Feddersen und das alte Testament: Küstenkrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/d3/de/6cd3ded2-75ea-b7f5-fad9-dff9ae844faf/9788727247878.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1805885868"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel/Hörbuch mit dem Titel 'NORDSEEKRIMI – Aenne Feddersen und das alte Testament: Küstenkrimi', das von Krinke Rehberg im Genre Krimis und Thriller produziert wurde."
+    },
+    {
+      "id": "krin-nord-2852",
+      "title": "NORDSEEKRIMI – Aenne Feddersen und der vergessene Tod: Küstenkrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/1a/da/4c1ada0e-1c53-af76-fa2b-9ddc320c846c/9788727175430.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1750262852"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Krimi entlang der Nordsee mit Aenne Feddersen und Krinke Rehberg."
+    },
+    {
+      "id": "mart-mord-8502",
+      "title": "Mord im Borkumer Watt: Ein Küstenkrimi: Hochspannung und ein düsteres Inselgeheimnis Hörbuch.",
+      "author": "Martin Nagel",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/af/e3/0cafe3f1-be21-af86-677c-aa2685987266/9783999932873.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1882328502"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörbuch über einen Krimi auf einer Insel mit Geheimnissen."
+    },
+    {
+      "id": "krin-sylt-4617",
+      "title": "SYLT-KRIMI Dünengrab: Küstenkrimi (Nordseekrimi)",
+      "author": "Krinke Rehberg & Saga Storify",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f4/51/edf451a8-b521-116e-ec24-696abdad71ec/4069828728714.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1831774617"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'SYLT-KRIMI Dünengrab: Küstenkrimi (Nordseekrimi)', das von Krinke Rehberg & Saga Storify produziert wurde und sich im Genre von Krimis und Thrillern bewegt."
+    },
+    {
+      "id": "volk-imst-8159",
+      "title": "Im Sturm - Ein Küstenkrimi - Ein Fall für Steve Cole-Reihe, Band 2 (Ungekürzt)",
+      "author": "Volker Dützer",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/cb/45/68cb45d4-ab51-cc3c-fe35-858a5d5bc002/9783987789557_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1747608159"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein ungekürztes Hörspiel aus der Steve Cole-Reihe, das sich auf einen Küstenkrimi konzentriert."
+    },
+    {
+      "id": "anni-mord-2465",
+      "title": "Mordesstund hat Gold im Mund - Ein Küsten-Krimi - Mord an der Nordsee-Reihe, Band 2 (Ungekürzt)",
+      "author": "Annie de Vries",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/ee/d9/cbeed9f6-044c-f770-8fba-ba9ea6156d39/9783987786532_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1737442465"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein ungekürzter Band der 'Mord an der Nordsee'-Reihe, eine Krimireihe, die Annie de Vries geschrieben hat. Es handelt sich um ein Hörspiel, das auf den deutschen iTunes-Markt ausgerichtet ist."
+    },
+    {
+      "id": "anne-soko-4756",
+      "title": "SoKo Nord - Mord auf Amrum: Küstenkrimi Nordseekrimi",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/45/71/3e4571bd-a7e4-cdd6-1e2b-a7cbde1489fb/4099995454383.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1775144756"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Kriminalroman, der auf der Insel Amrum spielt und sich um ein Mordfall handelt."
+    },
+    {
+      "id": "krin-nord-6131",
+      "title": "NORDSEEKRIMI – Aenne Feddersen und das Haus am Deich: Küstenkrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/c2/2f/b3c22f8d-729a-cbb7-deb5-5bc8f13fa332/9788727223025.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1789496131"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Krimis und Thriller, typisch für Hörspiele."
+    },
+    {
+      "id": "regi-insw-1508",
+      "title": "Ins Watt gebissen - Ino Tjarks & Co. ermitteln - Ein Küsten-Krimi, Band 1 (ungekürzt)",
+      "author": "Regine Kölpin",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4c/98/bf/4c98bfb6-c4dd-5281-5da3-8965a37a3f91/9783965192065_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1556081508"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält eine Krimiserie mit Spannung und Spannung. Es handelt sich um ein Hörspiel/Hörbuch, das auf Spannung und Spannung basiert."
+    },
+    {
+      "id": "anne-nord-5940",
+      "title": "Nordsee Opfer - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare, Band 5)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/6b/d5/906bd54a-5524-3602-e7dc-f8a199d5671b/4066339752672.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1687055940"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel der Serie 'Die Nordsee-Kommissare', das Spannung und Spannung auf der Nordsee bietet."
+    },
+    {
+      "id": "anni-dert-2419",
+      "title": "Der Tod schickt Blumen - Ein Küsten-Krimi - Mord an der Nordsee-Reihe, Band 3 (Ungekürzt)",
+      "author": "Annie de Vries",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/c4/9d/37c49db6-b60e-87c6-67d2-fc099c4603eb/9783987786556_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1742522419"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein ungekürztes Hörspiel der Mord an der Nordsee-Reihe, ein Küsten-Krimi mit Spannung und Spannung."
+    },
+    {
+      "id": "krin-nord-3655",
+      "title": "NORDSEEKRIMI - Aenne Feddersen und der stumme Zeuge: Küstenkrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/57/b0/c657b03e-94f5-40a3-a7dc-2699f5f545f8/9788727307770.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1853873655"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiel- und Hörbuchinhalte, was darauf hindeutet, dass es sich um Hörspiele oder Hörbücher handelt."
+    },
+    {
+      "id": "birg-mord-6548",
+      "title": "Mordnacht auf Rügen: Küstenkrimi (Lydia Westphal 9)",
+      "author": "Birger Brand",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/41/14/5c41140d-3752-544a-4ead-2167c5c519b3/4066339975354.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1718076548"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über ein Küstenkrimi, das auf Rügen spielt."
+    },
+    {
+      "id": "regi-derm-0773",
+      "title": "Der Möwenschiss-Mord - Ino Tjarks & Co. ermitteln - Ein Küsten-Krimi, Band 2 (ungekürzt)",
+      "author": "Regine Kölpin",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/b6/e1/a1b6e175-0569-9b1a-e082-6cd494240129/9783965193284_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1554910773"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält eine Hörspielfassung des Küsten-Krimis 'Der Möwenschiss-Mord', der von Ino Tjarks und Co. ermittelt wird."
+    },
+    {
+      "id": "anne-nord-6518",
+      "title": "Nordsee Mord – Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 1)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fa/07/d9/fa07d941-e5ab-99b7-25c7-bd535d5eb354/4066339399068.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1660516518"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspuren des Krimis 'Nordsee Mord', der Teil der 'Küsten-Kommissare' Serie ist, was auf ein Hörspiel/Hörbuch hindeutet."
+    },
+    {
+      "id": "anne-nord-7932",
+      "title": "Nordsee Angst - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 10)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/a0/66/55a066c4-5bc3-a354-e884-31c1a0a23f97/4099995443721.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1756317932"
+      },
+      "genres": [
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Nordsee Angst - Die Küsten-Kommissare: Küstenkrimi', das als Hörbuch auf iTunes verfügbar ist und sich im Genre des Kriminalromans bewegt."
+    },
+    {
+      "id": "anne-nord-7823",
+      "title": "Nordsee Spiel - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 9)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/2d/8f/5d2d8f26-792b-6400-506b-e05ecad07afe/4099995417067.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1748127823"
+      },
+      "genres": [
+        "Krimi",
+        "Thrillers",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album umfasst ein Hörspiel unter dem Titel 'Nordsee Spiel - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 9)' von Anne Amrum. Es wird als Belletristik eingestuft und enthält nur einen Track."
+    },
+    {
+      "id": "anne-nord-3365",
+      "title": "Nordsee Wahn - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 13)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/50/f6/6c50f692-bd47-9dc2-22b2-f7a5afb2d64b/4069828289659.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1805603365"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält das Hörspiel 'Nordsee Wahn - Die Küsten-Kommissare: Küstenkrimi' von Anne Amrum."
+    },
+    {
+      "id": "anne-nord-2808",
+      "title": "Nordsee Lüge- Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 8)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/87/ee/7e87ee0f-b7e4-cae6-0f7b-e402387018a3/4099995257885.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1729152808"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel aus der Serie 'Die Küsten-Kommissare', bekannt für Krimis und Abenteuer entlang der deutschen Nordseeküste."
+    },
+    {
+      "id": "anne-nord-5738",
+      "title": "Nordsee Magd - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 7)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/03/b4/9003b4b1-cbd1-f77e-8e38-e148e1eb237d/4066339858053.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1695715738"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Das Album handelt von einem Küstenkrimi im Stil der Nordsee-Kommissare, typisch für deutsche Hörspiele."
+    },
+    {
+      "id": "anne-nord-1966",
+      "title": "Nordsee Feuer- Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare, Band 6)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/2c/f9/4d2cf9db-1d62-2a1d-1418-b801ccde1367/4066339801158.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1691901966"
+      },
+      "genres": [
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Nordsee Feuer - Die Küsten-Kommissare: Küstenkrimi' von Anne Amrum enthält ein Hörspiel, das sich um den Krimi 'Küstenkrimi' in der Serie 'Die Nordsee-Kommissare' dreht."
+    },
+    {
+      "id": "nele-frie-4720",
+      "title": "FriesLandGier : Nordseekrimi - Küstenkrimi (Carsten Wolf und Fabiu Covaci)",
+      "author": "Nele Bruun",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/32/c4/0132c4eb-00a1-cbc1-e2c4-bfc7578eee4e/9783691282306.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1862464720"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel mit norddeutscher Krimiszene, das Spannung bietet."
+    },
+    {
+      "id": "anne-nord-1058",
+      "title": "Nordsee Braut - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 15)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/27/1a/1f271a6a-acc4-3708-72e3-11ed176452be/4069829228541.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1856961058"
+      },
+      "genres": [
+        "Küstenkrimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album beinhaltet ein Hörspiel, das Teil der 'Küsten-Kommissare'-Reihe ist und sich auf kriminelle Abenteuer an der Nordsee konzentriert."
+    },
+    {
+      "id": "anne-nord-0549",
+      "title": "Nordsee Atem - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 14)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/b2/58/6fb258fe-f7d5-a05e-c325-7859729b7979/4069828750043.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1833180549"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält eine Krimiserie mit Küstenkommissaren, die typisch für Hörspiele ist."
+    },
+    {
+      "id": "anne-nord-1863",
+      "title": "Nordsee Welle - Die Küsten-Kommissare: Küstenkrimi (Die Nordsee-Kommissare 16)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/fe/f6/bdfef656-147c-596b-dda6-4bdf412a2b53/4069829739917.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1890221863"
+      },
+      "genres": [
+        "Küstenkrimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel aus der Serie 'Die Nordsee-Kommissare' mit Anne Amrum."
+    },
+    {
+      "id": "arnd-kste-4713",
+      "title": "Küsten-Krimi-Serie: Marie Geisler ermittelt (Band 1-3) - Marie Geisler ermittelt (Ungekürzt)",
+      "author": "Arnd Rüskamp",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/ab/64/f6ab6415-d5c4-9684-8385-625162078c38/9783740826147_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1813974713"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält die erste bis dritte Staffel der Krimiserie \"Marie Geisler ermittelt\" von Arnd Rüskamp. Es handelt sich um ein Hörspiel/Hörbuch mit Krimielementen."
+    },
+    {
+      "id": "birg-tdli-3023",
+      "title": "Tödliches Rügen Die Leiche vom Nordufer: Küstenkrimi (Lydia Westphal 10)",
+      "author": "Birger Brand",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/c9/23/28c923c2-b215-023d-065a-6c3430417cf4/4099995393453.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1740903023"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Küstenkrimi mit Spannung und Spannung auf dem Rügen."
+    },
+    {
+      "id": "bcsc-gret-1592",
+      "title": "Gretchen Larssen und die Ostseeschuld: Küstenkrimi: Ein Fall für Gretchen Larssen Band 4",
+      "author": "B.C. Schiller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/31/1b/bb311b32-cb10-585d-8ad6-03123b034ffb/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1790241592"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Kriminalhörspiel-Band über einen Fall in der Ostsee mit Ermittlerinnen Gretchen Larssen."
+    },
+    {
+      "id": "bena-gehe-8375",
+      "title": "Geheimnisse der Düne: Küstenkrimi an der Nordsee",
+      "author": "BEN ARTS",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/77/f6/8e77f62d-cdd7-8dc4-c851-a6253337668a/9798318447198.png/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1811318375"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album bietet ein spannendes Küstenkrimi-Abenteuer an der Nordsee."
+    },
+    {
+      "id": "bcsc-schn-7905",
+      "title": "Schöne Tote: Inselkrimi - Küstenkrimi",
+      "author": "B. C. Schiller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/6a/65/ab6a65fc-07b9-a55c-0b01-5d2fc25eb2de/4066004800837.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1874387905"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album \"Schöne Tote: Inselkrimi - Küstenkrimi\" von B. C. Schiller enthält Krimis und Thriller, was auf ein Hörspiel oder Hörbuch hinweist. Es handelt sich um ein Album, das auf Apple Music verfügbar ist, was die Zuverlässigkeit der Einschätzung erhöht."
+    },
+    {
+      "id": "mart-mein-4084",
+      "title": "Mein Tod in der Sturmflut | Küstenkrimi Hörbuch - Ostfriesenmädchen-Reihe, Band 2 (Ungekürzt)",
+      "author": "Martina Bauer",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/40/91/c640915c-0059-2ebb-a060-65b21a42b2d5/9783690900973_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1840114084"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album handelt von einem Krimi, der in der Ostfriesenregion spielt."
+    },
+    {
+      "id": "birg-toda-4764",
+      "title": "Tod am Kreidefelsen: Ostseekrimi Küstenkrimi (Lydia Westphal 1)",
+      "author": "Birger Brand",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/3f/81/283f81bc-88a9-c9c8-9fde-060c7aa8fd64/4069828023659.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1785894764"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album handelt von einem Ostseekrimi, der in einem Küstenkrimi angesiedelt ist."
+    },
+    {
+      "id": "frid-dieg-6096",
+      "title": "Die große Küsten Krimi-Box - Ein dänisches Verbrechen: Gitte Madsen ermittelt + Tod in der Marsch: Hinterm Deich Krimi (ungekürzt)",
+      "author": "Frida Gronover & Hannes Nygaard",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/78/32/477832cd-49ac-d054-ac5a-d83a632e5ca5/4066004501772_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1767436096"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist eine 'Krimi-Box', die Hörspiele umfasst, die auf 'Apple Music' verfügbar sind."
+    },
+    {
+      "id": "fran-tato-0657",
+      "title": "Tatort Ostsee : Falsche Fährten. Küstenkrimi (Ostseekrimi Wismar)",
+      "author": "Frank Esser",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/c4/18/9cc418f5-d61a-aaff-0024-bbd968a76247/9783691280456.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1823660657"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Krimi-Album über den Tatort Ostsee mit Frank Esser, das auf Spannung und Spannung setzt."
+    },
+    {
+      "id": "birg-rgen-7454",
+      "title": "Rügenhass - Die Tote im Strandhotel: Ostseekrimi Küstenkrimi (Lydia Westphal 15)",
+      "author": "Birger Brand",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/e6/ce/9ae6ce3f-5738-6439-6d2b-18783833a9a5/4069828404908.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1813247454"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Ostseekrimi, der in einem Strandhotel spielt und von Lydia Westphal erzählt wird."
+    },
+    {
+      "id": "birg-rgen-3978",
+      "title": "Rügenangst - Tod im Dünenhaus: Ostseekrimi Küstenkrimi (Lydia Westphal 16)",
+      "author": "Birger Brand",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/dc/00/08dc0010-06e0-42a0-ed95-25df9d2cd6be/4069829022392.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1845393978"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Ostseekrimi mit Spannung und Spannung im Dünenhaus."
+    },
+    {
+      "id": "birg-brut-0358",
+      "title": "Brutales Rügen – Ein Grab im Norden: Ostseekrimi Küstenkrimi (Lydia Westphal 13)",
+      "author": "Birger Brand",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/6d/81/666d81b3-3838-3b95-f602-e44c4f9c1979/4069829007788.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1844380358"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Ostseekrimi von Lydia Westphal, das von Birger Brand gelesen wird."
+    },
+    {
+      "id": "birg-rgen-3317",
+      "title": "Rügenblut - Die Tote vom Nordstrand: Ostseekrimi Küstenkrimi (Lydia Westphal 14)",
+      "author": "Birger Brand",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/df/07/d5df074a-58bd-4f93-91de-53f6dfa3887a/4069828289758.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1805603317"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Ostseekrimi für Jugendliche über Lydia Westphal, der Spannung und Spannung bietet."
+    },
+    {
+      "id": "livh-nord-0560",
+      "title": "Nordseekrimi Nipptide: Ein mitreißender Küstenkrimi mit spannenden Ermittlungen an der Nordsee - Krimi Empfehlung",
+      "author": "Liv Holm",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/24/1a/56241a15-7b00-f446-ef17-097f6c643a5b/9783757605681.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1714940560"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über Ermittlungen an der Nordsee."
+    },
+    {
+      "id": "dana-derm-0308",
+      "title": "Der Matjes-Mörder auf Helgoland - Ein Fall für die Insel-Kripo Helgoland - Küstenkrimi, Band 2 (ungekürzt)",
+      "author": "Dana Düne",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/9d/3f/439d3fb6-4d33-5111-3a70-08b0e290ac56/4066004734644_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1767850308"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Küstenkrimi um einen Matjes-Mörder auf Helgoland, der von der Insel-Kripo gelöst werden muss."
+    },
+    {
+      "id": "rita-dert-6727",
+      "title": "Der Tote auf dem Friedhof - Hansen & Sturm ermitteln - Küstenkrimi - Ostseekrimi - Inselkrimi, Band 1 (ungekürzt)",
+      "author": "Rita Hansen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/6b/17/136b17ea-fbe6-1223-80da-01f661674ed5/4066004761275_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1815956727"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Kriminalhörspiel, das sich auf eine Reihe von Kriminalfällen konzentriert, die von der Ermittlerin Hansen und dem Kollegen Sturm gelöst werden. Die Handlung spielt auf verschiedenen Orten in der Ostsee und auf einer Insel, was zu einer abwechslungsreichen Krimiserie führt."
+    },
+    {
+      "id": "livh-nord-4594",
+      "title": "Nordseekrimi Der Deichläufer: Ein mitreißender Küstenkrimi mit spannenden Ermittlungen an der Nordsee - Krimi Empfehlung",
+      "author": "Liv Holm",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/33/36/9633369e-7067-307b-a39b-5889a7f4ba3d/9783757613914.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1769284594"
+      },
+      "genres": [
+        "Krimi",
+        "Thrillers"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Küstenkrimi an der Nordsee mit Ermittlungen und Spannung."
+    },
+    {
+      "id": "benn-tdli-1020",
+      "title": "Tödliche Stille an der Rügener Steilküste: Ein Küstenkrimi Hörbuch über Verrat und Rache",
+      "author": "Benn Wolf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/f9/62/12f962c4-fdfc-352f-154b-e25f9abf0252/9783999906553.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1877331020"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörbuch über einen Küstenkrimi mit Verrat und Rache an der Rügener Steilküste."
+    },
+    {
+      "id": "rola-dasg-9405",
+      "title": "Das Geheimnis der letzten Fähre nach Rügen: Ein fesselnder Küstenkrimi mit Kommissar Brandt",
+      "author": "Roland Stofer",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/d0/90/40d090ec-1924-26a1-34e9-7bf08e0b9b36/9783999900452.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1876519405"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält das Hörspiel 'Das Geheimnis der letzten Fähre nach Rügen: Ein fesselnder Küstenkrimi mit Kommissar Brandt'. Es handelt sich um ein spannendes Hörspiel, das sich auf ein spannendes Krimigenre konzentriert."
+    },
+    {
+      "id": "stef-frie-8918",
+      "title": "Friesenfluch: Ostfriesen-Krimi",
+      "author": "Stefan Wollschläger, Krimi und Thriller Hörbücher & Hörbuch Bestseller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/08/c9/b208c959-6727-8083-e917-1490dfe4a65f/4069828649910.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1825148918"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Krimis und Thriller Hörbuch von Stefan Wollschläger mit dem Titel \"Friesenfluch: Ostfriesen-Krimi\"."
+    },
+    {
+      "id": "livh-nord-5396",
+      "title": "Nordseekrimi Queller: Ein mitreißender Küstenkrimi mit spannenden Ermittlungen an der Nordsee - Krimi Empfehlung",
+      "author": "Liv Holm",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/2d/75/e12d75df-8e2a-5d5c-7afd-e304dc60e678/9783757624279.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1805175396"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Küstenkrimi mit Ermittlungen an der Nordsee."
+    },
+    {
+      "id": "rita-klei-8377",
+      "title": "Kleine Morde unter Freunden - Hansen & Sturm ermitteln - Küstenkrimi - Ostseekrimi - Inselkrimi, Band 2 (ungekürzt)",
+      "author": "Rita Hansen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/e9/86/71e98663-b2b6-3795-d636-6769e4176cd4/4066004761282_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1825148377"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Krimis und Thrillers, was auf ein Hörspiel oder Hörbuch hindeutet."
+    },
+    {
+      "id": "livh-nord-4334",
+      "title": "Nordseekrimi Buhne: Ein mitreißender Küstenkrimi mit spannenden Ermittlungen an der Nordsee - Krimi Empfehlung",
+      "author": "Liv Holm",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/02/8a/18028a4a-b3ed-ca60-e615-487061407094/9783757624361.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1846034334"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Küstenkrimi mit Ermittlungen an der Nordsee."
+    },
+    {
+      "id": "anja-mord-3513",
+      "title": "Morde an Ostfrieslands Küste - Tod im Auricher Zwielicht: Ein Küstenkrimi (Ermittlungen an der Küste 1) (Unabridged)",
+      "author": "Anja Urban",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/fe/f3/0ffef311-9ad8-b3c2-5233-91dd0a65823e/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1826633513"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Küstenkrimi mit Spannung und Spannung rund um Ostfrieslands Küste."
+    },
+    {
+      "id": "livh-nord-6430",
+      "title": "Nordseekrimi Schlickschlitten: Ein mitreißender Küstenkrimi mit spannenden Ermittlungen an der Nordsee",
+      "author": "Liv Holm",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/e4/44/45e444f6-584d-e36d-3048-6ef06f2b371b/9783757621476.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1792416430"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Krimi an der Nordsee mit spannenden Ermittlungen."
+    },
+    {
+      "id": "frid-eind-4038",
+      "title": "Ein dänisches Verbrechen - Gitte Madsen ermittelt + Tod in der Marsch - Hinterm Deich Krimi: Die große Küsten Krimi-Box",
+      "author": "Frida Gronover & Hannes Nygaard",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/61/26/bf61262e-99e3-1e26-8c27-f7a29d2093bb/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1793164038"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Krimis und Thriller Geschichten, die als Hörspiel oder Hörbuch formatiert sind."
+    },
+    {
+      "id": "stef-frie-5249",
+      "title": "Friesenmut: Ostfriesen-Krimi",
+      "author": "Stefan Wollschläger, Krimi und Thriller Hörbücher & Hörbuch Bestseller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/90/ed/2390edd2-4b24-cf2b-0d30-53a0866a2c3a/4069828625877.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1823255249"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Ostfriesen-Krimi von Stefan Wollschläger im Hörbuchformat."
+    },
+    {
+      "id": "krin-sylt-6674",
+      "title": "SYLTKRIMI Hünengrab - Küstenkrimi: Nordseekrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/c3/68/6ec3684b-049f-3049-9b3d-f32759fb115f/9788727247816.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1837696674"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'SYLTKRIMI Hünengrab - Küstenkrimi: Nordseekrimi' von Krinke Rehberg. Es gehört zum Genre Krimis und Thriller und bietet eine spannende Hörerfahrung."
+    },
+    {
+      "id": "ella-nord-3327",
+      "title": "Nordgift - Inselpolizei Amrum-Föhr - Küstenkrimi Nordsee, Band 1 (ungekürzt)",
+      "author": "Ella Hansen & Tom Hansen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/60/f2/2060f2d6-a876-16d1-1163-709779344d6a/9783965194991_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1675873327"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Kriminal-Thriller, der auf der Insel Amrum-Föhr spielt."
+    },
+    {
+      "id": "krin-sylt-0310",
+      "title": "SYLTKRIMI Grabesweg - Küstenkrimi: Nordseekrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/2d/28/802d2829-ab1d-0052-2f3b-2c77e73b6411/9788727247830.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1881670310"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Krimis und Thriller Album mit norddeutscher Atmosphäre."
+    },
+    {
+      "id": "krin-sylt-1731",
+      "title": "SYLTKRIMI Inselgrab - Küstenkrimi: Nordseekrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/12/27/ef1227cb-9270-a925-6e97-453a8be7b692/9788727247793.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1814381731"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Krimis und Thriller, die typischerweise Hörspiele oder Hörbücher sind."
+    },
+    {
+      "id": "stef-frie-8760",
+      "title": "Friesentraum: Ostfriesen-Krimi",
+      "author": "Stefan Wollschläger, Krimi und Thriller Hörbücher & Hörbuch Bestseller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/90/f4/3090f4f4-4dda-fdeb-2c16-4d69d03ea491/4069828649897.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1825148760"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Ostfriesen-Krimi, das als Hörbuch oder Hörspiel verfügbar ist."
+    },
+    {
+      "id": "nele-nord-5445",
+      "title": "NordOstWut : Flensburgkrimi - Küstenkrimi (Anne Anders und Hendryk Larsson)",
+      "author": "Nele Bruun",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/86/a0/4a86a011-7176-165e-9a5a-69af55112a73/9783691282320.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1862465445"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel über den Flensburgkrimi von Anne Anders und Hendryk Larsson."
+    },
+    {
+      "id": "krin-sylt-1396",
+      "title": "SYLTKRIMI: Band 11-15",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/43/d9/7443d924-bcb9-a4a4-43ec-78a1e5957da7/9788727298764.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1860121396"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Krimis und Thriller, typisch für Hörspiele oder Hörbücher."
+    },
+    {
+      "id": "krin-sylt-1976",
+      "title": "SYLTKRIMI: Band 1–5",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/e5/ed/f8e5ed15-6eb6-071f-1f7e-f4f8ba3cf7a3/9788727282602.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1834951976"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album umfasst Krimis und Thriller und passt somit gut zu Hörspielen oder Hörbüchern dieser Genres."
+    },
+    {
+      "id": "krin-sylt-6242",
+      "title": "SYLTKRIMI: Band 6-10",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/e4/1e/70e41e5e-f876-5d57-6fad-fb6e8447cfe4/9788727284033.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1837696242"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Krimis und Thriller, typisch für deutsche Hörspiele oder Hörbücher."
+    },
+    {
+      "id": "hann-dasf-9451",
+      "title": "Das Flüstern der Nordsee",
+      "author": "Hannah Husum & Küstenkrimi: Behrens & Winter ermitteln",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c2/84/97/c284974c-dee5-9d4b-c747-748e5cbb5557/9783987150388.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1690119451"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album basiert auf einem Hörspiel, das Krimis und Thriller thematisiert."
+    },
+    {
+      "id": "eval-kste-5625",
+      "title": "Küstenlicht - Die Inselkommissarin: Ostsee Krimi",
+      "author": "Eva Lirot & Saga Storify",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/58/7f/45587f86-ca98-358e-88b4-beea9aa57b00/9788728532973.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1682425625"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Küstenlicht - Die Inselkommissarin: Ostsee Krimi' und gehört zur Kategorie Krimis und Thriller. Es könnte als spannendes und fesselndes Hörspiel beschrieben werden."
+    },
+    {
+      "id": "kris-schn-9335",
+      "title": "Schnappt Scholle. Ein Küstenkrimi: Thies Detlefsen 11",
+      "author": "Krischan Koch",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/c3/8d/cfc38d15-52ad-052a-cbb3-d80da3cdcea1/rm_image.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1677189335"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält den Titel 'Schnappt Scholle. Ein Küstenkrimi: Thies Detlefsen 11', was darauf hindeutet, dass es sich um ein Hörspiel handelt."
+    },
+    {
+      "id": "heik-kste-0779",
+      "title": "Küstenschrei: Fehmarn Krimi (Kommissare Westermann und Hartwig 1)",
+      "author": "Heike Meckelmann",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/21/15/0c/21150cc8-7521-dde8-31f7-b4cb638e30a3/9788711805831.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1487260779"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel-Album mit Spannung und Spannung in einem küstennahen Ermittlungsfall."
+    },
+    {
+      "id": "heik-kste-3340",
+      "title": "Küstenschatten: Fehmarn Krimi (Kommissare Westermann und Hartwig 2)",
+      "author": "Heike Meckelmann",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/18/28/e3182880-87ef-6ef6-01e9-d942284b15a2/9788728210574.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1606523340"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel über Kriminalfälle auf Fehmarn mit Ermittlern Westermann und Hartwig."
+    },
+    {
+      "id": "heik-kste-5810",
+      "title": "Küstenlüge: Fehmarn-Krimi (Kommissare Westermann und Hartwig 5)",
+      "author": "Heike Meckelmann",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fb/38/6a/fb386a65-eefe-a92e-273d-9889e3fbd01a/9788726387698.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1493545810"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Krimi-Hörspiel um Kommissare Westermann und Hartwig auf Fehmarn."
+    },
+    {
+      "id": "krin-sylt-8918",
+      "title": "SYLTKRIMI Geistergrab - Küstenkrimi: Nordseekrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/e1/0a/d5e10ad5-d096-fa95-2649-976b2a975c4e/9788727247809.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1832678918"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album bietet ein Krimiszenario mit Spannung und Spannung."
+    },
+    {
+      "id": "heik-kste-2753",
+      "title": "Küstensturm: Fehmarn-Krimi (Kommissare Westermann und Hartwig 6)",
+      "author": "Heike Meckelmann",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/d4/0f/92d40f7d-77f0-62fa-2554-b8699da5a17e/9788728210598.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1626482753"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Küstensturm: Fehmarn-Krimi' ist ein Hörspiel, das den Krimi- und Thriller-Genre zugeordnet wird. Es handelt sich um einen Roman mit Krimis und Thrillern, der von Heike Meckelmann gelesen wird."
+    },
+    {
+      "id": "heik-kste-5828",
+      "title": "Küstenangst: Fehmarn-Krimi (Kommissare Westermann und Hartwig 7)",
+      "author": "Heike Meckelmann",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d4/64/5e/d4645e16-63ef-5bcc-c426-3409ce5f68ef/9788728210604.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1666035828"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Krimi um Kommissare Westermann und Hartwig, der auf Fehmarn spielt."
+    },
+    {
+      "id": "anet-nord-1010",
+      "title": "Nordlicht - Die Tote im Küstenfeuer",
+      "author": "Anette Hinrichs",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/3a/7a/5c3a7aa6-5306-f35d-0605-2f738b5e3933/9783837152357.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1614751010"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album beschreibt ein spannendes Hörspiel, das ein rätselhaftes Verbrechen in einer Küstenstadt behandelt, das von mystischen Fenstern und düsteren Geheimnissen geprägt ist."
+    },
+    {
+      "id": "corn-scha-3769",
+      "title": "Schatten über Föhr | Ein spannendes Nordsee-Krimi-Hörbuch über Mord, Ermittlungen und das raue Inselflair - Ein Nordseekrimi-Reihe, Band 4 (Ungekürzt)",
+      "author": "Cornelia Härtl",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/76/27/3f762748-e783-32c2-6e3f-e199d0d5c87c/9783960878308_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1861533769"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Nordsee-Krimi-Hörbuch über Mord, Ermittlungen und das raue Inselflair - Ein Nordseekrimi-Reihe, Band 4 (Ungekürzt)."
+    },
+    {
+      "id": "krin-sylt-6232",
+      "title": "SYLTKRIMI Regengrab: Nordseekrimi (KÜSTENKRIMI)",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/be/d7/a9bed72d-a30c-a457-eceb-48cc41d779e2/9788727175393.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1784506232"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein norddeutscher Krimi, der im Stil einer Krimiserie geschrieben und von Krinke Rehberg erzählt wird."
+    },
+    {
+      "id": "ella-nord-5948",
+      "title": "Nordzorn - Inselpolizei Amrum-Föhr - Küstenkrimi Nordsee, Band 4 (ungekürzt)",
+      "author": "Ella Hansen & Tom Hansen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/8e/04/fc8e0480-e66a-05d3-03aa-4be3ad92fa59/9783965195028_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1690155948"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Küstenkrimi aus der Nordsee, der auf Deutsch erzählt wird."
+    },
+    {
+      "id": "ella-nord-1698",
+      "title": "Nordopfer - Inselpolizei Amrum-Föhr - Küstenkrimi Nordsee, Band 2 (ungekürzt)",
+      "author": "Ella Hansen & Tom Hansen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/a2/87/d3a287a6-f58e-8d6f-d498-535d03923a10/9783965195004_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1678481698"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel, das sich um ein Küstenkrimi in der Nordsee dreht."
+    },
+    {
+      "id": "ella-nord-2273",
+      "title": "Nordrache - Inselpolizei Amrum-Föhr - Küstenkrimi Nordsee, Band 3 (ungekürzt)",
+      "author": "Ella Hansen & Tom Hansen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/c0/29/a9c0290c-59e9-11be-562e-356a47bee0e4/9783965195011_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1682962273"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Kriminalhörspiel aus der Reihe \"Inselpolizei Amrum-Föhr\", das auf der Nordsee spielt."
+    },
+    {
+      "id": "krin-sylt-8230",
+      "title": "SYLTKRIMI Grabesruhe: Nordseekrimi (KÜSTENKRIMI)",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/ab/26/f8ab26c1-cfb3-bb99-b54d-40ae9b2a022f/9788727175423.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1801688230"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Krimi-Album über das Grab der Nordsee, das auf einer Küsteninsel spielt."
+    },
+    {
+      "id": "heik-kste-4995",
+      "title": "Küstendämon: Fehmarn-Krimi (Kommissare Westermann und Hartwig 3)",
+      "author": "Heike Meckelmann",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/72/39/84/723984c3-ecc7-8c74-cf07-ed317dd67853/4066339456747.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1665214995"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel aus der Krimiserie um Kommissare Westermann und Hartwig, basierend auf dem Buch 'Küstendämon: Fehmarn-Krimi'."
+    },
+    {
+      "id": "nele-nord-2520",
+      "title": "NordOstAngst : Flensburg-Krimi (Anne Anders und Hendryk Larsson)",
+      "author": "Nele Bruun",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/ce/b0/c8ceb024-2ca5-5a23-7193-699baf52ce30/9783987858093.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1794522520"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album \"NordOstAngst: Flensburg-Krimi\" von Nele Bruun enthält ein Hörspiel, das sich um ein Kriminalfall in Flensburg dreht."
+    },
+    {
+      "id": "eval-kste-3350",
+      "title": "KÜSTENBLICK: Ostseekrimi - Inselkrimi (Die Kommissarin auf der Insel 5)",
+      "author": "Eva Lirot & Sonja Heuser",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/ae/cd/5aaecdb1-3dca-1142-a633-9f65cc7e5aea/4099995334654.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1735463350"
+      },
+      "genres": [
+        "Krimi",
+        "Thrillers"
+      ],
+      "chapters": [],
+      "description": "Ein Ostseekrimi um Kommissarin auf einer Insel, für Hörer spannend und spannend."
+    },
+    {
+      "id": "krin-sylt-6068",
+      "title": "SYLTKRIMI Wintergrab: Nordseekrimi (KÜSTENKRIMI)",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/92/a4/8892a4dc-485d-4b88-1306-611de86df515/9788727175409.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1784506068"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Krimisoundtrack mit norddeutscher Atmosphäre, der sich auf Kriminalfälle in der Nordsee konzentriert."
+    },
+    {
+      "id": "krin-sylt-9801",
+      "title": "SYLTKRIMI Grablicht: Nordseekrimi (KÜSTENKRIMI)",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/70/e1/9670e140-3722-7c8d-8c17-640e4c4bdcdd/9788727175416.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1798539801"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel über einen Nordseekrimi, das im Genre der Küstenkrimis angesiedelt ist."
+    },
+    {
+      "id": "lars-hall-5855",
+      "title": "Halligtod - Küstenkrimi (ungekürzt)",
+      "author": "Lars Olsen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f7/9a/3e/f79a3ec5-1038-c0c6-c5b9-aa36f7394292/4066004514550_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1719685855"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein ungekürztes Album von Lars Olsen, das sich um den Genre Krimis und Thriller dreht."
+    },
+    {
+      "id": "nele-frie-6122",
+      "title": "FriesLandFang : Nordseekrimi (Carsten Wolf und Fabiu Covaci)",
+      "author": "Nele Bruun",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/4b/d6/784bd695-52ab-33bc-1c91-a10e8a5c280e/9783987858086.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1790436122"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel, das sich um ein Verbrechen in der Nordsee dreht."
+    },
+    {
+      "id": "anne-nord-2968",
+      "title": "Nordsee Übel - Die Küsten-Kommissare (Die Nordsee-Kommissare 12)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/91/4d/3e914d75-81ce-e917-df4f-c800d1cd6cdc/4057664961945.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1782372968"
+      },
+      "genres": [
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album beinhaltet Hörspiele im Genre Küstenkrimi mit Spannung und Spannung auf der Nordsee."
+    },
+    {
+      "id": "anne-nord-9036",
+      "title": "Nordsee Kälte - Die Küsten-Kommissare (Die Nordsee-Kommissare 11)",
+      "author": "Anne Amrum",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/10/39/ee1039a6-f198-5b29-cb53-a97aad9d224b/4099995454536.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1775139036"
+      },
+      "genres": [
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Nordsee Kälte - Die Küsten-Kommissare' ist ein Hörspiel, das Teil der Serie 'Die Nordsee-Kommissare' ist und den Krimi-Genre zugeordnet wird."
+    },
+    {
+      "id": "krin-sylt-5444",
+      "title": "SYLTKRIMI Seegrab - Küstenkrimi: Nordseekrimi",
+      "author": "Krinke Rehberg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/42/92/fe4292d2-3760-4d55-c47c-06448b58a84c/9788727247823.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1853925444"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel, das im Genre Krimis und Thriller angesiedelt ist und auf dem Thema Küstenkrimi basiert."
+    },
+    {
+      "id": "stef-mord-2019",
+      "title": "Mord im Watt : SoKo Küste - Nordseekrimi (SoKo Küste)",
+      "author": "Stefanie Ross",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/2a/84/b62a8475-c845-78be-7bff-3e0fa6a4722b/9783987856297.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1802162019"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein norddeutscher Krimi um die Küstenpolizei, der Spannung und Spannung versprüht."
+    },
+    {
+      "id": "evaj-spur-3508",
+      "title": "Spur ins Dunkel - Küstenmord, Teil 5 (Ungekürzt)",
+      "author": "Eva Jensen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/8c/5a/0b8c5ade-c3e9-e9f2-49c5-997e1014c884/9783754019597_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1813843508"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein ungekürztes Album im Genre Krimis und Thriller, das möglicherweise ein deutsches Hörspiel oder Hörbuch ist, das auf Apple Music verfügbar ist."
+    },
+    {
+      "id": "evaj-dasl-8308",
+      "title": "Das letzte Lied - Küstenmord, Teil 1 (Ungekürzt)",
+      "author": "Eva Jensen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ea/08/59/ea08598b-f877-7514-07af-8d4603a0de74/9783754005538_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1626478308"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album beinhaltet Krimis und Thriller, was auf ein Hörspiel/Hörbuch hindeutet."
+    },
+    {
+      "id": "evaj-kein-8609",
+      "title": "Kein Wort zu viel - Küstenmord, Teil 2 (Ungekürzt)",
+      "author": "Eva Jensen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9d/44/96/9d44965c-6ceb-d30e-afce-f0b59edfbde2/9783754005545_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1656078609"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein ungekürztes Hörspiel aus der Krimiserie 'Küstenmord', Teil 2, von Eva Jensen, das Thriller-Elemente enthält."
+    },
+    {
+      "id": "anet-nord-0596",
+      "title": "Nordlicht - Die Tote im Küstenfeuer",
+      "author": "Anette Hinrichs",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/96/52/469652de-6eb7-8ca4-e367-c74c0deca782/9783837152340.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1557590596"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über ein mysteri?ses Verschwinden am Meer."
+    },
+    {
+      "id": "hann-dert-9609",
+      "title": "Der Tote auf der Bohrinsel",
+      "author": "Hannah Husum & Küstenkrimi: Behrens & Winter ermitteln",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/5a/d9/a15ad9a2-78f3-147d-1214-b0056be49fa1/9783987150418.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1760709609"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Der Tote auf der Bohrinsel' von Hannah Husum und dem Küstenkrimi-Duo Behrens & Winter enthält eine Krimiserie, die typisch für Hörspiele ist."
+    },
+    {
+      "id": "lars-tdli-6695",
+      "title": "Tödlicher Nebel: Die Küstenmorde – Ein Fall für Erik Hansen | Band 1 – Ein Nordsee-Krimi",
+      "author": "Lars Holm",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/63/44/866344df-ace8-dc76-159a-02353474f07a/9783999935126.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1884176695"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Nordsee-Krimi mit Erik Hansen."
+    },
+    {
+      "id": "evaj-dieu-9650",
+      "title": "Die unsichtbaren Toten - Küstenmord, Teil 4 (Ungekürzt)",
+      "author": "Eva Jensen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/79/c1/cc/79c1cc0d-7652-8b93-584d-07ea8bf41968/9783754013113_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1735319650"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Die unsichtbaren Toten - Küstenmord, Teil 4 (Ungekürzt)' von Eva Jensen ist ein Hörspiel im Genre Krimis und Thriller. Es handelt sich um ein ungekürztes Hörspielalbum auf Apple Music."
+    },
+    {
+      "id": "eval-kste-6465",
+      "title": "KÜSTENSPIEL: Ostseekrimi - Inselkrimi (Die Kommissarin auf der Insel 4)",
+      "author": "Eva Lirot",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/41/57/2a/41572a8e-7994-75b4-ba4c-f74bd66f223e/4099995280227.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1731086465"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Ostseekrimi mit Spannung auf einer Insel."
+    },
+    {
+      "id": "eval-kste-4546",
+      "title": "KÜSTENSTERN: Ostseekrimi - Weihnachtskrimi (Die Kommissarin auf der Insel, Band 6)",
+      "author": "Eva Lirot & Sonja Heuser",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/43/9e/24439eec-83a2-80fa-dc39-84e1db0cd2bf/4099995374674.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1739394546"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Ostseekrimi mit einer Kommissarin, das sich auf der Insel spielt."
+    },
+    {
+      "id": "benn-diet-8717",
+      "title": "Die tödliche Stille im Rügen Leuchtturm: Ein fesselnder Inselkrimi an der stürmischen Ostsee",
+      "author": "Benn Wolf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/f0/26/47f02680-21b3-35bf-2ea0-c30c55787db8/9783999945231.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1896238717"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Inselkrimi an der Ostsee."
+    },
+    {
+      "id": "benn-tote-9230",
+      "title": "Toter Stammgast: Inselkrimi auf Rügen: Ein unnatürlicher Tod, keine Spuren. Hannah Thomsens schwerster Fall.",
+      "author": "Benn Wolf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/84/0f/23840ff2-ef04-108e-d270-bc558337b61d/9783999945040.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "6766209230"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Toter Stammgast', das sich um einen Krimi auf Rügen handelt."
+    },
+    {
+      "id": "cori-fisc-9799",
+      "title": "Fischland-Mord",
+      "author": "Corinna Kastner & Agnes Mann",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/7d/8d/a27d8d5e-a864-0bd2-c5de-b7ff535b59f2/4066339397385.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1658699799"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Album, das sich auf Krimis und Thriller spezialisiert und von bekannten deutschen Stimmen vorgetragen wird, deutet eindeutig auf ein Hörspiel oder Hörbuch hin."
+    },
+    {
+      "id": "eval-kste-1721",
+      "title": "KÜSTENRING: Ostseekrimi - Inselkrimi (Die Kommissarin auf der Insel 8)",
+      "author": "Eva Lirot & Sonja Heuser",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/cd/84/43cd8423-80e9-3d06-7adf-87eaa58caa32/4099995680072.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1763041721"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Ostseekrimi, das als Hörspiel veröffentlicht wurde und zur Hörbuchkategorie gehört."
+    },
+    {
+      "id": "kris-dnen-8547",
+      "title": "Dünentoddebakel - Nordsee-Inselkrimi mit Fischer Knut - Knut ermittelt auf Langeoog, Teil 1 (Ungekürzt)",
+      "author": "Kris Vedder",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/b2/f4/65b2f46f-ab05-0298-b8f7-4df0bbb5d3b3/9783754022283_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1855488547"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein ungekürzter Krimi-Thriller mit Fischer Knut, der auf Langeoog ermittelt, typisch für deutsche Hörspiele."
+    },
+    {
+      "id": "stef-kste-9881",
+      "title": "Küstenfeuer: Nordsee-Thriller",
+      "author": "Stefan Wollschläger, Krimi und Thriller Hörbücher & Hörbuch Bestseller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/cc/20/c6cc2091-c3d0-2ba9-44be-55965381ef1c/4069829066105.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1848939881"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Album, das sich auf Krimis und Thriller konzentriert, weist darauf hin, dass es sich um ein Hörspiel oder Hörbuch handelt."
+    },
+    {
+      "id": "eric-dask-0768",
+      "title": "Das Küstengrab",
+      "author": "Eric Berg",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/12/3c/e5123cb7-225f-2a14-6dca-f28dd00ae309/9783837128567.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1435900768"
+      },
+      "genres": [
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über kriminelle Machenschaften an der Küste."
+    },
+    {
+      "id": "bcsc-gret-1788",
+      "title": "Gretchen Larssen und der Küstenmörder",
+      "author": "B.C. Schiller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/7e/c2/497ec26b-dcd3-8354-0812-c5ac50975cd1/4066004800554.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1874351788"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält eine Krimiserie mit Spannung und Thriller-Elementen, die typisch für Hörspiele ist."
+    },
+    {
+      "id": "jona-diek-6148",
+      "title": "Die Küstenkommissarin 2. Tod in der Bucht",
+      "author": "Jonas Brandt & Die Küstenkommissarin",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/91/83/a991832a-58c1-7737-59dc-ab705d33b377/9783837394795.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1697396148"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel aus der Serie \"Die Küstenkommissarin\", das auf Spannung und Spannung im Küstenmilieu abzielt."
+    },
+    {
+      "id": "jona-diek-5687",
+      "title": "Die Küstenkommissarin 1. Der Tote am Leuchtturm",
+      "author": "Jonas Brandt & Die Küstenkommissarin",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/5d/ef/db5def77-6e23-c703-0c52-d43a2d1f5f3c/9783837394818.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1697395687"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel basierend auf dem Genre Krimi mit Fokus auf Küstenkrimis, wie es die Titel suggerieren."
+    },
+    {
+      "id": "cari-nord-2185",
+      "title": "Nordseenächte : Die Küstenkommissare und der Todestag - Krimi (Elin Bertram ermittelt)",
+      "author": "Carina Lund",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/4f/a7/b14fa72c-3f7a-76e6-59f6-2290148f7d94/9783691281293.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1881662185"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel der Serie 'Die Küstenkommissare' um Kommissarin Elin Bertram, das auf mysteriösen Ereignissen an der Nordsee basiert."
     }
   ]
 }
