@@ -139,6 +139,19 @@
       "chapters": []
     },
     {
+      "id": "1148122350",
+      "title": "Folge 7: Tina in Gefahr",
+      "episodeNumber": 7,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/99/8a/f7998adf-40a1-1454-93c3-438d57c35fc2/190295911270.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Hörspiel von Bibi und Tina, das auf Abenteuer und Fantasie im Kinderalter basiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1148122350"
+      },
+      "chapters": []
+    },
+    {
       "id": "1148116997",
       "title": "Folge 8: Der Hufschmied",
       "episodeNumber": 8,
@@ -1309,6 +1322,19 @@
       "chapters": []
     },
     {
+      "id": "1149443362",
+      "title": "Folge 71: Falsches Spiel mit Alex",
+      "episodeNumber": 71,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/2a/15/222a15e3-cce1-13d2-6674-b09430482a84/190295908201.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspielalbum mit 28 Folgen, das spannende Geschichten für Kinder und Jugendliche bietet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1149443362"
+      },
+      "chapters": []
+    },
+    {
       "id": "1149454309",
       "title": "Folge 72: Der geheimnisvolle Falke",
       "episodeNumber": 72,
@@ -1721,6 +1747,19 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1581612928"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1587025830",
+      "title": "Folge 103: Die Schlossrenovierung",
+      "episodeNumber": 103,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/2c/fc/592cfc5b-bef8-11d3-5d30-f35480f7475c/190296432309.jpg/100x100bb.jpg",
+      "description": "Das Album 'Folge 103: Die Schlossrenovierung' von Bibi und Tina ist ein Hörspiel, das sich auf Kinder und Jugendstücke konzentriert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1587025830"
       },
       "chapters": []
     },
@@ -2206,45 +2245,6 @@
       "chapters": []
     },
     {
-      "id": "1587025830",
-      "title": "Folge 103: Die Schlossrenovierung",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/2c/fc/592cfc5b-bef8-11d3-5d30-f35480f7475c/190296432309.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 103: Die Schlossrenovierung' von Bibi und Tina ist ein Hörspiel, das sich auf Kinder und Jugendstücke konzentriert.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1587025830"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1149443362",
-      "title": "Folge 71: Falsches Spiel mit Alex",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/2a/15/222a15e3-cce1-13d2-6674-b09430482a84/190295908201.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspielalbum mit 28 Folgen, das spannende Geschichten für Kinder und Jugendliche bietet.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1149443362"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1148122350",
-      "title": "Folge 7: Tina in Gefahr",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/99/8a/f7998adf-40a1-1454-93c3-438d57c35fc2/190295911270.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Hörspiel von Bibi und Tina, das auf Abenteuer und Fantasie im Kinderalter basiert.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1148122350"
-      },
-      "chapters": []
-    },
-    {
       "id": "1577225954",
       "title": "Getrennt auf heißer Spur! (Hörspiel-Special)",
       "episodeNumber": null,
@@ -2414,5 +2414,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:00:35Z"
+  "updatedAt": "2026-05-27T18:01:36Z"
 }

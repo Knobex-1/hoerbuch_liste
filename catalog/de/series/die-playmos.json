@@ -308,6 +308,19 @@
       "chapters": []
     },
     {
+      "id": "1462642499",
+      "title": "Folge 23: Die Playmos in geheimer Mission (Das Original Playmobil Hörspiel)",
+      "episodeNumber": 23,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/08/62/00/08620037-7125-8d7d-aaf4-313cbd1d8ce1/4260229662946_3000.jpg/100x100bb.jpg",
+      "description": "Ein Album, das 'Hörspiele' als Genre hat und 'Playmobil' erwähnt, ist typisch für deutsche Hörspiele oder Hörbücher, die auf Apple Music verfügbar sind.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1462642499"
+      },
+      "chapters": []
+    },
+    {
       "id": "1462642720",
       "title": "Folge 24: Die Ritter sind los! (Das Original Playmobil Hörspiel)",
       "episodeNumber": 24,
@@ -1634,19 +1647,6 @@
       "chapters": []
     },
     {
-      "id": "1462642499",
-      "title": "Folge 23: Die Playmos in geheimer Mission (Das Original Playmobil Hörspiel)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/08/62/00/08620037-7125-8d7d-aaf4-313cbd1d8ce1/4260229662946_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album, das 'Hörspiele' als Genre hat und 'Playmobil' erwähnt, ist typisch für deutsche Hörspiele oder Hörbücher, die auf Apple Music verfügbar sind.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1462642499"
-      },
-      "chapters": []
-    },
-    {
       "id": "1496827583",
       "title": "Folgen 29, 36, 48: Die große Weltall-Box (Das original Playmobil-Hörspiel)",
       "episodeNumber": null,
@@ -1699,5 +1699,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:00:35Z"
+  "updatedAt": "2026-05-27T18:01:36Z"
 }

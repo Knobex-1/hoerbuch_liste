@@ -893,19 +893,6 @@
       "chapters": []
     },
     {
-      "id": "1822354956",
-      "title": "Miraculous - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/22/70/c9227028-3f21-e1c7-75a8-73121723c53a/artwork.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspielalbum, das auf Apple Music verfügbar ist.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1822354956"
-      },
-      "chapters": []
-    },
-    {
       "id": "1766390098",
       "title": "Miraculous 56: Verhöhnung / Intuition (Das Original-Hörspiel zur TV-Serie)",
       "episodeNumber": null,
@@ -1023,5 +1010,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:00:35Z"
+  "updatedAt": "2026-05-27T18:01:36Z"
 }

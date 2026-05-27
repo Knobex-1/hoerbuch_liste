@@ -984,6 +984,19 @@
       "chapters": []
     },
     {
+      "id": "1139297268",
+      "title": "Folge 48: kriegt ein Geschenk",
+      "episodeNumber": 48,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/fc/4a/44/fc4a4422-3684-f4e2-f18c-925c881baff5/190295923938.jpg/100x100bb.jpg",
+      "description": "Ein deutscher Hörspiel-Album von Benjamin Blümchen, das im Genre Kinder & Jugend angesiedelt ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1139297268"
+      },
+      "chapters": []
+    },
+    {
       "id": "1139310398",
       "title": "Folge 49: als Müllmann",
       "episodeNumber": 49,
@@ -2596,19 +2609,6 @@
       "chapters": []
     },
     {
-      "id": "1139297268",
-      "title": "Folge 48: kriegt ein Geschenk",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/fc/4a/44/fc4a4422-3684-f4e2-f18c-925c881baff5/190295923938.jpg/100x100bb.jpg",
-      "description": "Ein deutscher Hörspiel-Album von Benjamin Blümchen, das im Genre Kinder & Jugend angesiedelt ist.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1139297268"
-      },
-      "chapters": []
-    },
-    {
       "id": "1139285408",
       "title": "als Apotheker (Sonderedition)",
       "episodeNumber": null,
@@ -2622,5 +2622,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:00:35Z"
+  "updatedAt": "2026-05-27T18:01:36Z"
 }

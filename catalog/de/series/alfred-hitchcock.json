@@ -4195,6 +4195,19 @@
       "chapters": []
     },
     {
+      "id": "1576834649",
+      "title": "Folge 84: Tatort Skater-Park",
+      "episodeNumber": 84,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/f8/7a/64f87a43-f6fe-9409-e385-0d2672417932/886448759546.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Episoden von 'Tatort', einem beliebten deutschen Krimi-Hörspiel-Format. Es richtet sich an Erwachsene und Fans von Krimis und Abenteuern.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1576834649"
+      },
+      "chapters": []
+    },
+    {
       "id": "1112967184",
       "title": "Folge 85: Feuerturm",
       "episodeNumber": 85,
@@ -6587,19 +6600,6 @@
       "chapters": []
     },
     {
-      "id": "1576834649",
-      "title": "Folge 84: Tatort Skater-Park",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/f8/7a/64f87a43-f6fe-9409-e385-0d2672417932/886448759546.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Episoden von 'Tatort', einem beliebten deutschen Krimi-Hörspiel-Format. Es richtet sich an Erwachsene und Fans von Krimis und Abenteuern.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1576834649"
-      },
-      "chapters": []
-    },
-    {
       "id": "1851040816",
       "title": "Heliosphere 2265 – Das Marsprojekt 1 - Verloren",
       "episodeNumber": null,
@@ -6912,5 +6912,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:00:35Z"
+  "updatedAt": "2026-05-27T18:01:36Z"
 }

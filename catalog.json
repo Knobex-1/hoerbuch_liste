@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-27T18:00:35.047285+00:00",
+  "updatedAt": "2026-05-27T18:01:01.304191+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -15147,7 +15147,8 @@
         "Abenteuer"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Episoden von 'Tatort', einem beliebten deutschen Krimi-Hörspiel-Format. Es richtet sich an Erwachsene und Fans von Krimis und Abenteuern."
+      "description": "Dieses Album enthält Episoden von 'Tatort', einem beliebten deutschen Krimi-Hörspiel-Format. Es richtet sich an Erwachsene und Fans von Krimis und Abenteuern.",
+      "episodeNumber": 84
     },
     {
       "id": "died-folg-2284",
@@ -17665,7 +17666,8 @@
         "Thriller"
       ],
       "chapters": [],
-      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 210: Raubzug im Casino' von TKKG. Es handelt sich um ein spannendes Hörspiel-Album mit einer Länge von 42 Tracks."
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 210: Raubzug im Casino' von TKKG. Es handelt sich um ein spannendes Hörspiel-Album mit einer Länge von 42 Tracks.",
+      "episodeNumber": 210
     },
     {
       "id": "tkkg-folg-9884",
@@ -17720,7 +17722,8 @@
         "Thriller"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält das Hörspiel 'Folge 196: Tatort Wagenburg' von TKKG, das in der Krimigenre angesiedelt ist."
+      "description": "Dieses Album enthält das Hörspiel 'Folge 196: Tatort Wagenburg' von TKKG, das in der Krimigenre angesiedelt ist.",
+      "episodeNumber": 196
     },
     {
       "id": "tkkg-folg-8481",
@@ -17931,7 +17934,8 @@
         "Abenteuer"
       ],
       "chapters": [],
-      "description": "Ein Hörspielalbum über UFOs und Kultszenarien, typisch für deutsche Hörspiele der 1980er Jahre."
+      "description": "Ein Hörspielalbum über UFOs und Kultszenarien, typisch für deutsche Hörspiele der 1980er Jahre.",
+      "episodeNumber": 206
     },
     {
       "id": "tkkg-folg-4321",
@@ -30308,7 +30312,8 @@
         "Hörspiel"
       ],
       "chapters": [],
-      "description": "Ein spannendes Hörspielalbum mit 28 Folgen, das spannende Geschichten für Kinder und Jugendliche bietet."
+      "description": "Ein spannendes Hörspielalbum mit 28 Folgen, das spannende Geschichten für Kinder und Jugendliche bietet.",
+      "episodeNumber": 71
     },
     {
       "id": "bibi-folg-0004",
@@ -30562,7 +30567,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Das Album 'Folge 103: Die Schlossrenovierung' von Bibi und Tina ist ein Hörspiel, das sich auf Kinder und Jugendstücke konzentriert."
+      "description": "Das Album 'Folge 103: Die Schlossrenovierung' von Bibi und Tina ist ein Hörspiel, das sich auf Kinder und Jugendstücke konzentriert.",
+      "episodeNumber": 103
     },
     {
       "id": "bibi-folg-2136",
@@ -31510,7 +31516,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält ein Hörspiel von Bibi und Tina, das auf Abenteuer und Fantasie im Kinderalter basiert."
+      "description": "Dieses Album enthält ein Hörspiel von Bibi und Tina, das auf Abenteuer und Fantasie im Kinderalter basiert.",
+      "episodeNumber": 7
     },
     {
       "id": "bibi-folg-9415",
@@ -37149,7 +37156,8 @@
         "Hörspiel"
       ],
       "chapters": [],
-      "description": "Das Album 'Folge 103: und die giftigen Feuerquallen' von 'Fünf Freunde' ist ein Hörspiel, das auf Apple Music verfügbar ist."
+      "description": "Das Album 'Folge 103: und die giftigen Feuerquallen' von 'Fünf Freunde' ist ein Hörspiel, das auf Apple Music verfügbar ist.",
+      "episodeNumber": 103
     },
     {
       "id": "fnff-folg-0942",
@@ -37615,7 +37623,8 @@
         "Hörspiel"
       ],
       "chapters": [],
-      "description": "Ein spannendes Hörspiel mit der Handlung 'Legende vom versteckten Sohn'."
+      "description": "Ein spannendes Hörspiel mit der Handlung 'Legende vom versteckten Sohn'.",
+      "episodeNumber": 162
     },
     {
       "id": "fnff-141u-6346",
@@ -38298,7 +38307,8 @@
         "Hörspiel"
       ],
       "chapters": [],
-      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 92: auf der Insel der Seeräuber' von den Fünf Freunden. Es umfasst 40 Tracks im Genre Hörspiele."
+      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 92: auf der Insel der Seeräuber' von den Fünf Freunden. Es umfasst 40 Tracks im Genre Hörspiele.",
+      "episodeNumber": 92
     },
     {
       "id": "fnff-folg-7431",
@@ -40642,7 +40652,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele von 'Meine Freundin Conni' zur TV-Serie, die sich an Kinder richtet."
+      "description": "Dieses Album enthält Hörspiele von 'Meine Freundin Conni' zur TV-Serie, die sich an Kinder richtet.",
+      "episodeNumber": 4
     },
     {
       "id": "conn-conn-1909",
@@ -41286,7 +41297,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele aus der Serie 'Meine Freundin Conni', die auf deutschen Radio- und Hörspielformaten bekannt sind."
+      "description": "Dieses Album enthält Hörspiele aus der Serie 'Meine Freundin Conni', die auf deutschen Radio- und Hörspielformaten bekannt sind.",
+      "episodeNumber": 10
     },
     {
       "id": "conn-conn-2955",
@@ -41319,7 +41331,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele aus der Serie 'Meine Freundin Conni' mit Geschichten über Conni's Abenteuer, die typisch für Kinderinhalte sind."
+      "description": "Dieses Album enthält Hörspiele aus der Serie 'Meine Freundin Conni' mit Geschichten über Conni's Abenteuer, die typisch für Kinderinhalte sind.",
+      "episodeNumber": 6
     },
     {
       "id": "conn-conn-0023",
@@ -41353,7 +41366,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele basierend auf der Serie 'Meine Freundin Conni', die sich um Kinder handelt."
+      "description": "Dieses Album enthält Hörspiele basierend auf der Serie 'Meine Freundin Conni', die sich um Kinder handelt.",
+      "episodeNumber": 9
     },
     {
       "id": "conn-conn-1706",
@@ -41402,7 +41416,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album umfasst vier deutsche Hörspiele basierend auf der beliebten Kinder-TV-Serie 'Meine Freundin Conni'."
+      "description": "Dieses Album umfasst vier deutsche Hörspiele basierend auf der beliebten Kinder-TV-Serie 'Meine Freundin Conni'.",
+      "episodeNumber": 5
     },
     {
       "id": "conn-conn-8432",
@@ -41434,7 +41449,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele basierend auf der TV-Serie 'Meine Freundin Conni', die sich an ein junges Publikum richtet."
+      "description": "Dieses Album enthält Hörspiele basierend auf der TV-Serie 'Meine Freundin Conni', die sich an ein junges Publikum richtet.",
+      "episodeNumber": 3
     },
     {
       "id": "mein-07co-4122",
@@ -41450,7 +41466,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele aus der beliebten TV-Serie 'Meine Freundin Conni', die sich an ein junges Publikum richtet und spannende Abenteuer bietet."
+      "description": "Dieses Album enthält Hörspiele aus der beliebten TV-Serie 'Meine Freundin Conni', die sich an ein junges Publikum richtet und spannende Abenteuer bietet.",
+      "episodeNumber": 7
     },
     {
       "id": "mein-08co-7058",
@@ -41466,7 +41483,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele basierend auf der beliebten Kinder-TV-Serie 'Meine Freundin Conni' und ist somit ein deutsches Hörspiel."
+      "description": "Dieses Album enthält Hörspiele basierend auf der beliebten Kinder-TV-Serie 'Meine Freundin Conni' und ist somit ein deutsches Hörspiel.",
+      "episodeNumber": 8
     },
     {
       "id": "mein-01co-3560",
@@ -41482,7 +41500,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele aus der Serie 'Meine Freundin Conni' und wird als Hörspielgenre klassifiziert."
+      "description": "Dieses Album enthält Hörspiele aus der Serie 'Meine Freundin Conni' und wird als Hörspielgenre klassifiziert.",
+      "episodeNumber": 1
     },
     {
       "id": "mein-02co-0451",
@@ -41498,7 +41517,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Dieses Album enthält Hörspiele basierend auf der Serie 'Meine Freundin Conni', die typischerweise für Kinder geeignet sind."
+      "description": "Dieses Album enthält Hörspiele basierend auf der Serie 'Meine Freundin Conni', die typischerweise für Kinder geeignet sind.",
+      "episodeNumber": 2
     },
     {
       "id": "conn-conn-0428",
@@ -44565,7 +44585,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Ein deutscher Hörspiel-Album von Benjamin Blümchen, das im Genre Kinder & Jugend angesiedelt ist."
+      "description": "Ein deutscher Hörspiel-Album von Benjamin Blümchen, das im Genre Kinder & Jugend angesiedelt ist.",
+      "episodeNumber": 48
     },
     {
       "id": "benj-find-6514",
@@ -48363,7 +48384,8 @@
         "Kinder & Jugend"
       ],
       "chapters": [],
-      "description": "Ein Album, das 'Hörspiele' als Genre hat und 'Playmobil' erwähnt, ist typisch für deutsche Hörspiele oder Hörbücher, die auf Apple Music verfügbar sind."
+      "description": "Ein Album, das 'Hörspiele' als Genre hat und 'Playmobil' erwähnt, ist typisch für deutsche Hörspiele oder Hörbücher, die auf Apple Music verfügbar sind.",
+      "episodeNumber": 23
     },
     {
       "id": "diep-folg-8524",

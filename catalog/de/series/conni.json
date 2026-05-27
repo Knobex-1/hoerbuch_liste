@@ -1179,6 +1179,32 @@
       "chapters": []
     },
     {
+      "id": "1582038401",
+      "title": "Connis Lieblingswitze: Lachen, bis die Streifen wackeln (Meine Freundin Conni - ab 6)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/52/4b/97524b9d-6b8e-0780-b524-14ea34a9f4d0/4066338226198_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das für Kinder ab 6 Jahren geeignet ist und von Ludger Billerbek, Wolf Frass und Conni erzählt wird.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1582038401"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1582038401",
+      "title": "Connis Lieblingswitze: Lachen, bis die Streifen wackeln (Meine Freundin Conni - ab 6)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/52/4b/97524b9d-6b8e-0780-b524-14ea34a9f4d0/4066338226198_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Hörspiel richtet sich an Kinder ab 6 Jahren und enthält Witze für Unterhaltung.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1582038401"
+      },
+      "chapters": []
+    },
+    {
       "id": "1686208401",
       "title": "Connis erster Flug / Conni geht zum Zahnarzt",
       "episodeNumber": null,
@@ -1257,5 +1283,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:00:35Z"
+  "updatedAt": "2026-05-27T18:01:36Z"
 }
