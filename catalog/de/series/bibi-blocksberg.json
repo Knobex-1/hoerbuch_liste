@@ -11,6 +11,3386 @@
   ],
   "albums": [
     {
+      "id": "1143558808",
+      "title": "Bibi Blocksberg – Folge 3: Die Zauberlimonade",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/15/40/76/154076a4-0b52-6241-d903-37a165cfcc66/190295918675.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg. Titel. Folge 3 Die Zauberlimonade. Label.Darum will Bibi den Bürgermeister verhexen. Und schon nimmt sie sich das alte Hexenbuch ihrer Mutter. Elfie Donnelly ist die Erfinderin von Bibi Blocksberg.",
+      "totalDuration": 3690,
+      "platforms": {
+        "appleMusic": "1143558808"
+      },
+      "chapters": [
+        {
+          "id": "bb-f003-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2700,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2790,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2880,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2970,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3060,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3150,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3240,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3330,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3420,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3510,
+          "duration": 90
+        },
+        {
+          "id": "bb-f003-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3600,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "847534208",
+      "title": "Englisch lernen mit Bibi Blocksberg - Folge 4 - Verhexte Feste",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d7/3f/5c/d73f5cb5-ef67-6793-4365-c61b98694519/825646293896.jpg/100x100bb.jpg",
+      "description": "Ein Hörspielalbum für Kinder, das Bibi Blocksberg begleitet und Verhexte Feste thematisiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "847534208"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1143581597",
+      "title": "Bibi Blocksberg – Folge 12: hat Geburtstag",
+      "episodeNumber": 12,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/a1/a7/2ea1a725-2b4b-a5e3-12ec-7ba754c00dc7/190295918309.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx, die 1980 von Elfie Donnelly ins Leben gerufen wurde. Hauptfigur ist das Mädchen Bibi Blocksberg, eine Hexe. Der Vorname Bibi ist eine Abkürzung für Brigitte. Bisher sind 164 Folgen erschienen. Die Hörspielserie hieß ursprünglich Eene meene Hexerei.",
+      "totalDuration": 3690,
+      "platforms": {
+        "appleMusic": "1143581597"
+      },
+      "chapters": [
+        {
+          "id": "bb-f012-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2700,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2790,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2880,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2970,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3060,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3150,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3240,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3330,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3420,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3510,
+          "duration": 90
+        },
+        {
+          "id": "bb-f012-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3600,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143593231",
+      "title": "Bibi Blocksberg – Folge 13: Ein verhexter Sonntag",
+      "episodeNumber": 13,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/88/e0/44/88e04495-6ffe-bc50-26d5-04cb9256f918/190295918415.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx , die 1980 von Elfie Donnelly ins Leben gerufen wurde.",
+      "totalDuration": 3600,
+      "platforms": {
+        "appleMusic": "1143593231"
+      },
+      "chapters": [
+        {
+          "id": "bb-f013-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2700,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2790,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2880,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2970,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3060,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3150,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3240,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3330,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3420,
+          "duration": 90
+        },
+        {
+          "id": "bb-f013-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3510,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143591387",
+      "title": "Bibi Blocksberg – Folge 20: Papa ist weg",
+      "episodeNumber": 20,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/af/f8/e1/aff8e19e-70f8-4a11-7c1e-632807d5a896/190295918187.jpg/600x600bb.jpg",
+      "description": "Vater Blocksberg ist weg. Es hatte Krach gegeben, weil er die Krötenbeinsuppe nicht essen wollte. Zunächst tut Mutter Blocksberg so, als wäre es ihr egal, dass Bernhard nicht da ist, doch dann bricht sie in Tränen aus. Auch Bibi will ihren Papa wiederhaben.",
+      "totalDuration": 3690,
+      "platforms": {
+        "appleMusic": "1143591387"
+      },
+      "chapters": [
+        {
+          "id": "bb-f020-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2700,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2790,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2880,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2970,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3060,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3150,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3240,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3330,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3420,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3510,
+          "duration": 90
+        },
+        {
+          "id": "bb-f020-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3600,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143604635",
+      "title": "Bibi Blocksberg – Folge 21: zieht um",
+      "episodeNumber": 21,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/df/31/00/df3100da-d71d-a286-c26d-e4b094c1440a/190295918163.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx , die 1980 von Elfie Donnelly ins Leben gerufen wurde.",
+      "totalDuration": 3780,
+      "platforms": {
+        "appleMusic": "1143604635"
+      },
+      "chapters": [
+        {
+          "id": "bb-f021-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2700,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2790,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2880,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2970,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3060,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3150,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3240,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3330,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3420,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3510,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3600,
+          "duration": 90
+        },
+        {
+          "id": "bb-f021-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3690,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143594401",
+      "title": "Bibi Blocksberg – Folge 24: Der Supermarkt",
+      "episodeNumber": 24,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/bc/c1/9a/bcc19a73-7915-ead3-ff1b-b251163f5610/190295914080.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg, Folge 23: Bibi und der Autostau. Elfie Donnelly. 5,99 €. Bibi Blocksberg, Folge 24: Der Supermarkt.",
+      "totalDuration": 4410,
+      "platforms": {
+        "appleMusic": "1143594401"
+      },
+      "chapters": [
+        {
+          "id": "bb-f024-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2700,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2790,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2880,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2970,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3060,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3150,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3240,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3330,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3420,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3510,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3600,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3690,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 3780,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 3870,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 3960,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 4050,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 4140,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 4230,
+          "duration": 90
+        },
+        {
+          "id": "bb-f024-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 4320,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143590958",
+      "title": "Bibi Blocksberg – Folge 34: darf nicht hexen",
+      "episodeNumber": 34,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/52/7f/b7/527fb7be-8170-5145-f0ff-8dbf2840b2dc/190295917814.jpg/600x600bb.jpg",
+      "description": "CD * bibi blocksberg - hörspiel 034 - darf nicht hexen # neu OVP kx. Einloggen und zur Kasse gehen.Erscheinungsjahr 2007. Buchtitel Folge 034: Darf Nicht Hexen. Besonderheiten Audio-CD.",
+      "totalDuration": 2520,
+      "platforms": {
+        "appleMusic": "1143590958"
+      },
+      "chapters": [
+        {
+          "id": "bb-f034-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f034-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143590604",
+      "title": "Bibi Blocksberg – Folge 41: Ohne Mami geht es nicht",
+      "episodeNumber": 41,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/8b/b9/91/8bb991cb-6003-157f-73b3-6641d1b13939/190295917685.jpg/600x600bb.jpg",
+      "description": "CD * BIBI BLOCKSBERG - HÖRSPIEL 041 - OHNE MAMI GEHT ES NICHT # NEU OVP KX - Bild 1 von 1.Produkt Hauptmerkmale. VerlagKiddinx Entertainment Gmb. BuchtitelBibi Blocksberg 041. ohne Mami Geht Es Nicht. Erscheinungsjahr2007.",
+      "totalDuration": 2610,
+      "platforms": {
+        "appleMusic": "1143590604"
+      },
+      "chapters": [
+        {
+          "id": "bb-f041-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f041-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143600310",
+      "title": "Bibi Blocksberg – Folge 48: ist krank",
+      "episodeNumber": 48,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/bf/b0/9d/bfb09d69-029b-929f-c92a-6797096021ae/190295917296.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg Ist Krank. Track 01. Audioplayer schliessen. Folge 048:...ist krank. Aus der Reihe Bibi Blocksberg Band 48. Gesprochen von.",
+      "totalDuration": 2430,
+      "platforms": {
+        "appleMusic": "1143600310"
+      },
+      "chapters": [
+        {
+          "id": "bb-f048-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f048-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143565837",
+      "title": "Bibi Blocksberg – Folge 75: Die neue Lehrerin",
+      "episodeNumber": 75,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f4/fa/18/f4fa181d-5f48-790f-5863-1df4d594570e/190295916541.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx, die 1980 von Elfie Donnelly ins Leben gerufen wurde. Hauptfigur ist das Mädchen Bibi Blocksberg, eine Hexe. Der Vorname Bibi ist eine Abkürzung für Brigitte. Bisher sind 164 Folgen erschienen. Die Hörspielserie hieß ursprünglich Eene meene Hexerei.",
+      "totalDuration": 2160,
+      "platforms": {
+        "appleMusic": "1143565837"
+      },
+      "chapters": [
+        {
+          "id": "bb-f075-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f075-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1143597279",
+      "title": "Bibi Blocksberg – Folge 77: im Hexeninternat",
+      "episodeNumber": 77,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ff/33/b9/ff33b98e-e720-a1d6-18bd-8f38bec34e55/190295916480.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx, die 1980 von Elfie Donnelly ins Leben gerufen wurde. Hauptfigur ist das Mädchen Bibi Blocksberg, eine Hexe. Der Vorname Bibi ist eine Abkürzung für Brigitte. Bisher sind 164 Folgen erschienen. Die Hörspielserie hieß ursprünglich Eene meene Hexerei.",
+      "totalDuration": 2700,
+      "platforms": {
+        "appleMusic": "1143597279"
+      },
+      "chapters": [
+        {
+          "id": "bb-f077-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f077-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1144140082",
+      "title": "Bibi Blocksberg – Folge 115: Urlaub in der Hexenpension",
+      "episodeNumber": 115,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/a0/52/7c/a0527cdb-4319-bb2f-55c1-febece5c438a/190295913274.jpg/600x600bb.jpg",
+      "description": "CD * BIBI BLOCKSBERG - HÖRSPIEL 115 - URLAUB IN DER HEXENPENSION # NEU OVP KX - Bild 1 von 1.VerlagKiddinx Entertainment Gmb. BuchtitelBibi Blocksberg 115. Urlaub in der Hexenpension. Erscheinungsjahr2015.",
+      "totalDuration": 2790,
+      "platforms": {
+        "appleMusic": "1144140082"
+      },
+      "chapters": [
+        {
+          "id": "bb-f115-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        },
+        {
+          "id": "bb-f115-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2700,
+          "duration": 90
+        }
+      ]
+    },
+    {
+      "id": "1401395782",
+      "title": "Bibi Blocksberg – Folge 125: Der Strandurlaub",
+      "episodeNumber": 125,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/c6/ae/2ec6ae08-f021-326c-2f4b-c9e8186cb8b2/190295642976.jpg/600x600bb.jpg",
+      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx , die 1980 von Elfie Donnelly ins Leben gerufen wurde.",
+      "totalDuration": 2880,
+      "platforms": {
+        "appleMusic": "1401395782"
+      },
+      "chapters": [
+        {
+          "id": "bb-f125-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 90,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 180,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 270,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 360,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 450,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 540,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 630,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 720,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 810,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 900,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 990,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1080,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1170,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1260,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1350,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1440,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1530,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1620,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1710,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1800,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1890,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1980,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2070,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2160,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2250,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2340,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2430,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2520,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2610,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2700,
+          "duration": 90
+        },
+        {
+          "id": "bb-f125-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2790,
+          "duration": 90
+        }
+      ]
+    },
+    {
       "id": "1851429423",
       "title": "Bibi Blocksberg – Das große Hexentreffen",
       "episodeNumber": null,
@@ -389,5 +3769,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T17:19:36Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }

@@ -9,6 +9,19 @@
   ],
   "albums": [
     {
+      "id": "1644678314",
+      "title": "Die Eiskönigin",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/6e/f5/ab6ef58e-b97d-4dc2-5de1-8b0abcbc701a/cover_4062851751650.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel 'Die Eiskönigin' von Nachtfuchs im Genre Hörspiele, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1644678314"
+      },
+      "chapters": []
+    },
+    {
       "id": "1685955280",
       "title": "Die Eiskönigin - Völlig Unverfroren (Hörspiel zum Disney Film)",
       "episodeNumber": null,
@@ -85,7 +98,20 @@
         "appleMusic": "1685945821"
       },
       "chapters": []
+    },
+    {
+      "id": "1582704839",
+      "title": "Peter Lustig liest Die Eiskönigin von Hans Christian Andersen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/56/5c/f2565c75-fc0f-ea8f-435d-8d1ee05007b0/5413059370140.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Lesung des Märchens \"Die Eiskönigin\" von Hans Christian Andersen, gelesen von Peter Lustig.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1582704839"
+      },
+      "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T17:57:24Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }

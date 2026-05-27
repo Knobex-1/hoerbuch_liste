@@ -9,22 +9,9 @@
   ],
   "albums": [
     {
-      "id": "1848883577",
-      "title": "Alea Aquarius (Das Hörspiel) [Folge 2: Lennox Scorpio]",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/f5/a4/26f5a4a0-6725-398a-2904-72a7fe5008e0/4069829067355_cover.jpg/100x100bb.jpg",
-      "description": "Ein Album, das sich auf Hörspiele spezialisiert und spezifische Titel wie 'Alea Aquarius (Das Hörspiel)' verwendet.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1848883577"
-      },
-      "chapters": []
-    },
-    {
       "id": "1831977832",
       "title": "Alea Aquarius - Das Hörspiel. Folge 1: Die Alpha Cru",
-      "episodeNumber": null,
+      "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/f7/7e/a3f77e05-f8b0-8226-1dc1-ba108057b476/4069828735699_cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum, das sich auf eine Episode einer Serie konzentriert, typisch für deutsche Hörspiele.",
@@ -37,7 +24,7 @@
     {
       "id": "1831979248",
       "title": "Alea Aquarius - Das Hörspiel. Folge 1: Die Alpha Cru",
-      "episodeNumber": null,
+      "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/b3/d3/6db3d3a0-afb1-3022-2c5b-85b6b48c8107/4061229418904.jpg/100x100bb.jpg",
       "description": "Ein Album mit dem Titel 'Alea Aquarius - Das Hörspiel. Folge 1: Die Alpha Cru' von Alea Aquarius & Tanya Stewner, das sich auf Hörspiele spezialisiert hat.",
@@ -48,9 +35,22 @@
       "chapters": []
     },
     {
+      "id": "1848883577",
+      "title": "Alea Aquarius (Das Hörspiel) [Folge 2: Lennox Scorpio]",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/f5/a4/26f5a4a0-6725-398a-2904-72a7fe5008e0/4069829067355_cover.jpg/100x100bb.jpg",
+      "description": "Ein Album, das sich auf Hörspiele spezialisiert und spezifische Titel wie 'Alea Aquarius (Das Hörspiel)' verwendet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1848883577"
+      },
+      "chapters": []
+    },
+    {
       "id": "1848884170",
       "title": "Alea Aquarius - Das Hörspiel. Folge 2: Lennox Scorpio",
-      "episodeNumber": null,
+      "episodeNumber": 2,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/db/18/44db18ef-f643-dccc-93e2-e4c18417eeb7/4013575962921.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel-Album von Alea Aquarius und Tanya Stewner, das Teil einer Reihe ist. Es ist bekannt für kriminalistische Inhalte und bietet ein tiefgehenderes Erlebnis als typische Musikstücke.",
@@ -63,7 +63,7 @@
     {
       "id": "1858687634",
       "title": "Alea Aquarius - Das Hörspiel. Folge 3: Tauchgang mit Folgen",
-      "episodeNumber": null,
+      "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/5d/19/e35d19d2-8dbf-b1d2-83e0-4dd920860e18/4069829240680_cover.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum, das Teil einer Serie ist und Hörer in spannende Geschichten eintauchen lässt.",
@@ -76,7 +76,7 @@
     {
       "id": "1858622268",
       "title": "Alea Aquarius - Das Hörspiel. Folge 3: Tauchgang mit Folgen",
-      "episodeNumber": null,
+      "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/07/31/8c073116-40a4-6fe9-f236-a9f372e685e6/4061229418966.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel der Serie Alea Aquarius, Teil 3, das von Alea Aquarius und Tanya Stewner produziert wurde. Es besteht aus 42 Tracks und gehört zur Hörspiel-Genre.",
@@ -89,7 +89,7 @@
     {
       "id": "1872724810",
       "title": "Alea Aquarius - Das Hörspiel. Folge 4: Der beschwerliche Weg nach Schottland",
-      "episodeNumber": null,
+      "episodeNumber": 4,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5a/11/3a5a11b6-6105-0af4-33a0-9e785ea13f2b/4069829509848_cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Alea Aquarius - Das Hörspiel. Folge 4: Der beschwerliche Weg nach Schottland' von den Künstlern Alea Aquarius und Tanya Stewner. Es enthält 37 Tracks im Genre Hörspiel.",
@@ -102,7 +102,7 @@
     {
       "id": "1888584862",
       "title": "Alea Aquarius - Das Hörspiel. Folge 5: Die geheime Unterwasser-Kuppel",
-      "episodeNumber": null,
+      "episodeNumber": 5,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/12/72/c5127287-df09-ddbd-73e6-997657b0ed69/4069829732864_cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspielalbum von Alea Aquarius mit Tanya Stewner, das sich auf Abenteuer und Geheimnisse im Unterwasser konzentriert.",
@@ -115,7 +115,7 @@
     {
       "id": "1888511107",
       "title": "Alea Aquarius - Das Hörspiel. Folge 5: Die geheime Unterwasser-Kuppel",
-      "episodeNumber": null,
+      "episodeNumber": 5,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/03/24/8d03245c-f299-8d66-9eea-e598e695a6ad/4061229419024.jpg/100x100bb.jpg",
       "description": "Das Album enthält das Hörspiel 'Alea Aquarius - Das Hörspiel. Folge 5: Die geheime Unterwasser-Kuppel', das von Alea Aquarius und Tanya Stewner produziert wurde. Es umfasst 49 Tracks im Genre Hörspiele.",
@@ -126,5 +126,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T17:19:36Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }

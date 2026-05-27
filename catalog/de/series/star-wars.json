@@ -9,22 +9,35 @@
   ],
   "albums": [
     {
-      "id": "1686045746",
-      "title": "01: Der Hinterhalt / Der Angriff der Malevolence (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "id": "1686055282",
+      "title": "Teil 1: Die letzten Stunden der Klon-Kriege (Dark Lord)",
+      "episodeNumber": 1,
       "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/33/c4/b833c454-b176-5f75-df19-bcc5da060d72/4066339395770.jpg/100x100bb.jpg",
-      "description": "Das Album enthält Szenen aus einer Star Wars-TV-Serie, bekannt für seinen Science-Fiction-Inhalt und Abenteuer. Es handelt sich um ein Hörspiel-Album.",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ec/c9/6aecc9f3-d5af-4f81-51eb-4b8690e9918c/4057664075192.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist Teil einer Hörspiel-Serie über die Klon-Kriege im Star Wars Universum.",
       "totalDuration": 0,
       "platforms": {
-        "appleMusic": "1686045746"
+        "appleMusic": "1686055282"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686317643",
+      "title": "Labyrinth des Bösen - Teil 1: Gunrays Geheimnis",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/e0/19/2be01972-44c9-ce56-d83e-7b4e9bad9a64/4057664074942.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel, das im Raumfahrt-Setting spielt, mit mysteriösen Ereignissen und Geheimnissen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686317643"
       },
       "chapters": []
     },
     {
       "id": "1686357820",
       "title": "01: Die jungen Jedi / Auf Mission für Meister Yoda / Das große Rennen / Das verschollene Jedi-Schiff (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/30/0a/d5300a84-983b-2c76-ebbd-df1e8b855924/4066339750777.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das junge Jedi auf Missionen begibt. Es enthält spannende Abenteuer und Elemente der Science-Fiction.",
@@ -35,9 +48,35 @@
       "chapters": []
     },
     {
+      "id": "1685924525",
+      "title": "07: Galaxis in Flammen / Die Belagerung von Lothal (Teil 1 & 2) (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie Star Wars Rebels, welches den Titel '07: Galaxis in Flammen / Die Belagerung von Lothal' trägt. Es ist Teil einer Hörspielreihe, die sich in der Science-Fiction-Welt von Star Wars abspielt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685924525"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686045746",
+      "title": "01: Der Hinterhalt / Der Angriff der Malevolence (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/33/c4/b833c454-b176-5f75-df19-bcc5da060d72/4066339395770.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Szenen aus einer Star Wars-TV-Serie, bekannt für seinen Science-Fiction-Inhalt und Abenteuer. Es handelt sich um ein Hörspiel-Album.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686045746"
+      },
+      "chapters": []
+    },
+    {
       "id": "1685928078",
       "title": "01: Gefährliche Ware / Kampf mit dem TIE-Jäger (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/bf/92/82bf92d1-590a-d023-74dd-a27ec3683123/4066339690752.jpg/100x100bb.jpg",
       "description": "Ein Album von Star Wars Rebels mit 16 Tracks, das als Hörspiel zur Star Wars-TV-Serie dient.",
@@ -48,35 +87,35 @@
       "chapters": []
     },
     {
-      "id": "1685927606",
-      "title": "02: Der Aufstieg der alten Meister / Ezra undercover (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "id": "1686061283",
+      "title": "Folge 2: Darth Sidious auf der Spur (Labyrinth des Bösen)",
+      "episodeNumber": 2,
       "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/9b/2d/229b2da1-9eab-4906-daf5-9c766ac315d1/4066339690776.jpg/100x100bb.jpg",
-      "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie, das 17 Tracks umfasst und im Genre Science-Fiction und Abenteuer angesiedelt ist.",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/03/a5/a203a5c2-ffeb-acda-4463-25f314c0d2b0/4057664075185.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel aus der Star Wars-Serie, das auf der Jagd nach Darth Sidious in einer dunklen Welt ist.",
       "totalDuration": 0,
       "platforms": {
-        "appleMusic": "1685927606"
+        "appleMusic": "1686061283"
       },
       "chapters": []
     },
     {
-      "id": "1686050985",
-      "title": "02: Der Schatten Der Malevolence / Die Zerstörung Der Malevolence (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "id": "1686316695",
+      "title": "Dark Lord - Teil 2: Auf der Flucht vor dem Imperium",
+      "episodeNumber": 2,
       "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/73/ad/b673ad3e-f18c-f272-24a7-c68a40217982/4066339395916.jpg/100x100bb.jpg",
-      "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie mit 38 Tracks.",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/44/9e/b9449e88-ba93-d538-a7f5-c713b9658491/4057664075000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel aus der Star Wars-Serie, das Teil 2 von 'Dark Lord' darstellt. Es handelt sich um eine Fortsetzung in der Star Wars-Hörspielreihe, die Abenteuer und Science-Fiction Elemente umfasst.",
       "totalDuration": 0,
       "platforms": {
-        "appleMusic": "1686050985"
+        "appleMusic": "1686316695"
       },
       "chapters": []
     },
     {
       "id": "1686364386",
       "title": "02: Gute Besserung, Nubs! / Der Schrott-Gigant / Rettung im Schnee / Angriff der Trainingsdroiden (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 2,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/a0/5a/e7a05a4a-dbc8-202d-97c9-fce102ae5390/4066339750760.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiel-Episoden aus der Star Wars-Serie, die speziell für Audiokonsum gedacht sind.",
@@ -87,9 +126,61 @@
       "chapters": []
     },
     {
+      "id": "1686050985",
+      "title": "02: Der Schatten Der Malevolence / Die Zerstörung Der Malevolence (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/73/ad/b673ad3e-f18c-f272-24a7-c68a40217982/4066339395916.jpg/100x100bb.jpg",
+      "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie mit 38 Tracks.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686050985"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685927606",
+      "title": "02: Der Aufstieg der alten Meister / Ezra undercover (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/9b/2d/229b2da1-9eab-4906-daf5-9c766ac315d1/4066339690776.jpg/100x100bb.jpg",
+      "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie, das 17 Tracks umfasst und im Genre Science-Fiction und Abenteuer angesiedelt ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685927606"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686055714",
+      "title": "Teil 3: Angriff auf Coruscant (Labyrinth des Bösen)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/15/13/7f/15137f15-7a18-30e5-ee25-7b04f22ee10a/4057664075116.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist Teil einer Fortsetzung eines beliebten Science-Fiction-Universums und entspricht typischerweise den Genres Hörspiel und Abenteuer.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686055714"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686064516",
+      "title": "Folge 3: Aufruhr auf Alderaan (Dark Lord)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/36/e2/9936e276-fa01-2adb-5cf6-9f8283718b6a/4057664075123.jpg/100x100bb.jpg",
+      "description": "Ein Star Wars Hörspiel mit Handlung auf Alderaan.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686064516"
+      },
+      "chapters": []
+    },
+    {
       "id": "1686049009",
       "title": "03: Rekruten / Der Fall eines Droiden (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/d0/48/d8d04892-b8b3-f8bd-6dba-476817fc2efd/4066339395909.jpg/100x100bb.jpg",
       "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie, das die Handlung um Rekruten und einen droiden Fall thematisiert.",
@@ -102,7 +193,7 @@
     {
       "id": "1685931870",
       "title": "03: Verlassen / Der Tag des Imperiums (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/20/80/04/208004ba-b7d9-f2e4-d165-d9de5984e603/4066339689947.jpg/100x100bb.jpg",
       "description": "Das Album ist das Original-Hörspiel zur Star Wars-TV-Serie Rebels.",
@@ -113,9 +204,22 @@
       "chapters": []
     },
     {
+      "id": "1686318178",
+      "title": "Folge 4: Der Untergang von Kashyyyk (Dark Lord)",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/25/c2/0625c2e9-26b3-49e9-1b22-efeac7042522/4057664075031.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel aus der Star Wars-Reihe, das sich um Kashyyyk dreht.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686318178"
+      },
+      "chapters": []
+    },
+    {
       "id": "1686045785",
       "title": "04: Kampf der Droiden / Superheftig Jedi (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 4,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/ad/35/6ead35a7-79b1-cfa6-f305-2de0250f71d0/4066339395787.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das auf Apple Music verfügbar ist.",
@@ -128,7 +232,7 @@
     {
       "id": "1685922083",
       "title": "04: Mit vereinter Macht / Der Weg der Jedi (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 4,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/f2/90/d1f2901e-68f3-7c54-2e52-7d5333955bba/4066339690547.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel-Album mit 18 Tracks aus der Serie Star Wars Rebels.",
@@ -139,22 +243,9 @@
       "chapters": []
     },
     {
-      "id": "1685926310",
-      "title": "05: Ein unfairer Deal / Die Stimme der Freiheit (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/37/42/bb374216-d59d-a308-09bb-daad96ad68bc/4066339690349.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Star Wars Rebels, das im deutschen Sprachraum produziert wurde.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1685926310"
-      },
-      "chapters": []
-    },
-    {
       "id": "1686045942",
       "title": "05: Im Mantel der Dunkelheit / In den Fängen von Grievous (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 5,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/3c/75/193c7579-c60a-cb61-eb82-7c8e13ee4308/4066339395800.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel zur Star Wars-TV-Serie, das auf dem iTunes-Katalog verfügbar ist.",
@@ -165,22 +256,22 @@
       "chapters": []
     },
     {
-      "id": "1685927736",
-      "title": "06: Aufruf zum Widerstand / Die Rettungsmission (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "id": "1685926310",
+      "title": "05: Ein unfairer Deal / Die Stimme der Freiheit (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": 5,
       "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/b3/ee/52b3ee27-e5a6-f079-69ea-01767bcd5d29/4066339690578.jpg/100x100bb.jpg",
-      "description": "Das Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das 18 Tracks umfasst und sich im Genre der Science-Fiction und Abenteuer bewegt.",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/37/42/bb374216-d59d-a308-09bb-daad96ad68bc/4066339690349.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Star Wars Rebels, das im deutschen Sprachraum produziert wurde.",
       "totalDuration": 0,
       "platforms": {
-        "appleMusic": "1685927736"
+        "appleMusic": "1685926310"
       },
       "chapters": []
     },
     {
       "id": "1686047415",
       "title": "06: Die Ergreifung des Count / Der Freikauf (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 6,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/4a/55/954a5518-943e-3343-645d-b8e4c2df519d/4066339395831.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das auf Audiostreaming-Plattformen wie Apple Music verfügbar ist.",
@@ -191,9 +282,22 @@
       "chapters": []
     },
     {
+      "id": "1685927736",
+      "title": "06: Aufruf zum Widerstand / Die Rettungsmission (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/b3/ee/52b3ee27-e5a6-f079-69ea-01767bcd5d29/4066339690578.jpg/100x100bb.jpg",
+      "description": "Das Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das 18 Tracks umfasst und sich im Genre der Science-Fiction und Abenteuer bewegt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685927736"
+      },
+      "chapters": []
+    },
+    {
       "id": "1686049400",
       "title": "07: Die Bruchlandung / Die Verteidiger des Friedens (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 7,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/f3/1a/8ef31adf-9753-5c15-a200-a2d61bd84654/4066339395893.jpg/100x100bb.jpg",
       "description": "Das Album enthält Musik aus dem Hörspiel 'Die Bruchlandung / Die Verteidiger des Friedens', das eine Star Wars-TV-Serie begleitet.",
@@ -204,35 +308,9 @@
       "chapters": []
     },
     {
-      "id": "1685924525",
-      "title": "07: Galaxis in Flammen / Die Belagerung von Lothal (Teil 1 & 2) (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie Star Wars Rebels, welches den Titel '07: Galaxis in Flammen / Die Belagerung von Lothal' trägt. Es ist Teil einer Hörspielreihe, die sich in der Science-Fiction-Welt von Star Wars abspielt.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1685924525"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1686051554",
-      "title": "08: Der Übergriff / Der unsichtbare Feind (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/07/2f/8f072f0c-4759-a650-d738-b0777e69f0b6/4066339395947.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel zur Star Wars-TV-Serie, das Fans des Franchises näher an die Handlung heranführt.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686051554"
-      },
-      "chapters": []
-    },
-    {
       "id": "1685931533",
       "title": "08: Die verschollenen Krieger / Relikte der Alten Republik (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 8,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/4f/84/d14f8467-b1ef-ae41-45ad-52b41e59a305/4066339690431.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels', bestehend aus 18 Episoden im Hörspiel-Genre.",
@@ -243,9 +321,22 @@
       "chapters": []
     },
     {
+      "id": "1686051554",
+      "title": "08: Der Übergriff / Der unsichtbare Feind (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 8,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/07/2f/8f072f0c-4759-a650-d738-b0777e69f0b6/4066339395947.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel zur Star Wars-TV-Serie, das Fans des Franchises näher an die Handlung heranführt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686051554"
+      },
+      "chapters": []
+    },
+    {
       "id": "1686048484",
       "title": "09: Das Virus / Das Geheimnis der Monde (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 9,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/b4/13/b8b41313-9ed7-aa47-5c64-8b1ef4deed54/4066339395855.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das auf spannenden Themen wie Virus und Weltraumfährten basiert.",
@@ -258,7 +349,7 @@
     {
       "id": "1685928890",
       "title": "09: Doppelte Gefahr / Die Bruderschaft (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 9,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/82/72/5c82723f-f058-8481-8d8a-4100a89db709/4066339690769.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels'. Es enthält 17 Episoden und ist Teil der Hörspiel-Kategorie, die oft Kinder und Jugendliche anspricht.",
@@ -271,7 +362,7 @@
     {
       "id": "1685928822",
       "title": "10: Ein Meister seiner Kunst / Blutsschwestern (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 10,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/9b/71/289b7148-9c93-8758-d556-1394b6864dd6/4066339690660.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel, das das Original-Hörspiel zur TV-Serie 'Star Wars Rebels' enthält.",
@@ -284,7 +375,7 @@
     {
       "id": "1686046422",
       "title": "10: Sturm über Ryloth / Die Unschuldigen von Ryloth (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 10,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/fd/33/75fd33d4-e80e-b508-75af-8841c5a35be4/4066339395824.jpg/100x100bb.jpg",
       "description": "Das Album enthält Hörspiel-Tracks aus der Star Wars-Serie, gekennzeichnet durch den Originaltitel und das Genre 'Hörspiele'.",
@@ -295,22 +386,9 @@
       "chapters": []
     },
     {
-      "id": "1686045676",
-      "title": "11: Freiheit für Ryloth / Das Geiseldrama (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/00/2a/8b002a40-c29c-134f-a801-6e0b76d10209/4066339395954.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Die Klonkrieger'. Es enthält 49 Tracks und ist im Genre Hörspiel klassifiziert.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686045676"
-      },
-      "chapters": []
-    },
-    {
       "id": "1685929845",
       "title": "11: Undercover beim Feind / Die Zukunft der Macht (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 11,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/ec/13/b9ec1324-b561-f855-1ae2-d3354deef719/4066339690615.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels', das sich in einem Science-Fiction-Universum spielt.",
@@ -321,9 +399,22 @@
       "chapters": []
     },
     {
+      "id": "1686045676",
+      "title": "11: Freiheit für Ryloth / Das Geiseldrama (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/00/2a/8b002a40-c29c-134f-a801-6e0b76d10209/4066339395954.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Die Klonkrieger'. Es enthält 49 Tracks und ist im Genre Hörspiel klassifiziert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686045676"
+      },
+      "chapters": []
+    },
+    {
       "id": "1685926594",
       "title": "12: Das Geheimnis des Gefangenen X10 / Eine Prinzessin auf Lothal (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 12,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/fc/f3/4cfcf33d-1729-bf50-a89e-9b2a58039f9d/4066339690332.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiel-Tracks aus der Star Wars Rebels Serie, die auf Lothal spielen. Es ist kein traditionelles Musikalbum, sondern ein Original-Hörspiel zur Serie.",
@@ -336,7 +427,7 @@
     {
       "id": "1685939464",
       "title": "13: Der Beschützer von Concord Dawn / Die Legenden der Lasat (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 13,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/7d/54/1c7d5425-f37f-9b13-c129-9930a062c9ce/4066339690400.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das sich im Genre der Science-Fiction bewegt.",
@@ -349,7 +440,7 @@
     {
       "id": "1686046852",
       "title": "13: Kinder der Macht / Spion des Senats (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 13,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/ef/c7/86efc73d-6003-52b8-3b53-aec151c2a1e9/4066339395794.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das sich auf eine futuristische Galaxie und interstellare Abenteuer konzentriert.",
@@ -362,7 +453,7 @@
     {
       "id": "1685927953",
       "title": "14: Die Reise der Purrgils / Der Freiheitskämpfer (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 14,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/34/f9/4134f938-3b08-9057-ed56-2113ff45d882/4066339690790.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das als Hörspiel formatiert auf iTunes verfügbar ist.",
@@ -375,7 +466,7 @@
     {
       "id": "1686049957",
       "title": "14: Kampf und Wettkampf / Die Waffenfabrik (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 14,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/ed/c1/79edc19e-44a5-d429-18a8-4f29a55348ce/4066339395930.jpg/100x100bb.jpg",
       "description": "Das Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, bekannt für seine Science-Fiction-Elemente und intergalaktischen Abenteuer.",
@@ -388,7 +479,7 @@
     {
       "id": "1685975659",
       "title": "15: Eis und Ehre / Verborgene Dunkelheit (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 15,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/cf/42/a4cf42f8-9b01-984e-3fb8-4c3500841f1c/4066339690691.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur Star Wars-TV-Serie. Es gehört zur Hörspiel-Genre-Kategorie.",
@@ -401,7 +492,7 @@
     {
       "id": "1686045238",
       "title": "15: Vermächtnis des Terrors / Gehirn-Parasiten (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 15,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/24/b0/2b/24b02bbf-49b3-4a6c-8036-fd3f5ad6306d/4066339395978.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das sich in der Science-Fiction- und Abenteuergenre bewegt.",
@@ -414,7 +505,7 @@
     {
       "id": "1685930131",
       "title": "16: Der vergessene Droide / Kampf um die Basis (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 16,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/f2/56/6af25693-da77-2c20-b3f8-6894de695114/4066339690622.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie Rebels. Es ist ein Hörspiel-Album, das Teil der Science-Fiction-Genre ist.",
@@ -427,7 +518,7 @@
     {
       "id": "1686050497",
       "title": "16: Grievous' Hinterhalt / Der Deserteur (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 16,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/ab/9c/75ab9ca8-c914-4b3a-fd71-42687d8cc281/4066339395961.jpg/100x100bb.jpg",
       "description": "Ein Star Wars Hörspiel mit 36 Folgen, das in der Star Wars-TV-Serie spielt.",
@@ -440,7 +531,7 @@
     {
       "id": "1686048528",
       "title": "17: Eine Lektion in Sachen Geduld / Verschwörung auf Mandalore (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 17,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/2f/63/6d2f63e6-4b41-8af5-c4d9-805e0f8a1833/4066339395879.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum basierend auf der Star Wars-Serie, mit 41 Tracks, das Geduld und Verschwörung thematisiert.",
@@ -453,7 +544,7 @@
     {
       "id": "1686043579",
       "title": "18: Reise der Versuchung / Die Herzogin von Mandalore (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 18,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/2b/45/e42b45c2-7ac5-1735-77bf-3725db5db5e8/4066339395923.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiele aus der Star Wars-Serie, ein beliebtes Science-Fiction-Genre, das oft bei jungen Hörern beliebt ist.",
@@ -466,7 +557,7 @@
     {
       "id": "1686046678",
       "title": "19: Mord im Senat / Katz und Maus (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 19,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/65/45/48654594-2a14-0d01-f473-41167fddd310/4066339395817.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das auf iTunes verfügbar ist.",
@@ -479,7 +570,7 @@
     {
       "id": "1686047880",
       "title": "20: Kopfgeldjäger / Das Zillo-Biest (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 20,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/16/6b/96166b0a-92df-48ff-eb8b-d08203955ba8/4066339395886.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das als Hörspiel produziert wurde.",
@@ -492,7 +583,7 @@
     {
       "id": "1686049165",
       "title": "21: Das Zillo-Biest schlägt zurück / Tödliche Falle (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 21,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/fa/a9/2afaa9e8-d802-ea86-117c-dc4a2f1cbc47/4066339395763.jpg/100x100bb.jpg",
       "description": "Das Album enthält eine Star Wars Hörspielserie, die im Deutschsprachigen Raum veröffentlicht wurde.",
@@ -505,26 +596,13 @@
     {
       "id": "1686047424",
       "title": "22: Komm nach Hause, R2 / Auf Geiseljagd (Das Original-Hörspiel zur Star Wars-TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 22,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/12/c4/3512c4a8-d2c0-cf51-8220-a975e14e0f0e/4066339395862.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie, das als Hörspiel formatiert ist.",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1686047424"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1686316695",
-      "title": "Dark Lord - Teil 2: Auf der Flucht vor dem Imperium",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/44/9e/b9449e88-ba93-d538-a7f5-c713b9658491/4057664075000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel aus der Star Wars-Serie, das Teil 2 von 'Dark Lord' darstellt. Es handelt sich um eine Fortsetzung in der Star Wars-Hörspielreihe, die Abenteuer und Science-Fiction Elemente umfasst.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686316695"
       },
       "chapters": []
     },
@@ -542,45 +620,6 @@
       "chapters": []
     },
     {
-      "id": "1686061283",
-      "title": "Folge 2: Darth Sidious auf der Spur (Labyrinth des Bösen)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/03/a5/a203a5c2-ffeb-acda-4463-25f314c0d2b0/4057664075185.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel aus der Star Wars-Serie, das auf der Jagd nach Darth Sidious in einer dunklen Welt ist.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686061283"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1686064516",
-      "title": "Folge 3: Aufruhr auf Alderaan (Dark Lord)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/36/e2/9936e276-fa01-2adb-5cf6-9f8283718b6a/4057664075123.jpg/100x100bb.jpg",
-      "description": "Ein Star Wars Hörspiel mit Handlung auf Alderaan.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686064516"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1686318178",
-      "title": "Folge 4: Der Untergang von Kashyyyk (Dark Lord)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/25/c2/0625c2e9-26b3-49e9-1b22-efeac7042522/4057664075031.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel aus der Star Wars-Reihe, das sich um Kashyyyk dreht.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686318178"
-      },
-      "chapters": []
-    },
-    {
       "id": "158627474",
       "title": "John Williams Conducts The Star Wars Trilogy",
       "episodeNumber": null,
@@ -590,19 +629,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "158627474"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1686317643",
-      "title": "Labyrinth des Bösen - Teil 1: Gunrays Geheimnis",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/e0/19/2be01972-44c9-ce56-d83e-7b4e9bad9a64/4057664074942.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel, das im Raumfahrt-Setting spielt, mit mysteriösen Ereignissen und Geheimnissen.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686317643"
       },
       "chapters": []
     },
@@ -2219,32 +2245,6 @@
       "chapters": []
     },
     {
-      "id": "1686055282",
-      "title": "Teil 1: Die letzten Stunden der Klon-Kriege (Dark Lord)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ec/c9/6aecc9f3-d5af-4f81-51eb-4b8690e9918c/4057664075192.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil einer Hörspiel-Serie über die Klon-Kriege im Star Wars Universum.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686055282"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1686055714",
-      "title": "Teil 3: Angriff auf Coruscant (Labyrinth des Bösen)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/15/13/7f/15137f15-7a18-30e5-ee25-7b04f22ee10a/4057664075116.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil einer Fortsetzung eines beliebten Science-Fiction-Universums und entspricht typischerweise den Genres Hörspiel und Abenteuer.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1686055714"
-      },
-      "chapters": []
-    },
-    {
       "id": "1777864455",
       "title": "The Imperial March (From \"Star Wars: The Empire Strikes Back\") [Live] - Single",
       "episodeNumber": null,
@@ -2284,5 +2284,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T17:57:24Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }

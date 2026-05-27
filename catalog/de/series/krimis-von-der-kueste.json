@@ -13,13 +13,104 @@
     {
       "id": "1695602779",
       "title": "Folge 1: Theresa (Krimis von der Küste)",
-      "episodeNumber": null,
+      "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/89/7a/30897ab2-f5e2-215d-25be-663faec8ddca/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 1: Theresa' aus der Reihe 'Krimis von der Küste'. Es bietet spannende Kriminalgeschichten entlang der Küste.",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1695602779"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1715474350",
+      "title": "Krimis von der Küste Folge 2 - Bis zum Hals",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/d1/ae/00d1aea9-670a-219b-7804-9ceb4a59e316/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele, die sich auf Krimis entlang der Küste konzentrieren. Es bietet Spannung und Spannung in der Atmosphäre der Nordseeküste.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1715474350"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1734258821",
+      "title": "Krimis von der Küste Folge 3 - Sommerschnee",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f1/7f/52/f17f52de-766e-7c8b-0aa4-68192f2444a4/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Krimis und ist als Hörspiel formatiert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1734258821"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1764941824",
+      "title": "Krimis von der Küste Folge 4 - Ich sehe Dich",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/17/6c/f1176ce7-ad05-19c2-db4f-908141c108ce/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album beinhaltet Krimis, die an der Küste spielen und sich auf Spannung und Spannung konzentrieren.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1764941824"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1764941444",
+      "title": "Krimis von der Küste Folge 5 - Ich sehe Dich",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/3d/6a/413d6a41-f8aa-71e6-39f1-c17796160a43/cover.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Hörspiel-Tracks über Kriminalfälle an der Küste.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1764941444"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1784941851",
+      "title": "Krimis von der Küste Folge 6 - Giftiger Tee",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/d9/68/26d96899-3203-7933-a43d-0637fdc08fdf/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele, die sich um Kriminalfälle an der Küste drehen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1784941851"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1795433584",
+      "title": "Krimis von der Küste Folge 7: Trübes Wasser",
+      "episodeNumber": 7,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/83/ff/3583ffad-88d7-46ed-f0e4-f16510db3de6/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele im Genre 'Krimi' mit einer besonderen Verbindung zur Küste. Es bietet spannende Geschichten in 24 Folgen, ideal für Krimifans.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1795433584"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1846569706",
+      "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven",
+      "episodeNumber": 8,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/37/2e/44372e56-ee23-8e7c-df34-e70ce2b795da/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 19 Hörspiel-Episoden über Krimis, die sich an der Küste von Cuxhaven abspielen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1846569706"
       },
       "chapters": []
     },
@@ -35,98 +126,7 @@
         "appleMusic": "1879555166"
       },
       "chapters": []
-    },
-    {
-      "id": "1715474350",
-      "title": "Krimis von der Küste Folge 2 - Bis zum Hals",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/d1/ae/00d1aea9-670a-219b-7804-9ceb4a59e316/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die sich auf Krimis entlang der Küste konzentrieren. Es bietet Spannung und Spannung in der Atmosphäre der Nordseeküste.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1715474350"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1734258821",
-      "title": "Krimis von der Küste Folge 3 - Sommerschnee",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f1/7f/52/f17f52de-766e-7c8b-0aa4-68192f2444a4/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Krimis und ist als Hörspiel formatiert.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1734258821"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1764941824",
-      "title": "Krimis von der Küste Folge 4 - Ich sehe Dich",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/17/6c/f1176ce7-ad05-19c2-db4f-908141c108ce/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album beinhaltet Krimis, die an der Küste spielen und sich auf Spannung und Spannung konzentrieren.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1764941824"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1764941444",
-      "title": "Krimis von der Küste Folge 5 - Ich sehe Dich",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/3d/6a/413d6a41-f8aa-71e6-39f1-c17796160a43/cover.jpg/100x100bb.jpg",
-      "description": "Das Album enthält Hörspiel-Tracks über Kriminalfälle an der Küste.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1764941444"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1784941851",
-      "title": "Krimis von der Küste Folge 6 - Giftiger Tee",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/d9/68/26d96899-3203-7933-a43d-0637fdc08fdf/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die sich um Kriminalfälle an der Küste drehen.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1784941851"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1795433584",
-      "title": "Krimis von der Küste Folge 7: Trübes Wasser",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/83/ff/3583ffad-88d7-46ed-f0e4-f16510db3de6/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele im Genre 'Krimi' mit einer besonderen Verbindung zur Küste. Es bietet spannende Geschichten in 24 Folgen, ideal für Krimifans.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1795433584"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1846569706",
-      "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/37/2e/44372e56-ee23-8e7c-df34-e70ce2b795da/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält 19 Hörspiel-Episoden über Krimis, die sich an der Küste von Cuxhaven abspielen.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1846569706"
-      },
-      "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T17:57:24Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }

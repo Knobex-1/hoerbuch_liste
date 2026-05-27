@@ -9,6 +9,19 @@
   ],
   "albums": [
     {
+      "id": "1487232525",
+      "title": "Grüsse aus Gehenna - Teil 2: Am Anfang war das Schwert",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d5/d3/5f/d5d35ff7-9cbe-777d-fc5f-bf2ddda8866f/4064066043858_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album umfasst 28 Teile eines Hörspiel-Albums, das Geschichten rund um das Schwert und Gehenna thematisiert. Es ist ein spannender Fantasy-Abenteuer mit deutschen Erzählungen.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1487232525"
+      },
+      "chapters": []
+    },
+    {
       "id": "1472429685",
       "title": "Der Junge hat doch nichts davongetragen?",
       "episodeNumber": null,
@@ -18,19 +31,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1472429685"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1487232525",
-      "title": "Grüsse aus Gehenna - Teil 2: Am Anfang war das Schwert",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d5/d3/5f/d5d35ff7-9cbe-777d-fc5f-bf2ddda8866f/4064066043858_cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album umfasst 28 Teile eines Hörspiel-Albums, das Geschichten rund um das Schwert und Gehenna thematisiert. Es ist ein spannender Fantasy-Abenteuer mit deutschen Erzählungen.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1487232525"
       },
       "chapters": []
     },
@@ -113,5 +113,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T17:19:36Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }

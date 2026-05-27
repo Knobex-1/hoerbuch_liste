@@ -11,6 +11,1201 @@
   ],
   "albums": [
     {
+      "id": "1747946931",
+      "title": "Sherlock Holmes – Die besonderen Fälle, Folge 1: Das Geheimnis der Cathedral",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/67/89/d867890c-174c-063d-28b5-dafe145b14c6/cover.jpg/600x600bb.jpg",
+      "description": "Über Sherlock Holmes & Doktor Watson nebst einigen Beobachtungen zu Sir Arthur Conan Doyle sowie einem Anhang mit drei Holmes-Episoden außerhalb des Kanons. jmb-Verlag, Hannover 2008, ISBN 978-3-940970-03-9.",
+      "totalDuration": 2980,
+      "platforms": {
+        "appleMusic": "1747946931"
+      },
+      "chapters": [
+        {
+          "id": "sh-besf01-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 73,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 145,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 218,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 291,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 363,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 436,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 509,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 581,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 654,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 727,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 800,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 872,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 945,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1018,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1090,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1163,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1236,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1308,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1381,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1454,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1526,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1599,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 1672,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 1744,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 1817,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 1890,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 1962,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2035,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2108,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2180,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2253,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2326,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2399,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 2471,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 2544,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 2617,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 2689,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 2762,
+          "duration": 73
+        },
+        {
+          "id": "sh-besf01-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 2835,
+          "duration": 72
+        },
+        {
+          "id": "sh-besf01-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 2907,
+          "duration": 73
+        }
+      ]
+    },
+    {
+      "id": "1781708670",
+      "title": "Die neuen Abenteuer, Folge 1: Sherlock Holmes und der wandelnde Tote",
+      "episodeNumber": 1,
+      "releaseDate": "2022-02-26",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/06/82/0706822b-3c40-b292-ea63-a5c32d65ec37/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält die erste Folge der Hörspielserie 'Die neuen Abenteuer', die auf den berühmten Detektiv Sherlock Holmes basiert. Es bietet spannende Geschichten in Hörspielformat.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1781708670"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1529884577",
+      "title": "Die Abenteuer des jungen Sherlock Holmes, Folge 1: Der Maskierte vom East End",
+      "episodeNumber": 1,
+      "releaseDate": "2020-09-18",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3a/8a/66/3a8a66a4-62ac-dee6-04bc-e05b64109042/4260229664186_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Die Abenteuer des jungen Sherlock Holmes, Folge 1: Der Maskierte vom East End'. Es ist Teil einer Serie von Hörspielen, die Sherlock Holmes Geschichten adaptiert.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1529884577"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1770570336",
+      "title": "Folge 1: Sherlock Holmes und der erste Schultag (Sherlock, der kleine Detektiv)",
+      "episodeNumber": 1,
+      "releaseDate": "2024-11-21",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/41/27/ac4127a6-7abe-15eb-15e0-d53ff545e65b/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Episoden über Sherlock Holmes und richtet sich an ein junges Publikum.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1770570336"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1776816124",
+      "title": "Nils Noirs Sherlock Holmes, Staffel 1, Folge 1: Das kalte Herz der Dorothy Double D",
+      "episodeNumber": 1,
+      "releaseDate": "2024-11-01",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/98/e5/e098e59a-597e-1c43-2363-1cfa1ef36050/4099995937923_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel der Serie 'Nils Noirs Sherlock Holmes', die kriminalistische Geschichten mit Spannung erzählt.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1776816124"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1641734359",
+      "title": "Sherlock Holmes jagt Jack the Ripper, Folge 1: Fairy Fay",
+      "episodeNumber": 1,
+      "releaseDate": "2022-09-16",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9e/36/f7/9e36f75e-4e8a-a72a-239d-1af3097c06f4/4260507176035_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Hörspiel, das Sherlock Holmes jagt Jack the Ripper Folge 1: Fairy Fay ist.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1641734359"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1869690356",
+      "title": "Sherlock Holmes und der Erbe des Rippers (Der alte Sherlock Holmes, Folge 1)",
+      "episodeNumber": 1,
+      "releaseDate": "2026-01-30",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/d0/1f/7cd01f77-b5c1-bd18-b3be-85efbe3615e6/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Folge des Hörspiels 'Der alte Sherlock Holmes', die das Abenteuer 'Sherlock Holmes und der Erbe des Rippers' umfasst.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1869690356"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1801683563",
+      "title": "Nils Noirs Sherlock Holmes, Staffel 4 Folge 1: Bunnymans Easter Egg Hunt",
+      "episodeNumber": 1,
+      "releaseDate": "2025-04-11",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/53/ca/8753ca8a-60ac-9dfe-9978-0ce08b2501a8/4069828227767_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel aus der Serie 'Nils Noirs Sherlock Holmes', Episode 1 der vierten Staffel, thematisiert einen Osterhasens-Jagd-Krimi.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1801683563"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1777390836",
+      "title": "Nils Noirs Sherlock Holmes, Staffel 2, Folge 1: Wer hat Angst vor Cutty Coldclown",
+      "episodeNumber": 1,
+      "releaseDate": "2024-11-15",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/e0/20/dce02029-caaa-2c7a-b860-2e545ed9456d/4099995937787_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel-Album von Nils Noir, das Sherlock Holmes thematisiert, enthält eine Episode mit dem Titel 'Wer hat Angst vor Cutty Coldclown'.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1777390836"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1856972391",
+      "title": "Nils Noirs Sherlock Holmes, Staffel 6 - Die Rockdale Saga - Folge 1: Der Balsamierer von Bayswater",
+      "episodeNumber": 1,
+      "releaseDate": "2026-01-02",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/67/89/586789a9-c741-8efa-3abb-407245a5a401/4069829199001_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein deutscher Hörspiel-Album mit dem Titel 'Nils Noirs Sherlock Holmes, Staffel 6 - Die Rockdale Saga - Folge 1: Der Balsamierer von Bayswater' von Nils Noir. Es gehört zum Genre 'Hörspiele' und ist ein spannender Kriminalfall, der Spannung und Intrigen bietet.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1856972391"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1870777775",
+      "title": "Skandalgeschichte im Fürstentum O... (Die Sherlock Holmes Hörspiel-Klassiker, Folge 1)",
+      "episodeNumber": 1,
+      "releaseDate": "2026-02-02",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/7e/ea/fe7eeaaf-4c36-02d4-0cbb-01aa57aa2d87/cover.jpg/100x100bb.jpg",
+      "description": "Ein Teil der Sherlock Holmes Hörspiel-Klassiker-Reihe, bietet spannende Fälle aus der Feder von Arthur Conan Doyle.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1870777775"
+      },
+      "chapters": []
+    },
+    {
+      "id": "6768417004",
+      "title": "Nils Noirs Sherlock Holmes, Staffel 7 - Folge 1: Charly Chambers Stimme aus dem Jenseits",
+      "episodeNumber": 1,
+      "releaseDate": "2026-05-22",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/13/cf/e113cf83-c08e-3ebd-386e-7d168391b14a/4071498254806_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel der Serie 'Nils Noirs Sherlock Holmes' mit Spannung und Mystery.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "6768417004"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1777435001",
+      "title": "Nils Noirs Sherlock Holmes, Staffel 3 Folge 1: Mrs. Hudsons kalter Untermieter",
+      "episodeNumber": 1,
+      "releaseDate": "2024-11-29",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/06/d9/cd06d9c5-25c2-047f-1107-b9d5b26b7d7f/4099995937855_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Folge des Hörspiels 'Nils Noirs Sherlock Holmes', das klassische Kriminalgeschichten in einer humorvollen Interpretation erzählt.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1777435001"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1846150696",
+      "title": "Nils Noirs Sherlock Holmes, Staffel 5, Folge 1: Frederic Flanery, der Flatulist der Königin",
+      "episodeNumber": 1,
+      "releaseDate": "2025-10-31",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/a5/a7/60a5a7d7-dfc0-8de9-bf02-247d0f5061b4/4069828932005_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel von 'Nils Noir' mit Sherlock Holmes-Elementen.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1846150696"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1805925086",
+      "title": "Neues von Sherlock Holmes - Die Hörbücher - Folge 1: Sherlock Holmes und die Zeitmaschine",
+      "episodeNumber": 1,
+      "releaseDate": "2025-04-14",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/05/59/5a055988-94ff-a92a-e3fd-946071969708/9783689843755.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörbücher der Sherlock Holmes-Reihe, bekannt für Krimis und Abenteuer.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1805925086"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1816162992",
+      "title": "Sherlock Holmes - Baker Street 221B London, Folge 1: Sherlock Holmes und der Zorn Gottes",
+      "episodeNumber": 1,
+      "releaseDate": "2020-10-03",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/30/cb/8530cb1e-0697-1275-4f7b-0b2e0dfd0ccf/9783991154891.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album basierend auf Arthur Conan Doyles Sherlock Holmes Geschichten. Es enthält 118 Folgen von Sherlock Holmes, darunter 'Sherlock Holmes und der Zorn Gottes'.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1816162992"
+      },
+      "chapters": []
+    },
+    {
+      "id": "6768417195",
+      "title": "Nils Noirs Sherlock Holmes, Staffel 7 - Folge 1: Charly Chambers Stimme aus dem Jenseits",
+      "episodeNumber": 1,
+      "releaseDate": "2026-05-22",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/1b/0f/f91b0fee-d62b-cf94-2f08-b582d3e490b2/9783689848576.jpg/100x100bb.jpg",
+      "description": "Ein deutscher Hörspiel-Album mit Sherlock Holmes-Themen.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "6768417195"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1532247617",
+      "title": "Der junge Sherlock Holmes – Folge 2: Die Königin der Ratten",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/20/dc/2e20dc8c-ef98-f6c3-1023-4a0370bd2743/4260229664193_3000.jpg/600x600bb.jpg",
+      "description": "Der junge Sherlock Holmes, Folge 21: Der Skandal von Leinster Gardens. David Bredel, Florian Fickel. 5,99 €. Die Playmos, Folge 92: Im geheimen Tal der Dinosaurier (Das Original Playmobil Hörspiel).Der junge Sherlock Holmes, Folge 2: Die Königin der Ratten.",
+      "totalDuration": 3413,
+      "platforms": {
+        "appleMusic": "1532247617"
+      },
+      "chapters": [
+        {
+          "id": "sh-jsh02-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 95,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 190,
+          "duration": 94
+        },
+        {
+          "id": "sh-jsh02-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 284,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 379,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 474,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 569,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 664,
+          "duration": 94
+        },
+        {
+          "id": "sh-jsh02-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 758,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 853,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 948,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1043,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1138,
+          "duration": 94
+        },
+        {
+          "id": "sh-jsh02-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1232,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1327,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1422,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1517,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1612,
+          "duration": 94
+        },
+        {
+          "id": "sh-jsh02-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1706,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1801,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1896,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1991,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2086,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2181,
+          "duration": 94
+        },
+        {
+          "id": "sh-jsh02-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2275,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2370,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2465,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2560,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2655,
+          "duration": 94
+        },
+        {
+          "id": "sh-jsh02-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2749,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2844,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2939,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 3034,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3129,
+          "duration": 94
+        },
+        {
+          "id": "sh-jsh02-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3223,
+          "duration": 95
+        },
+        {
+          "id": "sh-jsh02-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3318,
+          "duration": 95
+        }
+      ]
+    },
+    {
+      "id": "1730690457",
+      "title": "Sherlock Holmes – Sonderermittler der Krone, Folge 3",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f5/b8/38/f5b8387f-b513-2659-b78d-cd5ae320e0f1/4260507192691_3000.jpg/600x600bb.jpg",
+      "description": "Zwei alte Freunde, von denen der eine dem anderen plötzlich nicht mehr vertraut. Welche Gründe könnte Doktor Grant haben, ein so reges Interesse an den Forschungsergebnissen von Professor Arbogast zu entwickeln? Arbogast kommt die Sache merkwürdig vor. Er zieh...",
+      "totalDuration": 2955,
+      "platforms": {
+        "appleMusic": "1730690457"
+      },
+      "chapters": [
+        {
+          "id": "sh-sdk03-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 92,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 185,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 277,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 369,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 462,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 554,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 646,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 739,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 831,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 923,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1016,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1108,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1200,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1293,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1385,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1478,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1570,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1662,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1755,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1847,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1939,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2032,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2124,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2216,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2309,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2401,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2493,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2586,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2678,
+          "duration": 92
+        },
+        {
+          "id": "sh-sdk03-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2770,
+          "duration": 93
+        },
+        {
+          "id": "sh-sdk03-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2863,
+          "duration": 92
+        }
+      ]
+    },
+    {
+      "id": "1545384061",
+      "title": "Der junge Sherlock Holmes, Folge 3: Die Legende von Sprungfeder-Jack",
+      "episodeNumber": 3,
+      "releaseDate": "2021-01-29",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/1b/26/5a1b266d-3b87-3457-7af8-56d7937c443f/4260229664209_3000.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel, das die Abenteuer von Sherlock Holmes mit einer Legende um Sprungfeder-Jack verbindet.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1545384061"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1549740505",
+      "title": "Der junge Sherlock Holmes, Folge 4: Das Phantom von Old Bailey",
+      "episodeNumber": 4,
+      "releaseDate": "2021-02-26",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/3e/9b/493e9b41-1c25-b14b-bfdf-be6c852af7f5/4260229664216_3000.jpg/100x100bb.jpg",
+      "description": "Das Album 'Der junge Sherlock Holmes, Folge 4: Das Phantom von Old Bailey' ist ein Hörspiel im Genre Krimi und Abenteuer, basierend auf einer Sherlock Holmes Geschichte.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1549740505"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1572263885",
+      "title": "Der junge Sherlock Holmes, Folge 5: Das Odin-Ritual",
+      "episodeNumber": 5,
+      "releaseDate": "2021-07-02",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/53/93/66539332-d0a4-e21e-6d0c-4df05435311e/4260229664667_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist eine Folge des Hörspiels \"Der junge Sherlock Holmes\", das im Genre Krimi angesiedelt ist und Abenteuer und Spannung bietet.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1572263885"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1583613602",
+      "title": "Der junge Sherlock Holmes, Folge 6: Das Rätsel des Diogenes",
+      "episodeNumber": 6,
+      "releaseDate": "2021-09-17",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/3e/30/533e307a-6ffa-786a-7a4c-fe0432b91dd2/4260229664674_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel aus der Serie 'Der junge Sherlock Holmes'. Es erzählt ein spannendes Abenteuer rund um das Rätsel des Diogenes.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1583613602"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1594065243",
+      "title": "Der junge Sherlock Holmes, Folge 7: Die Katzen vom Crystal Palace",
+      "episodeNumber": 7,
+      "releaseDate": "2021-12-03",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/ee/88/40ee888f-0e89-a14a-cf6e-949a0744757f/4260229664681_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist eine Hörspielfolge von 'Der junge Sherlock Holmes' mit dem Titel 'Die Katzen vom Crystal Palace'.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1594065243"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1606752255",
+      "title": "Der junge Sherlock Holmes, Folge 8: Das Feuer des Jaguars",
+      "episodeNumber": 8,
+      "releaseDate": "2022-02-24",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/90/f8/0390f8bf-85e1-bae6-c04c-139decf8430e/4260229664865_3000.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel der Serie \"Der junge Sherlock Holmes\", die auf Spannung und Spannung im klassischen Kriminalgenre basiert.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1606752255"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1620039535",
+      "title": "Der junge Sherlock Holmes, Folge 9: Das Geheimnis des Weinhändlers",
+      "episodeNumber": 9,
+      "releaseDate": "2022-05-05",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/85/2d/51852d1d-8474-db83-5878-3f15e51f3f29/4066004455822_3000.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel der Serie 'Der junge Sherlock Holmes' mit Spannung und Abenteuer.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1620039535"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1885773028",
+      "title": "Sherlock Holmes und der Tod, der viele Wege kennt (Der alte Sherlock Holmes, Folge 9)",
+      "episodeNumber": 9,
+      "releaseDate": "2026-05-05",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/29/86/0f298696-dca3-8255-029e-477d0dfdbdaf/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Fortsetzung der beliebten Sherlock Holmes-Geschichten, die typischerweise als Hörspiel formatiert sind.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1885773028"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1631823344",
+      "title": "Der junge Sherlock Holmes, Folge 10: Die Mumie vom Horn Fair",
+      "episodeNumber": 10,
+      "releaseDate": "2022-07-21",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/80/d7/4680d7ee-ddab-ba63-27c6-352dff87d373/4260229665015_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Hörspiel 'Der junge Sherlock Holmes, Folge 10: Die Mumie vom Horn Fair', das auf einem Sherlock-Holmes-Universum basiert und Spannung und Spannung bietet.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1631823344"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1885772627",
+      "title": "Sherlock Holmes und der verräterische Ohrring (Der alte Sherlock Holmes, Folge 10)",
+      "episodeNumber": 10,
+      "releaseDate": "2026-05-09",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/84/65/af84659f-39f0-9af0-ae28-d8ea25600788/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Fortsetzung der beliebten Sherlock Holmes-Geschichten, speziell die Folge 'Der alte Sherlock Holmes, Folge 10'. Es handelt sich um ein Hörspiel, das auf spannenden Ermittlungen und Klassikern der Kriminalgeschichte basiert.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1885772627"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685323594",
+      "title": "Folge 11: Sherlock Holmes auf Langeoog",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/3d/e0/353de00a-6e10-f5cd-7590-c7cfd24d2712/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Hörspiel 'Folge 11: Sherlock Holmes auf Langeoog' von Insel-Krimi, das Sherlock Holmes-Geschichten erzählt. Es ist ein spannendes Kriminal-Abenteuer, das auf Langeoog spielt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685323594"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1644873899",
+      "title": "Der junge Sherlock Holmes, Folge 11: Die Zeitmaschine",
+      "episodeNumber": 11,
+      "releaseDate": "2022-10-20",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/7f/89/db7f89c5-0de1-d4f1-86ba-5223b64f833a/4260229665039_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält die Folge 'Die Zeitmaschine' aus der Serie 'Der junge Sherlock Holmes'. Es handelt sich um ein Hörspiel, das Sherlock Holmes und seinen Abenteuern folgt.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1644873899"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1660225553",
+      "title": "Der junge Sherlock Holmes, Folge 12: Der Schatten der Queen (Ungekürzt)",
+      "episodeNumber": 12,
+      "releaseDate": "2023-01-27",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1a/17/d9/1a17d905-d6b2-52d5-65f7-4ed1cf4c457c/4260229665053_3000.jpg/100x100bb.jpg",
+      "description": "Ein spannender Krimi-Hörspiel-Album, das auf den Titeln und Genres basieren lässt.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1660225553"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1596943925",
+      "title": "Folge 63: Insel-Krimi 11 - Sherlock Holmes auf Langeoog",
+      "episodeNumber": 63,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/8d/7a/d08d7ab4-6d14-51dd-5b0e-b8638d3931d2/cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel mit dem Titel 'Folge 63: Insel-Krimi 11 - Sherlock Holmes auf Langeoog' von der Hörspielkammer des Schreckens, das Comedy-Elemente enthält. Es handelt sich um ein spannendes Kriminalhörspiel im Abenteuer-Genre.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1596943925"
+      },
+      "chapters": []
+    },
+    {
       "id": "1686419439",
       "title": "Das kalte Herz (Sherlock Holmes: Aus den Tagebüchern von Dr. Watson)",
       "episodeNumber": null,
@@ -1558,5 +2753,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T17:31:06Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }

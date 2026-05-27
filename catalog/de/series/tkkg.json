@@ -11,6 +11,3946 @@
   ],
   "albums": [
     {
+      "id": "1596940691",
+      "title": "Folge 55: Tkkg 108 - Das Konzert bei den Ratten",
+      "episodeNumber": 55,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/e9/50/d4e9506a-da66-4d72-b098-f7f7efd24432/cover.jpg/100x100bb.jpg",
+      "description": "Ein humorvolles Hörspiel, das vermutlich satirische oder absurde Elemente behandelt, typisch für das Hörspielformat des 'Hörspielkammer des Schreckens'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1596940691"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1195632440",
+      "title": "TKKG – Folge 100: Fieser Trick mit Nr. 100",
+      "episodeNumber": 100,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/b2/53/45/b25345c6-6e91-6193-9c05-1105fe5a7114/886446327099.jpg/600x600bb.jpg",
+      "description": "100\" Hörbuch von Stefan Wolf, gelesen von . Sofort-Download Auch im Abo. Testen Sie unser Hörbuch-Abo jetzt 30 Tage komplett kostenlos!** Produktbild: TKKG - Folge 100: Fieser Trick mit Nr.",
+      "totalDuration": 2732,
+      "platforms": {
+        "appleMusic": "1195632440"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-100-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 68,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 137,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 205,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 273,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 342,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 410,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 478,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 546,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 615,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 683,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 751,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 820,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 888,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 956,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1024,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1093,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1161,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1229,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1298,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1366,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1434,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1503,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 1571,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 1639,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 1708,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 1776,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 1844,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 1912,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 1981,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2049,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2117,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2186,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2254,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 2322,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 2390,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 2459,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 2527,
+          "duration": 68
+        },
+        {
+          "id": "tkkg-100-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 2595,
+          "duration": 69
+        },
+        {
+          "id": "tkkg-100-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 2664,
+          "duration": 68
+        }
+      ]
+    },
+    {
+      "id": "1195630985",
+      "title": "TKKG – Folge 102: Angst auf der Autobahn",
+      "episodeNumber": 102,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/4f/7b/b04f7bcc-8446-81de-17ac-3d410150ecef/886446327143.jpg/600x600bb.jpg",
+      "description": "Nächster Titel. Artikelbild von TKKG - Folge 102: Angst auf der Autobahn.Auf meinen Merkzettel. TKKG Krimi-Box (6) Folgen 143, 149 und 156 von Stefan Wolf Produktbild: TKKG Krimi-Box (6) Folgen 143, 149 und 156.",
+      "totalDuration": 2942,
+      "platforms": {
+        "appleMusic": "1195630985"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-102-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 74,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 147,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 221,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 294,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 368,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 441,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 515,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 588,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 662,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 736,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 809,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 883,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 956,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1030,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1103,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1177,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1250,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1324,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1397,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1471,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1545,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1618,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 1692,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 1765,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 1839,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 1912,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 1986,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2059,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2133,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2206,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2280,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2354,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2427,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 2501,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 2574,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 2648,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 2721,
+          "duration": 74
+        },
+        {
+          "id": "tkkg-102-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 2795,
+          "duration": 73
+        },
+        {
+          "id": "tkkg-102-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 2868,
+          "duration": 74
+        }
+      ]
+    },
+    {
+      "id": "1087325856",
+      "title": "TKKG – Folge 158: Trainer unter Verdacht",
+      "episodeNumber": 158,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/f3/80/9d/f3809d98-1df2-0a8e-c27b-5b63a5ccef66/886445640656.jpg/600x600bb.jpg",
+      "description": "Stefan Wolf. André Kussmaul. TKKG - Folge 158: Trainer unter Verdacht. Aus der Reihe TKKG Band 158. Einzelkauf Download ausgewählt.",
+      "totalDuration": 3331,
+      "platforms": {
+        "appleMusic": "1087325856"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-158-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 83,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 167,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 250,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 333,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 416,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 500,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 583,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 666,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 749,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 833,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 916,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 999,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1083,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1166,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1249,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1332,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1416,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1499,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1582,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1666,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1749,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1832,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 1915,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 1999,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2082,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2165,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2248,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2332,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2415,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2498,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2582,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2665,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2748,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 2831,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 2915,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 2998,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3081,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-158-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3164,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-158-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3248,
+          "duration": 83
+        }
+      ]
+    },
+    {
+      "id": "1087327153",
+      "title": "TKKG – Folge 182: Im Bann des Übersinnlichen",
+      "episodeNumber": 182,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/09/98/9a/09989aa9-1a60-6cb0-1dab-776c2c54831f/886445640946.jpg/600x600bb.jpg",
+      "description": "Folge 182 \"Im Bann des Übersinnlichen\" ist ein von Europa produziertes TKKG-Hörspiel, das im April 2013 von Sony Music veröffentlicht und von Martin Hofstetter verfasst wurde.",
+      "totalDuration": 4152,
+      "platforms": {
+        "appleMusic": "1087327153"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-182-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 104,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 208,
+          "duration": 103
+        },
+        {
+          "id": "tkkg-182-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 311,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 415,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 519,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 623,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 727,
+          "duration": 103
+        },
+        {
+          "id": "tkkg-182-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 830,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 934,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 1038,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1142,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1246,
+          "duration": 103
+        },
+        {
+          "id": "tkkg-182-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1349,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1453,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1557,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1661,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1765,
+          "duration": 103
+        },
+        {
+          "id": "tkkg-182-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1868,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1972,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 2076,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 2180,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2284,
+          "duration": 103
+        },
+        {
+          "id": "tkkg-182-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2387,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2491,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2595,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2699,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2803,
+          "duration": 103
+        },
+        {
+          "id": "tkkg-182-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2906,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 3010,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 3114,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 3218,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 3322,
+          "duration": 103
+        },
+        {
+          "id": "tkkg-182-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3425,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3529,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3633,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3737,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3841,
+          "duration": 103
+        },
+        {
+          "id": "tkkg-182-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3944,
+          "duration": 104
+        },
+        {
+          "id": "tkkg-182-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 4048,
+          "duration": 104
+        }
+      ]
+    },
+    {
+      "id": "1087321041",
+      "title": "TKKG – Folge 184: Die ewige Finsternis",
+      "episodeNumber": 184,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/48/9b/37/489b37be-99b4-021c-e601-05811374a233/886445640960.jpg/600x600bb.jpg",
+      "description": "Folge 184 \"Die ewige Finsternis\" ist ein von Europa produziertes TKKG-Hörspiel, das im September 2013 von Sony Music Entertainment veröffentlicht und von Martin Hofstetter verfasst wurde.",
+      "totalDuration": 3637,
+      "platforms": {
+        "appleMusic": "1087321041"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-184-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 91,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 182,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 273,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 364,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 455,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 546,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-184-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 636,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 727,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 818,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 909,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1000,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1091,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1182,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1273,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1364,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1455,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1546,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1637,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1728,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-184-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1818,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1909,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2000,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2091,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2182,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2273,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2364,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2455,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2546,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2637,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2728,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2819,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2910,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3001,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-184-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3091,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3182,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3273,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3364,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3455,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-184-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3546,
+          "duration": 91
+        }
+      ]
+    },
+    {
+      "id": "1087309130",
+      "title": "TKKG – Folge 194: Der Friedhof der Namenlosen",
+      "episodeNumber": 194,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/0c/f8/cf/0cf8cfa2-2a1d-61de-6a70-88fbdc32d1c0/886445641073.jpg/600x600bb.jpg",
+      "description": "Buch: Veronika Hampl nach Motiven von Stefan Wolf Effekte: André Minninger Redaktion: Maike Müller, Wanda Osten Geräusche: Wanda Osten Coverillustration: Comicon S.L. - nach Artwork-Vorlagen von Reiner Stolte Rahmendesign: KB&B Gestaltung: Atelier Schoedsack „TKKG - Die Profis in spe“: Bonda / Büscher Musik: Tonstudio EUROPA",
+      "totalDuration": 4434,
+      "platforms": {
+        "appleMusic": "1087309130"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-194-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 111,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 222,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 333,
+          "duration": 110
+        },
+        {
+          "id": "tkkg-194-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 443,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 554,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 665,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 776,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 887,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 998,
+          "duration": 110
+        },
+        {
+          "id": "tkkg-194-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 1108,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1219,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1330,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1441,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1552,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1663,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1774,
+          "duration": 110
+        },
+        {
+          "id": "tkkg-194-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1884,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1995,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 2106,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 2217,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 2328,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2439,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2550,
+          "duration": 110
+        },
+        {
+          "id": "tkkg-194-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2660,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2771,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2882,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2993,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 3104,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 3215,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 3326,
+          "duration": 110
+        },
+        {
+          "id": "tkkg-194-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 3436,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 3547,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3658,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3769,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3880,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3991,
+          "duration": 110
+        },
+        {
+          "id": "tkkg-194-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 4101,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 4212,
+          "duration": 111
+        },
+        {
+          "id": "tkkg-194-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 4323,
+          "duration": 111
+        }
+      ]
+    },
+    {
+      "id": "1208973032",
+      "title": "TKKG – Folge 200: Der große Coup",
+      "episodeNumber": 200,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/5a/b3/225ab391-4b5a-e0d8-7ed6-04dcfc719f73/886446167053.jpg/600x600bb.jpg",
+      "description": "Folge 200 „Der große Coup“ ist ein von Europa produziertes TKKG-Jubiläumshörspiel, das im März 2017 von Sony Music veröffentlicht und von Martin Hofstetter verfasst wurde. In der Internatsschule, die Tim, Karl, Gaby und Klößchen besuchen, gibt es etwas zu feiern.",
+      "totalDuration": 7463,
+      "platforms": {
+        "appleMusic": "1208973032"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-200-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 93,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 187,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 280,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 373,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 466,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 560,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 653,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 746,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 840,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 933,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1026,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1119,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1213,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1306,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1399,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1493,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1586,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1679,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1772,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1866,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1959,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2052,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2146,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2239,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2332,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2425,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2519,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2612,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2705,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2799,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2892,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2985,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3078,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3172,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3265,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3358,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3452,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3545,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3638,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3732,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3825,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 3918,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 4011,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 4105,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 4198,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 4291,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 4385,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 4478,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t50",
+          "title": "Teil 50",
+          "index": 49,
+          "startTime": 4571,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t51",
+          "title": "Teil 51",
+          "index": 50,
+          "startTime": 4664,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t52",
+          "title": "Teil 52",
+          "index": 51,
+          "startTime": 4758,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t53",
+          "title": "Teil 53",
+          "index": 52,
+          "startTime": 4851,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t54",
+          "title": "Teil 54",
+          "index": 53,
+          "startTime": 4944,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t55",
+          "title": "Teil 55",
+          "index": 54,
+          "startTime": 5038,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t56",
+          "title": "Teil 56",
+          "index": 55,
+          "startTime": 5131,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t57",
+          "title": "Teil 57",
+          "index": 56,
+          "startTime": 5224,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t58",
+          "title": "Teil 58",
+          "index": 57,
+          "startTime": 5317,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t59",
+          "title": "Teil 59",
+          "index": 58,
+          "startTime": 5411,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t60",
+          "title": "Teil 60",
+          "index": 59,
+          "startTime": 5504,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t61",
+          "title": "Teil 61",
+          "index": 60,
+          "startTime": 5597,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t62",
+          "title": "Teil 62",
+          "index": 61,
+          "startTime": 5691,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t63",
+          "title": "Teil 63",
+          "index": 62,
+          "startTime": 5784,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t64",
+          "title": "Teil 64",
+          "index": 63,
+          "startTime": 5877,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t65",
+          "title": "Teil 65",
+          "index": 64,
+          "startTime": 5970,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t66",
+          "title": "Teil 66",
+          "index": 65,
+          "startTime": 6064,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t67",
+          "title": "Teil 67",
+          "index": 66,
+          "startTime": 6157,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t68",
+          "title": "Teil 68",
+          "index": 67,
+          "startTime": 6250,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t69",
+          "title": "Teil 69",
+          "index": 68,
+          "startTime": 6344,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t70",
+          "title": "Teil 70",
+          "index": 69,
+          "startTime": 6437,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t71",
+          "title": "Teil 71",
+          "index": 70,
+          "startTime": 6530,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t72",
+          "title": "Teil 72",
+          "index": 71,
+          "startTime": 6623,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t73",
+          "title": "Teil 73",
+          "index": 72,
+          "startTime": 6717,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t74",
+          "title": "Teil 74",
+          "index": 73,
+          "startTime": 6810,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t75",
+          "title": "Teil 75",
+          "index": 74,
+          "startTime": 6903,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t76",
+          "title": "Teil 76",
+          "index": 75,
+          "startTime": 6997,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t77",
+          "title": "Teil 77",
+          "index": 76,
+          "startTime": 7090,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t78",
+          "title": "Teil 78",
+          "index": 77,
+          "startTime": 7183,
+          "duration": 93
+        },
+        {
+          "id": "tkkg-200-t79",
+          "title": "Teil 79",
+          "index": 78,
+          "startTime": 7276,
+          "duration": 94
+        },
+        {
+          "id": "tkkg-200-t80",
+          "title": "Teil 80",
+          "index": 79,
+          "startTime": 7370,
+          "duration": 93
+        }
+      ]
+    },
+    {
+      "id": "1345999553",
+      "title": "TKKG – Folge 205: Teuflische Kaffeefahrt",
+      "episodeNumber": 205,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cb/0e/3c/cb0e3cc9-d74f-d043-0fb5-aea9d7092691/886446809564.jpg/600x600bb.jpg",
+      "description": "Folge 205 „Teuflische Kaffeefahrt“ ist ein von Europa produziertes TKKG-Hörspiel, das im Mai 2018 von Sony Music veröffentlicht und von Martin Hofstetter verfasst wurde. Tim, Karl, Gaby und Klößchen kommen einem Betrüger auf die Schliche: Auf Gratiskaffeefahrten nimmt der Geschäftsmann Hagen Teufel gutgläubige, ältere Menschen aus, indem er ihnen wertlose Heilmittel zu schamlos ...",
+      "totalDuration": 4179,
+      "platforms": {
+        "appleMusic": "1345999553"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-205-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 84,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 167,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 251,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 334,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 418,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 501,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 585,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 669,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 752,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 836,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 919,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1003,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1087,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1170,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1254,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1337,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1421,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1504,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1588,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1672,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1755,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1839,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 1922,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2006,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2090,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2173,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2257,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2340,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2424,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2507,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2591,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2675,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2758,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 2842,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 2925,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3009,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3092,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3176,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3260,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3343,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3427,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 3510,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 3594,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 3678,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 3761,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 3845,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 3928,
+          "duration": 84
+        },
+        {
+          "id": "tkkg-205-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 4012,
+          "duration": 83
+        },
+        {
+          "id": "tkkg-205-t50",
+          "title": "Teil 50",
+          "index": 49,
+          "startTime": 4095,
+          "duration": 84
+        }
+      ]
+    },
+    {
+      "id": "1536103570",
+      "title": "TKKG – Folge 216: Das Geheimnis im Jagdschloss",
+      "episodeNumber": 216,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/32/d6213230-354c-2704-34e8-cb6e43b3cb40/886448767053.jpg/600x600bb.jpg",
+      "description": "Auch das parallele Hören durch verschiedene Familienmitglieder ist durch Family Sharing möglich. Um Hörbücher zu teilen oder geteilt zu bekommen, muss jedes Familienmitglied ein Konto bei einem tolino-Buchhändler haben.",
+      "totalDuration": 4222,
+      "platforms": {
+        "appleMusic": "1536103570"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-216-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 98,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 196,
+          "duration": 99
+        },
+        {
+          "id": "tkkg-216-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 295,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 393,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 491,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 589,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 687,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 785,
+          "duration": 99
+        },
+        {
+          "id": "tkkg-216-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 884,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 982,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1080,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1178,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1276,
+          "duration": 99
+        },
+        {
+          "id": "tkkg-216-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1375,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1473,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1571,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1669,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1767,
+          "duration": 99
+        },
+        {
+          "id": "tkkg-216-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1866,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1964,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 2062,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2160,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2258,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2356,
+          "duration": 99
+        },
+        {
+          "id": "tkkg-216-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2455,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2553,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2651,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2749,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2847,
+          "duration": 99
+        },
+        {
+          "id": "tkkg-216-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2946,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 3044,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 3142,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3240,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3338,
+          "duration": 99
+        },
+        {
+          "id": "tkkg-216-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3437,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3535,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3633,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3731,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3829,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3927,
+          "duration": 99
+        },
+        {
+          "id": "tkkg-216-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 4026,
+          "duration": 98
+        },
+        {
+          "id": "tkkg-216-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 4124,
+          "duration": 98
+        }
+      ]
+    },
+    {
+      "id": "1560974913",
+      "title": "TKKG – Folge 219: Terror frei Haus",
+      "episodeNumber": 219,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/5c/d4/6c5cd47d-0299-9277-d76a-f23d647ed65a/886449034147.jpg/600x600bb.jpg",
+      "description": "TKKG - Folge 219: Terror frei Haus. Tim, Karl, Klößchen und Gaby werden Zeugen, wie KlößchensNachbarin an der Tür von zwei als Paketboten verkleidetenGaunern überrumpelt wird. TKKG - Folge 219: Terror frei Haus. Tim, Karl, Klößchen und Gaby werden Zeugen, wie KlößchensNachbarin an der Tür von zwei als Paketboten verkleidetenGaunern überrumpelt wird. TKKG eilen Frau Monique vanDorten zu Hilfe. Mit ihrem plötzlichen Auftauchen schlagen sie die Verbrecher in die Flucht. TKKG - Folge 219: Terror frei Haus. Tim, Karl, Klößchen und Gaby werden Zeugen, wie KlößchensNachbarin an der Tür von zwei als Paketboten verkleidetenGaunern überrumpelt wird. TKKG eilen Frau Monique vanDorten zu Hilfe. Mit ihre",
+      "totalDuration": 3733,
+      "platforms": {
+        "appleMusic": "1560974913"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-219-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 124,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 249,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 373,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 498,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 622,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 747,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 871,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 995,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 1120,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 1244,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1369,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1493,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1618,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1742,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1866,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1991,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 2115,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 2240,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 2364,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 2489,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 2613,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2738,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2862,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2986,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 3111,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 3235,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 3360,
+          "duration": 124
+        },
+        {
+          "id": "tkkg-219-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 3484,
+          "duration": 125
+        },
+        {
+          "id": "tkkg-219-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 3609,
+          "duration": 124
+        }
+      ]
+    },
+    {
+      "id": "1580961248",
+      "title": "TKKG – Folge 220: Attentat am Gämsengrat",
+      "episodeNumber": 220,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/8f/c9/8a8fc9dd-3039-5c67-8f82-14cf40121728/886449503797.jpg/600x600bb.jpg",
+      "description": "Stefan Wolf. Martin Hofstetter. TKKG - Folge 220: Attentat am Gämsengrat. Aus der Reihe TKKG Band 220. Einzelkauf Download ausgewählt.",
+      "totalDuration": 3882,
+      "platforms": {
+        "appleMusic": "1580961248"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-220-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 121,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 243,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 364,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 485,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 607,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 728,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 849,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 970,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 1092,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 1213,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1334,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1456,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1577,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1698,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1820,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1941,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 2062,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 2184,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 2305,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 2426,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 2548,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2669,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2790,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2912,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 3033,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 3154,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 3275,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 3397,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 3518,
+          "duration": 121
+        },
+        {
+          "id": "tkkg-220-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 3639,
+          "duration": 122
+        },
+        {
+          "id": "tkkg-220-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 3761,
+          "duration": 121
+        }
+      ]
+    },
+    {
+      "id": "1794142382",
+      "title": "TKKG – Folge 236: Schatten aus der Unterwelt",
+      "episodeNumber": 236,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/96/f7/4b96f7b7-8f4e-401d-b241-f34c64df2d82/196872271317.jpg/600x600bb.jpg",
+      "description": "... der Frankfurter Batschkapp präsentiert das TKKG-Sprecher:innen-Ensemble diese Woche die fast überall ausverkaufte Live-Show „Schatten aus der ...",
+      "totalDuration": 5634,
+      "platforms": {
+        "appleMusic": "1794142382"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-236-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 91,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 182,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 273,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-236-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 363,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 454,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 545,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 636,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 727,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 818,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 909,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1000,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-236-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1090,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1181,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1272,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1363,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1454,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1545,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1636,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1727,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-236-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1817,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1908,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1999,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2090,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2181,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2272,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2363,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2454,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-236-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2544,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2635,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2726,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2817,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2908,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2999,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3090,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-236-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3180,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3271,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3362,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3453,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3544,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3635,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 3726,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 3817,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-236-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 3907,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 3998,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 4089,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 4180,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 4271,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 4362,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t50",
+          "title": "Teil 50",
+          "index": 49,
+          "startTime": 4453,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t51",
+          "title": "Teil 51",
+          "index": 50,
+          "startTime": 4544,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-236-t52",
+          "title": "Teil 52",
+          "index": 51,
+          "startTime": 4634,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t53",
+          "title": "Teil 53",
+          "index": 52,
+          "startTime": 4725,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t54",
+          "title": "Teil 54",
+          "index": 53,
+          "startTime": 4816,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t55",
+          "title": "Teil 55",
+          "index": 54,
+          "startTime": 4907,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t56",
+          "title": "Teil 56",
+          "index": 55,
+          "startTime": 4998,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t57",
+          "title": "Teil 57",
+          "index": 56,
+          "startTime": 5089,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t58",
+          "title": "Teil 58",
+          "index": 57,
+          "startTime": 5180,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t59",
+          "title": "Teil 59",
+          "index": 58,
+          "startTime": 5271,
+          "duration": 90
+        },
+        {
+          "id": "tkkg-236-t60",
+          "title": "Teil 60",
+          "index": 59,
+          "startTime": 5361,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t61",
+          "title": "Teil 61",
+          "index": 60,
+          "startTime": 5452,
+          "duration": 91
+        },
+        {
+          "id": "tkkg-236-t62",
+          "title": "Teil 62",
+          "index": 61,
+          "startTime": 5543,
+          "duration": 91
+        }
+      ]
+    },
+    {
       "id": "490742749",
       "title": "TKKG Krimi-Box 5",
       "episodeNumber": null,
@@ -388,5 +4328,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T17:19:36Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }

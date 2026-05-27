@@ -9,22 +9,9 @@
   ],
   "albums": [
     {
-      "id": "1851297535",
-      "title": "Die Traumreise zum Sternenhimmel - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/53/38/7b533880-8641-17cf-12ea-cb77c24a8285/4066004865942_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspielalbum, das speziell für Erwachsene und Kinder konzipiert ist. Es umfasst eine Reise zum Sternenhimmel und bietet eine unterhaltsame und lehrreiche Erfahrung für Zuhörer jeden Alters.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1851297535"
-      },
-      "chapters": []
-    },
-    {
       "id": "1784374396",
       "title": "Folge 1: Ein Sommertag auf der Blumenwiese - Single",
-      "episodeNumber": null,
+      "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/ae/90/fdae9096-3296-ef29-35db-e5cab04e86ef/4066004810973_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiel-Tracks und passt somit zu einem Hörspiel-Kontext.",
@@ -37,7 +24,7 @@
     {
       "id": "1784374270",
       "title": "Folge 2: Eine Wanderung im Wald - Single",
-      "episodeNumber": null,
+      "episodeNumber": 2,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/90/9d/b3909d50-c43e-de12-3b8a-328b3a8395cb/4066004810980_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album beinhaltet zwei Hörspiel-Tracks, die sich auf eine Wanderung im Wald konzentrieren und sich an Erwachsene und Kinder gleichermaßen richten.",
@@ -50,7 +37,7 @@
     {
       "id": "1784374665",
       "title": "Folge 3: Eine Wanderung in den Bergen - Single",
-      "episodeNumber": null,
+      "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/a6/b2/54a6b2c5-d601-aaac-712c-07832981d787/4066004810997_3000.jpg/100x100bb.jpg",
       "description": "Ein Hörspielalbum über eine Wanderung in den Bergen, geeignet für Erwachsene und Kinder.",
@@ -63,7 +50,7 @@
     {
       "id": "1784374483",
       "title": "Folge 4: Eine Übernachtung in der Almhütte - Single",
-      "episodeNumber": null,
+      "episodeNumber": 4,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/04/bc/1e04bce7-a570-b99b-82cd-27bbca6d7ada/4066004811000_3000.jpg/100x100bb.jpg",
       "description": "Ein Hörspiel über eine Übernachtung in einer Almhütte, geeignet für Erwachsene und Kinder.",
@@ -76,7 +63,7 @@
     {
       "id": "1791589816",
       "title": "Folge 5: Eine magische Safari - Single",
-      "episodeNumber": null,
+      "episodeNumber": 5,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/27/c1/e327c1c5-10f4-2572-19e2-5f3f2d861968/4066004811017_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspiel-Tracks unter dem Titel 'Folge 5: Eine magische Safari', das sich an Erwachsene und Kinder richtet.",
@@ -89,7 +76,7 @@
     {
       "id": "1791590163",
       "title": "Folge 6: Das magische Korallenriff - Single",
-      "episodeNumber": null,
+      "episodeNumber": 6,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/53/94/1f539496-8a12-a48b-8a63-a53afa3301d7/4066004811024_3000.jpg/100x100bb.jpg",
       "description": "Das Album enthält Hörspiele mit dem Titel 'Folge 6: Das magische Korallenriff' von Traumreisen für Erwachsene und Kinder, die sich an verschiedene Altersgruppen richten.",
@@ -102,7 +89,7 @@
     {
       "id": "1791590887",
       "title": "Folge 7: Das chinesische Feuerwerk - Single",
-      "episodeNumber": null,
+      "episodeNumber": 7,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/d4/87/c6d4878c-275c-063b-520d-6c588fdac921/4066004811031_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält die Titelfolge 7: Das chinesische Feuerwerk, was auf eine Hörspiel-Produktion hindeutet.",
@@ -115,7 +102,7 @@
     {
       "id": "1791593229",
       "title": "Folge 8: Ein Flug im Heissluftballon - Single",
-      "episodeNumber": null,
+      "episodeNumber": 8,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/1b/28/d51b2875-593d-2b33-dbce-22a1f73011ad/4066004811048_3000.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält Hörspielsequenzen, die auf spannende Abenteuer und Reisen fokussieren. Es richtet sich sowohl an Erwachsene als auch an Kinder, was die Hörspiel-Form besonders gut unterstützt.",
@@ -124,7 +111,20 @@
         "appleMusic": "1791593229"
       },
       "chapters": []
+    },
+    {
+      "id": "1851297535",
+      "title": "Die Traumreise zum Sternenhimmel - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/53/38/7b533880-8641-17cf-12ea-cb77c24a8285/4066004865942_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspielalbum, das speziell für Erwachsene und Kinder konzipiert ist. Es umfasst eine Reise zum Sternenhimmel und bietet eine unterhaltsame und lehrreiche Erfahrung für Zuhörer jeden Alters.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1851297535"
+      },
+      "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T17:19:36Z"
+  "updatedAt": "2026-05-27T18:00:35Z"
 }
