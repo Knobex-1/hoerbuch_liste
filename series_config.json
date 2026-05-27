@@ -149,6 +149,55 @@
       "author": "Jason Dark",
       "narrator": "",
       "enabled": true
+    },
+    {
+      "title": "Kampfmagischer Farmer",
+      "search_term": "Kampfmagischer Farmer",
+      "extra_search_terms": [],
+      "artist_filter": "Seth Ring",
+      "genres": [
+        "Fantasy",
+        "LitRPG"
+      ],
+      "author": "Seth Ring",
+      "narrator": "Nicht angegeben",
+      "enabled": true
+    },
+    {
+      "title": "Raumstation Alpha-Base",
+      "search_term": "Raumstation Alpha-Base Hörspiele",
+      "extra_search_terms": [],
+      "artist_filter": "James Owen",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "author": "James Owen",
+      "narrator": "James Owen",
+      "enabled": true
+    },
+    {
+      "title": "Die großen Meister des Horrors",
+      "search_term": "Die großen Meister des Horrors",
+      "extra_search_terms": [],
+      "artist_filter": "Bram Stoker",
+      "genres": [
+        "Horror"
+      ],
+      "author": "Bram Stoker",
+      "narrator": "Elfie Donnelly",
+      "enabled": true
+    },
+    {
+      "title": "Per Anhalter durch die Galaxis",
+      "search_term": "Per Anhalter durch die Galaxis Hörspiel",
+      "extra_search_terms": [],
+      "artist_filter": "Douglas Adams",
+      "genres": [
+        "Science-Fiction"
+      ],
+      "author": "Douglas Adams",
+      "narrator": "Bill Oddie",
+      "enabled": true
     }
   ]
 }
