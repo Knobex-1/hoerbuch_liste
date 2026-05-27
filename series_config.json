@@ -210,6 +210,282 @@
       "author": "Alfred Hitchcock präsentiert",
       "narrator": "",
       "enabled": true
+    },
+    {
+      "title": "Planet Eden",
+      "search_term": "planet eden",
+      "extra_search_terms": [],
+      "artist_filter": "Planet Eden",
+      "genres": [
+        "Hörspiel"
+      ],
+      "author": "Planet Eden",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Zoomania",
+      "search_term": "Zoomania",
+      "extra_search_terms": [],
+      "artist_filter": "Zoomania",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Bibi und Tina",
+      "search_term": "Bibi und Tina",
+      "extra_search_terms": [],
+      "artist_filter": "Bibi und Tina",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Die Eiskönigin",
+      "search_term": "Die Eiskönigin",
+      "extra_search_terms": [],
+      "artist_filter": "Die Eiskönigin",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Spidey Hörspiel",
+      "search_term": "Spidey Hörspiel",
+      "extra_search_terms": [],
+      "artist_filter": "Spidey Hörspiel",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Torsten Sträter",
+      "search_term": "Torsten Sträter",
+      "extra_search_terms": [],
+      "artist_filter": "Torsten Sträter",
+      "genres": [
+        "Comedy"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Kinder Kurzgeschichten, Kinder Hörbuch & Kinder Schlafgeschichten",
+      "search_term": "Kinder Kurzgeschichten, Kinder Hörbuch & Kinder Schlafgeschichten",
+      "extra_search_terms": [],
+      "artist_filter": "Kinder Kurzgeschichten, Kinder Hörbuch & Kinder Schlafgeschichten",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Hörbuch Manufaktur an der Elbe",
+      "search_term": "Hörbuch Manufaktur an der Elbe",
+      "extra_search_terms": [],
+      "artist_filter": "Hörbuch Manufaktur an der Elbe",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Conni",
+      "search_term": "Conni",
+      "extra_search_terms": [],
+      "artist_filter": "Conni",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Meine Freundin Conni",
+      "search_term": "Meine Freundin Conni",
+      "extra_search_terms": [],
+      "artist_filter": "Meine Freundin Conni",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Benjamin Blümchen",
+      "search_term": "Benjamin Blümchen",
+      "extra_search_terms": [],
+      "artist_filter": "Benjamin Blümchen",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Sherlock Holmes - Die neuen Fälle",
+      "search_term": "Sherlock Holmes - Die neuen Fälle",
+      "extra_search_terms": [],
+      "artist_filter": "Sherlock Holmes - Die neuen Fälle",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Alea Aquarius & Tanya Stewner",
+      "search_term": "Alea Aquarius & Tanya Stewner",
+      "extra_search_terms": [],
+      "artist_filter": "Alea Aquarius & Tanya Stewner",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Pettersson und Findus",
+      "search_term": "Pettersson und Findus",
+      "extra_search_terms": [],
+      "artist_filter": "Pettersson und Findus",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Die Playmos",
+      "search_term": "Die Playmos",
+      "extra_search_terms": [],
+      "artist_filter": "Die Playmos",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Robin Hood - Schlitzohr von Sherwood",
+      "search_term": "Robin Hood - Schlitzohr von Sherwood",
+      "extra_search_terms": [],
+      "artist_filter": "Robin Hood - Schlitzohr von Sherwood",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Miraculous",
+      "search_term": "Miraculous",
+      "extra_search_terms": [],
+      "artist_filter": "Miraculous",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Yakari",
+      "search_term": "Yakari",
+      "extra_search_terms": [],
+      "artist_filter": "Yakari",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Patrick Lynen",
+      "search_term": "Patrick Lynen",
+      "extra_search_terms": [],
+      "artist_filter": "Patrick Lynen",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Traumreisen für Erwachsene und Kinder",
+      "search_term": "Traumreisen für Erwachsene und Kinder",
+      "extra_search_terms": [],
+      "artist_filter": "Traumreisen für Erwachsene und Kinder",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Traumreisen für Kinder und Erwachsene",
+      "search_term": "Traumreisen für Kinder und Erwachsene",
+      "extra_search_terms": [],
+      "artist_filter": "Traumreisen für Kinder und Erwachsene",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+      "search_term": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+      "extra_search_terms": [],
+      "artist_filter": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "title": "Kai Magnus Sting",
+      "search_term": "Kai Magnus Sting",
+      "extra_search_terms": [],
+      "artist_filter": "Kai Magnus Sting",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
     }
   ]
 }
