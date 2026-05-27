@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-27T08:05:07.231435+00:00",
+  "updatedAt": "2026-05-27T08:10:52.847307+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -26132,6 +26132,3035 @@
       ],
       "chapters": [],
       "description": "Dieses Album ist ein Teil einer Serie über 'Planet Eden' und gehört zum Genre der Hörspiele."
+    },
+    {
+      "id": "inse-folg-9646",
+      "title": "Folge 7: Norderney Morderney",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/5c/c7/2b5cc792-0d7c-df9c-f738-abaa263dc941/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685339646"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Insel-Krimi-Hörspiel mit 37 Folgen über Verbrechen auf Norderney."
+    },
+    {
+      "id": "krim-krim-8821",
+      "title": "Krimis von der Küste Folge 3 - Sommerschnee",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f1/7f/52/f17f52de-766e-7c8b-0aa4-68192f2444a4/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1734258821"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Krimis und ist als Hörspiel formatiert."
+    },
+    {
+      "id": "krim-folg-2779",
+      "title": "Folge 1: Theresa (Krimis von der Küste)",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/89/7a/30897ab2-f5e2-215d-25be-663faec8ddca/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1695602779"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 1: Theresa' aus der Reihe 'Krimis von der Küste'. Es bietet spannende Kriminalgeschichten entlang der Küste."
+    },
+    {
+      "id": "krim-krim-9706",
+      "title": "Krimis von der Küste Folge 8 - Explosives Cuxhaven",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/37/2e/44372e56-ee23-8e7c-df34-e70ce2b795da/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1846569706"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 19 Hörspiel-Episoden über Krimis, die sich an der Küste von Cuxhaven abspielen."
+    },
+    {
+      "id": "inse-folg-6606",
+      "title": "Folge 39: Die Meerjungfrau von Bornholm",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/f7/1f/f9f71f74-b2b1-2a4c-cdf2-d1a518e0f563/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1828266606"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Krimi-Hörspiel über die Meerjungfrau von Bornholm."
+    },
+    {
+      "id": "krim-krim-3584",
+      "title": "Krimis von der Küste Folge 7: Trübes Wasser",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/83/ff/3583ffad-88d7-46ed-f0e4-f16510db3de6/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1795433584"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele im Genre 'Krimi' mit einer besonderen Verbindung zur Küste. Es bietet spannende Geschichten in 24 Folgen, ideal für Krimifans."
+    },
+    {
+      "id": "krim-krim-1444",
+      "title": "Krimis von der Küste Folge 5 - Ich sehe Dich",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/3d/6a/413d6a41-f8aa-71e6-39f1-c17796160a43/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1764941444"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Hörspiel-Tracks über Kriminalfälle an der Küste."
+    },
+    {
+      "id": "krim-krim-1824",
+      "title": "Krimis von der Küste Folge 4 - Ich sehe Dich",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/17/6c/f1176ce7-ad05-19c2-db4f-908141c108ce/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1764941824"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album beinhaltet Krimis, die an der Küste spielen und sich auf Spannung und Spannung konzentrieren."
+    },
+    {
+      "id": "inse-folg-6168",
+      "title": "Folge 35: Poeler Heuler und Halunken",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/2c/27/492c27da-efd5-3073-2cd7-dca70a62fa3b/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1776636168"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Album, das sich auf Hörspiele spezialisiert, insbesondere im Genre des Kriminalromans, passt gut zu der Beschreibung."
+    },
+    {
+      "id": "krim-krim-4350",
+      "title": "Krimis von der Küste Folge 2 - Bis zum Hals",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/00/d1/ae/00d1aea9-670a-219b-7804-9ceb4a59e316/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1715474350"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele, die sich auf Krimis entlang der Küste konzentrieren. Es bietet Spannung und Spannung in der Atmosphäre der Nordseeküste."
+    },
+    {
+      "id": "krim-krim-5166",
+      "title": "Krimis von der Küste 09 - Justitias Nacht",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/da/e4/f2dae4f8-613a-1fa4-7b62-8c00d5fd262f/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1879555166"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Hörspiele über Krimis, die an der Küste angesiedelt sind."
+    },
+    {
+      "id": "krim-krim-1851",
+      "title": "Krimis von der Küste Folge 6 - Giftiger Tee",
+      "author": "Krimis von der Küste",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/d9/68/26d96899-3203-7933-a43d-0637fdc08fdf/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1784941851"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele, die sich um Kriminalfälle an der Küste drehen."
+    },
+    {
+      "id": "jacq-eife-1483",
+      "title": "Eifel-Krimi, Folge 3: Der letzte Agent",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f9/59/62/f959627a-6862-0ded-0db4-5c866a545572/4260507159878_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535541483"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Teil der 'Eifel-Krimi'-Reihe, bietet Spannung und Unterhaltung durch Jacques Berndorf."
+    },
+    {
+      "id": "inse-folg-8895",
+      "title": "Folge 1: Die Toten von Juist",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/dc/12/08dc1200-b0a6-f84f-ac30-9ba3552c9179/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685338895"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Hörspiel-Album über mysteriöse Ereignisse auf Juist, ideal für Krimifans."
+    },
+    {
+      "id": "club-folg-5296",
+      "title": "Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+      "author": "Club der Detektive",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/40/a6/9240a69d-70e4-5d94-3b10-babbd7f76f22/4260507161734_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1539745296"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele, darunter Geschichten wie 'Die Kleeblattbande' und '5 weitere Kicherkrimis'. Es ist Teil der 'Club der Detektive'-Reihe."
+    },
+    {
+      "id": "diee-dasg-1613",
+      "title": "Das Geheimnis der gelben Narzissen (Ein Edgar Wallace Krimi, Folge 7)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/f5/73/e2f573b6-2f32-af64-6b3d-86e482a86352/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "6770601613"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält eine Krimiserie, die als Hörspiel formatiert ist."
+    },
+    {
+      "id": "edga-asde-1006",
+      "title": "A.S. der Unsichtbare (Krimi, Folge 1)",
+      "author": "Edgar Wallace & Die Edgar Wallace Krimis",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/0e/27/c30e270e-a766-7424-6d0d-01a1b8eb4954/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1878201006"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum im Stil der Edgar Wallace Krimis, das als Folge 1 einer Krimiserie erscheint."
+    },
+    {
+      "id": "diee-asde-1974",
+      "title": "A.S. der Unsichtbare (Krimi, Folge 4)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/3d/3b/013d3b5f-d533-2991-f88f-ecf1b9bd1324/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1885791974"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält den Titel 'A.S. der Unsichtbare (Krimi, Folge 4)' von Edgar Wallace Krimis & Edgar Wallace. Es handelt sich um ein Hörspiel im Genre Krimi."
+    },
+    {
+      "id": "diee-dasg-3226",
+      "title": "Das Geheimnis der gelben Narzissen (Ein Edgar Wallace Krimi, Folge 1)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/4e/aa/c94eaa88-b20f-1905-2f8a-ce57ca850896/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1888423226"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Edgar Wallace Krimi, der auf Hörspielformat gebracht wurde."
+    },
+    {
+      "id": "diee-dasg-3269",
+      "title": "Das Geheimnis der gelben Narzissen (Ein Edgar Wallace Krimi, Folge 2)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/44/c6/df44c6d5-8bbd-339a-c9f9-4c5941f2587b/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1888423269"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Edgar Wallace Krimi, das als Hörspiel präsentiert wird."
+    },
+    {
+      "id": "diee-dasg-1987",
+      "title": "Das Geheimnis der gelben Narzissen (Ein Edgar Wallace Krimi, Folge 6)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/dc/de/11dcdef2-fab4-ee0c-8e9e-4e91d4da7abe/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "6770601987"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Episoden aus einer Edgar Wallace Krimiserie, was auf ein Hörspiel oder Hörbuch hindeutet."
+    },
+    {
+      "id": "kste-folg-1420",
+      "title": "Folge 1: Das Haus am Abgrund Teil 1",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7b/3c/ca/7b3cca94-1fc3-176a-72c8-0789e98f30dd/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685331420"
+      },
+      "genres": [
+        "Hörspiel",
+        "Küsten-Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält die erste Folge eines Hörspielabenteuers mit Spannung und Spannung um das Thema Küstenkrimi."
+    },
+    {
+      "id": "edga-asde-8752",
+      "title": "A.S. der Unsichtbare (Krimi, Folge 3)",
+      "author": "Edgar Wallace & Die Edgar Wallace Krimis",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/bc/5d/61bc5dd1-b90c-d2dc-eb24-1f1e103af8a0/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1878638752"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Kriminalgeschichten im Stil von Edgar Wallace, typisch für deutsche Hörspiele."
+    },
+    {
+      "id": "jacq-eife-1087",
+      "title": "Eifel-Krimi, Folge 1: Eifel-Blues",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/db/c6/9fdbc6b4-c911-0995-07f1-213cec602713/4260507159854_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535481087"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein deutscher Hörspiel-Krimi, der im 'Eifel-Krimi'-Format produziert wurde."
+    },
+    {
+      "id": "edga-asde-3287",
+      "title": "A.S. der Unsichtbare (Krimi, Folge 2)",
+      "author": "Edgar Wallace & Die Edgar Wallace Krimis",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/8e/48/fd8e4864-0ab9-6a2e-8e39-84183603c1f0/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1878063287"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'A.S. der Unsichtbare (Krimi, Folge 2)' von Edgar Wallace & Die Edgar Wallace Krimis. Es enthält 31 Tracks und gehört zum Genre Hörspiele."
+    },
+    {
+      "id": "diee-asde-0954",
+      "title": "A.S. der Unsichtbare (Krimi, Folge 7)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/4a/47/444a47fb-cb7c-05cd-5066-a763febe9cc0/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1885790954"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'A.S. der Unsichtbare (Krimi, Folge 7)' von Edgar Wallace Krimis & Edgar Wallace. Es enthält insgesamt 34 Tracks und gehört zur Kategorie Hörspiele."
+    },
+    {
+      "id": "diee-dasg-0779",
+      "title": "Das Geheimnis der gelben Narzissen (Ein Edgar Wallace Krimi, Folge 5)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/23/df/b823dfc0-49d2-a299-fe21-8b3fc2d74cf4/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1894810779"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Edgar Wallace Krimi, Folge 5 im Hörspielformat."
+    },
+    {
+      "id": "diee-asde-0323",
+      "title": "A.S. der Unsichtbare (Krimi, Folge 8)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/6b/d3/fb6bd32d-a837-9985-b846-72aba86b62b0/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1885790323"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum mit 20 Folgen, das sich um den Kriminalfall 'A.S. der Unsichtbare' dreht."
+    },
+    {
+      "id": "diee-asde-1371",
+      "title": "A.S. der Unsichtbare (Krimi, Folge 5)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/c4/7b/afc47b46-7c74-ebde-2c94-cc65a19eb75d/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1885791371"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Kriminalhörspiel-Album mit 31 Folgen der Edgar Wallace Krimis."
+    },
+    {
+      "id": "died-folg-7655",
+      "title": "Folge 88: Die Krimi-Verschwörung",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/c3/ea/dcc3eae1-7b2a-1988-57b3-bb165877eaf6/196872192889.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1756067655"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein kriminaler Hörspiel-Album mit 50 Folgen, das von 'Die drei !!!' produziert wurde."
+    },
+    {
+      "id": "diee-asde-0861",
+      "title": "A.S. der Unsichtbare (Krimi, Folge 6)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/a8/1f/09a81fcd-518f-007d-046e-c9c544f5a865/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1885790861"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält 26 Folgen eines deutschen Krimihörspiels mit Edgar Wallace Krimis."
+    },
+    {
+      "id": "died-folg-6510",
+      "title": "Folge 51: Krimi-Dinner",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b5/02/61/b50261ab-084b-655b-0a44-686d4b9ac0b1/886445992410.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1258076510"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album beinhaltet einen Krimi-Dinner-Hörspiel mit 40 Folgen, produziert von Die drei !!!."
+    },
+    {
+      "id": "diee-dasg-5302",
+      "title": "Das Geheimnis der gelben Narzissen (Ein Edgar Wallace Krimi, Folge 3)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/a8/66/83a866cd-7292-9d5b-10db-616f303b48fc/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1893855302"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel basierend auf einem Edgar Wallace Krimi."
+    },
+    {
+      "id": "inse-folg-3594",
+      "title": "Folge 11: Sherlock Holmes auf Langeoog",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/3d/e0/353de00a-6e10-f5cd-7590-c7cfd24d2712/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685323594"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 11: Sherlock Holmes auf Langeoog' von Insel-Krimi, das Sherlock Holmes-Geschichten erzählt. Es ist ein spannendes Kriminal-Abenteuer, das auf Langeoog spielt."
+    },
+    {
+      "id": "ches-harl-6135",
+      "title": "Harlem-Krimis",
+      "author": "Chester Himes",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/91/4c/6a914c86-eaad-696e-a47f-1efd259a82f6/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1694706135"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Krimihörspiele von Chester Himes, die auf einer Vielzahl von Audiostreaming-Plattformen verfügbar sind."
+    },
+    {
+      "id": "diee-dasg-0797",
+      "title": "Das Geheimnis der gelben Narzissen (Ein Edgar Wallace Krimi, Folge 4)",
+      "author": "Die Edgar Wallace Krimis & Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/e1/be/72e1be55-3918-8ec9-d6fd-0c8e0f20ae89/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1894810797"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält eine Fortsetzung einer Edgar Wallace Krimi-Reihe, was auf ein Hörspiel hindeutet."
+    },
+    {
+      "id": "jacq-eife-3193",
+      "title": "Eifel-Krimi, Folge 4: Eine Reise nach Genf",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3f/ff/91/3fff912d-af1a-cba9-b17a-62c13617b1d1/4260507159885_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535543193"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Kriminalhörspiel-Album aus der 'Eifel-Krimi'-Reihe, basierend auf dem Titel und Genre."
+    },
+    {
+      "id": "inse-folg-8263",
+      "title": "Folge 12: Nebel über Neuwerk",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/03/03/96030312-02b9-89a9-3dd6-0b456a5512e3/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685298263"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album beinhaltet 45 Tracks des Insel-Krimis mit dem Titel 'Folge 12: Nebel über Neuwerk'."
+    },
+    {
+      "id": "inse-folg-5398",
+      "title": "Folge 30: Stichtag auf Ummanz",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/6e/f1/9c6ef1e8-8365-9b60-2588-cf000772a333/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1722045398"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 30: Stichtag auf Ummanz' von Insel-Krimi, bekannt für Krimihörspiele."
+    },
+    {
+      "id": "inse-folg-5211",
+      "title": "Folge 18: Hangover auf Hawaii",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/7b/7d/d07b7d8f-a9db-fff8-db3c-c29a4c696708/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685315211"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält das Hörspiel 'Folge 18: Hangover auf Hawaii' von 'Insel-Krimi', das dem Genre Krimi zugeordnet ist."
+    },
+    {
+      "id": "inse-folg-2823",
+      "title": "Folge 10: helgoland ist abgebrannt",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/57/ab/d657abc3-ebc8-9b7b-48a0-8dccd8465a72/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685332823"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 10: Helgoland ist abgebrannt' von der Gruppe Insel-Krimi. Es ist Teil einer Serie von Hörspielen und passt gut zu Genres wie Krimi und Küstenkrimi."
+    },
+    {
+      "id": "inse-folg-8570",
+      "title": "Folge 19: Der Schatz von Rügen",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/eb/1a/aaeb1a2b-3563-0717-df5d-4df04650ecf3/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685318570"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über einen Schatz auf Rügen, produziert von Insel-Krimi."
+    },
+    {
+      "id": "inse-folg-1937",
+      "title": "Folge 8: Blutmond über Föhr",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ee/f7/2e/eef72e2f-f7f1-fb67-4e0d-5887205ec226/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685331937"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält acht Folgen eines Kriminalhörspiels mit dem Titel 'Blutmond über Föhr' von der Band Insel-Krimi. Es besteht aus 40 Tracks und ist eindeutig als Hörspiel formatiert."
+    },
+    {
+      "id": "kste-folg-3404",
+      "title": "Folge 3: Endstation Steilküste",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/d9/53/c4d953df-7326-0f76-1dfc-4f0bc4acbd73/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685323404"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel, das Teil einer Krimiserie ist, basierend auf dem Titel und dem Genre Hörspiele."
+    },
+    {
+      "id": "inse-folg-9108",
+      "title": "Folge 16: Todesstunt auf Usedom",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/2d/81/462d81ec-f51f-9676-14f2-dc3a672e1ea3/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685299108"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Krimi-Hörspiel-Album über ein Todesstunt auf Usedom."
+    },
+    {
+      "id": "kste-folg-8057",
+      "title": "Folge 4: Knickgeflüster Teil 1",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/2f/95/9d2f955c-1021-3af2-6a4e-21ca794c5d16/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685328057"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Knickgeflüster Teil 1' von Küsten-Krimi."
+    },
+    {
+      "id": "inse-folg-8878",
+      "title": "Folge 27: Rügens tödliche Brise",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/fd/ab/9bfdab9f-4c30-5be7-3c34-08a5af4a0928/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1695888878"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 27: Rügens tödliche Brise' von Insel-Krimi, das im Genre des Krimi-Abenteuers angesiedelt ist."
+    },
+    {
+      "id": "inse-folg-3240",
+      "title": "Folge 9: Pekunien und Sylter Spitze",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8a/1c/76/8a1c7639-1c3d-f989-192f-a2f1f7cfe3bf/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685303240"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum mit der Handlung 'Pekunien und Sylter Spitze' von der Insel-Krimi Gruppe, bestehend aus 46 Tracks im Genre Hörspiele."
+    },
+    {
+      "id": "inse-folg-4736",
+      "title": "Folge 34: Weinende Wellen vor Baltrum",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/a3/88/c7a38800-dd4e-2fd9-c5d7-e2352560f6a6/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1763634736"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein mysteriöses Hörspiel auf einer deutschen Insel mit Spannung und Spannung."
+    },
+    {
+      "id": "inse-folg-3292",
+      "title": "Folge 2: Borkum sehen und sterben",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/c0/c5/9fc0c5c3-d324-3032-9de8-96caebcdd4ed/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685343292"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum über ein spannendes Abenteuer auf der Nordseeinsel Borkum."
+    },
+    {
+      "id": "inse-folg-2725",
+      "title": "Folge 22: Schreckensnacht auf Oland",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/0d/4e/b70d4ef8-8118-e403-d80e-13e5b5b24bc1/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685302725"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält das Hörspiel 'Folge 22: Schreckensnacht auf Oland' von der Band Insel-Krimi."
+    },
+    {
+      "id": "inse-folg-8009",
+      "title": "Folge 15: Tödliches Langeoog",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/45/ca/ab45ca98-31d4-7349-843d-c4096cdc3a93/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685298009"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit dem Titel 'Folge 15: Tödliches Langeoog' von Insel-Krimi, das Hörspiele umfasst. Es könnte eine Fortsetzung oder Spezialfolge eines Krimi-Podcasts sein."
+    },
+    {
+      "id": "inse-folg-7927",
+      "title": "Folge 24: Pellworms dunkles Geheimnis",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/7f/34/487f349b-7b84-e279-f4c1-9670e64369b4/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685287927"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein mysteriöses Hörspiel über Pellworm mit Spannung und Spannung."
+    },
+    {
+      "id": "inse-folg-5178",
+      "title": "Folge 26: Kaltes Grab auf Spiekeroog",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/04/80/0f0480da-9d37-b07f-1e58-06a0fa936cc8/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1681085178"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel mit dem Titel 'Folge 26: Kaltes Grab auf Spiekeroog' von 'Insel-Krimi', das sich auf ein Kriminalgenre konzentriert."
+    },
+    {
+      "id": "inse-folg-8008",
+      "title": "Folge 13: Schatten über Spiekeroog",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/11/38/e6/1138e6d9-6dd0-deff-aa21-1d8b42737b61/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685298008"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 13: Schatten über Spiekeroog' von der Band Insel-Krimi. Es handelt sich um ein Krimi-Hörspiel mit 46 Tracks, das auf der Insel Spiekeroog spielt."
+    },
+    {
+      "id": "inse-folg-0848",
+      "title": "Folge 40: Juists verlorene Seelen",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/c2/93/b1c29352-9751-68e4-a653-6718d3a1cbb1/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1845150848"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Episoden eines Insel-Krimis mit 41 Folgen, die sich auf Spannung und Spannung konzentrieren."
+    },
+    {
+      "id": "inse-folg-8413",
+      "title": "Folge 14: Pellworms kleine Leichen",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/18/29/16182991-4bb7-e870-efb2-0e24efea6b6e/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685298413"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält die Episode 'Folge 14: Pellworms kleine Leichen' des Insel-Krimis, das sich auf ein Krimihörspiel spezialisiert hat."
+    },
+    {
+      "id": "inse-folg-8966",
+      "title": "Folge 29: Geier über Gotland",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/e0/ae/6ce0aedc-7fd5-9fbf-2f99-a1d28da81ca4/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1716338966"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dies ist ein Album von Insel-Krimi, das Hörspiele umfasst und sich auf das Thema Krimi konzentriert."
+    },
+    {
+      "id": "inse-folg-6551",
+      "title": "Folge 21: Die Medusa von Bornholm",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/39/2b/61392b7b-1a0e-9826-3549-b9fb92b8a62e/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685316551"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über ein mysteriöses Phänomen auf Bornholm."
+    },
+    {
+      "id": "inse-folg-7800",
+      "title": "Folge 20: Der Comic-Killer von Hiddensee",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/a7/62/e2a7626c-774d-e493-9ac4-7a8f4e8cbe92/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685297800"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält die Folge 20 eines Krimihörspiels über den Comic-Killer von Hiddensee, produziert von Insel-Krimi."
+    },
+    {
+      "id": "jacq-eife-4729",
+      "title": "Eifel-Krimi, Folge 5: Eifel-Gold, Teil 1",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/1f/e5/881fe56e-eddf-0c79-39a6-156b1447b38c/4260507165053_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567984729"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum über einen Krimi in der Eifel, der Spannung und Spannung bietet."
+    },
+    {
+      "id": "inse-folg-4173",
+      "title": "Folge 28: Land unter auf Langeneß",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/c7/fc/27c7fc0b-b641-021d-766b-077b3ef1fac7/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1702154173"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel über die Insel Langeneß mit Spannung und Spannung."
+    },
+    {
+      "id": "inse-folg-7443",
+      "title": "Folge 23: Das Dünengrab von Amrum",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/49/91/fe4991b7-3847-9349-e9c4-c01e92970714/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685247443"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Krimi-Hörspiel-Album über ein mysteriäres Grab auf Amrum."
+    },
+    {
+      "id": "inse-folg-7256",
+      "title": "Folge 17: Vampire auf Amrum",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/6f/a0/306fa0b5-f92d-d64a-7699-6e277da471fd/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685297256"
+      },
+      "genres": [
+        "Horror",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Hörspiel-Album mit einem Vampir-Thema auf einer Insel."
+    },
+    {
+      "id": "inse-folg-5368",
+      "title": "Folge 3: Eisenhut und Sylter Spitze",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bc/0f/b3/bc0fb3e8-c8c8-b6fa-9d9f-bcbb75967522/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685325368"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Dieses Album beinhaltet Hörspiele mit dem Titel \"Folge 3: Eisenhut und Sylter Spitze\" von \"Insel-Krimi\". Es handelt sich um eine Sammlung von Hörspielen, die Spannung und Abenteuer bieten."
+    },
+    {
+      "id": "inse-folg-6130",
+      "title": "Folge 38: Langeooger Feuerteufel",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/9c/b2/c19cb20a-7961-f89c-154f-1c956cd05519/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1801756130"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Hörspielreihe, die auf Island spielt und Kriminalgeschichten erzählt."
+    },
+    {
+      "id": "inse-folg-8256",
+      "title": "Folge 25: Todesschrei auf Ruden",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4a/e6/a9/4ae6a9d6-209d-1b3a-aaad-6eac57dcad35/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685288256"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Album, das als Hörspiel mit dem Titel \"Folge 25: Todesschrei auf Ruden\" von der Band Insel-Krimi veröffentlicht wurde."
+    },
+    {
+      "id": "inse-folg-6919",
+      "title": "Folge 6: Die Bestie von Wangerooge",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c0/2d/17/c02d17c5-92b2-d368-6b80-9c285d4ec0bc/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685336919"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Hörspielreihe über ein spannendes Abenteuer auf Wangerooge, das dem Genre Krimi entspricht."
+    },
+    {
+      "id": "inse-folg-5024",
+      "title": "Folge 5: Langeooger Dünenblut",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/5a/1f/5c5a1f3b-7399-f3e8-c043-131e430945a6/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685295024"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 5: Langeooger Dünenblut' von der Band Insel-Krimi. Es gehört zur Kategorie Hörspiele und enthält insgesamt 39 Tracks."
+    },
+    {
+      "id": "inse-folg-5709",
+      "title": "Folge 4: Todesfalle Fehmarn",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/3f/4f/543f4f93-aab0-33f7-ba40-67edb6471cf1/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685295709"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album beinhaltet vier Hörspielfolgen des Insel-Krimis, die sich auf Kriminalfälle auf der Insel Fehmarn konzentrieren."
+    },
+    {
+      "id": "inse-folg-5524",
+      "title": "Folge 31: Langeooger Blutsbande",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/fe/d6/29fed687-d2ab-869e-0e7e-0cfad06de346/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1735565524"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält die dritte Folge der 'Langeooger Blutsbande'-Reihe von Insel-Krimi, die als Hörspiel produziert wurde."
+    },
+    {
+      "id": "inse-folg-0787",
+      "title": "Folge 32: Usedomer Requiem",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/e2/77/f1e277a6-7e06-8786-9157-12741fcba86e/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1741310787"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Krimi-Hörspiel aus Deutschland über Usedom."
+    },
+    {
+      "id": "inse-folg-7431",
+      "title": "Folge 33: Spiekerooger Gold",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/64/8f/d1648fae-ed62-3c34-3c2c-065fea15e58b/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1755377431"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Episode 33 des Insel-Krimis, die sich um das Gold von Spiekeroog dreht. Es handelt sich um ein populäres Hörspielformat in Deutschland."
+    },
+    {
+      "id": "inse-folg-7474",
+      "title": "Folge 41: Dämmerung über Poel",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/a8/d2/39a8d2e3-d9e1-3fde-7559-b882049127c0/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1852767474"
+      },
+      "genres": [
+        "Krimi",
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album umfasst 39 Folgen des Insel-Krimis, die sich um die Spannung und Spannung in der Dämmerung über Poel drehen."
+    },
+    {
+      "id": "inse-folg-2522",
+      "title": "Folge 37: Rigoletto auf Rügen",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/83/9b/d0839bdf-ffcf-b396-eb34-bdac1eea6f3d/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1793742522"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum mit dem Titel 'Folge 37: Rigoletto auf Rügen' von Insel-Krimi, das 46 Tracks umfasst und dem Genre Hörspiele angehört."
+    },
+    {
+      "id": "inse-folg-3908",
+      "title": "Folge 36: Der Stern von Hallig Hooge",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/83/7d/76837dff-f48d-61ce-5dbd-f84484e0c878/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1791573908"
+      },
+      "genres": [
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über den fiktiven Ort Hallig Hooge."
+    },
+    {
+      "id": "inse-folg-1082",
+      "title": "Folge 42: Langeooger Totentanz",
+      "author": "Insel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/5b/4d/a75b4d92-209a-7d0a-e49a-73ef8a8319a9/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1861441082"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Hörspiel-Album aus dem Genre Krimi, das auf iTunes erhältlich ist."
+    },
+    {
+      "id": "kste-folg-4927",
+      "title": "Folge 2: Das Haus am Abgrund Teil 2",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/3b/8f/153b8f6f-808f-4c8a-6e7f-0b20a85bd4c9/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685324927"
+      },
+      "genres": [
+        "Küstenkrimi",
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Hörspielreihe mit dem Titel 'Küsten-Krimi' und behandelt den Plot 'Das Haus am Abgrund Teil 2'."
+    },
+    {
+      "id": "kste-folg-8391",
+      "title": "Folge 8: Schattenstrand Teil 1",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/f2/bf/96f2bf72-90ff-493e-7007-0b27b35d6ee8/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685348391"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 8: Schattenstrand Teil 1' von 'Küsten-Krimi'. Es ist Teil einer Serie und richtet sich an Hörer, die Krimis und Abenteuer genießen."
+    },
+    {
+      "id": "kste-folg-0022",
+      "title": "Folge 10: Tödlicher Frost Teil 1",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/51/0a/b9510a1e-9437-61e7-d600-de573cd49d38/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685350022"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Folge 10: Tödlicher Frost Teil 1' von Küsten-Krimi. Es ist Teil eines Hörspiel-Albums mit 46 Tracks und dem Genre Hörspiele."
+    },
+    {
+      "id": "kste-folg-5802",
+      "title": "Folge 6: Mühlenmord, Teil 1",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/d1/4a/dfd14ade-594a-0660-e7a2-a521e6919233/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685295802"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Hörspiel-Tracks, die zum Küsten-Krimi gehören, ein Genre bekannt für Krimihörspiele."
+    },
+    {
+      "id": "marg-dies-9684",
+      "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 1: Der grüne Glibber-Brief (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
+      "author": "Margit Auer, Die Schule der magischen Tiere ermittelt & Die Schule der magischen Tiere",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/8a/fa/4e8afab8-6f93-3202-da84-0f25bdb21bf6/4069828367159_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1831929684"
+      },
+      "genres": [
+        "Kinder & Jugend",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel der Serie 'Die Schule der magischen Tiere ermittelt', das die Abenteuer der magischen Tiere erzählt."
+    },
+    {
+      "id": "jacq-eife-4477",
+      "title": "Eifel-Krimi, Folge 2: Requiem für einen Henker",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/d2/65/82d265ca-1a8a-6e4e-2370-c5fb0cadf339/4260507159861_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535484477"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum mit dem Titel 'Eifel-Krimi, Folge 2: Requiem für einen Henker' von Jacques Berndorf, das sich auf Thriller-Elemente konzentriert."
+    },
+    {
+      "id": "kste-folg-4302",
+      "title": "Folge 14: Bunkerleichen",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/a8/84/6ea88449-7755-a3c6-3888-1e6b40550512/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1702154302"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Küstenkrimihörspiel über mysteriöse Ereignisse im Bunker."
+    },
+    {
+      "id": "kste-folg-3016",
+      "title": "Folge 11: Tödlicher Frost Teil 2",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/db/d3/cbdbd3d7-f95f-ac8c-0385-1b84d2295712/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685353016"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält die Folge '11: Tödlicher Frost Teil 2' von Küsten-Krimi, ein Hörspiel im Genre des Kriminalthrillers."
+    },
+    {
+      "id": "marg-dies-7140",
+      "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 7: Das Biber-Rätsel (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
+      "author": "Margit Auer, Die Schule der magischen Tiere ermittelt & Die Schule der magischen Tiere",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/ed/80/8eed80af-7d23-de08-87b0-4ed88c330756/4069828367166_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1834927140"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel-Album basierend auf der Serie 'Die Schule der magischen Tiere ermittelt', das sich auf kriminelle Abenteuer mit magischen Tieren konzentriert."
+    },
+    {
+      "id": "kste-folg-9519",
+      "title": "Folge 5: Knickgeflüster Teil 2",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/a1/36/57a1360c-f8c8-d9d3-471d-0b2509f42c9d/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685319519"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiel-Tracks und passt zu einem Krimi-Genre."
+    },
+    {
+      "id": "kste-folg-3044",
+      "title": "Folge 12: Blutige Wogen, Teil 1",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/63/3b/3f633bc1-35ab-198a-c079-a6064f38aae3/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686903044"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Episoden eines Küsten-Krimis, die als Hörspiel formatiert sind."
+    },
+    {
+      "id": "kste-folg-4615",
+      "title": "Folge 17: Schicksalsweichen",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/12/51/a41251a3-9b50-b114-84e4-9c02b2e8a789/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1745104615"
+      },
+      "genres": [
+        "Hörspiel",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Folge 17: Schicksalsweichen' von Küsten-Krimi ist ein Hörspiel, das dem Genre Küstenkrimi entspricht und sich in Deutschland angesiedelt zeigt."
+    },
+    {
+      "id": "jacq-folg-7442",
+      "title": "Folge 6: Eifel-Filz, Teil 1 (Eifel-Krimi)",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f1/0f/a8/f10fa8b1-93cb-ed74-7160-5eccf5123393/4260507173423_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1618627442"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Serie, die als Eifel-Krimi beschrieben wird, was typisch für Hörspiele ist."
+    },
+    {
+      "id": "kste-folg-6514",
+      "title": "Folge 9: Schattenstrand Teil 2",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/5e/17/7a5e1758-9b41-fc7d-83aa-da5f5906e7cc/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685336514"
+      },
+      "genres": [
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel-Album mit dem Titel 'Folge 9: Schattenstrand Teil 2' von 'Küsten-Krimi', das sich in einem Krimi-Genre bewegt."
+    },
+    {
+      "id": "edga-folg-3964",
+      "title": "Folge 1: Der Hexer (Der Krimi-Klassiker in neuer Hörspielfassung)",
+      "author": "Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a7/a1/58/a7a158e3-5cf2-89a4-bba3-a78f01a5a99f/4251156101080_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1523283964"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Klassiker der Krimi-Hörspiele, in neuer Hörspielfassung."
+    },
+    {
+      "id": "jacq-eife-5589",
+      "title": "Eifel-Krimi, Folge 5: Eifel-Gold, Teil 2",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/75/00/93/750093dc-2ddf-9d64-03b3-5ad38c7a7f9e/4260507165077_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567985589"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Teil der Eifel-Krimi-Reihe, das ein spannendes Krimidrama erzählt."
+    },
+    {
+      "id": "kste-folg-9714",
+      "title": "Folge 7: Mühlenmord Teil 2",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ea/96/bb/ea96bbb5-fa37-d12d-ebf8-74ee4683e03c/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685319714"
+      },
+      "genres": [
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum mit dem Titel 'Folge 7: Mühlenmord Teil 2' von Küsten-Krimi, das in die Kategorie 'Hörspiele' gehört und insgesamt 49 Tracks umfasst."
+    },
+    {
+      "id": "eife-folg-1215",
+      "title": "Folge 7: Eifel-Schnee, Erster Teil",
+      "author": "Eifel-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/dd/9c/e0/dd9ce013-61c0-ef3e-4a93-0972dfd5d033/4260507175618_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1636261215"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Hörspiel-Tracks und beschreibt sich als 'Hörspiele' im Genre 'Eifel-Krimi'."
+    },
+    {
+      "id": "kste-folg-4006",
+      "title": "Folge 16: Tod im Paradies",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c9/ee/b6/c9eeb659-3ff0-e78e-b626-6a69568facdb/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1725174006"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 16: Tod im Paradies' von Küsten-Krimi. Es handelt sich um einen Krimi-Hörspiel-Podcast."
+    },
+    {
+      "id": "katj-diem-2251",
+      "title": "Die Mutprobe, Ein echter Krimi, Der geteilte Wald (Hörspiele zur TV Serie 16)",
+      "author": "Katja Grübel, Peter Weis & Der kleine Rabe Socke",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/3c/f9/043cf95a-8152-ae45-67b2-5d04f4dd6d36/4066338226761_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1582042251"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album besteht aus Hörspielen, die zu einer TV-Serie gehören und von bekannten deutschen Stimmen wie Katja Grübel und Peter Weis gelesen werden."
+    },
+    {
+      "id": "kste-folg-2212",
+      "title": "Folge 18: Vergessener Tod",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/e5/f8/6ae5f847-7d7d-fcea-a6b1-a4396707593c/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1753122212"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel der Serie 'Küsten-Krimi', das sich um den 'Vergessenen Tod' dreht."
+    },
+    {
+      "id": "kste-folg-0453",
+      "title": "Folge 15: Jagdinstinkt",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/f7/1c/aff71c43-987d-a102-1313-36836072ee52/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1716340453"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 40 Tracks aus dem Hörspiel 'Küsten-Krimi: Folge 15: Jagdinstinkt'."
+    },
+    {
+      "id": "kste-folg-6482",
+      "title": "Folge 22: Kinder des Sturms",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/f0/bd/23f0bded-763e-ce0a-fc7f-f69e3e8b05a5/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1800036482"
+      },
+      "genres": [
+        "Kinder & Jugend",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum, das sich an ein junges Publikum richtet und sich im Genre des Küstenkrimis bewegt."
+    },
+    {
+      "id": "jacq-eife-4307",
+      "title": "Eifel-Krimi, Folge 10.1: Eifel-Jagd, Erster Teil",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/8e/11/2d8e113f-03ca-2726-ff7f-51eedc99ed88/4260507198204_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1759934307"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Album aus dem Genre Hörspiel mit dem Titel 'Eifel-Krimi, Folge 10.1: Eifel-Jagd, Erster Teil' von Jacques Berndorf, bestehend aus 50 Tracks. Das Album richtet sich an Hörer, die Krimifilme und -geschichten genießen."
+    },
+    {
+      "id": "gesp-folg-7830",
+      "title": "Folge 01: Mörderbäume",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d9/dc/23/d9dc232f-4361-457f-38ea-33ef15311d21/9783945757017_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "966057830"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel mit dem Titel 'Folge 01: Mörderbäume', das von den Gespenster-Krimi-Künstlern produziert wurde."
+    },
+    {
+      "id": "kste-folg-3441",
+      "title": "Folge 19: Schweine über Dangast Teil 1",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/a5/60/43a56038-fbc8-a4ab-5b6f-2ffe8b674558/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1768233441"
+      },
+      "genres": [
+        "Hörspiel",
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Ein Album im Format eines Hörspiels mit dem Titel 'Folge 19: Schweine über Dangast Teil 1' von Küsten-Krimi, das 38 Tracks umfasst und sich im Genre des Küstenkrimis bewegt."
+    },
+    {
+      "id": "kste-folg-8608",
+      "title": "Folge 13: Blutige Wogen, Teil 2",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/ac/12/5aac12bb-0807-6e75-4e3c-7fd0ce460d31/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1694008608"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Küsten-Krimi-Hörspiel über mysteriöse Ereignisse und Krimiszenarien."
+    },
+    {
+      "id": "kste-folg-1696",
+      "title": "Folge 27: Sterbenswort",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/48/0c/28480ce4-ad12-39fa-a72b-3a848ed90fae/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1870551696"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 27: Sterbenswort' von Küsten-Krimi, das sich in einem Krimigenre bewegt."
+    },
+    {
+      "id": "jacq-folg-8852",
+      "title": "Folge 6: Eifel-Filz (Eifel-Krimi) [Teil 2]",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b5/49/7d/b5497d8c-b516-cbea-8192-89637078cb66/4260507173645_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1620238852"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein deutscher Hörspiel-Krimi mit dem Titel \"Folge 6: Eifel-Filz (Eifel-Krimi) [Teil 2]\" von Jacques Berndorf."
+    },
+    {
+      "id": "kste-folg-1509",
+      "title": "Folge 23: Küstenmonster",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/74/c8/b474c8a9-ba1d-30a9-f2aa-b1b9b94aaaea/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1818341509"
+      },
+      "genres": [
+        "Küstenkrimi",
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit Hörspielen unter dem Titel 'Küstenmonster' von 'Küsten-Krimi'."
+    },
+    {
+      "id": "jacq-folg-6358",
+      "title": "Folge 8: Eifel-Feuer, Teil 1 (Eifel-Krimi)",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/71/da/d071da22-29cd-2052-f7d5-83d18c24db10/4260507188908_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1706826358"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Serie, die als 'Eifel-Krimi' beschrieben wird, was typisch für deutsche Hörspiele ist."
+    },
+    {
+      "id": "kste-folg-2503",
+      "title": "Folge 26: Friesenfrost",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/f7/80/52f780c6-5a21-2075-76f8-95d081f55215/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1852762503"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel \"Folge 26: Friesenfrost\" von der Band Küsten-Krimi. Es handelt sich um ein spannendes Krimi-Hörspiel."
+    },
+    {
+      "id": "jacq-eife-7738",
+      "title": "Eifel-Krimi, Folge 9: Eifel-Rallye, Teil 1",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/25/81/f8258147-8e1c-583b-e528-8532501baa18/4260507193018_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1731837738"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel aus der Serie 'Eifel-Krimi', das Spannung und Abenteuer auf dem Rallye-Weg bietet."
+    },
+    {
+      "id": "dies-dies-9986",
+      "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 8: Die Erdbeer-Spur (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
+      "author": "Die Schule der magischen Tiere ermittelt, Margit Auer & Die Schule der magischen Tiere",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/72/5d/68725d2f-f2f8-bb93-6403-05b6d3bb576f/4069829078818_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1895109986"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Abenteuer",
+        "Fantasy",
+        "Kinder & Jugend"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel aus der Serie 'Die Schule der magischen Tiere ermittelt', das Abenteuer und Kriminalität mit magischen Tieren kombiniert. Es richtet sich an ein junges Publikum und beinhaltet spannende Geschichten."
+    },
+    {
+      "id": "kste-folg-0984",
+      "title": "Folge 21: Mord an einem Phantom",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/80/0a/95800a25-5994-310a-4b92-446832d055aa/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1785850984"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiel-Episoden mit Kriminalgeschichten, typisch für deutsche Hörspiele."
+    },
+    {
+      "id": "jacq-eife-6044",
+      "title": "Eifel-Krimi, Folge 7: Eifel-Schnee, Teil 2",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/14/1f/0f141f32-a5ab-f3c3-44c5-d339b61b0c9e/4260507175755_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1638706044"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Teil einer Krimiserie, die sich im Eifel-Raum spielt und Spannung bietet."
+    },
+    {
+      "id": "kste-folg-5579",
+      "title": "Folge 24: Dunkle Rache",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/60/77/4f6077b0-deba-691d-dee9-8d5756de1340/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1811375579"
+      },
+      "genres": [
+        "Krimi",
+        "Thrillers"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel/Hörbuch, das sich um Kriminalfälle und Spannung dreht."
+    },
+    {
+      "id": "dies-dies-6908",
+      "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 2: Der Hausschuh-Dieb (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
+      "author": "Die Schule der magischen Tiere, Margit Auer & Die Schule der magischen Tiere ermittelt",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/5a/00/ae5a00f1-417c-7db1-4ecb-70af2f4d62f6/4069829078825_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1866626908"
+      },
+      "genres": [
+        "Kinder & Jugend",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel aus der Reihe 'Die Schule der magischen Tiere', das spannende Abenteuer und magische Tiere beinhaltet."
+    },
+    {
+      "id": "gesp-folg-1697",
+      "title": "Folge 03: Hollywood-Horror",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ff/95/e6/ff95e617-9f93-65de-6eb6-145e4b053ece/9783945757055_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "978511697"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele, die sich um Horror-Themen in Hollywood handeln und ist somit ein Hörspiel."
+    },
+    {
+      "id": "kste-folg-2904",
+      "title": "Folge 25: Schleswiger Todesballons",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/2b/5f/882b5f8d-b2ca-c8d6-68c5-e4eb3fe728c3/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1836952904"
+      },
+      "genres": [
+        "Hörspiel",
+        "Küsten-Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'Folge 25: Schleswiger Todesballons' von 'Küsten-Krimi'. Es enthält 47 Tracks im Genre Hörspiel."
+    },
+    {
+      "id": "gesp-folg-7347",
+      "title": "Folge 02: Teufelstochter",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/40/3d/b1/403db13b-d754-cdb8-c0c5-60debb43fd2d/9783945757024_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "963807347"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Teufelstochter', das vom Künstler Gespenster-Krimi produziert wurde. Es enthält 26 Tracks und gehört zum Genre der Hörspiele, mit Fokus auf Spannung und Kriminalität."
+    },
+    {
+      "id": "gesp-folg-8532",
+      "title": "Folge 4: Der Präparator",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/97/93/99/9793997e-8eb1-09c4-f6f4-bbd545f433b5/4260147776107_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1040218532"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält den Titel 'Folge 4: Der Präparator' und wird im Genre 'Hörspiele' kategorisiert. Es handelt sich um ein Hörspiel, das wahrscheinlich fesselnde Krimielemente enthält."
+    },
+    {
+      "id": "gesp-folg-7595",
+      "title": "Folge 14: Schattenschrei",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0d/dd/f8/0dddf8eb-f8a3-e703-940d-29af776c3ff2/4260507135728_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1271737595"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel, das auf Spannung und Spannung setzt. Die Handlung dreht sich um mysteriöse Ereignisse und geheimnisvolle Schattenspiele."
+    },
+    {
+      "id": "gesp-folg-9673",
+      "title": "Folge 7: Das Gruselkabinett",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/05/9c/30/059c3085-ab48-970c-ff7e-17325fd26725/4260147777715_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1090539673"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 50 Hörspiel-Tracks unter dem Titel 'Folge 7: Das Gruselkabinett' von Gespenster-Krimi, das dem Genre Hörspiel zugeordnet ist."
+    },
+    {
+      "id": "jacq-eife-9311",
+      "title": "Eifel-Krimi, Folge 8: Eifel-Feuer, Teil 2",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/5f/8c/7e5f8cb0-3fd3-69b1-7d59-14abb94a9757/4260507189981_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1707959311"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Krimi-Hörspiel-Album von Jacques Berndorf mit 58 Tracks über den Eifel-Krimi. Keine Beschreibung verfügbar."
+    },
+    {
+      "id": "edga-folg-5376",
+      "title": "Folge 2: Der schwarze Abt (Der Krimi-Klassiker in neuer Hörspielfassung)",
+      "author": "Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/bc/27/bdbc2716-000c-4573-6490-f66c3d54d170/4251156101097_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1523285376"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspielalbum mit Klassikern des Krimi-Genres, das spannende Geschichten in einer neuen Hörspielfassung bietet."
+    },
+    {
+      "id": "gesp-folg-7054",
+      "title": "Folge 12: Der gehörnte Abt",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/5f/56/cd/5f56cd50-255f-6769-5ec9-1b8ce29d2b9d/4260507132802_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1207327054"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel, das den Titel 'Folge 12: Der gehörnte Abt' trägt und im Genre Krimi angesiedelt ist."
+    },
+    {
+      "id": "lies-folg-5978",
+      "title": "Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+      "author": "Lieselotte Filmhörspiele",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/8c/3d/5c8c3d93-273f-3ceb-e5fb-5504c03c95ce/9783732449514_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1739445978"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 12 Hörspiele von Lieselotte Filmhörspiele, die sich auf Krimis konzentrieren."
+    },
+    {
+      "id": "gesp-folg-6566",
+      "title": "Folge 11: Das Tor zur Hölle",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/71/0d/b4/710db4f7-a230-0015-5476-26475faae372/4260507131683_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1184406566"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel, das mit Spannung und Spannung aufwartet, in dem die Handlung um das Tor zur Hölle kreist."
+    },
+    {
+      "id": "edga-folg-4815",
+      "title": "Folge 3: Der Safe mit dem Rätselschloss (Der Krimi-Klassiker in neuer Hörspielfassung)",
+      "author": "Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/aa/7b/42/aa7b4295-103a-fe9a-d53a-a426cd22e16a/4251156101103_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1523284815"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel mit Edgar Wallace, das die klassische Kriminalgeschichte neu interpretiert."
+    },
+    {
+      "id": "jacq-eife-1548",
+      "title": "Eifel-Krimi, Folge 9: Eifel-Rallye, Teil 2",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/61/4d/b5614d3e-57a8-b2f4-0333-a92edd6a4c6a/4260507194176_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1739101548"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Eifel-Krimi, Folge 9: Eifel-Rallye, Teil 2' von Jacques Berndorf ist ein deutscher Hörspiel/Hörbuch-Krimi."
+    },
+    {
+      "id": "gesp-folg-2767",
+      "title": "Folge 9: Tempel der Dämonen",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/7f/cd/c4/7fcdc47c-4d3c-41b3-10f9-7bc9663e33a8/4260147778668_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1126092767"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über Tempel der Dämonen, verfasst von Gespenster-Krimi."
+    },
+    {
+      "id": "jacq-eife-5147",
+      "title": "Eifel-Krimi, Folge 10.2: Eifel-Jagd, Zweiter Teil",
+      "author": "Jacques Berndorf",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/90/c0/5d90c0c5-de2f-a11c-d134-50895010de21/4260507199638_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1773835147"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Kriminalhörspiel-Album, das Teil einer Serie ist."
+    },
+    {
+      "id": "bria-gesp-2699",
+      "title": "Gespenster-Krimi - Im Verlies der blutigen Träume (Hörspiel)",
+      "author": "Brian Elliot",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/fc/41/e9fc4188-d333-61c5-b14b-41e270c8b8b9/9783754001615_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1628252699"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel mit dem Titel 'Gespenster-Krimi - Im Verlies der blutigen Träume' von Brian Elliot, das auf 17 Tracks verteilt ist und im Genre Hörspiele angesiedelt ist."
+    },
+    {
+      "id": "kste-folg-2301",
+      "title": "Folge 20: Schweine über Dangast Teil 2",
+      "author": "Küsten-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/92/8a/1b928a2b-58da-dc78-c7b9-45fe308401c8/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1775772301"
+      },
+      "genres": [
+        "Küstenkrimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Hörspielreihe, die auf Spannung und Spannung im Küstenkrimi-Genre basiert."
+    },
+    {
+      "id": "gesp-folg-9109",
+      "title": "Folge 13: Das Erbe der Blutbestie",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/2d/dd/e6/2ddde6a1-0e07-4b14-9864-7ee67167b832/4260507135063_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1245259109"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält den Titel 'Folge 13: Das Erbe der Blutbestie', der typisch für Hörspiele ist, und wird als 'Hörspiele' kategorisiert."
+    },
+    {
+      "id": "gesp-folg-8459",
+      "title": "Folge 8: Die Blutbestie",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/1d/a2/68/1da2688d-523c-3925-935f-7ecaa67d05cb/4260147778088_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1104378459"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel, das Teil einer Serie ist, wie von 'Folge 8: Die Blutbestie' vermuten lässt."
+    },
+    {
+      "id": "feli-acht-3089",
+      "title": "Acht Hercule Poirot Krimis (Hörspiel)",
+      "author": "Felix Manteuffel",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/9b/af/bd/9bafbd1e-61f7-65b9-2adb-d812876af603/9783844505900_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "949133089"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele der berühmten Krimiserie um Hercule Poirot von Felix Manteuffel."
+    },
+    {
+      "id": "edga-krim-5059",
+      "title": "Krimi Klassiker 3: Die blaue Hand",
+      "author": "Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5c/66/42/5c66425f-f1e6-2ce8-4618-0c15874ea0df/4049709942729_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1527125059"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele, die sich um spannende Kriminalfälle drehen."
+    },
+    {
+      "id": "gesp-folg-5290",
+      "title": "Folge 10: Die Rückkehr der Blutbestie",
+      "author": "Gespenster-Krimi",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/2c/c4/93/2cc493f5-5b20-332c-8609-d765f7d06872/4260147779467_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1148915290"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Folge 10: Die Rückkehr der Blutbestie' von Gespenster-Krimi ist ein Hörspiel, das Spannung und Abenteuer verspricht."
+    },
+    {
+      "id": "edga-dasi-1678",
+      "title": "Das indische Tuch (Krimi Klassiker 1)",
+      "author": "Edgar Wallace",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b7/0d/0e/b70d0ed0-0ebf-64ee-8406-ca87cee11781/4049709942705_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1527121678"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Das indische Tuch' ist ein Hörspiel aus dem Genre Krimi, das auf Apple Music verfügbar ist."
+    },
+    {
+      "id": "mark-unda-0107",
+      "title": "Und alle Teufel hier - Das Hörspiel  ( Atticus 4)",
+      "author": "Mark Dawson Thriller, Krimi und Thriller Hörbücher & Hörbuch Bestseller",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/72/1b/7a721bba-bc59-3651-fbb7-b9a9ec2f0b14/4069828784031_cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1848950107"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Und alle Teufel hier - Das Hörspiel (Atticus 4)' ist ein Hörspiel, das Thriller und Krimi Themen behandelt. Es könnte sich um ein fiktives Abenteuer handeln."
+    },
+    {
+      "id": "gord-folg-7612",
+      "title": "Folge 1: Der Spiegel des Grauens",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2f/aa/b1/2faab1d8-1bdd-7b99-ffb1-7059ec8c7fe6/4251156101189_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1539867612"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Gruselkrimi aus der Geisterwelt, der Spannung und Spannung bietet."
+    },
+    {
+      "id": "neal-gesp-4892",
+      "title": "Gespenster-Krimi - Das Dämonenhaus",
+      "author": "Neal Davenport",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/fa/08/46fa0805-6e90-063d-5699-f778c8e62aca/9783754001646_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1647814892"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit dem Titel \"Gespenster-Krimi - Das Dämonenhaus\" von Neal Davenport, das 16 Hörspieltracks umfasst. Das Genre \"Hörspiele\" deutet eindeutig auf ein Hörspielalbum hin."
+    },
+    {
+      "id": "fred-gesp-7098",
+      "title": "Gespenster-Krimi - Der Fluch des Pharao",
+      "author": "Frederic Collins",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/a0/e7/d6a0e784-d280-fc3e-0237-7108d6c8b459/9783754001653_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1647817098"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 15 Tracks des Krimi-Hörspiels 'Gespenster-Krimi - Der Fluch des Pharao' von Frederic Collins."
+    },
+    {
+      "id": "afmo-gesp-2334",
+      "title": "Gespenster-Krimi - Das Geheimnis der Totenmaske (Hörspiel)",
+      "author": "A.F. Mortimer",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/43/37/334337f2-bfa4-e074-2913-e34cb7590415/9783754001660_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1628252334"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel über ein Gespenst-Krimi-Thema mit 19 Tracks, das von A.F. Mortimer produziert wurde."
+    },
+    {
+      "id": "hrsp-folg-3925",
+      "title": "Folge 63: Insel-Krimi 11 - Sherlock Holmes auf Langeoog",
+      "author": "Hörspielkammer des Schreckens",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/8d/7a/d08d7ab4-6d14-51dd-5b0e-b8638d3931d2/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1596943925"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel mit dem Titel 'Folge 63: Insel-Krimi 11 - Sherlock Holmes auf Langeoog' von der Hörspielkammer des Schreckens, das Comedy-Elemente enthält. Es handelt sich um ein spannendes Kriminalhörspiel im Abenteuer-Genre."
+    },
+    {
+      "id": "fran-gesp-6347",
+      "title": "Gespenster-Krimi - Der Turm des Grauens",
+      "author": "Frank DeLorca",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/3c/36/183c36f7-c060-6ee2-dada-a76f804baffc/9783754001639_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1643136347"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit dem Titel 'Gespenster-Krimi - Der Turm des Grauens' von Frank DeLorca, das sich auf 16 Tracks Hörspiele widmet. Das Genre 'Hörspiele' deutet eindeutig auf eine Hörspielproduktion hin."
+    },
+    {
+      "id": "gord-folg-8801",
+      "title": "Folge 2: Die Augen des Dämonen",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/c7/1e/70c71e38-8bcf-7912-2be4-c7a8859099ea/4251156101196_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1541588801"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Folge 2: Die Augen des Dämonen' ist ein Hörspiel von Gordon Black, das einen Gruselkrimi aus der Geisterwelt erzählt."
+    },
+    {
+      "id": "einf-folg-0058",
+      "title": "Folge 2: Duft der bösen Träume (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/ef/0d/beef0d51-b36d-7a71-98bf-92aec2682eb9/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686160058"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 2: Duft der bösen Träume', das ein 50er Jahre Krimi aus der Provence erzählt."
+    },
+    {
+      "id": "gord-folg-9434",
+      "title": "Folge 3: Friedhof der Hexen",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b5/50/d3/b550d3d5-9922-c735-d7bc-40d887de1d3b/4251156101202_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1541589434"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "Ein Gruselkrimi aus der Geisterwelt, der auf einem Friedhof von Hexen spielt."
+    },
+    {
+      "id": "gord-folg-2355",
+      "title": "Folge 5: Eine Braut für Dracula",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a0/3c/a1/a03ca13d-9b4b-b28d-5523-6f5a5bf2c359/4251156101226_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1541592355"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Gruselkrimi aus der Geisterwelt, der auf einem bekannten Horrorfilm basiert."
+    },
+    {
+      "id": "einf-folg-5893",
+      "title": "Folge 3: Heilige Madonna, segne uns (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/f3/d0/90f3d08f-7dd9-563e-d131-90edac4c5ddc/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685985893"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence, das als Hörspiel präsentiert wird."
+    },
+    {
+      "id": "einf-folg-3520",
+      "title": "Folge 7: Der Tod in der Traumfabrik (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/4d/54/744d5427-d7af-390f-bd3a-33dc4e121c60/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686163520"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi spielt in der Provence und gehört zur Hörspielkategorie."
+    },
+    {
+      "id": "gord-folg-2884",
+      "title": "Folge 6: Im Kabinett des Teufels",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/52/0a/76520aaf-d8b2-1e4c-cfca-9951dfbf35ec/4251156101233_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1541592884"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album beinhaltet eine Folge eines Hörspiels mit dem Titel \"Folge 6: Im Kabinett des Teufels\" von Gordon Black. Es handelt sich um ein Gruselkrimi aus der Geisterwelt."
+    },
+    {
+      "id": "einf-folg-0589",
+      "title": "Folge 10: Der Sensenmann macht keinen Lärm (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/45/dd/3b45ddaa-6076-f413-0b13-8c1ab6c321cb/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686000589"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence über den Sensenmann, der keinen Lärm macht."
+    },
+    {
+      "id": "gord-preq-3564",
+      "title": "Prequel - Der Fall Hanako Kamara",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/c7/d9/0ec7d93e-9425-1658-4e58-2c5c7a1a240e/4251156101769_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1690663564"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Gruselkrimi aus der Geisterwelt, der Spannung und Spannung bietet."
+    },
+    {
+      "id": "gord-folg-1956",
+      "title": "Folge 7: Angriff aus der Schattenwelt (Schattenwelt-Trilogie)",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/e0/a0/57e0a0e7-9a55-bcb1-13b8-f71544760c3f/4251156101776_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1699571956"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Gruselkrimi aus der Geisterwelt, Teil der Schattenwelt-Trilogie."
+    },
+    {
+      "id": "einf-folg-9785",
+      "title": "Folge 16: Der Tote im Mondlicht (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bc/e4/e3/bce4e3ae-c04f-c005-9e19-a5e053a5a600/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1726619785"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence."
+    },
+    {
+      "id": "einf-folg-9155",
+      "title": "Folge 17: Die Morde des Monsieur Dijon (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/ea/bb/0aeabb49-ffb6-e831-5af9-ff34135eb48a/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1741549155"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein kriminaler Fall aus der Provence im Stil der 50er Jahre mit Madame als Ermittlerin."
+    },
+    {
+      "id": "einf-folg-7298",
+      "title": "Folge 4: Das Rätsel des Grabmals (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/98/20/a29820fd-9c19-8169-565f-c90a9315efd4/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685987298"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence mit einer spannenden Handlung und einer deutschen Produktion."
+    },
+    {
+      "id": "einf-folg-4881",
+      "title": "Folge 13: Die stummen Zeugen (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f9/8c/50/f98c5062-51d4-080f-e637-c8ad99907c71/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1699414881"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence mit 41 Folgen."
+    },
+    {
+      "id": "einf-folg-5028",
+      "title": "Folge 20: Der Zwiebel-Mörder (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/65/4a/ca654a54-acba-32c0-8d09-bb9f1cd75f85/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1783345028"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence, der als Hörspiel präsentiert wird."
+    },
+    {
+      "id": "einf-folg-5650",
+      "title": "Folge 21: Das Rätsel der toten Frauen (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/47/ea/fc47eab1-8dc3-ee80-493a-8c87eef6b438/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1816225650"
+      },
+      "genres": [
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence mit 38 Folgen."
+    },
+    {
+      "id": "jerr-jerr-8638",
+      "title": "Jerry Cotton, G-man Jerry Cotton - 12 packende Hörspiel-Krimis",
+      "author": "Jerry Cotton",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/f4/b0/02f4b0c7-edae-4912-fcfc-07c78d2a25fb/mzi.vjhluiaj.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "375658638"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 214 packende Hörspiel-Krimis von Jerry Cotton, die auf Deutsch produziert wurden und sich auf Spannung und Spannung konzentrieren."
+    },
+    {
+      "id": "gord-folg-5698",
+      "title": "Folge 8: Gefangen in der Schattenwelt (Schattenwelt-Trilogie)",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/3b/48/6b3b48a3-580e-adc6-dbf7-ca35075be971/4251156101790_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1703575698"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 17 Tracks des Hörspiels 'Folge 8: Gefangen in der Schattenwelt' aus der 'Schattenwelt-Trilogie'. Es handelt sich um ein Gruselkrimi aus der Geisterwelt, interpretiert von Gordon Black."
+    },
+    {
+      "id": "einf-folg-2854",
+      "title": "Folge 18: Die Leiche im Acker (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/5a/18/735a189e-4dd4-ee90-e6a9-22156e872df1/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1760362854"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält eine Folge eines Krimihörspiels aus der Provence, das in den 1950er Jahren spielt."
+    },
+    {
+      "id": "kers-trio-4189",
+      "title": "Trio Fatale - Krimi-Hörspiel",
+      "author": "Kerstin Schreiber",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/47/f7/7847f7b4-1264-e977-153a-3165c7bd1626/cover_10217137.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1612104189"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel, das als Krimi-Hörspiel von Kerstin Schreiber produziert wurde."
+    },
+    {
+      "id": "einf-folg-1159",
+      "title": "Folge 12: Tote Engel (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/bf/54/18bf54ad-df41-319c-64ad-bd1d13af535d/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1691481159"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi spielt in der Provence."
+    },
+    {
+      "id": "einf-folg-1582",
+      "title": "Folge 8: Der fliegende Tod (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/07/4b/62074bc7-1c0d-6a72-f07e-6c3d37c4b37f/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686341582"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence."
+    },
+    {
+      "id": "einf-folg-2026",
+      "title": "Folge 9: Tot in Rot (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/d5/2f/e5d52fb7-a226-ba29-0784-eb25981961f1/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686012026"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence."
+    },
+    {
+      "id": "einf-folg-0200",
+      "title": "Folge 15: Mord in den Wolken (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/1b/4b/561b4b22-c653-1347-aa31-e02a4076a7a3/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1719640200"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence mit dem Titel 'Folge 15: Mord in den Wolken'."
+    },
+    {
+      "id": "gord-scha-0709",
+      "title": "Schattenwelt-Trilogie, Folge 9: Inferno in der Schattenwelt (ungekürzt)",
+      "author": "Gordon Black - Ein Gruselkrimi aus der Geisterwelt!",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/f4/56/37f45637-8e5e-a16a-a104-fb3dd481ad6d/4251156101851_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1718520709"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum mit 20 Folgen der Schattenwelt-Trilogie, das als Gruselkrimi aus der Geisterwelt beschrieben wird."
+    },
+    {
+      "id": "einf-folg-0751",
+      "title": "Folge 14: Das Haus der Rätsel (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/da/06/d9da06e5-c1b8-e759-dd19-191424d4361b/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1711770751"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence mit Madame als Protagonistin."
+    },
+    {
+      "id": "einf-folg-5228",
+      "title": "Folge 11: Der Seance-Mörder (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/18/59/a3185981-d753-149a-65f2-6b6dad37a86e/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685885228"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 11: Der Seance-Mörder', das als 50er Jahre Krimi aus der Provence beschrieben wird. Es enthält 42 Tracks und wird von 'Ein Fall für Madame' interpretiert."
+    },
+    {
+      "id": "einf-folg-6978",
+      "title": "Folge 6: Tod auf dem Katapult (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/04/cb/17/04cb171d-3a16-acb1-fa8d-7276a166f59a/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686156978"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence, das als Hörspiel produziert wurde."
+    },
+    {
+      "id": "tkkg-tkkg-2749",
+      "title": "TKKG Krimi-Box 5",
+      "author": "TKKG",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "490742749"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 12 Hörspiel-Tracks aus der TKKG Krimi-Box 5, ein populäres deutscher Hörspielformat."
+    },
+    {
+      "id": "einf-folg-9424",
+      "title": "Folge 5: Der Tod im Glockenturm (Ein 50er Jahre Krimi aus der Provence)",
+      "author": "Ein Fall für Madame",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/58/34/42583468-33f0-c3db-6dcf-6908a146b608/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685989424"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein 50er Jahre Krimi aus der Provence im Hörspielformat."
+    },
+    {
+      "id": "theo-diet-2739",
+      "title": "Die Theo Lingen Krimi-Box",
+      "author": "Theo Lingen",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ad/f7/47/adf74703-0fff-b2cb-ec6f-d5b7aeaef0f0/cover.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1454562739"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit 92 Tracks des Künstlers Theo Lingen, das sich auf Hörspiele spezialisiert."
+    },
+    {
+      "id": "tkkg-krim-5860",
+      "title": "Krimi-Box 15 (Folgen 126,136,169)",
+      "author": "TKKG",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c7/92/f5/c792f5f6-bc12-ab86-1ec7-6307bd8bf875/886444957168.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "971755860"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit Titeln wie 'Krimi-Box' deutet auf ein spannendes Hörspiel mit Kriminalgeschichten hin."
     }
   ]
 }
