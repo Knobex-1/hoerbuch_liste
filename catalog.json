@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-27T08:00:32.400770+00:00",
+  "updatedAt": "2026-05-27T08:01:21.798157+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -25343,6 +25343,507 @@
       ],
       "chapters": [],
       "description": "Das Album 'Komplette Staffel 2' von Heliosphere 2265 enthält 490 Tracks im Genre Hörspiele, was auf ein Hörspiel oder Hörbuch hindeutet."
+    },
+    {
+      "id": "frak-folg-0542",
+      "title": "Folge 01: Verloren im Mikrokosmos",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/6c/b1/836cb149-4c1a-ab5f-abea-81fa7d2dc6e0/4260147772901_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "880970542"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit Hörspiel-Titel und -Genre, das auf Apple Music verfügbar ist."
+    },
+    {
+      "id": "frak-folg-1042",
+      "title": "Folge 03: Prähistorica",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/3d/02/e6/3d02e667-cfba-b2a6-56a1-6cc8119afacb/4260147773861_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "963781042"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 11 Tracks, die sich auf ein Hörspiel um die Prähistorische Zeit konzentrieren. Es könnte Geschichten oder Abenteuer um die prähistorische Zeit handeln."
+    },
+    {
+      "id": "frak-folg-8490",
+      "title": "Folge 4: Kontakt",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/35/ff/48/35ff4865-36a2-a978-19d1-6610fb5aea49/4260147774196_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "986808490"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Hörspiel-Album mit 11 Folgen, das im Genre des Hörspiels angesiedelt ist."
+    },
+    {
+      "id": "frak-folg-0770",
+      "title": "Folge 6: Der Schleier von Kintaru",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/41/27/a7/4127a7e8-f58e-f192-6d83-f30943132d7f/4260507146960_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1450380770"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit dem Titel 'Folge 6: Der Schleier von Kintaru' von 'Fraktal' gehört zum Genre Hörspiele."
+    },
+    {
+      "id": "frak-folg-2446",
+      "title": "Folge 8: Der leise Tod",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/87/f5/43/87f543a3-2f20-4d93-1843-1056bcff5341/4260507151520_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1465882446"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannender Krimi mit 32 Folgen, der sich um den leisen Tod dreht."
+    },
+    {
+      "id": "frak-folg-1592",
+      "title": "Folge 5: Trojaner",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/40/48/7c40482c-8fd9-71d6-c8be-924af6e6d964/4260507157416_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499101592"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit 36 Tracks, das sich auf ein Hörspiel von Fraktal konzentriert."
+    },
+    {
+      "id": "frak-folg-6223",
+      "title": "Folge 14: Ultimatum",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/a8/2f/2ba82f13-67b8-1796-249a-a4dde693d3e6/4260507160188_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1517166223"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit 40 Tracks, das als Folge 14 eines Hörspiel-Serien erscheint."
+    },
+    {
+      "id": "frak-folg-9246",
+      "title": "Folge 9: Die Traummaschine",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/78/24/3e/78243ec3-a33f-1c8d-00a7-0b33c52adc95/4260507153272_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1476429246"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 9: Die Traummaschine' von Fraktal. Es enthält insgesamt 38 Tracks im Genre Hörspiele."
+    },
+    {
+      "id": "frak-folg-8071",
+      "title": "Folge 13: Die Station im Eis",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/05/b7/62/05b76214-faa1-5881-057c-756956fad52f/4260507157959_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1507178071"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album im Genre Hörspiele, das auf dem iTunes-Katalog verfügbar ist, deutet darauf hin, dass es sich um ein deutsches Hörspiel handelt."
+    },
+    {
+      "id": "frak-folg-4363",
+      "title": "Folge 02: Sternenstaub",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/aa/54/03/aa5403a4-98a6-8e44-a89a-863c8bca97bd/4260147773458_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "922124363"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 12 Episoden eines Hörspiels mit dem Titel 'Folge 02: Sternenstaub' von der Band 'Fraktal'."
+    },
+    {
+      "id": "frak-folg-5497",
+      "title": "Folge 17: Der ungebetene Gast",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/d2/af/b4d2af38-1ef2-5e44-b875-33a1490b69df/4260507161840_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1539215497"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspielalbum über den ungebetenen Gast, das Spannung und Unterhaltung bietet."
+    },
+    {
+      "id": "frak-folg-9581",
+      "title": "Folge 7: Hinter dem Zaun",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4e/ef/e7/4eefe777-4ff7-7d9e-a7d5-d31eed466fa7/4260507150745_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1462069581"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 7: Hinter dem Zaun' von Fraktal, das sich auf ein spannendes Hörspiel-Erlebnis konzentriert."
+    },
+    {
+      "id": "frak-folg-3243",
+      "title": "Folge 16: Der Schleier fällt",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/92/d0/c392d0e0-21ef-e32e-b76b-9d8184a762e0/4260507161475_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1530813243"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album beinhaltet die erste Folge eines Hörspiels mit dem Titel 'Folge 16: Der Schleier fällt' von der Gruppe 'Fraktal'. Es ist ein Hörspiel-Album auf Apple Music."
+    },
+    {
+      "id": "frak-folg-8882",
+      "title": "Folge 15: Unter Feinden",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/d7/0b/92d70b05-9f36-ef3b-37ae-6e547fc9f648/4260507161178_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1528458882"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Folge 15: Unter Feinden' von Fraktal ist ein Hörspielalbum mit 28 Folgen, das auf Apple Music verfügbar ist."
+    },
+    {
+      "id": "frak-folg-0717",
+      "title": "Folge 05: Trojaner",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/be/ef/4c/beef4c49-4e6c-883e-44cc-f699287bf615/4260147774721_1448.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1031580717"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 05: Trojaner' von der Band Fraktal."
+    },
+    {
+      "id": "frak-folg-7215",
+      "title": "Folge 1: Verloren im Mikrokosmos",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/33/ac/f833acb0-977a-a55f-c2a1-fd627a8cd5c8/4260507157379_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499097215"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält vierundvierzig Tracks von Fraktal im Genre Hörspiele, unter dem Titel 'Folge 1: Verloren im Mikrokosmos'."
+    },
+    {
+      "id": "frak-folg-1467",
+      "title": "Folge 12: Kieron",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/94/31/77943119-0a7f-ebe1-6dff-a04afc1c1640/4260507157485_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499111467"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Hörspiel-Tracks und ist von einem deutschen Künstler verfasst."
+    },
+    {
+      "id": "frak-folg-2111",
+      "title": "Folge 10: Die Nacht der Verschwörer",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/16/38/78/163878cc-c674-79a0-30ae-0017c1820000/4260507153807_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1481062111"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über Verschwörungen in der Nacht."
+    },
+    {
+      "id": "frak-folg-0530",
+      "title": "Folge 11: Krieger des Taroximperiums",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/35/ed/30/35ed306d-412a-cbb8-5da3-ce52f5f498e6/4260507157478_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499110530"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 35 Tracks von einem Hörspiel mit dem Titel 'Folge 11: Krieger des Taroximperiums' von Fraktal."
+    },
+    {
+      "id": "frak-folg-7765",
+      "title": "Folge 10: Die Nacht der Verschwörer",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/b9/ee/9fb9ee77-9927-3e57-ddc9-412bf6744c07/4260507157461_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499107765"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel-Album mit dem Titel 'Folge 10: Die Nacht der Verschwörer' von Fraktal, bestehend aus 37 Tracks im Genre Hörspiele."
+    },
+    {
+      "id": "frak-folg-8070",
+      "title": "Folge 3: Prähistorica",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/7c/5a/377c5a9b-30eb-c1b2-b71c-7ce03e75d99c/4260507157393_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499098070"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 3: Prähistorica' von der Band Fraktal. Es besteht aus 37 Tracks und gehört zum Genre Hörspiele."
+    },
+    {
+      "id": "frak-folg-8438",
+      "title": "Folge 2: Sternenstaub",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/1d/05/621d0517-52b8-cee9-0a15-f0103e9eb065/4260507157386_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499098438"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele von Fraktal mit insgesamt 43 Folgen, die im Genre Hörspiele angesiedelt sind."
+    },
+    {
+      "id": "frak-folg-1103",
+      "title": "Folge 4: Kontakt",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/d2/6f/00d26fae-2551-7378-e66b-39939f2daa09/4260507157409_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499101103"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiel-Tracks und ist unter dem Titel 'Folge 4: Kontakt' von 'Fraktal' auf iTunes verfügbar."
+    },
+    {
+      "id": "frak-folg-2938",
+      "title": "Folge 6: Der Schleier von Kintaru",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f7/c8/62/f7c862bd-fe22-e9c2-13bb-e35e980784df/4260507157423_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499102938"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil der Serie 'Folge 6: Der Schleier von Kintaru' und gehört zum Genre Hörspiele."
+    },
+    {
+      "id": "frak-folg-4081",
+      "title": "Folge 8: Der leise Tod",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/69/d9/ae69d984-51ee-026e-e6f5-c84ae6edc717/4260507157447_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499104081"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 8: Der leise Tod' von Fraktal."
+    },
+    {
+      "id": "frak-folg-6651",
+      "title": "Folge 9: Die Traummaschine",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/91/74/86/9174866b-bf4a-439d-a12b-21a7b556750f/4260507157454_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499106651"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dies ist ein Album, das als Hörspiel veröffentlicht wurde, mit einem Titel, der typisch für deutsche Hörspiele ist."
+    },
+    {
+      "id": "frak-folg-3061",
+      "title": "Folge 7: Hinter dem Zaun",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/28/72/3d/28723dcc-08e8-d65e-97e1-8ceba7eeebf4/4260507157430_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1499103061"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele und wird von der Künstlerin Fraktal produziert."
+    },
+    {
+      "id": "frak-folg-8515",
+      "title": "Folge 11: Krieger des Taroximperiums",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/cc/10/96cc10fb-703e-a72e-2eb2-c71ad467ac8b/4260507155382_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1486608515"
+      },
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Episoden einer Serie mit dem Titel 'Krieger des Taroximperiums', was auf ein Hörspiel oder Hörbuch im Genre Science-Fiction hinweist."
+    },
+    {
+      "id": "frak-folg-6458",
+      "title": "Folge 12: Kieron",
+      "author": "Fraktal",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/00/b9/5e00b907-d9ad-e7b1-6525-81980aa586a1/4260507156563_3000.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1495676458"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit 28 Folgen, das von der Gruppe Fraktal produziert wurde. Es handelt sich um die zwölfte Folge einer Serie mit dem Titel 'Kieron'."
+    },
+    {
+      "id": "jant-dern-3035",
+      "title": "Der neue Superheld - Folge 32: Im Bann des Fraktalfeuers",
+      "author": "Jan Tenner",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/9a/34/cc9a3453-fb25-34af-3cfa-faf47a70ceab/4033694577820.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1777543035"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel über den neuen Superhelden mit der Folge 'Im Bann des Fraktalfeuers'."
+    },
+    {
+      "id": "dieh-amen-6979",
+      "title": "am ende der welt wird eine neue geboren (feat. Lukas Fraktal) - Single",
+      "author": "Die Hunde",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/74/f1/3074f13c-da1a-98d0-a3d6-7c914ac8393b/artwork.jpg/100x100bb.jpg",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1737556979"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiel-Inhalte und wird von einer deutschen Band veröffentlicht."
     }
   ]
 }
