@@ -2128,19 +2128,6 @@
       ]
     },
     {
-      "id": "1582042251",
-      "title": "Die Mutprobe, Ein echter Krimi, Der geteilte Wald (Hörspiele zur TV Serie 16)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/3c/f9/043cf95a-8152-ae45-67b2-5d04f4dd6d36/4066338226761_cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album besteht aus Hörspielen, die zu einer TV-Serie gehören und von bekannten deutschen Stimmen wie Katja Grübel und Peter Weis gelesen werden.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1582042251"
-      },
-      "chapters": []
-    },
-    {
       "id": "1831929684",
       "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 1: Der grüne Glibber-Brief (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
       "episodeNumber": null,
@@ -3936,27 +3923,6 @@
       ]
     },
     {
-      "id": "1822354956",
-      "title": "Miraculous - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/22/70/c9227028-3f21-e1c7-75a8-73121723c53a/artwork.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspielalbum, das auf Apple Music verfügbar ist.",
-      "totalDuration": 363.32,
-      "platforms": {
-        "appleMusic": "1822354956"
-      },
-      "chapters": [
-        {
-          "id": "free-mira-4956-t01",
-          "title": "Miraculous",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 363.32
-        }
-      ]
-    },
-    {
       "id": "1582704839",
       "title": "Peter Lustig liest Die Eiskönigin von Hans Christian Andersen",
       "episodeNumber": null,
@@ -4151,28 +4117,7 @@
           "duration": 398.865
         }
       ]
-    },
-    {
-      "id": "1737556979",
-      "title": "am ende der welt wird eine neue geboren (feat. Lukas Fraktal) - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/74/f1/3074f13c-da1a-98d0-a3d6-7c914ac8393b/artwork.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Inhalte und wird von einer deutschen Band veröffentlicht.",
-      "totalDuration": 280.5,
-      "platforms": {
-        "appleMusic": "1737556979"
-      },
-      "chapters": [
-        {
-          "id": "dieh-amen-6979-t01",
-          "title": "am ende der welt wird eine neue geboren (feat. Lukas Fraktal)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 280.5
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-05-28T19:34:33Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

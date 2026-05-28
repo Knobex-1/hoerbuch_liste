@@ -9,27 +9,6 @@
   ],
   "albums": [
     {
-      "id": "1784321995",
-      "title": "Finn und die Mondlichtbrücke (feat. Kinder Hörspiele, Kinder Märchen, Kinder Geschichten, Kinder Gute-Nacht-Geschichten & Kinder Fantasiegeschichten) - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/1d/d7/f81dd7f6-526e-c96e-2389-e2e0be1c355a/531185.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Geschichten für Kinder, ideal für Gute-Nacht-Geschichten.",
-      "totalDuration": 227.265,
-      "platforms": {
-        "appleMusic": "1784321995"
-      },
-      "chapters": [
-        {
-          "id": "kind-finn-1995-t01",
-          "title": "Finn und die Mondlichtbrücke (feat. Kinder Hörspiele, Kinder Märchen, Kinder Geschichten, Kinder Gute-Nacht-Geschichten & Kinder Fantasiegeschichten)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 227.265
-        }
-      ]
-    },
-    {
       "id": "1770801083",
       "title": "Leo und der magische Regenbogenstein - Single",
       "episodeNumber": null,
@@ -51,5 +30,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

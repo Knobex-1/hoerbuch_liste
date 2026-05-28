@@ -22,6 +22,370 @@
       "chapters": []
     },
     {
+      "id": "1502114406",
+      "title": "Hörspiele zur Serie (Staffel 1, Episode 1-5)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/f2/3d/83f23d23-e4f0-117e-89ae-d582d0ce0d20/190295249823.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele zur Serie von Bibi und Tina, die sich an ein junges Publikum richtet und typischerweise im Kinder- und Jugendbereich angesiedelt ist.",
+      "totalDuration": 4604.804,
+      "platforms": {
+        "appleMusic": "1502114406"
+      },
+      "chapters": [
+        {
+          "id": "bibi-hrsp-4406-t01",
+          "title": "Kapitel 01: Endlich wieder Ferien (S1/01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 57.42
+        },
+        {
+          "id": "bibi-hrsp-4406-t02",
+          "title": "Kapitel 02: Endlich wieder Ferien (S1/01)",
+          "index": 1,
+          "startTime": 57.42,
+          "duration": 90.212
+        },
+        {
+          "id": "bibi-hrsp-4406-t03",
+          "title": "Kapitel 03: Endlich wieder Ferien (S1/01)",
+          "index": 2,
+          "startTime": 147.632,
+          "duration": 96.238
+        },
+        {
+          "id": "bibi-hrsp-4406-t04",
+          "title": "Kapitel 04: Endlich wieder Ferien (S1/01)",
+          "index": 3,
+          "startTime": 243.87,
+          "duration": 96.1
+        },
+        {
+          "id": "bibi-hrsp-4406-t05",
+          "title": "Kapitel 05: Endlich wieder Ferien (S1/01)",
+          "index": 4,
+          "startTime": 339.97,
+          "duration": 94.567
+        },
+        {
+          "id": "bibi-hrsp-4406-t06",
+          "title": "Kapitel 06: Endlich wieder Ferien (S1/01)",
+          "index": 5,
+          "startTime": 434.537,
+          "duration": 93.17
+        },
+        {
+          "id": "bibi-hrsp-4406-t07",
+          "title": "Kapitel 07: Endlich wieder Ferien (S1/01)",
+          "index": 6,
+          "startTime": 527.707,
+          "duration": 92.669
+        },
+        {
+          "id": "bibi-hrsp-4406-t08",
+          "title": "Kapitel 08: Endlich wieder Ferien (S1/01)",
+          "index": 7,
+          "startTime": 620.376,
+          "duration": 92.754
+        },
+        {
+          "id": "bibi-hrsp-4406-t09",
+          "title": "Kapitel 09: Endlich wieder Ferien (S1/01)",
+          "index": 8,
+          "startTime": 713.13,
+          "duration": 98.096
+        },
+        {
+          "id": "bibi-hrsp-4406-t10",
+          "title": "Kapitel 10: Endlich wieder Ferien (S1/01)",
+          "index": 9,
+          "startTime": 811.226,
+          "duration": 92.266
+        },
+        {
+          "id": "bibi-hrsp-4406-t11",
+          "title": "Kapitel 11: Endlich wieder Ferien (S1/01)",
+          "index": 10,
+          "startTime": 903.492,
+          "duration": 92.437
+        },
+        {
+          "id": "bibi-hrsp-4406-t12",
+          "title": "Kapitel 12: Endlich wieder Ferien (S1/01)",
+          "index": 11,
+          "startTime": 995.929,
+          "duration": 95.48
+        },
+        {
+          "id": "bibi-hrsp-4406-t13",
+          "title": "Kapitel 13: Endlich wieder Ferien (S1/01)",
+          "index": 12,
+          "startTime": 1091.409,
+          "duration": 94.893
+        },
+        {
+          "id": "bibi-hrsp-4406-t14",
+          "title": "Kapitel 14: Endlich wieder Ferien (S1/01)",
+          "index": 13,
+          "startTime": 1186.302,
+          "duration": 94.429
+        },
+        {
+          "id": "bibi-hrsp-4406-t15",
+          "title": "Kapitel 15: Endlich wieder Ferien (S1/01)",
+          "index": 14,
+          "startTime": 1280.731,
+          "duration": 93.512
+        },
+        {
+          "id": "bibi-hrsp-4406-t16",
+          "title": "Kapitel 16: Endlich wieder Ferien (S1/01)",
+          "index": 15,
+          "startTime": 1374.243,
+          "duration": 92.754
+        },
+        {
+          "id": "bibi-hrsp-4406-t17",
+          "title": "Kapitel 17: Endlich wieder Ferien (S1/01)",
+          "index": 16,
+          "startTime": 1466.997,
+          "duration": 93.292
+        },
+        {
+          "id": "bibi-hrsp-4406-t18",
+          "title": "Kapitel 18: Endlich wieder Ferien (S1/01)",
+          "index": 17,
+          "startTime": 1560.289,
+          "duration": 96.519
+        },
+        {
+          "id": "bibi-hrsp-4406-t19",
+          "title": "Kapitel 19: Endlich wieder Ferien (S1/01)",
+          "index": 18,
+          "startTime": 1656.808,
+          "duration": 93.28
+        },
+        {
+          "id": "bibi-hrsp-4406-t20",
+          "title": "Kapitel 20: Endlich wieder Ferien (S1/01)",
+          "index": 19,
+          "startTime": 1750.088,
+          "duration": 126.687
+        },
+        {
+          "id": "bibi-hrsp-4406-t21",
+          "title": "Kapitel 01: Splish - Splash (S1/02)",
+          "index": 20,
+          "startTime": 1876.775,
+          "duration": 56.665
+        },
+        {
+          "id": "bibi-hrsp-4406-t22",
+          "title": "Kapitel 02: Splish - Splash (S1/02)",
+          "index": 21,
+          "startTime": 1933.44,
+          "duration": 96.391
+        },
+        {
+          "id": "bibi-hrsp-4406-t23",
+          "title": "Kapitel 03: Splish - Splash (S1/02)",
+          "index": 22,
+          "startTime": 2029.831,
+          "duration": 95.216
+        },
+        {
+          "id": "bibi-hrsp-4406-t24",
+          "title": "Kapitel 04: Splish - Splash (S1/02)",
+          "index": 23,
+          "startTime": 2125.047,
+          "duration": 93.023
+        },
+        {
+          "id": "bibi-hrsp-4406-t25",
+          "title": "Kapitel 05: Splish - Splash (S1/02)",
+          "index": 24,
+          "startTime": 2218.07,
+          "duration": 92.407
+        },
+        {
+          "id": "bibi-hrsp-4406-t26",
+          "title": "Kapitel 06: Splish - Splash (S1/02)",
+          "index": 25,
+          "startTime": 2310.477,
+          "duration": 94.728
+        },
+        {
+          "id": "bibi-hrsp-4406-t27",
+          "title": "Kapitel 07: Splish - Splash (S1/02)",
+          "index": 26,
+          "startTime": 2405.205,
+          "duration": 93.541
+        },
+        {
+          "id": "bibi-hrsp-4406-t28",
+          "title": "Kapitel 08: Splish - Splash (S1/02)",
+          "index": 27,
+          "startTime": 2498.746,
+          "duration": 93.465
+        },
+        {
+          "id": "bibi-hrsp-4406-t29",
+          "title": "Kapitel 09: Splish - Splash (S1/02)",
+          "index": 28,
+          "startTime": 2592.211,
+          "duration": 95.144
+        },
+        {
+          "id": "bibi-hrsp-4406-t30",
+          "title": "Kapitel 10: Splish - Splash (S1/02)",
+          "index": 29,
+          "startTime": 2687.355,
+          "duration": 95.889
+        },
+        {
+          "id": "bibi-hrsp-4406-t31",
+          "title": "Kapitel 11: Splish - Splash (S1/02)",
+          "index": 30,
+          "startTime": 2783.244,
+          "duration": 91.79
+        },
+        {
+          "id": "bibi-hrsp-4406-t32",
+          "title": "Kapitel 12: Splish - Splash (S1/02)",
+          "index": 31,
+          "startTime": 2875.034,
+          "duration": 92.858
+        },
+        {
+          "id": "bibi-hrsp-4406-t33",
+          "title": "Kapitel 13: Splish - Splash (S1/02)",
+          "index": 32,
+          "startTime": 2967.892,
+          "duration": 96.957
+        },
+        {
+          "id": "bibi-hrsp-4406-t34",
+          "title": "Kapitel 14: Splish - Splash (S1/02)",
+          "index": 33,
+          "startTime": 3064.849,
+          "duration": 94.069
+        },
+        {
+          "id": "bibi-hrsp-4406-t35",
+          "title": "Kapitel 15: Splish - Splash (S1/02)",
+          "index": 34,
+          "startTime": 3158.918,
+          "duration": 93.095
+        },
+        {
+          "id": "bibi-hrsp-4406-t36",
+          "title": "Kapitel 16: Splish - Splash (S1/02)",
+          "index": 35,
+          "startTime": 3252.013,
+          "duration": 89.125
+        },
+        {
+          "id": "bibi-hrsp-4406-t37",
+          "title": "Kapitel 17: Splish - Splash (S1/02)",
+          "index": 36,
+          "startTime": 3341.138,
+          "duration": 77.324
+        },
+        {
+          "id": "bibi-hrsp-4406-t38",
+          "title": "Kapitel 01: Fame ist Lame (S1/03)",
+          "index": 37,
+          "startTime": 3418.462,
+          "duration": 56.586
+        },
+        {
+          "id": "bibi-hrsp-4406-t39",
+          "title": "Kapitel 02: Fame ist Lame (S1/03)",
+          "index": 38,
+          "startTime": 3475.048,
+          "duration": 95.918
+        },
+        {
+          "id": "bibi-hrsp-4406-t40",
+          "title": "Kapitel 03: Fame ist Lame (S1/03)",
+          "index": 39,
+          "startTime": 3570.966,
+          "duration": 95.994
+        },
+        {
+          "id": "bibi-hrsp-4406-t41",
+          "title": "Kapitel 04: Fame ist Lame (S1/03)",
+          "index": 40,
+          "startTime": 3666.96,
+          "duration": 93.687
+        },
+        {
+          "id": "bibi-hrsp-4406-t42",
+          "title": "Kapitel 05: Fame ist Lame (S1/03)",
+          "index": 41,
+          "startTime": 3760.647,
+          "duration": 91.692
+        },
+        {
+          "id": "bibi-hrsp-4406-t43",
+          "title": "Kapitel 06: Fame ist Lame (S1/03)",
+          "index": 42,
+          "startTime": 3852.339,
+          "duration": 97.641
+        },
+        {
+          "id": "bibi-hrsp-4406-t44",
+          "title": "Kapitel 07: Fame ist Lame (S1/03)",
+          "index": 43,
+          "startTime": 3949.98,
+          "duration": 86.628
+        },
+        {
+          "id": "bibi-hrsp-4406-t45",
+          "title": "Kapitel 08: Fame ist Lame (S1/03)",
+          "index": 44,
+          "startTime": 4036.608,
+          "duration": 99.698
+        },
+        {
+          "id": "bibi-hrsp-4406-t46",
+          "title": "Kapitel 09: Fame ist Lame (S1/03)",
+          "index": 45,
+          "startTime": 4136.306,
+          "duration": 90.607
+        },
+        {
+          "id": "bibi-hrsp-4406-t47",
+          "title": "Kapitel 10: Fame ist Lame (S1/03)",
+          "index": 46,
+          "startTime": 4226.913,
+          "duration": 95.196
+        },
+        {
+          "id": "bibi-hrsp-4406-t48",
+          "title": "Kapitel 11: Fame ist Lame (S1/03)",
+          "index": 47,
+          "startTime": 4322.109,
+          "duration": 94.66
+        },
+        {
+          "id": "bibi-hrsp-4406-t49",
+          "title": "Kapitel 12: Fame ist Lame (S1/03)",
+          "index": 48,
+          "startTime": 4416.769,
+          "duration": 95.159
+        },
+        {
+          "id": "bibi-hrsp-4406-t50",
+          "title": "Kapitel 13: Fame ist Lame (S1/03)",
+          "index": 49,
+          "startTime": 4511.928,
+          "duration": 92.876
+        }
+      ]
+    },
+    {
       "id": "1038178897",
       "title": "Folge 01 - Das Fohlen",
       "episodeNumber": 1,
@@ -379,6 +743,370 @@
         "appleMusic": "1148122136"
       },
       "chapters": []
+    },
+    {
+      "id": "1502140682",
+      "title": "Hörspiele zur Serie (Staffel 1, Episode 6-10)",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/9b/83/df9b83c7-d791-f7da-615a-ff0866bbaf7d/190295250034.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele aus der Serie 'Bibi und Tina' (Staffel 1, Episoden 6-10). Es handelt sich um ein Hörspielalbum, das auf einer bekannten Kinder-Serie basiert.",
+      "totalDuration": 4597.954,
+      "platforms": {
+        "appleMusic": "1502140682"
+      },
+      "chapters": [
+        {
+          "id": "bibi-hrsp-0682-t01",
+          "title": "Kapitel 01: Wahrheit oder Pflicht (S1/06)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 57.45
+        },
+        {
+          "id": "bibi-hrsp-0682-t02",
+          "title": "Kapitel 02: Wahrheit oder Pflicht (S1/06)",
+          "index": 1,
+          "startTime": 57.45,
+          "duration": 95.523
+        },
+        {
+          "id": "bibi-hrsp-0682-t03",
+          "title": "Kapitel 03: Wahrheit oder Pflicht (S1/06)",
+          "index": 2,
+          "startTime": 152.973,
+          "duration": 92.588
+        },
+        {
+          "id": "bibi-hrsp-0682-t04",
+          "title": "Kapitel 04: Wahrheit oder Pflicht (S1/06)",
+          "index": 3,
+          "startTime": 245.561,
+          "duration": 97.615
+        },
+        {
+          "id": "bibi-hrsp-0682-t05",
+          "title": "Kapitel 05: Wahrheit oder Pflicht (S1/06)",
+          "index": 4,
+          "startTime": 343.176,
+          "duration": 93.8
+        },
+        {
+          "id": "bibi-hrsp-0682-t06",
+          "title": "Kapitel 06: Wahrheit oder Pflicht (S1/06)",
+          "index": 5,
+          "startTime": 436.976,
+          "duration": 94.699
+        },
+        {
+          "id": "bibi-hrsp-0682-t07",
+          "title": "Kapitel 07: Wahrheit oder Pflicht (S1/06)",
+          "index": 6,
+          "startTime": 531.675,
+          "duration": 88.479
+        },
+        {
+          "id": "bibi-hrsp-0682-t08",
+          "title": "Kapitel 08: Wahrheit oder Pflicht (S1/06)",
+          "index": 7,
+          "startTime": 620.154,
+          "duration": 94.717
+        },
+        {
+          "id": "bibi-hrsp-0682-t09",
+          "title": "Kapitel 09: Wahrheit oder Pflicht (S1/06)",
+          "index": 8,
+          "startTime": 714.871,
+          "duration": 98.593
+        },
+        {
+          "id": "bibi-hrsp-0682-t10",
+          "title": "Kapitel 10: Wahrheit oder Pflicht (S1/06)",
+          "index": 9,
+          "startTime": 813.464,
+          "duration": 90.326
+        },
+        {
+          "id": "bibi-hrsp-0682-t11",
+          "title": "Kapitel 11: Wahrheit oder Pflicht (S1/06)",
+          "index": 10,
+          "startTime": 903.79,
+          "duration": 95.703
+        },
+        {
+          "id": "bibi-hrsp-0682-t12",
+          "title": "Kapitel 12: Wahrheit oder Pflicht (S1/06)",
+          "index": 11,
+          "startTime": 999.493,
+          "duration": 93.871
+        },
+        {
+          "id": "bibi-hrsp-0682-t13",
+          "title": "Kapitel 13: Wahrheit oder Pflicht (S1/06)",
+          "index": 12,
+          "startTime": 1093.364,
+          "duration": 93.087
+        },
+        {
+          "id": "bibi-hrsp-0682-t14",
+          "title": "Kapitel 14: Wahrheit oder Pflicht (S1/06)",
+          "index": 13,
+          "startTime": 1186.451,
+          "duration": 96.005
+        },
+        {
+          "id": "bibi-hrsp-0682-t15",
+          "title": "Kapitel 15: Wahrheit oder Pflicht (S1/06)",
+          "index": 14,
+          "startTime": 1282.456,
+          "duration": 93.518
+        },
+        {
+          "id": "bibi-hrsp-0682-t16",
+          "title": "Kapitel 16: Wahrheit oder Pflicht (S1/06)",
+          "index": 15,
+          "startTime": 1375.974,
+          "duration": 93.625
+        },
+        {
+          "id": "bibi-hrsp-0682-t17",
+          "title": "Kapitel 17: Wahrheit oder Pflicht (S1/06)",
+          "index": 16,
+          "startTime": 1469.599,
+          "duration": 93.535
+        },
+        {
+          "id": "bibi-hrsp-0682-t18",
+          "title": "Kapitel 18: Wahrheit oder Pflicht (S1/06)",
+          "index": 17,
+          "startTime": 1563.134,
+          "duration": 77.331
+        },
+        {
+          "id": "bibi-hrsp-0682-t19",
+          "title": "Kapitel 01: Ein Sturm zieht auf (S1/07)",
+          "index": 18,
+          "startTime": 1640.465,
+          "duration": 57.389
+        },
+        {
+          "id": "bibi-hrsp-0682-t20",
+          "title": "Kapitel 02: Ein Sturm zieht auf (S1/07)",
+          "index": 19,
+          "startTime": 1697.854,
+          "duration": 94.295
+        },
+        {
+          "id": "bibi-hrsp-0682-t21",
+          "title": "Kapitel 03: Ein Sturm zieht auf (S1/07)",
+          "index": 20,
+          "startTime": 1792.149,
+          "duration": 94.286
+        },
+        {
+          "id": "bibi-hrsp-0682-t22",
+          "title": "Kapitel 04: Ein Sturm zieht auf (S1/07)",
+          "index": 21,
+          "startTime": 1886.435,
+          "duration": 96.888
+        },
+        {
+          "id": "bibi-hrsp-0682-t23",
+          "title": "Kapitel 05: Ein Sturm zieht auf (S1/07)",
+          "index": 22,
+          "startTime": 1983.323,
+          "duration": 94.119
+        },
+        {
+          "id": "bibi-hrsp-0682-t24",
+          "title": "Kapitel 06: Ein Sturm zieht auf (S1/07)",
+          "index": 23,
+          "startTime": 2077.442,
+          "duration": 90.655
+        },
+        {
+          "id": "bibi-hrsp-0682-t25",
+          "title": "Kapitel 07: Ein Sturm zieht auf (S1/07)",
+          "index": 24,
+          "startTime": 2168.097,
+          "duration": 98.823
+        },
+        {
+          "id": "bibi-hrsp-0682-t26",
+          "title": "Kapitel 08: Ein Sturm zieht auf (S1/07)",
+          "index": 25,
+          "startTime": 2266.92,
+          "duration": 91.156
+        },
+        {
+          "id": "bibi-hrsp-0682-t27",
+          "title": "Kapitel 09: Ein Sturm zieht auf (S1/07)",
+          "index": 26,
+          "startTime": 2358.076,
+          "duration": 93.226
+        },
+        {
+          "id": "bibi-hrsp-0682-t28",
+          "title": "Kapitel 10: Ein Sturm zieht auf (S1/07)",
+          "index": 27,
+          "startTime": 2451.302,
+          "duration": 93.133
+        },
+        {
+          "id": "bibi-hrsp-0682-t29",
+          "title": "Kapitel 11: Ein Sturm zieht auf (S1/07)",
+          "index": 28,
+          "startTime": 2544.435,
+          "duration": 93.829
+        },
+        {
+          "id": "bibi-hrsp-0682-t30",
+          "title": "Kapitel 12: Ein Sturm zieht auf (S1/07)",
+          "index": 29,
+          "startTime": 2638.264,
+          "duration": 94.529
+        },
+        {
+          "id": "bibi-hrsp-0682-t31",
+          "title": "Kapitel 13: Ein Sturm zieht auf (S1/07)",
+          "index": 30,
+          "startTime": 2732.793,
+          "duration": 92.214
+        },
+        {
+          "id": "bibi-hrsp-0682-t32",
+          "title": "Kapitel 14: Ein Sturm zieht auf (S1/07)",
+          "index": 31,
+          "startTime": 2825.007,
+          "duration": 154.023
+        },
+        {
+          "id": "bibi-hrsp-0682-t33",
+          "title": "Kapitel 01: Alles im Eimer (S1/08)",
+          "index": 32,
+          "startTime": 2979.03,
+          "duration": 55.238
+        },
+        {
+          "id": "bibi-hrsp-0682-t34",
+          "title": "Kapitel 02: Alles im Eimer (S1/08)",
+          "index": 33,
+          "startTime": 3034.268,
+          "duration": 96.732
+        },
+        {
+          "id": "bibi-hrsp-0682-t35",
+          "title": "Kapitel 03: Alles im Eimer (S1/08)",
+          "index": 34,
+          "startTime": 3131.0,
+          "duration": 96.305
+        },
+        {
+          "id": "bibi-hrsp-0682-t36",
+          "title": "Kapitel 04: Alles im Eimer (S1/08)",
+          "index": 35,
+          "startTime": 3227.305,
+          "duration": 92.883
+        },
+        {
+          "id": "bibi-hrsp-0682-t37",
+          "title": "Kapitel 05: Alles im Eimer (S1/08)",
+          "index": 36,
+          "startTime": 3320.188,
+          "duration": 94.195
+        },
+        {
+          "id": "bibi-hrsp-0682-t38",
+          "title": "Kapitel 06: Alles im Eimer (S1/08)",
+          "index": 37,
+          "startTime": 3414.383,
+          "duration": 93.707
+        },
+        {
+          "id": "bibi-hrsp-0682-t39",
+          "title": "Kapitel 07: Alles im Eimer (S1/08)",
+          "index": 38,
+          "startTime": 3508.09,
+          "duration": 92.91
+        },
+        {
+          "id": "bibi-hrsp-0682-t40",
+          "title": "Kapitel 08: Alles im Eimer (S1/08)",
+          "index": 39,
+          "startTime": 3601.0,
+          "duration": 92.156
+        },
+        {
+          "id": "bibi-hrsp-0682-t41",
+          "title": "Kapitel 09: Alles im Eimer (S1/08)",
+          "index": 40,
+          "startTime": 3693.156,
+          "duration": 95.682
+        },
+        {
+          "id": "bibi-hrsp-0682-t42",
+          "title": "Kapitel 10: Alles im Eimer (S1/08)",
+          "index": 41,
+          "startTime": 3788.838,
+          "duration": 95.057
+        },
+        {
+          "id": "bibi-hrsp-0682-t43",
+          "title": "Kapitel 11: Alles im Eimer (S1/08)",
+          "index": 42,
+          "startTime": 3883.895,
+          "duration": 94.944
+        },
+        {
+          "id": "bibi-hrsp-0682-t44",
+          "title": "Kapitel 12: Alles im Eimer (S1/08)",
+          "index": 43,
+          "startTime": 3978.839,
+          "duration": 91.309
+        },
+        {
+          "id": "bibi-hrsp-0682-t45",
+          "title": "Kapitel 13: Alles im Eimer (S1/08)",
+          "index": 44,
+          "startTime": 4070.148,
+          "duration": 93.695
+        },
+        {
+          "id": "bibi-hrsp-0682-t46",
+          "title": "Kapitel 14: Alles im Eimer (S1/08)",
+          "index": 45,
+          "startTime": 4163.843,
+          "duration": 93.73
+        },
+        {
+          "id": "bibi-hrsp-0682-t47",
+          "title": "Kapitel 01: Freunde sind auch Familie (S1/09)",
+          "index": 46,
+          "startTime": 4257.573,
+          "duration": 58.193
+        },
+        {
+          "id": "bibi-hrsp-0682-t48",
+          "title": "Kapitel 02: Freunde sind auch Familie (S1/09)",
+          "index": 47,
+          "startTime": 4315.766,
+          "duration": 93.777
+        },
+        {
+          "id": "bibi-hrsp-0682-t49",
+          "title": "Kapitel 03: Freunde sind auch Familie (S1/09)",
+          "index": 48,
+          "startTime": 4409.543,
+          "duration": 94.555
+        },
+        {
+          "id": "bibi-hrsp-0682-t50",
+          "title": "Kapitel 04: Freunde sind auch Familie (S1/09)",
+          "index": 49,
+          "startTime": 4504.098,
+          "duration": 93.856
+        }
+      ]
     },
     {
       "id": "1148122350",
@@ -17040,734 +17768,6 @@
       ]
     },
     {
-      "id": "1502114406",
-      "title": "Hörspiele zur Serie (Staffel 1, Episode 1-5)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/f2/3d/83f23d23-e4f0-117e-89ae-d582d0ce0d20/190295249823.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele zur Serie von Bibi und Tina, die sich an ein junges Publikum richtet und typischerweise im Kinder- und Jugendbereich angesiedelt ist.",
-      "totalDuration": 4604.804,
-      "platforms": {
-        "appleMusic": "1502114406"
-      },
-      "chapters": [
-        {
-          "id": "bibi-hrsp-4406-t01",
-          "title": "Kapitel 01: Endlich wieder Ferien (S1/01)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 57.42
-        },
-        {
-          "id": "bibi-hrsp-4406-t02",
-          "title": "Kapitel 02: Endlich wieder Ferien (S1/01)",
-          "index": 1,
-          "startTime": 57.42,
-          "duration": 90.212
-        },
-        {
-          "id": "bibi-hrsp-4406-t03",
-          "title": "Kapitel 03: Endlich wieder Ferien (S1/01)",
-          "index": 2,
-          "startTime": 147.632,
-          "duration": 96.238
-        },
-        {
-          "id": "bibi-hrsp-4406-t04",
-          "title": "Kapitel 04: Endlich wieder Ferien (S1/01)",
-          "index": 3,
-          "startTime": 243.87,
-          "duration": 96.1
-        },
-        {
-          "id": "bibi-hrsp-4406-t05",
-          "title": "Kapitel 05: Endlich wieder Ferien (S1/01)",
-          "index": 4,
-          "startTime": 339.97,
-          "duration": 94.567
-        },
-        {
-          "id": "bibi-hrsp-4406-t06",
-          "title": "Kapitel 06: Endlich wieder Ferien (S1/01)",
-          "index": 5,
-          "startTime": 434.537,
-          "duration": 93.17
-        },
-        {
-          "id": "bibi-hrsp-4406-t07",
-          "title": "Kapitel 07: Endlich wieder Ferien (S1/01)",
-          "index": 6,
-          "startTime": 527.707,
-          "duration": 92.669
-        },
-        {
-          "id": "bibi-hrsp-4406-t08",
-          "title": "Kapitel 08: Endlich wieder Ferien (S1/01)",
-          "index": 7,
-          "startTime": 620.376,
-          "duration": 92.754
-        },
-        {
-          "id": "bibi-hrsp-4406-t09",
-          "title": "Kapitel 09: Endlich wieder Ferien (S1/01)",
-          "index": 8,
-          "startTime": 713.13,
-          "duration": 98.096
-        },
-        {
-          "id": "bibi-hrsp-4406-t10",
-          "title": "Kapitel 10: Endlich wieder Ferien (S1/01)",
-          "index": 9,
-          "startTime": 811.226,
-          "duration": 92.266
-        },
-        {
-          "id": "bibi-hrsp-4406-t11",
-          "title": "Kapitel 11: Endlich wieder Ferien (S1/01)",
-          "index": 10,
-          "startTime": 903.492,
-          "duration": 92.437
-        },
-        {
-          "id": "bibi-hrsp-4406-t12",
-          "title": "Kapitel 12: Endlich wieder Ferien (S1/01)",
-          "index": 11,
-          "startTime": 995.929,
-          "duration": 95.48
-        },
-        {
-          "id": "bibi-hrsp-4406-t13",
-          "title": "Kapitel 13: Endlich wieder Ferien (S1/01)",
-          "index": 12,
-          "startTime": 1091.409,
-          "duration": 94.893
-        },
-        {
-          "id": "bibi-hrsp-4406-t14",
-          "title": "Kapitel 14: Endlich wieder Ferien (S1/01)",
-          "index": 13,
-          "startTime": 1186.302,
-          "duration": 94.429
-        },
-        {
-          "id": "bibi-hrsp-4406-t15",
-          "title": "Kapitel 15: Endlich wieder Ferien (S1/01)",
-          "index": 14,
-          "startTime": 1280.731,
-          "duration": 93.512
-        },
-        {
-          "id": "bibi-hrsp-4406-t16",
-          "title": "Kapitel 16: Endlich wieder Ferien (S1/01)",
-          "index": 15,
-          "startTime": 1374.243,
-          "duration": 92.754
-        },
-        {
-          "id": "bibi-hrsp-4406-t17",
-          "title": "Kapitel 17: Endlich wieder Ferien (S1/01)",
-          "index": 16,
-          "startTime": 1466.997,
-          "duration": 93.292
-        },
-        {
-          "id": "bibi-hrsp-4406-t18",
-          "title": "Kapitel 18: Endlich wieder Ferien (S1/01)",
-          "index": 17,
-          "startTime": 1560.289,
-          "duration": 96.519
-        },
-        {
-          "id": "bibi-hrsp-4406-t19",
-          "title": "Kapitel 19: Endlich wieder Ferien (S1/01)",
-          "index": 18,
-          "startTime": 1656.808,
-          "duration": 93.28
-        },
-        {
-          "id": "bibi-hrsp-4406-t20",
-          "title": "Kapitel 20: Endlich wieder Ferien (S1/01)",
-          "index": 19,
-          "startTime": 1750.088,
-          "duration": 126.687
-        },
-        {
-          "id": "bibi-hrsp-4406-t21",
-          "title": "Kapitel 01: Splish - Splash (S1/02)",
-          "index": 20,
-          "startTime": 1876.775,
-          "duration": 56.665
-        },
-        {
-          "id": "bibi-hrsp-4406-t22",
-          "title": "Kapitel 02: Splish - Splash (S1/02)",
-          "index": 21,
-          "startTime": 1933.44,
-          "duration": 96.391
-        },
-        {
-          "id": "bibi-hrsp-4406-t23",
-          "title": "Kapitel 03: Splish - Splash (S1/02)",
-          "index": 22,
-          "startTime": 2029.831,
-          "duration": 95.216
-        },
-        {
-          "id": "bibi-hrsp-4406-t24",
-          "title": "Kapitel 04: Splish - Splash (S1/02)",
-          "index": 23,
-          "startTime": 2125.047,
-          "duration": 93.023
-        },
-        {
-          "id": "bibi-hrsp-4406-t25",
-          "title": "Kapitel 05: Splish - Splash (S1/02)",
-          "index": 24,
-          "startTime": 2218.07,
-          "duration": 92.407
-        },
-        {
-          "id": "bibi-hrsp-4406-t26",
-          "title": "Kapitel 06: Splish - Splash (S1/02)",
-          "index": 25,
-          "startTime": 2310.477,
-          "duration": 94.728
-        },
-        {
-          "id": "bibi-hrsp-4406-t27",
-          "title": "Kapitel 07: Splish - Splash (S1/02)",
-          "index": 26,
-          "startTime": 2405.205,
-          "duration": 93.541
-        },
-        {
-          "id": "bibi-hrsp-4406-t28",
-          "title": "Kapitel 08: Splish - Splash (S1/02)",
-          "index": 27,
-          "startTime": 2498.746,
-          "duration": 93.465
-        },
-        {
-          "id": "bibi-hrsp-4406-t29",
-          "title": "Kapitel 09: Splish - Splash (S1/02)",
-          "index": 28,
-          "startTime": 2592.211,
-          "duration": 95.144
-        },
-        {
-          "id": "bibi-hrsp-4406-t30",
-          "title": "Kapitel 10: Splish - Splash (S1/02)",
-          "index": 29,
-          "startTime": 2687.355,
-          "duration": 95.889
-        },
-        {
-          "id": "bibi-hrsp-4406-t31",
-          "title": "Kapitel 11: Splish - Splash (S1/02)",
-          "index": 30,
-          "startTime": 2783.244,
-          "duration": 91.79
-        },
-        {
-          "id": "bibi-hrsp-4406-t32",
-          "title": "Kapitel 12: Splish - Splash (S1/02)",
-          "index": 31,
-          "startTime": 2875.034,
-          "duration": 92.858
-        },
-        {
-          "id": "bibi-hrsp-4406-t33",
-          "title": "Kapitel 13: Splish - Splash (S1/02)",
-          "index": 32,
-          "startTime": 2967.892,
-          "duration": 96.957
-        },
-        {
-          "id": "bibi-hrsp-4406-t34",
-          "title": "Kapitel 14: Splish - Splash (S1/02)",
-          "index": 33,
-          "startTime": 3064.849,
-          "duration": 94.069
-        },
-        {
-          "id": "bibi-hrsp-4406-t35",
-          "title": "Kapitel 15: Splish - Splash (S1/02)",
-          "index": 34,
-          "startTime": 3158.918,
-          "duration": 93.095
-        },
-        {
-          "id": "bibi-hrsp-4406-t36",
-          "title": "Kapitel 16: Splish - Splash (S1/02)",
-          "index": 35,
-          "startTime": 3252.013,
-          "duration": 89.125
-        },
-        {
-          "id": "bibi-hrsp-4406-t37",
-          "title": "Kapitel 17: Splish - Splash (S1/02)",
-          "index": 36,
-          "startTime": 3341.138,
-          "duration": 77.324
-        },
-        {
-          "id": "bibi-hrsp-4406-t38",
-          "title": "Kapitel 01: Fame ist Lame (S1/03)",
-          "index": 37,
-          "startTime": 3418.462,
-          "duration": 56.586
-        },
-        {
-          "id": "bibi-hrsp-4406-t39",
-          "title": "Kapitel 02: Fame ist Lame (S1/03)",
-          "index": 38,
-          "startTime": 3475.048,
-          "duration": 95.918
-        },
-        {
-          "id": "bibi-hrsp-4406-t40",
-          "title": "Kapitel 03: Fame ist Lame (S1/03)",
-          "index": 39,
-          "startTime": 3570.966,
-          "duration": 95.994
-        },
-        {
-          "id": "bibi-hrsp-4406-t41",
-          "title": "Kapitel 04: Fame ist Lame (S1/03)",
-          "index": 40,
-          "startTime": 3666.96,
-          "duration": 93.687
-        },
-        {
-          "id": "bibi-hrsp-4406-t42",
-          "title": "Kapitel 05: Fame ist Lame (S1/03)",
-          "index": 41,
-          "startTime": 3760.647,
-          "duration": 91.692
-        },
-        {
-          "id": "bibi-hrsp-4406-t43",
-          "title": "Kapitel 06: Fame ist Lame (S1/03)",
-          "index": 42,
-          "startTime": 3852.339,
-          "duration": 97.641
-        },
-        {
-          "id": "bibi-hrsp-4406-t44",
-          "title": "Kapitel 07: Fame ist Lame (S1/03)",
-          "index": 43,
-          "startTime": 3949.98,
-          "duration": 86.628
-        },
-        {
-          "id": "bibi-hrsp-4406-t45",
-          "title": "Kapitel 08: Fame ist Lame (S1/03)",
-          "index": 44,
-          "startTime": 4036.608,
-          "duration": 99.698
-        },
-        {
-          "id": "bibi-hrsp-4406-t46",
-          "title": "Kapitel 09: Fame ist Lame (S1/03)",
-          "index": 45,
-          "startTime": 4136.306,
-          "duration": 90.607
-        },
-        {
-          "id": "bibi-hrsp-4406-t47",
-          "title": "Kapitel 10: Fame ist Lame (S1/03)",
-          "index": 46,
-          "startTime": 4226.913,
-          "duration": 95.196
-        },
-        {
-          "id": "bibi-hrsp-4406-t48",
-          "title": "Kapitel 11: Fame ist Lame (S1/03)",
-          "index": 47,
-          "startTime": 4322.109,
-          "duration": 94.66
-        },
-        {
-          "id": "bibi-hrsp-4406-t49",
-          "title": "Kapitel 12: Fame ist Lame (S1/03)",
-          "index": 48,
-          "startTime": 4416.769,
-          "duration": 95.159
-        },
-        {
-          "id": "bibi-hrsp-4406-t50",
-          "title": "Kapitel 13: Fame ist Lame (S1/03)",
-          "index": 49,
-          "startTime": 4511.928,
-          "duration": 92.876
-        }
-      ]
-    },
-    {
-      "id": "1502140682",
-      "title": "Hörspiele zur Serie (Staffel 1, Episode 6-10)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/9b/83/df9b83c7-d791-f7da-615a-ff0866bbaf7d/190295250034.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele aus der Serie 'Bibi und Tina' (Staffel 1, Episoden 6-10). Es handelt sich um ein Hörspielalbum, das auf einer bekannten Kinder-Serie basiert.",
-      "totalDuration": 4597.954,
-      "platforms": {
-        "appleMusic": "1502140682"
-      },
-      "chapters": [
-        {
-          "id": "bibi-hrsp-0682-t01",
-          "title": "Kapitel 01: Wahrheit oder Pflicht (S1/06)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 57.45
-        },
-        {
-          "id": "bibi-hrsp-0682-t02",
-          "title": "Kapitel 02: Wahrheit oder Pflicht (S1/06)",
-          "index": 1,
-          "startTime": 57.45,
-          "duration": 95.523
-        },
-        {
-          "id": "bibi-hrsp-0682-t03",
-          "title": "Kapitel 03: Wahrheit oder Pflicht (S1/06)",
-          "index": 2,
-          "startTime": 152.973,
-          "duration": 92.588
-        },
-        {
-          "id": "bibi-hrsp-0682-t04",
-          "title": "Kapitel 04: Wahrheit oder Pflicht (S1/06)",
-          "index": 3,
-          "startTime": 245.561,
-          "duration": 97.615
-        },
-        {
-          "id": "bibi-hrsp-0682-t05",
-          "title": "Kapitel 05: Wahrheit oder Pflicht (S1/06)",
-          "index": 4,
-          "startTime": 343.176,
-          "duration": 93.8
-        },
-        {
-          "id": "bibi-hrsp-0682-t06",
-          "title": "Kapitel 06: Wahrheit oder Pflicht (S1/06)",
-          "index": 5,
-          "startTime": 436.976,
-          "duration": 94.699
-        },
-        {
-          "id": "bibi-hrsp-0682-t07",
-          "title": "Kapitel 07: Wahrheit oder Pflicht (S1/06)",
-          "index": 6,
-          "startTime": 531.675,
-          "duration": 88.479
-        },
-        {
-          "id": "bibi-hrsp-0682-t08",
-          "title": "Kapitel 08: Wahrheit oder Pflicht (S1/06)",
-          "index": 7,
-          "startTime": 620.154,
-          "duration": 94.717
-        },
-        {
-          "id": "bibi-hrsp-0682-t09",
-          "title": "Kapitel 09: Wahrheit oder Pflicht (S1/06)",
-          "index": 8,
-          "startTime": 714.871,
-          "duration": 98.593
-        },
-        {
-          "id": "bibi-hrsp-0682-t10",
-          "title": "Kapitel 10: Wahrheit oder Pflicht (S1/06)",
-          "index": 9,
-          "startTime": 813.464,
-          "duration": 90.326
-        },
-        {
-          "id": "bibi-hrsp-0682-t11",
-          "title": "Kapitel 11: Wahrheit oder Pflicht (S1/06)",
-          "index": 10,
-          "startTime": 903.79,
-          "duration": 95.703
-        },
-        {
-          "id": "bibi-hrsp-0682-t12",
-          "title": "Kapitel 12: Wahrheit oder Pflicht (S1/06)",
-          "index": 11,
-          "startTime": 999.493,
-          "duration": 93.871
-        },
-        {
-          "id": "bibi-hrsp-0682-t13",
-          "title": "Kapitel 13: Wahrheit oder Pflicht (S1/06)",
-          "index": 12,
-          "startTime": 1093.364,
-          "duration": 93.087
-        },
-        {
-          "id": "bibi-hrsp-0682-t14",
-          "title": "Kapitel 14: Wahrheit oder Pflicht (S1/06)",
-          "index": 13,
-          "startTime": 1186.451,
-          "duration": 96.005
-        },
-        {
-          "id": "bibi-hrsp-0682-t15",
-          "title": "Kapitel 15: Wahrheit oder Pflicht (S1/06)",
-          "index": 14,
-          "startTime": 1282.456,
-          "duration": 93.518
-        },
-        {
-          "id": "bibi-hrsp-0682-t16",
-          "title": "Kapitel 16: Wahrheit oder Pflicht (S1/06)",
-          "index": 15,
-          "startTime": 1375.974,
-          "duration": 93.625
-        },
-        {
-          "id": "bibi-hrsp-0682-t17",
-          "title": "Kapitel 17: Wahrheit oder Pflicht (S1/06)",
-          "index": 16,
-          "startTime": 1469.599,
-          "duration": 93.535
-        },
-        {
-          "id": "bibi-hrsp-0682-t18",
-          "title": "Kapitel 18: Wahrheit oder Pflicht (S1/06)",
-          "index": 17,
-          "startTime": 1563.134,
-          "duration": 77.331
-        },
-        {
-          "id": "bibi-hrsp-0682-t19",
-          "title": "Kapitel 01: Ein Sturm zieht auf (S1/07)",
-          "index": 18,
-          "startTime": 1640.465,
-          "duration": 57.389
-        },
-        {
-          "id": "bibi-hrsp-0682-t20",
-          "title": "Kapitel 02: Ein Sturm zieht auf (S1/07)",
-          "index": 19,
-          "startTime": 1697.854,
-          "duration": 94.295
-        },
-        {
-          "id": "bibi-hrsp-0682-t21",
-          "title": "Kapitel 03: Ein Sturm zieht auf (S1/07)",
-          "index": 20,
-          "startTime": 1792.149,
-          "duration": 94.286
-        },
-        {
-          "id": "bibi-hrsp-0682-t22",
-          "title": "Kapitel 04: Ein Sturm zieht auf (S1/07)",
-          "index": 21,
-          "startTime": 1886.435,
-          "duration": 96.888
-        },
-        {
-          "id": "bibi-hrsp-0682-t23",
-          "title": "Kapitel 05: Ein Sturm zieht auf (S1/07)",
-          "index": 22,
-          "startTime": 1983.323,
-          "duration": 94.119
-        },
-        {
-          "id": "bibi-hrsp-0682-t24",
-          "title": "Kapitel 06: Ein Sturm zieht auf (S1/07)",
-          "index": 23,
-          "startTime": 2077.442,
-          "duration": 90.655
-        },
-        {
-          "id": "bibi-hrsp-0682-t25",
-          "title": "Kapitel 07: Ein Sturm zieht auf (S1/07)",
-          "index": 24,
-          "startTime": 2168.097,
-          "duration": 98.823
-        },
-        {
-          "id": "bibi-hrsp-0682-t26",
-          "title": "Kapitel 08: Ein Sturm zieht auf (S1/07)",
-          "index": 25,
-          "startTime": 2266.92,
-          "duration": 91.156
-        },
-        {
-          "id": "bibi-hrsp-0682-t27",
-          "title": "Kapitel 09: Ein Sturm zieht auf (S1/07)",
-          "index": 26,
-          "startTime": 2358.076,
-          "duration": 93.226
-        },
-        {
-          "id": "bibi-hrsp-0682-t28",
-          "title": "Kapitel 10: Ein Sturm zieht auf (S1/07)",
-          "index": 27,
-          "startTime": 2451.302,
-          "duration": 93.133
-        },
-        {
-          "id": "bibi-hrsp-0682-t29",
-          "title": "Kapitel 11: Ein Sturm zieht auf (S1/07)",
-          "index": 28,
-          "startTime": 2544.435,
-          "duration": 93.829
-        },
-        {
-          "id": "bibi-hrsp-0682-t30",
-          "title": "Kapitel 12: Ein Sturm zieht auf (S1/07)",
-          "index": 29,
-          "startTime": 2638.264,
-          "duration": 94.529
-        },
-        {
-          "id": "bibi-hrsp-0682-t31",
-          "title": "Kapitel 13: Ein Sturm zieht auf (S1/07)",
-          "index": 30,
-          "startTime": 2732.793,
-          "duration": 92.214
-        },
-        {
-          "id": "bibi-hrsp-0682-t32",
-          "title": "Kapitel 14: Ein Sturm zieht auf (S1/07)",
-          "index": 31,
-          "startTime": 2825.007,
-          "duration": 154.023
-        },
-        {
-          "id": "bibi-hrsp-0682-t33",
-          "title": "Kapitel 01: Alles im Eimer (S1/08)",
-          "index": 32,
-          "startTime": 2979.03,
-          "duration": 55.238
-        },
-        {
-          "id": "bibi-hrsp-0682-t34",
-          "title": "Kapitel 02: Alles im Eimer (S1/08)",
-          "index": 33,
-          "startTime": 3034.268,
-          "duration": 96.732
-        },
-        {
-          "id": "bibi-hrsp-0682-t35",
-          "title": "Kapitel 03: Alles im Eimer (S1/08)",
-          "index": 34,
-          "startTime": 3131.0,
-          "duration": 96.305
-        },
-        {
-          "id": "bibi-hrsp-0682-t36",
-          "title": "Kapitel 04: Alles im Eimer (S1/08)",
-          "index": 35,
-          "startTime": 3227.305,
-          "duration": 92.883
-        },
-        {
-          "id": "bibi-hrsp-0682-t37",
-          "title": "Kapitel 05: Alles im Eimer (S1/08)",
-          "index": 36,
-          "startTime": 3320.188,
-          "duration": 94.195
-        },
-        {
-          "id": "bibi-hrsp-0682-t38",
-          "title": "Kapitel 06: Alles im Eimer (S1/08)",
-          "index": 37,
-          "startTime": 3414.383,
-          "duration": 93.707
-        },
-        {
-          "id": "bibi-hrsp-0682-t39",
-          "title": "Kapitel 07: Alles im Eimer (S1/08)",
-          "index": 38,
-          "startTime": 3508.09,
-          "duration": 92.91
-        },
-        {
-          "id": "bibi-hrsp-0682-t40",
-          "title": "Kapitel 08: Alles im Eimer (S1/08)",
-          "index": 39,
-          "startTime": 3601.0,
-          "duration": 92.156
-        },
-        {
-          "id": "bibi-hrsp-0682-t41",
-          "title": "Kapitel 09: Alles im Eimer (S1/08)",
-          "index": 40,
-          "startTime": 3693.156,
-          "duration": 95.682
-        },
-        {
-          "id": "bibi-hrsp-0682-t42",
-          "title": "Kapitel 10: Alles im Eimer (S1/08)",
-          "index": 41,
-          "startTime": 3788.838,
-          "duration": 95.057
-        },
-        {
-          "id": "bibi-hrsp-0682-t43",
-          "title": "Kapitel 11: Alles im Eimer (S1/08)",
-          "index": 42,
-          "startTime": 3883.895,
-          "duration": 94.944
-        },
-        {
-          "id": "bibi-hrsp-0682-t44",
-          "title": "Kapitel 12: Alles im Eimer (S1/08)",
-          "index": 43,
-          "startTime": 3978.839,
-          "duration": 91.309
-        },
-        {
-          "id": "bibi-hrsp-0682-t45",
-          "title": "Kapitel 13: Alles im Eimer (S1/08)",
-          "index": 44,
-          "startTime": 4070.148,
-          "duration": 93.695
-        },
-        {
-          "id": "bibi-hrsp-0682-t46",
-          "title": "Kapitel 14: Alles im Eimer (S1/08)",
-          "index": 45,
-          "startTime": 4163.843,
-          "duration": 93.73
-        },
-        {
-          "id": "bibi-hrsp-0682-t47",
-          "title": "Kapitel 01: Freunde sind auch Familie (S1/09)",
-          "index": 46,
-          "startTime": 4257.573,
-          "duration": 58.193
-        },
-        {
-          "id": "bibi-hrsp-0682-t48",
-          "title": "Kapitel 02: Freunde sind auch Familie (S1/09)",
-          "index": 47,
-          "startTime": 4315.766,
-          "duration": 93.777
-        },
-        {
-          "id": "bibi-hrsp-0682-t49",
-          "title": "Kapitel 03: Freunde sind auch Familie (S1/09)",
-          "index": 48,
-          "startTime": 4409.543,
-          "duration": 94.555
-        },
-        {
-          "id": "bibi-hrsp-0682-t50",
-          "title": "Kapitel 04: Freunde sind auch Familie (S1/09)",
-          "index": 49,
-          "startTime": 4504.098,
-          "duration": 93.856
-        }
-      ]
-    },
-    {
       "id": "1587137189",
       "title": "Klangreise Nachts im Schloss (ASMR)",
       "episodeNumber": null,
@@ -18986,5 +18986,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T19:36:28Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

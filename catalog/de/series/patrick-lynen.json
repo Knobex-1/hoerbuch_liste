@@ -753,27 +753,6 @@
       "chapters": []
     },
     {
-      "id": "1502368771",
-      "title": "Star Wars Main Theme (Piano Version) - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/60/bf/45/60bf4580-a9a7-3534-166d-be4f25d8d02c/artwork.jpg/100x100bb.jpg",
-      "description": "Keine Beschreibung verfügbar",
-      "totalDuration": 219.144,
-      "platforms": {
-        "appleMusic": "1502368771"
-      },
-      "chapters": [
-        {
-          "id": "patr-star-8771-t01",
-          "title": "Star Wars Main Theme (Piano Version)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 219.144
-        }
-      ]
-    },
-    {
       "id": "1791508898",
       "title": "TRAUMZEIT - Neue Traumreisen für Kinder ab 4 Jahren zum Entspannen, Loslassen & Einschlafen (Update 2025)",
       "episodeNumber": null,
@@ -800,5 +779,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-28T19:34:33Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

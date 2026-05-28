@@ -751,6 +751,370 @@
       ]
     },
     {
+      "id": "1834969978",
+      "title": "Komplette Staffel 2",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/4b/4c/384b4cc9-7f68-ad05-1a9e-9fd633dd2dd6/4260507208361_3000.jpg/100x100bb.jpg",
+      "description": "Das Album 'Komplette Staffel 2' von Heliosphere 2265 enthält 490 Tracks im Genre Hörspiele, was auf ein Hörspiel oder Hörbuch hindeutet.",
+      "totalDuration": 4631.217,
+      "platforms": {
+        "appleMusic": "1834969978"
+      },
+      "chapters": [
+        {
+          "id": "heli-komp-9978-t01",
+          "title": "Folge 13: Die andere Seite, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.004
+        },
+        {
+          "id": "heli-komp-9978-t02",
+          "title": "Folge 13: Die andere Seite, Teil 2",
+          "index": 1,
+          "startTime": 90.004,
+          "duration": 90.222
+        },
+        {
+          "id": "heli-komp-9978-t03",
+          "title": "Folge 13: Die andere Seite, Teil 3",
+          "index": 2,
+          "startTime": 180.226,
+          "duration": 90.12
+        },
+        {
+          "id": "heli-komp-9978-t04",
+          "title": "Folge 13: Die andere Seite, Teil 4",
+          "index": 3,
+          "startTime": 270.346,
+          "duration": 95.842
+        },
+        {
+          "id": "heli-komp-9978-t05",
+          "title": "Folge 13: Die andere Seite, Teil 5",
+          "index": 4,
+          "startTime": 366.188,
+          "duration": 91.296
+        },
+        {
+          "id": "heli-komp-9978-t06",
+          "title": "Folge 13: Die andere Seite, Teil 6",
+          "index": 5,
+          "startTime": 457.484,
+          "duration": 92.636
+        },
+        {
+          "id": "heli-komp-9978-t07",
+          "title": "Folge 13: Die andere Seite, Teil 7",
+          "index": 6,
+          "startTime": 550.12,
+          "duration": 90.144
+        },
+        {
+          "id": "heli-komp-9978-t08",
+          "title": "Folge 13: Die andere Seite, Teil 8",
+          "index": 7,
+          "startTime": 640.264,
+          "duration": 91.476
+        },
+        {
+          "id": "heli-komp-9978-t09",
+          "title": "Folge 13: Die andere Seite, Teil 9",
+          "index": 8,
+          "startTime": 731.74,
+          "duration": 90.012
+        },
+        {
+          "id": "heli-komp-9978-t10",
+          "title": "Folge 13: Die andere Seite, Teil 10",
+          "index": 9,
+          "startTime": 821.752,
+          "duration": 90.004
+        },
+        {
+          "id": "heli-komp-9978-t11",
+          "title": "Folge 13: Die andere Seite, Teil 11",
+          "index": 10,
+          "startTime": 911.756,
+          "duration": 91.145
+        },
+        {
+          "id": "heli-komp-9978-t12",
+          "title": "Folge 13: Die andere Seite, Teil 12",
+          "index": 11,
+          "startTime": 1002.901,
+          "duration": 90.015
+        },
+        {
+          "id": "heli-komp-9978-t13",
+          "title": "Folge 13: Die andere Seite, Teil 13",
+          "index": 12,
+          "startTime": 1092.916,
+          "duration": 91.674
+        },
+        {
+          "id": "heli-komp-9978-t14",
+          "title": "Folge 13: Die andere Seite, Teil 14",
+          "index": 13,
+          "startTime": 1184.59,
+          "duration": 90.076
+        },
+        {
+          "id": "heli-komp-9978-t15",
+          "title": "Folge 13: Die andere Seite, Teil 15",
+          "index": 14,
+          "startTime": 1274.666,
+          "duration": 90.319
+        },
+        {
+          "id": "heli-komp-9978-t16",
+          "title": "Folge 13: Die andere Seite, Teil 16",
+          "index": 15,
+          "startTime": 1364.985,
+          "duration": 91.868
+        },
+        {
+          "id": "heli-komp-9978-t17",
+          "title": "Folge 13: Die andere Seite, Teil 17",
+          "index": 16,
+          "startTime": 1456.853,
+          "duration": 90.004
+        },
+        {
+          "id": "heli-komp-9978-t18",
+          "title": "Folge 13: Die andere Seite, Teil 18",
+          "index": 17,
+          "startTime": 1546.857,
+          "duration": 90.609
+        },
+        {
+          "id": "heli-komp-9978-t19",
+          "title": "Folge 13: Die andere Seite, Teil 19",
+          "index": 18,
+          "startTime": 1637.466,
+          "duration": 90.737
+        },
+        {
+          "id": "heli-komp-9978-t20",
+          "title": "Folge 13: Die andere Seite, Teil 20",
+          "index": 19,
+          "startTime": 1728.203,
+          "duration": 91.044
+        },
+        {
+          "id": "heli-komp-9978-t21",
+          "title": "Folge 13: Die andere Seite, Teil 21",
+          "index": 20,
+          "startTime": 1819.247,
+          "duration": 90.805
+        },
+        {
+          "id": "heli-komp-9978-t22",
+          "title": "Folge 13: Die andere Seite, Teil 22",
+          "index": 21,
+          "startTime": 1910.052,
+          "duration": 93.503
+        },
+        {
+          "id": "heli-komp-9978-t23",
+          "title": "Folge 13: Die andere Seite, Teil 23",
+          "index": 22,
+          "startTime": 2003.555,
+          "duration": 93.803
+        },
+        {
+          "id": "heli-komp-9978-t24",
+          "title": "Folge 13: Die andere Seite, Teil 24",
+          "index": 23,
+          "startTime": 2097.358,
+          "duration": 90.05
+        },
+        {
+          "id": "heli-komp-9978-t25",
+          "title": "Folge 13: Die andere Seite, Teil 25",
+          "index": 24,
+          "startTime": 2187.408,
+          "duration": 90.495
+        },
+        {
+          "id": "heli-komp-9978-t26",
+          "title": "Folge 13: Die andere Seite, Teil 26",
+          "index": 25,
+          "startTime": 2277.903,
+          "duration": 92.202
+        },
+        {
+          "id": "heli-komp-9978-t27",
+          "title": "Folge 13: Die andere Seite, Teil 27",
+          "index": 26,
+          "startTime": 2370.105,
+          "duration": 92.208
+        },
+        {
+          "id": "heli-komp-9978-t28",
+          "title": "Folge 13: Die andere Seite, Teil 28",
+          "index": 27,
+          "startTime": 2462.313,
+          "duration": 90.817
+        },
+        {
+          "id": "heli-komp-9978-t29",
+          "title": "Folge 13: Die andere Seite, Teil 29",
+          "index": 28,
+          "startTime": 2553.13,
+          "duration": 95.715
+        },
+        {
+          "id": "heli-komp-9978-t30",
+          "title": "Folge 13: Die andere Seite, Teil 30",
+          "index": 29,
+          "startTime": 2648.845,
+          "duration": 95.212
+        },
+        {
+          "id": "heli-komp-9978-t31",
+          "title": "Folge 13: Die andere Seite, Teil 31",
+          "index": 30,
+          "startTime": 2744.057,
+          "duration": 93.19
+        },
+        {
+          "id": "heli-komp-9978-t32",
+          "title": "Folge 13: Die andere Seite, Teil 32",
+          "index": 31,
+          "startTime": 2837.247,
+          "duration": 90.02
+        },
+        {
+          "id": "heli-komp-9978-t33",
+          "title": "Folge 13: Die andere Seite, Teil 33",
+          "index": 32,
+          "startTime": 2927.267,
+          "duration": 91.518
+        },
+        {
+          "id": "heli-komp-9978-t34",
+          "title": "Folge 13: Die andere Seite, Teil 34",
+          "index": 33,
+          "startTime": 3018.785,
+          "duration": 90.308
+        },
+        {
+          "id": "heli-komp-9978-t35",
+          "title": "Folge 13: Die andere Seite, Teil 35",
+          "index": 34,
+          "startTime": 3109.093,
+          "duration": 91.052
+        },
+        {
+          "id": "heli-komp-9978-t36",
+          "title": "Folge 13: Die andere Seite, Teil 36",
+          "index": 35,
+          "startTime": 3200.145,
+          "duration": 90.024
+        },
+        {
+          "id": "heli-komp-9978-t37",
+          "title": "Folge 13: Die andere Seite, Teil 37",
+          "index": 36,
+          "startTime": 3290.169,
+          "duration": 90.037
+        },
+        {
+          "id": "heli-komp-9978-t38",
+          "title": "Folge 13: Die andere Seite, Teil 38",
+          "index": 37,
+          "startTime": 3380.206,
+          "duration": 90.017
+        },
+        {
+          "id": "heli-komp-9978-t39",
+          "title": "Folge 13: Die andere Seite, Teil 39",
+          "index": 38,
+          "startTime": 3470.223,
+          "duration": 94.894
+        },
+        {
+          "id": "heli-komp-9978-t40",
+          "title": "Folge 13: Die andere Seite, Teil 40",
+          "index": 39,
+          "startTime": 3565.117,
+          "duration": 91.054
+        },
+        {
+          "id": "heli-komp-9978-t41",
+          "title": "Folge 13: Die andere Seite, Teil 41",
+          "index": 40,
+          "startTime": 3656.171,
+          "duration": 90.006
+        },
+        {
+          "id": "heli-komp-9978-t42",
+          "title": "Folge 13: Die andere Seite, Teil 42",
+          "index": 41,
+          "startTime": 3746.177,
+          "duration": 95.615
+        },
+        {
+          "id": "heli-komp-9978-t43",
+          "title": "Folge 13: Die andere Seite, Teil 43",
+          "index": 42,
+          "startTime": 3841.792,
+          "duration": 152.208
+        },
+        {
+          "id": "heli-komp-9978-t44",
+          "title": "Folge 14: Das erste Ziel, Teil 1",
+          "index": 43,
+          "startTime": 3994.0,
+          "duration": 90.495
+        },
+        {
+          "id": "heli-komp-9978-t45",
+          "title": "Folge 14: Das erste Ziel, Teil 2",
+          "index": 44,
+          "startTime": 4084.495,
+          "duration": 90.025
+        },
+        {
+          "id": "heli-komp-9978-t46",
+          "title": "Folge 14: Das erste Ziel, Teil 3",
+          "index": 45,
+          "startTime": 4174.52,
+          "duration": 93.476
+        },
+        {
+          "id": "heli-komp-9978-t47",
+          "title": "Folge 14: Das erste Ziel, Teil 4",
+          "index": 46,
+          "startTime": 4267.996,
+          "duration": 91.465
+        },
+        {
+          "id": "heli-komp-9978-t48",
+          "title": "Folge 14: Das erste Ziel, Teil 5",
+          "index": 47,
+          "startTime": 4359.461,
+          "duration": 91.02
+        },
+        {
+          "id": "heli-komp-9978-t49",
+          "title": "Folge 14: Das erste Ziel, Teil 6",
+          "index": 48,
+          "startTime": 4450.481,
+          "duration": 90.67
+        },
+        {
+          "id": "heli-komp-9978-t50",
+          "title": "Folge 14: Das erste Ziel, Teil 7",
+          "index": 49,
+          "startTime": 4541.151,
+          "duration": 90.066
+        }
+      ]
+    },
+    {
       "id": "1035333775",
       "title": "Planet Eden, Teil 2",
       "episodeNumber": 2,
@@ -12950,371 +13314,7 @@
           "duration": 157.169
         }
       ]
-    },
-    {
-      "id": "1834969978",
-      "title": "Komplette Staffel 2",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/4b/4c/384b4cc9-7f68-ad05-1a9e-9fd633dd2dd6/4260507208361_3000.jpg/100x100bb.jpg",
-      "description": "Das Album 'Komplette Staffel 2' von Heliosphere 2265 enthält 490 Tracks im Genre Hörspiele, was auf ein Hörspiel oder Hörbuch hindeutet.",
-      "totalDuration": 4631.217,
-      "platforms": {
-        "appleMusic": "1834969978"
-      },
-      "chapters": [
-        {
-          "id": "heli-komp-9978-t01",
-          "title": "Folge 13: Die andere Seite, Teil 1",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 90.004
-        },
-        {
-          "id": "heli-komp-9978-t02",
-          "title": "Folge 13: Die andere Seite, Teil 2",
-          "index": 1,
-          "startTime": 90.004,
-          "duration": 90.222
-        },
-        {
-          "id": "heli-komp-9978-t03",
-          "title": "Folge 13: Die andere Seite, Teil 3",
-          "index": 2,
-          "startTime": 180.226,
-          "duration": 90.12
-        },
-        {
-          "id": "heli-komp-9978-t04",
-          "title": "Folge 13: Die andere Seite, Teil 4",
-          "index": 3,
-          "startTime": 270.346,
-          "duration": 95.842
-        },
-        {
-          "id": "heli-komp-9978-t05",
-          "title": "Folge 13: Die andere Seite, Teil 5",
-          "index": 4,
-          "startTime": 366.188,
-          "duration": 91.296
-        },
-        {
-          "id": "heli-komp-9978-t06",
-          "title": "Folge 13: Die andere Seite, Teil 6",
-          "index": 5,
-          "startTime": 457.484,
-          "duration": 92.636
-        },
-        {
-          "id": "heli-komp-9978-t07",
-          "title": "Folge 13: Die andere Seite, Teil 7",
-          "index": 6,
-          "startTime": 550.12,
-          "duration": 90.144
-        },
-        {
-          "id": "heli-komp-9978-t08",
-          "title": "Folge 13: Die andere Seite, Teil 8",
-          "index": 7,
-          "startTime": 640.264,
-          "duration": 91.476
-        },
-        {
-          "id": "heli-komp-9978-t09",
-          "title": "Folge 13: Die andere Seite, Teil 9",
-          "index": 8,
-          "startTime": 731.74,
-          "duration": 90.012
-        },
-        {
-          "id": "heli-komp-9978-t10",
-          "title": "Folge 13: Die andere Seite, Teil 10",
-          "index": 9,
-          "startTime": 821.752,
-          "duration": 90.004
-        },
-        {
-          "id": "heli-komp-9978-t11",
-          "title": "Folge 13: Die andere Seite, Teil 11",
-          "index": 10,
-          "startTime": 911.756,
-          "duration": 91.145
-        },
-        {
-          "id": "heli-komp-9978-t12",
-          "title": "Folge 13: Die andere Seite, Teil 12",
-          "index": 11,
-          "startTime": 1002.901,
-          "duration": 90.015
-        },
-        {
-          "id": "heli-komp-9978-t13",
-          "title": "Folge 13: Die andere Seite, Teil 13",
-          "index": 12,
-          "startTime": 1092.916,
-          "duration": 91.674
-        },
-        {
-          "id": "heli-komp-9978-t14",
-          "title": "Folge 13: Die andere Seite, Teil 14",
-          "index": 13,
-          "startTime": 1184.59,
-          "duration": 90.076
-        },
-        {
-          "id": "heli-komp-9978-t15",
-          "title": "Folge 13: Die andere Seite, Teil 15",
-          "index": 14,
-          "startTime": 1274.666,
-          "duration": 90.319
-        },
-        {
-          "id": "heli-komp-9978-t16",
-          "title": "Folge 13: Die andere Seite, Teil 16",
-          "index": 15,
-          "startTime": 1364.985,
-          "duration": 91.868
-        },
-        {
-          "id": "heli-komp-9978-t17",
-          "title": "Folge 13: Die andere Seite, Teil 17",
-          "index": 16,
-          "startTime": 1456.853,
-          "duration": 90.004
-        },
-        {
-          "id": "heli-komp-9978-t18",
-          "title": "Folge 13: Die andere Seite, Teil 18",
-          "index": 17,
-          "startTime": 1546.857,
-          "duration": 90.609
-        },
-        {
-          "id": "heli-komp-9978-t19",
-          "title": "Folge 13: Die andere Seite, Teil 19",
-          "index": 18,
-          "startTime": 1637.466,
-          "duration": 90.737
-        },
-        {
-          "id": "heli-komp-9978-t20",
-          "title": "Folge 13: Die andere Seite, Teil 20",
-          "index": 19,
-          "startTime": 1728.203,
-          "duration": 91.044
-        },
-        {
-          "id": "heli-komp-9978-t21",
-          "title": "Folge 13: Die andere Seite, Teil 21",
-          "index": 20,
-          "startTime": 1819.247,
-          "duration": 90.805
-        },
-        {
-          "id": "heli-komp-9978-t22",
-          "title": "Folge 13: Die andere Seite, Teil 22",
-          "index": 21,
-          "startTime": 1910.052,
-          "duration": 93.503
-        },
-        {
-          "id": "heli-komp-9978-t23",
-          "title": "Folge 13: Die andere Seite, Teil 23",
-          "index": 22,
-          "startTime": 2003.555,
-          "duration": 93.803
-        },
-        {
-          "id": "heli-komp-9978-t24",
-          "title": "Folge 13: Die andere Seite, Teil 24",
-          "index": 23,
-          "startTime": 2097.358,
-          "duration": 90.05
-        },
-        {
-          "id": "heli-komp-9978-t25",
-          "title": "Folge 13: Die andere Seite, Teil 25",
-          "index": 24,
-          "startTime": 2187.408,
-          "duration": 90.495
-        },
-        {
-          "id": "heli-komp-9978-t26",
-          "title": "Folge 13: Die andere Seite, Teil 26",
-          "index": 25,
-          "startTime": 2277.903,
-          "duration": 92.202
-        },
-        {
-          "id": "heli-komp-9978-t27",
-          "title": "Folge 13: Die andere Seite, Teil 27",
-          "index": 26,
-          "startTime": 2370.105,
-          "duration": 92.208
-        },
-        {
-          "id": "heli-komp-9978-t28",
-          "title": "Folge 13: Die andere Seite, Teil 28",
-          "index": 27,
-          "startTime": 2462.313,
-          "duration": 90.817
-        },
-        {
-          "id": "heli-komp-9978-t29",
-          "title": "Folge 13: Die andere Seite, Teil 29",
-          "index": 28,
-          "startTime": 2553.13,
-          "duration": 95.715
-        },
-        {
-          "id": "heli-komp-9978-t30",
-          "title": "Folge 13: Die andere Seite, Teil 30",
-          "index": 29,
-          "startTime": 2648.845,
-          "duration": 95.212
-        },
-        {
-          "id": "heli-komp-9978-t31",
-          "title": "Folge 13: Die andere Seite, Teil 31",
-          "index": 30,
-          "startTime": 2744.057,
-          "duration": 93.19
-        },
-        {
-          "id": "heli-komp-9978-t32",
-          "title": "Folge 13: Die andere Seite, Teil 32",
-          "index": 31,
-          "startTime": 2837.247,
-          "duration": 90.02
-        },
-        {
-          "id": "heli-komp-9978-t33",
-          "title": "Folge 13: Die andere Seite, Teil 33",
-          "index": 32,
-          "startTime": 2927.267,
-          "duration": 91.518
-        },
-        {
-          "id": "heli-komp-9978-t34",
-          "title": "Folge 13: Die andere Seite, Teil 34",
-          "index": 33,
-          "startTime": 3018.785,
-          "duration": 90.308
-        },
-        {
-          "id": "heli-komp-9978-t35",
-          "title": "Folge 13: Die andere Seite, Teil 35",
-          "index": 34,
-          "startTime": 3109.093,
-          "duration": 91.052
-        },
-        {
-          "id": "heli-komp-9978-t36",
-          "title": "Folge 13: Die andere Seite, Teil 36",
-          "index": 35,
-          "startTime": 3200.145,
-          "duration": 90.024
-        },
-        {
-          "id": "heli-komp-9978-t37",
-          "title": "Folge 13: Die andere Seite, Teil 37",
-          "index": 36,
-          "startTime": 3290.169,
-          "duration": 90.037
-        },
-        {
-          "id": "heli-komp-9978-t38",
-          "title": "Folge 13: Die andere Seite, Teil 38",
-          "index": 37,
-          "startTime": 3380.206,
-          "duration": 90.017
-        },
-        {
-          "id": "heli-komp-9978-t39",
-          "title": "Folge 13: Die andere Seite, Teil 39",
-          "index": 38,
-          "startTime": 3470.223,
-          "duration": 94.894
-        },
-        {
-          "id": "heli-komp-9978-t40",
-          "title": "Folge 13: Die andere Seite, Teil 40",
-          "index": 39,
-          "startTime": 3565.117,
-          "duration": 91.054
-        },
-        {
-          "id": "heli-komp-9978-t41",
-          "title": "Folge 13: Die andere Seite, Teil 41",
-          "index": 40,
-          "startTime": 3656.171,
-          "duration": 90.006
-        },
-        {
-          "id": "heli-komp-9978-t42",
-          "title": "Folge 13: Die andere Seite, Teil 42",
-          "index": 41,
-          "startTime": 3746.177,
-          "duration": 95.615
-        },
-        {
-          "id": "heli-komp-9978-t43",
-          "title": "Folge 13: Die andere Seite, Teil 43",
-          "index": 42,
-          "startTime": 3841.792,
-          "duration": 152.208
-        },
-        {
-          "id": "heli-komp-9978-t44",
-          "title": "Folge 14: Das erste Ziel, Teil 1",
-          "index": 43,
-          "startTime": 3994.0,
-          "duration": 90.495
-        },
-        {
-          "id": "heli-komp-9978-t45",
-          "title": "Folge 14: Das erste Ziel, Teil 2",
-          "index": 44,
-          "startTime": 4084.495,
-          "duration": 90.025
-        },
-        {
-          "id": "heli-komp-9978-t46",
-          "title": "Folge 14: Das erste Ziel, Teil 3",
-          "index": 45,
-          "startTime": 4174.52,
-          "duration": 93.476
-        },
-        {
-          "id": "heli-komp-9978-t47",
-          "title": "Folge 14: Das erste Ziel, Teil 4",
-          "index": 46,
-          "startTime": 4267.996,
-          "duration": 91.465
-        },
-        {
-          "id": "heli-komp-9978-t48",
-          "title": "Folge 14: Das erste Ziel, Teil 5",
-          "index": 47,
-          "startTime": 4359.461,
-          "duration": 91.02
-        },
-        {
-          "id": "heli-komp-9978-t49",
-          "title": "Folge 14: Das erste Ziel, Teil 6",
-          "index": 48,
-          "startTime": 4450.481,
-          "duration": 90.67
-        },
-        {
-          "id": "heli-komp-9978-t50",
-          "title": "Folge 14: Das erste Ziel, Teil 7",
-          "index": 49,
-          "startTime": 4541.151,
-          "duration": 90.066
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-05-28T19:34:33Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

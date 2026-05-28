@@ -11,7 +11,7 @@
     {
       "id": "1453155592",
       "title": "Meine Freundin Conni - Hörspielbox, Vol. 1",
-      "episodeNumber": null,
+      "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/10/84/b9/1084b9e7-0976-b717-cf3a-3c8e526320a7/16UMGIM04029.rgb.jpg/100x100bb.jpg",
       "description": "Ein Album, das Hörspiele umfasst, ist typischerweise ein deutsches Hörspiel oder Hörbuch, das auf Plattformen wie Apple Music verfügbar ist.",
@@ -214,7 +214,7 @@
     {
       "id": "1453154452",
       "title": "Meine Freundin Conni - Hörspielbox, Vol. 2",
-      "episodeNumber": null,
+      "episodeNumber": 2,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/fb/8c/20fb8c3d-b29d-517d-dbbe-e469666acf98/17UMGIM79739.rgb.jpg/100x100bb.jpg",
       "description": "Dieses Album ist eine Hörspielbox, die das Hörspiel 'Meine Freundin Conni' umfasst. Es bietet insgesamt 27 Hörspiele in diesem Format.",
@@ -415,5 +415,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T19:26:51Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

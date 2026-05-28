@@ -5618,7 +5618,7 @@
     {
       "id": "1807077980",
       "title": "Episode 36: Samsons Rückkehr (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 36,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/bc/09/fabc090e-83a1-c446-a68a-52bd35f57264/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es umfasst 18 Tracks im Genre Hörspiel.",
@@ -5758,7 +5758,7 @@
     {
       "id": "1807050831",
       "title": "Episode 37: Der Rächer aus dem Pferdestall (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 37,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/9d/dc/c59ddcfd-a8f0-09f3-e695-f75043450f51/cover.jpg/100x100bb.jpg",
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood'. Es handelt sich um ein Hörspiel.",
@@ -5898,7 +5898,7 @@
     {
       "id": "1808678734",
       "title": "Episode 38: Die fürstlichen Spiele (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 38,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/2d/11/162d11d8-f7f8-076e-d9ee-1b91e8d6e7e2/cover.jpg/100x100bb.jpg",
       "description": "Ein Album, das als Original-Hörspiel zur TV-Serie 'Die Fürstlichen Spiele' erscheint, deutet eindeutig auf ein Hörspiel hin, da es als 'Episode 38: Die Fürstlichen Spiele' vermarktet wird.",
@@ -6038,7 +6038,7 @@
     {
       "id": "1808681634",
       "title": "Episode 39: Eine einfache Dienerin (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": null,
+      "episodeNumber": 39,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/a3/23/c6a3231f-7dff-2344-c8e4-8852be860f86/cover.jpg/100x100bb.jpg",
       "description": "Ein Album, das ein Hörspiel mit dem Titel 'Episode 39: Eine einfache Dienerin' beinhaltet, das als Original-Hörspiel zur TV-Serie 'Robin Hood - Schlitzohr von Sherwood' veröffentlicht wurde. Es enthält 18 Tracks im Genre Hörspiele.",
@@ -6176,5 +6176,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

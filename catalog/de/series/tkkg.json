@@ -1719,6 +1719,104 @@
       ]
     },
     {
+      "id": "490742749",
+      "title": "TKKG Krimi-Box 5",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 12 Hörspiel-Tracks aus der TKKG Krimi-Box 5, ein populäres deutscher Hörspielformat.",
+      "totalDuration": 10618.493,
+      "platforms": {
+        "appleMusic": "490742749"
+      },
+      "chapters": [
+        {
+          "id": "tkkg-tkkg-2749-t01",
+          "title": "TKKG 154 - Das Geheimnis der Burgruine (Teil 1)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 1153.84
+        },
+        {
+          "id": "tkkg-tkkg-2749-t02",
+          "title": "TKKG 154 - Das Geheimnis der Burgruine (Teil 2)",
+          "index": 1,
+          "startTime": 1153.84,
+          "duration": 978.413
+        },
+        {
+          "id": "tkkg-tkkg-2749-t03",
+          "title": "TKKG 154 - Das Geheimnis der Burgruine (Teil 3)",
+          "index": 2,
+          "startTime": 2132.253,
+          "duration": 757.32
+        },
+        {
+          "id": "tkkg-tkkg-2749-t04",
+          "title": "TKKG 154 - Das Geheimnis der Burgruine (Teil 4)",
+          "index": 3,
+          "startTime": 2889.573,
+          "duration": 946.467
+        },
+        {
+          "id": "tkkg-tkkg-2749-t05",
+          "title": "TKKG 167 - Der Unsichtbare (Teil 1)",
+          "index": 4,
+          "startTime": 3836.04,
+          "duration": 620.867
+        },
+        {
+          "id": "tkkg-tkkg-2749-t06",
+          "title": "TKKG 167 - Der Unsichtbare (Teil 2)",
+          "index": 5,
+          "startTime": 4456.907,
+          "duration": 1088.093
+        },
+        {
+          "id": "tkkg-tkkg-2749-t07",
+          "title": "TKKG 167 - Der Unsichtbare (Teil 3)",
+          "index": 6,
+          "startTime": 5545.0,
+          "duration": 814.307
+        },
+        {
+          "id": "tkkg-tkkg-2749-t08",
+          "title": "TKKG 167 - Der Unsichtbare (Teil 4)",
+          "index": 7,
+          "startTime": 6359.307,
+          "duration": 741.053
+        },
+        {
+          "id": "tkkg-tkkg-2749-t09",
+          "title": "TKKG 172 - Das Geheimnis der Moorleiche (Teil 1)",
+          "index": 8,
+          "startTime": 7100.36,
+          "duration": 932.8
+        },
+        {
+          "id": "tkkg-tkkg-2749-t10",
+          "title": "TKKG 172 - Das Geheimnis der Moorleiche (Teil 2)",
+          "index": 9,
+          "startTime": 8033.16,
+          "duration": 828.893
+        },
+        {
+          "id": "tkkg-tkkg-2749-t11",
+          "title": "TKKG 172 - Das Geheimnis der Moorleiche (Teil 3)",
+          "index": 10,
+          "startTime": 8862.053,
+          "duration": 710.267
+        },
+        {
+          "id": "tkkg-tkkg-2749-t12",
+          "title": "TKKG 172 - Das Geheimnis der Moorleiche (Teil 4)",
+          "index": 11,
+          "startTime": 9572.32,
+          "duration": 1046.173
+        }
+      ]
+    },
+    {
       "id": "1456267472",
       "title": "Folge 6: Bei Anruf Abzocke",
       "episodeNumber": 6,
@@ -54713,104 +54811,6 @@
       ]
     },
     {
-      "id": "490742749",
-      "title": "TKKG Krimi-Box 5",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält 12 Hörspiel-Tracks aus der TKKG Krimi-Box 5, ein populäres deutscher Hörspielformat.",
-      "totalDuration": 10618.493,
-      "platforms": {
-        "appleMusic": "490742749"
-      },
-      "chapters": [
-        {
-          "id": "tkkg-tkkg-2749-t01",
-          "title": "TKKG 154 - Das Geheimnis der Burgruine (Teil 1)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 1153.84
-        },
-        {
-          "id": "tkkg-tkkg-2749-t02",
-          "title": "TKKG 154 - Das Geheimnis der Burgruine (Teil 2)",
-          "index": 1,
-          "startTime": 1153.84,
-          "duration": 978.413
-        },
-        {
-          "id": "tkkg-tkkg-2749-t03",
-          "title": "TKKG 154 - Das Geheimnis der Burgruine (Teil 3)",
-          "index": 2,
-          "startTime": 2132.253,
-          "duration": 757.32
-        },
-        {
-          "id": "tkkg-tkkg-2749-t04",
-          "title": "TKKG 154 - Das Geheimnis der Burgruine (Teil 4)",
-          "index": 3,
-          "startTime": 2889.573,
-          "duration": 946.467
-        },
-        {
-          "id": "tkkg-tkkg-2749-t05",
-          "title": "TKKG 167 - Der Unsichtbare (Teil 1)",
-          "index": 4,
-          "startTime": 3836.04,
-          "duration": 620.867
-        },
-        {
-          "id": "tkkg-tkkg-2749-t06",
-          "title": "TKKG 167 - Der Unsichtbare (Teil 2)",
-          "index": 5,
-          "startTime": 4456.907,
-          "duration": 1088.093
-        },
-        {
-          "id": "tkkg-tkkg-2749-t07",
-          "title": "TKKG 167 - Der Unsichtbare (Teil 3)",
-          "index": 6,
-          "startTime": 5545.0,
-          "duration": 814.307
-        },
-        {
-          "id": "tkkg-tkkg-2749-t08",
-          "title": "TKKG 167 - Der Unsichtbare (Teil 4)",
-          "index": 7,
-          "startTime": 6359.307,
-          "duration": 741.053
-        },
-        {
-          "id": "tkkg-tkkg-2749-t09",
-          "title": "TKKG 172 - Das Geheimnis der Moorleiche (Teil 1)",
-          "index": 8,
-          "startTime": 7100.36,
-          "duration": 932.8
-        },
-        {
-          "id": "tkkg-tkkg-2749-t10",
-          "title": "TKKG 172 - Das Geheimnis der Moorleiche (Teil 2)",
-          "index": 9,
-          "startTime": 8033.16,
-          "duration": 828.893
-        },
-        {
-          "id": "tkkg-tkkg-2749-t11",
-          "title": "TKKG 172 - Das Geheimnis der Moorleiche (Teil 3)",
-          "index": 10,
-          "startTime": 8862.053,
-          "duration": 710.267
-        },
-        {
-          "id": "tkkg-tkkg-2749-t12",
-          "title": "TKKG 172 - Das Geheimnis der Moorleiche (Teil 4)",
-          "index": 11,
-          "startTime": 9572.32,
-          "duration": 1046.173
-        }
-      ]
-    },
-    {
       "id": "1463157148",
       "title": "TKKG – Jede Legende hat ihren Anfang (Kinofilm 2019)",
       "episodeNumber": null,
@@ -55175,5 +55175,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T19:26:51Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

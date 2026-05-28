@@ -15523,27 +15523,6 @@
       ]
     },
     {
-      "id": "1532739644",
-      "title": "Bibi, bleib so wie du bist! (feat. Spree Helden) - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/29/98/fc2998ef-98c8-1637-7df3-0289069ac9f6/190295135300.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel mit Bibi Blocksberg und den Spree Helden veröffentlicht wurde, deutet auf eine Unterhaltung mit Kindercharakter hin.",
-      "totalDuration": 193.125,
-      "platforms": {
-        "appleMusic": "1532739644"
-      },
-      "chapters": [
-        {
-          "id": "bibi-bibi-9644-t01",
-          "title": "Bibi, bleib so wie du bist! (feat. Spree Helden)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 193.125
-        }
-      ]
-    },
-    {
       "id": "1228734010",
       "title": "Das Original Hörspiel zum Kinofilm",
       "episodeNumber": null,
@@ -23860,5 +23839,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T19:36:28Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

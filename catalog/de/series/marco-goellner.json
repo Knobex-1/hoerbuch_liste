@@ -386,6 +386,19 @@
       ]
     },
     {
+      "id": "1582042251",
+      "title": "Die Mutprobe, Ein echter Krimi, Der geteilte Wald (Hörspiele zur TV Serie 16)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/3c/f9/043cf95a-8152-ae45-67b2-5d04f4dd6d36/4066338226761_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album besteht aus Hörspielen, die zu einer TV-Serie gehören und von bekannten deutschen Stimmen wie Katja Grübel und Peter Weis gelesen werden.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1582042251"
+      },
+      "chapters": []
+    },
+    {
       "id": "1488118608",
       "title": "Hörgespinste 06 - Suicide",
       "episodeNumber": null,
@@ -514,5 +527,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

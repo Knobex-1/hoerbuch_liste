@@ -12924,27 +12924,6 @@
       ]
     },
     {
-      "id": "1538649596",
-      "title": "Haunted - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/5e/b6/3a5eb6a5-9478-f50d-e62c-00a5bff820e3/d7a0c4ca-4388-43ca-8254-ecbec370731d.jpg/100x100bb.jpg",
-      "description": "Keine Beschreibung verfügbar",
-      "totalDuration": 234.115,
-      "platforms": {
-        "appleMusic": "1538649596"
-      },
-      "chapters": [
-        {
-          "id": "mark-haun-9596-t01",
-          "title": "Haunted",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 234.115
-        }
-      ]
-    },
-    {
       "id": "1442613128",
       "title": "Mark Brandis Soundtrack (Die Musik zur Hörspielserie)",
       "episodeNumber": null,
@@ -13260,48 +13239,6 @@
       ]
     },
     {
-      "id": "1082010313",
-      "title": "Star Wars - Cantina Band COUNTRY - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/70/5c/3c/705c3c83-003b-668e-d805-386341b25b26/M8mrn.png/100x100bb.jpg",
-      "description": "Ein Soundtrack-Album von Star Wars, das von Mark The Hammer produziert wurde.",
-      "totalDuration": 110.687,
-      "platforms": {
-        "appleMusic": "1082010313"
-      },
-      "chapters": [
-        {
-          "id": "mark-star-0313-t01",
-          "title": "STAR WARS - Cantina Band [Country]",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 110.687
-        }
-      ]
-    },
-    {
-      "id": "1067039709",
-      "title": "Star Wars - Darth Vader Theme (Metal) - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9d/27/81/9d278127-8151-e760-7667-526987c2f552/artwork.jpg/100x100bb.jpg",
-      "description": "Ein Film-Soundtrack mit dem 'Star Wars' Darth Vader Theme von Mark The Hammer.",
-      "totalDuration": 118.286,
-      "platforms": {
-        "appleMusic": "1067039709"
-      },
-      "chapters": [
-        {
-          "id": "mark-star-9709-t01",
-          "title": "Star Wars - Darth Vader Theme (Metal)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 118.286
-        }
-      ]
-    },
-    {
       "id": "1848950107",
       "title": "Und alle Teufel hier - Das Hörspiel  ( Atticus 4)",
       "episodeNumber": null,
@@ -13315,5 +13252,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-28T19:34:33Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }

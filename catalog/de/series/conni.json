@@ -9,6 +9,300 @@
   ],
   "albums": [
     {
+      "id": "1686208249",
+      "title": "Conni und die verflixte 13",
+      "episodeNumber": 13,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/a6/aa/bfa6aadc-99b5-c40a-4876-78f7cf7fc8d4/4057664880420.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel 'Conni und die verflixte 13' des Künstlers Conni, das sich auf Hörspiele spezialisiert. Es enthält insgesamt 40 Tracks und ist im Genre Hörspiele eingestuft.",
+      "totalDuration": 4006.687,
+      "platforms": {
+        "appleMusic": "1686208249"
+      },
+      "chapters": [
+        {
+          "id": "conn-conn-8249-t01",
+          "title": "Meine beste Freundin Conni (Intro-Song)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 73.933
+        },
+        {
+          "id": "conn-conn-8249-t02",
+          "title": "Conni und die verflixte 13 - Teil 01",
+          "index": 1,
+          "startTime": 73.933,
+          "duration": 88.425
+        },
+        {
+          "id": "conn-conn-8249-t03",
+          "title": "Conni und die verflixte 13 - Teil 02",
+          "index": 2,
+          "startTime": 162.358,
+          "duration": 86.91
+        },
+        {
+          "id": "conn-conn-8249-t04",
+          "title": "Conni und die verflixte 13 - Teil 03",
+          "index": 3,
+          "startTime": 249.268,
+          "duration": 91.077
+        },
+        {
+          "id": "conn-conn-8249-t05",
+          "title": "Conni und die verflixte 13 - Teil 04",
+          "index": 4,
+          "startTime": 340.345,
+          "duration": 103.604
+        },
+        {
+          "id": "conn-conn-8249-t06",
+          "title": "Conni und die verflixte 13 - Teil 05",
+          "index": 5,
+          "startTime": 443.949,
+          "duration": 120.085
+        },
+        {
+          "id": "conn-conn-8249-t07",
+          "title": "Conni und die verflixte 13 - Teil 06",
+          "index": 6,
+          "startTime": 564.034,
+          "duration": 119.154
+        },
+        {
+          "id": "conn-conn-8249-t08",
+          "title": "Conni und die verflixte 13 - Teil 07",
+          "index": 7,
+          "startTime": 683.188,
+          "duration": 115.431
+        },
+        {
+          "id": "conn-conn-8249-t09",
+          "title": "Conni und die verflixte 13 - Teil 08",
+          "index": 8,
+          "startTime": 798.619,
+          "duration": 92.636
+        },
+        {
+          "id": "conn-conn-8249-t10",
+          "title": "Conni und die verflixte 13 - Teil 09",
+          "index": 9,
+          "startTime": 891.255,
+          "duration": 111.239
+        },
+        {
+          "id": "conn-conn-8249-t11",
+          "title": "Conni und die verflixte 13 - Teil 10",
+          "index": 10,
+          "startTime": 1002.494,
+          "duration": 102.628
+        },
+        {
+          "id": "conn-conn-8249-t12",
+          "title": "Conni und die verflixte 13 - Teil 11",
+          "index": 11,
+          "startTime": 1105.122,
+          "duration": 117.934
+        },
+        {
+          "id": "conn-conn-8249-t13",
+          "title": "Conni und die verflixte 13 - Teil 12",
+          "index": 12,
+          "startTime": 1223.056,
+          "duration": 113.36
+        },
+        {
+          "id": "conn-conn-8249-t14",
+          "title": "Conni und die verflixte 13 - Teil 13",
+          "index": 13,
+          "startTime": 1336.416,
+          "duration": 119.318
+        },
+        {
+          "id": "conn-conn-8249-t15",
+          "title": "Conni und die verflixte 13 - Teil 14",
+          "index": 14,
+          "startTime": 1455.734,
+          "duration": 89.638
+        },
+        {
+          "id": "conn-conn-8249-t16",
+          "title": "Conni und die verflixte 13 - Teil 15",
+          "index": 15,
+          "startTime": 1545.372,
+          "duration": 90.418
+        },
+        {
+          "id": "conn-conn-8249-t17",
+          "title": "Conni und die verflixte 13 - Teil 16",
+          "index": 16,
+          "startTime": 1635.79,
+          "duration": 100.403
+        },
+        {
+          "id": "conn-conn-8249-t18",
+          "title": "Conni und die verflixte 13 - Teil 17",
+          "index": 17,
+          "startTime": 1736.193,
+          "duration": 85.033
+        },
+        {
+          "id": "conn-conn-8249-t19",
+          "title": "Conni und die verflixte 13 - Teil 18",
+          "index": 18,
+          "startTime": 1821.226,
+          "duration": 108.551
+        },
+        {
+          "id": "conn-conn-8249-t20",
+          "title": "Conni und die verflixte 13 - Teil 19",
+          "index": 19,
+          "startTime": 1929.777,
+          "duration": 106.504
+        },
+        {
+          "id": "conn-conn-8249-t21",
+          "title": "Conni und die verflixte 13 - Teil 20",
+          "index": 20,
+          "startTime": 2036.281,
+          "duration": 80.927
+        },
+        {
+          "id": "conn-conn-8249-t22",
+          "title": "Conni und die verflixte 13 - Teil 21",
+          "index": 21,
+          "startTime": 2117.208,
+          "duration": 82.402
+        },
+        {
+          "id": "conn-conn-8249-t23",
+          "title": "Conni und die verflixte 13 - Teil 22",
+          "index": 22,
+          "startTime": 2199.61,
+          "duration": 82.335
+        },
+        {
+          "id": "conn-conn-8249-t24",
+          "title": "Conni und die verflixte 13 - Teil 23",
+          "index": 23,
+          "startTime": 2281.945,
+          "duration": 95.46
+        },
+        {
+          "id": "conn-conn-8249-t25",
+          "title": "Conni und die verflixte 13 - Teil 24",
+          "index": 24,
+          "startTime": 2377.405,
+          "duration": 103.962
+        },
+        {
+          "id": "conn-conn-8249-t26",
+          "title": "Conni und die verflixte 13 - Teil 25",
+          "index": 25,
+          "startTime": 2481.367,
+          "duration": 85.032
+        },
+        {
+          "id": "conn-conn-8249-t27",
+          "title": "Conni und die verflixte 13 - Teil 26",
+          "index": 26,
+          "startTime": 2566.399,
+          "duration": 87.156
+        },
+        {
+          "id": "conn-conn-8249-t28",
+          "title": "Conni und die verflixte 13 - Teil 27",
+          "index": 27,
+          "startTime": 2653.555,
+          "duration": 99.124
+        },
+        {
+          "id": "conn-conn-8249-t29",
+          "title": "Conni und die verflixte 13 - Teil 28",
+          "index": 28,
+          "startTime": 2752.679,
+          "duration": 103.33
+        },
+        {
+          "id": "conn-conn-8249-t30",
+          "title": "Conni und die verflixte 13 - Teil 29",
+          "index": 29,
+          "startTime": 2856.009,
+          "duration": 113.496
+        },
+        {
+          "id": "conn-conn-8249-t31",
+          "title": "Conni und die verflixte 13 - Teil 30",
+          "index": 30,
+          "startTime": 2969.505,
+          "duration": 110.565
+        },
+        {
+          "id": "conn-conn-8249-t32",
+          "title": "Conni und die verflixte 13 - Teil 31",
+          "index": 31,
+          "startTime": 3080.07,
+          "duration": 114.753
+        },
+        {
+          "id": "conn-conn-8249-t33",
+          "title": "Conni und die verflixte 13 - Teil 32",
+          "index": 32,
+          "startTime": 3194.823,
+          "duration": 106.149
+        },
+        {
+          "id": "conn-conn-8249-t34",
+          "title": "Conni und die verflixte 13 - Teil 33",
+          "index": 33,
+          "startTime": 3300.972,
+          "duration": 110.261
+        },
+        {
+          "id": "conn-conn-8249-t35",
+          "title": "Conni und die verflixte 13 - Teil 34",
+          "index": 34,
+          "startTime": 3411.233,
+          "duration": 107.81
+        },
+        {
+          "id": "conn-conn-8249-t36",
+          "title": "Conni und die verflixte 13 - Teil 35",
+          "index": 35,
+          "startTime": 3519.043,
+          "duration": 112.594
+        },
+        {
+          "id": "conn-conn-8249-t37",
+          "title": "Conni und die verflixte 13 - Teil 36",
+          "index": 36,
+          "startTime": 3631.637,
+          "duration": 81.374
+        },
+        {
+          "id": "conn-conn-8249-t38",
+          "title": "Conni und die verflixte 13 - Teil 37",
+          "index": 37,
+          "startTime": 3713.011,
+          "duration": 107.288
+        },
+        {
+          "id": "conn-conn-8249-t39",
+          "title": "Conni und die verflixte 13 - Teil 38",
+          "index": 38,
+          "startTime": 3820.299,
+          "duration": 112.768
+        },
+        {
+          "id": "conn-conn-8249-t40",
+          "title": "Meine beste Freundin Conni (Outro-Song)",
+          "index": 39,
+          "startTime": 3933.067,
+          "duration": 73.62
+        }
+      ]
+    },
+    {
       "id": "1702474876",
       "title": "73: Conni und die wilden Pferde",
       "episodeNumber": 73,
@@ -21952,300 +22246,6 @@
       ]
     },
     {
-      "id": "1686208249",
-      "title": "Conni und die verflixte 13",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/a6/aa/bfa6aadc-99b5-c40a-4876-78f7cf7fc8d4/4057664880420.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Conni und die verflixte 13' des Künstlers Conni, das sich auf Hörspiele spezialisiert. Es enthält insgesamt 40 Tracks und ist im Genre Hörspiele eingestuft.",
-      "totalDuration": 4006.687,
-      "platforms": {
-        "appleMusic": "1686208249"
-      },
-      "chapters": [
-        {
-          "id": "conn-conn-8249-t01",
-          "title": "Meine beste Freundin Conni (Intro-Song)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 73.933
-        },
-        {
-          "id": "conn-conn-8249-t02",
-          "title": "Conni und die verflixte 13 - Teil 01",
-          "index": 1,
-          "startTime": 73.933,
-          "duration": 88.425
-        },
-        {
-          "id": "conn-conn-8249-t03",
-          "title": "Conni und die verflixte 13 - Teil 02",
-          "index": 2,
-          "startTime": 162.358,
-          "duration": 86.91
-        },
-        {
-          "id": "conn-conn-8249-t04",
-          "title": "Conni und die verflixte 13 - Teil 03",
-          "index": 3,
-          "startTime": 249.268,
-          "duration": 91.077
-        },
-        {
-          "id": "conn-conn-8249-t05",
-          "title": "Conni und die verflixte 13 - Teil 04",
-          "index": 4,
-          "startTime": 340.345,
-          "duration": 103.604
-        },
-        {
-          "id": "conn-conn-8249-t06",
-          "title": "Conni und die verflixte 13 - Teil 05",
-          "index": 5,
-          "startTime": 443.949,
-          "duration": 120.085
-        },
-        {
-          "id": "conn-conn-8249-t07",
-          "title": "Conni und die verflixte 13 - Teil 06",
-          "index": 6,
-          "startTime": 564.034,
-          "duration": 119.154
-        },
-        {
-          "id": "conn-conn-8249-t08",
-          "title": "Conni und die verflixte 13 - Teil 07",
-          "index": 7,
-          "startTime": 683.188,
-          "duration": 115.431
-        },
-        {
-          "id": "conn-conn-8249-t09",
-          "title": "Conni und die verflixte 13 - Teil 08",
-          "index": 8,
-          "startTime": 798.619,
-          "duration": 92.636
-        },
-        {
-          "id": "conn-conn-8249-t10",
-          "title": "Conni und die verflixte 13 - Teil 09",
-          "index": 9,
-          "startTime": 891.255,
-          "duration": 111.239
-        },
-        {
-          "id": "conn-conn-8249-t11",
-          "title": "Conni und die verflixte 13 - Teil 10",
-          "index": 10,
-          "startTime": 1002.494,
-          "duration": 102.628
-        },
-        {
-          "id": "conn-conn-8249-t12",
-          "title": "Conni und die verflixte 13 - Teil 11",
-          "index": 11,
-          "startTime": 1105.122,
-          "duration": 117.934
-        },
-        {
-          "id": "conn-conn-8249-t13",
-          "title": "Conni und die verflixte 13 - Teil 12",
-          "index": 12,
-          "startTime": 1223.056,
-          "duration": 113.36
-        },
-        {
-          "id": "conn-conn-8249-t14",
-          "title": "Conni und die verflixte 13 - Teil 13",
-          "index": 13,
-          "startTime": 1336.416,
-          "duration": 119.318
-        },
-        {
-          "id": "conn-conn-8249-t15",
-          "title": "Conni und die verflixte 13 - Teil 14",
-          "index": 14,
-          "startTime": 1455.734,
-          "duration": 89.638
-        },
-        {
-          "id": "conn-conn-8249-t16",
-          "title": "Conni und die verflixte 13 - Teil 15",
-          "index": 15,
-          "startTime": 1545.372,
-          "duration": 90.418
-        },
-        {
-          "id": "conn-conn-8249-t17",
-          "title": "Conni und die verflixte 13 - Teil 16",
-          "index": 16,
-          "startTime": 1635.79,
-          "duration": 100.403
-        },
-        {
-          "id": "conn-conn-8249-t18",
-          "title": "Conni und die verflixte 13 - Teil 17",
-          "index": 17,
-          "startTime": 1736.193,
-          "duration": 85.033
-        },
-        {
-          "id": "conn-conn-8249-t19",
-          "title": "Conni und die verflixte 13 - Teil 18",
-          "index": 18,
-          "startTime": 1821.226,
-          "duration": 108.551
-        },
-        {
-          "id": "conn-conn-8249-t20",
-          "title": "Conni und die verflixte 13 - Teil 19",
-          "index": 19,
-          "startTime": 1929.777,
-          "duration": 106.504
-        },
-        {
-          "id": "conn-conn-8249-t21",
-          "title": "Conni und die verflixte 13 - Teil 20",
-          "index": 20,
-          "startTime": 2036.281,
-          "duration": 80.927
-        },
-        {
-          "id": "conn-conn-8249-t22",
-          "title": "Conni und die verflixte 13 - Teil 21",
-          "index": 21,
-          "startTime": 2117.208,
-          "duration": 82.402
-        },
-        {
-          "id": "conn-conn-8249-t23",
-          "title": "Conni und die verflixte 13 - Teil 22",
-          "index": 22,
-          "startTime": 2199.61,
-          "duration": 82.335
-        },
-        {
-          "id": "conn-conn-8249-t24",
-          "title": "Conni und die verflixte 13 - Teil 23",
-          "index": 23,
-          "startTime": 2281.945,
-          "duration": 95.46
-        },
-        {
-          "id": "conn-conn-8249-t25",
-          "title": "Conni und die verflixte 13 - Teil 24",
-          "index": 24,
-          "startTime": 2377.405,
-          "duration": 103.962
-        },
-        {
-          "id": "conn-conn-8249-t26",
-          "title": "Conni und die verflixte 13 - Teil 25",
-          "index": 25,
-          "startTime": 2481.367,
-          "duration": 85.032
-        },
-        {
-          "id": "conn-conn-8249-t27",
-          "title": "Conni und die verflixte 13 - Teil 26",
-          "index": 26,
-          "startTime": 2566.399,
-          "duration": 87.156
-        },
-        {
-          "id": "conn-conn-8249-t28",
-          "title": "Conni und die verflixte 13 - Teil 27",
-          "index": 27,
-          "startTime": 2653.555,
-          "duration": 99.124
-        },
-        {
-          "id": "conn-conn-8249-t29",
-          "title": "Conni und die verflixte 13 - Teil 28",
-          "index": 28,
-          "startTime": 2752.679,
-          "duration": 103.33
-        },
-        {
-          "id": "conn-conn-8249-t30",
-          "title": "Conni und die verflixte 13 - Teil 29",
-          "index": 29,
-          "startTime": 2856.009,
-          "duration": 113.496
-        },
-        {
-          "id": "conn-conn-8249-t31",
-          "title": "Conni und die verflixte 13 - Teil 30",
-          "index": 30,
-          "startTime": 2969.505,
-          "duration": 110.565
-        },
-        {
-          "id": "conn-conn-8249-t32",
-          "title": "Conni und die verflixte 13 - Teil 31",
-          "index": 31,
-          "startTime": 3080.07,
-          "duration": 114.753
-        },
-        {
-          "id": "conn-conn-8249-t33",
-          "title": "Conni und die verflixte 13 - Teil 32",
-          "index": 32,
-          "startTime": 3194.823,
-          "duration": 106.149
-        },
-        {
-          "id": "conn-conn-8249-t34",
-          "title": "Conni und die verflixte 13 - Teil 33",
-          "index": 33,
-          "startTime": 3300.972,
-          "duration": 110.261
-        },
-        {
-          "id": "conn-conn-8249-t35",
-          "title": "Conni und die verflixte 13 - Teil 34",
-          "index": 34,
-          "startTime": 3411.233,
-          "duration": 107.81
-        },
-        {
-          "id": "conn-conn-8249-t36",
-          "title": "Conni und die verflixte 13 - Teil 35",
-          "index": 35,
-          "startTime": 3519.043,
-          "duration": 112.594
-        },
-        {
-          "id": "conn-conn-8249-t37",
-          "title": "Conni und die verflixte 13 - Teil 36",
-          "index": 36,
-          "startTime": 3631.637,
-          "duration": 81.374
-        },
-        {
-          "id": "conn-conn-8249-t38",
-          "title": "Conni und die verflixte 13 - Teil 37",
-          "index": 37,
-          "startTime": 3713.011,
-          "duration": 107.288
-        },
-        {
-          "id": "conn-conn-8249-t39",
-          "title": "Conni und die verflixte 13 - Teil 38",
-          "index": 38,
-          "startTime": 3820.299,
-          "duration": 112.768
-        },
-        {
-          "id": "conn-conn-8249-t40",
-          "title": "Meine beste Freundin Conni (Outro-Song)",
-          "index": 39,
-          "startTime": 3933.067,
-          "duration": 73.62
-        }
-      ]
-    },
-    {
       "id": "1686181445",
       "title": "Conni und die wilden Tiere",
       "episodeNumber": null,
@@ -23621,5 +23621,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-28T19:26:51Z"
+  "updatedAt": "2026-05-28T21:41:22Z"
 }
