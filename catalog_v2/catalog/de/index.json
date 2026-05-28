@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-28T20:02:10Z",
+  "updatedAt": "2026-05-28T20:41:09Z",
   "series": [
     {
       "id": "misc",
@@ -8,10 +8,10 @@
       "author": "",
       "narrator": "",
       "genres": [],
-      "albumCount": 2790,
+      "albumCount": 2791,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/67/89/d867890c-174c-063d-28b5-dafe145b14c6/cover.jpg/600x600bb.jpg",
       "dataURL": "catalog/de/series/misc.json",
-      "seriesUpdatedAt": "2026-05-28T20:02:10Z"
+      "seriesUpdatedAt": "2026-05-28T20:41:09Z"
     }
   ]
 }

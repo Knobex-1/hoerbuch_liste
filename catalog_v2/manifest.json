@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-05-28T20:02:10Z",
+  "updatedAt": "2026-05-28T20:41:09Z",
   "baseURL": "https://raw.githubusercontent.com/Knobex-1/hoerbuch_liste/main/",
   "languages": [
     {
@@ -8,7 +8,7 @@
       "name": "Deutsch",
       "indexURL": "catalog/de/index.json",
       "seriesCount": 1,
-      "albumCount": 2790
+      "albumCount": 2791
     }
   ]
 }
