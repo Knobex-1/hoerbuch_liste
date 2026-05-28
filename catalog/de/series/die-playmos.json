@@ -1828,234 +1828,241 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ff/2e/b5/ff2eb5dc-f32b-9f1e-e99b-30148a1e030c/4260229662786_3000.jpg/100x100bb.jpg",
       "description": "Das Album 'Folge 7: Das große Spiel' ist ein Original Playmobil Hörspiel, das von 'Die Playmos' interpretiert wird und 32 Tracks umfasst.",
-      "totalDuration": 3104.48,
+      "totalDuration": 3229.997,
       "platforms": {
         "appleMusic": "1471402499"
       },
       "chapters": [
         {
           "id": "diep-folg-2499-t01",
-          "title": "Folge 7: Das große Spiel, Teil 1",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 1",
           "index": 0,
           "startTime": 0.0,
-          "duration": 94.763
+          "duration": 96.704
         },
         {
           "id": "diep-folg-2499-t02",
-          "title": "Folge 7: Das große Spiel, Teil 2",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 2",
           "index": 1,
-          "startTime": 94.763,
-          "duration": 95.583
+          "startTime": 96.704,
+          "duration": 94.15
         },
         {
           "id": "diep-folg-2499-t03",
-          "title": "Folge 7: Das große Spiel, Teil 3",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 3",
           "index": 2,
-          "startTime": 190.346,
-          "duration": 94.644
+          "startTime": 190.854,
+          "duration": 93.233
         },
         {
           "id": "diep-folg-2499-t04",
-          "title": "Folge 7: Das große Spiel, Teil 4",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 4",
           "index": 3,
-          "startTime": 284.99,
-          "duration": 91.633
+          "startTime": 284.087,
+          "duration": 95.358
         },
         {
           "id": "diep-folg-2499-t05",
-          "title": "Folge 7: Das große Spiel, Teil 5",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 5",
           "index": 4,
-          "startTime": 376.623,
-          "duration": 94.748
+          "startTime": 379.445,
+          "duration": 95.542
         },
         {
           "id": "diep-folg-2499-t06",
-          "title": "Folge 7: Das große Spiel, Teil 6",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 6",
           "index": 5,
-          "startTime": 471.371,
-          "duration": 96.224
+          "startTime": 474.987,
+          "duration": 92.132
         },
         {
           "id": "diep-folg-2499-t07",
-          "title": "Folge 7: Das große Spiel, Teil 7",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 7",
           "index": 6,
-          "startTime": 567.595,
-          "duration": 91.529
+          "startTime": 567.119,
+          "duration": 99.242
         },
         {
           "id": "diep-folg-2499-t08",
-          "title": "Folge 7: Das große Spiel, Teil 8",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 8",
           "index": 7,
-          "startTime": 659.124,
-          "duration": 92.319
+          "startTime": 666.361,
+          "duration": 95.098
         },
         {
           "id": "diep-folg-2499-t09",
-          "title": "Folge 7: Das große Spiel, Teil 9",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 9",
           "index": 8,
-          "startTime": 751.443,
-          "duration": 92.08
+          "startTime": 761.459,
+          "duration": 93.462
         },
         {
           "id": "diep-folg-2499-t10",
-          "title": "Folge 7: Das große Spiel, Teil 10",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 10",
           "index": 9,
-          "startTime": 843.523,
-          "duration": 91.946
+          "startTime": 854.921,
+          "duration": 91.811
         },
         {
           "id": "diep-folg-2499-t11",
-          "title": "Folge 7: Das große Spiel, Teil 11",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 11",
           "index": 10,
-          "startTime": 935.469,
-          "duration": 93.63
+          "startTime": 946.732,
+          "duration": 93.003
         },
         {
           "id": "diep-folg-2499-t12",
-          "title": "Folge 7: Das große Spiel, Teil 12",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 12",
           "index": 11,
-          "startTime": 1029.099,
-          "duration": 92.721
+          "startTime": 1039.735,
+          "duration": 92.147
         },
         {
           "id": "diep-folg-2499-t13",
-          "title": "Folge 7: Das große Spiel, Teil 13",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 13",
           "index": 12,
-          "startTime": 1121.82,
-          "duration": 92.02
+          "startTime": 1131.882,
+          "duration": 96.78
         },
         {
           "id": "diep-folg-2499-t14",
-          "title": "Folge 7: Das große Spiel, Teil 14",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 14",
           "index": 13,
-          "startTime": 1213.84,
-          "duration": 93.258
+          "startTime": 1228.662,
+          "duration": 91.902
         },
         {
           "id": "diep-folg-2499-t15",
-          "title": "Folge 7: Das große Spiel, Teil 15",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 15",
           "index": 14,
-          "startTime": 1307.098,
-          "duration": 91.871
+          "startTime": 1320.564,
+          "duration": 93.523
         },
         {
           "id": "diep-folg-2499-t16",
-          "title": "Folge 7: Das große Spiel, Teil 16",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 16",
           "index": 15,
-          "startTime": 1398.969,
-          "duration": 92.199
+          "startTime": 1414.087,
+          "duration": 91.153
         },
         {
           "id": "diep-folg-2499-t17",
-          "title": "Folge 7: Das große Spiel, Teil 17",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 17",
           "index": 16,
-          "startTime": 1491.168,
-          "duration": 91.424
+          "startTime": 1505.24,
+          "duration": 92.116
         },
         {
           "id": "diep-folg-2499-t18",
-          "title": "Folge 7: Das große Spiel, Teil 18",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 18",
           "index": 17,
-          "startTime": 1582.592,
-          "duration": 100.486
+          "startTime": 1597.356,
+          "duration": 95.924
         },
         {
           "id": "diep-folg-2499-t19",
-          "title": "Folge 7: Das große Spiel, Teil 19",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 19",
           "index": 18,
-          "startTime": 1683.078,
-          "duration": 93.347
+          "startTime": 1693.28,
+          "duration": 92.835
         },
         {
           "id": "diep-folg-2499-t20",
-          "title": "Folge 7: Das große Spiel, Teil 20",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 20",
           "index": 19,
-          "startTime": 1776.425,
-          "duration": 93.928
+          "startTime": 1786.115,
+          "duration": 93.676
         },
         {
           "id": "diep-folg-2499-t21",
-          "title": "Folge 7: Das große Spiel, Teil 21",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 21",
           "index": 20,
-          "startTime": 1870.353,
-          "duration": 92.333
+          "startTime": 1879.791,
+          "duration": 106.368
         },
         {
           "id": "diep-folg-2499-t22",
-          "title": "Folge 7: Das große Spiel, Teil 22",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 22",
           "index": 21,
-          "startTime": 1962.686,
-          "duration": 95.225
+          "startTime": 1986.159,
+          "duration": 91.902
         },
         {
           "id": "diep-folg-2499-t23",
-          "title": "Folge 7: Das große Spiel, Teil 23",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 23",
           "index": 22,
-          "startTime": 2057.911,
-          "duration": 92.632
+          "startTime": 2078.061,
+          "duration": 94.701
         },
         {
           "id": "diep-folg-2499-t24",
-          "title": "Folge 7: Das große Spiel, Teil 24",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 24",
           "index": 23,
-          "startTime": 2150.543,
-          "duration": 101.843
+          "startTime": 2172.762,
+          "duration": 91.428
         },
         {
           "id": "diep-folg-2499-t25",
-          "title": "Folge 7: Das große Spiel, Teil 25",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 25",
           "index": 24,
-          "startTime": 2252.386,
-          "duration": 91.871
+          "startTime": 2264.19,
+          "duration": 96.704
         },
         {
           "id": "diep-folg-2499-t26",
-          "title": "Folge 7: Das große Spiel, Teil 26",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 26",
           "index": 25,
-          "startTime": 2344.257,
-          "duration": 91.544
+          "startTime": 2360.894,
+          "duration": 101.062
         },
         {
           "id": "diep-folg-2499-t27",
-          "title": "Folge 7: Das große Spiel, Teil 27",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 27",
           "index": 26,
-          "startTime": 2435.801,
-          "duration": 94.673
+          "startTime": 2461.956,
+          "duration": 99.579
         },
         {
           "id": "diep-folg-2499-t28",
-          "title": "Folge 7: Das große Spiel, Teil 28",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 28",
           "index": 27,
-          "startTime": 2530.474,
-          "duration": 94.495
+          "startTime": 2561.535,
+          "duration": 100.328
         },
         {
           "id": "diep-folg-2499-t29",
-          "title": "Folge 7: Das große Spiel, Teil 29",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 29",
           "index": 28,
-          "startTime": 2624.969,
-          "duration": 104.302
+          "startTime": 2661.863,
+          "duration": 93.508
         },
         {
           "id": "diep-folg-2499-t30",
-          "title": "Folge 7: Das große Spiel, Teil 30",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 30",
           "index": 29,
-          "startTime": 2729.271,
-          "duration": 95.896
+          "startTime": 2755.371,
+          "duration": 91.077
         },
         {
           "id": "diep-folg-2499-t31",
-          "title": "Folge 7: Das große Spiel, Teil 31",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 31",
           "index": 30,
-          "startTime": 2825.167,
+          "startTime": 2846.448,
           "duration": 94.211
         },
         {
           "id": "diep-folg-2499-t32",
-          "title": "Folge 7: Das große Spiel, Teil 32",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 32",
           "index": 31,
-          "startTime": 2919.378,
-          "duration": 185.102
+          "startTime": 2940.659,
+          "duration": 103.233
+        },
+        {
+          "id": "diep-folg-2499-t33",
+          "title": "Folge 23: Die Playmos in geheimer Mission, Teil 33",
+          "index": 32,
+          "startTime": 3043.892,
+          "duration": 186.105
         }
       ]
     },
@@ -33192,5 +33199,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T04:55:03Z"
 }

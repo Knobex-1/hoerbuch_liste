@@ -2585,6 +2585,251 @@
       "chapters": []
     },
     {
+      "id": "1458122474",
+      "title": "Gute Nacht Geschichten - Folge 14: Im Traumland",
+      "episodeNumber": 14,
+      "releaseDate": "2011-09-02",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/79/53/b6/7953b608-cedf-8af6-2db2-f3a611900355/190295443474.jpg/100x100bb.jpg",
+      "description": "Ein Album mit Geschichten für Kinder, das auf einer deutschen Plattform verfügbar ist.",
+      "totalDuration": 2801.344,
+      "platforms": {
+        "appleMusic": "1458122474"
+      },
+      "chapters": [
+        {
+          "id": "1458122474-t01",
+          "title": "Schlafliedchen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 53.859
+        },
+        {
+          "id": "1458122474-t02",
+          "title": "Kapitel 01: Der einsame Drache (GNG Folge 14)",
+          "index": 1,
+          "startTime": 53.859,
+          "duration": 90.916
+        },
+        {
+          "id": "1458122474-t03",
+          "title": "Kapitel 02: Der einsame Drache (GNG Folge 14)",
+          "index": 2,
+          "startTime": 144.775,
+          "duration": 91.751
+        },
+        {
+          "id": "1458122474-t04",
+          "title": "Kapitel 03: Der einsame Drache (GNG Folge 14)",
+          "index": 3,
+          "startTime": 236.526,
+          "duration": 107.8
+        },
+        {
+          "id": "1458122474-t05",
+          "title": "Schlafliedchen - Geschichte 02",
+          "index": 4,
+          "startTime": 344.326,
+          "duration": 53.859
+        },
+        {
+          "id": "1458122474-t06",
+          "title": "Kapitel 01: Drei Wünsche für Karl (GNG Folge 14)",
+          "index": 5,
+          "startTime": 398.185,
+          "duration": 90.529
+        },
+        {
+          "id": "1458122474-t07",
+          "title": "Kapitel 02: Drei Wünsche für Karl (GNG Folge 14)",
+          "index": 6,
+          "startTime": 488.714,
+          "duration": 92.676
+        },
+        {
+          "id": "1458122474-t08",
+          "title": "Kapitel 03: Drei Wünsche für Karl (GNG Folge 14)",
+          "index": 7,
+          "startTime": 581.39,
+          "duration": 108.078
+        },
+        {
+          "id": "1458122474-t09",
+          "title": "Schlafliedchen - Geschichte 03",
+          "index": 8,
+          "startTime": 689.468,
+          "duration": 52.291
+        },
+        {
+          "id": "1458122474-t10",
+          "title": "Kapitel 01: Wirbel im Märchenland (GNG Folge 14)",
+          "index": 9,
+          "startTime": 741.759,
+          "duration": 93.359
+        },
+        {
+          "id": "1458122474-t11",
+          "title": "Kapitel 02: Wirbel im Märchenland (GNG Folge 14)",
+          "index": 10,
+          "startTime": 835.118,
+          "duration": 90.2
+        },
+        {
+          "id": "1458122474-t12",
+          "title": "Kapitel 03: Wirbel im Märchenland (GNG Folge 14)",
+          "index": 11,
+          "startTime": 925.318,
+          "duration": 103.651
+        },
+        {
+          "id": "1458122474-t13",
+          "title": "Schlafliedchen - Geschichte 04",
+          "index": 12,
+          "startTime": 1028.969,
+          "duration": 53.859
+        },
+        {
+          "id": "1458122474-t14",
+          "title": "Kapitel 01: Die Sternenputzer (GNG Folge 14)",
+          "index": 13,
+          "startTime": 1082.828,
+          "duration": 90.257
+        },
+        {
+          "id": "1458122474-t15",
+          "title": "Kapitel 02: Die Sternenputzer (GNG Folge 14)",
+          "index": 14,
+          "startTime": 1173.085,
+          "duration": 95.971
+        },
+        {
+          "id": "1458122474-t16",
+          "title": "Kapitel 03: Die Sternenputzer (GNG Folge 14)",
+          "index": 15,
+          "startTime": 1269.056,
+          "duration": 98.151
+        },
+        {
+          "id": "1458122474-t17",
+          "title": "Schlafliedchen - Geschichte 05",
+          "index": 16,
+          "startTime": 1367.207,
+          "duration": 53.859
+        },
+        {
+          "id": "1458122474-t18",
+          "title": "Kapitel 01: Ein Schatz für das Zwergenkind (GNG Folge 14)",
+          "index": 17,
+          "startTime": 1421.066,
+          "duration": 87.737
+        },
+        {
+          "id": "1458122474-t19",
+          "title": "Kapitel 02: Ein Schatz für das Zwergenkind (GNG Folge 14)",
+          "index": 18,
+          "startTime": 1508.803,
+          "duration": 92.263
+        },
+        {
+          "id": "1458122474-t20",
+          "title": "Kapitel 03: Ein Schatz für das Zwergenkind (GNG Folge 14)",
+          "index": 19,
+          "startTime": 1601.066,
+          "duration": 89.49
+        },
+        {
+          "id": "1458122474-t21",
+          "title": "Schlafliedchen - Geschichte 06",
+          "index": 20,
+          "startTime": 1690.556,
+          "duration": 53.859
+        },
+        {
+          "id": "1458122474-t22",
+          "title": "Kapitel 01: Die verschwundene Melodie (GNG Folge 14)",
+          "index": 21,
+          "startTime": 1744.415,
+          "duration": 95.065
+        },
+        {
+          "id": "1458122474-t23",
+          "title": "Kapitel 02: Die verschwundene Melodie (GNG Folge 14)",
+          "index": 22,
+          "startTime": 1839.48,
+          "duration": 86.51
+        },
+        {
+          "id": "1458122474-t24",
+          "title": "Kapitel 03: Die verschwundene Melodie (GNG Folge 14)",
+          "index": 23,
+          "startTime": 1925.99,
+          "duration": 115.184
+        },
+        {
+          "id": "1458122474-t25",
+          "title": "Schlafliedchen - Geschichte 07",
+          "index": 24,
+          "startTime": 2041.174,
+          "duration": 53.859
+        },
+        {
+          "id": "1458122474-t26",
+          "title": "Kapitel 01: Königliche Hochzeit (GNG Folge 14)",
+          "index": 25,
+          "startTime": 2095.033,
+          "duration": 94.251
+        },
+        {
+          "id": "1458122474-t27",
+          "title": "Kapitel 02: Königliche Hochzeit (GNG Folge 14)",
+          "index": 26,
+          "startTime": 2189.284,
+          "duration": 113.93
+        },
+        {
+          "id": "1458122474-t28",
+          "title": "Kapitel 03: Königliche Hochzeit (GNG Folge 14)",
+          "index": 27,
+          "startTime": 2303.214,
+          "duration": 103.962
+        },
+        {
+          "id": "1458122474-t29",
+          "title": "Schlafliedchen - Geschichte 08",
+          "index": 28,
+          "startTime": 2407.176,
+          "duration": 52.291
+        },
+        {
+          "id": "1458122474-t30",
+          "title": "Kapitel 01: Die Blumen-Elfen (GNG Folge 14)",
+          "index": 29,
+          "startTime": 2459.467,
+          "duration": 96.888
+        },
+        {
+          "id": "1458122474-t31",
+          "title": "Kapitel 02: Die Blumen-Elfen (GNG Folge 14)",
+          "index": 30,
+          "startTime": 2556.355,
+          "duration": 96.553
+        },
+        {
+          "id": "1458122474-t32",
+          "title": "Kapitel 03: Die Blumen-Elfen (GNG Folge 14)",
+          "index": 31,
+          "startTime": 2652.908,
+          "duration": 94.426
+        },
+        {
+          "id": "1458122474-t33",
+          "title": "Schlafliedchen - Ende",
+          "index": 32,
+          "startTime": 2747.334,
+          "duration": 54.01
+        }
+      ]
+    },
+    {
       "id": "1139321129",
       "title": "Folge 15: im Urlaub",
       "episodeNumber": 15,
@@ -6482,6 +6727,19 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1139310787"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1139301535",
+      "title": "Folge 84: Der kleine Ausreißer",
+      "episodeNumber": 84,
+      "releaseDate": "1997-01-01",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/d4/7f/c4/d47fc4f2-d03d-7189-90fc-7b10f062f4ac/190295921606.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'Folge 84: Der kleine AusreiÖrer' von Benjamin Blülchen. Es besteht aus 39 Tracks und ist im Genre 'Hßrspiele' klassifiziert.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1139301535"
       },
       "chapters": []
     },
@@ -15698,5 +15956,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T04:55:03Z"
 }

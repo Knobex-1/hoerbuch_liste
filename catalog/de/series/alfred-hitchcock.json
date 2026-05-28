@@ -55341,290 +55341,290 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/b4/b1/7db4b116-f4da-4222-1c35-b9e44c84bd08/886445750126.jpg/100x100bb.jpg",
       "description": "Das Album enthält Hörspiel-Tracks von 'Die drei ??? Kids', einem bekannten deutschen Kinderhörspiel-Format.",
-      "totalDuration": 3585.641,
+      "totalDuration": 4909.172,
       "platforms": {
         "appleMusic": "1110094649"
       },
       "chapters": [
         {
           "id": "died-folg-4649-t01",
-          "title": "031 - Rückkehr der Saurier (Teil 01)",
+          "title": "84 -Tatort Skater-Park (Inhaltsangabe)",
           "index": 0,
           "startTime": 0.0,
-          "duration": 92.027
+          "duration": 26.733
         },
         {
           "id": "died-folg-4649-t02",
-          "title": "031 - Rückkehr der Saurier (Teil 02)",
+          "title": "Die drei ??? Kids Titelsong",
           "index": 1,
-          "startTime": 92.027,
-          "duration": 88.867
+          "startTime": 26.733,
+          "duration": 189.067
         },
         {
           "id": "died-folg-4649-t03",
-          "title": "031 - Rückkehr der Saurier (Teil 03)",
+          "title": "84 -Tatort Skater-Park (Teil 01)",
           "index": 2,
-          "startTime": 180.894,
-          "duration": 84.44
+          "startTime": 215.8,
+          "duration": 123.36
         },
         {
           "id": "died-folg-4649-t04",
-          "title": "031 - Rückkehr der Saurier (Teil 04)",
+          "title": "84 -Tatort Skater-Park (Teil 02)",
           "index": 3,
-          "startTime": 265.334,
-          "duration": 90.413
+          "startTime": 339.16,
+          "duration": 120.64
         },
         {
           "id": "died-folg-4649-t05",
-          "title": "031 - Rückkehr der Saurier (Teil 05)",
+          "title": "84 -Tatort Skater-Park (Teil 03)",
           "index": 4,
-          "startTime": 355.747,
-          "duration": 89.573
+          "startTime": 459.8,
+          "duration": 121.013
         },
         {
           "id": "died-folg-4649-t06",
-          "title": "031 - Rückkehr der Saurier (Teil 06)",
+          "title": "84 -Tatort Skater-Park (Teil 04)",
           "index": 5,
-          "startTime": 445.32,
-          "duration": 91.92
+          "startTime": 580.813,
+          "duration": 123.92
         },
         {
           "id": "died-folg-4649-t07",
-          "title": "031 - Rückkehr der Saurier (Teil 07)",
+          "title": "84 -Tatort Skater-Park (Teil 05)",
           "index": 6,
-          "startTime": 537.24,
-          "duration": 92.013
+          "startTime": 704.733,
+          "duration": 124.347
         },
         {
           "id": "died-folg-4649-t08",
-          "title": "031 - Rückkehr der Saurier (Teil 08)",
+          "title": "84 -Tatort Skater-Park (Teil 06)",
           "index": 7,
-          "startTime": 629.253,
-          "duration": 85.44
+          "startTime": 829.08,
+          "duration": 123.013
         },
         {
           "id": "died-folg-4649-t09",
-          "title": "031 - Rückkehr der Saurier (Teil 09)",
+          "title": "84 -Tatort Skater-Park (Teil 07)",
           "index": 8,
-          "startTime": 714.693,
-          "duration": 94.88
+          "startTime": 952.093,
+          "duration": 124.52
         },
         {
           "id": "died-folg-4649-t10",
-          "title": "031 - Rückkehr der Saurier (Teil 10)",
+          "title": "84 -Tatort Skater-Park (Teil 08)",
           "index": 9,
-          "startTime": 809.573,
-          "duration": 88.96
+          "startTime": 1076.613,
+          "duration": 122.68
         },
         {
           "id": "died-folg-4649-t11",
-          "title": "031 - Rückkehr der Saurier (Teil 11)",
+          "title": "84 -Tatort Skater-Park (Teil 09)",
           "index": 10,
-          "startTime": 898.533,
-          "duration": 91.04
+          "startTime": 1199.293,
+          "duration": 123.573
         },
         {
           "id": "died-folg-4649-t12",
-          "title": "031 - Rückkehr der Saurier (Teil 12)",
+          "title": "84 -Tatort Skater-Park (Teil 10)",
           "index": 11,
-          "startTime": 989.573,
-          "duration": 88.813
+          "startTime": 1322.866,
+          "duration": 120.04
         },
         {
           "id": "died-folg-4649-t13",
-          "title": "031 - Rückkehr der Saurier (Teil 13)",
+          "title": "84 -Tatort Skater-Park (Teil 11)",
           "index": 12,
-          "startTime": 1078.386,
-          "duration": 85.387
+          "startTime": 1442.906,
+          "duration": 122.8
         },
         {
           "id": "died-folg-4649-t14",
-          "title": "031 - Rückkehr der Saurier (Teil 14)",
+          "title": "84 -Tatort Skater-Park (Teil 12)",
           "index": 13,
-          "startTime": 1163.773,
-          "duration": 89.48
+          "startTime": 1565.706,
+          "duration": 121.173
         },
         {
           "id": "died-folg-4649-t15",
-          "title": "031 - Rückkehr der Saurier (Teil 15)",
+          "title": "84 -Tatort Skater-Park (Teil 13)",
           "index": 14,
-          "startTime": 1253.253,
-          "duration": 89.453
+          "startTime": 1686.879,
+          "duration": 126.4
         },
         {
           "id": "died-folg-4649-t16",
-          "title": "031 - Rückkehr der Saurier (Teil 16)",
+          "title": "84 -Tatort Skater-Park (Teil 14)",
           "index": 15,
-          "startTime": 1342.706,
-          "duration": 93.587
+          "startTime": 1813.279,
+          "duration": 123.293
         },
         {
           "id": "died-folg-4649-t17",
-          "title": "031 - Rückkehr der Saurier (Teil 17)",
+          "title": "84 -Tatort Skater-Park (Teil 15)",
           "index": 16,
-          "startTime": 1436.293,
-          "duration": 87.973
+          "startTime": 1936.572,
+          "duration": 124.133
         },
         {
           "id": "died-folg-4649-t18",
-          "title": "031 - Rückkehr der Saurier (Teil 18)",
+          "title": "84 -Tatort Skater-Park (Teil 16)",
           "index": 17,
-          "startTime": 1524.266,
-          "duration": 87.107
+          "startTime": 2060.705,
+          "duration": 121.093
         },
         {
           "id": "died-folg-4649-t19",
-          "title": "031 - Rückkehr der Saurier (Teil 19)",
+          "title": "84 -Tatort Skater-Park (Teil 17)",
           "index": 18,
-          "startTime": 1611.373,
-          "duration": 94.64
+          "startTime": 2181.798,
+          "duration": 123.187
         },
         {
           "id": "died-folg-4649-t20",
-          "title": "031 - Rückkehr der Saurier (Teil 20)",
+          "title": "84 -Tatort Skater-Park (Teil 18)",
           "index": 19,
-          "startTime": 1706.013,
-          "duration": 83.947
+          "startTime": 2304.985,
+          "duration": 123.72
         },
         {
           "id": "died-folg-4649-t21",
-          "title": "031 - Rückkehr der Saurier (Teil 21)",
+          "title": "84 -Tatort Skater-Park (Teil 19)",
           "index": 20,
-          "startTime": 1789.96,
-          "duration": 90.587
+          "startTime": 2428.705,
+          "duration": 122.04
         },
         {
           "id": "died-folg-4649-t22",
-          "title": "031 - Rückkehr der Saurier (Teil 22)",
+          "title": "84 -Tatort Skater-Park (Teil 20)",
           "index": 21,
-          "startTime": 1880.547,
-          "duration": 86.253
+          "startTime": 2550.745,
+          "duration": 120.32
         },
         {
           "id": "died-folg-4649-t23",
-          "title": "031 - Rückkehr der Saurier (Teil 23)",
+          "title": "84 -Tatort Skater-Park (Teil 21)",
           "index": 22,
-          "startTime": 1966.8,
-          "duration": 100.013
+          "startTime": 2671.065,
+          "duration": 122.427
         },
         {
           "id": "died-folg-4649-t24",
-          "title": "031 - Rückkehr der Saurier (Teil 24)",
+          "title": "84 -Tatort Skater-Park (Teil 22)",
           "index": 23,
-          "startTime": 2066.813,
-          "duration": 82.693
+          "startTime": 2793.492,
+          "duration": 120.893
         },
         {
           "id": "died-folg-4649-t25",
-          "title": "031 - Rückkehr der Saurier (Teil 25)",
+          "title": "84 -Tatort Skater-Park (Teil 23)",
           "index": 24,
-          "startTime": 2149.506,
-          "duration": 91.52
+          "startTime": 2914.385,
+          "duration": 123.8
         },
         {
           "id": "died-folg-4649-t26",
-          "title": "031 - Rückkehr der Saurier (Teil 26)",
+          "title": "84 -Tatort Skater-Park (Teil 24)",
           "index": 25,
-          "startTime": 2241.026,
-          "duration": 90.587
+          "startTime": 3038.185,
+          "duration": 120.333
         },
         {
           "id": "died-folg-4649-t27",
-          "title": "031 - Rückkehr der Saurier (Teil 27)",
+          "title": "84 -Tatort Skater-Park (Teil 25)",
           "index": 26,
-          "startTime": 2331.613,
-          "duration": 87.907
+          "startTime": 3158.518,
+          "duration": 120.227
         },
         {
           "id": "died-folg-4649-t28",
-          "title": "031 - Rückkehr der Saurier (Teil 28)",
+          "title": "84 -Tatort Skater-Park (Teil 26)",
           "index": 27,
-          "startTime": 2419.52,
-          "duration": 89.6
+          "startTime": 3278.745,
+          "duration": 120.213
         },
         {
           "id": "died-folg-4649-t29",
-          "title": "031 - Rückkehr der Saurier (Teil 29)",
+          "title": "84 -Tatort Skater-Park (Teil 27)",
           "index": 28,
-          "startTime": 2509.12,
-          "duration": 89.88
+          "startTime": 3398.958,
+          "duration": 121.093
         },
         {
           "id": "died-folg-4649-t30",
-          "title": "031 - Rückkehr der Saurier (Teil 30)",
+          "title": "84 -Tatort Skater-Park (Teil 28)",
           "index": 29,
-          "startTime": 2599.0,
-          "duration": 90.427
+          "startTime": 3520.051,
+          "duration": 122.147
         },
         {
           "id": "died-folg-4649-t31",
-          "title": "031 - Rückkehr der Saurier (Teil 31)",
+          "title": "84 -Tatort Skater-Park (Teil 29)",
           "index": 30,
-          "startTime": 2689.427,
-          "duration": 90.307
+          "startTime": 3642.198,
+          "duration": 122.4
         },
         {
           "id": "died-folg-4649-t32",
-          "title": "031 - Rückkehr der Saurier (Teil 32)",
+          "title": "84 -Tatort Skater-Park (Teil 30)",
           "index": 31,
-          "startTime": 2779.734,
-          "duration": 87.747
+          "startTime": 3764.598,
+          "duration": 124.0
         },
         {
           "id": "died-folg-4649-t33",
-          "title": "031 - Rückkehr der Saurier (Teil 33)",
+          "title": "84 -Tatort Skater-Park (Teil 31)",
           "index": 32,
-          "startTime": 2867.481,
-          "duration": 95.2
+          "startTime": 3888.598,
+          "duration": 122.72
         },
         {
           "id": "died-folg-4649-t34",
-          "title": "031 - Rückkehr der Saurier (Teil 34)",
+          "title": "84 -Tatort Skater-Park (Teil 32)",
           "index": 33,
-          "startTime": 2962.681,
-          "duration": 91.773
+          "startTime": 4011.318,
+          "duration": 120.64
         },
         {
           "id": "died-folg-4649-t35",
-          "title": "031 - Rückkehr der Saurier (Teil 35)",
+          "title": "84 -Tatort Skater-Park (Teil 33)",
           "index": 34,
-          "startTime": 3054.454,
-          "duration": 78.893
+          "startTime": 4131.958,
+          "duration": 121.987
         },
         {
           "id": "died-folg-4649-t36",
-          "title": "031 - Rückkehr der Saurier (Teil 36)",
+          "title": "84 -Tatort Skater-Park (Teil 34)",
           "index": 35,
-          "startTime": 3133.347,
-          "duration": 92.56
+          "startTime": 4253.945,
+          "duration": 196.213
         },
         {
           "id": "died-folg-4649-t37",
-          "title": "031 - Rückkehr der Saurier (Teil 37)",
+          "title": "84 -Tatort Skater-Park (Teil 35)",
           "index": 36,
-          "startTime": 3225.907,
-          "duration": 89.2
+          "startTime": 4450.158,
+          "duration": 124.96
         },
         {
           "id": "died-folg-4649-t38",
-          "title": "031 - Rückkehr der Saurier (Teil 38)",
+          "title": "84 -Tatort Skater-Park (Teil 36)",
           "index": 37,
-          "startTime": 3315.107,
-          "duration": 92.547
+          "startTime": 4575.118,
+          "duration": 192.667
         },
         {
           "id": "died-folg-4649-t39",
-          "title": "031 - Rückkehr der Saurier (Teil 39)",
+          "title": "Die drei ??? Kids Schlußsong",
           "index": 38,
-          "startTime": 3407.654,
-          "duration": 88.227
+          "startTime": 4767.785,
+          "duration": 30.28
         },
         {
           "id": "died-folg-4649-t40",
-          "title": "031 - Rückkehr der Saurier (Teil 40)",
+          "title": "84 -Tatort Skater-Park (Outro)",
           "index": 39,
-          "startTime": 3495.881,
-          "duration": 89.76
+          "startTime": 4798.065,
+          "duration": 111.107
         }
       ]
     },
@@ -101993,5 +101993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T04:55:03Z"
 }

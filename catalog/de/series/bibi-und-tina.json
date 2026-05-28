@@ -3458,94 +3458,248 @@
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/34/e7/93/34e793ae-7775-1cbd-887d-14f35c208254/825646253401.jpg/100x100bb.jpg",
       "description": "Ein spannendes Hörspielalbum mit der Geschichte 'Folge 58 - Die rätselhafte Schatzsuche' von Bibi und Tina.",
-      "totalDuration": 2229.773,
+      "totalDuration": 3170.51,
       "platforms": {
         "appleMusic": "1038135830"
       },
       "chapters": [
         {
           "id": "bibi-folg-5830-t01",
-          "title": "Bibi und Tina Lied",
+          "title": "Inhaltsangabe: Die Schlossrenovierung (Folge 103)",
           "index": 0,
           "startTime": 0.0,
-          "duration": 78.467
+          "duration": 26.938
         },
         {
           "id": "bibi-folg-5830-t02",
-          "title": "Folge 58 - Kapitel 1 : Was für eine Hitze!",
+          "title": "Bibi und Tina Lied",
           "index": 1,
-          "startTime": 78.467,
-          "duration": 238.613
+          "startTime": 26.938,
+          "duration": 78.462
         },
         {
           "id": "bibi-folg-5830-t03",
-          "title": "Folge 58 - Kapitel 2 : Mädchen gegen Jungs",
+          "title": "Kapitel 01: Die Schlossrenovierung (Folge 103)",
           "index": 2,
-          "startTime": 317.08,
-          "duration": 203.72
+          "startTime": 105.4,
+          "duration": 91.291
         },
         {
           "id": "bibi-folg-5830-t04",
-          "title": "Folge 58 - Kapitel 3 : Die rätselhafte Schatzkarte",
+          "title": "Kapitel 02: Die Schlossrenovierung (Folge 103)",
           "index": 3,
-          "startTime": 520.8,
-          "duration": 227.853
+          "startTime": 196.691,
+          "duration": 112.52
         },
         {
           "id": "bibi-folg-5830-t05",
-          "title": "Folge 58 - Kapitel 4 : Wenig Wasser",
+          "title": "Kapitel 03: Die Schlossrenovierung (Folge 103)",
           "index": 4,
-          "startTime": 748.653,
-          "duration": 177.373
+          "startTime": 309.211,
+          "duration": 96.347
         },
         {
           "id": "bibi-folg-5830-t06",
-          "title": "Folge 58 - Kapitel 5 : Alle Nerven liegen blank",
+          "title": "Kapitel 04: Die Schlossrenovierung (Folge 103)",
           "index": 5,
-          "startTime": 926.026,
-          "duration": 221.467
+          "startTime": 405.558,
+          "duration": 91.855
         },
         {
           "id": "bibi-folg-5830-t07",
-          "title": "Folge 58 - Kapitel 6 : Weiter rätseln",
+          "title": "Kapitel 05: Die Schlossrenovierung (Folge 103)",
           "index": 6,
-          "startTime": 1147.493,
-          "duration": 165.107
+          "startTime": 497.413,
+          "duration": 91.809
         },
         {
           "id": "bibi-folg-5830-t08",
-          "title": "Folge 58 - Kapitel 7 : Hufabdruck mit Folgen",
+          "title": "Kapitel 06: Die Schlossrenovierung (Folge 103)",
           "index": 7,
-          "startTime": 1312.6,
-          "duration": 197.6
+          "startTime": 589.222,
+          "duration": 94.55
         },
         {
           "id": "bibi-folg-5830-t09",
-          "title": "Folge 58 - Kapitel 8 : Verschwörung der Erwachsenen",
+          "title": "Kapitel 07: Die Schlossrenovierung (Folge 103)",
           "index": 8,
-          "startTime": 1510.2,
-          "duration": 217.16
+          "startTime": 683.772,
+          "duration": 97.73
         },
         {
           "id": "bibi-folg-5830-t10",
-          "title": "Folge 58 - Kapitel 9 : Feuer auf dem Martinshof",
+          "title": "Kapitel 08: Die Schlossrenovierung (Folge 103)",
           "index": 9,
-          "startTime": 1727.36,
-          "duration": 173.347
+          "startTime": 781.502,
+          "duration": 93.56
         },
         {
           "id": "bibi-folg-5830-t11",
-          "title": "Folge 58 - Kapitel 10 : Ende des Streits",
+          "title": "Kapitel 09: Die Schlossrenovierung (Folge 103)",
           "index": 10,
-          "startTime": 1900.707,
-          "duration": 159.333
+          "startTime": 875.062,
+          "duration": 94.504
         },
         {
           "id": "bibi-folg-5830-t12",
-          "title": "Folge 58 - Kapitel 11 : Der größte Schatz der Welt",
+          "title": "Kapitel 10: Die Schlossrenovierung (Folge 103)",
           "index": 11,
-          "startTime": 2060.04,
-          "duration": 169.733
+          "startTime": 969.566,
+          "duration": 93.168
+        },
+        {
+          "id": "bibi-folg-5830-t13",
+          "title": "Kapitel 11: Die Schlossrenovierung (Folge 103)",
+          "index": 12,
+          "startTime": 1062.734,
+          "duration": 90.495
+        },
+        {
+          "id": "bibi-folg-5830-t14",
+          "title": "Kapitel 12: Die Schlossrenovierung (Folge 103)",
+          "index": 13,
+          "startTime": 1153.229,
+          "duration": 94.988
+        },
+        {
+          "id": "bibi-folg-5830-t15",
+          "title": "Kapitel 13: Die Schlossrenovierung (Folge 103)",
+          "index": 14,
+          "startTime": 1248.217,
+          "duration": 93.675
+        },
+        {
+          "id": "bibi-folg-5830-t16",
+          "title": "Kapitel 14: Die Schlossrenovierung (Folge 103)",
+          "index": 15,
+          "startTime": 1341.892,
+          "duration": 98.144
+        },
+        {
+          "id": "bibi-folg-5830-t17",
+          "title": "Kapitel 15: Die Schlossrenovierung (Folge 103)",
+          "index": 16,
+          "startTime": 1440.036,
+          "duration": 90.242
+        },
+        {
+          "id": "bibi-folg-5830-t18",
+          "title": "Kapitel 16: Die Schlossrenovierung (Folge 103)",
+          "index": 17,
+          "startTime": 1530.278,
+          "duration": 95.287
+        },
+        {
+          "id": "bibi-folg-5830-t19",
+          "title": "Kapitel 17: Die Schlossrenovierung (Folge 103)",
+          "index": 18,
+          "startTime": 1625.565,
+          "duration": 91.763
+        },
+        {
+          "id": "bibi-folg-5830-t20",
+          "title": "Kapitel 18: Die Schlossrenovierung (Folge 103)",
+          "index": 19,
+          "startTime": 1717.328,
+          "duration": 99.273
+        },
+        {
+          "id": "bibi-folg-5830-t21",
+          "title": "Kapitel 19: Die Schlossrenovierung (Folge 103)",
+          "index": 20,
+          "startTime": 1816.601,
+          "duration": 95.702
+        },
+        {
+          "id": "bibi-folg-5830-t22",
+          "title": "Kapitel 20: Die Schlossrenovierung (Folge 103)",
+          "index": 21,
+          "startTime": 1912.303,
+          "duration": 88.929
+        },
+        {
+          "id": "bibi-folg-5830-t23",
+          "title": "Kapitel 21: Die Schlossrenovierung (Folge 103)",
+          "index": 22,
+          "startTime": 2001.232,
+          "duration": 93.375
+        },
+        {
+          "id": "bibi-folg-5830-t24",
+          "title": "Kapitel 22: Die Schlossrenovierung (Folge 103)",
+          "index": 23,
+          "startTime": 2094.607,
+          "duration": 95.149
+        },
+        {
+          "id": "bibi-folg-5830-t25",
+          "title": "Kapitel 23: Die Schlossrenovierung (Folge 103)",
+          "index": 24,
+          "startTime": 2189.756,
+          "duration": 94.919
+        },
+        {
+          "id": "bibi-folg-5830-t26",
+          "title": "Kapitel 24: Die Schlossrenovierung (Folge 103)",
+          "index": 25,
+          "startTime": 2284.675,
+          "duration": 91.809
+        },
+        {
+          "id": "bibi-folg-5830-t27",
+          "title": "Kapitel 25: Die Schlossrenovierung (Folge 103)",
+          "index": 26,
+          "startTime": 2376.484,
+          "duration": 93.813
+        },
+        {
+          "id": "bibi-folg-5830-t28",
+          "title": "Kapitel 26: Die Schlossrenovierung (Folge 103)",
+          "index": 27,
+          "startTime": 2470.297,
+          "duration": 91.693
+        },
+        {
+          "id": "bibi-folg-5830-t29",
+          "title": "Kapitel 27: Die Schlossrenovierung (Folge 103)",
+          "index": 28,
+          "startTime": 2561.99,
+          "duration": 96.953
+        },
+        {
+          "id": "bibi-folg-5830-t30",
+          "title": "Kapitel 28: Die Schlossrenovierung (Folge 103)",
+          "index": 29,
+          "startTime": 2658.943,
+          "duration": 93.046
+        },
+        {
+          "id": "bibi-folg-5830-t31",
+          "title": "Kapitel 29: Die Schlossrenovierung (Folge 103)",
+          "index": 30,
+          "startTime": 2751.989,
+          "duration": 94.066
+        },
+        {
+          "id": "bibi-folg-5830-t32",
+          "title": "Kapitel 30: Die Schlossrenovierung (Folge 103)",
+          "index": 31,
+          "startTime": 2846.055,
+          "duration": 94.066
+        },
+        {
+          "id": "bibi-folg-5830-t33",
+          "title": "Kapitel 31: Die Schlossrenovierung (Folge 103)",
+          "index": 32,
+          "startTime": 2940.121,
+          "duration": 138.009
+        },
+        {
+          "id": "bibi-folg-5830-t34",
+          "title": "Die Schlossrenovierung (Folge 103) [Bonus]",
+          "index": 33,
+          "startTime": 3078.13,
+          "duration": 92.38
         }
       ]
     },
@@ -18845,5 +18999,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T04:55:03Z"
 }
