@@ -9,6 +9,4885 @@
   ],
   "albums": [
     {
+      "id": "880970542",
+      "title": "Folge 01: Verloren im Mikrokosmos",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/6c/b1/836cb149-4c1a-ab5f-abea-81fa7d2dc6e0/4260147772901_1448.jpg/100x100bb.jpg",
+      "description": "Ein Album mit Hörspiel-Titel und -Genre, das auf Apple Music verfügbar ist.",
+      "totalDuration": 4242.826,
+      "platforms": {
+        "appleMusic": "880970542"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-0542-t01",
+          "title": "Verloren im Mikrokosmos, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 14.307
+        },
+        {
+          "id": "frak-folg-0542-t02",
+          "title": "Verloren im Mikrokosmos, Teil 2",
+          "index": 1,
+          "startTime": 14.307,
+          "duration": 230.787
+        },
+        {
+          "id": "frak-folg-0542-t03",
+          "title": "Verloren im Mikrokosmos, Teil 3",
+          "index": 2,
+          "startTime": 245.094,
+          "duration": 787.333
+        },
+        {
+          "id": "frak-folg-0542-t04",
+          "title": "Verloren im Mikrokosmos, Teil 4",
+          "index": 3,
+          "startTime": 1032.427,
+          "duration": 744.893
+        },
+        {
+          "id": "frak-folg-0542-t05",
+          "title": "Verloren im Mikrokosmos, Teil 5",
+          "index": 4,
+          "startTime": 1777.32,
+          "duration": 382.04
+        },
+        {
+          "id": "frak-folg-0542-t06",
+          "title": "Verloren im Mikrokosmos, Teil 6",
+          "index": 5,
+          "startTime": 2159.36,
+          "duration": 745.613
+        },
+        {
+          "id": "frak-folg-0542-t07",
+          "title": "Verloren im Mikrokosmos, Teil 7",
+          "index": 6,
+          "startTime": 2904.973,
+          "duration": 382.373
+        },
+        {
+          "id": "frak-folg-0542-t08",
+          "title": "Verloren im Mikrokosmos, Teil 8",
+          "index": 7,
+          "startTime": 3287.346,
+          "duration": 453.333
+        },
+        {
+          "id": "frak-folg-0542-t09",
+          "title": "Verloren im Mikrokosmos, Teil 9",
+          "index": 8,
+          "startTime": 3740.679,
+          "duration": 168.187
+        },
+        {
+          "id": "frak-folg-0542-t10",
+          "title": "Verloren im Mikrokosmos, Teil 10",
+          "index": 9,
+          "startTime": 3908.866,
+          "duration": 196.213
+        },
+        {
+          "id": "frak-folg-0542-t11",
+          "title": "Verloren im Mikrokosmos, Teil 11",
+          "index": 10,
+          "startTime": 4105.079,
+          "duration": 137.747
+        }
+      ]
+    },
+    {
+      "id": "1499097215",
+      "title": "Folge 1: Verloren im Mikrokosmos",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/33/ac/f833acb0-977a-a55f-c2a1-fd627a8cd5c8/4260507157379_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält vierundvierzig Tracks von Fraktal im Genre Hörspiele, unter dem Titel 'Folge 1: Verloren im Mikrokosmos'.",
+      "totalDuration": 4242.826,
+      "platforms": {
+        "appleMusic": "1499097215"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-7215-t01",
+          "title": "Teil 1 - Folge 1: Verloren im Mikrokosmos",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 92.572
+        },
+        {
+          "id": "frak-folg-7215-t02",
+          "title": "Teil 2 - Folge 1: Verloren im Mikrokosmos",
+          "index": 1,
+          "startTime": 92.572,
+          "duration": 90.029
+        },
+        {
+          "id": "frak-folg-7215-t03",
+          "title": "Teil 3 - Folge 1: Verloren im Mikrokosmos",
+          "index": 2,
+          "startTime": 182.601,
+          "duration": 93.135
+        },
+        {
+          "id": "frak-folg-7215-t04",
+          "title": "Teil 4 - Folge 1: Verloren im Mikrokosmos",
+          "index": 3,
+          "startTime": 275.736,
+          "duration": 92.662
+        },
+        {
+          "id": "frak-folg-7215-t05",
+          "title": "Teil 5 - Folge 1: Verloren im Mikrokosmos",
+          "index": 4,
+          "startTime": 368.398,
+          "duration": 96.661
+        },
+        {
+          "id": "frak-folg-7215-t06",
+          "title": "Teil 6 - Folge 1: Verloren im Mikrokosmos",
+          "index": 5,
+          "startTime": 465.059,
+          "duration": 93.742
+        },
+        {
+          "id": "frak-folg-7215-t07",
+          "title": "Teil 7 - Folge 1: Verloren im Mikrokosmos",
+          "index": 6,
+          "startTime": 558.801,
+          "duration": 90.972
+        },
+        {
+          "id": "frak-folg-7215-t08",
+          "title": "Teil 8 - Folge 1: Verloren im Mikrokosmos",
+          "index": 7,
+          "startTime": 649.773,
+          "duration": 90.983
+        },
+        {
+          "id": "frak-folg-7215-t09",
+          "title": "Teil 9 - Folge 1: Verloren im Mikrokosmos",
+          "index": 8,
+          "startTime": 740.756,
+          "duration": 92.72
+        },
+        {
+          "id": "frak-folg-7215-t10",
+          "title": "Teil 10 - Folge 1: Verloren im Mikrokosmos",
+          "index": 9,
+          "startTime": 833.476,
+          "duration": 91.586
+        },
+        {
+          "id": "frak-folg-7215-t11",
+          "title": "Teil 11 - Folge 1: Verloren im Mikrokosmos",
+          "index": 10,
+          "startTime": 925.062,
+          "duration": 91.875
+        },
+        {
+          "id": "frak-folg-7215-t12",
+          "title": "Teil 12 - Folge 1: Verloren im Mikrokosmos",
+          "index": 11,
+          "startTime": 1016.937,
+          "duration": 90.294
+        },
+        {
+          "id": "frak-folg-7215-t13",
+          "title": "Teil 13 - Folge 1: Verloren im Mikrokosmos",
+          "index": 12,
+          "startTime": 1107.231,
+          "duration": 93.185
+        },
+        {
+          "id": "frak-folg-7215-t14",
+          "title": "Teil 14 - Folge 1: Verloren im Mikrokosmos",
+          "index": 13,
+          "startTime": 1200.416,
+          "duration": 90.029
+        },
+        {
+          "id": "frak-folg-7215-t15",
+          "title": "Teil 15 - Folge 1: Verloren im Mikrokosmos",
+          "index": 14,
+          "startTime": 1290.445,
+          "duration": 90.062
+        },
+        {
+          "id": "frak-folg-7215-t16",
+          "title": "Teil 16 - Folge 1: Verloren im Mikrokosmos",
+          "index": 15,
+          "startTime": 1380.507,
+          "duration": 90.236
+        },
+        {
+          "id": "frak-folg-7215-t17",
+          "title": "Teil 17 - Folge 1: Verloren im Mikrokosmos",
+          "index": 16,
+          "startTime": 1470.743,
+          "duration": 90.012
+        },
+        {
+          "id": "frak-folg-7215-t18",
+          "title": "Teil 18 - Folge 1: Verloren im Mikrokosmos",
+          "index": 17,
+          "startTime": 1560.755,
+          "duration": 90.011
+        },
+        {
+          "id": "frak-folg-7215-t19",
+          "title": "Teil 19 - Folge 1: Verloren im Mikrokosmos",
+          "index": 18,
+          "startTime": 1650.766,
+          "duration": 92.065
+        },
+        {
+          "id": "frak-folg-7215-t20",
+          "title": "Teil 20 - Folge 1: Verloren im Mikrokosmos",
+          "index": 19,
+          "startTime": 1742.831,
+          "duration": 90.127
+        },
+        {
+          "id": "frak-folg-7215-t21",
+          "title": "Teil 21 - Folge 1: Verloren im Mikrokosmos",
+          "index": 20,
+          "startTime": 1832.958,
+          "duration": 90.884
+        },
+        {
+          "id": "frak-folg-7215-t22",
+          "title": "Teil 22 - Folge 1: Verloren im Mikrokosmos",
+          "index": 21,
+          "startTime": 1923.842,
+          "duration": 90.033
+        },
+        {
+          "id": "frak-folg-7215-t23",
+          "title": "Teil 23 - Folge 1: Verloren im Mikrokosmos",
+          "index": 22,
+          "startTime": 2013.875,
+          "duration": 90.004
+        },
+        {
+          "id": "frak-folg-7215-t24",
+          "title": "Teil 24 - Folge 1: Verloren im Mikrokosmos",
+          "index": 23,
+          "startTime": 2103.879,
+          "duration": 90.06
+        },
+        {
+          "id": "frak-folg-7215-t25",
+          "title": "Teil 25 - Folge 1: Verloren im Mikrokosmos",
+          "index": 24,
+          "startTime": 2193.939,
+          "duration": 92.076
+        },
+        {
+          "id": "frak-folg-7215-t26",
+          "title": "Teil 26 - Folge 1: Verloren im Mikrokosmos",
+          "index": 25,
+          "startTime": 2286.015,
+          "duration": 96.926
+        },
+        {
+          "id": "frak-folg-7215-t27",
+          "title": "Teil 27 - Folge 1: Verloren im Mikrokosmos",
+          "index": 26,
+          "startTime": 2382.941,
+          "duration": 90.532
+        },
+        {
+          "id": "frak-folg-7215-t28",
+          "title": "Teil 28 - Folge 1: Verloren im Mikrokosmos",
+          "index": 27,
+          "startTime": 2473.473,
+          "duration": 90.287
+        },
+        {
+          "id": "frak-folg-7215-t29",
+          "title": "Teil 29 - Folge 1: Verloren im Mikrokosmos",
+          "index": 28,
+          "startTime": 2563.76,
+          "duration": 91.707
+        },
+        {
+          "id": "frak-folg-7215-t30",
+          "title": "Teil 30 - Folge 1: Verloren im Mikrokosmos",
+          "index": 29,
+          "startTime": 2655.467,
+          "duration": 90.445
+        },
+        {
+          "id": "frak-folg-7215-t31",
+          "title": "Teil 31 - Folge 1: Verloren im Mikrokosmos",
+          "index": 30,
+          "startTime": 2745.912,
+          "duration": 95.994
+        },
+        {
+          "id": "frak-folg-7215-t32",
+          "title": "Teil 32 - Folge 1: Verloren im Mikrokosmos",
+          "index": 31,
+          "startTime": 2841.906,
+          "duration": 90.364
+        },
+        {
+          "id": "frak-folg-7215-t33",
+          "title": "Teil 33 - Folge 1: Verloren im Mikrokosmos",
+          "index": 32,
+          "startTime": 2932.27,
+          "duration": 90.001
+        },
+        {
+          "id": "frak-folg-7215-t34",
+          "title": "Teil 34 - Folge 1: Verloren im Mikrokosmos",
+          "index": 33,
+          "startTime": 3022.271,
+          "duration": 92.38
+        },
+        {
+          "id": "frak-folg-7215-t35",
+          "title": "Teil 35 - Folge 1: Verloren im Mikrokosmos",
+          "index": 34,
+          "startTime": 3114.651,
+          "duration": 90.002
+        },
+        {
+          "id": "frak-folg-7215-t36",
+          "title": "Teil 36 - Folge 1: Verloren im Mikrokosmos",
+          "index": 35,
+          "startTime": 3204.653,
+          "duration": 90.314
+        },
+        {
+          "id": "frak-folg-7215-t37",
+          "title": "Teil 37 - Folge 1: Verloren im Mikrokosmos",
+          "index": 36,
+          "startTime": 3294.967,
+          "duration": 93.92
+        },
+        {
+          "id": "frak-folg-7215-t38",
+          "title": "Teil 38 - Folge 1: Verloren im Mikrokosmos",
+          "index": 37,
+          "startTime": 3388.887,
+          "duration": 91.066
+        },
+        {
+          "id": "frak-folg-7215-t39",
+          "title": "Teil 39 - Folge 1: Verloren im Mikrokosmos",
+          "index": 38,
+          "startTime": 3479.953,
+          "duration": 90.542
+        },
+        {
+          "id": "frak-folg-7215-t40",
+          "title": "Teil 40 - Folge 1: Verloren im Mikrokosmos",
+          "index": 39,
+          "startTime": 3570.495,
+          "duration": 90.11
+        },
+        {
+          "id": "frak-folg-7215-t41",
+          "title": "Teil 41 - Folge 1: Verloren im Mikrokosmos",
+          "index": 40,
+          "startTime": 3660.605,
+          "duration": 90.071
+        },
+        {
+          "id": "frak-folg-7215-t42",
+          "title": "Teil 42 - Folge 1: Verloren im Mikrokosmos",
+          "index": 41,
+          "startTime": 3750.676,
+          "duration": 90.258
+        },
+        {
+          "id": "frak-folg-7215-t43",
+          "title": "Teil 43 - Folge 1: Verloren im Mikrokosmos",
+          "index": 42,
+          "startTime": 3840.934,
+          "duration": 91.251
+        },
+        {
+          "id": "frak-folg-7215-t44",
+          "title": "Teil 44 - Folge 1: Verloren im Mikrokosmos",
+          "index": 43,
+          "startTime": 3932.185,
+          "duration": 92.242
+        },
+        {
+          "id": "frak-folg-7215-t45",
+          "title": "Teil 45 - Folge 1: Verloren im Mikrokosmos",
+          "index": 44,
+          "startTime": 4024.427,
+          "duration": 90.056
+        },
+        {
+          "id": "frak-folg-7215-t46",
+          "title": "Teil 46 - Folge 1: Verloren im Mikrokosmos",
+          "index": 45,
+          "startTime": 4114.483,
+          "duration": 128.343
+        }
+      ]
+    },
+    {
+      "id": "922124363",
+      "title": "Folge 02: Sternenstaub",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/aa/54/03/aa5403a4-98a6-8e44-a89a-863c8bca97bd/4260147773458_1448.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 12 Episoden eines Hörspiels mit dem Titel 'Folge 02: Sternenstaub' von der Band 'Fraktal'.",
+      "totalDuration": 3999.746,
+      "platforms": {
+        "appleMusic": "922124363"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-4363-t01",
+          "title": "Sternenstaub - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 11.28
+        },
+        {
+          "id": "frak-folg-4363-t02",
+          "title": "Sternenstaub - Teil 2",
+          "index": 1,
+          "startTime": 11.28,
+          "duration": 68.173
+        },
+        {
+          "id": "frak-folg-4363-t03",
+          "title": "Sternenstaub - Teil 3",
+          "index": 2,
+          "startTime": 79.453,
+          "duration": 163.84
+        },
+        {
+          "id": "frak-folg-4363-t04",
+          "title": "Sternenstaub - Teil 4",
+          "index": 3,
+          "startTime": 243.293,
+          "duration": 296.467
+        },
+        {
+          "id": "frak-folg-4363-t05",
+          "title": "Sternenstaub - Teil 5",
+          "index": 4,
+          "startTime": 539.76,
+          "duration": 288.44
+        },
+        {
+          "id": "frak-folg-4363-t06",
+          "title": "Sternenstaub - Teil 6",
+          "index": 5,
+          "startTime": 828.2,
+          "duration": 286.307
+        },
+        {
+          "id": "frak-folg-4363-t07",
+          "title": "Sternenstaub - Teil 7",
+          "index": 6,
+          "startTime": 1114.507,
+          "duration": 529.613
+        },
+        {
+          "id": "frak-folg-4363-t08",
+          "title": "Sternenstaub - Teil 8",
+          "index": 7,
+          "startTime": 1644.12,
+          "duration": 503.08
+        },
+        {
+          "id": "frak-folg-4363-t09",
+          "title": "Sternenstaub - Teil 9",
+          "index": 8,
+          "startTime": 2147.2,
+          "duration": 328.853
+        },
+        {
+          "id": "frak-folg-4363-t10",
+          "title": "Sternenstaub - Teil 10",
+          "index": 9,
+          "startTime": 2476.053,
+          "duration": 766.707
+        },
+        {
+          "id": "frak-folg-4363-t11",
+          "title": "Sternenstaub - Teil 11",
+          "index": 10,
+          "startTime": 3242.76,
+          "duration": 198.373
+        },
+        {
+          "id": "frak-folg-4363-t12",
+          "title": "Sternenstaub - Teil 12",
+          "index": 11,
+          "startTime": 3441.133,
+          "duration": 558.613
+        }
+      ]
+    },
+    {
+      "id": "1499098438",
+      "title": "Folge 2: Sternenstaub",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/1d/05/621d0517-52b8-cee9-0a15-f0103e9eb065/4260507157386_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele von Fraktal mit insgesamt 43 Folgen, die im Genre Hörspiele angesiedelt sind.",
+      "totalDuration": 3999.749,
+      "platforms": {
+        "appleMusic": "1499098438"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-8438-t01",
+          "title": "Teil 1 - Folge 2: Sternenstaub",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.825
+        },
+        {
+          "id": "frak-folg-8438-t02",
+          "title": "Teil 2 - Folge 2: Sternenstaub",
+          "index": 1,
+          "startTime": 90.825,
+          "duration": 90.746
+        },
+        {
+          "id": "frak-folg-8438-t03",
+          "title": "Teil 3 - Folge 2: Sternenstaub",
+          "index": 2,
+          "startTime": 181.571,
+          "duration": 94.447
+        },
+        {
+          "id": "frak-folg-8438-t04",
+          "title": "Teil 4 - Folge 2: Sternenstaub",
+          "index": 3,
+          "startTime": 276.018,
+          "duration": 90.308
+        },
+        {
+          "id": "frak-folg-8438-t05",
+          "title": "Teil 5 - Folge 2: Sternenstaub",
+          "index": 4,
+          "startTime": 366.326,
+          "duration": 91.016
+        },
+        {
+          "id": "frak-folg-8438-t06",
+          "title": "Teil 6 - Folge 2: Sternenstaub",
+          "index": 5,
+          "startTime": 457.342,
+          "duration": 90.763
+        },
+        {
+          "id": "frak-folg-8438-t07",
+          "title": "Teil 7 - Folge 2: Sternenstaub",
+          "index": 6,
+          "startTime": 548.105,
+          "duration": 90.624
+        },
+        {
+          "id": "frak-folg-8438-t08",
+          "title": "Teil 8 - Folge 2: Sternenstaub",
+          "index": 7,
+          "startTime": 638.729,
+          "duration": 90.699
+        },
+        {
+          "id": "frak-folg-8438-t09",
+          "title": "Teil 9 - Folge 2: Sternenstaub",
+          "index": 8,
+          "startTime": 729.428,
+          "duration": 90.802
+        },
+        {
+          "id": "frak-folg-8438-t10",
+          "title": "Teil 10 - Folge 2: Sternenstaub",
+          "index": 9,
+          "startTime": 820.23,
+          "duration": 90.0
+        },
+        {
+          "id": "frak-folg-8438-t11",
+          "title": "Teil 11 - Folge 2: Sternenstaub",
+          "index": 10,
+          "startTime": 910.23,
+          "duration": 91.219
+        },
+        {
+          "id": "frak-folg-8438-t12",
+          "title": "Teil 12 - Folge 2: Sternenstaub",
+          "index": 11,
+          "startTime": 1001.449,
+          "duration": 90.101
+        },
+        {
+          "id": "frak-folg-8438-t13",
+          "title": "Teil 13 - Folge 2: Sternenstaub",
+          "index": 12,
+          "startTime": 1091.55,
+          "duration": 91.933
+        },
+        {
+          "id": "frak-folg-8438-t14",
+          "title": "Teil 14 - Folge 2: Sternenstaub",
+          "index": 13,
+          "startTime": 1183.483,
+          "duration": 90.213
+        },
+        {
+          "id": "frak-folg-8438-t15",
+          "title": "Teil 15 - Folge 2: Sternenstaub",
+          "index": 14,
+          "startTime": 1273.696,
+          "duration": 91.131
+        },
+        {
+          "id": "frak-folg-8438-t16",
+          "title": "Teil 16 - Folge 2: Sternenstaub",
+          "index": 15,
+          "startTime": 1364.827,
+          "duration": 91.939
+        },
+        {
+          "id": "frak-folg-8438-t17",
+          "title": "Teil 17 - Folge 2: Sternenstaub",
+          "index": 16,
+          "startTime": 1456.766,
+          "duration": 90.149
+        },
+        {
+          "id": "frak-folg-8438-t18",
+          "title": "Teil 18 - Folge 2: Sternenstaub",
+          "index": 17,
+          "startTime": 1546.915,
+          "duration": 90.175
+        },
+        {
+          "id": "frak-folg-8438-t19",
+          "title": "Teil 19 - Folge 2: Sternenstaub",
+          "index": 18,
+          "startTime": 1637.09,
+          "duration": 90.623
+        },
+        {
+          "id": "frak-folg-8438-t20",
+          "title": "Teil 20 - Folge 2: Sternenstaub",
+          "index": 19,
+          "startTime": 1727.713,
+          "duration": 94.003
+        },
+        {
+          "id": "frak-folg-8438-t21",
+          "title": "Teil 21 - Folge 2: Sternenstaub",
+          "index": 20,
+          "startTime": 1821.716,
+          "duration": 90.062
+        },
+        {
+          "id": "frak-folg-8438-t22",
+          "title": "Teil 22 - Folge 2: Sternenstaub",
+          "index": 21,
+          "startTime": 1911.778,
+          "duration": 91.711
+        },
+        {
+          "id": "frak-folg-8438-t23",
+          "title": "Teil 23 - Folge 2: Sternenstaub",
+          "index": 22,
+          "startTime": 2003.489,
+          "duration": 90.016
+        },
+        {
+          "id": "frak-folg-8438-t24",
+          "title": "Teil 24 - Folge 2: Sternenstaub",
+          "index": 23,
+          "startTime": 2093.505,
+          "duration": 91.655
+        },
+        {
+          "id": "frak-folg-8438-t25",
+          "title": "Teil 25 - Folge 2: Sternenstaub",
+          "index": 24,
+          "startTime": 2185.16,
+          "duration": 95.191
+        },
+        {
+          "id": "frak-folg-8438-t26",
+          "title": "Teil 26 - Folge 2: Sternenstaub",
+          "index": 25,
+          "startTime": 2280.351,
+          "duration": 91.574
+        },
+        {
+          "id": "frak-folg-8438-t27",
+          "title": "Teil 27 - Folge 2: Sternenstaub",
+          "index": 26,
+          "startTime": 2371.925,
+          "duration": 90.316
+        },
+        {
+          "id": "frak-folg-8438-t28",
+          "title": "Teil 28 - Folge 2: Sternenstaub",
+          "index": 27,
+          "startTime": 2462.241,
+          "duration": 94.875
+        },
+        {
+          "id": "frak-folg-8438-t29",
+          "title": "Teil 29 - Folge 2: Sternenstaub",
+          "index": 28,
+          "startTime": 2557.116,
+          "duration": 90.016
+        },
+        {
+          "id": "frak-folg-8438-t30",
+          "title": "Teil 30 - Folge 2: Sternenstaub",
+          "index": 29,
+          "startTime": 2647.132,
+          "duration": 90.582
+        },
+        {
+          "id": "frak-folg-8438-t31",
+          "title": "Teil 31 - Folge 2: Sternenstaub",
+          "index": 30,
+          "startTime": 2737.714,
+          "duration": 90.001
+        },
+        {
+          "id": "frak-folg-8438-t32",
+          "title": "Teil 32 - Folge 2: Sternenstaub",
+          "index": 31,
+          "startTime": 2827.715,
+          "duration": 93.168
+        },
+        {
+          "id": "frak-folg-8438-t33",
+          "title": "Teil 33 - Folge 2: Sternenstaub",
+          "index": 32,
+          "startTime": 2920.883,
+          "duration": 90.004
+        },
+        {
+          "id": "frak-folg-8438-t34",
+          "title": "Teil 34 - Folge 2: Sternenstaub",
+          "index": 33,
+          "startTime": 3010.887,
+          "duration": 90.578
+        },
+        {
+          "id": "frak-folg-8438-t35",
+          "title": "Teil 35 - Folge 2: Sternenstaub",
+          "index": 34,
+          "startTime": 3101.465,
+          "duration": 91.625
+        },
+        {
+          "id": "frak-folg-8438-t36",
+          "title": "Teil 36 - Folge 2: Sternenstaub",
+          "index": 35,
+          "startTime": 3193.09,
+          "duration": 91.604
+        },
+        {
+          "id": "frak-folg-8438-t37",
+          "title": "Teil 37 - Folge 2: Sternenstaub",
+          "index": 36,
+          "startTime": 3284.694,
+          "duration": 91.859
+        },
+        {
+          "id": "frak-folg-8438-t38",
+          "title": "Teil 38 - Folge 2: Sternenstaub",
+          "index": 37,
+          "startTime": 3376.553,
+          "duration": 90.709
+        },
+        {
+          "id": "frak-folg-8438-t39",
+          "title": "Teil 39 - Folge 2: Sternenstaub",
+          "index": 38,
+          "startTime": 3467.262,
+          "duration": 92.753
+        },
+        {
+          "id": "frak-folg-8438-t40",
+          "title": "Teil 40 - Folge 2: Sternenstaub",
+          "index": 39,
+          "startTime": 3560.015,
+          "duration": 90.391
+        },
+        {
+          "id": "frak-folg-8438-t41",
+          "title": "Teil 41 - Folge 2: Sternenstaub",
+          "index": 40,
+          "startTime": 3650.406,
+          "duration": 90.253
+        },
+        {
+          "id": "frak-folg-8438-t42",
+          "title": "Teil 42 - Folge 2: Sternenstaub",
+          "index": 41,
+          "startTime": 3740.659,
+          "duration": 90.017
+        },
+        {
+          "id": "frak-folg-8438-t43",
+          "title": "Teil 43 - Folge 2: Sternenstaub",
+          "index": 42,
+          "startTime": 3830.676,
+          "duration": 169.073
+        }
+      ]
+    },
+    {
+      "id": "963781042",
+      "title": "Folge 03: Prähistorica",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/3d/02/e6/3d02e667-cfba-b2a6-56a1-6cc8119afacb/4260147773861_1448.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 11 Tracks, die sich auf ein Hörspiel um die Prähistorische Zeit konzentrieren. Es könnte Geschichten oder Abenteuer um die prähistorische Zeit handeln.",
+      "totalDuration": 3365.227,
+      "platforms": {
+        "appleMusic": "963781042"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-1042-t01",
+          "title": "Prähistorica, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 11.28
+        },
+        {
+          "id": "frak-folg-1042-t02",
+          "title": "Prähistorica, Teil 2",
+          "index": 1,
+          "startTime": 11.28,
+          "duration": 68.733
+        },
+        {
+          "id": "frak-folg-1042-t03",
+          "title": "Prähistorica, Teil 3",
+          "index": 2,
+          "startTime": 80.013,
+          "duration": 464.453
+        },
+        {
+          "id": "frak-folg-1042-t04",
+          "title": "Prähistorica, Teil 4",
+          "index": 3,
+          "startTime": 544.466,
+          "duration": 178.533
+        },
+        {
+          "id": "frak-folg-1042-t05",
+          "title": "Prähistorica, Teil 5",
+          "index": 4,
+          "startTime": 722.999,
+          "duration": 372.747
+        },
+        {
+          "id": "frak-folg-1042-t06",
+          "title": "Prähistorica, Teil 6",
+          "index": 5,
+          "startTime": 1095.746,
+          "duration": 537.387
+        },
+        {
+          "id": "frak-folg-1042-t07",
+          "title": "Prähistorica, Teil 7",
+          "index": 6,
+          "startTime": 1633.133,
+          "duration": 747.693
+        },
+        {
+          "id": "frak-folg-1042-t08",
+          "title": "Prähistorica, Teil 8",
+          "index": 7,
+          "startTime": 2380.826,
+          "duration": 224.027
+        },
+        {
+          "id": "frak-folg-1042-t09",
+          "title": "Prähistorica, Teil 9",
+          "index": 8,
+          "startTime": 2604.853,
+          "duration": 331.587
+        },
+        {
+          "id": "frak-folg-1042-t10",
+          "title": "Prähistorica, Teil 10",
+          "index": 9,
+          "startTime": 2936.44,
+          "duration": 294.24
+        },
+        {
+          "id": "frak-folg-1042-t11",
+          "title": "Prähistorica, Teil 11",
+          "index": 10,
+          "startTime": 3230.68,
+          "duration": 134.547
+        }
+      ]
+    },
+    {
+      "id": "1499098070",
+      "title": "Folge 3: Prähistorica",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/7c/5a/377c5a9b-30eb-c1b2-b71c-7ce03e75d99c/4260507157393_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 3: Prähistorica' von der Band Fraktal. Es besteht aus 37 Tracks und gehört zum Genre Hörspiele.",
+      "totalDuration": 3365.228,
+      "platforms": {
+        "appleMusic": "1499098070"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-8070-t01",
+          "title": "Teil 1 - Folge 3: Prähistorica",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 91.124
+        },
+        {
+          "id": "frak-folg-8070-t02",
+          "title": "Teil 2 - Folge 3: Prähistorica",
+          "index": 1,
+          "startTime": 91.124,
+          "duration": 90.003
+        },
+        {
+          "id": "frak-folg-8070-t03",
+          "title": "Teil 3 - Folge 3: Prähistorica",
+          "index": 2,
+          "startTime": 181.127,
+          "duration": 90.599
+        },
+        {
+          "id": "frak-folg-8070-t04",
+          "title": "Teil 4 - Folge 3: Prähistorica",
+          "index": 3,
+          "startTime": 271.726,
+          "duration": 90.503
+        },
+        {
+          "id": "frak-folg-8070-t05",
+          "title": "Teil 5 - Folge 3: Prähistorica",
+          "index": 4,
+          "startTime": 362.229,
+          "duration": 91.162
+        },
+        {
+          "id": "frak-folg-8070-t06",
+          "title": "Teil 6 - Folge 3: Prähistorica",
+          "index": 5,
+          "startTime": 453.391,
+          "duration": 90.809
+        },
+        {
+          "id": "frak-folg-8070-t07",
+          "title": "Teil 7 - Folge 3: Prähistorica",
+          "index": 6,
+          "startTime": 544.2,
+          "duration": 90.021
+        },
+        {
+          "id": "frak-folg-8070-t08",
+          "title": "Teil 8 - Folge 3: Prähistorica",
+          "index": 7,
+          "startTime": 634.221,
+          "duration": 90.101
+        },
+        {
+          "id": "frak-folg-8070-t09",
+          "title": "Teil 9 - Folge 3: Prähistorica",
+          "index": 8,
+          "startTime": 724.322,
+          "duration": 90.686
+        },
+        {
+          "id": "frak-folg-8070-t10",
+          "title": "Teil 10 - Folge 3: Prähistorica",
+          "index": 9,
+          "startTime": 815.008,
+          "duration": 91.84
+        },
+        {
+          "id": "frak-folg-8070-t11",
+          "title": "Teil 11 - Folge 3: Prähistorica",
+          "index": 10,
+          "startTime": 906.848,
+          "duration": 90.317
+        },
+        {
+          "id": "frak-folg-8070-t12",
+          "title": "Teil 12 - Folge 3: Prähistorica",
+          "index": 11,
+          "startTime": 997.165,
+          "duration": 90.055
+        },
+        {
+          "id": "frak-folg-8070-t13",
+          "title": "Teil 13 - Folge 3: Prähistorica",
+          "index": 12,
+          "startTime": 1087.22,
+          "duration": 90.051
+        },
+        {
+          "id": "frak-folg-8070-t14",
+          "title": "Teil 14 - Folge 3: Prähistorica",
+          "index": 13,
+          "startTime": 1177.271,
+          "duration": 91.354
+        },
+        {
+          "id": "frak-folg-8070-t15",
+          "title": "Teil 15 - Folge 3: Prähistorica",
+          "index": 14,
+          "startTime": 1268.625,
+          "duration": 91.249
+        },
+        {
+          "id": "frak-folg-8070-t16",
+          "title": "Teil 16 - Folge 3: Prähistorica",
+          "index": 15,
+          "startTime": 1359.874,
+          "duration": 90.003
+        },
+        {
+          "id": "frak-folg-8070-t17",
+          "title": "Teil 17 - Folge 3: Prähistorica",
+          "index": 16,
+          "startTime": 1449.877,
+          "duration": 90.097
+        },
+        {
+          "id": "frak-folg-8070-t18",
+          "title": "Teil 18 - Folge 3: Prähistorica",
+          "index": 17,
+          "startTime": 1539.974,
+          "duration": 90.002
+        },
+        {
+          "id": "frak-folg-8070-t19",
+          "title": "Teil 19 - Folge 3: Prähistorica",
+          "index": 18,
+          "startTime": 1629.976,
+          "duration": 90.001
+        },
+        {
+          "id": "frak-folg-8070-t20",
+          "title": "Teil 20 - Folge 3: Prähistorica",
+          "index": 19,
+          "startTime": 1719.977,
+          "duration": 92.599
+        },
+        {
+          "id": "frak-folg-8070-t21",
+          "title": "Teil 21 - Folge 3: Prähistorica",
+          "index": 20,
+          "startTime": 1812.576,
+          "duration": 90.731
+        },
+        {
+          "id": "frak-folg-8070-t22",
+          "title": "Teil 22 - Folge 3: Prähistorica",
+          "index": 21,
+          "startTime": 1903.307,
+          "duration": 90.015
+        },
+        {
+          "id": "frak-folg-8070-t23",
+          "title": "Teil 23 - Folge 3: Prähistorica",
+          "index": 22,
+          "startTime": 1993.322,
+          "duration": 90.695
+        },
+        {
+          "id": "frak-folg-8070-t24",
+          "title": "Teil 24 - Folge 3: Prähistorica",
+          "index": 23,
+          "startTime": 2084.017,
+          "duration": 90.852
+        },
+        {
+          "id": "frak-folg-8070-t25",
+          "title": "Teil 25 - Folge 3: Prähistorica",
+          "index": 24,
+          "startTime": 2174.869,
+          "duration": 90.49
+        },
+        {
+          "id": "frak-folg-8070-t26",
+          "title": "Teil 26 - Folge 3: Prähistorica",
+          "index": 25,
+          "startTime": 2265.359,
+          "duration": 90.007
+        },
+        {
+          "id": "frak-folg-8070-t27",
+          "title": "Teil 27 - Folge 3: Prähistorica",
+          "index": 26,
+          "startTime": 2355.366,
+          "duration": 91.195
+        },
+        {
+          "id": "frak-folg-8070-t28",
+          "title": "Teil 28 - Folge 3: Prähistorica",
+          "index": 27,
+          "startTime": 2446.561,
+          "duration": 90.062
+        },
+        {
+          "id": "frak-folg-8070-t29",
+          "title": "Teil 29 - Folge 3: Prähistorica",
+          "index": 28,
+          "startTime": 2536.623,
+          "duration": 93.991
+        },
+        {
+          "id": "frak-folg-8070-t30",
+          "title": "Teil 30 - Folge 3: Prähistorica",
+          "index": 29,
+          "startTime": 2630.614,
+          "duration": 91.134
+        },
+        {
+          "id": "frak-folg-8070-t31",
+          "title": "Teil 31 - Folge 3: Prähistorica",
+          "index": 30,
+          "startTime": 2721.748,
+          "duration": 90.48
+        },
+        {
+          "id": "frak-folg-8070-t32",
+          "title": "Teil 32 - Folge 3: Prähistorica",
+          "index": 31,
+          "startTime": 2812.228,
+          "duration": 91.791
+        },
+        {
+          "id": "frak-folg-8070-t33",
+          "title": "Teil 33 - Folge 3: Prähistorica",
+          "index": 32,
+          "startTime": 2904.019,
+          "duration": 90.446
+        },
+        {
+          "id": "frak-folg-8070-t34",
+          "title": "Teil 34 - Folge 3: Prähistorica",
+          "index": 33,
+          "startTime": 2994.465,
+          "duration": 90.023
+        },
+        {
+          "id": "frak-folg-8070-t35",
+          "title": "Teil 35 - Folge 3: Prähistorica",
+          "index": 34,
+          "startTime": 3084.488,
+          "duration": 93.934
+        },
+        {
+          "id": "frak-folg-8070-t36",
+          "title": "Teil 36 - Folge 3: Prähistorica",
+          "index": 35,
+          "startTime": 3178.422,
+          "duration": 91.417
+        },
+        {
+          "id": "frak-folg-8070-t37",
+          "title": "Teil 37 - Folge 3: Prähistorica",
+          "index": 36,
+          "startTime": 3269.839,
+          "duration": 95.389
+        }
+      ]
+    },
+    {
+      "id": "986808490",
+      "title": "Folge 4: Kontakt",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/35/ff/48/35ff4865-36a2-a978-19d1-6610fb5aea49/4260147774196_1448.jpg/100x100bb.jpg",
+      "description": "Ein deutscher Hörspiel-Album mit 11 Folgen, das im Genre des Hörspiels angesiedelt ist.",
+      "totalDuration": 3579.574,
+      "platforms": {
+        "appleMusic": "986808490"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-8490-t01",
+          "title": "Folge 4: Kontakt, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 11.28
+        },
+        {
+          "id": "frak-folg-8490-t02",
+          "title": "Folge 4: Kontakt, Teil 2",
+          "index": 1,
+          "startTime": 11.28,
+          "duration": 64.84
+        },
+        {
+          "id": "frak-folg-8490-t03",
+          "title": "Folge 4: Kontakt, Teil 3",
+          "index": 2,
+          "startTime": 76.12,
+          "duration": 313.52
+        },
+        {
+          "id": "frak-folg-8490-t04",
+          "title": "Folge 4: Kontakt, Teil 4",
+          "index": 3,
+          "startTime": 389.64,
+          "duration": 195.84
+        },
+        {
+          "id": "frak-folg-8490-t05",
+          "title": "Folge 4: Kontakt, Teil 5",
+          "index": 4,
+          "startTime": 585.48,
+          "duration": 863.867
+        },
+        {
+          "id": "frak-folg-8490-t06",
+          "title": "Folge 4: Kontakt, Teil 6",
+          "index": 5,
+          "startTime": 1449.347,
+          "duration": 614.587
+        },
+        {
+          "id": "frak-folg-8490-t07",
+          "title": "Folge 4: Kontakt, Teil 7",
+          "index": 6,
+          "startTime": 2063.934,
+          "duration": 268.6
+        },
+        {
+          "id": "frak-folg-8490-t08",
+          "title": "Folge 4: Kontakt, Teil 8",
+          "index": 7,
+          "startTime": 2332.534,
+          "duration": 237.787
+        },
+        {
+          "id": "frak-folg-8490-t09",
+          "title": "Folge 4: Kontakt, Teil 9",
+          "index": 8,
+          "startTime": 2570.321,
+          "duration": 557.36
+        },
+        {
+          "id": "frak-folg-8490-t10",
+          "title": "Folge 4: Kontakt, Teil 10",
+          "index": 9,
+          "startTime": 3127.681,
+          "duration": 196.44
+        },
+        {
+          "id": "frak-folg-8490-t11",
+          "title": "Folge 4: Kontakt, Teil 11",
+          "index": 10,
+          "startTime": 3324.121,
+          "duration": 255.453
+        }
+      ]
+    },
+    {
+      "id": "1499101592",
+      "title": "Folge 5: Trojaner",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/40/48/7c40482c-8fd9-71d6-c8be-924af6e6d964/4260507157416_3000.jpg/100x100bb.jpg",
+      "description": "Ein Album mit 36 Tracks, das sich auf ein Hörspiel von Fraktal konzentriert.",
+      "totalDuration": 3352.988,
+      "platforms": {
+        "appleMusic": "1499101592"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-1592-t01",
+          "title": "Teil 1 - Folge 5: Trojaner",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.008
+        },
+        {
+          "id": "frak-folg-1592-t02",
+          "title": "Teil 2 - Folge 5: Trojaner",
+          "index": 1,
+          "startTime": 90.008,
+          "duration": 94.494
+        },
+        {
+          "id": "frak-folg-1592-t03",
+          "title": "Teil 3 - Folge 5: Trojaner",
+          "index": 2,
+          "startTime": 184.502,
+          "duration": 92.96
+        },
+        {
+          "id": "frak-folg-1592-t04",
+          "title": "Teil 4 - Folge 5: Trojaner",
+          "index": 3,
+          "startTime": 277.462,
+          "duration": 90.04
+        },
+        {
+          "id": "frak-folg-1592-t05",
+          "title": "Teil 5 - Folge 5: Trojaner",
+          "index": 4,
+          "startTime": 367.502,
+          "duration": 91.26
+        },
+        {
+          "id": "frak-folg-1592-t06",
+          "title": "Teil 6 - Folge 5: Trojaner",
+          "index": 5,
+          "startTime": 458.762,
+          "duration": 90.352
+        },
+        {
+          "id": "frak-folg-1592-t07",
+          "title": "Teil 7 - Folge 5: Trojaner",
+          "index": 6,
+          "startTime": 549.114,
+          "duration": 90.876
+        },
+        {
+          "id": "frak-folg-1592-t08",
+          "title": "Teil 8 - Folge 5: Trojaner",
+          "index": 7,
+          "startTime": 639.99,
+          "duration": 90.163
+        },
+        {
+          "id": "frak-folg-1592-t09",
+          "title": "Teil 9 - Folge 5: Trojaner",
+          "index": 8,
+          "startTime": 730.153,
+          "duration": 90.221
+        },
+        {
+          "id": "frak-folg-1592-t10",
+          "title": "Teil 10 - Folge 5: Trojaner",
+          "index": 9,
+          "startTime": 820.374,
+          "duration": 96.804
+        },
+        {
+          "id": "frak-folg-1592-t11",
+          "title": "Teil 11 - Folge 5: Trojaner",
+          "index": 10,
+          "startTime": 917.178,
+          "duration": 90.809
+        },
+        {
+          "id": "frak-folg-1592-t12",
+          "title": "Teil 12 - Folge 5: Trojaner",
+          "index": 11,
+          "startTime": 1007.987,
+          "duration": 90.134
+        },
+        {
+          "id": "frak-folg-1592-t13",
+          "title": "Teil 13 - Folge 5: Trojaner",
+          "index": 12,
+          "startTime": 1098.121,
+          "duration": 90.163
+        },
+        {
+          "id": "frak-folg-1592-t14",
+          "title": "Teil 14 - Folge 5: Trojaner",
+          "index": 13,
+          "startTime": 1188.284,
+          "duration": 90.033
+        },
+        {
+          "id": "frak-folg-1592-t15",
+          "title": "Teil 15 - Folge 5: Trojaner",
+          "index": 14,
+          "startTime": 1278.317,
+          "duration": 92.083
+        },
+        {
+          "id": "frak-folg-1592-t16",
+          "title": "Teil 16 - Folge 5: Trojaner",
+          "index": 15,
+          "startTime": 1370.4,
+          "duration": 90.704
+        },
+        {
+          "id": "frak-folg-1592-t17",
+          "title": "Teil 17 - Folge 5: Trojaner",
+          "index": 16,
+          "startTime": 1461.104,
+          "duration": 90.419
+        },
+        {
+          "id": "frak-folg-1592-t18",
+          "title": "Teil 18 - Folge 5: Trojaner",
+          "index": 17,
+          "startTime": 1551.523,
+          "duration": 91.44
+        },
+        {
+          "id": "frak-folg-1592-t19",
+          "title": "Teil 19 - Folge 5: Trojaner",
+          "index": 18,
+          "startTime": 1642.963,
+          "duration": 90.409
+        },
+        {
+          "id": "frak-folg-1592-t20",
+          "title": "Teil 20 - Folge 5: Trojaner",
+          "index": 19,
+          "startTime": 1733.372,
+          "duration": 90.017
+        },
+        {
+          "id": "frak-folg-1592-t21",
+          "title": "Teil 21 - Folge 5: Trojaner",
+          "index": 20,
+          "startTime": 1823.389,
+          "duration": 90.307
+        },
+        {
+          "id": "frak-folg-1592-t22",
+          "title": "Teil 22 - Folge 5: Trojaner",
+          "index": 21,
+          "startTime": 1913.696,
+          "duration": 90.118
+        },
+        {
+          "id": "frak-folg-1592-t23",
+          "title": "Teil 23 - Folge 5: Trojaner",
+          "index": 22,
+          "startTime": 2003.814,
+          "duration": 90.115
+        },
+        {
+          "id": "frak-folg-1592-t24",
+          "title": "Teil 24 - Folge 5: Trojaner",
+          "index": 23,
+          "startTime": 2093.929,
+          "duration": 93.904
+        },
+        {
+          "id": "frak-folg-1592-t25",
+          "title": "Teil 25 - Folge 5: Trojaner",
+          "index": 24,
+          "startTime": 2187.833,
+          "duration": 93.024
+        },
+        {
+          "id": "frak-folg-1592-t26",
+          "title": "Teil 26 - Folge 5: Trojaner",
+          "index": 25,
+          "startTime": 2280.857,
+          "duration": 90.028
+        },
+        {
+          "id": "frak-folg-1592-t27",
+          "title": "Teil 27 - Folge 5: Trojaner",
+          "index": 26,
+          "startTime": 2370.885,
+          "duration": 90.351
+        },
+        {
+          "id": "frak-folg-1592-t28",
+          "title": "Teil 28 - Folge 5: Trojaner",
+          "index": 27,
+          "startTime": 2461.236,
+          "duration": 90.622
+        },
+        {
+          "id": "frak-folg-1592-t29",
+          "title": "Teil 29 - Folge 5: Trojaner",
+          "index": 28,
+          "startTime": 2551.858,
+          "duration": 90.12
+        },
+        {
+          "id": "frak-folg-1592-t30",
+          "title": "Teil 30 - Folge 5: Trojaner",
+          "index": 29,
+          "startTime": 2641.978,
+          "duration": 90.462
+        },
+        {
+          "id": "frak-folg-1592-t31",
+          "title": "Teil 31 - Folge 5: Trojaner",
+          "index": 30,
+          "startTime": 2732.44,
+          "duration": 90.112
+        },
+        {
+          "id": "frak-folg-1592-t32",
+          "title": "Teil 32 - Folge 5: Trojaner",
+          "index": 31,
+          "startTime": 2822.552,
+          "duration": 90.002
+        },
+        {
+          "id": "frak-folg-1592-t33",
+          "title": "Teil 33 - Folge 5: Trojaner",
+          "index": 32,
+          "startTime": 2912.554,
+          "duration": 90.054
+        },
+        {
+          "id": "frak-folg-1592-t34",
+          "title": "Teil 34 - Folge 5: Trojaner",
+          "index": 33,
+          "startTime": 3002.608,
+          "duration": 90.082
+        },
+        {
+          "id": "frak-folg-1592-t35",
+          "title": "Teil 35 - Folge 5: Trojaner",
+          "index": 34,
+          "startTime": 3092.69,
+          "duration": 101.257
+        },
+        {
+          "id": "frak-folg-1592-t36",
+          "title": "Teil 36 - Folge 5: Trojaner",
+          "index": 35,
+          "startTime": 3193.947,
+          "duration": 159.041
+        }
+      ]
+    },
+    {
+      "id": "1031580717",
+      "title": "Folge 05: Trojaner",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/be/ef/4c/beef4c49-4e6c-883e-44cc-f699287bf615/4260147774721_1448.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Hörspiel 'Folge 05: Trojaner' von der Band Fraktal.",
+      "totalDuration": 3352.984,
+      "platforms": {
+        "appleMusic": "1031580717"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-0717-t01",
+          "title": "Folge 5: Trojaner, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 13.133
+        },
+        {
+          "id": "frak-folg-0717-t02",
+          "title": "Folge 5: Trojaner, Teil 2",
+          "index": 1,
+          "startTime": 13.133,
+          "duration": 533.373
+        },
+        {
+          "id": "frak-folg-0717-t03",
+          "title": "Folge 5: Trojaner, Teil 3",
+          "index": 2,
+          "startTime": 546.506,
+          "duration": 205.133
+        },
+        {
+          "id": "frak-folg-0717-t04",
+          "title": "Folge 5: Trojaner, Teil 4",
+          "index": 3,
+          "startTime": 751.639,
+          "duration": 595.093
+        },
+        {
+          "id": "frak-folg-0717-t05",
+          "title": "Folge 5: Trojaner, Teil 5",
+          "index": 4,
+          "startTime": 1346.732,
+          "duration": 318.533
+        },
+        {
+          "id": "frak-folg-0717-t06",
+          "title": "Folge 5: Trojaner, Teil 6",
+          "index": 5,
+          "startTime": 1665.265,
+          "duration": 813.52
+        },
+        {
+          "id": "frak-folg-0717-t07",
+          "title": "Folge 5: Trojaner, Teil 7",
+          "index": 6,
+          "startTime": 2478.785,
+          "duration": 150.053
+        },
+        {
+          "id": "frak-folg-0717-t08",
+          "title": "Folge 5: Trojaner, Teil 8",
+          "index": 7,
+          "startTime": 2628.838,
+          "duration": 266.973
+        },
+        {
+          "id": "frak-folg-0717-t09",
+          "title": "Folge 5: Trojaner, Teil 9",
+          "index": 8,
+          "startTime": 2895.811,
+          "duration": 457.173
+        }
+      ]
+    },
+    {
+      "id": "1450380770",
+      "title": "Folge 6: Der Schleier von Kintaru",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/41/27/a7/4127a7e8-f58e-f192-6d83-f30943132d7f/4260507146960_3000.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel 'Folge 6: Der Schleier von Kintaru' von 'Fraktal' gehört zum Genre Hörspiele.",
+      "totalDuration": 4332.737,
+      "platforms": {
+        "appleMusic": "1450380770"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-0770-t01",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 118.52
+        },
+        {
+          "id": "frak-folg-0770-t02",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 2",
+          "index": 1,
+          "startTime": 118.52,
+          "duration": 105.667
+        },
+        {
+          "id": "frak-folg-0770-t03",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 3",
+          "index": 2,
+          "startTime": 224.187,
+          "duration": 101.467
+        },
+        {
+          "id": "frak-folg-0770-t04",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 4",
+          "index": 3,
+          "startTime": 325.654,
+          "duration": 122.827
+        },
+        {
+          "id": "frak-folg-0770-t05",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 5",
+          "index": 4,
+          "startTime": 448.481,
+          "duration": 141.28
+        },
+        {
+          "id": "frak-folg-0770-t06",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 6",
+          "index": 5,
+          "startTime": 589.761,
+          "duration": 100.333
+        },
+        {
+          "id": "frak-folg-0770-t07",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 7",
+          "index": 6,
+          "startTime": 690.094,
+          "duration": 124.08
+        },
+        {
+          "id": "frak-folg-0770-t08",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 8",
+          "index": 7,
+          "startTime": 814.174,
+          "duration": 109.867
+        },
+        {
+          "id": "frak-folg-0770-t09",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 9",
+          "index": 8,
+          "startTime": 924.041,
+          "duration": 116.093
+        },
+        {
+          "id": "frak-folg-0770-t10",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 10",
+          "index": 9,
+          "startTime": 1040.134,
+          "duration": 133.12
+        },
+        {
+          "id": "frak-folg-0770-t11",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 11",
+          "index": 10,
+          "startTime": 1173.254,
+          "duration": 99.373
+        },
+        {
+          "id": "frak-folg-0770-t12",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 12",
+          "index": 11,
+          "startTime": 1272.627,
+          "duration": 93.827
+        },
+        {
+          "id": "frak-folg-0770-t13",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 13",
+          "index": 12,
+          "startTime": 1366.454,
+          "duration": 99.667
+        },
+        {
+          "id": "frak-folg-0770-t14",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 14",
+          "index": 13,
+          "startTime": 1466.121,
+          "duration": 95.16
+        },
+        {
+          "id": "frak-folg-0770-t15",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 15",
+          "index": 14,
+          "startTime": 1561.281,
+          "duration": 121.667
+        },
+        {
+          "id": "frak-folg-0770-t16",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 16",
+          "index": 15,
+          "startTime": 1682.948,
+          "duration": 106.28
+        },
+        {
+          "id": "frak-folg-0770-t17",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 17",
+          "index": 16,
+          "startTime": 1789.228,
+          "duration": 99.973
+        },
+        {
+          "id": "frak-folg-0770-t18",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 18",
+          "index": 17,
+          "startTime": 1889.201,
+          "duration": 101.547
+        },
+        {
+          "id": "frak-folg-0770-t19",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 19",
+          "index": 18,
+          "startTime": 1990.748,
+          "duration": 121.427
+        },
+        {
+          "id": "frak-folg-0770-t20",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 20",
+          "index": 19,
+          "startTime": 2112.175,
+          "duration": 126.627
+        },
+        {
+          "id": "frak-folg-0770-t21",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 21",
+          "index": 20,
+          "startTime": 2238.802,
+          "duration": 93.92
+        },
+        {
+          "id": "frak-folg-0770-t22",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 22",
+          "index": 21,
+          "startTime": 2332.722,
+          "duration": 142.093
+        },
+        {
+          "id": "frak-folg-0770-t23",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 23",
+          "index": 22,
+          "startTime": 2474.815,
+          "duration": 112.667
+        },
+        {
+          "id": "frak-folg-0770-t24",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 24",
+          "index": 23,
+          "startTime": 2587.482,
+          "duration": 120.227
+        },
+        {
+          "id": "frak-folg-0770-t25",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 25",
+          "index": 24,
+          "startTime": 2707.709,
+          "duration": 108.227
+        },
+        {
+          "id": "frak-folg-0770-t26",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 26",
+          "index": 25,
+          "startTime": 2815.936,
+          "duration": 96.507
+        },
+        {
+          "id": "frak-folg-0770-t27",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 27",
+          "index": 26,
+          "startTime": 2912.443,
+          "duration": 115.96
+        },
+        {
+          "id": "frak-folg-0770-t28",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 28",
+          "index": 27,
+          "startTime": 3028.403,
+          "duration": 143.72
+        },
+        {
+          "id": "frak-folg-0770-t29",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 29",
+          "index": 28,
+          "startTime": 3172.123,
+          "duration": 112.467
+        },
+        {
+          "id": "frak-folg-0770-t30",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 30",
+          "index": 29,
+          "startTime": 3284.59,
+          "duration": 108.2
+        },
+        {
+          "id": "frak-folg-0770-t31",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 31",
+          "index": 30,
+          "startTime": 3392.79,
+          "duration": 169.88
+        },
+        {
+          "id": "frak-folg-0770-t32",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 32",
+          "index": 31,
+          "startTime": 3562.67,
+          "duration": 95.387
+        },
+        {
+          "id": "frak-folg-0770-t33",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 33",
+          "index": 32,
+          "startTime": 3658.057,
+          "duration": 91.227
+        },
+        {
+          "id": "frak-folg-0770-t34",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 34",
+          "index": 33,
+          "startTime": 3749.284,
+          "duration": 95.627
+        },
+        {
+          "id": "frak-folg-0770-t35",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 35",
+          "index": 34,
+          "startTime": 3844.911,
+          "duration": 117.6
+        },
+        {
+          "id": "frak-folg-0770-t36",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 36",
+          "index": 35,
+          "startTime": 3962.511,
+          "duration": 114.973
+        },
+        {
+          "id": "frak-folg-0770-t37",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 37",
+          "index": 36,
+          "startTime": 4077.484,
+          "duration": 101.293
+        },
+        {
+          "id": "frak-folg-0770-t38",
+          "title": "Folge 6: Der Schleier von Kintaru, Teil 38",
+          "index": 37,
+          "startTime": 4178.777,
+          "duration": 153.96
+        }
+      ]
+    },
+    {
+      "id": "1462069581",
+      "title": "Folge 7: Hinter dem Zaun",
+      "episodeNumber": 7,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4e/ef/e7/4eefe777-4ff7-7d9e-a7d5-d31eed466fa7/4260507150745_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält das Hörspiel 'Folge 7: Hinter dem Zaun' von Fraktal, das sich auf ein spannendes Hörspiel-Erlebnis konzentriert.",
+      "totalDuration": 4390.72,
+      "platforms": {
+        "appleMusic": "1462069581"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-9581-t01",
+          "title": "Folge 7: Hinter dem Zaun, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 11.76
+        },
+        {
+          "id": "frak-folg-9581-t02",
+          "title": "Folge 7: Hinter dem Zaun, Teil 2",
+          "index": 1,
+          "startTime": 11.76,
+          "duration": 92.2
+        },
+        {
+          "id": "frak-folg-9581-t03",
+          "title": "Folge 7: Hinter dem Zaun, Teil 3",
+          "index": 2,
+          "startTime": 103.96,
+          "duration": 94.427
+        },
+        {
+          "id": "frak-folg-9581-t04",
+          "title": "Folge 7: Hinter dem Zaun, Teil 4",
+          "index": 3,
+          "startTime": 198.387,
+          "duration": 95.36
+        },
+        {
+          "id": "frak-folg-9581-t05",
+          "title": "Folge 7: Hinter dem Zaun, Teil 5",
+          "index": 4,
+          "startTime": 293.747,
+          "duration": 120.213
+        },
+        {
+          "id": "frak-folg-9581-t06",
+          "title": "Folge 7: Hinter dem Zaun, Teil 6",
+          "index": 5,
+          "startTime": 413.96,
+          "duration": 122.867
+        },
+        {
+          "id": "frak-folg-9581-t07",
+          "title": "Folge 7: Hinter dem Zaun, Teil 7",
+          "index": 6,
+          "startTime": 536.827,
+          "duration": 151.72
+        },
+        {
+          "id": "frak-folg-9581-t08",
+          "title": "Folge 7: Hinter dem Zaun, Teil 8",
+          "index": 7,
+          "startTime": 688.547,
+          "duration": 118.387
+        },
+        {
+          "id": "frak-folg-9581-t09",
+          "title": "Folge 7: Hinter dem Zaun, Teil 9",
+          "index": 8,
+          "startTime": 806.934,
+          "duration": 123.173
+        },
+        {
+          "id": "frak-folg-9581-t10",
+          "title": "Folge 7: Hinter dem Zaun, Teil 10",
+          "index": 9,
+          "startTime": 930.107,
+          "duration": 116.907
+        },
+        {
+          "id": "frak-folg-9581-t11",
+          "title": "Folge 7: Hinter dem Zaun, Teil 11",
+          "index": 10,
+          "startTime": 1047.014,
+          "duration": 133.787
+        },
+        {
+          "id": "frak-folg-9581-t12",
+          "title": "Folge 7: Hinter dem Zaun, Teil 12",
+          "index": 11,
+          "startTime": 1180.801,
+          "duration": 110.0
+        },
+        {
+          "id": "frak-folg-9581-t13",
+          "title": "Folge 7: Hinter dem Zaun, Teil 13",
+          "index": 12,
+          "startTime": 1290.801,
+          "duration": 106.027
+        },
+        {
+          "id": "frak-folg-9581-t14",
+          "title": "Folge 7: Hinter dem Zaun, Teil 14",
+          "index": 13,
+          "startTime": 1396.828,
+          "duration": 103.227
+        },
+        {
+          "id": "frak-folg-9581-t15",
+          "title": "Folge 7: Hinter dem Zaun, Teil 15",
+          "index": 14,
+          "startTime": 1500.055,
+          "duration": 122.787
+        },
+        {
+          "id": "frak-folg-9581-t16",
+          "title": "Folge 7: Hinter dem Zaun, Teil 16",
+          "index": 15,
+          "startTime": 1622.842,
+          "duration": 95.453
+        },
+        {
+          "id": "frak-folg-9581-t17",
+          "title": "Folge 7: Hinter dem Zaun, Teil 17",
+          "index": 16,
+          "startTime": 1718.295,
+          "duration": 93.133
+        },
+        {
+          "id": "frak-folg-9581-t18",
+          "title": "Folge 7: Hinter dem Zaun, Teil 18",
+          "index": 17,
+          "startTime": 1811.428,
+          "duration": 107.787
+        },
+        {
+          "id": "frak-folg-9581-t19",
+          "title": "Folge 7: Hinter dem Zaun, Teil 19",
+          "index": 18,
+          "startTime": 1919.215,
+          "duration": 98.693
+        },
+        {
+          "id": "frak-folg-9581-t20",
+          "title": "Folge 7: Hinter dem Zaun, Teil 20",
+          "index": 19,
+          "startTime": 2017.908,
+          "duration": 112.147
+        },
+        {
+          "id": "frak-folg-9581-t21",
+          "title": "Folge 7: Hinter dem Zaun, Teil 21",
+          "index": 20,
+          "startTime": 2130.055,
+          "duration": 95.28
+        },
+        {
+          "id": "frak-folg-9581-t22",
+          "title": "Folge 7: Hinter dem Zaun, Teil 22",
+          "index": 21,
+          "startTime": 2225.335,
+          "duration": 102.027
+        },
+        {
+          "id": "frak-folg-9581-t23",
+          "title": "Folge 7: Hinter dem Zaun, Teil 23",
+          "index": 22,
+          "startTime": 2327.362,
+          "duration": 136.693
+        },
+        {
+          "id": "frak-folg-9581-t24",
+          "title": "Folge 7: Hinter dem Zaun, Teil 24",
+          "index": 23,
+          "startTime": 2464.055,
+          "duration": 117.36
+        },
+        {
+          "id": "frak-folg-9581-t25",
+          "title": "Folge 7: Hinter dem Zaun, Teil 25",
+          "index": 24,
+          "startTime": 2581.415,
+          "duration": 162.933
+        },
+        {
+          "id": "frak-folg-9581-t26",
+          "title": "Folge 7: Hinter dem Zaun, Teil 26",
+          "index": 25,
+          "startTime": 2744.348,
+          "duration": 96.453
+        },
+        {
+          "id": "frak-folg-9581-t27",
+          "title": "Folge 7: Hinter dem Zaun, Teil 27",
+          "index": 26,
+          "startTime": 2840.801,
+          "duration": 94.32
+        },
+        {
+          "id": "frak-folg-9581-t28",
+          "title": "Folge 7: Hinter dem Zaun, Teil 28",
+          "index": 27,
+          "startTime": 2935.121,
+          "duration": 104.707
+        },
+        {
+          "id": "frak-folg-9581-t29",
+          "title": "Folge 7: Hinter dem Zaun, Teil 29",
+          "index": 28,
+          "startTime": 3039.828,
+          "duration": 100.053
+        },
+        {
+          "id": "frak-folg-9581-t30",
+          "title": "Folge 7: Hinter dem Zaun, Teil 30",
+          "index": 29,
+          "startTime": 3139.881,
+          "duration": 91.573
+        },
+        {
+          "id": "frak-folg-9581-t31",
+          "title": "Folge 7: Hinter dem Zaun, Teil 31",
+          "index": 30,
+          "startTime": 3231.454,
+          "duration": 103.893
+        },
+        {
+          "id": "frak-folg-9581-t32",
+          "title": "Folge 7: Hinter dem Zaun, Teil 32",
+          "index": 31,
+          "startTime": 3335.347,
+          "duration": 130.4
+        },
+        {
+          "id": "frak-folg-9581-t33",
+          "title": "Folge 7: Hinter dem Zaun, Teil 33",
+          "index": 32,
+          "startTime": 3465.747,
+          "duration": 99.28
+        },
+        {
+          "id": "frak-folg-9581-t34",
+          "title": "Folge 7: Hinter dem Zaun, Teil 34",
+          "index": 33,
+          "startTime": 3565.027,
+          "duration": 100.36
+        },
+        {
+          "id": "frak-folg-9581-t35",
+          "title": "Folge 7: Hinter dem Zaun, Teil 35",
+          "index": 34,
+          "startTime": 3665.387,
+          "duration": 164.693
+        },
+        {
+          "id": "frak-folg-9581-t36",
+          "title": "Folge 7: Hinter dem Zaun, Teil 36",
+          "index": 35,
+          "startTime": 3830.08,
+          "duration": 169.933
+        },
+        {
+          "id": "frak-folg-9581-t37",
+          "title": "Folge 7: Hinter dem Zaun, Teil 37",
+          "index": 36,
+          "startTime": 4000.013,
+          "duration": 96.747
+        },
+        {
+          "id": "frak-folg-9581-t38",
+          "title": "Folge 7: Hinter dem Zaun, Teil 38",
+          "index": 37,
+          "startTime": 4096.76,
+          "duration": 97.2
+        },
+        {
+          "id": "frak-folg-9581-t39",
+          "title": "Folge 7: Hinter dem Zaun, Teil 39",
+          "index": 38,
+          "startTime": 4193.96,
+          "duration": 90.773
+        },
+        {
+          "id": "frak-folg-9581-t40",
+          "title": "Folge 7: Hinter dem Zaun, Teil 40",
+          "index": 39,
+          "startTime": 4284.733,
+          "duration": 105.987
+        }
+      ]
+    },
+    {
+      "id": "1465882446",
+      "title": "Folge 8: Der leise Tod",
+      "episodeNumber": 8,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/87/f5/43/87f543a3-2f20-4d93-1843-1056bcff5341/4260507151520_3000.jpg/100x100bb.jpg",
+      "description": "Ein spannender Krimi mit 32 Folgen, der sich um den leisen Tod dreht.",
+      "totalDuration": 3806.2,
+      "platforms": {
+        "appleMusic": "1465882446"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-2446-t01",
+          "title": "Folge 8: Der leise Tod, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 12.52
+        },
+        {
+          "id": "frak-folg-2446-t02",
+          "title": "Folge 8: Der leise Tod, Teil 2",
+          "index": 1,
+          "startTime": 12.52,
+          "duration": 97.093
+        },
+        {
+          "id": "frak-folg-2446-t03",
+          "title": "Folge 8: Der leise Tod, Teil 3",
+          "index": 2,
+          "startTime": 109.613,
+          "duration": 190.68
+        },
+        {
+          "id": "frak-folg-2446-t04",
+          "title": "Folge 8: Der leise Tod, Teil 4",
+          "index": 3,
+          "startTime": 300.293,
+          "duration": 161.76
+        },
+        {
+          "id": "frak-folg-2446-t05",
+          "title": "Folge 8: Der leise Tod, Teil 5",
+          "index": 4,
+          "startTime": 462.053,
+          "duration": 142.36
+        },
+        {
+          "id": "frak-folg-2446-t06",
+          "title": "Folge 8: Der leise Tod, Teil 6",
+          "index": 5,
+          "startTime": 604.413,
+          "duration": 103.707
+        },
+        {
+          "id": "frak-folg-2446-t07",
+          "title": "Folge 8: Der leise Tod, Teil 7",
+          "index": 6,
+          "startTime": 708.12,
+          "duration": 96.92
+        },
+        {
+          "id": "frak-folg-2446-t08",
+          "title": "Folge 8: Der leise Tod, Teil 8",
+          "index": 7,
+          "startTime": 805.04,
+          "duration": 165.707
+        },
+        {
+          "id": "frak-folg-2446-t09",
+          "title": "Folge 8: Der leise Tod, Teil 9",
+          "index": 8,
+          "startTime": 970.747,
+          "duration": 180.76
+        },
+        {
+          "id": "frak-folg-2446-t10",
+          "title": "Folge 8: Der leise Tod, Teil 10",
+          "index": 9,
+          "startTime": 1151.507,
+          "duration": 162.2
+        },
+        {
+          "id": "frak-folg-2446-t11",
+          "title": "Folge 8: Der leise Tod, Teil 11",
+          "index": 10,
+          "startTime": 1313.707,
+          "duration": 108.973
+        },
+        {
+          "id": "frak-folg-2446-t12",
+          "title": "Folge 8: Der leise Tod, Teil 12",
+          "index": 11,
+          "startTime": 1422.68,
+          "duration": 105.4
+        },
+        {
+          "id": "frak-folg-2446-t13",
+          "title": "Folge 8: Der leise Tod, Teil 13",
+          "index": 12,
+          "startTime": 1528.08,
+          "duration": 97.707
+        },
+        {
+          "id": "frak-folg-2446-t14",
+          "title": "Folge 8: Der leise Tod, Teil 14",
+          "index": 13,
+          "startTime": 1625.787,
+          "duration": 120.827
+        },
+        {
+          "id": "frak-folg-2446-t15",
+          "title": "Folge 8: Der leise Tod, Teil 15",
+          "index": 14,
+          "startTime": 1746.614,
+          "duration": 94.373
+        },
+        {
+          "id": "frak-folg-2446-t16",
+          "title": "Folge 8: Der leise Tod, Teil 16",
+          "index": 15,
+          "startTime": 1840.987,
+          "duration": 95.467
+        },
+        {
+          "id": "frak-folg-2446-t17",
+          "title": "Folge 8: Der leise Tod, Teil 17",
+          "index": 16,
+          "startTime": 1936.454,
+          "duration": 108.173
+        },
+        {
+          "id": "frak-folg-2446-t18",
+          "title": "Folge 8: Der leise Tod, Teil 18",
+          "index": 17,
+          "startTime": 2044.627,
+          "duration": 108.48
+        },
+        {
+          "id": "frak-folg-2446-t19",
+          "title": "Folge 8: Der leise Tod, Teil 19",
+          "index": 18,
+          "startTime": 2153.107,
+          "duration": 130.773
+        },
+        {
+          "id": "frak-folg-2446-t20",
+          "title": "Folge 8: Der leise Tod, Teil 20",
+          "index": 19,
+          "startTime": 2283.88,
+          "duration": 129.627
+        },
+        {
+          "id": "frak-folg-2446-t21",
+          "title": "Folge 8: Der leise Tod, Teil 21",
+          "index": 20,
+          "startTime": 2413.507,
+          "duration": 93.653
+        },
+        {
+          "id": "frak-folg-2446-t22",
+          "title": "Folge 8: Der leise Tod, Teil 22",
+          "index": 21,
+          "startTime": 2507.16,
+          "duration": 91.72
+        },
+        {
+          "id": "frak-folg-2446-t23",
+          "title": "Folge 8: Der leise Tod, Teil 23",
+          "index": 22,
+          "startTime": 2598.88,
+          "duration": 129.773
+        },
+        {
+          "id": "frak-folg-2446-t24",
+          "title": "Folge 8: Der leise Tod, Teil 24",
+          "index": 23,
+          "startTime": 2728.653,
+          "duration": 164.093
+        },
+        {
+          "id": "frak-folg-2446-t25",
+          "title": "Folge 8: Der leise Tod, Teil 25",
+          "index": 24,
+          "startTime": 2892.746,
+          "duration": 118.067
+        },
+        {
+          "id": "frak-folg-2446-t26",
+          "title": "Folge 8: Der leise Tod, Teil 26",
+          "index": 25,
+          "startTime": 3010.813,
+          "duration": 119.893
+        },
+        {
+          "id": "frak-folg-2446-t27",
+          "title": "Folge 8: Der leise Tod, Teil 27",
+          "index": 26,
+          "startTime": 3130.706,
+          "duration": 132.213
+        },
+        {
+          "id": "frak-folg-2446-t28",
+          "title": "Folge 8: Der leise Tod, Teil 28",
+          "index": 27,
+          "startTime": 3262.919,
+          "duration": 99.32
+        },
+        {
+          "id": "frak-folg-2446-t29",
+          "title": "Folge 8: Der leise Tod, Teil 29",
+          "index": 28,
+          "startTime": 3362.239,
+          "duration": 119.627
+        },
+        {
+          "id": "frak-folg-2446-t30",
+          "title": "Folge 8: Der leise Tod, Teil 30",
+          "index": 29,
+          "startTime": 3481.866,
+          "duration": 91.227
+        },
+        {
+          "id": "frak-folg-2446-t31",
+          "title": "Folge 8: Der leise Tod, Teil 31",
+          "index": 30,
+          "startTime": 3573.093,
+          "duration": 131.32
+        },
+        {
+          "id": "frak-folg-2446-t32",
+          "title": "Folge 8: Der leise Tod, Teil 32",
+          "index": 31,
+          "startTime": 3704.413,
+          "duration": 101.787
+        }
+      ]
+    },
+    {
+      "id": "1476429246",
+      "title": "Folge 9: Die Traummaschine",
+      "episodeNumber": 9,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/78/24/3e/78243ec3-a33f-1c8d-00a7-0b33c52adc95/4260507153272_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 9: Die Traummaschine' von Fraktal. Es enthält insgesamt 38 Tracks im Genre Hörspiele.",
+      "totalDuration": 4280.785,
+      "platforms": {
+        "appleMusic": "1476429246"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-9246-t01",
+          "title": "Teil 1 - Folge 9: Die Traummaschine",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 13.747
+        },
+        {
+          "id": "frak-folg-9246-t02",
+          "title": "Teil 2 - Folge 9: Die Traummaschine",
+          "index": 1,
+          "startTime": 13.747,
+          "duration": 105.64
+        },
+        {
+          "id": "frak-folg-9246-t03",
+          "title": "Teil 3 - Folge 9: Die Traummaschine",
+          "index": 2,
+          "startTime": 119.387,
+          "duration": 101.587
+        },
+        {
+          "id": "frak-folg-9246-t04",
+          "title": "Teil 4 - Folge 9: Die Traummaschine",
+          "index": 3,
+          "startTime": 220.974,
+          "duration": 110.787
+        },
+        {
+          "id": "frak-folg-9246-t05",
+          "title": "Teil 5 - Folge 9: Die Traummaschine",
+          "index": 4,
+          "startTime": 331.761,
+          "duration": 108.067
+        },
+        {
+          "id": "frak-folg-9246-t06",
+          "title": "Teil 6 - Folge 9: Die Traummaschine",
+          "index": 5,
+          "startTime": 439.828,
+          "duration": 117.8
+        },
+        {
+          "id": "frak-folg-9246-t07",
+          "title": "Teil 7 - Folge 9: Die Traummaschine",
+          "index": 6,
+          "startTime": 557.628,
+          "duration": 104.72
+        },
+        {
+          "id": "frak-folg-9246-t08",
+          "title": "Teil 8 - Folge 9: Die Traummaschine",
+          "index": 7,
+          "startTime": 662.348,
+          "duration": 145.533
+        },
+        {
+          "id": "frak-folg-9246-t09",
+          "title": "Teil 9 - Folge 9: Die Traummaschine",
+          "index": 8,
+          "startTime": 807.881,
+          "duration": 101.253
+        },
+        {
+          "id": "frak-folg-9246-t10",
+          "title": "Teil 10 - Folge 9: Die Traummaschine",
+          "index": 9,
+          "startTime": 909.134,
+          "duration": 109.0
+        },
+        {
+          "id": "frak-folg-9246-t11",
+          "title": "Teil 11 - Folge 9: Die Traummaschine",
+          "index": 10,
+          "startTime": 1018.134,
+          "duration": 107.107
+        },
+        {
+          "id": "frak-folg-9246-t12",
+          "title": "Teil 12 - Folge 9: Die Traummaschine",
+          "index": 11,
+          "startTime": 1125.241,
+          "duration": 108.573
+        },
+        {
+          "id": "frak-folg-9246-t13",
+          "title": "Teil 13 - Folge 9: Die Traummaschine",
+          "index": 12,
+          "startTime": 1233.814,
+          "duration": 107.12
+        },
+        {
+          "id": "frak-folg-9246-t14",
+          "title": "Teil 14 - Folge 9: Die Traummaschine",
+          "index": 13,
+          "startTime": 1340.934,
+          "duration": 191.293
+        },
+        {
+          "id": "frak-folg-9246-t15",
+          "title": "Teil 15 - Folge 9: Die Traummaschine",
+          "index": 14,
+          "startTime": 1532.227,
+          "duration": 112.893
+        },
+        {
+          "id": "frak-folg-9246-t16",
+          "title": "Teil 16 - Folge 9: Die Traummaschine",
+          "index": 15,
+          "startTime": 1645.12,
+          "duration": 109.187
+        },
+        {
+          "id": "frak-folg-9246-t17",
+          "title": "Teil 17 - Folge 9: Die Traummaschine",
+          "index": 16,
+          "startTime": 1754.307,
+          "duration": 101.773
+        },
+        {
+          "id": "frak-folg-9246-t18",
+          "title": "Teil 18 - Folge 9: Die Traummaschine",
+          "index": 17,
+          "startTime": 1856.08,
+          "duration": 106.213
+        },
+        {
+          "id": "frak-folg-9246-t19",
+          "title": "Teil 19 - Folge 9: Die Traummaschine",
+          "index": 18,
+          "startTime": 1962.293,
+          "duration": 132.893
+        },
+        {
+          "id": "frak-folg-9246-t20",
+          "title": "Teil 20 - Folge 9: Die Traummaschine",
+          "index": 19,
+          "startTime": 2095.186,
+          "duration": 103.453
+        },
+        {
+          "id": "frak-folg-9246-t21",
+          "title": "Teil 21 - Folge 9: Die Traummaschine",
+          "index": 20,
+          "startTime": 2198.639,
+          "duration": 104.24
+        },
+        {
+          "id": "frak-folg-9246-t22",
+          "title": "Teil 22 - Folge 9: Die Traummaschine",
+          "index": 21,
+          "startTime": 2302.879,
+          "duration": 103.613
+        },
+        {
+          "id": "frak-folg-9246-t23",
+          "title": "Teil 23 - Folge 9: Die Traummaschine",
+          "index": 22,
+          "startTime": 2406.492,
+          "duration": 111.347
+        },
+        {
+          "id": "frak-folg-9246-t24",
+          "title": "Teil 24 - Folge 9: Die Traummaschine",
+          "index": 23,
+          "startTime": 2517.839,
+          "duration": 105.253
+        },
+        {
+          "id": "frak-folg-9246-t25",
+          "title": "Teil 25 - Folge 9: Die Traummaschine",
+          "index": 24,
+          "startTime": 2623.092,
+          "duration": 188.493
+        },
+        {
+          "id": "frak-folg-9246-t26",
+          "title": "Teil 26 - Folge 9: Die Traummaschine",
+          "index": 25,
+          "startTime": 2811.585,
+          "duration": 107.773
+        },
+        {
+          "id": "frak-folg-9246-t27",
+          "title": "Teil 27 - Folge 9: Die Traummaschine",
+          "index": 26,
+          "startTime": 2919.358,
+          "duration": 107.973
+        },
+        {
+          "id": "frak-folg-9246-t28",
+          "title": "Teil 28 - Folge 9: Die Traummaschine",
+          "index": 27,
+          "startTime": 3027.331,
+          "duration": 103.613
+        },
+        {
+          "id": "frak-folg-9246-t29",
+          "title": "Teil 29 - Folge 9: Die Traummaschine",
+          "index": 28,
+          "startTime": 3130.944,
+          "duration": 104.6
+        },
+        {
+          "id": "frak-folg-9246-t30",
+          "title": "Teil 30 - Folge 9: Die Traummaschine",
+          "index": 29,
+          "startTime": 3235.544,
+          "duration": 111.187
+        },
+        {
+          "id": "frak-folg-9246-t31",
+          "title": "Teil 31 - Folge 9: Die Traummaschine",
+          "index": 30,
+          "startTime": 3346.731,
+          "duration": 105.973
+        },
+        {
+          "id": "frak-folg-9246-t32",
+          "title": "Teil 32 - Folge 9: Die Traummaschine",
+          "index": 31,
+          "startTime": 3452.704,
+          "duration": 116.427
+        },
+        {
+          "id": "frak-folg-9246-t33",
+          "title": "Teil 33 - Folge 9: Die Traummaschine",
+          "index": 32,
+          "startTime": 3569.131,
+          "duration": 102.96
+        },
+        {
+          "id": "frak-folg-9246-t34",
+          "title": "Teil 34 - Folge 9: Die Traummaschine",
+          "index": 33,
+          "startTime": 3672.091,
+          "duration": 103.867
+        },
+        {
+          "id": "frak-folg-9246-t35",
+          "title": "Teil 35 - Folge 9: Die Traummaschine",
+          "index": 34,
+          "startTime": 3775.958,
+          "duration": 126.093
+        },
+        {
+          "id": "frak-folg-9246-t36",
+          "title": "Teil 36 - Folge 9: Die Traummaschine",
+          "index": 35,
+          "startTime": 3902.051,
+          "duration": 159.187
+        },
+        {
+          "id": "frak-folg-9246-t37",
+          "title": "Teil 37 - Folge 9: Die Traummaschine",
+          "index": 36,
+          "startTime": 4061.238,
+          "duration": 106.84
+        },
+        {
+          "id": "frak-folg-9246-t38",
+          "title": "Teil 38 - Folge 9: Die Traummaschine",
+          "index": 37,
+          "startTime": 4168.078,
+          "duration": 112.707
+        }
+      ]
+    },
+    {
+      "id": "1481062111",
+      "title": "Folge 10: Die Nacht der Verschwörer",
+      "episodeNumber": 10,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/16/38/78/163878cc-c674-79a0-30ae-0017c1820000/4260507153807_3000.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel über Verschwörungen in der Nacht.",
+      "totalDuration": 3441.932,
+      "platforms": {
+        "appleMusic": "1481062111"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-2111-t01",
+          "title": "Teil 1 - Folge 10: Die Nacht der Verschwörer",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 15.907
+        },
+        {
+          "id": "frak-folg-2111-t02",
+          "title": "Teil 2 - Folge 10: Die Nacht der Verschwörer",
+          "index": 1,
+          "startTime": 15.907,
+          "duration": 131.307
+        },
+        {
+          "id": "frak-folg-2111-t03",
+          "title": "Teil 3 - Folge 10: Die Nacht der Verschwörer",
+          "index": 2,
+          "startTime": 147.214,
+          "duration": 142.653
+        },
+        {
+          "id": "frak-folg-2111-t04",
+          "title": "Teil 4 - Folge 10: Die Nacht der Verschwörer",
+          "index": 3,
+          "startTime": 289.867,
+          "duration": 200.933
+        },
+        {
+          "id": "frak-folg-2111-t05",
+          "title": "Teil 5 - Folge 10: Die Nacht der Verschwörer",
+          "index": 4,
+          "startTime": 490.8,
+          "duration": 220.293
+        },
+        {
+          "id": "frak-folg-2111-t06",
+          "title": "Teil 6 - Folge 10: Die Nacht der Verschwörer",
+          "index": 5,
+          "startTime": 711.093,
+          "duration": 143.613
+        },
+        {
+          "id": "frak-folg-2111-t07",
+          "title": "Teil 7 - Folge 10: Die Nacht der Verschwörer",
+          "index": 6,
+          "startTime": 854.706,
+          "duration": 147.787
+        },
+        {
+          "id": "frak-folg-2111-t08",
+          "title": "Teil 8 - Folge 10: Die Nacht der Verschwörer",
+          "index": 7,
+          "startTime": 1002.493,
+          "duration": 171.813
+        },
+        {
+          "id": "frak-folg-2111-t09",
+          "title": "Teil 9 - Folge 10: Die Nacht der Verschwörer",
+          "index": 8,
+          "startTime": 1174.306,
+          "duration": 102.093
+        },
+        {
+          "id": "frak-folg-2111-t10",
+          "title": "Teil 10 - Folge 10: Die Nacht der Verschwörer",
+          "index": 9,
+          "startTime": 1276.399,
+          "duration": 113.787
+        },
+        {
+          "id": "frak-folg-2111-t11",
+          "title": "Teil 11 - Folge 10: Die Nacht der Verschwörer",
+          "index": 10,
+          "startTime": 1390.186,
+          "duration": 114.573
+        },
+        {
+          "id": "frak-folg-2111-t12",
+          "title": "Teil 12 - Folge 10: Die Nacht der Verschwörer",
+          "index": 11,
+          "startTime": 1504.759,
+          "duration": 113.653
+        },
+        {
+          "id": "frak-folg-2111-t13",
+          "title": "Teil 13 - Folge 10: Die Nacht der Verschwörer",
+          "index": 12,
+          "startTime": 1618.412,
+          "duration": 149.987
+        },
+        {
+          "id": "frak-folg-2111-t14",
+          "title": "Teil 14 - Folge 10: Die Nacht der Verschwörer",
+          "index": 13,
+          "startTime": 1768.399,
+          "duration": 109.293
+        },
+        {
+          "id": "frak-folg-2111-t15",
+          "title": "Teil 15 - Folge 10: Die Nacht der Verschwörer",
+          "index": 14,
+          "startTime": 1877.692,
+          "duration": 112.52
+        },
+        {
+          "id": "frak-folg-2111-t16",
+          "title": "Teil 16 - Folge 10: Die Nacht der Verschwörer",
+          "index": 15,
+          "startTime": 1990.212,
+          "duration": 114.52
+        },
+        {
+          "id": "frak-folg-2111-t17",
+          "title": "Teil 17 - Folge 10: Die Nacht der Verschwörer",
+          "index": 16,
+          "startTime": 2104.732,
+          "duration": 113.693
+        },
+        {
+          "id": "frak-folg-2111-t18",
+          "title": "Teil 18 - Folge 10: Die Nacht der Verschwörer",
+          "index": 17,
+          "startTime": 2218.425,
+          "duration": 152.12
+        },
+        {
+          "id": "frak-folg-2111-t19",
+          "title": "Teil 19 - Folge 10: Die Nacht der Verschwörer",
+          "index": 18,
+          "startTime": 2370.545,
+          "duration": 104.027
+        },
+        {
+          "id": "frak-folg-2111-t20",
+          "title": "Teil 20 - Folge 10: Die Nacht der Verschwörer",
+          "index": 19,
+          "startTime": 2474.572,
+          "duration": 106.12
+        },
+        {
+          "id": "frak-folg-2111-t21",
+          "title": "Teil 21 - Folge 10: Die Nacht der Verschwörer",
+          "index": 20,
+          "startTime": 2580.692,
+          "duration": 133.213
+        },
+        {
+          "id": "frak-folg-2111-t22",
+          "title": "Teil 22 - Folge 10: Die Nacht der Verschwörer",
+          "index": 21,
+          "startTime": 2713.905,
+          "duration": 122.387
+        },
+        {
+          "id": "frak-folg-2111-t23",
+          "title": "Teil 23 - Folge 10: Die Nacht der Verschwörer",
+          "index": 22,
+          "startTime": 2836.292,
+          "duration": 107.04
+        },
+        {
+          "id": "frak-folg-2111-t24",
+          "title": "Teil 24 - Folge 10: Die Nacht der Verschwörer",
+          "index": 23,
+          "startTime": 2943.332,
+          "duration": 114.28
+        },
+        {
+          "id": "frak-folg-2111-t25",
+          "title": "Teil 25 - Folge 10: Die Nacht der Verschwörer",
+          "index": 24,
+          "startTime": 3057.612,
+          "duration": 105.067
+        },
+        {
+          "id": "frak-folg-2111-t26",
+          "title": "Teil 26 - Folge 10: Die Nacht der Verschwörer",
+          "index": 25,
+          "startTime": 3162.679,
+          "duration": 125.84
+        },
+        {
+          "id": "frak-folg-2111-t27",
+          "title": "Teil 27 - Folge 10: Die Nacht der Verschwörer",
+          "index": 26,
+          "startTime": 3288.519,
+          "duration": 153.413
+        }
+      ]
+    },
+    {
+      "id": "1499110530",
+      "title": "Folge 11: Krieger des Taroximperiums",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/35/ed/30/35ed306d-412a-cbb8-5da3-ce52f5f498e6/4260507157478_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 35 Tracks von einem Hörspiel mit dem Titel 'Folge 11: Krieger des Taroximperiums' von Fraktal.",
+      "totalDuration": 3184.619,
+      "platforms": {
+        "appleMusic": "1499110530"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-0530-t01",
+          "title": "Teil 1 - Folge 11: Krieger des Taroximperiums",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.004
+        },
+        {
+          "id": "frak-folg-0530-t02",
+          "title": "Teil 2 - Folge 11: Krieger des Taroximperiums",
+          "index": 1,
+          "startTime": 90.004,
+          "duration": 93.342
+        },
+        {
+          "id": "frak-folg-0530-t03",
+          "title": "Teil 3 - Folge 11: Krieger des Taroximperiums",
+          "index": 2,
+          "startTime": 183.346,
+          "duration": 93.176
+        },
+        {
+          "id": "frak-folg-0530-t04",
+          "title": "Teil 4 - Folge 11: Krieger des Taroximperiums",
+          "index": 3,
+          "startTime": 276.522,
+          "duration": 90.671
+        },
+        {
+          "id": "frak-folg-0530-t05",
+          "title": "Teil 5 - Folge 11: Krieger des Taroximperiums",
+          "index": 4,
+          "startTime": 367.193,
+          "duration": 90.009
+        },
+        {
+          "id": "frak-folg-0530-t06",
+          "title": "Teil 6 - Folge 11: Krieger des Taroximperiums",
+          "index": 5,
+          "startTime": 457.202,
+          "duration": 90.149
+        },
+        {
+          "id": "frak-folg-0530-t07",
+          "title": "Teil 7 - Folge 11: Krieger des Taroximperiums",
+          "index": 6,
+          "startTime": 547.351,
+          "duration": 90.1
+        },
+        {
+          "id": "frak-folg-0530-t08",
+          "title": "Teil 8 - Folge 11: Krieger des Taroximperiums",
+          "index": 7,
+          "startTime": 637.451,
+          "duration": 92.407
+        },
+        {
+          "id": "frak-folg-0530-t09",
+          "title": "Teil 9 - Folge 11: Krieger des Taroximperiums",
+          "index": 8,
+          "startTime": 729.858,
+          "duration": 90.052
+        },
+        {
+          "id": "frak-folg-0530-t10",
+          "title": "Teil 10 - Folge 11: Krieger des Taroximperiums",
+          "index": 9,
+          "startTime": 819.91,
+          "duration": 91.401
+        },
+        {
+          "id": "frak-folg-0530-t11",
+          "title": "Teil 11 - Folge 11: Krieger des Taroximperiums",
+          "index": 10,
+          "startTime": 911.311,
+          "duration": 90.006
+        },
+        {
+          "id": "frak-folg-0530-t12",
+          "title": "Teil 12 - Folge 11: Krieger des Taroximperiums",
+          "index": 11,
+          "startTime": 1001.317,
+          "duration": 90.409
+        },
+        {
+          "id": "frak-folg-0530-t13",
+          "title": "Teil 13 - Folge 11: Krieger des Taroximperiums",
+          "index": 12,
+          "startTime": 1091.726,
+          "duration": 90.006
+        },
+        {
+          "id": "frak-folg-0530-t14",
+          "title": "Teil 14 - Folge 11: Krieger des Taroximperiums",
+          "index": 13,
+          "startTime": 1181.732,
+          "duration": 90.939
+        },
+        {
+          "id": "frak-folg-0530-t15",
+          "title": "Teil 15 - Folge 11: Krieger des Taroximperiums",
+          "index": 14,
+          "startTime": 1272.671,
+          "duration": 90.039
+        },
+        {
+          "id": "frak-folg-0530-t16",
+          "title": "Teil 16 - Folge 11: Krieger des Taroximperiums",
+          "index": 15,
+          "startTime": 1362.71,
+          "duration": 90.629
+        },
+        {
+          "id": "frak-folg-0530-t17",
+          "title": "Teil 17 - Folge 11: Krieger des Taroximperiums",
+          "index": 16,
+          "startTime": 1453.339,
+          "duration": 93.037
+        },
+        {
+          "id": "frak-folg-0530-t18",
+          "title": "Teil 18 - Folge 11: Krieger des Taroximperiums",
+          "index": 17,
+          "startTime": 1546.376,
+          "duration": 90.051
+        },
+        {
+          "id": "frak-folg-0530-t19",
+          "title": "Teil 19 - Folge 11: Krieger des Taroximperiums",
+          "index": 18,
+          "startTime": 1636.427,
+          "duration": 91.215
+        },
+        {
+          "id": "frak-folg-0530-t20",
+          "title": "Teil 20 - Folge 11: Krieger des Taroximperiums",
+          "index": 19,
+          "startTime": 1727.642,
+          "duration": 90.13
+        },
+        {
+          "id": "frak-folg-0530-t21",
+          "title": "Teil 21 - Folge 11: Krieger des Taroximperiums",
+          "index": 20,
+          "startTime": 1817.772,
+          "duration": 92.306
+        },
+        {
+          "id": "frak-folg-0530-t22",
+          "title": "Teil 22 - Folge 11: Krieger des Taroximperiums",
+          "index": 21,
+          "startTime": 1910.078,
+          "duration": 90.066
+        },
+        {
+          "id": "frak-folg-0530-t23",
+          "title": "Teil 23 - Folge 11: Krieger des Taroximperiums",
+          "index": 22,
+          "startTime": 2000.144,
+          "duration": 90.114
+        },
+        {
+          "id": "frak-folg-0530-t24",
+          "title": "Teil 24 - Folge 11: Krieger des Taroximperiums",
+          "index": 23,
+          "startTime": 2090.258,
+          "duration": 90.123
+        },
+        {
+          "id": "frak-folg-0530-t25",
+          "title": "Teil 25 - Folge 11: Krieger des Taroximperiums",
+          "index": 24,
+          "startTime": 2180.381,
+          "duration": 90.009
+        },
+        {
+          "id": "frak-folg-0530-t26",
+          "title": "Teil 26 - Folge 11: Krieger des Taroximperiums",
+          "index": 25,
+          "startTime": 2270.39,
+          "duration": 92.03
+        },
+        {
+          "id": "frak-folg-0530-t27",
+          "title": "Teil 27 - Folge 11: Krieger des Taroximperiums",
+          "index": 26,
+          "startTime": 2362.42,
+          "duration": 90.494
+        },
+        {
+          "id": "frak-folg-0530-t28",
+          "title": "Teil 28 - Folge 11: Krieger des Taroximperiums",
+          "index": 27,
+          "startTime": 2452.914,
+          "duration": 90.016
+        },
+        {
+          "id": "frak-folg-0530-t29",
+          "title": "Teil 29 - Folge 11: Krieger des Taroximperiums",
+          "index": 28,
+          "startTime": 2542.93,
+          "duration": 92.906
+        },
+        {
+          "id": "frak-folg-0530-t30",
+          "title": "Teil 30 - Folge 11: Krieger des Taroximperiums",
+          "index": 29,
+          "startTime": 2635.836,
+          "duration": 92.393
+        },
+        {
+          "id": "frak-folg-0530-t31",
+          "title": "Teil 31 - Folge 11: Krieger des Taroximperiums",
+          "index": 30,
+          "startTime": 2728.229,
+          "duration": 91.155
+        },
+        {
+          "id": "frak-folg-0530-t32",
+          "title": "Teil 32 - Folge 11: Krieger des Taroximperiums",
+          "index": 31,
+          "startTime": 2819.384,
+          "duration": 91.769
+        },
+        {
+          "id": "frak-folg-0530-t33",
+          "title": "Teil 33 - Folge 11: Krieger des Taroximperiums",
+          "index": 32,
+          "startTime": 2911.153,
+          "duration": 90.014
+        },
+        {
+          "id": "frak-folg-0530-t34",
+          "title": "Teil 34 - Folge 11: Krieger des Taroximperiums",
+          "index": 33,
+          "startTime": 3001.167,
+          "duration": 93.423
+        },
+        {
+          "id": "frak-folg-0530-t35",
+          "title": "Teil 35 - Folge 11: Krieger des Taroximperiums",
+          "index": 34,
+          "startTime": 3094.59,
+          "duration": 90.029
+        }
+      ]
+    },
+    {
+      "id": "1499111467",
+      "title": "Folge 12: Kieron",
+      "episodeNumber": 12,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/94/31/77943119-0a7f-ebe1-6dff-a04afc1c1640/4260507157485_3000.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Hörspiel-Tracks und ist von einem deutschen Künstler verfasst.",
+      "totalDuration": 3568.013,
+      "platforms": {
+        "appleMusic": "1499111467"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-1467-t01",
+          "title": "Teil 1 - Folge 12: Kieron",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 91.674
+        },
+        {
+          "id": "frak-folg-1467-t02",
+          "title": "Teil 2 - Folge 12: Kieron",
+          "index": 1,
+          "startTime": 91.674,
+          "duration": 90.696
+        },
+        {
+          "id": "frak-folg-1467-t03",
+          "title": "Teil 3 - Folge 12: Kieron",
+          "index": 2,
+          "startTime": 182.37,
+          "duration": 90.01
+        },
+        {
+          "id": "frak-folg-1467-t04",
+          "title": "Teil 4 - Folge 12: Kieron",
+          "index": 3,
+          "startTime": 272.38,
+          "duration": 90.285
+        },
+        {
+          "id": "frak-folg-1467-t05",
+          "title": "Teil 5 - Folge 12: Kieron",
+          "index": 4,
+          "startTime": 362.665,
+          "duration": 90.014
+        },
+        {
+          "id": "frak-folg-1467-t06",
+          "title": "Teil 6 - Folge 12: Kieron",
+          "index": 5,
+          "startTime": 452.679,
+          "duration": 90.667
+        },
+        {
+          "id": "frak-folg-1467-t07",
+          "title": "Teil 7 - Folge 12: Kieron",
+          "index": 6,
+          "startTime": 543.346,
+          "duration": 90.275
+        },
+        {
+          "id": "frak-folg-1467-t08",
+          "title": "Teil 8 - Folge 12: Kieron",
+          "index": 7,
+          "startTime": 633.621,
+          "duration": 92.01
+        },
+        {
+          "id": "frak-folg-1467-t09",
+          "title": "Teil 9 - Folge 12: Kieron",
+          "index": 8,
+          "startTime": 725.631,
+          "duration": 90.741
+        },
+        {
+          "id": "frak-folg-1467-t10",
+          "title": "Teil 10 - Folge 12: Kieron",
+          "index": 9,
+          "startTime": 816.372,
+          "duration": 90.059
+        },
+        {
+          "id": "frak-folg-1467-t11",
+          "title": "Teil 11 - Folge 12: Kieron",
+          "index": 10,
+          "startTime": 906.431,
+          "duration": 90.802
+        },
+        {
+          "id": "frak-folg-1467-t12",
+          "title": "Teil 12 - Folge 12: Kieron",
+          "index": 11,
+          "startTime": 997.233,
+          "duration": 90.015
+        },
+        {
+          "id": "frak-folg-1467-t13",
+          "title": "Teil 13 - Folge 12: Kieron",
+          "index": 12,
+          "startTime": 1087.248,
+          "duration": 90.024
+        },
+        {
+          "id": "frak-folg-1467-t14",
+          "title": "Teil 14 - Folge 12: Kieron",
+          "index": 13,
+          "startTime": 1177.272,
+          "duration": 93.309
+        },
+        {
+          "id": "frak-folg-1467-t15",
+          "title": "Teil 15 - Folge 12: Kieron",
+          "index": 14,
+          "startTime": 1270.581,
+          "duration": 91.389
+        },
+        {
+          "id": "frak-folg-1467-t16",
+          "title": "Teil 16 - Folge 12: Kieron",
+          "index": 15,
+          "startTime": 1361.97,
+          "duration": 92.872
+        },
+        {
+          "id": "frak-folg-1467-t17",
+          "title": "Teil 17 - Folge 12: Kieron",
+          "index": 16,
+          "startTime": 1454.842,
+          "duration": 90.539
+        },
+        {
+          "id": "frak-folg-1467-t18",
+          "title": "Teil 18 - Folge 12: Kieron",
+          "index": 17,
+          "startTime": 1545.381,
+          "duration": 90.584
+        },
+        {
+          "id": "frak-folg-1467-t19",
+          "title": "Teil 19 - Folge 12: Kieron",
+          "index": 18,
+          "startTime": 1635.965,
+          "duration": 100.461
+        },
+        {
+          "id": "frak-folg-1467-t20",
+          "title": "Teil 20 - Folge 12: Kieron",
+          "index": 19,
+          "startTime": 1736.426,
+          "duration": 90.643
+        },
+        {
+          "id": "frak-folg-1467-t21",
+          "title": "Teil 21 - Folge 12: Kieron",
+          "index": 20,
+          "startTime": 1827.069,
+          "duration": 90.388
+        },
+        {
+          "id": "frak-folg-1467-t22",
+          "title": "Teil 22 - Folge 12: Kieron",
+          "index": 21,
+          "startTime": 1917.457,
+          "duration": 90.892
+        },
+        {
+          "id": "frak-folg-1467-t23",
+          "title": "Teil 23 - Folge 12: Kieron",
+          "index": 22,
+          "startTime": 2008.349,
+          "duration": 96.279
+        },
+        {
+          "id": "frak-folg-1467-t24",
+          "title": "Teil 24 - Folge 12: Kieron",
+          "index": 23,
+          "startTime": 2104.628,
+          "duration": 94.167
+        },
+        {
+          "id": "frak-folg-1467-t25",
+          "title": "Teil 25 - Folge 12: Kieron",
+          "index": 24,
+          "startTime": 2198.795,
+          "duration": 95.944
+        },
+        {
+          "id": "frak-folg-1467-t26",
+          "title": "Teil 26 - Folge 12: Kieron",
+          "index": 25,
+          "startTime": 2294.739,
+          "duration": 90.385
+        },
+        {
+          "id": "frak-folg-1467-t27",
+          "title": "Teil 27 - Folge 12: Kieron",
+          "index": 26,
+          "startTime": 2385.124,
+          "duration": 90.638
+        },
+        {
+          "id": "frak-folg-1467-t28",
+          "title": "Teil 28 - Folge 12: Kieron",
+          "index": 27,
+          "startTime": 2475.762,
+          "duration": 91.475
+        },
+        {
+          "id": "frak-folg-1467-t29",
+          "title": "Teil 29 - Folge 12: Kieron",
+          "index": 28,
+          "startTime": 2567.237,
+          "duration": 91.156
+        },
+        {
+          "id": "frak-folg-1467-t30",
+          "title": "Teil 30 - Folge 12: Kieron",
+          "index": 29,
+          "startTime": 2658.393,
+          "duration": 91.518
+        },
+        {
+          "id": "frak-folg-1467-t31",
+          "title": "Teil 31 - Folge 12: Kieron",
+          "index": 30,
+          "startTime": 2749.911,
+          "duration": 90.268
+        },
+        {
+          "id": "frak-folg-1467-t32",
+          "title": "Teil 32 - Folge 12: Kieron",
+          "index": 31,
+          "startTime": 2840.179,
+          "duration": 91.045
+        },
+        {
+          "id": "frak-folg-1467-t33",
+          "title": "Teil 33 - Folge 12: Kieron",
+          "index": 32,
+          "startTime": 2931.224,
+          "duration": 90.703
+        },
+        {
+          "id": "frak-folg-1467-t34",
+          "title": "Teil 34 - Folge 12: Kieron",
+          "index": 33,
+          "startTime": 3021.927,
+          "duration": 91.867
+        },
+        {
+          "id": "frak-folg-1467-t35",
+          "title": "Teil 35 - Folge 12: Kieron",
+          "index": 34,
+          "startTime": 3113.794,
+          "duration": 90.068
+        },
+        {
+          "id": "frak-folg-1467-t36",
+          "title": "Teil 36 - Folge 12: Kieron",
+          "index": 35,
+          "startTime": 3203.862,
+          "duration": 90.578
+        },
+        {
+          "id": "frak-folg-1467-t37",
+          "title": "Teil 37 - Folge 12: Kieron",
+          "index": 36,
+          "startTime": 3294.44,
+          "duration": 91.198
+        },
+        {
+          "id": "frak-folg-1467-t38",
+          "title": "Teil 38 - Folge 12: Kieron",
+          "index": 37,
+          "startTime": 3385.638,
+          "duration": 90.004
+        },
+        {
+          "id": "frak-folg-1467-t39",
+          "title": "Teil 39 - Folge 12: Kieron",
+          "index": 38,
+          "startTime": 3475.642,
+          "duration": 92.371
+        }
+      ]
+    },
+    {
+      "id": "1507178071",
+      "title": "Folge 13: Die Station im Eis",
+      "episodeNumber": 13,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/05/b7/62/05b76214-faa1-5881-057c-756956fad52f/4260507157959_3000.jpg/100x100bb.jpg",
+      "description": "Ein Album im Genre Hörspiele, das auf dem iTunes-Katalog verfügbar ist, deutet darauf hin, dass es sich um ein deutsches Hörspiel handelt.",
+      "totalDuration": 4497.373,
+      "platforms": {
+        "appleMusic": "1507178071"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-8071-t01",
+          "title": "Teil 1 - Folge 13: Die Station im Eis",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 11.813
+        },
+        {
+          "id": "frak-folg-8071-t02",
+          "title": "Teil 2 - Folge 13: Die Station im Eis",
+          "index": 1,
+          "startTime": 11.813,
+          "duration": 152.8
+        },
+        {
+          "id": "frak-folg-8071-t03",
+          "title": "Teil 3 - Folge 13: Die Station im Eis",
+          "index": 2,
+          "startTime": 164.613,
+          "duration": 92.747
+        },
+        {
+          "id": "frak-folg-8071-t04",
+          "title": "Teil 4 - Folge 13: Die Station im Eis",
+          "index": 3,
+          "startTime": 257.36,
+          "duration": 92.333
+        },
+        {
+          "id": "frak-folg-8071-t05",
+          "title": "Teil 5 - Folge 13: Die Station im Eis",
+          "index": 4,
+          "startTime": 349.693,
+          "duration": 94.973
+        },
+        {
+          "id": "frak-folg-8071-t06",
+          "title": "Teil 6 - Folge 13: Die Station im Eis",
+          "index": 5,
+          "startTime": 444.666,
+          "duration": 96.88
+        },
+        {
+          "id": "frak-folg-8071-t07",
+          "title": "Teil 7 - Folge 13: Die Station im Eis",
+          "index": 6,
+          "startTime": 541.546,
+          "duration": 94.96
+        },
+        {
+          "id": "frak-folg-8071-t08",
+          "title": "Teil 8 - Folge 13: Die Station im Eis",
+          "index": 7,
+          "startTime": 636.506,
+          "duration": 112.773
+        },
+        {
+          "id": "frak-folg-8071-t09",
+          "title": "Teil 9 - Folge 13: Die Station im Eis",
+          "index": 8,
+          "startTime": 749.279,
+          "duration": 98.427
+        },
+        {
+          "id": "frak-folg-8071-t10",
+          "title": "Teil 10 - Folge 13: Die Station im Eis",
+          "index": 9,
+          "startTime": 847.706,
+          "duration": 90.8
+        },
+        {
+          "id": "frak-folg-8071-t11",
+          "title": "Teil 11 - Folge 13: Die Station im Eis",
+          "index": 10,
+          "startTime": 938.506,
+          "duration": 94.173
+        },
+        {
+          "id": "frak-folg-8071-t12",
+          "title": "Teil 12 - Folge 13: Die Station im Eis",
+          "index": 11,
+          "startTime": 1032.679,
+          "duration": 90.08
+        },
+        {
+          "id": "frak-folg-8071-t13",
+          "title": "Teil 13 - Folge 13: Die Station im Eis",
+          "index": 12,
+          "startTime": 1122.759,
+          "duration": 96.32
+        },
+        {
+          "id": "frak-folg-8071-t14",
+          "title": "Teil 14 - Folge 13: Die Station im Eis",
+          "index": 13,
+          "startTime": 1219.079,
+          "duration": 100.907
+        },
+        {
+          "id": "frak-folg-8071-t15",
+          "title": "Teil 15 - Folge 13: Die Station im Eis",
+          "index": 14,
+          "startTime": 1319.986,
+          "duration": 94.36
+        },
+        {
+          "id": "frak-folg-8071-t16",
+          "title": "Teil 16 - Folge 13: Die Station im Eis",
+          "index": 15,
+          "startTime": 1414.346,
+          "duration": 109.333
+        },
+        {
+          "id": "frak-folg-8071-t17",
+          "title": "Teil 17 - Folge 13: Die Station im Eis",
+          "index": 16,
+          "startTime": 1523.679,
+          "duration": 95.347
+        },
+        {
+          "id": "frak-folg-8071-t18",
+          "title": "Teil 18 - Folge 13: Die Station im Eis",
+          "index": 17,
+          "startTime": 1619.026,
+          "duration": 114.373
+        },
+        {
+          "id": "frak-folg-8071-t19",
+          "title": "Teil 19 - Folge 13: Die Station im Eis",
+          "index": 18,
+          "startTime": 1733.399,
+          "duration": 122.493
+        },
+        {
+          "id": "frak-folg-8071-t20",
+          "title": "Teil 20 - Folge 13: Die Station im Eis",
+          "index": 19,
+          "startTime": 1855.892,
+          "duration": 92.867
+        },
+        {
+          "id": "frak-folg-8071-t21",
+          "title": "Teil 21 - Folge 13: Die Station im Eis",
+          "index": 20,
+          "startTime": 1948.759,
+          "duration": 101.467
+        },
+        {
+          "id": "frak-folg-8071-t22",
+          "title": "Teil 22 - Folge 13: Die Station im Eis",
+          "index": 21,
+          "startTime": 2050.226,
+          "duration": 95.8
+        },
+        {
+          "id": "frak-folg-8071-t23",
+          "title": "Teil 23 - Folge 13: Die Station im Eis",
+          "index": 22,
+          "startTime": 2146.026,
+          "duration": 102.28
+        },
+        {
+          "id": "frak-folg-8071-t24",
+          "title": "Teil 24 - Folge 13: Die Station im Eis",
+          "index": 23,
+          "startTime": 2248.306,
+          "duration": 155.293
+        },
+        {
+          "id": "frak-folg-8071-t25",
+          "title": "Teil 25 - Folge 13: Die Station im Eis",
+          "index": 24,
+          "startTime": 2403.599,
+          "duration": 104.893
+        },
+        {
+          "id": "frak-folg-8071-t26",
+          "title": "Teil 26 - Folge 13: Die Station im Eis",
+          "index": 25,
+          "startTime": 2508.492,
+          "duration": 134.64
+        },
+        {
+          "id": "frak-folg-8071-t27",
+          "title": "Teil 27 - Folge 13: Die Station im Eis",
+          "index": 26,
+          "startTime": 2643.132,
+          "duration": 103.533
+        },
+        {
+          "id": "frak-folg-8071-t28",
+          "title": "Teil 28 - Folge 13: Die Station im Eis",
+          "index": 27,
+          "startTime": 2746.665,
+          "duration": 92.893
+        },
+        {
+          "id": "frak-folg-8071-t29",
+          "title": "Teil 29 - Folge 13: Die Station im Eis",
+          "index": 28,
+          "startTime": 2839.558,
+          "duration": 91.653
+        },
+        {
+          "id": "frak-folg-8071-t30",
+          "title": "Teil 30 - Folge 13: Die Station im Eis",
+          "index": 29,
+          "startTime": 2931.211,
+          "duration": 106.28
+        },
+        {
+          "id": "frak-folg-8071-t31",
+          "title": "Teil 31 - Folge 13: Die Station im Eis",
+          "index": 30,
+          "startTime": 3037.491,
+          "duration": 152.107
+        },
+        {
+          "id": "frak-folg-8071-t32",
+          "title": "Teil 32 - Folge 13: Die Station im Eis",
+          "index": 31,
+          "startTime": 3189.598,
+          "duration": 98.387
+        },
+        {
+          "id": "frak-folg-8071-t33",
+          "title": "Teil 33 - Folge 13: Die Station im Eis",
+          "index": 32,
+          "startTime": 3287.985,
+          "duration": 98.187
+        },
+        {
+          "id": "frak-folg-8071-t34",
+          "title": "Teil 34 - Folge 13: Die Station im Eis",
+          "index": 33,
+          "startTime": 3386.172,
+          "duration": 93.853
+        },
+        {
+          "id": "frak-folg-8071-t35",
+          "title": "Teil 35 - Folge 13: Die Station im Eis",
+          "index": 34,
+          "startTime": 3480.025,
+          "duration": 98.8
+        },
+        {
+          "id": "frak-folg-8071-t36",
+          "title": "Teil 36 - Folge 13: Die Station im Eis",
+          "index": 35,
+          "startTime": 3578.825,
+          "duration": 97.627
+        },
+        {
+          "id": "frak-folg-8071-t37",
+          "title": "Teil 37 - Folge 13: Die Station im Eis",
+          "index": 36,
+          "startTime": 3676.452,
+          "duration": 113.787
+        },
+        {
+          "id": "frak-folg-8071-t38",
+          "title": "Teil 38 - Folge 13: Die Station im Eis",
+          "index": 37,
+          "startTime": 3790.239,
+          "duration": 151.28
+        },
+        {
+          "id": "frak-folg-8071-t39",
+          "title": "Teil 39 - Folge 13: Die Station im Eis",
+          "index": 38,
+          "startTime": 3941.519,
+          "duration": 96.573
+        },
+        {
+          "id": "frak-folg-8071-t40",
+          "title": "Teil 40 - Folge 13: Die Station im Eis",
+          "index": 39,
+          "startTime": 4038.092,
+          "duration": 92.787
+        },
+        {
+          "id": "frak-folg-8071-t41",
+          "title": "Teil 41 - Folge 13: Die Station im Eis",
+          "index": 40,
+          "startTime": 4130.879,
+          "duration": 90.667
+        },
+        {
+          "id": "frak-folg-8071-t42",
+          "title": "Teil 42 - Folge 13: Die Station im Eis",
+          "index": 41,
+          "startTime": 4221.546,
+          "duration": 91.16
+        },
+        {
+          "id": "frak-folg-8071-t43",
+          "title": "Teil 43 - Folge 13: Die Station im Eis",
+          "index": 42,
+          "startTime": 4312.706,
+          "duration": 91.387
+        },
+        {
+          "id": "frak-folg-8071-t44",
+          "title": "Teil 44 - Folge 13: Die Station im Eis",
+          "index": 43,
+          "startTime": 4404.093,
+          "duration": 93.28
+        }
+      ]
+    },
+    {
+      "id": "1517166223",
+      "title": "Folge 14: Ultimatum",
+      "episodeNumber": 14,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/a8/2f/2ba82f13-67b8-1796-249a-a4dde693d3e6/4260507160188_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel mit 40 Tracks, das als Folge 14 eines Hörspiel-Serien erscheint.",
+      "totalDuration": 4096.228,
+      "platforms": {
+        "appleMusic": "1517166223"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-6223-t01",
+          "title": "Teil 1 - Folge 14: Ultimatum",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 12.907
+        },
+        {
+          "id": "frak-folg-6223-t02",
+          "title": "Teil 2 - Folge 14: Ultimatum",
+          "index": 1,
+          "startTime": 12.907,
+          "duration": 96.04
+        },
+        {
+          "id": "frak-folg-6223-t03",
+          "title": "Teil 3 - Folge 14: Ultimatum",
+          "index": 2,
+          "startTime": 108.947,
+          "duration": 97.173
+        },
+        {
+          "id": "frak-folg-6223-t04",
+          "title": "Teil 4 - Folge 14: Ultimatum",
+          "index": 3,
+          "startTime": 206.12,
+          "duration": 101.68
+        },
+        {
+          "id": "frak-folg-6223-t05",
+          "title": "Teil 5 - Folge 14: Ultimatum",
+          "index": 4,
+          "startTime": 307.8,
+          "duration": 99.453
+        },
+        {
+          "id": "frak-folg-6223-t06",
+          "title": "Teil 6 - Folge 14: Ultimatum",
+          "index": 5,
+          "startTime": 407.253,
+          "duration": 98.08
+        },
+        {
+          "id": "frak-folg-6223-t07",
+          "title": "Teil 7 - Folge 14: Ultimatum",
+          "index": 6,
+          "startTime": 505.333,
+          "duration": 91.547
+        },
+        {
+          "id": "frak-folg-6223-t08",
+          "title": "Teil 8 - Folge 14: Ultimatum",
+          "index": 7,
+          "startTime": 596.88,
+          "duration": 103.64
+        },
+        {
+          "id": "frak-folg-6223-t09",
+          "title": "Teil 9 - Folge 14: Ultimatum",
+          "index": 8,
+          "startTime": 700.52,
+          "duration": 102.947
+        },
+        {
+          "id": "frak-folg-6223-t10",
+          "title": "Teil 10 - Folge 14: Ultimatum",
+          "index": 9,
+          "startTime": 803.467,
+          "duration": 123.56
+        },
+        {
+          "id": "frak-folg-6223-t11",
+          "title": "Teil 11 - Folge 14: Ultimatum",
+          "index": 10,
+          "startTime": 927.027,
+          "duration": 102.707
+        },
+        {
+          "id": "frak-folg-6223-t12",
+          "title": "Teil 12 - Folge 14: Ultimatum",
+          "index": 11,
+          "startTime": 1029.734,
+          "duration": 127.667
+        },
+        {
+          "id": "frak-folg-6223-t13",
+          "title": "Teil 13 - Folge 14: Ultimatum",
+          "index": 12,
+          "startTime": 1157.401,
+          "duration": 95.813
+        },
+        {
+          "id": "frak-folg-6223-t14",
+          "title": "Teil 14 - Folge 14: Ultimatum",
+          "index": 13,
+          "startTime": 1253.214,
+          "duration": 94.72
+        },
+        {
+          "id": "frak-folg-6223-t15",
+          "title": "Teil 15 - Folge 14: Ultimatum",
+          "index": 14,
+          "startTime": 1347.934,
+          "duration": 108.173
+        },
+        {
+          "id": "frak-folg-6223-t16",
+          "title": "Teil 16 - Folge 14: Ultimatum",
+          "index": 15,
+          "startTime": 1456.107,
+          "duration": 97.453
+        },
+        {
+          "id": "frak-folg-6223-t17",
+          "title": "Teil 17 - Folge 14: Ultimatum",
+          "index": 16,
+          "startTime": 1553.56,
+          "duration": 104.813
+        },
+        {
+          "id": "frak-folg-6223-t18",
+          "title": "Teil 18 - Folge 14: Ultimatum",
+          "index": 17,
+          "startTime": 1658.373,
+          "duration": 95.627
+        },
+        {
+          "id": "frak-folg-6223-t19",
+          "title": "Teil 19 - Folge 14: Ultimatum",
+          "index": 18,
+          "startTime": 1754.0,
+          "duration": 102.32
+        },
+        {
+          "id": "frak-folg-6223-t20",
+          "title": "Teil 20 - Folge 14: Ultimatum",
+          "index": 19,
+          "startTime": 1856.32,
+          "duration": 123.213
+        },
+        {
+          "id": "frak-folg-6223-t21",
+          "title": "Teil 21 - Folge 14: Ultimatum",
+          "index": 20,
+          "startTime": 1979.533,
+          "duration": 104.173
+        },
+        {
+          "id": "frak-folg-6223-t22",
+          "title": "Teil 22 - Folge 14: Ultimatum",
+          "index": 21,
+          "startTime": 2083.706,
+          "duration": 121.48
+        },
+        {
+          "id": "frak-folg-6223-t23",
+          "title": "Teil 23 - Folge 14: Ultimatum",
+          "index": 22,
+          "startTime": 2205.186,
+          "duration": 103.027
+        },
+        {
+          "id": "frak-folg-6223-t24",
+          "title": "Teil 24 - Folge 14: Ultimatum",
+          "index": 23,
+          "startTime": 2308.213,
+          "duration": 106.067
+        },
+        {
+          "id": "frak-folg-6223-t25",
+          "title": "Teil 25 - Folge 14: Ultimatum",
+          "index": 24,
+          "startTime": 2414.28,
+          "duration": 111.613
+        },
+        {
+          "id": "frak-folg-6223-t26",
+          "title": "Teil 26 - Folge 14: Ultimatum",
+          "index": 25,
+          "startTime": 2525.893,
+          "duration": 99.267
+        },
+        {
+          "id": "frak-folg-6223-t27",
+          "title": "Teil 27 - Folge 14: Ultimatum",
+          "index": 26,
+          "startTime": 2625.16,
+          "duration": 101.947
+        },
+        {
+          "id": "frak-folg-6223-t28",
+          "title": "Teil 28 - Folge 14: Ultimatum",
+          "index": 27,
+          "startTime": 2727.107,
+          "duration": 101.147
+        },
+        {
+          "id": "frak-folg-6223-t29",
+          "title": "Teil 29 - Folge 14: Ultimatum",
+          "index": 28,
+          "startTime": 2828.254,
+          "duration": 93.24
+        },
+        {
+          "id": "frak-folg-6223-t30",
+          "title": "Teil 30 - Folge 14: Ultimatum",
+          "index": 29,
+          "startTime": 2921.494,
+          "duration": 131.907
+        },
+        {
+          "id": "frak-folg-6223-t31",
+          "title": "Teil 31 - Folge 14: Ultimatum",
+          "index": 30,
+          "startTime": 3053.401,
+          "duration": 96.347
+        },
+        {
+          "id": "frak-folg-6223-t32",
+          "title": "Teil 32 - Folge 14: Ultimatum",
+          "index": 31,
+          "startTime": 3149.748,
+          "duration": 102.427
+        },
+        {
+          "id": "frak-folg-6223-t33",
+          "title": "Teil 33 - Folge 14: Ultimatum",
+          "index": 32,
+          "startTime": 3252.175,
+          "duration": 104.947
+        },
+        {
+          "id": "frak-folg-6223-t34",
+          "title": "Teil 34 - Folge 14: Ultimatum",
+          "index": 33,
+          "startTime": 3357.122,
+          "duration": 155.44
+        },
+        {
+          "id": "frak-folg-6223-t35",
+          "title": "Teil 35 - Folge 14: Ultimatum",
+          "index": 34,
+          "startTime": 3512.562,
+          "duration": 96.573
+        },
+        {
+          "id": "frak-folg-6223-t36",
+          "title": "Teil 36 - Folge 14: Ultimatum",
+          "index": 35,
+          "startTime": 3609.135,
+          "duration": 94.813
+        },
+        {
+          "id": "frak-folg-6223-t37",
+          "title": "Teil 37 - Folge 14: Ultimatum",
+          "index": 36,
+          "startTime": 3703.948,
+          "duration": 99.147
+        },
+        {
+          "id": "frak-folg-6223-t38",
+          "title": "Teil 38 - Folge 14: Ultimatum",
+          "index": 37,
+          "startTime": 3803.095,
+          "duration": 96.653
+        },
+        {
+          "id": "frak-folg-6223-t39",
+          "title": "Teil 39 - Folge 14: Ultimatum",
+          "index": 38,
+          "startTime": 3899.748,
+          "duration": 97.667
+        },
+        {
+          "id": "frak-folg-6223-t40",
+          "title": "Teil 40 - Folge 14: Ultimatum",
+          "index": 39,
+          "startTime": 3997.415,
+          "duration": 98.813
+        }
+      ]
+    },
+    {
+      "id": "1528458882",
+      "title": "Folge 15: Unter Feinden",
+      "episodeNumber": 15,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/d7/0b/92d70b05-9f36-ef3b-37ae-6e547fc9f648/4260507161178_3000.jpg/100x100bb.jpg",
+      "description": "Das Album 'Folge 15: Unter Feinden' von Fraktal ist ein Hörspielalbum mit 28 Folgen, das auf Apple Music verfügbar ist.",
+      "totalDuration": 3094.946,
+      "platforms": {
+        "appleMusic": "1528458882"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-8882-t01",
+          "title": "Teil 1 - Folge 15: Unter Feinden",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 12.44
+        },
+        {
+          "id": "frak-folg-8882-t02",
+          "title": "Teil 2 - Folge 15: Unter Feinden",
+          "index": 1,
+          "startTime": 12.44,
+          "duration": 113.013
+        },
+        {
+          "id": "frak-folg-8882-t03",
+          "title": "Teil 3 - Folge 15: Unter Feinden",
+          "index": 2,
+          "startTime": 125.453,
+          "duration": 104.84
+        },
+        {
+          "id": "frak-folg-8882-t04",
+          "title": "Teil 4 - Folge 15: Unter Feinden",
+          "index": 3,
+          "startTime": 230.293,
+          "duration": 174.733
+        },
+        {
+          "id": "frak-folg-8882-t05",
+          "title": "Teil 5 - Folge 15: Unter Feinden",
+          "index": 4,
+          "startTime": 405.026,
+          "duration": 94.213
+        },
+        {
+          "id": "frak-folg-8882-t06",
+          "title": "Teil 6 - Folge 15: Unter Feinden",
+          "index": 5,
+          "startTime": 499.239,
+          "duration": 123.893
+        },
+        {
+          "id": "frak-folg-8882-t07",
+          "title": "Teil 7 - Folge 15: Unter Feinden",
+          "index": 6,
+          "startTime": 623.132,
+          "duration": 132.853
+        },
+        {
+          "id": "frak-folg-8882-t08",
+          "title": "Teil 8 - Folge 15: Unter Feinden",
+          "index": 7,
+          "startTime": 755.985,
+          "duration": 93.147
+        },
+        {
+          "id": "frak-folg-8882-t09",
+          "title": "Teil 9 - Folge 15: Unter Feinden",
+          "index": 8,
+          "startTime": 849.132,
+          "duration": 99.013
+        },
+        {
+          "id": "frak-folg-8882-t10",
+          "title": "Teil 10 - Folge 15: Unter Feinden",
+          "index": 9,
+          "startTime": 948.145,
+          "duration": 94.4
+        },
+        {
+          "id": "frak-folg-8882-t11",
+          "title": "Teil 11 - Folge 15: Unter Feinden",
+          "index": 10,
+          "startTime": 1042.545,
+          "duration": 101.64
+        },
+        {
+          "id": "frak-folg-8882-t12",
+          "title": "Teil 12 - Folge 15: Unter Feinden",
+          "index": 11,
+          "startTime": 1144.185,
+          "duration": 100.76
+        },
+        {
+          "id": "frak-folg-8882-t13",
+          "title": "Teil 13 - Folge 15: Unter Feinden",
+          "index": 12,
+          "startTime": 1244.945,
+          "duration": 125.96
+        },
+        {
+          "id": "frak-folg-8882-t14",
+          "title": "Teil 14 - Folge 15: Unter Feinden",
+          "index": 13,
+          "startTime": 1370.905,
+          "duration": 121.08
+        },
+        {
+          "id": "frak-folg-8882-t15",
+          "title": "Teil 15 - Folge 15: Unter Feinden",
+          "index": 14,
+          "startTime": 1491.985,
+          "duration": 94.733
+        },
+        {
+          "id": "frak-folg-8882-t16",
+          "title": "Teil 16 - Folge 15: Unter Feinden",
+          "index": 15,
+          "startTime": 1586.718,
+          "duration": 103.147
+        },
+        {
+          "id": "frak-folg-8882-t17",
+          "title": "Teil 17 - Folge 15: Unter Feinden",
+          "index": 16,
+          "startTime": 1689.865,
+          "duration": 109.547
+        },
+        {
+          "id": "frak-folg-8882-t18",
+          "title": "Teil 18 - Folge 15: Unter Feinden",
+          "index": 17,
+          "startTime": 1799.412,
+          "duration": 140.667
+        },
+        {
+          "id": "frak-folg-8882-t19",
+          "title": "Teil 19 - Folge 15: Unter Feinden",
+          "index": 18,
+          "startTime": 1940.079,
+          "duration": 105.88
+        },
+        {
+          "id": "frak-folg-8882-t20",
+          "title": "Teil 20 - Folge 15: Unter Feinden",
+          "index": 19,
+          "startTime": 2045.959,
+          "duration": 95.347
+        },
+        {
+          "id": "frak-folg-8882-t21",
+          "title": "Teil 21 - Folge 15: Unter Feinden",
+          "index": 20,
+          "startTime": 2141.306,
+          "duration": 92.2
+        },
+        {
+          "id": "frak-folg-8882-t22",
+          "title": "Teil 22 - Folge 15: Unter Feinden",
+          "index": 21,
+          "startTime": 2233.506,
+          "duration": 99.32
+        },
+        {
+          "id": "frak-folg-8882-t23",
+          "title": "Teil 23 - Folge 15: Unter Feinden",
+          "index": 22,
+          "startTime": 2332.826,
+          "duration": 100.947
+        },
+        {
+          "id": "frak-folg-8882-t24",
+          "title": "Teil 24 - Folge 15: Unter Feinden",
+          "index": 23,
+          "startTime": 2433.773,
+          "duration": 108.76
+        },
+        {
+          "id": "frak-folg-8882-t25",
+          "title": "Teil 25 - Folge 15: Unter Feinden",
+          "index": 24,
+          "startTime": 2542.533,
+          "duration": 94.2
+        },
+        {
+          "id": "frak-folg-8882-t26",
+          "title": "Teil 26 - Folge 15: Unter Feinden",
+          "index": 25,
+          "startTime": 2636.733,
+          "duration": 167.72
+        },
+        {
+          "id": "frak-folg-8882-t27",
+          "title": "Teil 27 - Folge 15: Unter Feinden",
+          "index": 26,
+          "startTime": 2804.453,
+          "duration": 161.04
+        },
+        {
+          "id": "frak-folg-8882-t28",
+          "title": "Teil 28 - Folge 15: Unter Feinden",
+          "index": 27,
+          "startTime": 2965.493,
+          "duration": 129.453
+        }
+      ]
+    },
+    {
+      "id": "1530813243",
+      "title": "Folge 16: Der Schleier fällt",
+      "episodeNumber": 16,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/92/d0/c392d0e0-21ef-e32e-b76b-9d8184a762e0/4260507161475_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album beinhaltet die erste Folge eines Hörspiels mit dem Titel 'Folge 16: Der Schleier fällt' von der Gruppe 'Fraktal'. Es ist ein Hörspiel-Album auf Apple Music.",
+      "totalDuration": 3756.946,
+      "platforms": {
+        "appleMusic": "1530813243"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-3243-t01",
+          "title": "Teil 1 - Folge 16: Der Schleier fällt",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 11.107
+        },
+        {
+          "id": "frak-folg-3243-t02",
+          "title": "Teil 2 - Folge 16: Der Schleier fällt",
+          "index": 1,
+          "startTime": 11.107,
+          "duration": 100.653
+        },
+        {
+          "id": "frak-folg-3243-t03",
+          "title": "Teil 3 - Folge 16: Der Schleier fällt",
+          "index": 2,
+          "startTime": 111.76,
+          "duration": 155.133
+        },
+        {
+          "id": "frak-folg-3243-t04",
+          "title": "Teil 4 - Folge 16: Der Schleier fällt",
+          "index": 3,
+          "startTime": 266.893,
+          "duration": 149.52
+        },
+        {
+          "id": "frak-folg-3243-t05",
+          "title": "Teil 5 - Folge 16: Der Schleier fällt",
+          "index": 4,
+          "startTime": 416.413,
+          "duration": 96.347
+        },
+        {
+          "id": "frak-folg-3243-t06",
+          "title": "Teil 6 - Folge 16: Der Schleier fällt",
+          "index": 5,
+          "startTime": 512.76,
+          "duration": 110.187
+        },
+        {
+          "id": "frak-folg-3243-t07",
+          "title": "Teil 7 - Folge 16: Der Schleier fällt",
+          "index": 6,
+          "startTime": 622.947,
+          "duration": 92.68
+        },
+        {
+          "id": "frak-folg-3243-t08",
+          "title": "Teil 8 - Folge 16: Der Schleier fällt",
+          "index": 7,
+          "startTime": 715.627,
+          "duration": 173.96
+        },
+        {
+          "id": "frak-folg-3243-t09",
+          "title": "Teil 9 - Folge 16: Der Schleier fällt",
+          "index": 8,
+          "startTime": 889.587,
+          "duration": 139.213
+        },
+        {
+          "id": "frak-folg-3243-t10",
+          "title": "Teil 10 - Folge 16: Der Schleier fällt",
+          "index": 9,
+          "startTime": 1028.8,
+          "duration": 97.84
+        },
+        {
+          "id": "frak-folg-3243-t11",
+          "title": "Teil 11 - Folge 16: Der Schleier fällt",
+          "index": 10,
+          "startTime": 1126.64,
+          "duration": 149.32
+        },
+        {
+          "id": "frak-folg-3243-t12",
+          "title": "Teil 12 - Folge 16: Der Schleier fällt",
+          "index": 11,
+          "startTime": 1275.96,
+          "duration": 145.627
+        },
+        {
+          "id": "frak-folg-3243-t13",
+          "title": "Teil 13 - Folge 16: Der Schleier fällt",
+          "index": 12,
+          "startTime": 1421.587,
+          "duration": 159.947
+        },
+        {
+          "id": "frak-folg-3243-t14",
+          "title": "Teil 14 - Folge 16: Der Schleier fällt",
+          "index": 13,
+          "startTime": 1581.534,
+          "duration": 101.8
+        },
+        {
+          "id": "frak-folg-3243-t15",
+          "title": "Teil 15 - Folge 16: Der Schleier fällt",
+          "index": 14,
+          "startTime": 1683.334,
+          "duration": 108.72
+        },
+        {
+          "id": "frak-folg-3243-t16",
+          "title": "Teil 16 - Folge 16: Der Schleier fällt",
+          "index": 15,
+          "startTime": 1792.054,
+          "duration": 101.893
+        },
+        {
+          "id": "frak-folg-3243-t17",
+          "title": "Teil 17 - Folge 16: Der Schleier fällt",
+          "index": 16,
+          "startTime": 1893.947,
+          "duration": 120.88
+        },
+        {
+          "id": "frak-folg-3243-t18",
+          "title": "Teil 18 - Folge 16: Der Schleier fällt",
+          "index": 17,
+          "startTime": 2014.827,
+          "duration": 98.92
+        },
+        {
+          "id": "frak-folg-3243-t19",
+          "title": "Teil 19 - Folge 16: Der Schleier fällt",
+          "index": 18,
+          "startTime": 2113.747,
+          "duration": 117.133
+        },
+        {
+          "id": "frak-folg-3243-t20",
+          "title": "Teil 20 - Folge 16: Der Schleier fällt",
+          "index": 19,
+          "startTime": 2230.88,
+          "duration": 90.853
+        },
+        {
+          "id": "frak-folg-3243-t21",
+          "title": "Teil 21 - Folge 16: Der Schleier fällt",
+          "index": 20,
+          "startTime": 2321.733,
+          "duration": 91.187
+        },
+        {
+          "id": "frak-folg-3243-t22",
+          "title": "Teil 22 - Folge 16: Der Schleier fällt",
+          "index": 21,
+          "startTime": 2412.92,
+          "duration": 92.92
+        },
+        {
+          "id": "frak-folg-3243-t23",
+          "title": "Teil 23 - Folge 16: Der Schleier fällt",
+          "index": 22,
+          "startTime": 2505.84,
+          "duration": 108.413
+        },
+        {
+          "id": "frak-folg-3243-t24",
+          "title": "Teil 24 - Folge 16: Der Schleier fällt",
+          "index": 23,
+          "startTime": 2614.253,
+          "duration": 125.067
+        },
+        {
+          "id": "frak-folg-3243-t25",
+          "title": "Teil 25 - Folge 16: Der Schleier fällt",
+          "index": 24,
+          "startTime": 2739.32,
+          "duration": 93.68
+        },
+        {
+          "id": "frak-folg-3243-t26",
+          "title": "Teil 26 - Folge 16: Der Schleier fällt",
+          "index": 25,
+          "startTime": 2833.0,
+          "duration": 94.12
+        },
+        {
+          "id": "frak-folg-3243-t27",
+          "title": "Teil 27 - Folge 16: Der Schleier fällt",
+          "index": 26,
+          "startTime": 2927.12,
+          "duration": 104.68
+        },
+        {
+          "id": "frak-folg-3243-t28",
+          "title": "Teil 28 - Folge 16: Der Schleier fällt",
+          "index": 27,
+          "startTime": 3031.8,
+          "duration": 110.213
+        },
+        {
+          "id": "frak-folg-3243-t29",
+          "title": "Teil 29 - Folge 16: Der Schleier fällt",
+          "index": 28,
+          "startTime": 3142.013,
+          "duration": 133.84
+        },
+        {
+          "id": "frak-folg-3243-t30",
+          "title": "Teil 30 - Folge 16: Der Schleier fällt",
+          "index": 29,
+          "startTime": 3275.853,
+          "duration": 93.133
+        },
+        {
+          "id": "frak-folg-3243-t31",
+          "title": "Teil 31 - Folge 16: Der Schleier fällt",
+          "index": 30,
+          "startTime": 3368.986,
+          "duration": 96.76
+        },
+        {
+          "id": "frak-folg-3243-t32",
+          "title": "Teil 32 - Folge 16: Der Schleier fällt",
+          "index": 31,
+          "startTime": 3465.746,
+          "duration": 119.787
+        },
+        {
+          "id": "frak-folg-3243-t33",
+          "title": "Teil 33 - Folge 16: Der Schleier fällt",
+          "index": 32,
+          "startTime": 3585.533,
+          "duration": 171.413
+        }
+      ]
+    },
+    {
+      "id": "1539215497",
+      "title": "Folge 17: Der ungebetene Gast",
+      "episodeNumber": 17,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/d2/af/b4d2af38-1ef2-5e44-b875-33a1490b69df/4260507161840_3000.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspielalbum über den ungebetenen Gast, das Spannung und Unterhaltung bietet.",
+      "totalDuration": 4721.732,
+      "platforms": {
+        "appleMusic": "1539215497"
+      },
+      "chapters": [
+        {
+          "id": "frak-folg-5497-t01",
+          "title": "Teil 1 - Folge 17: Der ungebetene Gast",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 12.8
+        },
+        {
+          "id": "frak-folg-5497-t02",
+          "title": "Teil 2 - Folge 17: Der ungebetene Gast",
+          "index": 1,
+          "startTime": 12.8,
+          "duration": 96.147
+        },
+        {
+          "id": "frak-folg-5497-t03",
+          "title": "Teil 3 - Folge 17: Der ungebetene Gast",
+          "index": 2,
+          "startTime": 108.947,
+          "duration": 95.093
+        },
+        {
+          "id": "frak-folg-5497-t04",
+          "title": "Teil 4 - Folge 17: Der ungebetene Gast",
+          "index": 3,
+          "startTime": 204.04,
+          "duration": 108.413
+        },
+        {
+          "id": "frak-folg-5497-t05",
+          "title": "Teil 5 - Folge 17: Der ungebetene Gast",
+          "index": 4,
+          "startTime": 312.453,
+          "duration": 101.693
+        },
+        {
+          "id": "frak-folg-5497-t06",
+          "title": "Teil 6 - Folge 17: Der ungebetene Gast",
+          "index": 5,
+          "startTime": 414.146,
+          "duration": 92.293
+        },
+        {
+          "id": "frak-folg-5497-t07",
+          "title": "Teil 7 - Folge 17: Der ungebetene Gast",
+          "index": 6,
+          "startTime": 506.439,
+          "duration": 151.44
+        },
+        {
+          "id": "frak-folg-5497-t08",
+          "title": "Teil 8 - Folge 17: Der ungebetene Gast",
+          "index": 7,
+          "startTime": 657.879,
+          "duration": 98.96
+        },
+        {
+          "id": "frak-folg-5497-t09",
+          "title": "Teil 9 - Folge 17: Der ungebetene Gast",
+          "index": 8,
+          "startTime": 756.839,
+          "duration": 171.333
+        },
+        {
+          "id": "frak-folg-5497-t10",
+          "title": "Teil 10 - Folge 17: Der ungebetene Gast",
+          "index": 9,
+          "startTime": 928.172,
+          "duration": 94.52
+        },
+        {
+          "id": "frak-folg-5497-t11",
+          "title": "Teil 11 - Folge 17: Der ungebetene Gast",
+          "index": 10,
+          "startTime": 1022.692,
+          "duration": 175.08
+        },
+        {
+          "id": "frak-folg-5497-t12",
+          "title": "Teil 12 - Folge 17: Der ungebetene Gast",
+          "index": 11,
+          "startTime": 1197.772,
+          "duration": 97.453
+        },
+        {
+          "id": "frak-folg-5497-t13",
+          "title": "Teil 13 - Folge 17: Der ungebetene Gast",
+          "index": 12,
+          "startTime": 1295.225,
+          "duration": 96.56
+        },
+        {
+          "id": "frak-folg-5497-t14",
+          "title": "Teil 14 - Folge 17: Der ungebetene Gast",
+          "index": 13,
+          "startTime": 1391.785,
+          "duration": 97.067
+        },
+        {
+          "id": "frak-folg-5497-t15",
+          "title": "Teil 15 - Folge 17: Der ungebetene Gast",
+          "index": 14,
+          "startTime": 1488.852,
+          "duration": 94.227
+        },
+        {
+          "id": "frak-folg-5497-t16",
+          "title": "Teil 16 - Folge 17: Der ungebetene Gast",
+          "index": 15,
+          "startTime": 1583.079,
+          "duration": 93.0
+        },
+        {
+          "id": "frak-folg-5497-t17",
+          "title": "Teil 17 - Folge 17: Der ungebetene Gast",
+          "index": 16,
+          "startTime": 1676.079,
+          "duration": 110.667
+        },
+        {
+          "id": "frak-folg-5497-t18",
+          "title": "Teil 18 - Folge 17: Der ungebetene Gast",
+          "index": 17,
+          "startTime": 1786.746,
+          "duration": 92.213
+        },
+        {
+          "id": "frak-folg-5497-t19",
+          "title": "Teil 19 - Folge 17: Der ungebetene Gast",
+          "index": 18,
+          "startTime": 1878.959,
+          "duration": 91.84
+        },
+        {
+          "id": "frak-folg-5497-t20",
+          "title": "Teil 20 - Folge 17: Der ungebetene Gast",
+          "index": 19,
+          "startTime": 1970.799,
+          "duration": 94.253
+        },
+        {
+          "id": "frak-folg-5497-t21",
+          "title": "Teil 21 - Folge 17: Der ungebetene Gast",
+          "index": 20,
+          "startTime": 2065.052,
+          "duration": 95.187
+        },
+        {
+          "id": "frak-folg-5497-t22",
+          "title": "Teil 22 - Folge 17: Der ungebetene Gast",
+          "index": 21,
+          "startTime": 2160.239,
+          "duration": 99.773
+        },
+        {
+          "id": "frak-folg-5497-t23",
+          "title": "Teil 23 - Folge 17: Der ungebetene Gast",
+          "index": 22,
+          "startTime": 2260.012,
+          "duration": 130.947
+        },
+        {
+          "id": "frak-folg-5497-t24",
+          "title": "Teil 24 - Folge 17: Der ungebetene Gast",
+          "index": 23,
+          "startTime": 2390.959,
+          "duration": 96.493
+        },
+        {
+          "id": "frak-folg-5497-t25",
+          "title": "Teil 25 - Folge 17: Der ungebetene Gast",
+          "index": 24,
+          "startTime": 2487.452,
+          "duration": 111.213
+        },
+        {
+          "id": "frak-folg-5497-t26",
+          "title": "Teil 26 - Folge 17: Der ungebetene Gast",
+          "index": 25,
+          "startTime": 2598.665,
+          "duration": 149.88
+        },
+        {
+          "id": "frak-folg-5497-t27",
+          "title": "Teil 27 - Folge 17: Der ungebetene Gast",
+          "index": 26,
+          "startTime": 2748.545,
+          "duration": 93.84
+        },
+        {
+          "id": "frak-folg-5497-t28",
+          "title": "Teil 28 - Folge 17: Der ungebetene Gast",
+          "index": 27,
+          "startTime": 2842.385,
+          "duration": 141.64
+        },
+        {
+          "id": "frak-folg-5497-t29",
+          "title": "Teil 29 - Folge 17: Der ungebetene Gast",
+          "index": 28,
+          "startTime": 2984.025,
+          "duration": 94.24
+        },
+        {
+          "id": "frak-folg-5497-t30",
+          "title": "Teil 30 - Folge 17: Der ungebetene Gast",
+          "index": 29,
+          "startTime": 3078.265,
+          "duration": 94.24
+        },
+        {
+          "id": "frak-folg-5497-t31",
+          "title": "Teil 31 - Folge 17: Der ungebetene Gast",
+          "index": 30,
+          "startTime": 3172.505,
+          "duration": 95.72
+        },
+        {
+          "id": "frak-folg-5497-t32",
+          "title": "Teil 32 - Folge 17: Der ungebetene Gast",
+          "index": 31,
+          "startTime": 3268.225,
+          "duration": 92.64
+        },
+        {
+          "id": "frak-folg-5497-t33",
+          "title": "Teil 33 - Folge 17: Der ungebetene Gast",
+          "index": 32,
+          "startTime": 3360.865,
+          "duration": 100.56
+        },
+        {
+          "id": "frak-folg-5497-t34",
+          "title": "Teil 34 - Folge 17: Der ungebetene Gast",
+          "index": 33,
+          "startTime": 3461.425,
+          "duration": 141.213
+        },
+        {
+          "id": "frak-folg-5497-t35",
+          "title": "Teil 35 - Folge 17: Der ungebetene Gast",
+          "index": 34,
+          "startTime": 3602.638,
+          "duration": 91.453
+        },
+        {
+          "id": "frak-folg-5497-t36",
+          "title": "Teil 36 - Folge 17: Der ungebetene Gast",
+          "index": 35,
+          "startTime": 3694.091,
+          "duration": 99.973
+        },
+        {
+          "id": "frak-folg-5497-t37",
+          "title": "Teil 37 - Folge 17: Der ungebetene Gast",
+          "index": 36,
+          "startTime": 3794.064,
+          "duration": 91.427
+        },
+        {
+          "id": "frak-folg-5497-t38",
+          "title": "Teil 38 - Folge 17: Der ungebetene Gast",
+          "index": 37,
+          "startTime": 3885.491,
+          "duration": 91.733
+        },
+        {
+          "id": "frak-folg-5497-t39",
+          "title": "Teil 39 - Folge 17: Der ungebetene Gast",
+          "index": 38,
+          "startTime": 3977.224,
+          "duration": 107.467
+        },
+        {
+          "id": "frak-folg-5497-t40",
+          "title": "Teil 40 - Folge 17: Der ungebetene Gast",
+          "index": 39,
+          "startTime": 4084.691,
+          "duration": 93.293
+        },
+        {
+          "id": "frak-folg-5497-t41",
+          "title": "Teil 41 - Folge 17: Der ungebetene Gast",
+          "index": 40,
+          "startTime": 4177.984,
+          "duration": 143.307
+        },
+        {
+          "id": "frak-folg-5497-t42",
+          "title": "Teil 42 - Folge 17: Der ungebetene Gast",
+          "index": 41,
+          "startTime": 4321.291,
+          "duration": 106.147
+        },
+        {
+          "id": "frak-folg-5497-t43",
+          "title": "Teil 43 - Folge 17: Der ungebetene Gast",
+          "index": 42,
+          "startTime": 4427.438,
+          "duration": 92.08
+        },
+        {
+          "id": "frak-folg-5497-t44",
+          "title": "Teil 44 - Folge 17: Der ungebetene Gast",
+          "index": 43,
+          "startTime": 4519.518,
+          "duration": 106.067
+        },
+        {
+          "id": "frak-folg-5497-t45",
+          "title": "Teil 45 - Folge 17: Der ungebetene Gast",
+          "index": 44,
+          "startTime": 4625.585,
+          "duration": 96.147
+        }
+      ]
+    },
+    {
       "id": "1685955280",
       "title": "Die Eiskönigin - Völlig Unverfroren (Hörspiel zum Disney Film)",
       "episodeNumber": null,
@@ -1346,5 +6225,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T19:34:33Z"
 }

@@ -1,0 +1,4178 @@
+{
+  "seriesId": "misc",
+  "title": "Weitere Titel",
+  "language": "de",
+  "author": "",
+  "narrator": "",
+  "genres": [],
+  "albums": [
+    {
+      "id": "1539745296",
+      "title": "Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/40/a6/9240a69d-70e4-5d94-3b10-babbd7f76f22/4260507161734_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele, darunter Geschichten wie 'Die Kleeblattbande' und '5 weitere Kicherkrimis'. Es ist Teil der 'Club der Detektive'-Reihe.",
+      "totalDuration": 2797.001,
+      "platforms": {
+        "appleMusic": "1539745296"
+      },
+      "chapters": [
+        {
+          "id": "club-folg-5296-t01",
+          "title": "Teil 1 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 91.624
+        },
+        {
+          "id": "club-folg-5296-t02",
+          "title": "Teil 2 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 1,
+          "startTime": 91.624,
+          "duration": 90.309
+        },
+        {
+          "id": "club-folg-5296-t03",
+          "title": "Teil 3 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 2,
+          "startTime": 181.933,
+          "duration": 90.838
+        },
+        {
+          "id": "club-folg-5296-t04",
+          "title": "Teil 4 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 3,
+          "startTime": 272.771,
+          "duration": 90.508
+        },
+        {
+          "id": "club-folg-5296-t05",
+          "title": "Teil 5 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 4,
+          "startTime": 363.279,
+          "duration": 119.321
+        },
+        {
+          "id": "club-folg-5296-t06",
+          "title": "Teil 6 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 5,
+          "startTime": 482.6,
+          "duration": 91.169
+        },
+        {
+          "id": "club-folg-5296-t07",
+          "title": "Teil 7 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 6,
+          "startTime": 573.769,
+          "duration": 90.043
+        },
+        {
+          "id": "club-folg-5296-t08",
+          "title": "Teil 8 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 7,
+          "startTime": 663.812,
+          "duration": 90.556
+        },
+        {
+          "id": "club-folg-5296-t09",
+          "title": "Teil 9 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 8,
+          "startTime": 754.368,
+          "duration": 91.245
+        },
+        {
+          "id": "club-folg-5296-t10",
+          "title": "Teil 10 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 9,
+          "startTime": 845.613,
+          "duration": 99.212
+        },
+        {
+          "id": "club-folg-5296-t11",
+          "title": "Teil 11 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 10,
+          "startTime": 944.825,
+          "duration": 91.076
+        },
+        {
+          "id": "club-folg-5296-t12",
+          "title": "Teil 12 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 11,
+          "startTime": 1035.901,
+          "duration": 92.829
+        },
+        {
+          "id": "club-folg-5296-t13",
+          "title": "Teil 13 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 12,
+          "startTime": 1128.73,
+          "duration": 90.196
+        },
+        {
+          "id": "club-folg-5296-t14",
+          "title": "Teil 14 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 13,
+          "startTime": 1218.926,
+          "duration": 90.466
+        },
+        {
+          "id": "club-folg-5296-t15",
+          "title": "Teil 15 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 14,
+          "startTime": 1309.392,
+          "duration": 90.026
+        },
+        {
+          "id": "club-folg-5296-t16",
+          "title": "Teil 16 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 15,
+          "startTime": 1399.418,
+          "duration": 95.724
+        },
+        {
+          "id": "club-folg-5296-t17",
+          "title": "Teil 17 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 16,
+          "startTime": 1495.142,
+          "duration": 90.028
+        },
+        {
+          "id": "club-folg-5296-t18",
+          "title": "Teil 18 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 17,
+          "startTime": 1585.17,
+          "duration": 92.959
+        },
+        {
+          "id": "club-folg-5296-t19",
+          "title": "Teil 19 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 18,
+          "startTime": 1678.129,
+          "duration": 91.525
+        },
+        {
+          "id": "club-folg-5296-t20",
+          "title": "Teil 20 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 19,
+          "startTime": 1769.654,
+          "duration": 92.313
+        },
+        {
+          "id": "club-folg-5296-t21",
+          "title": "Teil 21 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 20,
+          "startTime": 1861.967,
+          "duration": 90.841
+        },
+        {
+          "id": "club-folg-5296-t22",
+          "title": "Teil 22 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 21,
+          "startTime": 1952.808,
+          "duration": 131.144
+        },
+        {
+          "id": "club-folg-5296-t23",
+          "title": "Teil 23 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 22,
+          "startTime": 2083.952,
+          "duration": 90.322
+        },
+        {
+          "id": "club-folg-5296-t24",
+          "title": "Teil 24 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 23,
+          "startTime": 2174.274,
+          "duration": 91.774
+        },
+        {
+          "id": "club-folg-5296-t25",
+          "title": "Teil 25 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 24,
+          "startTime": 2266.048,
+          "duration": 90.049
+        },
+        {
+          "id": "club-folg-5296-t26",
+          "title": "Teil 26 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 25,
+          "startTime": 2356.097,
+          "duration": 90.385
+        },
+        {
+          "id": "club-folg-5296-t27",
+          "title": "Teil 27 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 26,
+          "startTime": 2446.482,
+          "duration": 104.018
+        },
+        {
+          "id": "club-folg-5296-t28",
+          "title": "Teil 28 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 27,
+          "startTime": 2550.5,
+          "duration": 112.28
+        },
+        {
+          "id": "club-folg-5296-t29",
+          "title": "Teil 29 - Folge 2: Die Kleeblattbande und 5 weitere Kicherkrimis",
+          "index": 28,
+          "startTime": 2662.78,
+          "duration": 134.221
+        }
+      ]
+    },
+    {
+      "id": "1636261215",
+      "title": "Folge 7: Eifel-Schnee, Erster Teil",
+      "episodeNumber": 7,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/dd/9c/e0/dd9ce013-61c0-ef3e-4a93-0972dfd5d033/4260507175618_3000.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Hörspiel-Tracks und beschreibt sich als 'Hörspiele' im Genre 'Eifel-Krimi'.",
+      "totalDuration": 4593.364,
+      "platforms": {
+        "appleMusic": "1636261215"
+      },
+      "chapters": [
+        {
+          "id": "eife-folg-1215-t01",
+          "title": "Teil 1 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 93.861
+        },
+        {
+          "id": "eife-folg-1215-t02",
+          "title": "Teil 2 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 1,
+          "startTime": 93.861,
+          "duration": 90.792
+        },
+        {
+          "id": "eife-folg-1215-t03",
+          "title": "Teil 3 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 2,
+          "startTime": 184.653,
+          "duration": 94.602
+        },
+        {
+          "id": "eife-folg-1215-t04",
+          "title": "Teil 4 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 3,
+          "startTime": 279.255,
+          "duration": 91.245
+        },
+        {
+          "id": "eife-folg-1215-t05",
+          "title": "Teil 5 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 4,
+          "startTime": 370.5,
+          "duration": 91.807
+        },
+        {
+          "id": "eife-folg-1215-t06",
+          "title": "Teil 6 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 5,
+          "startTime": 462.307,
+          "duration": 91.845
+        },
+        {
+          "id": "eife-folg-1215-t07",
+          "title": "Teil 7 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 6,
+          "startTime": 554.152,
+          "duration": 93.088
+        },
+        {
+          "id": "eife-folg-1215-t08",
+          "title": "Teil 8 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 7,
+          "startTime": 647.24,
+          "duration": 94.671
+        },
+        {
+          "id": "eife-folg-1215-t09",
+          "title": "Teil 9 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 8,
+          "startTime": 741.911,
+          "duration": 90.195
+        },
+        {
+          "id": "eife-folg-1215-t10",
+          "title": "Teil 10 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 9,
+          "startTime": 832.106,
+          "duration": 92.559
+        },
+        {
+          "id": "eife-folg-1215-t11",
+          "title": "Teil 11 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 10,
+          "startTime": 924.665,
+          "duration": 91.661
+        },
+        {
+          "id": "eife-folg-1215-t12",
+          "title": "Teil 12 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 11,
+          "startTime": 1016.326,
+          "duration": 90.882
+        },
+        {
+          "id": "eife-folg-1215-t13",
+          "title": "Teil 13 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 12,
+          "startTime": 1107.208,
+          "duration": 92.82
+        },
+        {
+          "id": "eife-folg-1215-t14",
+          "title": "Teil 14 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 13,
+          "startTime": 1200.028,
+          "duration": 94.244
+        },
+        {
+          "id": "eife-folg-1215-t15",
+          "title": "Teil 15 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 14,
+          "startTime": 1294.272,
+          "duration": 90.304
+        },
+        {
+          "id": "eife-folg-1215-t16",
+          "title": "Teil 16 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 15,
+          "startTime": 1384.576,
+          "duration": 91.494
+        },
+        {
+          "id": "eife-folg-1215-t17",
+          "title": "Teil 17 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 16,
+          "startTime": 1476.07,
+          "duration": 90.704
+        },
+        {
+          "id": "eife-folg-1215-t18",
+          "title": "Teil 18 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 17,
+          "startTime": 1566.774,
+          "duration": 90.17
+        },
+        {
+          "id": "eife-folg-1215-t19",
+          "title": "Teil 19 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 18,
+          "startTime": 1656.944,
+          "duration": 92.967
+        },
+        {
+          "id": "eife-folg-1215-t20",
+          "title": "Teil 20 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 19,
+          "startTime": 1749.911,
+          "duration": 90.381
+        },
+        {
+          "id": "eife-folg-1215-t21",
+          "title": "Teil 21 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 20,
+          "startTime": 1840.292,
+          "duration": 90.289
+        },
+        {
+          "id": "eife-folg-1215-t22",
+          "title": "Teil 22 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 21,
+          "startTime": 1930.581,
+          "duration": 90.013
+        },
+        {
+          "id": "eife-folg-1215-t23",
+          "title": "Teil 23 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 22,
+          "startTime": 2020.594,
+          "duration": 92.488
+        },
+        {
+          "id": "eife-folg-1215-t24",
+          "title": "Teil 24 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 23,
+          "startTime": 2113.082,
+          "duration": 92.001
+        },
+        {
+          "id": "eife-folg-1215-t25",
+          "title": "Teil 25 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 24,
+          "startTime": 2205.083,
+          "duration": 91.612
+        },
+        {
+          "id": "eife-folg-1215-t26",
+          "title": "Teil 26 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 25,
+          "startTime": 2296.695,
+          "duration": 93.814
+        },
+        {
+          "id": "eife-folg-1215-t27",
+          "title": "Teil 27 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 26,
+          "startTime": 2390.509,
+          "duration": 92.87
+        },
+        {
+          "id": "eife-folg-1215-t28",
+          "title": "Teil 28 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 27,
+          "startTime": 2483.379,
+          "duration": 94.342
+        },
+        {
+          "id": "eife-folg-1215-t29",
+          "title": "Teil 29 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 28,
+          "startTime": 2577.721,
+          "duration": 90.123
+        },
+        {
+          "id": "eife-folg-1215-t30",
+          "title": "Teil 30 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 29,
+          "startTime": 2667.844,
+          "duration": 90.168
+        },
+        {
+          "id": "eife-folg-1215-t31",
+          "title": "Teil 31 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 30,
+          "startTime": 2758.012,
+          "duration": 90.959
+        },
+        {
+          "id": "eife-folg-1215-t32",
+          "title": "Teil 32 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 31,
+          "startTime": 2848.971,
+          "duration": 92.338
+        },
+        {
+          "id": "eife-folg-1215-t33",
+          "title": "Teil 33 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 32,
+          "startTime": 2941.309,
+          "duration": 91.256
+        },
+        {
+          "id": "eife-folg-1215-t34",
+          "title": "Teil 34 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 33,
+          "startTime": 3032.565,
+          "duration": 92.604
+        },
+        {
+          "id": "eife-folg-1215-t35",
+          "title": "Teil 35 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 34,
+          "startTime": 3125.169,
+          "duration": 92.531
+        },
+        {
+          "id": "eife-folg-1215-t36",
+          "title": "Teil 36 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 35,
+          "startTime": 3217.7,
+          "duration": 91.127
+        },
+        {
+          "id": "eife-folg-1215-t37",
+          "title": "Teil 37 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 36,
+          "startTime": 3308.827,
+          "duration": 91.647
+        },
+        {
+          "id": "eife-folg-1215-t38",
+          "title": "Teil 38 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 37,
+          "startTime": 3400.474,
+          "duration": 94.084
+        },
+        {
+          "id": "eife-folg-1215-t39",
+          "title": "Teil 39 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 38,
+          "startTime": 3494.558,
+          "duration": 90.002
+        },
+        {
+          "id": "eife-folg-1215-t40",
+          "title": "Teil 40 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 39,
+          "startTime": 3584.56,
+          "duration": 91.249
+        },
+        {
+          "id": "eife-folg-1215-t41",
+          "title": "Teil 41 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 40,
+          "startTime": 3675.809,
+          "duration": 93.345
+        },
+        {
+          "id": "eife-folg-1215-t42",
+          "title": "Teil 42 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 41,
+          "startTime": 3769.154,
+          "duration": 91.386
+        },
+        {
+          "id": "eife-folg-1215-t43",
+          "title": "Teil 43 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 42,
+          "startTime": 3860.54,
+          "duration": 90.46
+        },
+        {
+          "id": "eife-folg-1215-t44",
+          "title": "Teil 44 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 43,
+          "startTime": 3951.0,
+          "duration": 90.031
+        },
+        {
+          "id": "eife-folg-1215-t45",
+          "title": "Teil 45 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 44,
+          "startTime": 4041.031,
+          "duration": 91.872
+        },
+        {
+          "id": "eife-folg-1215-t46",
+          "title": "Teil 46 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 45,
+          "startTime": 4132.903,
+          "duration": 91.245
+        },
+        {
+          "id": "eife-folg-1215-t47",
+          "title": "Teil 47 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 46,
+          "startTime": 4224.148,
+          "duration": 91.823
+        },
+        {
+          "id": "eife-folg-1215-t48",
+          "title": "Teil 48 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 47,
+          "startTime": 4315.971,
+          "duration": 91.181
+        },
+        {
+          "id": "eife-folg-1215-t49",
+          "title": "Teil 49 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 48,
+          "startTime": 4407.152,
+          "duration": 94.632
+        },
+        {
+          "id": "eife-folg-1215-t50",
+          "title": "Teil 50 - Folge 7: Eifel-Schnee, Erster Teil",
+          "index": 49,
+          "startTime": 4501.784,
+          "duration": 91.58
+        }
+      ]
+    },
+    {
+      "id": "1739445978",
+      "title": "Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/8c/3d/5c8c3d93-273f-3ceb-e5fb-5504c03c95ce/9783732449514_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 12 Hörspiele von Lieselotte Filmhörspiele, die sich auf Krimis konzentrieren.",
+      "totalDuration": 2257.519,
+      "platforms": {
+        "appleMusic": "1739445978"
+      },
+      "chapters": [
+        {
+          "id": "lies-folg-5978-t01",
+          "title": "Kapitel 1 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 168.397
+        },
+        {
+          "id": "lies-folg-5978-t02",
+          "title": "Kapitel 2 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 1,
+          "startTime": 168.397,
+          "duration": 179.924
+        },
+        {
+          "id": "lies-folg-5978-t03",
+          "title": "Kapitel 3 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 2,
+          "startTime": 348.321,
+          "duration": 181.333
+        },
+        {
+          "id": "lies-folg-5978-t04",
+          "title": "Kapitel 4 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 3,
+          "startTime": 529.654,
+          "duration": 183.898
+        },
+        {
+          "id": "lies-folg-5978-t05",
+          "title": "Kapitel 5 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 4,
+          "startTime": 713.552,
+          "duration": 182.233
+        },
+        {
+          "id": "lies-folg-5978-t06",
+          "title": "Kapitel 6 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 5,
+          "startTime": 895.785,
+          "duration": 222.928
+        },
+        {
+          "id": "lies-folg-5978-t07",
+          "title": "Kapitel 7 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 6,
+          "startTime": 1118.713,
+          "duration": 177.766
+        },
+        {
+          "id": "lies-folg-5978-t08",
+          "title": "Kapitel 8 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 7,
+          "startTime": 1296.479,
+          "duration": 191.653
+        },
+        {
+          "id": "lies-folg-5978-t09",
+          "title": "Kapitel 9 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 8,
+          "startTime": 1488.132,
+          "duration": 189.015
+        },
+        {
+          "id": "lies-folg-5978-t10",
+          "title": "Kapitel 10 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 9,
+          "startTime": 1677.147,
+          "duration": 201.778
+        },
+        {
+          "id": "lies-folg-5978-t11",
+          "title": "Kapitel 11 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 10,
+          "startTime": 1878.925,
+          "duration": 183.538
+        },
+        {
+          "id": "lies-folg-5978-t12",
+          "title": "Kapitel 12 - Folge 11: Lieselotte im Krimifieber (Vier Hörspiele)",
+          "index": 11,
+          "startTime": 2062.463,
+          "duration": 195.056
+        }
+      ]
+    },
+    {
+      "id": "1777543035",
+      "title": "Der neue Superheld - Folge 32: Im Bann des Fraktalfeuers",
+      "episodeNumber": 32,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/9a/34/cc9a3453-fb25-34af-3cfa-faf47a70ceab/4033694577820.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel über den neuen Superhelden mit der Folge 'Im Bann des Fraktalfeuers'.",
+      "totalDuration": 2212.479,
+      "platforms": {
+        "appleMusic": "1777543035"
+      },
+      "chapters": [
+        {
+          "id": "jant-dern-3035-t01",
+          "title": "Kapitel 01: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 92.147
+        },
+        {
+          "id": "jant-dern-3035-t02",
+          "title": "Kapitel 02: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 1,
+          "startTime": 92.147,
+          "duration": 94.573
+        },
+        {
+          "id": "jant-dern-3035-t03",
+          "title": "Kapitel 03: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 2,
+          "startTime": 186.72,
+          "duration": 92.773
+        },
+        {
+          "id": "jant-dern-3035-t04",
+          "title": "Kapitel 04: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 3,
+          "startTime": 279.493,
+          "duration": 95.08
+        },
+        {
+          "id": "jant-dern-3035-t05",
+          "title": "Kapitel 05: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 4,
+          "startTime": 374.573,
+          "duration": 92.907
+        },
+        {
+          "id": "jant-dern-3035-t06",
+          "title": "Kapitel 06: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 5,
+          "startTime": 467.48,
+          "duration": 92.813
+        },
+        {
+          "id": "jant-dern-3035-t07",
+          "title": "Kapitel 07: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 6,
+          "startTime": 560.293,
+          "duration": 92.707
+        },
+        {
+          "id": "jant-dern-3035-t08",
+          "title": "Kapitel 08: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 7,
+          "startTime": 653.0,
+          "duration": 92.56
+        },
+        {
+          "id": "jant-dern-3035-t09",
+          "title": "Kapitel 09: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 8,
+          "startTime": 745.56,
+          "duration": 91.613
+        },
+        {
+          "id": "jant-dern-3035-t10",
+          "title": "Kapitel 10: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 9,
+          "startTime": 837.173,
+          "duration": 91.853
+        },
+        {
+          "id": "jant-dern-3035-t11",
+          "title": "Kapitel 11: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 10,
+          "startTime": 929.026,
+          "duration": 92.76
+        },
+        {
+          "id": "jant-dern-3035-t12",
+          "title": "Kapitel 12: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 11,
+          "startTime": 1021.786,
+          "duration": 92.213
+        },
+        {
+          "id": "jant-dern-3035-t13",
+          "title": "Kapitel 13: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 12,
+          "startTime": 1113.999,
+          "duration": 92.92
+        },
+        {
+          "id": "jant-dern-3035-t14",
+          "title": "Kapitel 14: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 13,
+          "startTime": 1206.919,
+          "duration": 91.427
+        },
+        {
+          "id": "jant-dern-3035-t15",
+          "title": "Kapitel 15: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 14,
+          "startTime": 1298.346,
+          "duration": 91.373
+        },
+        {
+          "id": "jant-dern-3035-t16",
+          "title": "Kapitel 16: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 15,
+          "startTime": 1389.719,
+          "duration": 94.787
+        },
+        {
+          "id": "jant-dern-3035-t17",
+          "title": "Kapitel 17: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 16,
+          "startTime": 1484.506,
+          "duration": 93.493
+        },
+        {
+          "id": "jant-dern-3035-t18",
+          "title": "Kapitel 18: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 17,
+          "startTime": 1577.999,
+          "duration": 92.107
+        },
+        {
+          "id": "jant-dern-3035-t19",
+          "title": "Kapitel 19: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 18,
+          "startTime": 1670.106,
+          "duration": 91.2
+        },
+        {
+          "id": "jant-dern-3035-t20",
+          "title": "Kapitel 20: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 19,
+          "startTime": 1761.306,
+          "duration": 94.373
+        },
+        {
+          "id": "jant-dern-3035-t21",
+          "title": "Kapitel 21: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 20,
+          "startTime": 1855.679,
+          "duration": 92.76
+        },
+        {
+          "id": "jant-dern-3035-t22",
+          "title": "Kapitel 22: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 21,
+          "startTime": 1948.439,
+          "duration": 92.24
+        },
+        {
+          "id": "jant-dern-3035-t23",
+          "title": "Kapitel 23: Im Bann des Fraktalfeuers (Folge 32)",
+          "index": 22,
+          "startTime": 2040.679,
+          "duration": 171.8
+        }
+      ]
+    },
+    {
+      "id": "6766563233",
+      "title": "Folge 43: Einer für alle, alle für einen / Delirium / Lebe wohl (Das Original-Hörspiel zur Serie)",
+      "episodeNumber": 43,
+      "releaseDate": "2026-05-22",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/50/1b/ef501bda-8c23-ea21-d5de-11c3be6f0651/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur deutschen Fernsehserie 'Folge 43'.",
+      "totalDuration": 4302.77,
+      "platforms": {
+        "appleMusic": "6766563233"
+      },
+      "chapters": [
+        {
+          "id": "6766563233-t01",
+          "title": "Einer für alle, alle für einen - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 196.476
+        },
+        {
+          "id": "6766563233-t02",
+          "title": "Einer für alle, alle für einen - Teil 2",
+          "index": 1,
+          "startTime": 196.476,
+          "duration": 206.175
+        },
+        {
+          "id": "6766563233-t03",
+          "title": "Einer für alle, alle für einen - Teil 3",
+          "index": 2,
+          "startTime": 402.651,
+          "duration": 183.966
+        },
+        {
+          "id": "6766563233-t04",
+          "title": "Einer für alle, alle für einen - Teil 4",
+          "index": 3,
+          "startTime": 586.617,
+          "duration": 184.523
+        },
+        {
+          "id": "6766563233-t05",
+          "title": "Einer für alle, alle für einen - Teil 5",
+          "index": 4,
+          "startTime": 771.14,
+          "duration": 187.526
+        },
+        {
+          "id": "6766563233-t06",
+          "title": "Einer für alle, alle für einen - Teil 6",
+          "index": 5,
+          "startTime": 958.666,
+          "duration": 175.641
+        },
+        {
+          "id": "6766563233-t07",
+          "title": "Einer für alle, alle für einen - Teil 7",
+          "index": 6,
+          "startTime": 1134.307,
+          "duration": 273.625
+        },
+        {
+          "id": "6766563233-t08",
+          "title": "Delirium - Teil 1",
+          "index": 7,
+          "startTime": 1407.932,
+          "duration": 187.845
+        },
+        {
+          "id": "6766563233-t09",
+          "title": "Delirium - Teil 2",
+          "index": 8,
+          "startTime": 1595.777,
+          "duration": 185.951
+        },
+        {
+          "id": "6766563233-t10",
+          "title": "Delirium - Teil 3",
+          "index": 9,
+          "startTime": 1781.728,
+          "duration": 209.941
+        },
+        {
+          "id": "6766563233-t11",
+          "title": "Delirium - Teil 4",
+          "index": 10,
+          "startTime": 1991.669,
+          "duration": 196.155
+        },
+        {
+          "id": "6766563233-t12",
+          "title": "Delirium - Teil 5",
+          "index": 11,
+          "startTime": 2187.824,
+          "duration": 194.48
+        },
+        {
+          "id": "6766563233-t13",
+          "title": "Delirium - Teil 6",
+          "index": 12,
+          "startTime": 2382.304,
+          "duration": 211.41
+        },
+        {
+          "id": "6766563233-t14",
+          "title": "Delirium - Teil 7",
+          "index": 13,
+          "startTime": 2593.714,
+          "duration": 268.994
+        },
+        {
+          "id": "6766563233-t15",
+          "title": "Lebe wohl - Teil 1",
+          "index": 14,
+          "startTime": 2862.708,
+          "duration": 200.265
+        },
+        {
+          "id": "6766563233-t16",
+          "title": "Lebe wohl - Teil 2",
+          "index": 15,
+          "startTime": 3062.973,
+          "duration": 190.37
+        },
+        {
+          "id": "6766563233-t17",
+          "title": "Lebe wohl - Teil 3",
+          "index": 16,
+          "startTime": 3253.343,
+          "duration": 195.394
+        },
+        {
+          "id": "6766563233-t18",
+          "title": "Lebe wohl - Teil 4",
+          "index": 17,
+          "startTime": 3448.737,
+          "duration": 188.79
+        },
+        {
+          "id": "6766563233-t19",
+          "title": "Lebe wohl - Teil 5",
+          "index": 18,
+          "startTime": 3637.527,
+          "duration": 187.382
+        },
+        {
+          "id": "6766563233-t20",
+          "title": "Lebe wohl - Teil 6",
+          "index": 19,
+          "startTime": 3824.909,
+          "duration": 204.373
+        },
+        {
+          "id": "6766563233-t21",
+          "title": "Lebe wohl - Teil 7",
+          "index": 20,
+          "startTime": 4029.282,
+          "duration": 273.488
+        }
+      ]
+    },
+    {
+      "id": "1596943925",
+      "title": "Folge 63: Insel-Krimi 11 - Sherlock Holmes auf Langeoog",
+      "episodeNumber": 63,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/8d/7a/d08d7ab4-6d14-51dd-5b0e-b8638d3931d2/cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel mit dem Titel 'Folge 63: Insel-Krimi 11 - Sherlock Holmes auf Langeoog' von der Hörspielkammer des Schreckens, das Comedy-Elemente enthält. Es handelt sich um ein spannendes Kriminalhörspiel im Abenteuer-Genre.",
+      "totalDuration": 2399.516,
+      "platforms": {
+        "appleMusic": "1596943925"
+      },
+      "chapters": [
+        {
+          "id": "hrsp-folg-3925-t01",
+          "title": "Kapitel 1: Intro",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 85.84
+        },
+        {
+          "id": "hrsp-folg-3925-t02",
+          "title": "Kapitel 2: Im norddeutschen Fernsehen",
+          "index": 1,
+          "startTime": 85.84,
+          "duration": 181.509
+        },
+        {
+          "id": "hrsp-folg-3925-t03",
+          "title": "Kapitel 3: Ecken und Kanten",
+          "index": 2,
+          "startTime": 267.349,
+          "duration": 181.607
+        },
+        {
+          "id": "hrsp-folg-3925-t04",
+          "title": "Kapitel 4: Gar nicht pfiffig",
+          "index": 3,
+          "startTime": 448.956,
+          "duration": 180.371
+        },
+        {
+          "id": "hrsp-folg-3925-t05",
+          "title": "Kapitel 5: Anruf von Manfred",
+          "index": 4,
+          "startTime": 629.327,
+          "duration": 180.179
+        },
+        {
+          "id": "hrsp-folg-3925-t06",
+          "title": "Kapitel 6: Buchladen",
+          "index": 5,
+          "startTime": 809.506,
+          "duration": 182.352
+        },
+        {
+          "id": "hrsp-folg-3925-t07",
+          "title": "Kapitel 7: Wie gesagt",
+          "index": 6,
+          "startTime": 991.858,
+          "duration": 180.562
+        },
+        {
+          "id": "hrsp-folg-3925-t08",
+          "title": "Kapitel 8: Entführer",
+          "index": 7,
+          "startTime": 1172.42,
+          "duration": 182.336
+        },
+        {
+          "id": "hrsp-folg-3925-t09",
+          "title": "Kapitel 9: Verhandllung Nr. 1",
+          "index": 8,
+          "startTime": 1354.756,
+          "duration": 181.954
+        },
+        {
+          "id": "hrsp-folg-3925-t10",
+          "title": "Kapitel 10: Kaum auf Langeoog gelassen",
+          "index": 9,
+          "startTime": 1536.71,
+          "duration": 181.045
+        },
+        {
+          "id": "hrsp-folg-3925-t11",
+          "title": "Kapitel 11: Ich zitiere",
+          "index": 10,
+          "startTime": 1717.755,
+          "duration": 180.511
+        },
+        {
+          "id": "hrsp-folg-3925-t12",
+          "title": "Kapitel 12: Auf frischer Tat",
+          "index": 11,
+          "startTime": 1898.266,
+          "duration": 182.66
+        },
+        {
+          "id": "hrsp-folg-3925-t13",
+          "title": "Kapitel 13: Zwischendurch",
+          "index": 12,
+          "startTime": 2080.926,
+          "duration": 180.92
+        },
+        {
+          "id": "hrsp-folg-3925-t14",
+          "title": "Kapitel 14: Outro",
+          "index": 13,
+          "startTime": 2261.846,
+          "duration": 137.67
+        }
+      ]
+    },
+    {
+      "id": "1034353235",
+      "title": "Autogenes Training (Komplettprogramm & Kurzversion) [mit Rücknahme und zum Einschlafen im Sitzen oder Liegen]",
+      "episodeNumber": null,
+      "releaseDate": "2015-03-18",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/ef/2a/00/ef2a0084-a30a-594e-503b-a52077e40966/4049412035800_1448.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Stücke, die für Entspannung und Autogenes Training gedacht sind.",
+      "totalDuration": 9331.348,
+      "platforms": {
+        "appleMusic": "1034353235"
+      },
+      "chapters": [
+        {
+          "id": "1034353235-t01",
+          "title": "AT - Komplettprogramm - Herrlich entspannt einschlafen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 3606.056
+        },
+        {
+          "id": "1034353235-t02",
+          "title": "AT - Komplettprogramm - Tiefenentspannung mit Rücknahme",
+          "index": 1,
+          "startTime": 3606.056,
+          "duration": 2812.53
+        },
+        {
+          "id": "1034353235-t03",
+          "title": "AT - Kurzversion (Schwere - Wärme - Atem) zum Einschlafen",
+          "index": 2,
+          "startTime": 6418.586,
+          "duration": 1801.263
+        },
+        {
+          "id": "1034353235-t04",
+          "title": "AT - Kurze Auszeit (Schwere - Wärme - Atem) mit Rücknahme",
+          "index": 3,
+          "startTime": 8219.849,
+          "duration": 1111.499
+        }
+      ]
+    },
+    {
+      "id": "1889575630",
+      "title": "Talent Award 2025 - Komplett",
+      "episodeNumber": null,
+      "releaseDate": "2026-04-09",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/d3/97/51d397d1-5370-c0bf-43f8-593254aca411/4066004911588_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das im Rahmen des Talent Award 2025 veröffentlicht wurde. Es enthält insgesamt 66 Tracks und wird im Genre Hörspiele angeboten.",
+      "totalDuration": 13108.6,
+      "platforms": {
+        "appleMusic": "1889575630"
+      },
+      "chapters": [
+        {
+          "id": "1889575630-t01",
+          "title": "Ben Schafmeister & Luisa Charlotte Schulz: Let the games begin!",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 242.28
+        },
+        {
+          "id": "1889575630-t02",
+          "title": "Ben Schafmeister & Luisa Charlotte Schulz: Die Teams",
+          "index": 1,
+          "startTime": 242.28,
+          "duration": 292.76
+        },
+        {
+          "id": "1889575630-t03",
+          "title": "Raphael Breuer: Cro aber on o budget",
+          "index": 2,
+          "startTime": 535.04,
+          "duration": 192.48
+        },
+        {
+          "id": "1889575630-t04",
+          "title": "Raphael Breuer: Lass die Finger weg von Grammatikfehlern",
+          "index": 3,
+          "startTime": 727.52,
+          "duration": 246.32
+        },
+        {
+          "id": "1889575630-t05",
+          "title": "Irina Prichodko: Schl*mpen Katze",
+          "index": 4,
+          "startTime": 973.84,
+          "duration": 203.64
+        },
+        {
+          "id": "1889575630-t06",
+          "title": "Irina Prichodko: Ein fettes Problem",
+          "index": 5,
+          "startTime": 1177.48,
+          "duration": 224.12
+        },
+        {
+          "id": "1889575630-t07",
+          "title": "Marius von Kühn: Der perfekte Babyhut",
+          "index": 6,
+          "startTime": 1401.6,
+          "duration": 311.12
+        },
+        {
+          "id": "1889575630-t08",
+          "title": "Sophia Henrie: Knasti oder wieder Jürgen?",
+          "index": 7,
+          "startTime": 1712.72,
+          "duration": 367.12
+        },
+        {
+          "id": "1889575630-t09",
+          "title": "Amin: Alterego: Gemüsehändler",
+          "index": 8,
+          "startTime": 2079.84,
+          "duration": 441.72
+        },
+        {
+          "id": "1889575630-t10",
+          "title": "Ben Schafmeister & Luisa Charlotte Schulz: Lindenthal",
+          "index": 9,
+          "startTime": 2521.56,
+          "duration": 181.12
+        },
+        {
+          "id": "1889575630-t11",
+          "title": "Ben Schafmeister & Luisa Charlotte Schulz: Wer ist lauter?",
+          "index": 10,
+          "startTime": 2702.68,
+          "duration": 181.92
+        },
+        {
+          "id": "1889575630-t12",
+          "title": "Elli.Lizz: Hear me out!",
+          "index": 11,
+          "startTime": 2884.6,
+          "duration": 327.16
+        },
+        {
+          "id": "1889575630-t13",
+          "title": "Vincent Tophoven: Almonds on Fire!",
+          "index": 12,
+          "startTime": 3211.76,
+          "duration": 289.24
+        },
+        {
+          "id": "1889575630-t14",
+          "title": "Gowand: M steht für Medium",
+          "index": 13,
+          "startTime": 3501.0,
+          "duration": 439.76
+        },
+        {
+          "id": "1889575630-t15",
+          "title": "Anna Okot: White People Shit",
+          "index": 14,
+          "startTime": 3940.76,
+          "duration": 197.68
+        },
+        {
+          "id": "1889575630-t16",
+          "title": "Anna Okot: Regengeräusche beim Schlafen",
+          "index": 15,
+          "startTime": 4138.44,
+          "duration": 202.8
+        },
+        {
+          "id": "1889575630-t17",
+          "title": "Tom Wingerath: Stammgast Notaufnahme",
+          "index": 16,
+          "startTime": 4341.24,
+          "duration": 247.48
+        },
+        {
+          "id": "1889575630-t18",
+          "title": "Tom Wingerath: Die Taubenrettung",
+          "index": 17,
+          "startTime": 4588.72,
+          "duration": 233.16
+        },
+        {
+          "id": "1889575630-t19",
+          "title": "Ben Schafmeister & Luisa Charlotte Schulz: Die Entscheidung steht",
+          "index": 18,
+          "startTime": 4821.88,
+          "duration": 212.68
+        },
+        {
+          "id": "1889575630-t20",
+          "title": "Luisa Charlotte Schulz: Die Ergebnisse",
+          "index": 19,
+          "startTime": 5034.56,
+          "duration": 180.8
+        },
+        {
+          "id": "1889575630-t21",
+          "title": "Luisa Charlotte Schulz: Die Finalisten",
+          "index": 20,
+          "startTime": 5215.36,
+          "duration": 293.24
+        },
+        {
+          "id": "1889575630-t22",
+          "title": "Ben Schafmeister: Eine Führung durch den Abend",
+          "index": 21,
+          "startTime": 5508.6,
+          "duration": 263.84
+        },
+        {
+          "id": "1889575630-t23",
+          "title": "Ben Schafmeister: Habt ihr Bock?",
+          "index": 22,
+          "startTime": 5772.44,
+          "duration": 280.92
+        },
+        {
+          "id": "1889575630-t24",
+          "title": "Hannes Höfer: So wenig drauf wie Margerita",
+          "index": 23,
+          "startTime": 6053.36,
+          "duration": 208.32
+        },
+        {
+          "id": "1889575630-t25",
+          "title": "Hannes Höfer: KI Toilette",
+          "index": 24,
+          "startTime": 6261.68,
+          "duration": 305.72
+        },
+        {
+          "id": "1889575630-t26",
+          "title": "Oliver Graminsky: Wäscht man sich da?!",
+          "index": 25,
+          "startTime": 6567.4,
+          "duration": 357.56
+        },
+        {
+          "id": "1889575630-t27",
+          "title": "Stephie Zöllner: Tampon oder Bonbon?!",
+          "index": 26,
+          "startTime": 6924.96,
+          "duration": 381.88
+        },
+        {
+          "id": "1889575630-t28",
+          "title": "Gaston Stabiszewski: Die Messlatte liegt tief",
+          "index": 27,
+          "startTime": 7306.84,
+          "duration": 204.16
+        },
+        {
+          "id": "1889575630-t29",
+          "title": "Gaston Stabiszewski: Seit wann ist das uncool?",
+          "index": 28,
+          "startTime": 7511.0,
+          "duration": 221.6
+        },
+        {
+          "id": "1889575630-t30",
+          "title": "Victoria Abelmann-Brockmann: Eine etwas andere Show",
+          "index": 29,
+          "startTime": 7732.6,
+          "duration": 286.76
+        },
+        {
+          "id": "1889575630-t31",
+          "title": "Victoria Abelmann-Brockmann: Alterego: Victor",
+          "index": 30,
+          "startTime": 8019.36,
+          "duration": 239.16
+        },
+        {
+          "id": "1889575630-t32",
+          "title": "Ben Schafmeister: Einer zu viel?",
+          "index": 31,
+          "startTime": 8258.52,
+          "duration": 301.76
+        },
+        {
+          "id": "1889575630-t33",
+          "title": "Xenia Brandt: Traumberuf = Feierabend",
+          "index": 32,
+          "startTime": 8560.28,
+          "duration": 180.64
+        },
+        {
+          "id": "1889575630-t34",
+          "title": "Xenia Brandt: Kinder sind zu ehrlich",
+          "index": 33,
+          "startTime": 8740.92,
+          "duration": 225.84
+        },
+        {
+          "id": "1889575630-t35",
+          "title": "Bilal Mohammed: Heuschnupfen oder K*ks",
+          "index": 34,
+          "startTime": 8966.76,
+          "duration": 295.48
+        },
+        {
+          "id": "1889575630-t36",
+          "title": "Alex Hain: Streit mit'm Kühlschrank",
+          "index": 35,
+          "startTime": 9262.24,
+          "duration": 383.36
+        },
+        {
+          "id": "1889575630-t37",
+          "title": "Marlena Schönfeld: Spricht er mit mir?",
+          "index": 36,
+          "startTime": 9645.6,
+          "duration": 245.04
+        },
+        {
+          "id": "1889575630-t38",
+          "title": "Marlena Schönfeld: Conversation Stopper",
+          "index": 37,
+          "startTime": 9890.64,
+          "duration": 186.8
+        },
+        {
+          "id": "1889575630-t39",
+          "title": "Kai Borsutzky: Porree in der Hose",
+          "index": 38,
+          "startTime": 10077.44,
+          "duration": 367.8
+        },
+        {
+          "id": "1889575630-t40",
+          "title": "Ben Schafmeister: Wer sind eure Favoriten?",
+          "index": 39,
+          "startTime": 10445.24,
+          "duration": 208.76
+        },
+        {
+          "id": "1889575630-t41",
+          "title": "Ben Schafmeister: Man weiß nie was kommt..",
+          "index": 40,
+          "startTime": 10654.0,
+          "duration": 261.16
+        },
+        {
+          "id": "1889575630-t42",
+          "title": "Ben Schafmeister: Wer ist im Finale?",
+          "index": 41,
+          "startTime": 10915.16,
+          "duration": 238.56
+        },
+        {
+          "id": "1889575630-t43",
+          "title": "Ben Schafmeister: Die Finalisten",
+          "index": 42,
+          "startTime": 11153.72,
+          "duration": 207.2
+        },
+        {
+          "id": "1889575630-t44",
+          "title": "Ben Schafmeister: Die Ehrenrunde",
+          "index": 43,
+          "startTime": 11360.92,
+          "duration": 296.4
+        },
+        {
+          "id": "1889575630-t45",
+          "title": "Ben Schafmeister & Tony Bauer: Das Finale",
+          "index": 44,
+          "startTime": 11657.32,
+          "duration": 264.88
+        },
+        {
+          "id": "1889575630-t46",
+          "title": "Ben Schafmeister & Tony Bauer: Der Stimmungstest",
+          "index": 45,
+          "startTime": 11922.2,
+          "duration": 220.0
+        },
+        {
+          "id": "1889575630-t47",
+          "title": "Gaston Stabiszewski:Das sollte verboten werden!",
+          "index": 46,
+          "startTime": 12142.2,
+          "duration": 353.16
+        },
+        {
+          "id": "1889575630-t48",
+          "title": "Tony Bauer: In Flirtlaune",
+          "index": 47,
+          "startTime": 12495.36,
+          "duration": 205.04
+        },
+        {
+          "id": "1889575630-t49",
+          "title": "Vincent Tophoven: Karneval oder Purge?",
+          "index": 48,
+          "startTime": 12700.4,
+          "duration": 208.32
+        },
+        {
+          "id": "1889575630-t50",
+          "title": "Vincent Tophoven: Noch einmal Kind sein...",
+          "index": 49,
+          "startTime": 12908.72,
+          "duration": 199.88
+        }
+      ]
+    },
+    {
+      "id": "949133089",
+      "title": "Acht Hercule Poirot Krimis (Hörspiel)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/9b/af/bd/9bafbd1e-61f7-65b9-2adb-d812876af603/9783844505900_1448.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele der berühmten Krimiserie um Hercule Poirot von Felix Manteuffel.",
+      "totalDuration": 16224.252,
+      "platforms": {
+        "appleMusic": "949133089"
+      },
+      "chapters": [
+        {
+          "id": "feli-acht-3089-t01",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 298.293
+        },
+        {
+          "id": "feli-acht-3089-t02",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 2",
+          "index": 1,
+          "startTime": 298.293,
+          "duration": 312.453
+        },
+        {
+          "id": "feli-acht-3089-t03",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 3",
+          "index": 2,
+          "startTime": 610.746,
+          "duration": 334.2
+        },
+        {
+          "id": "feli-acht-3089-t04",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 4",
+          "index": 3,
+          "startTime": 944.946,
+          "duration": 154.307
+        },
+        {
+          "id": "feli-acht-3089-t05",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 5",
+          "index": 4,
+          "startTime": 1099.253,
+          "duration": 254.747
+        },
+        {
+          "id": "feli-acht-3089-t06",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 6",
+          "index": 5,
+          "startTime": 1354.0,
+          "duration": 297.413
+        },
+        {
+          "id": "feli-acht-3089-t07",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 7",
+          "index": 6,
+          "startTime": 1651.413,
+          "duration": 300.08
+        },
+        {
+          "id": "feli-acht-3089-t08",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 8",
+          "index": 7,
+          "startTime": 1951.493,
+          "duration": 280.68
+        },
+        {
+          "id": "feli-acht-3089-t09",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 9",
+          "index": 8,
+          "startTime": 2232.173,
+          "duration": 375.307
+        },
+        {
+          "id": "feli-acht-3089-t10",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 10",
+          "index": 9,
+          "startTime": 2607.48,
+          "duration": 394.013
+        },
+        {
+          "id": "feli-acht-3089-t11",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 11",
+          "index": 10,
+          "startTime": 3001.493,
+          "duration": 246.187
+        },
+        {
+          "id": "feli-acht-3089-t12",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 12",
+          "index": 11,
+          "startTime": 3247.68,
+          "duration": 277.973
+        },
+        {
+          "id": "feli-acht-3089-t13",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 13",
+          "index": 12,
+          "startTime": 3525.653,
+          "duration": 340.28
+        },
+        {
+          "id": "feli-acht-3089-t14",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 14",
+          "index": 13,
+          "startTime": 3865.933,
+          "duration": 377.24
+        },
+        {
+          "id": "feli-acht-3089-t15",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 15",
+          "index": 14,
+          "startTime": 4243.173,
+          "duration": 332.453
+        },
+        {
+          "id": "feli-acht-3089-t16",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 16",
+          "index": 15,
+          "startTime": 4575.626,
+          "duration": 325.067
+        },
+        {
+          "id": "feli-acht-3089-t17",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 17",
+          "index": 16,
+          "startTime": 4900.693,
+          "duration": 338.52
+        },
+        {
+          "id": "feli-acht-3089-t18",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 18",
+          "index": 17,
+          "startTime": 5239.213,
+          "duration": 310.067
+        },
+        {
+          "id": "feli-acht-3089-t19",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 19",
+          "index": 18,
+          "startTime": 5549.28,
+          "duration": 293.827
+        },
+        {
+          "id": "feli-acht-3089-t20",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 20",
+          "index": 19,
+          "startTime": 5843.107,
+          "duration": 318.533
+        },
+        {
+          "id": "feli-acht-3089-t21",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 21",
+          "index": 20,
+          "startTime": 6161.64,
+          "duration": 405.187
+        },
+        {
+          "id": "feli-acht-3089-t22",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 22",
+          "index": 21,
+          "startTime": 6566.827,
+          "duration": 360.36
+        },
+        {
+          "id": "feli-acht-3089-t23",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 23",
+          "index": 22,
+          "startTime": 6927.187,
+          "duration": 310.173
+        },
+        {
+          "id": "feli-acht-3089-t24",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 24",
+          "index": 23,
+          "startTime": 7237.36,
+          "duration": 385.76
+        },
+        {
+          "id": "feli-acht-3089-t25",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 25",
+          "index": 24,
+          "startTime": 7623.12,
+          "duration": 240.667
+        },
+        {
+          "id": "feli-acht-3089-t26",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 26",
+          "index": 25,
+          "startTime": 7863.787,
+          "duration": 276.907
+        },
+        {
+          "id": "feli-acht-3089-t27",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 27",
+          "index": 26,
+          "startTime": 8140.694,
+          "duration": 289.653
+        },
+        {
+          "id": "feli-acht-3089-t28",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 28",
+          "index": 27,
+          "startTime": 8430.347,
+          "duration": 324.507
+        },
+        {
+          "id": "feli-acht-3089-t29",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 29",
+          "index": 28,
+          "startTime": 8754.854,
+          "duration": 383.293
+        },
+        {
+          "id": "feli-acht-3089-t30",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 30",
+          "index": 29,
+          "startTime": 9138.147,
+          "duration": 272.653
+        },
+        {
+          "id": "feli-acht-3089-t31",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 31",
+          "index": 30,
+          "startTime": 9410.8,
+          "duration": 324.213
+        },
+        {
+          "id": "feli-acht-3089-t32",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 32",
+          "index": 31,
+          "startTime": 9735.013,
+          "duration": 388.987
+        },
+        {
+          "id": "feli-acht-3089-t33",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 33",
+          "index": 32,
+          "startTime": 10124.0,
+          "duration": 296.08
+        },
+        {
+          "id": "feli-acht-3089-t34",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 34",
+          "index": 33,
+          "startTime": 10420.08,
+          "duration": 263.573
+        },
+        {
+          "id": "feli-acht-3089-t35",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 35",
+          "index": 34,
+          "startTime": 10683.653,
+          "duration": 300.307
+        },
+        {
+          "id": "feli-acht-3089-t36",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 36",
+          "index": 35,
+          "startTime": 10983.96,
+          "duration": 531.893
+        },
+        {
+          "id": "feli-acht-3089-t37",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 37",
+          "index": 36,
+          "startTime": 11515.853,
+          "duration": 322.973
+        },
+        {
+          "id": "feli-acht-3089-t38",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 38",
+          "index": 37,
+          "startTime": 11838.826,
+          "duration": 395.587
+        },
+        {
+          "id": "feli-acht-3089-t39",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 39",
+          "index": 38,
+          "startTime": 12234.413,
+          "duration": 346.493
+        },
+        {
+          "id": "feli-acht-3089-t40",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 40",
+          "index": 39,
+          "startTime": 12580.906,
+          "duration": 381.48
+        },
+        {
+          "id": "feli-acht-3089-t41",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 41",
+          "index": 40,
+          "startTime": 12962.386,
+          "duration": 317.187
+        },
+        {
+          "id": "feli-acht-3089-t42",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 42",
+          "index": 41,
+          "startTime": 13279.573,
+          "duration": 277.8
+        },
+        {
+          "id": "feli-acht-3089-t43",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 43",
+          "index": 42,
+          "startTime": 13557.373,
+          "duration": 292.267
+        },
+        {
+          "id": "feli-acht-3089-t44",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 44",
+          "index": 43,
+          "startTime": 13849.64,
+          "duration": 353.493
+        },
+        {
+          "id": "feli-acht-3089-t45",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 45",
+          "index": 44,
+          "startTime": 14203.133,
+          "duration": 409.733
+        },
+        {
+          "id": "feli-acht-3089-t46",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 46",
+          "index": 45,
+          "startTime": 14612.866,
+          "duration": 371.947
+        },
+        {
+          "id": "feli-acht-3089-t47",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 47",
+          "index": 46,
+          "startTime": 14984.813,
+          "duration": 379.733
+        },
+        {
+          "id": "feli-acht-3089-t48",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 48",
+          "index": 47,
+          "startTime": 15364.546,
+          "duration": 283.533
+        },
+        {
+          "id": "feli-acht-3089-t49",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 49",
+          "index": 48,
+          "startTime": 15648.079,
+          "duration": 284.28
+        },
+        {
+          "id": "feli-acht-3089-t50",
+          "title": "Acht Hercule Poirot Krimis, Kapitel 50",
+          "index": 49,
+          "startTime": 15932.359,
+          "duration": 291.893
+        }
+      ]
+    },
+    {
+      "id": "1644678314",
+      "title": "Die Eiskönigin",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/6e/f5/ab6ef58e-b97d-4dc2-5de1-8b0abcbc701a/cover_4062851751650.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel 'Die Eiskönigin' von Nachtfuchs im Genre Hörspiele, das auf Apple Music verfügbar ist.",
+      "totalDuration": 1852.04,
+      "platforms": {
+        "appleMusic": "1644678314"
+      },
+      "chapters": [
+        {
+          "id": "nach-diee-8314-t01",
+          "title": "Die Eiskönigin, Pt. 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 61.022
+        },
+        {
+          "id": "nach-diee-8314-t02",
+          "title": "Die Eiskönigin, Pt. 2",
+          "index": 1,
+          "startTime": 61.022,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t03",
+          "title": "Die Eiskönigin, Pt. 3",
+          "index": 2,
+          "startTime": 122.021,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t04",
+          "title": "Die Eiskönigin, Pt. 4",
+          "index": 3,
+          "startTime": 182.021,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t05",
+          "title": "Die Eiskönigin, Pt. 5",
+          "index": 4,
+          "startTime": 242.021,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t06",
+          "title": "Die Eiskönigin, Pt. 6",
+          "index": 5,
+          "startTime": 302.021,
+          "duration": 61.997
+        },
+        {
+          "id": "nach-diee-8314-t07",
+          "title": "Die Eiskönigin, Pt. 7",
+          "index": 6,
+          "startTime": 364.018,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t08",
+          "title": "Die Eiskönigin, Pt. 8",
+          "index": 7,
+          "startTime": 425.017,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t09",
+          "title": "Die Eiskönigin, Pt. 9",
+          "index": 8,
+          "startTime": 485.017,
+          "duration": 61.997
+        },
+        {
+          "id": "nach-diee-8314-t10",
+          "title": "Die Eiskönigin, Pt. 10",
+          "index": 9,
+          "startTime": 547.014,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t11",
+          "title": "Die Eiskönigin, Pt. 11",
+          "index": 10,
+          "startTime": 608.013,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t12",
+          "title": "Die Eiskönigin, Pt. 12",
+          "index": 11,
+          "startTime": 669.012,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t13",
+          "title": "Die Eiskönigin, Pt. 13",
+          "index": 12,
+          "startTime": 729.012,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t14",
+          "title": "Die Eiskönigin, Pt. 14",
+          "index": 13,
+          "startTime": 790.011,
+          "duration": 61.997
+        },
+        {
+          "id": "nach-diee-8314-t15",
+          "title": "Die Eiskönigin, Pt. 15",
+          "index": 14,
+          "startTime": 852.008,
+          "duration": 61.997
+        },
+        {
+          "id": "nach-diee-8314-t16",
+          "title": "Die Eiskönigin, Pt. 16",
+          "index": 15,
+          "startTime": 914.005,
+          "duration": 61.997
+        },
+        {
+          "id": "nach-diee-8314-t17",
+          "title": "Die Eiskönigin, Pt. 17",
+          "index": 16,
+          "startTime": 976.002,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t18",
+          "title": "Die Eiskönigin, Pt. 18",
+          "index": 17,
+          "startTime": 1037.001,
+          "duration": 61.997
+        },
+        {
+          "id": "nach-diee-8314-t19",
+          "title": "Die Eiskönigin, Pt. 19",
+          "index": 18,
+          "startTime": 1098.998,
+          "duration": 61.022
+        },
+        {
+          "id": "nach-diee-8314-t20",
+          "title": "Die Eiskönigin, Pt. 20",
+          "index": 19,
+          "startTime": 1160.02,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t21",
+          "title": "Die Eiskönigin, Pt. 21",
+          "index": 20,
+          "startTime": 1220.02,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t22",
+          "title": "Die Eiskönigin, Pt. 22",
+          "index": 21,
+          "startTime": 1281.019,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t23",
+          "title": "Die Eiskönigin, Pt. 23",
+          "index": 22,
+          "startTime": 1342.018,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t24",
+          "title": "Die Eiskönigin, Pt. 24",
+          "index": 23,
+          "startTime": 1402.018,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t25",
+          "title": "Die Eiskönigin, Pt. 25",
+          "index": 24,
+          "startTime": 1462.018,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t26",
+          "title": "Die Eiskönigin, Pt. 26",
+          "index": 25,
+          "startTime": 1523.017,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t27",
+          "title": "Die Eiskönigin, Pt. 27",
+          "index": 26,
+          "startTime": 1583.017,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t28",
+          "title": "Die Eiskönigin, Pt. 28",
+          "index": 27,
+          "startTime": 1643.017,
+          "duration": 60.0
+        },
+        {
+          "id": "nach-diee-8314-t29",
+          "title": "Die Eiskönigin, Pt. 29",
+          "index": 28,
+          "startTime": 1703.017,
+          "duration": 60.999
+        },
+        {
+          "id": "nach-diee-8314-t30",
+          "title": "Die Eiskönigin, Pt. 30",
+          "index": 29,
+          "startTime": 1764.016,
+          "duration": 88.024
+        }
+      ]
+    },
+    {
+      "id": "1582042251",
+      "title": "Die Mutprobe, Ein echter Krimi, Der geteilte Wald (Hörspiele zur TV Serie 16)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/3c/f9/043cf95a-8152-ae45-67b2-5d04f4dd6d36/4066338226761_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album besteht aus Hörspielen, die zu einer TV-Serie gehören und von bekannten deutschen Stimmen wie Katja Grübel und Peter Weis gelesen werden.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1582042251"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1831929684",
+      "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 1: Der grüne Glibber-Brief (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/8a/fa/4e8afab8-6f93-3202-da84-0f25bdb21bf6/4069828367159_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel der Serie 'Die Schule der magischen Tiere ermittelt', das die Abenteuer der magischen Tiere erzählt.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1831929684"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1866626908",
+      "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 2: Der Hausschuh-Dieb (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/5a/00/ae5a00f1-417c-7db1-4ecb-70af2f4d62f6/4069829078825_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel aus der Reihe 'Die Schule der magischen Tiere', das spannende Abenteuer und magische Tiere beinhaltet.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1866626908"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1834927140",
+      "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 7: Das Biber-Rätsel (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/ed/80/8eed80af-7d23-de08-87b0-4ed88c330756/4069828367166_cover.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel-Album basierend auf der Serie 'Die Schule der magischen Tiere ermittelt', das sich auf kriminelle Abenteuer mit magischen Tieren konzentriert.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1834927140"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1895109986",
+      "title": "Die Schule der magischen Tiere ermittelt Neuausgabe 8: Die Erdbeer-Spur (Der fröhliche Mini-Krimi mit den beliebten magischen Tieren)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/72/5d/68725d2f-f2f8-bb93-6403-05b6d3bb576f/4069829078818_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel aus der Serie 'Die Schule der magischen Tiere ermittelt', das Abenteuer und Kriminalität mit magischen Tieren kombiniert. Es richtet sich an ein junges Publikum und beinhaltet spannende Geschichten.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1895109986"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1454562739",
+      "title": "Die Theo Lingen Krimi-Box",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ad/f7/47/adf74703-0fff-b2cb-ec6f-d5b7aeaef0f0/cover.jpg/100x100bb.jpg",
+      "description": "Ein Album mit 92 Tracks des Künstlers Theo Lingen, das sich auf Hörspiele spezialisiert.",
+      "totalDuration": 4008.552,
+      "platforms": {
+        "appleMusic": "1454562739"
+      },
+      "chapters": [
+        {
+          "id": "theo-diet-2739-t01",
+          "title": "Kapitel 1.1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 75.915
+        },
+        {
+          "id": "theo-diet-2739-t02",
+          "title": "Kapitel 1.2",
+          "index": 1,
+          "startTime": 75.915,
+          "duration": 76.607
+        },
+        {
+          "id": "theo-diet-2739-t03",
+          "title": "Kapitel 1.3",
+          "index": 2,
+          "startTime": 152.522,
+          "duration": 77.256
+        },
+        {
+          "id": "theo-diet-2739-t04",
+          "title": "Kapitel 1.4",
+          "index": 3,
+          "startTime": 229.778,
+          "duration": 78.434
+        },
+        {
+          "id": "theo-diet-2739-t05",
+          "title": "Kapitel 1.5",
+          "index": 4,
+          "startTime": 308.212,
+          "duration": 101.757
+        },
+        {
+          "id": "theo-diet-2739-t06",
+          "title": "Kapitel 1.6",
+          "index": 5,
+          "startTime": 409.969,
+          "duration": 83.347
+        },
+        {
+          "id": "theo-diet-2739-t07",
+          "title": "Kapitel 1.7",
+          "index": 6,
+          "startTime": 493.316,
+          "duration": 76.163
+        },
+        {
+          "id": "theo-diet-2739-t08",
+          "title": "Kapitel 1.8",
+          "index": 7,
+          "startTime": 569.479,
+          "duration": 84.758
+        },
+        {
+          "id": "theo-diet-2739-t09",
+          "title": "Kapitel 1.9",
+          "index": 8,
+          "startTime": 654.237,
+          "duration": 85.392
+        },
+        {
+          "id": "theo-diet-2739-t10",
+          "title": "Kapitel 1.10",
+          "index": 9,
+          "startTime": 739.629,
+          "duration": 82.785
+        },
+        {
+          "id": "theo-diet-2739-t11",
+          "title": "Kapitel 1.11",
+          "index": 10,
+          "startTime": 822.414,
+          "duration": 78.682
+        },
+        {
+          "id": "theo-diet-2739-t12",
+          "title": "Kapitel 1.12",
+          "index": 11,
+          "startTime": 901.096,
+          "duration": 79.248
+        },
+        {
+          "id": "theo-diet-2739-t13",
+          "title": "Kapitel 1.13",
+          "index": 12,
+          "startTime": 980.344,
+          "duration": 76.602
+        },
+        {
+          "id": "theo-diet-2739-t14",
+          "title": "Kapitel 1.14",
+          "index": 13,
+          "startTime": 1056.946,
+          "duration": 84.257
+        },
+        {
+          "id": "theo-diet-2739-t15",
+          "title": "Kapitel 1.15",
+          "index": 14,
+          "startTime": 1141.203,
+          "duration": 77.961
+        },
+        {
+          "id": "theo-diet-2739-t16",
+          "title": "Kapitel 1.16",
+          "index": 15,
+          "startTime": 1219.164,
+          "duration": 78.76
+        },
+        {
+          "id": "theo-diet-2739-t17",
+          "title": "Kapitel 1.17",
+          "index": 16,
+          "startTime": 1297.924,
+          "duration": 84.282
+        },
+        {
+          "id": "theo-diet-2739-t18",
+          "title": "Kapitel 1.18",
+          "index": 17,
+          "startTime": 1382.206,
+          "duration": 77.251
+        },
+        {
+          "id": "theo-diet-2739-t19",
+          "title": "Kapitel 1.19",
+          "index": 18,
+          "startTime": 1459.457,
+          "duration": 75.988
+        },
+        {
+          "id": "theo-diet-2739-t20",
+          "title": "Kapitel 1.20",
+          "index": 19,
+          "startTime": 1535.445,
+          "duration": 75.615
+        },
+        {
+          "id": "theo-diet-2739-t21",
+          "title": "Kapitel 1.21",
+          "index": 20,
+          "startTime": 1611.06,
+          "duration": 81.786
+        },
+        {
+          "id": "theo-diet-2739-t22",
+          "title": "Kapitel 1.22",
+          "index": 21,
+          "startTime": 1692.846,
+          "duration": 79.939
+        },
+        {
+          "id": "theo-diet-2739-t23",
+          "title": "Kapitel 1.23",
+          "index": 22,
+          "startTime": 1772.785,
+          "duration": 81.14
+        },
+        {
+          "id": "theo-diet-2739-t24",
+          "title": "Kapitel 1.24",
+          "index": 23,
+          "startTime": 1853.925,
+          "duration": 73.006
+        },
+        {
+          "id": "theo-diet-2739-t25",
+          "title": "Kapitel 1.25",
+          "index": 24,
+          "startTime": 1926.931,
+          "duration": 87.997
+        },
+        {
+          "id": "theo-diet-2739-t26",
+          "title": "Kapitel 1.26",
+          "index": 25,
+          "startTime": 2014.928,
+          "duration": 75.475
+        },
+        {
+          "id": "theo-diet-2739-t27",
+          "title": "Kapitel 1.27",
+          "index": 26,
+          "startTime": 2090.403,
+          "duration": 91.903
+        },
+        {
+          "id": "theo-diet-2739-t28",
+          "title": "Kapitel 1.28",
+          "index": 27,
+          "startTime": 2182.306,
+          "duration": 90.354
+        },
+        {
+          "id": "theo-diet-2739-t29",
+          "title": "Kapitel 1.29",
+          "index": 28,
+          "startTime": 2272.66,
+          "duration": 79.102
+        },
+        {
+          "id": "theo-diet-2739-t30",
+          "title": "Kapitel 1.30",
+          "index": 29,
+          "startTime": 2351.762,
+          "duration": 75.813
+        },
+        {
+          "id": "theo-diet-2739-t31",
+          "title": "Kapitel 1.31",
+          "index": 30,
+          "startTime": 2427.575,
+          "duration": 73.792
+        },
+        {
+          "id": "theo-diet-2739-t32",
+          "title": "Kapitel 1.32",
+          "index": 31,
+          "startTime": 2501.367,
+          "duration": 94.554
+        },
+        {
+          "id": "theo-diet-2739-t33",
+          "title": "Kapitel 1.33",
+          "index": 32,
+          "startTime": 2595.921,
+          "duration": 94.638
+        },
+        {
+          "id": "theo-diet-2739-t34",
+          "title": "Kapitel 2.1",
+          "index": 33,
+          "startTime": 2690.559,
+          "duration": 81.314
+        },
+        {
+          "id": "theo-diet-2739-t35",
+          "title": "Kapitel 2.2",
+          "index": 34,
+          "startTime": 2771.873,
+          "duration": 87.784
+        },
+        {
+          "id": "theo-diet-2739-t36",
+          "title": "Kapitel 2.3",
+          "index": 35,
+          "startTime": 2859.657,
+          "duration": 77.792
+        },
+        {
+          "id": "theo-diet-2739-t37",
+          "title": "Kapitel 2.4",
+          "index": 36,
+          "startTime": 2937.449,
+          "duration": 79.874
+        },
+        {
+          "id": "theo-diet-2739-t38",
+          "title": "Kapitel 2.5",
+          "index": 37,
+          "startTime": 3017.323,
+          "duration": 79.033
+        },
+        {
+          "id": "theo-diet-2739-t39",
+          "title": "Kapitel 2.6",
+          "index": 38,
+          "startTime": 3096.356,
+          "duration": 78.651
+        },
+        {
+          "id": "theo-diet-2739-t40",
+          "title": "Kapitel 2.7",
+          "index": 39,
+          "startTime": 3175.007,
+          "duration": 74.089
+        },
+        {
+          "id": "theo-diet-2739-t41",
+          "title": "Kapitel 2.8",
+          "index": 40,
+          "startTime": 3249.096,
+          "duration": 78.294
+        },
+        {
+          "id": "theo-diet-2739-t42",
+          "title": "Kapitel 2.9",
+          "index": 41,
+          "startTime": 3327.39,
+          "duration": 74.058
+        },
+        {
+          "id": "theo-diet-2739-t43",
+          "title": "Kapitel 2.10",
+          "index": 42,
+          "startTime": 3401.448,
+          "duration": 76.869
+        },
+        {
+          "id": "theo-diet-2739-t44",
+          "title": "Kapitel 2.11",
+          "index": 43,
+          "startTime": 3478.317,
+          "duration": 75.793
+        },
+        {
+          "id": "theo-diet-2739-t45",
+          "title": "Kapitel 2.12",
+          "index": 44,
+          "startTime": 3554.11,
+          "duration": 75.557
+        },
+        {
+          "id": "theo-diet-2739-t46",
+          "title": "Kapitel 2.13",
+          "index": 45,
+          "startTime": 3629.667,
+          "duration": 75.385
+        },
+        {
+          "id": "theo-diet-2739-t47",
+          "title": "Kapitel 2.14",
+          "index": 46,
+          "startTime": 3705.052,
+          "duration": 76.264
+        },
+        {
+          "id": "theo-diet-2739-t48",
+          "title": "Kapitel 2.15",
+          "index": 47,
+          "startTime": 3781.316,
+          "duration": 75.448
+        },
+        {
+          "id": "theo-diet-2739-t49",
+          "title": "Kapitel 2.16",
+          "index": 48,
+          "startTime": 3856.764,
+          "duration": 76.158
+        },
+        {
+          "id": "theo-diet-2739-t50",
+          "title": "Kapitel 2.17",
+          "index": 49,
+          "startTime": 3932.922,
+          "duration": 75.63
+        }
+      ]
+    },
+    {
+      "id": "1647814892",
+      "title": "Gespenster-Krimi - Das Dämonenhaus",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/46/fa/08/46fa0805-6e90-063d-5699-f778c8e62aca/9783754001646_3000.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel \"Gespenster-Krimi - Das Dämonenhaus\" von Neal Davenport, das 16 Hörspieltracks umfasst. Das Genre \"Hörspiele\" deutet eindeutig auf ein Hörspielalbum hin.",
+      "totalDuration": 3333.986,
+      "platforms": {
+        "appleMusic": "1647814892"
+      },
+      "chapters": [
+        {
+          "id": "neal-gesp-4892-t01",
+          "title": "Kapitel 1 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 227.339
+        },
+        {
+          "id": "neal-gesp-4892-t02",
+          "title": "Kapitel 2 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 1,
+          "startTime": 227.339,
+          "duration": 199.907
+        },
+        {
+          "id": "neal-gesp-4892-t03",
+          "title": "Kapitel 3 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 2,
+          "startTime": 427.246,
+          "duration": 265.162
+        },
+        {
+          "id": "neal-gesp-4892-t04",
+          "title": "Kapitel 4 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 3,
+          "startTime": 692.408,
+          "duration": 200.881
+        },
+        {
+          "id": "neal-gesp-4892-t05",
+          "title": "Kapitel 5 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 4,
+          "startTime": 893.289,
+          "duration": 206.045
+        },
+        {
+          "id": "neal-gesp-4892-t06",
+          "title": "Kapitel 6 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 5,
+          "startTime": 1099.334,
+          "duration": 188.062
+        },
+        {
+          "id": "neal-gesp-4892-t07",
+          "title": "Kapitel 7 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 6,
+          "startTime": 1287.396,
+          "duration": 202.991
+        },
+        {
+          "id": "neal-gesp-4892-t08",
+          "title": "Kapitel 8 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 7,
+          "startTime": 1490.387,
+          "duration": 217.445
+        },
+        {
+          "id": "neal-gesp-4892-t09",
+          "title": "Kapitel 9 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 8,
+          "startTime": 1707.832,
+          "duration": 187.041
+        },
+        {
+          "id": "neal-gesp-4892-t10",
+          "title": "Kapitel 10 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 9,
+          "startTime": 1894.873,
+          "duration": 204.365
+        },
+        {
+          "id": "neal-gesp-4892-t11",
+          "title": "Kapitel 11 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 10,
+          "startTime": 2099.238,
+          "duration": 287.543
+        },
+        {
+          "id": "neal-gesp-4892-t12",
+          "title": "Kapitel 12 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 11,
+          "startTime": 2386.781,
+          "duration": 181.739
+        },
+        {
+          "id": "neal-gesp-4892-t13",
+          "title": "Kapitel 13 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 12,
+          "startTime": 2568.52,
+          "duration": 185.874
+        },
+        {
+          "id": "neal-gesp-4892-t14",
+          "title": "Kapitel 14 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 13,
+          "startTime": 2754.394,
+          "duration": 193.315
+        },
+        {
+          "id": "neal-gesp-4892-t15",
+          "title": "Kapitel 15 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 14,
+          "startTime": 2947.709,
+          "duration": 195.366
+        },
+        {
+          "id": "neal-gesp-4892-t16",
+          "title": "Kapitel 16 - Gespenster-Krimi - Das Dämonenhaus",
+          "index": 15,
+          "startTime": 3143.075,
+          "duration": 190.911
+        }
+      ]
+    },
+    {
+      "id": "1628252334",
+      "title": "Gespenster-Krimi - Das Geheimnis der Totenmaske (Hörspiel)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/43/37/334337f2-bfa4-e074-2913-e34cb7590415/9783754001660_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel über ein Gespenst-Krimi-Thema mit 19 Tracks, das von A.F. Mortimer produziert wurde.",
+      "totalDuration": 3357.62,
+      "platforms": {
+        "appleMusic": "1628252334"
+      },
+      "chapters": [
+        {
+          "id": "afmo-gesp-2334-t01",
+          "title": "Kapitel 1 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 138.159
+        },
+        {
+          "id": "afmo-gesp-2334-t02",
+          "title": "Kapitel 2 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 1,
+          "startTime": 138.159,
+          "duration": 183.753
+        },
+        {
+          "id": "afmo-gesp-2334-t03",
+          "title": "Kapitel 3 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 2,
+          "startTime": 321.912,
+          "duration": 187.053
+        },
+        {
+          "id": "afmo-gesp-2334-t04",
+          "title": "Kapitel 4 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 3,
+          "startTime": 508.965,
+          "duration": 182.076
+        },
+        {
+          "id": "afmo-gesp-2334-t05",
+          "title": "Kapitel 5 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 4,
+          "startTime": 691.041,
+          "duration": 188.608
+        },
+        {
+          "id": "afmo-gesp-2334-t06",
+          "title": "Kapitel 6 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 5,
+          "startTime": 879.649,
+          "duration": 184.739
+        },
+        {
+          "id": "afmo-gesp-2334-t07",
+          "title": "Kapitel 7 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 6,
+          "startTime": 1064.388,
+          "duration": 182.547
+        },
+        {
+          "id": "afmo-gesp-2334-t08",
+          "title": "Kapitel 8 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 7,
+          "startTime": 1246.935,
+          "duration": 182.468
+        },
+        {
+          "id": "afmo-gesp-2334-t09",
+          "title": "Kapitel 9 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 8,
+          "startTime": 1429.403,
+          "duration": 182.338
+        },
+        {
+          "id": "afmo-gesp-2334-t10",
+          "title": "Kapitel 10 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 9,
+          "startTime": 1611.741,
+          "duration": 184.818
+        },
+        {
+          "id": "afmo-gesp-2334-t11",
+          "title": "Kapitel 11 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 10,
+          "startTime": 1796.559,
+          "duration": 185.134
+        },
+        {
+          "id": "afmo-gesp-2334-t12",
+          "title": "Kapitel 12 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 11,
+          "startTime": 1981.693,
+          "duration": 185.884
+        },
+        {
+          "id": "afmo-gesp-2334-t13",
+          "title": "Kapitel 13 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 12,
+          "startTime": 2167.577,
+          "duration": 190.197
+        },
+        {
+          "id": "afmo-gesp-2334-t14",
+          "title": "Kapitel 14 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 13,
+          "startTime": 2357.774,
+          "duration": 184.929
+        },
+        {
+          "id": "afmo-gesp-2334-t15",
+          "title": "Kapitel 15 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 14,
+          "startTime": 2542.703,
+          "duration": 185.099
+        },
+        {
+          "id": "afmo-gesp-2334-t16",
+          "title": "Kapitel 16 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 15,
+          "startTime": 2727.802,
+          "duration": 188.62
+        },
+        {
+          "id": "afmo-gesp-2334-t17",
+          "title": "Kapitel 17 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 16,
+          "startTime": 2916.422,
+          "duration": 184.018
+        },
+        {
+          "id": "afmo-gesp-2334-t18",
+          "title": "Kapitel 18 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 17,
+          "startTime": 3100.44,
+          "duration": 182.672
+        },
+        {
+          "id": "afmo-gesp-2334-t19",
+          "title": "Kapitel 19 - Gespenster-Krimi - Das Geheimnis der Totenmaske",
+          "index": 18,
+          "startTime": 3283.112,
+          "duration": 74.508
+        }
+      ]
+    },
+    {
+      "id": "1647817098",
+      "title": "Gespenster-Krimi - Der Fluch des Pharao",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d6/a0/e7/d6a0e784-d280-fc3e-0237-7108d6c8b459/9783754001653_3000.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 15 Tracks des Krimi-Hörspiels 'Gespenster-Krimi - Der Fluch des Pharao' von Frederic Collins.",
+      "totalDuration": 3096.614,
+      "platforms": {
+        "appleMusic": "1647817098"
+      },
+      "chapters": [
+        {
+          "id": "fred-gesp-7098-t01",
+          "title": "Kapitel 1 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 236.951
+        },
+        {
+          "id": "fred-gesp-7098-t02",
+          "title": "Kapitel 2 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 1,
+          "startTime": 236.951,
+          "duration": 183.948
+        },
+        {
+          "id": "fred-gesp-7098-t03",
+          "title": "Kapitel 3 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 2,
+          "startTime": 420.899,
+          "duration": 190.044
+        },
+        {
+          "id": "fred-gesp-7098-t04",
+          "title": "Kapitel 4 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 3,
+          "startTime": 610.943,
+          "duration": 245.358
+        },
+        {
+          "id": "fred-gesp-7098-t05",
+          "title": "Kapitel 5 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 4,
+          "startTime": 856.301,
+          "duration": 201.129
+        },
+        {
+          "id": "fred-gesp-7098-t06",
+          "title": "Kapitel 6 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 5,
+          "startTime": 1057.43,
+          "duration": 200.771
+        },
+        {
+          "id": "fred-gesp-7098-t07",
+          "title": "Kapitel 7 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 6,
+          "startTime": 1258.201,
+          "duration": 193.163
+        },
+        {
+          "id": "fred-gesp-7098-t08",
+          "title": "Kapitel 8 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 7,
+          "startTime": 1451.364,
+          "duration": 205.97
+        },
+        {
+          "id": "fred-gesp-7098-t09",
+          "title": "Kapitel 9 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 8,
+          "startTime": 1657.334,
+          "duration": 201.971
+        },
+        {
+          "id": "fred-gesp-7098-t10",
+          "title": "Kapitel 10 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 9,
+          "startTime": 1859.305,
+          "duration": 184.933
+        },
+        {
+          "id": "fred-gesp-7098-t11",
+          "title": "Kapitel 11 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 10,
+          "startTime": 2044.238,
+          "duration": 281.715
+        },
+        {
+          "id": "fred-gesp-7098-t12",
+          "title": "Kapitel 12 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 11,
+          "startTime": 2325.953,
+          "duration": 183.814
+        },
+        {
+          "id": "fred-gesp-7098-t13",
+          "title": "Kapitel 13 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 12,
+          "startTime": 2509.767,
+          "duration": 182.09
+        },
+        {
+          "id": "fred-gesp-7098-t14",
+          "title": "Kapitel 14 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 13,
+          "startTime": 2691.857,
+          "duration": 191.383
+        },
+        {
+          "id": "fred-gesp-7098-t15",
+          "title": "Kapitel 15 - Gespenster-Krimi - Der Fluch des Pharao",
+          "index": 14,
+          "startTime": 2883.24,
+          "duration": 213.374
+        }
+      ]
+    },
+    {
+      "id": "1643136347",
+      "title": "Gespenster-Krimi - Der Turm des Grauens",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/3c/36/183c36f7-c060-6ee2-dada-a76f804baffc/9783754001639_3000.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel 'Gespenster-Krimi - Der Turm des Grauens' von Frank DeLorca, das sich auf 16 Tracks Hörspiele widmet. Das Genre 'Hörspiele' deutet eindeutig auf eine Hörspielproduktion hin.",
+      "totalDuration": 3443.854,
+      "platforms": {
+        "appleMusic": "1643136347"
+      },
+      "chapters": [
+        {
+          "id": "fran-gesp-6347-t01",
+          "title": "Kapitel 1 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 196.805
+        },
+        {
+          "id": "fran-gesp-6347-t02",
+          "title": "Kapitel 2 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 1,
+          "startTime": 196.805,
+          "duration": 181.641
+        },
+        {
+          "id": "fran-gesp-6347-t03",
+          "title": "Kapitel 3 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 2,
+          "startTime": 378.446,
+          "duration": 226.347
+        },
+        {
+          "id": "fran-gesp-6347-t04",
+          "title": "Kapitel 4 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 3,
+          "startTime": 604.793,
+          "duration": 257.48
+        },
+        {
+          "id": "fran-gesp-6347-t05",
+          "title": "Kapitel 5 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 4,
+          "startTime": 862.273,
+          "duration": 188.537
+        },
+        {
+          "id": "fran-gesp-6347-t06",
+          "title": "Kapitel 6 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 5,
+          "startTime": 1050.81,
+          "duration": 270.525
+        },
+        {
+          "id": "fran-gesp-6347-t07",
+          "title": "Kapitel 7 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 6,
+          "startTime": 1321.335,
+          "duration": 185.503
+        },
+        {
+          "id": "fran-gesp-6347-t08",
+          "title": "Kapitel 8 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 7,
+          "startTime": 1506.838,
+          "duration": 186.478
+        },
+        {
+          "id": "fran-gesp-6347-t09",
+          "title": "Kapitel 9 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 8,
+          "startTime": 1693.316,
+          "duration": 181.973
+        },
+        {
+          "id": "fran-gesp-6347-t10",
+          "title": "Kapitel 10 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 9,
+          "startTime": 1875.289,
+          "duration": 236.44
+        },
+        {
+          "id": "fran-gesp-6347-t11",
+          "title": "Kapitel 11 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 10,
+          "startTime": 2111.729,
+          "duration": 201.481
+        },
+        {
+          "id": "fran-gesp-6347-t12",
+          "title": "Kapitel 12 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 11,
+          "startTime": 2313.21,
+          "duration": 240.872
+        },
+        {
+          "id": "fran-gesp-6347-t13",
+          "title": "Kapitel 13 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 12,
+          "startTime": 2554.082,
+          "duration": 223.078
+        },
+        {
+          "id": "fran-gesp-6347-t14",
+          "title": "Kapitel 14 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 13,
+          "startTime": 2777.16,
+          "duration": 228.839
+        },
+        {
+          "id": "fran-gesp-6347-t15",
+          "title": "Kapitel 15 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 14,
+          "startTime": 3005.999,
+          "duration": 209.389
+        },
+        {
+          "id": "fran-gesp-6347-t16",
+          "title": "Kapitel 16 - Gespenster-Krimi - Der Turm des Grauens",
+          "index": 15,
+          "startTime": 3215.388,
+          "duration": 228.466
+        }
+      ]
+    },
+    {
+      "id": "1628252699",
+      "title": "Gespenster-Krimi - Im Verlies der blutigen Träume (Hörspiel)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/fc/41/e9fc4188-d333-61c5-b14b-41e270c8b8b9/9783754001615_3000.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel mit dem Titel 'Gespenster-Krimi - Im Verlies der blutigen Träume' von Brian Elliot, das auf 17 Tracks verteilt ist und im Genre Hörspiele angesiedelt ist.",
+      "totalDuration": 2954.186,
+      "platforms": {
+        "appleMusic": "1628252699"
+      },
+      "chapters": [
+        {
+          "id": "bria-gesp-2699-t01",
+          "title": "Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 45.697
+        },
+        {
+          "id": "bria-gesp-2699-t02",
+          "title": "Kapitel 2",
+          "index": 1,
+          "startTime": 45.697,
+          "duration": 190.853
+        },
+        {
+          "id": "bria-gesp-2699-t03",
+          "title": "Kapitel 3",
+          "index": 2,
+          "startTime": 236.55,
+          "duration": 185.466
+        },
+        {
+          "id": "bria-gesp-2699-t04",
+          "title": "Kapitel 4",
+          "index": 3,
+          "startTime": 422.016,
+          "duration": 183.058
+        },
+        {
+          "id": "bria-gesp-2699-t05",
+          "title": "Kapitel 5",
+          "index": 4,
+          "startTime": 605.074,
+          "duration": 185.649
+        },
+        {
+          "id": "bria-gesp-2699-t06",
+          "title": "Kapitel 6",
+          "index": 5,
+          "startTime": 790.723,
+          "duration": 181.98
+        },
+        {
+          "id": "bria-gesp-2699-t07",
+          "title": "Kapitel 7",
+          "index": 6,
+          "startTime": 972.703,
+          "duration": 184.477
+        },
+        {
+          "id": "bria-gesp-2699-t08",
+          "title": "Kapitel 8",
+          "index": 7,
+          "startTime": 1157.18,
+          "duration": 188.744
+        },
+        {
+          "id": "bria-gesp-2699-t09",
+          "title": "Kapitel 9",
+          "index": 8,
+          "startTime": 1345.924,
+          "duration": 196.322
+        },
+        {
+          "id": "bria-gesp-2699-t10",
+          "title": "Kapitel 10",
+          "index": 9,
+          "startTime": 1542.246,
+          "duration": 184.547
+        },
+        {
+          "id": "bria-gesp-2699-t11",
+          "title": "Kapitel 11",
+          "index": 10,
+          "startTime": 1726.793,
+          "duration": 184.234
+        },
+        {
+          "id": "bria-gesp-2699-t12",
+          "title": "Kapitel 12",
+          "index": 11,
+          "startTime": 1911.027,
+          "duration": 189.624
+        },
+        {
+          "id": "bria-gesp-2699-t13",
+          "title": "Kapitel 13",
+          "index": 12,
+          "startTime": 2100.651,
+          "duration": 185.939
+        },
+        {
+          "id": "bria-gesp-2699-t14",
+          "title": "Kapitel 14",
+          "index": 13,
+          "startTime": 2286.59,
+          "duration": 184.764
+        },
+        {
+          "id": "bria-gesp-2699-t15",
+          "title": "Kapitel 15",
+          "index": 14,
+          "startTime": 2471.354,
+          "duration": 186.341
+        },
+        {
+          "id": "bria-gesp-2699-t16",
+          "title": "Kapitel 16",
+          "index": 15,
+          "startTime": 2657.695,
+          "duration": 185.522
+        },
+        {
+          "id": "bria-gesp-2699-t17",
+          "title": "Kapitel 17",
+          "index": 16,
+          "startTime": 2843.217,
+          "duration": 110.969
+        }
+      ]
+    },
+    {
+      "id": "1694706135",
+      "title": "Harlem-Krimis",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/91/4c/6a914c86-eaad-696e-a47f-1efd259a82f6/cover.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Krimihörspiele von Chester Himes, die auf einer Vielzahl von Audiostreaming-Plattformen verfügbar sind.",
+      "totalDuration": 9494.169,
+      "platforms": {
+        "appleMusic": "1694706135"
+      },
+      "chapters": [
+        {
+          "id": "ches-harl-6135-t01",
+          "title": "Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 192.837
+        },
+        {
+          "id": "ches-harl-6135-t02",
+          "title": "Kapitel 2",
+          "index": 1,
+          "startTime": 192.837,
+          "duration": 189.281
+        },
+        {
+          "id": "ches-harl-6135-t03",
+          "title": "Kapitel 3",
+          "index": 2,
+          "startTime": 382.118,
+          "duration": 177.359
+        },
+        {
+          "id": "ches-harl-6135-t04",
+          "title": "Kapitel 4",
+          "index": 3,
+          "startTime": 559.477,
+          "duration": 192.913
+        },
+        {
+          "id": "ches-harl-6135-t05",
+          "title": "Kapitel 5",
+          "index": 4,
+          "startTime": 752.39,
+          "duration": 209.373
+        },
+        {
+          "id": "ches-harl-6135-t06",
+          "title": "Kapitel 6",
+          "index": 5,
+          "startTime": 961.763,
+          "duration": 185.212
+        },
+        {
+          "id": "ches-harl-6135-t07",
+          "title": "Kapitel 7",
+          "index": 6,
+          "startTime": 1146.975,
+          "duration": 208.09
+        },
+        {
+          "id": "ches-harl-6135-t08",
+          "title": "Kapitel 8",
+          "index": 7,
+          "startTime": 1355.065,
+          "duration": 188.93
+        },
+        {
+          "id": "ches-harl-6135-t09",
+          "title": "Kapitel 9",
+          "index": 8,
+          "startTime": 1543.995,
+          "duration": 182.588
+        },
+        {
+          "id": "ches-harl-6135-t10",
+          "title": "Kapitel 10",
+          "index": 9,
+          "startTime": 1726.583,
+          "duration": 186.01
+        },
+        {
+          "id": "ches-harl-6135-t11",
+          "title": "Kapitel 11",
+          "index": 10,
+          "startTime": 1912.593,
+          "duration": 204.567
+        },
+        {
+          "id": "ches-harl-6135-t12",
+          "title": "Kapitel 12",
+          "index": 11,
+          "startTime": 2117.16,
+          "duration": 181.213
+        },
+        {
+          "id": "ches-harl-6135-t13",
+          "title": "Kapitel 13",
+          "index": 12,
+          "startTime": 2298.373,
+          "duration": 186.889
+        },
+        {
+          "id": "ches-harl-6135-t14",
+          "title": "Kapitel 14",
+          "index": 13,
+          "startTime": 2485.262,
+          "duration": 182.01
+        },
+        {
+          "id": "ches-harl-6135-t15",
+          "title": "Kapitel 15",
+          "index": 14,
+          "startTime": 2667.272,
+          "duration": 198.442
+        },
+        {
+          "id": "ches-harl-6135-t16",
+          "title": "Kapitel 16",
+          "index": 15,
+          "startTime": 2865.714,
+          "duration": 199.666
+        },
+        {
+          "id": "ches-harl-6135-t17",
+          "title": "Kapitel 17",
+          "index": 16,
+          "startTime": 3065.38,
+          "duration": 199.692
+        },
+        {
+          "id": "ches-harl-6135-t18",
+          "title": "Kapitel 18",
+          "index": 17,
+          "startTime": 3265.072,
+          "duration": 187.118
+        },
+        {
+          "id": "ches-harl-6135-t19",
+          "title": "Kapitel 19",
+          "index": 18,
+          "startTime": 3452.19,
+          "duration": 184.974
+        },
+        {
+          "id": "ches-harl-6135-t20",
+          "title": "Kapitel 20",
+          "index": 19,
+          "startTime": 3637.164,
+          "duration": 190.847
+        },
+        {
+          "id": "ches-harl-6135-t21",
+          "title": "Kapitel 21",
+          "index": 20,
+          "startTime": 3828.011,
+          "duration": 190.386
+        },
+        {
+          "id": "ches-harl-6135-t22",
+          "title": "Kapitel 22",
+          "index": 21,
+          "startTime": 4018.397,
+          "duration": 187.414
+        },
+        {
+          "id": "ches-harl-6135-t23",
+          "title": "Kapitel 23",
+          "index": 22,
+          "startTime": 4205.811,
+          "duration": 187.656
+        },
+        {
+          "id": "ches-harl-6135-t24",
+          "title": "Kapitel 24",
+          "index": 23,
+          "startTime": 4393.467,
+          "duration": 194.944
+        },
+        {
+          "id": "ches-harl-6135-t25",
+          "title": "Kapitel 25",
+          "index": 24,
+          "startTime": 4588.411,
+          "duration": 191.727
+        },
+        {
+          "id": "ches-harl-6135-t26",
+          "title": "Kapitel 26",
+          "index": 25,
+          "startTime": 4780.138,
+          "duration": 180.22
+        },
+        {
+          "id": "ches-harl-6135-t27",
+          "title": "Kapitel 27",
+          "index": 26,
+          "startTime": 4960.358,
+          "duration": 187.87
+        },
+        {
+          "id": "ches-harl-6135-t28",
+          "title": "Kapitel 28",
+          "index": 27,
+          "startTime": 5148.228,
+          "duration": 183.425
+        },
+        {
+          "id": "ches-harl-6135-t29",
+          "title": "Kapitel 29",
+          "index": 28,
+          "startTime": 5331.653,
+          "duration": 186.248
+        },
+        {
+          "id": "ches-harl-6135-t30",
+          "title": "Kapitel 30",
+          "index": 29,
+          "startTime": 5517.901,
+          "duration": 197.689
+        },
+        {
+          "id": "ches-harl-6135-t31",
+          "title": "Kapitel 31",
+          "index": 30,
+          "startTime": 5715.59,
+          "duration": 187.056
+        },
+        {
+          "id": "ches-harl-6135-t32",
+          "title": "Kapitel 32",
+          "index": 31,
+          "startTime": 5902.646,
+          "duration": 195.119
+        },
+        {
+          "id": "ches-harl-6135-t33",
+          "title": "Kapitel 33",
+          "index": 32,
+          "startTime": 6097.765,
+          "duration": 180.415
+        },
+        {
+          "id": "ches-harl-6135-t34",
+          "title": "Kapitel 34",
+          "index": 33,
+          "startTime": 6278.18,
+          "duration": 203.855
+        },
+        {
+          "id": "ches-harl-6135-t35",
+          "title": "Kapitel 35",
+          "index": 34,
+          "startTime": 6482.035,
+          "duration": 181.516
+        },
+        {
+          "id": "ches-harl-6135-t36",
+          "title": "Kapitel 36",
+          "index": 35,
+          "startTime": 6663.551,
+          "duration": 184.81
+        },
+        {
+          "id": "ches-harl-6135-t37",
+          "title": "Kapitel 37",
+          "index": 36,
+          "startTime": 6848.361,
+          "duration": 191.079
+        },
+        {
+          "id": "ches-harl-6135-t38",
+          "title": "Kapitel 38",
+          "index": 37,
+          "startTime": 7039.44,
+          "duration": 184.761
+        },
+        {
+          "id": "ches-harl-6135-t39",
+          "title": "Kapitel 39",
+          "index": 38,
+          "startTime": 7224.201,
+          "duration": 185.514
+        },
+        {
+          "id": "ches-harl-6135-t40",
+          "title": "Kapitel 40",
+          "index": 39,
+          "startTime": 7409.715,
+          "duration": 196.429
+        },
+        {
+          "id": "ches-harl-6135-t41",
+          "title": "Kapitel 41",
+          "index": 40,
+          "startTime": 7606.144,
+          "duration": 182.478
+        },
+        {
+          "id": "ches-harl-6135-t42",
+          "title": "Kapitel 42",
+          "index": 41,
+          "startTime": 7788.622,
+          "duration": 198.628
+        },
+        {
+          "id": "ches-harl-6135-t43",
+          "title": "Kapitel 43",
+          "index": 42,
+          "startTime": 7987.25,
+          "duration": 184.394
+        },
+        {
+          "id": "ches-harl-6135-t44",
+          "title": "Kapitel 44",
+          "index": 43,
+          "startTime": 8171.644,
+          "duration": 187.214
+        },
+        {
+          "id": "ches-harl-6135-t45",
+          "title": "Kapitel 45",
+          "index": 44,
+          "startTime": 8358.858,
+          "duration": 181.305
+        },
+        {
+          "id": "ches-harl-6135-t46",
+          "title": "Kapitel 46",
+          "index": 45,
+          "startTime": 8540.163,
+          "duration": 196.385
+        },
+        {
+          "id": "ches-harl-6135-t47",
+          "title": "Kapitel 47",
+          "index": 46,
+          "startTime": 8736.548,
+          "duration": 191.045
+        },
+        {
+          "id": "ches-harl-6135-t48",
+          "title": "Kapitel 48",
+          "index": 47,
+          "startTime": 8927.593,
+          "duration": 182.754
+        },
+        {
+          "id": "ches-harl-6135-t49",
+          "title": "Kapitel 49",
+          "index": 48,
+          "startTime": 9110.347,
+          "duration": 199.708
+        },
+        {
+          "id": "ches-harl-6135-t50",
+          "title": "Kapitel 50",
+          "index": 49,
+          "startTime": 9310.055,
+          "duration": 184.114
+        }
+      ]
+    },
+    {
+      "id": "375658638",
+      "title": "Jerry Cotton, G-man Jerry Cotton - 12 packende Hörspiel-Krimis",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/f4/b0/02f4b0c7-edae-4912-fcfc-07c78d2a25fb/mzi.vjhluiaj.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 214 packende Hörspiel-Krimis von Jerry Cotton, die auf Deutsch produziert wurden und sich auf Spannung und Spannung konzentrieren.",
+      "totalDuration": 9488.947,
+      "platforms": {
+        "appleMusic": "375658638"
+      },
+      "chapters": [
+        {
+          "id": "jerr-jerr-8638-t01",
+          "title": "Die letzte Fahrt im Jaguar - Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 382.066
+        },
+        {
+          "id": "jerr-jerr-8638-t02",
+          "title": "Die letzte Fahrt im Jaguar - Teil 2",
+          "index": 1,
+          "startTime": 382.066,
+          "duration": 78.249
+        },
+        {
+          "id": "jerr-jerr-8638-t03",
+          "title": "Die letzte Fahrt im Jaguar - Teil 3",
+          "index": 2,
+          "startTime": 460.315,
+          "duration": 434.898
+        },
+        {
+          "id": "jerr-jerr-8638-t04",
+          "title": "Die letzte Fahrt im Jaguar - Teil 4",
+          "index": 3,
+          "startTime": 895.213,
+          "duration": 203.983
+        },
+        {
+          "id": "jerr-jerr-8638-t05",
+          "title": "Die letzte Fahrt im Jaguar - Teil 5",
+          "index": 4,
+          "startTime": 1099.196,
+          "duration": 86.677
+        },
+        {
+          "id": "jerr-jerr-8638-t06",
+          "title": "Die letzte Fahrt im Jaguar - Teil 6",
+          "index": 5,
+          "startTime": 1185.873,
+          "duration": 144.359
+        },
+        {
+          "id": "jerr-jerr-8638-t07",
+          "title": "Die letzte Fahrt im Jaguar - Teil 7",
+          "index": 6,
+          "startTime": 1330.232,
+          "duration": 120.696
+        },
+        {
+          "id": "jerr-jerr-8638-t08",
+          "title": "Die letzte Fahrt im Jaguar - Teil 8",
+          "index": 7,
+          "startTime": 1450.928,
+          "duration": 144.466
+        },
+        {
+          "id": "jerr-jerr-8638-t09",
+          "title": "Die letzte Fahrt im Jaguar - Teil 9",
+          "index": 8,
+          "startTime": 1595.394,
+          "duration": 190.987
+        },
+        {
+          "id": "jerr-jerr-8638-t10",
+          "title": "Die letzte Fahrt im Jaguar - Teil 10",
+          "index": 9,
+          "startTime": 1786.381,
+          "duration": 117.24
+        },
+        {
+          "id": "jerr-jerr-8638-t11",
+          "title": "Die letzte Fahrt im Jaguar - Teil 11",
+          "index": 10,
+          "startTime": 1903.621,
+          "duration": 74.082
+        },
+        {
+          "id": "jerr-jerr-8638-t12",
+          "title": "Die letzte Fahrt im Jaguar - Teil 12",
+          "index": 11,
+          "startTime": 1977.703,
+          "duration": 130.237
+        },
+        {
+          "id": "jerr-jerr-8638-t13",
+          "title": "Die letzte Fahrt im Jaguar - Teil 13",
+          "index": 12,
+          "startTime": 2107.94,
+          "duration": 88.084
+        },
+        {
+          "id": "jerr-jerr-8638-t14",
+          "title": "Die letzte Fahrt im Jaguar - Teil 14",
+          "index": 13,
+          "startTime": 2196.024,
+          "duration": 56.195
+        },
+        {
+          "id": "jerr-jerr-8638-t15",
+          "title": "Die letzte Fahrt im Jaguar - Teil 15",
+          "index": 14,
+          "startTime": 2252.219,
+          "duration": 91.997
+        },
+        {
+          "id": "jerr-jerr-8638-t16",
+          "title": "Die letzte Fahrt im Jaguar - Teil 16",
+          "index": 15,
+          "startTime": 2344.216,
+          "duration": 228.409
+        },
+        {
+          "id": "jerr-jerr-8638-t17",
+          "title": "Die letzte Fahrt im Jaguar - Teil 17",
+          "index": 16,
+          "startTime": 2572.625,
+          "duration": 35.306
+        },
+        {
+          "id": "jerr-jerr-8638-t18",
+          "title": "Die letzte Fahrt im Jaguar - Teil 18",
+          "index": 17,
+          "startTime": 2607.931,
+          "duration": 279.874
+        },
+        {
+          "id": "jerr-jerr-8638-t19",
+          "title": "Die letzte Fahrt im Jaguar - Teil 19",
+          "index": 18,
+          "startTime": 2887.805,
+          "duration": 49.724
+        },
+        {
+          "id": "jerr-jerr-8638-t20",
+          "title": "Die letzte Fahrt im Jaguar - Teil 20",
+          "index": 19,
+          "startTime": 2937.529,
+          "duration": 270.468
+        },
+        {
+          "id": "jerr-jerr-8638-t21",
+          "title": "Die letzte Fahrt im Jaguar - Teil 21",
+          "index": 20,
+          "startTime": 3207.997,
+          "duration": 484.098
+        },
+        {
+          "id": "jerr-jerr-8638-t22",
+          "title": "Die letzte Fahrt im Jaguar - Teil 22",
+          "index": 21,
+          "startTime": 3692.095,
+          "duration": 73.587
+        },
+        {
+          "id": "jerr-jerr-8638-t23",
+          "title": "Die letzte Fahrt im Jaguar - Teil 23",
+          "index": 22,
+          "startTime": 3765.682,
+          "duration": 97.999
+        },
+        {
+          "id": "jerr-jerr-8638-t24",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 1",
+          "index": 23,
+          "startTime": 3863.681,
+          "duration": 581.078
+        },
+        {
+          "id": "jerr-jerr-8638-t25",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 2",
+          "index": 24,
+          "startTime": 4444.759,
+          "duration": 94.475
+        },
+        {
+          "id": "jerr-jerr-8638-t26",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 3",
+          "index": 25,
+          "startTime": 4539.234,
+          "duration": 50.46
+        },
+        {
+          "id": "jerr-jerr-8638-t27",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 4",
+          "index": 26,
+          "startTime": 4589.694,
+          "duration": 519.242
+        },
+        {
+          "id": "jerr-jerr-8638-t28",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 5",
+          "index": 27,
+          "startTime": 5108.936,
+          "duration": 207.869
+        },
+        {
+          "id": "jerr-jerr-8638-t29",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 6",
+          "index": 28,
+          "startTime": 5316.805,
+          "duration": 179.611
+        },
+        {
+          "id": "jerr-jerr-8638-t30",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 7",
+          "index": 29,
+          "startTime": 5496.416,
+          "duration": 304.487
+        },
+        {
+          "id": "jerr-jerr-8638-t31",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 8",
+          "index": 30,
+          "startTime": 5800.903,
+          "duration": 138.209
+        },
+        {
+          "id": "jerr-jerr-8638-t32",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 9",
+          "index": 31,
+          "startTime": 5939.112,
+          "duration": 149.946
+        },
+        {
+          "id": "jerr-jerr-8638-t33",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 10",
+          "index": 32,
+          "startTime": 6089.058,
+          "duration": 482.932
+        },
+        {
+          "id": "jerr-jerr-8638-t34",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 11",
+          "index": 33,
+          "startTime": 6571.99,
+          "duration": 108.543
+        },
+        {
+          "id": "jerr-jerr-8638-t35",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 12",
+          "index": 34,
+          "startTime": 6680.533,
+          "duration": 49.0
+        },
+        {
+          "id": "jerr-jerr-8638-t36",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 13",
+          "index": 35,
+          "startTime": 6729.533,
+          "duration": 248.253
+        },
+        {
+          "id": "jerr-jerr-8638-t37",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 14",
+          "index": 36,
+          "startTime": 6977.786,
+          "duration": 196.573
+        },
+        {
+          "id": "jerr-jerr-8638-t38",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 15",
+          "index": 37,
+          "startTime": 7174.359,
+          "duration": 136.064
+        },
+        {
+          "id": "jerr-jerr-8638-t39",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 16",
+          "index": 38,
+          "startTime": 7310.423,
+          "duration": 142.617
+        },
+        {
+          "id": "jerr-jerr-8638-t40",
+          "title": "Phil Decker und die Selbstmord-Falle - Teil 17",
+          "index": 39,
+          "startTime": 7453.04,
+          "duration": 231.531
+        },
+        {
+          "id": "jerr-jerr-8638-t41",
+          "title": "Der Rattenfänger von Brooklyn - Teil 1",
+          "index": 40,
+          "startTime": 7684.571,
+          "duration": 212.532
+        },
+        {
+          "id": "jerr-jerr-8638-t42",
+          "title": "Der Rattenfänger von Brooklyn - Teil 2",
+          "index": 41,
+          "startTime": 7897.103,
+          "duration": 175.23
+        },
+        {
+          "id": "jerr-jerr-8638-t43",
+          "title": "Der Rattenfänger von Brooklyn - Teil 3",
+          "index": 42,
+          "startTime": 8072.333,
+          "duration": 274.461
+        },
+        {
+          "id": "jerr-jerr-8638-t44",
+          "title": "Der Rattenfänger von Brooklyn - Teil 4",
+          "index": 43,
+          "startTime": 8346.794,
+          "duration": 160.799
+        },
+        {
+          "id": "jerr-jerr-8638-t45",
+          "title": "Der Rattenfänger von Brooklyn - Teil 5",
+          "index": 44,
+          "startTime": 8507.593,
+          "duration": 364.821
+        },
+        {
+          "id": "jerr-jerr-8638-t46",
+          "title": "Der Rattenfänger von Brooklyn - Teil 6",
+          "index": 45,
+          "startTime": 8872.414,
+          "duration": 136.775
+        },
+        {
+          "id": "jerr-jerr-8638-t47",
+          "title": "Der Rattenfänger von Brooklyn - Teil 7",
+          "index": 46,
+          "startTime": 9009.189,
+          "duration": 32.801
+        },
+        {
+          "id": "jerr-jerr-8638-t48",
+          "title": "Der Rattenfänger von Brooklyn - Teil 8",
+          "index": 47,
+          "startTime": 9041.99,
+          "duration": 153.925
+        },
+        {
+          "id": "jerr-jerr-8638-t49",
+          "title": "Der Rattenfänger von Brooklyn - Teil 9",
+          "index": 48,
+          "startTime": 9195.915,
+          "duration": 95.252
+        },
+        {
+          "id": "jerr-jerr-8638-t50",
+          "title": "Der Rattenfänger von Brooklyn - Teil 10",
+          "index": 49,
+          "startTime": 9291.167,
+          "duration": 197.78
+        }
+      ]
+    },
+    {
+      "id": "1822354956",
+      "title": "Miraculous - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/22/70/c9227028-3f21-e1c7-75a8-73121723c53a/artwork.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspielalbum, das auf Apple Music verfügbar ist.",
+      "totalDuration": 363.32,
+      "platforms": {
+        "appleMusic": "1822354956"
+      },
+      "chapters": [
+        {
+          "id": "free-mira-4956-t01",
+          "title": "Miraculous",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 363.32
+        }
+      ]
+    },
+    {
+      "id": "1582704839",
+      "title": "Peter Lustig liest Die Eiskönigin von Hans Christian Andersen",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/56/5c/f2565c75-fc0f-ea8f-435d-8d1ee05007b0/5413059370140.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält eine Lesung des Märchens \"Die Eiskönigin\" von Hans Christian Andersen, gelesen von Peter Lustig.",
+      "totalDuration": 8328.555,
+      "platforms": {
+        "appleMusic": "1582704839"
+      },
+      "chapters": [
+        {
+          "id": "pete-pete-4839-t01",
+          "title": "Die Eiskönigin: Klein-Rudi",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 1065.866
+        },
+        {
+          "id": "pete-pete-4839-t02",
+          "title": "Die Eiskönigin: Die Reise nach der neuen Heimat",
+          "index": 1,
+          "startTime": 1065.866,
+          "duration": 653.16
+        },
+        {
+          "id": "pete-pete-4839-t03",
+          "title": "Die Eiskönigin: Der Onkel",
+          "index": 2,
+          "startTime": 1719.026,
+          "duration": 662.613
+        },
+        {
+          "id": "pete-pete-4839-t04",
+          "title": "Die Eiskönigin: Babette",
+          "index": 3,
+          "startTime": 2381.639,
+          "duration": 1468.92
+        },
+        {
+          "id": "pete-pete-4839-t05",
+          "title": "Die Eiskönigin: Auf dem Heimwege",
+          "index": 4,
+          "startTime": 3850.559,
+          "duration": 272.746
+        },
+        {
+          "id": "pete-pete-4839-t06",
+          "title": "Die Eiskönigin: Der Besuch in der Mühle",
+          "index": 5,
+          "startTime": 4123.305,
+          "duration": 536.52
+        },
+        {
+          "id": "pete-pete-4839-t07",
+          "title": "Die Eiskönigin: Das Adlernest",
+          "index": 6,
+          "startTime": 4659.825,
+          "duration": 494.906
+        },
+        {
+          "id": "pete-pete-4839-t08",
+          "title": "Die Eiskönigin: Welche Neuigkeiten die Stubenkatze wieder zu erzählen hatte",
+          "index": 7,
+          "startTime": 5154.731,
+          "duration": 259.613
+        },
+        {
+          "id": "pete-pete-4839-t09",
+          "title": "Die Eiskönigin: Die Eisjungfrau",
+          "index": 8,
+          "startTime": 5414.344,
+          "duration": 279.013
+        },
+        {
+          "id": "pete-pete-4839-t10",
+          "title": "Die Eiskönigin: Die Frau Patin",
+          "index": 9,
+          "startTime": 5693.357,
+          "duration": 410.013
+        },
+        {
+          "id": "pete-pete-4839-t11",
+          "title": "Die Eiskönigin: Der Vetter",
+          "index": 10,
+          "startTime": 6103.37,
+          "duration": 341.213
+        },
+        {
+          "id": "pete-pete-4839-t12",
+          "title": "Die Eiskönigin: Böse Mächte",
+          "index": 11,
+          "startTime": 6444.583,
+          "duration": 426.613
+        },
+        {
+          "id": "pete-pete-4839-t13",
+          "title": "Die Eiskönigin: Im Hause des Müllers",
+          "index": 12,
+          "startTime": 6871.196,
+          "duration": 322.213
+        },
+        {
+          "id": "pete-pete-4839-t14",
+          "title": "Die Eiskönigin: Nächtliche Gesichte",
+          "index": 13,
+          "startTime": 7193.409,
+          "duration": 296.013
+        },
+        {
+          "id": "pete-pete-4839-t15",
+          "title": "Die Eiskönigin: Schluß",
+          "index": 14,
+          "startTime": 7489.422,
+          "duration": 839.133
+        }
+      ]
+    },
+    {
+      "id": "1612104189",
+      "title": "Trio Fatale - Krimi-Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/47/f7/7847f7b4-1264-e977-153a-3165c7bd1626/cover_10217137.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält ein Hörspiel, das als Krimi-Hörspiel von Kerstin Schreiber produziert wurde.",
+      "totalDuration": 2799.816,
+      "platforms": {
+        "appleMusic": "1612104189"
+      },
+      "chapters": [
+        {
+          "id": "kers-trio-4189-t01",
+          "title": "Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 272.508
+        },
+        {
+          "id": "kers-trio-4189-t02",
+          "title": "Kapitel 2",
+          "index": 1,
+          "startTime": 272.508,
+          "duration": 380.669
+        },
+        {
+          "id": "kers-trio-4189-t03",
+          "title": "Kapitel 3",
+          "index": 2,
+          "startTime": 653.177,
+          "duration": 260.246
+        },
+        {
+          "id": "kers-trio-4189-t04",
+          "title": "Kapitel 4",
+          "index": 3,
+          "startTime": 913.423,
+          "duration": 314.183
+        },
+        {
+          "id": "kers-trio-4189-t05",
+          "title": "Kapitel 5",
+          "index": 4,
+          "startTime": 1227.606,
+          "duration": 318.303
+        },
+        {
+          "id": "kers-trio-4189-t06",
+          "title": "Kapitel 6",
+          "index": 5,
+          "startTime": 1545.909,
+          "duration": 295.856
+        },
+        {
+          "id": "kers-trio-4189-t07",
+          "title": "Kapitel 7",
+          "index": 6,
+          "startTime": 1841.765,
+          "duration": 317.206
+        },
+        {
+          "id": "kers-trio-4189-t08",
+          "title": "Kapitel 8",
+          "index": 7,
+          "startTime": 2158.971,
+          "duration": 241.98
+        },
+        {
+          "id": "kers-trio-4189-t09",
+          "title": "Kapitel 9",
+          "index": 8,
+          "startTime": 2400.951,
+          "duration": 398.865
+        }
+      ]
+    },
+    {
+      "id": "1737556979",
+      "title": "am ende der welt wird eine neue geboren (feat. Lukas Fraktal) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/74/f1/3074f13c-da1a-98d0-a3d6-7c914ac8393b/artwork.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Inhalte und wird von einer deutschen Band veröffentlicht.",
+      "totalDuration": 280.5,
+      "platforms": {
+        "appleMusic": "1737556979"
+      },
+      "chapters": [
+        {
+          "id": "dieh-amen-6979-t01",
+          "title": "am ende der welt wird eine neue geboren (feat. Lukas Fraktal)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 280.5
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-28T19:34:33Z"
+}

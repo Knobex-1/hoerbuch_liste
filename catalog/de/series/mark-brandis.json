@@ -12924,19 +12924,6 @@
       ]
     },
     {
-      "id": "1754637982",
-      "title": "Acoustica Ooh's & Ahh's",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/c2/ac/a5c2ac02-3b41-48b6-f75f-caab2ab25a61/1963629516453_cover.jpg/100x100bb.jpg",
-      "description": "Keine Beschreibung verfügbar.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1754637982"
-      },
-      "chapters": []
-    },
-    {
       "id": "1538649596",
       "title": "Haunted - Single",
       "episodeNumber": null,
@@ -13271,7 +13258,62 @@
           "duration": 326.046
         }
       ]
+    },
+    {
+      "id": "1082010313",
+      "title": "Star Wars - Cantina Band COUNTRY - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/70/5c/3c/705c3c83-003b-668e-d805-386341b25b26/M8mrn.png/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album von Star Wars, das von Mark The Hammer produziert wurde.",
+      "totalDuration": 110.687,
+      "platforms": {
+        "appleMusic": "1082010313"
+      },
+      "chapters": [
+        {
+          "id": "mark-star-0313-t01",
+          "title": "STAR WARS - Cantina Band [Country]",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 110.687
+        }
+      ]
+    },
+    {
+      "id": "1067039709",
+      "title": "Star Wars - Darth Vader Theme (Metal) - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9d/27/81/9d278127-8151-e760-7667-526987c2f552/artwork.jpg/100x100bb.jpg",
+      "description": "Ein Film-Soundtrack mit dem 'Star Wars' Darth Vader Theme von Mark The Hammer.",
+      "totalDuration": 118.286,
+      "platforms": {
+        "appleMusic": "1067039709"
+      },
+      "chapters": [
+        {
+          "id": "mark-star-9709-t01",
+          "title": "Star Wars - Darth Vader Theme (Metal)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 118.286
+        }
+      ]
+    },
+    {
+      "id": "1848950107",
+      "title": "Und alle Teufel hier - Das Hörspiel  ( Atticus 4)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/72/1b/7a721bba-bc59-3651-fbb7-b9a9ec2f0b14/4069828784031_cover.jpg/100x100bb.jpg",
+      "description": "Das Album 'Und alle Teufel hier - Das Hörspiel (Atticus 4)' ist ein Hörspiel, das Thriller und Krimi Themen behandelt. Es könnte sich um ein fiktives Abenteuer handeln.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1848950107"
+      },
+      "chapters": []
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-05-28T19:34:33Z"
 }

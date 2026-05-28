@@ -1,0 +1,52 @@
+{
+  "seriesId": "folge",
+  "title": "Folge",
+  "language": "de",
+  "author": "Fünf Freunde",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1002458852",
+      "title": "Folge 92: auf der Insel der Seeräuber",
+      "episodeNumber": 92,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/b8/87/f4/b887f4b2-edfe-0f98-ac2a-3298150dc5a8/886445158960.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 92: auf der Insel der Seeräuber' von den Fünf Freunden. Es umfasst 40 Tracks im Genre Hörspiele.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1002458852"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1002495973",
+      "title": "Folge 103: und die giftigen Feuerquallen",
+      "episodeNumber": 103,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/9c/e6/82/9ce6824f-12a9-ad44-f3b2-31fea025a28a/886445160710.jpg/100x100bb.jpg",
+      "description": "Das Album 'Folge 103: und die giftigen Feuerquallen' von 'Fünf Freunde' ist ein Hörspiel, das auf Apple Music verfügbar ist.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1002495973"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1761129434",
+      "title": "Folge 162: und die Legende vom versteckten Sohn",
+      "episodeNumber": 162,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/10/c2/f310c2bd-42c3-9e80-2f1b-efb71cba66f4/196872211900.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel mit der Handlung 'Legende vom versteckten Sohn'.",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1761129434"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-05-28T19:26:51Z"
+}

@@ -5351,19 +5351,6 @@
       ]
     },
     {
-      "id": "1498828484",
-      "title": "Folge 96: Reiten verboten!",
-      "episodeNumber": 96,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/74/91/817491d4-3b4b-59b8-6f6c-ee380d6953bd/190295296766.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das von den Charakteren Bibi und Tina erzählt. Es handelt sich um eine beliebte Serie für Kinder, die Abenteuer und Fantasie beinhaltet.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1498828484"
-      },
-      "chapters": []
-    },
-    {
       "id": "1500600840",
       "title": "Folge 97: Die junge Schäferin",
       "episodeNumber": 97,
@@ -18999,5 +18986,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T04:55:03Z"
+  "updatedAt": "2026-05-28T19:36:28Z"
 }
