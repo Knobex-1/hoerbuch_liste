@@ -1,0 +1,28 @@
+{
+  "language": "de",
+  "updatedAt": "2026-05-28T17:38:15Z",
+  "series": [
+    {
+      "id": "misc-n",
+      "title": "Weitere Titel (N–Z)",
+      "author": "",
+      "narrator": "",
+      "genres": [],
+      "albumCount": 306,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/67/89/d867890c-174c-063d-28b5-dafe145b14c6/cover.jpg/600x600bb.jpg",
+      "dataURL": "catalog/de/series/misc-n.json",
+      "seriesUpdatedAt": "2026-05-28T17:38:15Z"
+    },
+    {
+      "id": "misc-a",
+      "title": "Weitere Titel (A–M)",
+      "author": "",
+      "narrator": "",
+      "genres": [],
+      "albumCount": 2485,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/f8/03/dc/f803dc2d-49b9-0c91-c0b9-8d6cc2371cd5/886445739350.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/misc-a.json",
+      "seriesUpdatedAt": "2026-05-28T17:38:15Z"
+    }
+  ]
+}
