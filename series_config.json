@@ -42,7 +42,8 @@
       ],
       "avg_track_duration_seconds": 95,
       "enabled": true,
-      "slug": "tkkg"
+      "slug": "tkkg",
+      "franchise": "TKKG"
     },
     {
       "id_prefix": "bibi",
@@ -61,7 +62,62 @@
       "slug": "bibi-blocksberg"
     },
     {
-      "id_prefix": "sher",
+      "id_prefix": "tkkg-jr",
+      "search_term": "tkkg junior",
+      "extra_search_terms": [
+        "tkkg investigators"
+      ],
+      "artist_filter": "TKKG Junior",
+      "title": "TKKG Junior",
+      "author": "Stefan Wolf",
+      "narrator": "Verschiedene Sprecher",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Abenteuer"
+      ],
+      "avg_track_duration_seconds": 90,
+      "enabled": true,
+      "slug": "tkkg-junior",
+      "franchise": "TKKG"
+    },
+    {
+      "id_prefix": "tkkg-retro",
+      "search_term": "tkkg retro-archiv",
+      "extra_search_terms": [],
+      "artist_filter": "TKKG Retro-Archiv",
+      "title": "TKKG Retro-Archiv",
+      "author": "Stefan Wolf",
+      "narrator": "Verschiedene Sprecher",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ],
+      "avg_track_duration_seconds": 90,
+      "enabled": true,
+      "slug": "tkkg-retro-archiv",
+      "franchise": "TKKG"
+    },
+    {
+      "id_prefix": "tkkg-inv",
+      "search_term": "tkkg junior investigators",
+      "extra_search_terms": [],
+      "artist_filter": "TKKG - Junior Investigators",
+      "title": "TKKG - Junior Investigators",
+      "author": "Stefan Wolf",
+      "narrator": "Verschiedene Sprecher",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Abenteuer"
+      ],
+      "avg_track_duration_seconds": 90,
+      "enabled": true,
+      "slug": "tkkg-junior-investigators",
+      "franchise": "TKKG"
+    },
+    {
       "search_term": "sherlock holmes hörspiel titania",
       "artist_filter": "Arthur Conan Doyle",
       "title": "Sherlock Holmes",
@@ -114,13 +170,33 @@
       "extra_search_terms": [],
       "artist_filter": "Mark Brandis",
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "author": "Mark Brandis",
       "narrator": "",
       "enabled": true,
       "slug": "mark-brandis",
-      "id_prefix": "mark"
+      "id_prefix": "mark",
+      "franchise": "Mark Brandis"
+    },
+    {
+      "id_prefix": "mark-rk",
+      "search_term": "mark brandis raumkadett",
+      "extra_search_terms": [],
+      "artist_filter": "Mark Brandis - Raumkadett",
+      "title": "Mark Brandis - Raumkadett",
+      "author": "Nikolai von Michalewsky",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Kinder & Jugend"
+      ],
+      "avg_track_duration_seconds": 90,
+      "enabled": true,
+      "slug": "mark-brandis-raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "title": "Star Wars",

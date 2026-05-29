@@ -1,0 +1,204 @@
+{
+  "seriesId": "tkkg-retro-archiv",
+  "title": "TKKG Retro-Archiv",
+  "language": "de",
+  "author": "Stefan Wolf",
+  "narrator": "Verschiedene Sprecher",
+  "genres": [
+    "Hörspiel",
+    "Kinder & Jugend",
+    "Krimi"
+  ],
+  "albums": [
+    {
+      "id": "1442493371",
+      "title": "Folge 73: Herr der Schlangeninsel",
+      "episodeNumber": 73,
+      "releaseDate": "1991-01-01",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0d/1e/f2/0d1ef2f3-da43-4470-6ad7-116852d10379/886446083858.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Geschichten und Abenteuer, typisch für Hörspiele.",
+      "totalDuration": 2648.534,
+      "platforms": {
+        "appleMusic": "1442493371"
+      },
+      "chapters": [
+        {
+          "id": "1442493371-t01",
+          "title": "073 - Herr der Schlangeninsel (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 142.107
+        },
+        {
+          "id": "1442493371-t02",
+          "title": "073 - Herr der Schlangeninsel (Teil 02)",
+          "index": 1,
+          "startTime": 142.107,
+          "duration": 109.52
+        },
+        {
+          "id": "1442493371-t03",
+          "title": "073 - Herr der Schlangeninsel (Teil 03)",
+          "index": 2,
+          "startTime": 251.627,
+          "duration": 102.467
+        },
+        {
+          "id": "1442493371-t04",
+          "title": "073 - Herr der Schlangeninsel (Teil 04)",
+          "index": 3,
+          "startTime": 354.094,
+          "duration": 104.427
+        },
+        {
+          "id": "1442493371-t05",
+          "title": "073 - Herr der Schlangeninsel (Teil 05)",
+          "index": 4,
+          "startTime": 458.521,
+          "duration": 102.6
+        },
+        {
+          "id": "1442493371-t06",
+          "title": "073 - Herr der Schlangeninsel (Teil 06)",
+          "index": 5,
+          "startTime": 561.121,
+          "duration": 105.107
+        },
+        {
+          "id": "1442493371-t07",
+          "title": "073 - Herr der Schlangeninsel (Teil 07)",
+          "index": 6,
+          "startTime": 666.228,
+          "duration": 109.427
+        },
+        {
+          "id": "1442493371-t08",
+          "title": "073 - Herr der Schlangeninsel (Teil 08)",
+          "index": 7,
+          "startTime": 775.655,
+          "duration": 92.027
+        },
+        {
+          "id": "1442493371-t09",
+          "title": "073 - Herr der Schlangeninsel (Teil 09)",
+          "index": 8,
+          "startTime": 867.682,
+          "duration": 110.52
+        },
+        {
+          "id": "1442493371-t10",
+          "title": "073 - Herr der Schlangeninsel (Teil 10)",
+          "index": 9,
+          "startTime": 978.202,
+          "duration": 100.933
+        },
+        {
+          "id": "1442493371-t11",
+          "title": "073 - Herr der Schlangeninsel (Teil 11)",
+          "index": 10,
+          "startTime": 1079.135,
+          "duration": 99.413
+        },
+        {
+          "id": "1442493371-t12",
+          "title": "073 - Herr der Schlangeninsel (Teil 12)",
+          "index": 11,
+          "startTime": 1178.548,
+          "duration": 108.0
+        },
+        {
+          "id": "1442493371-t13",
+          "title": "073 - Herr der Schlangeninsel (Teil 13)",
+          "index": 12,
+          "startTime": 1286.548,
+          "duration": 103.773
+        },
+        {
+          "id": "1442493371-t14",
+          "title": "073 - Herr der Schlangeninsel (Teil 14)",
+          "index": 13,
+          "startTime": 1390.321,
+          "duration": 106.04
+        },
+        {
+          "id": "1442493371-t15",
+          "title": "073 - Herr der Schlangeninsel (Teil 15)",
+          "index": 14,
+          "startTime": 1496.361,
+          "duration": 103.84
+        },
+        {
+          "id": "1442493371-t16",
+          "title": "073 - Herr der Schlangeninsel (Teil 16)",
+          "index": 15,
+          "startTime": 1600.201,
+          "duration": 110.2
+        },
+        {
+          "id": "1442493371-t17",
+          "title": "073 - Herr der Schlangeninsel (Teil 17)",
+          "index": 16,
+          "startTime": 1710.401,
+          "duration": 100.467
+        },
+        {
+          "id": "1442493371-t18",
+          "title": "073 - Herr der Schlangeninsel (Teil 18)",
+          "index": 17,
+          "startTime": 1810.868,
+          "duration": 101.2
+        },
+        {
+          "id": "1442493371-t19",
+          "title": "073 - Herr der Schlangeninsel (Teil 19)",
+          "index": 18,
+          "startTime": 1912.068,
+          "duration": 105.92
+        },
+        {
+          "id": "1442493371-t20",
+          "title": "073 - Herr der Schlangeninsel (Teil 20)",
+          "index": 19,
+          "startTime": 2017.988,
+          "duration": 97.067
+        },
+        {
+          "id": "1442493371-t21",
+          "title": "073 - Herr der Schlangeninsel (Teil 21)",
+          "index": 20,
+          "startTime": 2115.055,
+          "duration": 113.053
+        },
+        {
+          "id": "1442493371-t22",
+          "title": "073 - Herr der Schlangeninsel (Teil 22)",
+          "index": 21,
+          "startTime": 2228.108,
+          "duration": 110.027
+        },
+        {
+          "id": "1442493371-t23",
+          "title": "073 - Herr der Schlangeninsel (Teil 23)",
+          "index": 22,
+          "startTime": 2338.135,
+          "duration": 100.613
+        },
+        {
+          "id": "1442493371-t24",
+          "title": "073 - Herr der Schlangeninsel (Teil 24)",
+          "index": 23,
+          "startTime": 2438.748,
+          "duration": 92.053
+        },
+        {
+          "id": "1442493371-t25",
+          "title": "073 - Herr der Schlangeninsel (Teil 25)",
+          "index": 24,
+          "startTime": 2530.801,
+          "duration": 117.733
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-29T10:04:07Z"
+}

@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-28T21:44:17Z",
+  "updatedAt": "2026-05-29T10:04:07Z",
   "series": [
     {
       "id": "tkkg",
@@ -12,10 +12,10 @@
         "Krimi",
         "Kinder & Jugend"
       ],
-      "albumCount": 207,
+      "albumCount": 205,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/22/5b/31225b7c-f967-2b47-3bd0-8bdc135e4675/886446011790.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg.json",
-      "seriesUpdatedAt": "2026-05-28T21:41:22Z"
+      "seriesUpdatedAt": "2026-05-29T10:04:07Z"
     },
     {
       "id": "sherlock-holmes",
@@ -84,12 +84,13 @@
       "author": "Mark Brandis",
       "narrator": "",
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "albumCount": 50,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis.json",
-      "seriesUpdatedAt": "2026-05-28T21:41:22Z"
+      "seriesUpdatedAt": "2026-05-29T10:04:07Z"
     },
     {
       "id": "star-wars",
@@ -415,6 +416,36 @@
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fb/b1/28fbb19f-8167-6d9f-d574-cc78a6dbfd4a/4069829541695_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/michelle-madow-fantasy-hoerbuecher-hoerbuch-bestseller.json",
       "seriesUpdatedAt": "2026-05-27T18:01:36Z"
+    },
+    {
+      "id": "tkkg-junior",
+      "title": "TKKG Junior",
+      "author": "Stefan Wolf",
+      "narrator": "Verschiedene Sprecher",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Abenteuer"
+      ],
+      "albumCount": 1,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/98/1d/e5981df2-4ab2-d1ee-88ab-5e98f2c9e81c/196589989512.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/tkkg-junior.json",
+      "seriesUpdatedAt": "2026-05-29T10:04:07Z"
+    },
+    {
+      "id": "tkkg-retro-archiv",
+      "title": "TKKG Retro-Archiv",
+      "author": "Stefan Wolf",
+      "narrator": "Verschiedene Sprecher",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ],
+      "albumCount": 1,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0d/1e/f2/0d1ef2f3-da43-4470-6ad7-116852d10379/886446083858.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/tkkg-retro-archiv.json",
+      "seriesUpdatedAt": "2026-05-29T10:04:07Z"
     }
   ]
 }

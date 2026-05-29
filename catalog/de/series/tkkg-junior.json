@@ -1,0 +1,176 @@
+{
+  "seriesId": "tkkg-junior",
+  "title": "TKKG Junior",
+  "language": "de",
+  "author": "Stefan Wolf",
+  "narrator": "Verschiedene Sprecher",
+  "genres": [
+    "Hörspiel",
+    "Kinder & Jugend",
+    "Abenteuer"
+  ],
+  "albums": [
+    {
+      "id": "1685192824",
+      "title": "Folge 26: Achtung, Fahrraddiebe!",
+      "episodeNumber": 26,
+      "releaseDate": "2023-03-24",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/98/1d/e5981df2-4ab2-d1ee-88ab-5e98f2c9e81c/196589989512.jpg/100x100bb.jpg",
+      "description": "Ein Hörspielalbum, das sich an ein junges Publikum richtet, typisch für deutsche Jugendhörspiele.",
+      "totalDuration": 2983.895,
+      "platforms": {
+        "appleMusic": "1685192824"
+      },
+      "chapters": [
+        {
+          "id": "1685192824-t01",
+          "title": "26 - Achtung, Fahrraddiebe! (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 71.373
+        },
+        {
+          "id": "1685192824-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 71.373,
+          "duration": 62.467
+        },
+        {
+          "id": "1685192824-t03",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 01)",
+          "index": 2,
+          "startTime": 133.84,
+          "duration": 153.32
+        },
+        {
+          "id": "1685192824-t04",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 02)",
+          "index": 3,
+          "startTime": 287.16,
+          "duration": 152.827
+        },
+        {
+          "id": "1685192824-t05",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 03)",
+          "index": 4,
+          "startTime": 439.987,
+          "duration": 151.6
+        },
+        {
+          "id": "1685192824-t06",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 04)",
+          "index": 5,
+          "startTime": 591.587,
+          "duration": 150.907
+        },
+        {
+          "id": "1685192824-t07",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 05)",
+          "index": 6,
+          "startTime": 742.494,
+          "duration": 151.053
+        },
+        {
+          "id": "1685192824-t08",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 06)",
+          "index": 7,
+          "startTime": 893.547,
+          "duration": 154.453
+        },
+        {
+          "id": "1685192824-t09",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 07)",
+          "index": 8,
+          "startTime": 1048.0,
+          "duration": 150.64
+        },
+        {
+          "id": "1685192824-t10",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 08)",
+          "index": 9,
+          "startTime": 1198.64,
+          "duration": 151.413
+        },
+        {
+          "id": "1685192824-t11",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 09)",
+          "index": 10,
+          "startTime": 1350.053,
+          "duration": 150.667
+        },
+        {
+          "id": "1685192824-t12",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 10)",
+          "index": 11,
+          "startTime": 1500.72,
+          "duration": 152.747
+        },
+        {
+          "id": "1685192824-t13",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 11)",
+          "index": 12,
+          "startTime": 1653.467,
+          "duration": 150.32
+        },
+        {
+          "id": "1685192824-t14",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 12)",
+          "index": 13,
+          "startTime": 1803.787,
+          "duration": 150.36
+        },
+        {
+          "id": "1685192824-t15",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 13)",
+          "index": 14,
+          "startTime": 1954.147,
+          "duration": 151.067
+        },
+        {
+          "id": "1685192824-t16",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 14)",
+          "index": 15,
+          "startTime": 2105.214,
+          "duration": 150.64
+        },
+        {
+          "id": "1685192824-t17",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 15)",
+          "index": 16,
+          "startTime": 2255.854,
+          "duration": 150.293
+        },
+        {
+          "id": "1685192824-t18",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 16)",
+          "index": 17,
+          "startTime": 2406.147,
+          "duration": 158.867
+        },
+        {
+          "id": "1685192824-t19",
+          "title": "26 - Achtung, Fahrraddiebe! (Teil 17)",
+          "index": 18,
+          "startTime": 2565.014,
+          "duration": 286.507
+        },
+        {
+          "id": "1685192824-t20",
+          "title": "TKKG Junior Schlußsong",
+          "index": 19,
+          "startTime": 2851.521,
+          "duration": 66.387
+        },
+        {
+          "id": "1685192824-t21",
+          "title": "26 - Achtung, Fahrraddiebe! (Outro)",
+          "index": 20,
+          "startTime": 2917.908,
+          "duration": 65.987
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-29T10:04:07Z"
+}
