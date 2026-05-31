@@ -828,18 +828,6 @@
       "enabled": true,
       "slug": "kai-magnus-sting",
       "id_prefix": "kste"
-    },
-    {
-      "title": "Folge",
-      "search_term": "folge",
-      "extra_search_terms": [],
-      "artist_filter": "Fünf Freunde",
-      "genres": [
-        "Hörspiel"
-      ],
-      "author": "Fünf Freunde",
-      "narrator": "",
-      "enabled": true
     }
   ]
 }
