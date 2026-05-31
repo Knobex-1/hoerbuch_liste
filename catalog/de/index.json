@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-31T18:44:24Z",
+  "updatedAt": "2026-05-31T19:39:09Z",
   "series": [
     {
       "id": "tkkg",
@@ -88,10 +88,10 @@
         "Kinder & Jugend",
         "Krimi"
       ],
-      "albumCount": 12,
+      "albumCount": 72,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg-retro-archiv.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
     },
     {
       "id": "tkkg-junior",
@@ -103,10 +103,10 @@
         "Kinder & Jugend",
         "Abenteuer"
       ],
-      "albumCount": 2,
+      "albumCount": 18,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/46/b2/7b46b201-f9a3-eecd-94a7-f37a287110fb/886446012971.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg-junior.json",
-      "seriesUpdatedAt": "2026-05-31T16:46:35Z"
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
     },
     {
       "id": "mark-brandis-raumkadett",
@@ -377,10 +377,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 96,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/a6/aa/bfa6aadc-99b5-c40a-4876-78f7cf7fc8d4/4057664880420.jpg/100x100bb.jpg",
+      "albumCount": 104,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/6f/ac/286fac18-afc9-9191-845a-2f38a95026c9/4057664075253.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/conni.json",
-      "seriesUpdatedAt": "2026-05-28T21:41:22Z"
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
     },
     {
       "id": "meine-freundin-conni",
@@ -403,10 +403,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 203,
+      "albumCount": 204,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/fc/a8/d1/fca8d129-281c-c74f-f08c-6550128591b3/190295928582.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/benjamin-bluemchen.json",
-      "seriesUpdatedAt": "2026-05-28T04:55:03Z"
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
     },
     {
       "id": "alea-aquarius-tanya-stewner",
@@ -416,10 +416,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 6,
+      "albumCount": 7,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/f7/7e/a3f77e05-f8b0-8226-1dc1-ba108057b476/4069828735699_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/alea-aquarius-tanya-stewner.json",
-      "seriesUpdatedAt": "2026-05-28T19:26:51Z"
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
     },
     {
       "id": "pettersson-und-findus",
@@ -524,6 +524,21 @@
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fb/b1/28fbb19f-8167-6d9f-d574-cc78a6dbfd4a/4069829541695_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/michelle-madow-fantasy-hoerbuecher-hoerbuch-bestseller.json",
       "seriesUpdatedAt": "2026-05-27T18:01:36Z"
+    },
+    {
+      "id": "tkkg-junior-investigators",
+      "title": "TKKG - Junior Investigators",
+      "author": "Stefan Wolf",
+      "narrator": "Verschiedene Sprecher",
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Abenteuer"
+      ],
+      "albumCount": 1,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/cf/78/75cf78fe-42a3-ec32-143a-d5b1d70a94e9/886447325193.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/tkkg-junior-investigators.json",
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
     }
   ]
 }

@@ -6185,6 +6185,202 @@
       "chapters": []
     },
     {
+      "id": "6770476376",
+      "title": "Gute-Nacht-Geschichten - Folge 37: Der Funkenregenbogen",
+      "episodeNumber": 37,
+      "releaseDate": "2026-06-19",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/e5/51/69e551b4-494b-130e-e0ce-5839b30527ba/4033694550472.jpg/100x100bb.jpg",
+      "description": "Eine Folge der beliebten 'Gute-Nacht-Geschichten'-Serie von Benjamin Blümchen. Ein abenteuerliches Hörspiel, das für Kinder und Jugendliche geeignet ist.",
+      "totalDuration": 2685.327,
+      "platforms": {
+        "appleMusic": "6770476376"
+      },
+      "chapters": [
+        {
+          "id": "6770476376-t01",
+          "title": "Schlafliedchen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 50.569
+        },
+        {
+          "id": "6770476376-t02",
+          "title": "Kapitel 01: Eine stürmische Nacht (Folge 37)",
+          "index": 1,
+          "startTime": 50.569,
+          "duration": 90.573
+        },
+        {
+          "id": "6770476376-t03",
+          "title": "Kapitel 02: Eine stürmische Nacht (Folge 37)",
+          "index": 2,
+          "startTime": 141.142,
+          "duration": 95.563
+        },
+        {
+          "id": "6770476376-t04",
+          "title": "Kapitel 03: Eine stürmische Nacht (Folge 37)",
+          "index": 3,
+          "startTime": 236.705,
+          "duration": 110.665
+        },
+        {
+          "id": "6770476376-t05",
+          "title": "Kapitel 01: Ein heißer Sommerabend (Folge 37)",
+          "index": 4,
+          "startTime": 347.37,
+          "duration": 92.682
+        },
+        {
+          "id": "6770476376-t06",
+          "title": "Kapitel 02: Ein heißer Sommerabend (Folge 37)",
+          "index": 5,
+          "startTime": 440.052,
+          "duration": 93.263
+        },
+        {
+          "id": "6770476376-t07",
+          "title": "Kapitel 03: Ein heißer Sommerabend (Folge 37)",
+          "index": 6,
+          "startTime": 533.315,
+          "duration": 145.299
+        },
+        {
+          "id": "6770476376-t08",
+          "title": "Kapitel 01: Ein heftiges Gewitter (Folge 37)",
+          "index": 7,
+          "startTime": 678.614,
+          "duration": 100.353
+        },
+        {
+          "id": "6770476376-t09",
+          "title": "Kapitel 02: Ein heftiges Gewitter (Folge 37)",
+          "index": 8,
+          "startTime": 778.967,
+          "duration": 91.036
+        },
+        {
+          "id": "6770476376-t10",
+          "title": "Kapitel 03: Ein heftiges Gewitter (Folge 37)",
+          "index": 9,
+          "startTime": 870.003,
+          "duration": 132.79
+        },
+        {
+          "id": "6770476376-t11",
+          "title": "Kapitel 01: Der Funkenregenbogen (Folge 37)",
+          "index": 10,
+          "startTime": 1002.793,
+          "duration": 97.514
+        },
+        {
+          "id": "6770476376-t12",
+          "title": "Kapitel 02: Der Funkenregenbogen (Folge 37)",
+          "index": 11,
+          "startTime": 1100.307,
+          "duration": 92.172
+        },
+        {
+          "id": "6770476376-t13",
+          "title": "Kapitel 03: Der Funkenregenbogen (Folge 37)",
+          "index": 12,
+          "startTime": 1192.479,
+          "duration": 157.676
+        },
+        {
+          "id": "6770476376-t14",
+          "title": "Kapitel 01: Ein lauer Frühlingsabend (Folge 37)",
+          "index": 13,
+          "startTime": 1350.155,
+          "duration": 90.897
+        },
+        {
+          "id": "6770476376-t15",
+          "title": "Kapitel 02: Ein lauer Frühlingsabend (Folge 37)",
+          "index": 14,
+          "startTime": 1441.052,
+          "duration": 91.973
+        },
+        {
+          "id": "6770476376-t16",
+          "title": "Kapitel 03: Ein lauer Frühlingsabend (Folge 37)",
+          "index": 15,
+          "startTime": 1533.025,
+          "duration": 157.755
+        },
+        {
+          "id": "6770476376-t17",
+          "title": "Kapitel 01: Der Herbstnebel (Folge 37)",
+          "index": 16,
+          "startTime": 1690.78,
+          "duration": 92.106
+        },
+        {
+          "id": "6770476376-t18",
+          "title": "Kapitel 02: Der Herbstnebel (Folge 37)",
+          "index": 17,
+          "startTime": 1782.886,
+          "duration": 111.686
+        },
+        {
+          "id": "6770476376-t19",
+          "title": "Kapitel 03: Der Herbstnebel (Folge 37)",
+          "index": 18,
+          "startTime": 1894.572,
+          "duration": 104.034
+        },
+        {
+          "id": "6770476376-t20",
+          "title": "Kapitel 01: Der verregnete Tag (Folge 37)",
+          "index": 19,
+          "startTime": 1998.606,
+          "duration": 91.678
+        },
+        {
+          "id": "6770476376-t21",
+          "title": "Kapitel 02: Der verregnete Tag (Folge 37)",
+          "index": 20,
+          "startTime": 2090.284,
+          "duration": 113.722
+        },
+        {
+          "id": "6770476376-t22",
+          "title": "Kapitel 03: Der verregnete Tag (Folge 37)",
+          "index": 21,
+          "startTime": 2204.006,
+          "duration": 120.546
+        },
+        {
+          "id": "6770476376-t23",
+          "title": "Kapitel 01: Die eiskalte Winternacht (Folge 37)",
+          "index": 22,
+          "startTime": 2324.552,
+          "duration": 90.267
+        },
+        {
+          "id": "6770476376-t24",
+          "title": "Kapitel 02: Die eiskalte Winternacht (Folge 37)",
+          "index": 23,
+          "startTime": 2414.819,
+          "duration": 91.87
+        },
+        {
+          "id": "6770476376-t25",
+          "title": "Kapitel 03: Die eiskalte Winternacht (Folge 37)",
+          "index": 24,
+          "startTime": 2506.689,
+          "duration": 92.193
+        },
+        {
+          "id": "6770476376-t26",
+          "title": "Kapitel 04: Die eiskalte Winternacht (Folge 37)",
+          "index": 25,
+          "startTime": 2598.882,
+          "duration": 86.445
+        }
+      ]
+    },
+    {
       "id": "1139322758",
       "title": "Folge 38: Der Zoo zieht um",
       "episodeNumber": 38,
@@ -15956,5 +16152,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T04:55:03Z"
+  "updatedAt": "2026-05-31T19:39:09Z"
 }

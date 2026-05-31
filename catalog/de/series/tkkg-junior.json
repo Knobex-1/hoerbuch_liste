@@ -200,6 +200,706 @@
       ]
     },
     {
+      "id": "1685190928",
+      "title": "Folge 22: Abenteuer im Safari-Park",
+      "episodeNumber": 22,
+      "releaseDate": "2022-05-20",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/0b/a0/e00ba028-a370-25db-cc96-31971a271df0/886449795352.jpg/100x100bb.jpg",
+      "description": "Ein spannender Hörspiel-Abenteuer im Safari-Park mit TKKG Junior.",
+      "totalDuration": 3334.252,
+      "platforms": {
+        "appleMusic": "1685190928"
+      },
+      "chapters": [
+        {
+          "id": "1685190928-t01",
+          "title": "22 - Abenteuer im Safari-Park (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 40.947
+        },
+        {
+          "id": "1685190928-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 40.947,
+          "duration": 62.52
+        },
+        {
+          "id": "1685190928-t03",
+          "title": "22 - Abenteuer im Safari-Park (Teil 01)",
+          "index": 2,
+          "startTime": 103.467,
+          "duration": 151.373
+        },
+        {
+          "id": "1685190928-t04",
+          "title": "22 - Abenteuer im Safari-Park (Teil 02)",
+          "index": 3,
+          "startTime": 254.84,
+          "duration": 150.88
+        },
+        {
+          "id": "1685190928-t05",
+          "title": "22 - Abenteuer im Safari-Park (Teil 03)",
+          "index": 4,
+          "startTime": 405.72,
+          "duration": 150.147
+        },
+        {
+          "id": "1685190928-t06",
+          "title": "22 - Abenteuer im Safari-Park (Teil 04)",
+          "index": 5,
+          "startTime": 555.867,
+          "duration": 151.573
+        },
+        {
+          "id": "1685190928-t07",
+          "title": "22 - Abenteuer im Safari-Park (Teil 05)",
+          "index": 6,
+          "startTime": 707.44,
+          "duration": 152.72
+        },
+        {
+          "id": "1685190928-t08",
+          "title": "22 - Abenteuer im Safari-Park (Teil 06)",
+          "index": 7,
+          "startTime": 860.16,
+          "duration": 151.24
+        },
+        {
+          "id": "1685190928-t09",
+          "title": "22 - Abenteuer im Safari-Park (Teil 07)",
+          "index": 8,
+          "startTime": 1011.4,
+          "duration": 152.173
+        },
+        {
+          "id": "1685190928-t10",
+          "title": "22 - Abenteuer im Safari-Park (Teil 08)",
+          "index": 9,
+          "startTime": 1163.573,
+          "duration": 154.413
+        },
+        {
+          "id": "1685190928-t11",
+          "title": "22 - Abenteuer im Safari-Park (Teil 09)",
+          "index": 10,
+          "startTime": 1317.986,
+          "duration": 150.12
+        },
+        {
+          "id": "1685190928-t12",
+          "title": "22 - Abenteuer im Safari-Park (Teil 10)",
+          "index": 11,
+          "startTime": 1468.106,
+          "duration": 150.627
+        },
+        {
+          "id": "1685190928-t13",
+          "title": "22 - Abenteuer im Safari-Park (Teil 11)",
+          "index": 12,
+          "startTime": 1618.733,
+          "duration": 150.787
+        },
+        {
+          "id": "1685190928-t14",
+          "title": "22 - Abenteuer im Safari-Park (Teil 12)",
+          "index": 13,
+          "startTime": 1769.52,
+          "duration": 150.56
+        },
+        {
+          "id": "1685190928-t15",
+          "title": "22 - Abenteuer im Safari-Park (Teil 13)",
+          "index": 14,
+          "startTime": 1920.08,
+          "duration": 150.12
+        },
+        {
+          "id": "1685190928-t16",
+          "title": "22 - Abenteuer im Safari-Park (Teil 14)",
+          "index": 15,
+          "startTime": 2070.2,
+          "duration": 150.48
+        },
+        {
+          "id": "1685190928-t17",
+          "title": "22 - Abenteuer im Safari-Park (Teil 15)",
+          "index": 16,
+          "startTime": 2220.68,
+          "duration": 152.853
+        },
+        {
+          "id": "1685190928-t18",
+          "title": "22 - Abenteuer im Safari-Park (Teil 16)",
+          "index": 17,
+          "startTime": 2373.533,
+          "duration": 153.813
+        },
+        {
+          "id": "1685190928-t19",
+          "title": "22 - Abenteuer im Safari-Park (Teil 17)",
+          "index": 18,
+          "startTime": 2527.346,
+          "duration": 150.0
+        },
+        {
+          "id": "1685190928-t20",
+          "title": "22 - Abenteuer im Safari-Park (Teil 18)",
+          "index": 19,
+          "startTime": 2677.346,
+          "duration": 151.053
+        },
+        {
+          "id": "1685190928-t21",
+          "title": "22 - Abenteuer im Safari-Park (Teil 19)",
+          "index": 20,
+          "startTime": 2828.399,
+          "duration": 156.2
+        },
+        {
+          "id": "1685190928-t22",
+          "title": "22 - Abenteuer im Safari-Park (Teil 20)",
+          "index": 21,
+          "startTime": 2984.599,
+          "duration": 219.733
+        },
+        {
+          "id": "1685190928-t23",
+          "title": "TKKG Junior Schlußsong",
+          "index": 22,
+          "startTime": 3204.332,
+          "duration": 68.267
+        },
+        {
+          "id": "1685190928-t24",
+          "title": "22 - Abenteuer im Safari-Park (Outro)",
+          "index": 23,
+          "startTime": 3272.599,
+          "duration": 61.653
+        }
+      ]
+    },
+    {
+      "id": "1685190942",
+      "title": "Folge 23: Schmugglerbande voraus!",
+      "episodeNumber": 23,
+      "releaseDate": "2022-07-29",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/10/aa/9f/10aa9f96-1e1c-ce0f-bc57-e5021c57d6fb/886449718603.jpg/100x100bb.jpg",
+      "description": "Die TKKG-Junioren sind auf der Spur einer Schmugglerbande! In Folge 23 dieser erfolgreichen Serie ermitteln die jungen Detektive, was dahinter steckt. Spannende Kriminalgeschichten für Kinder und Jugendliche.",
+      "totalDuration": 2868.547,
+      "platforms": {
+        "appleMusic": "1685190942"
+      },
+      "chapters": [
+        {
+          "id": "1685190942-t01",
+          "title": "23 - Schmugglerbande voraus! (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 37.813
+        },
+        {
+          "id": "1685190942-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 37.813,
+          "duration": 64.64
+        },
+        {
+          "id": "1685190942-t03",
+          "title": "23 - Schmugglerbande voraus! (Teil 01)",
+          "index": 2,
+          "startTime": 102.453,
+          "duration": 153.227
+        },
+        {
+          "id": "1685190942-t04",
+          "title": "23 - Schmugglerbande voraus! (Teil 02)",
+          "index": 3,
+          "startTime": 255.68,
+          "duration": 152.773
+        },
+        {
+          "id": "1685190942-t05",
+          "title": "23 - Schmugglerbande voraus! (Teil 03)",
+          "index": 4,
+          "startTime": 408.453,
+          "duration": 150.787
+        },
+        {
+          "id": "1685190942-t06",
+          "title": "23 - Schmugglerbande voraus! (Teil 04)",
+          "index": 5,
+          "startTime": 559.24,
+          "duration": 153.733
+        },
+        {
+          "id": "1685190942-t07",
+          "title": "23 - Schmugglerbande voraus! (Teil 05)",
+          "index": 6,
+          "startTime": 712.973,
+          "duration": 150.693
+        },
+        {
+          "id": "1685190942-t08",
+          "title": "23 - Schmugglerbande voraus! (Teil 06)",
+          "index": 7,
+          "startTime": 863.666,
+          "duration": 153.947
+        },
+        {
+          "id": "1685190942-t09",
+          "title": "23 - Schmugglerbande voraus! (Teil 07)",
+          "index": 8,
+          "startTime": 1017.613,
+          "duration": 150.28
+        },
+        {
+          "id": "1685190942-t10",
+          "title": "23 - Schmugglerbande voraus! (Teil 08)",
+          "index": 9,
+          "startTime": 1167.893,
+          "duration": 150.213
+        },
+        {
+          "id": "1685190942-t11",
+          "title": "23 - Schmugglerbande voraus! (Teil 09)",
+          "index": 10,
+          "startTime": 1318.106,
+          "duration": 150.493
+        },
+        {
+          "id": "1685190942-t12",
+          "title": "23 - Schmugglerbande voraus! (Teil 10)",
+          "index": 11,
+          "startTime": 1468.599,
+          "duration": 150.12
+        },
+        {
+          "id": "1685190942-t13",
+          "title": "23 - Schmugglerbande voraus! (Teil 11)",
+          "index": 12,
+          "startTime": 1618.719,
+          "duration": 150.0
+        },
+        {
+          "id": "1685190942-t14",
+          "title": "23 - Schmugglerbande voraus! (Teil 12)",
+          "index": 13,
+          "startTime": 1768.719,
+          "duration": 151.107
+        },
+        {
+          "id": "1685190942-t15",
+          "title": "23 - Schmugglerbande voraus! (Teil 13)",
+          "index": 14,
+          "startTime": 1919.826,
+          "duration": 150.427
+        },
+        {
+          "id": "1685190942-t16",
+          "title": "23 - Schmugglerbande voraus! (Teil 14)",
+          "index": 15,
+          "startTime": 2070.253,
+          "duration": 151.547
+        },
+        {
+          "id": "1685190942-t17",
+          "title": "23 - Schmugglerbande voraus! (Teil 15)",
+          "index": 16,
+          "startTime": 2221.8,
+          "duration": 150.893
+        },
+        {
+          "id": "1685190942-t18",
+          "title": "23 - Schmugglerbande voraus! (Teil 16)",
+          "index": 17,
+          "startTime": 2372.693,
+          "duration": 150.36
+        },
+        {
+          "id": "1685190942-t19",
+          "title": "23 - Schmugglerbande voraus! (Teil 17)",
+          "index": 18,
+          "startTime": 2523.053,
+          "duration": 221.56
+        },
+        {
+          "id": "1685190942-t20",
+          "title": "TKKG Junior Schlußsong",
+          "index": 19,
+          "startTime": 2744.613,
+          "duration": 66.307
+        },
+        {
+          "id": "1685190942-t21",
+          "title": "23 - Schmugglerbande voraus! (Outro)",
+          "index": 20,
+          "startTime": 2810.92,
+          "duration": 57.627
+        }
+      ]
+    },
+    {
+      "id": "1685191043",
+      "title": "Folge 24: Das doppelte Klößchen",
+      "episodeNumber": 24,
+      "releaseDate": "2022-09-23",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c9/ec/31/c9ec3115-fea2-94c2-3b8b-ea1f6f5058cc/196871092166.jpg/100x100bb.jpg",
+      "description": "Ein Album von TKKG Junior mit Hörspiel-Inhalten, das im Genre Hörspiel angesiedelt ist.",
+      "totalDuration": 3225.784,
+      "platforms": {
+        "appleMusic": "1685191043"
+      },
+      "chapters": [
+        {
+          "id": "1685191043-t01",
+          "title": "24 - Das doppelte Klößchen (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 57.04
+        },
+        {
+          "id": "1685191043-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 57.04,
+          "duration": 62.56
+        },
+        {
+          "id": "1685191043-t03",
+          "title": "24 - Das doppelte Klößchen (Teil 01)",
+          "index": 2,
+          "startTime": 119.6,
+          "duration": 152.747
+        },
+        {
+          "id": "1685191043-t04",
+          "title": "24 - Das doppelte Klößchen (Teil 02)",
+          "index": 3,
+          "startTime": 272.347,
+          "duration": 150.867
+        },
+        {
+          "id": "1685191043-t05",
+          "title": "24 - Das doppelte Klößchen (Teil 03)",
+          "index": 4,
+          "startTime": 423.214,
+          "duration": 155.507
+        },
+        {
+          "id": "1685191043-t06",
+          "title": "24 - Das doppelte Klößchen (Teil 04)",
+          "index": 5,
+          "startTime": 578.721,
+          "duration": 151.573
+        },
+        {
+          "id": "1685191043-t07",
+          "title": "24 - Das doppelte Klößchen (Teil 05)",
+          "index": 6,
+          "startTime": 730.294,
+          "duration": 159.133
+        },
+        {
+          "id": "1685191043-t08",
+          "title": "24 - Das doppelte Klößchen (Teil 06)",
+          "index": 7,
+          "startTime": 889.427,
+          "duration": 150.0
+        },
+        {
+          "id": "1685191043-t09",
+          "title": "24 - Das doppelte Klößchen (Teil 07)",
+          "index": 8,
+          "startTime": 1039.427,
+          "duration": 150.253
+        },
+        {
+          "id": "1685191043-t10",
+          "title": "24 - Das doppelte Klößchen (Teil 08)",
+          "index": 9,
+          "startTime": 1189.68,
+          "duration": 151.093
+        },
+        {
+          "id": "1685191043-t11",
+          "title": "24 - Das doppelte Klößchen (Teil 09)",
+          "index": 10,
+          "startTime": 1340.773,
+          "duration": 150.493
+        },
+        {
+          "id": "1685191043-t12",
+          "title": "24 - Das doppelte Klößchen (Teil 10)",
+          "index": 11,
+          "startTime": 1491.266,
+          "duration": 153.573
+        },
+        {
+          "id": "1685191043-t13",
+          "title": "24 - Das doppelte Klößchen (Teil 11)",
+          "index": 12,
+          "startTime": 1644.839,
+          "duration": 150.84
+        },
+        {
+          "id": "1685191043-t14",
+          "title": "24 - Das doppelte Klößchen (Teil 12)",
+          "index": 13,
+          "startTime": 1795.679,
+          "duration": 150.88
+        },
+        {
+          "id": "1685191043-t15",
+          "title": "24 - Das doppelte Klößchen (Teil 13)",
+          "index": 14,
+          "startTime": 1946.559,
+          "duration": 154.133
+        },
+        {
+          "id": "1685191043-t16",
+          "title": "24 - Das doppelte Klößchen (Teil 14)",
+          "index": 15,
+          "startTime": 2100.692,
+          "duration": 152.28
+        },
+        {
+          "id": "1685191043-t17",
+          "title": "24 - Das doppelte Klößchen (Teil 15)",
+          "index": 16,
+          "startTime": 2252.972,
+          "duration": 150.413
+        },
+        {
+          "id": "1685191043-t18",
+          "title": "24 - Das doppelte Klößchen (Teil 16)",
+          "index": 17,
+          "startTime": 2403.385,
+          "duration": 158.373
+        },
+        {
+          "id": "1685191043-t19",
+          "title": "24 - Das doppelte Klößchen (Teil 17)",
+          "index": 18,
+          "startTime": 2561.758,
+          "duration": 150.893
+        },
+        {
+          "id": "1685191043-t20",
+          "title": "24 - Das doppelte Klößchen (Teil 18)",
+          "index": 19,
+          "startTime": 2712.651,
+          "duration": 155.213
+        },
+        {
+          "id": "1685191043-t21",
+          "title": "24 - Das doppelte Klößchen (Teil 19)",
+          "index": 20,
+          "startTime": 2867.864,
+          "duration": 231.76
+        },
+        {
+          "id": "1685191043-t22",
+          "title": "TKKG Junior Schlußsong",
+          "index": 21,
+          "startTime": 3099.624,
+          "duration": 68.373
+        },
+        {
+          "id": "1685191043-t23",
+          "title": "24 - Das doppelte Klößchen (Outro)",
+          "index": 22,
+          "startTime": 3167.997,
+          "duration": 57.787
+        }
+      ]
+    },
+    {
+      "id": "1685197468",
+      "title": "Folge 25: Heiße Spur im Nebelhafen",
+      "episodeNumber": 25,
+      "releaseDate": "2023-01-27",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e2/ff/8c/e2ff8c48-2a0a-ca98-9b66-467ebb1d8a40/196871092111.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Titel, die mit 'Heiße Spur' und 'Nebelhafen' beginnen, was auf ein deutsches Hörspiel/Hörbuch hindeutet.",
+      "totalDuration": 3397.027,
+      "platforms": {
+        "appleMusic": "1685197468"
+      },
+      "chapters": [
+        {
+          "id": "1685197468-t01",
+          "title": "Inhaltsangabe",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 33.213
+        },
+        {
+          "id": "1685197468-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 33.213,
+          "duration": 62.213
+        },
+        {
+          "id": "1685197468-t03",
+          "title": "Teil 01",
+          "index": 2,
+          "startTime": 95.426,
+          "duration": 154.267
+        },
+        {
+          "id": "1685197468-t04",
+          "title": "Teil 02",
+          "index": 3,
+          "startTime": 249.693,
+          "duration": 150.16
+        },
+        {
+          "id": "1685197468-t05",
+          "title": "Teil 03",
+          "index": 4,
+          "startTime": 399.853,
+          "duration": 150.213
+        },
+        {
+          "id": "1685197468-t06",
+          "title": "Teil 04",
+          "index": 5,
+          "startTime": 550.066,
+          "duration": 152.12
+        },
+        {
+          "id": "1685197468-t07",
+          "title": "Teil 05",
+          "index": 6,
+          "startTime": 702.186,
+          "duration": 154.2
+        },
+        {
+          "id": "1685197468-t08",
+          "title": "Teil 06",
+          "index": 7,
+          "startTime": 856.386,
+          "duration": 150.067
+        },
+        {
+          "id": "1685197468-t09",
+          "title": "Teil 07",
+          "index": 8,
+          "startTime": 1006.453,
+          "duration": 150.72
+        },
+        {
+          "id": "1685197468-t10",
+          "title": "Teil 08",
+          "index": 9,
+          "startTime": 1157.173,
+          "duration": 150.507
+        },
+        {
+          "id": "1685197468-t11",
+          "title": "Teil 09",
+          "index": 10,
+          "startTime": 1307.68,
+          "duration": 152.4
+        },
+        {
+          "id": "1685197468-t12",
+          "title": "Teil 10",
+          "index": 11,
+          "startTime": 1460.08,
+          "duration": 152.0
+        },
+        {
+          "id": "1685197468-t13",
+          "title": "Teil 11",
+          "index": 12,
+          "startTime": 1612.08,
+          "duration": 150.24
+        },
+        {
+          "id": "1685197468-t14",
+          "title": "Teil 12",
+          "index": 13,
+          "startTime": 1762.32,
+          "duration": 152.04
+        },
+        {
+          "id": "1685197468-t15",
+          "title": "Teil 13",
+          "index": 14,
+          "startTime": 1914.36,
+          "duration": 152.027
+        },
+        {
+          "id": "1685197468-t16",
+          "title": "Teil 14",
+          "index": 15,
+          "startTime": 2066.387,
+          "duration": 150.0
+        },
+        {
+          "id": "1685197468-t17",
+          "title": "Teil 15",
+          "index": 16,
+          "startTime": 2216.387,
+          "duration": 153.52
+        },
+        {
+          "id": "1685197468-t18",
+          "title": "Teil 16",
+          "index": 17,
+          "startTime": 2369.907,
+          "duration": 151.36
+        },
+        {
+          "id": "1685197468-t19",
+          "title": "Teil 17",
+          "index": 18,
+          "startTime": 2521.267,
+          "duration": 151.12
+        },
+        {
+          "id": "1685197468-t20",
+          "title": "Teil 18",
+          "index": 19,
+          "startTime": 2672.387,
+          "duration": 164.16
+        },
+        {
+          "id": "1685197468-t21",
+          "title": "Teil 19",
+          "index": 20,
+          "startTime": 2836.547,
+          "duration": 150.28
+        },
+        {
+          "id": "1685197468-t22",
+          "title": "Teil 20",
+          "index": 21,
+          "startTime": 2986.827,
+          "duration": 288.253
+        },
+        {
+          "id": "1685197468-t23",
+          "title": "TKKG Junior Schlußsong",
+          "index": 22,
+          "startTime": 3275.08,
+          "duration": 67.507
+        },
+        {
+          "id": "1685197468-t24",
+          "title": "Outro",
+          "index": 23,
+          "startTime": 3342.587,
+          "duration": 54.44
+        }
+      ]
+    },
+    {
       "id": "1685192824",
       "title": "Folge 26: Achtung, Fahrraddiebe!",
       "episodeNumber": 26,
@@ -359,7 +1059,2702 @@
           "duration": 65.987
         }
       ]
+    },
+    {
+      "id": "1694280408",
+      "title": "Folge 28: Tatort Zirkus",
+      "episodeNumber": 28,
+      "releaseDate": "2023-07-21",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/af/12/6caf1286-360b-eb99-c0dc-25063d9123a4/196589971906.jpg/100x100bb.jpg",
+      "description": "Die TKKG-Junioren sind auf dem Weg zum Zirkus, als sie plötzlich in einen Mordfall verwickelt werden. Sie müssen ihre Detektivskills einsetzen, um den Täter zu finden.",
+      "totalDuration": 3327.319,
+      "platforms": {
+        "appleMusic": "1694280408"
+      },
+      "chapters": [
+        {
+          "id": "1694280408-t01",
+          "title": "Inhaltsangabe",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 58.053
+        },
+        {
+          "id": "1694280408-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 58.053,
+          "duration": 62.52
+        },
+        {
+          "id": "1694280408-t03",
+          "title": "Teil 01",
+          "index": 2,
+          "startTime": 120.573,
+          "duration": 160.04
+        },
+        {
+          "id": "1694280408-t04",
+          "title": "Teil 02",
+          "index": 3,
+          "startTime": 280.613,
+          "duration": 156.147
+        },
+        {
+          "id": "1694280408-t05",
+          "title": "Teil 03",
+          "index": 4,
+          "startTime": 436.76,
+          "duration": 151.24
+        },
+        {
+          "id": "1694280408-t06",
+          "title": "Teil 04",
+          "index": 5,
+          "startTime": 588.0,
+          "duration": 152.053
+        },
+        {
+          "id": "1694280408-t07",
+          "title": "Teil 05",
+          "index": 6,
+          "startTime": 740.053,
+          "duration": 150.427
+        },
+        {
+          "id": "1694280408-t08",
+          "title": "Teil 06",
+          "index": 7,
+          "startTime": 890.48,
+          "duration": 156.293
+        },
+        {
+          "id": "1694280408-t09",
+          "title": "Teil 07",
+          "index": 8,
+          "startTime": 1046.773,
+          "duration": 150.813
+        },
+        {
+          "id": "1694280408-t10",
+          "title": "Teil 08",
+          "index": 9,
+          "startTime": 1197.586,
+          "duration": 151.213
+        },
+        {
+          "id": "1694280408-t11",
+          "title": "Teil 09",
+          "index": 10,
+          "startTime": 1348.799,
+          "duration": 151.413
+        },
+        {
+          "id": "1694280408-t12",
+          "title": "Teil 10",
+          "index": 11,
+          "startTime": 1500.212,
+          "duration": 151.267
+        },
+        {
+          "id": "1694280408-t13",
+          "title": "Teil 11",
+          "index": 12,
+          "startTime": 1651.479,
+          "duration": 152.253
+        },
+        {
+          "id": "1694280408-t14",
+          "title": "Teil 12",
+          "index": 13,
+          "startTime": 1803.732,
+          "duration": 150.493
+        },
+        {
+          "id": "1694280408-t15",
+          "title": "Teil 13",
+          "index": 14,
+          "startTime": 1954.225,
+          "duration": 150.413
+        },
+        {
+          "id": "1694280408-t16",
+          "title": "Teil 14",
+          "index": 15,
+          "startTime": 2104.638,
+          "duration": 151.627
+        },
+        {
+          "id": "1694280408-t17",
+          "title": "Teil 15",
+          "index": 16,
+          "startTime": 2256.265,
+          "duration": 150.707
+        },
+        {
+          "id": "1694280408-t18",
+          "title": "Teil 16",
+          "index": 17,
+          "startTime": 2406.972,
+          "duration": 151.84
+        },
+        {
+          "id": "1694280408-t19",
+          "title": "Teil 17",
+          "index": 18,
+          "startTime": 2558.812,
+          "duration": 150.307
+        },
+        {
+          "id": "1694280408-t20",
+          "title": "Teil 18",
+          "index": 19,
+          "startTime": 2709.119,
+          "duration": 159.053
+        },
+        {
+          "id": "1694280408-t21",
+          "title": "Teil 19",
+          "index": 20,
+          "startTime": 2868.172,
+          "duration": 151.707
+        },
+        {
+          "id": "1694280408-t22",
+          "title": "Teil 20",
+          "index": 21,
+          "startTime": 3019.879,
+          "duration": 160.4
+        },
+        {
+          "id": "1694280408-t23",
+          "title": "TKKG Junior Schlußsong",
+          "index": 22,
+          "startTime": 3180.279,
+          "duration": 67.187
+        },
+        {
+          "id": "1694280408-t24",
+          "title": "Outro",
+          "index": 23,
+          "startTime": 3247.466,
+          "duration": 79.853
+        }
+      ]
+    },
+    {
+      "id": "1734461445",
+      "title": "Folge 32: Ein rätselhafter Einbruch",
+      "episodeNumber": 32,
+      "releaseDate": "2024-04-05",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2e/f0/f4/2ef0f458-4480-3fd7-989d-5b055ee933b9/196871656573.jpg/100x100bb.jpg",
+      "description": "Die TKKG-Junioren sind auf der Spur! Als plötzlich ein rätselhafter Einbruch in die Schule passiert, müssen sie ihre Detektivskills einsetzen, um den Täter zu entdecken. Ein spannender Fall für die jungen Detectives!",
+      "totalDuration": 2980.88,
+      "platforms": {
+        "appleMusic": "1734461445"
+      },
+      "chapters": [
+        {
+          "id": "1734461445-t01",
+          "title": "32 - Ein rätselhafter Einbruch (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 54.373
+        },
+        {
+          "id": "1734461445-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 54.373,
+          "duration": 63.187
+        },
+        {
+          "id": "1734461445-t03",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 01)",
+          "index": 2,
+          "startTime": 117.56,
+          "duration": 151.573
+        },
+        {
+          "id": "1734461445-t04",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 02)",
+          "index": 3,
+          "startTime": 269.133,
+          "duration": 152.0
+        },
+        {
+          "id": "1734461445-t05",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 03)",
+          "index": 4,
+          "startTime": 421.133,
+          "duration": 150.707
+        },
+        {
+          "id": "1734461445-t06",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 04)",
+          "index": 5,
+          "startTime": 571.84,
+          "duration": 153.693
+        },
+        {
+          "id": "1734461445-t07",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 05)",
+          "index": 6,
+          "startTime": 725.533,
+          "duration": 151.6
+        },
+        {
+          "id": "1734461445-t08",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 06)",
+          "index": 7,
+          "startTime": 877.133,
+          "duration": 150.067
+        },
+        {
+          "id": "1734461445-t09",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 07)",
+          "index": 8,
+          "startTime": 1027.2,
+          "duration": 151.187
+        },
+        {
+          "id": "1734461445-t10",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 08)",
+          "index": 9,
+          "startTime": 1178.387,
+          "duration": 159.84
+        },
+        {
+          "id": "1734461445-t11",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 09)",
+          "index": 10,
+          "startTime": 1338.227,
+          "duration": 150.453
+        },
+        {
+          "id": "1734461445-t12",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 10)",
+          "index": 11,
+          "startTime": 1488.68,
+          "duration": 153.96
+        },
+        {
+          "id": "1734461445-t13",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 11)",
+          "index": 12,
+          "startTime": 1642.64,
+          "duration": 150.16
+        },
+        {
+          "id": "1734461445-t14",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 12)",
+          "index": 13,
+          "startTime": 1792.8,
+          "duration": 151.907
+        },
+        {
+          "id": "1734461445-t15",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 13)",
+          "index": 14,
+          "startTime": 1944.707,
+          "duration": 150.8
+        },
+        {
+          "id": "1734461445-t16",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 14)",
+          "index": 15,
+          "startTime": 2095.507,
+          "duration": 150.787
+        },
+        {
+          "id": "1734461445-t17",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 15)",
+          "index": 16,
+          "startTime": 2246.294,
+          "duration": 152.24
+        },
+        {
+          "id": "1734461445-t18",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 16)",
+          "index": 17,
+          "startTime": 2398.534,
+          "duration": 151.507
+        },
+        {
+          "id": "1734461445-t19",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 17)",
+          "index": 18,
+          "startTime": 2550.041,
+          "duration": 150.453
+        },
+        {
+          "id": "1734461445-t20",
+          "title": "32 - Ein rätselhafter Einbruch (Teil 18)",
+          "index": 19,
+          "startTime": 2700.494,
+          "duration": 155.133
+        },
+        {
+          "id": "1734461445-t21",
+          "title": "TKKG Junior Schlußsong",
+          "index": 20,
+          "startTime": 2855.627,
+          "duration": 68.253
+        },
+        {
+          "id": "1734461445-t22",
+          "title": "32 - Ein rätselhafter Einbruch (Outro)",
+          "index": 21,
+          "startTime": 2923.88,
+          "duration": 57.0
+        }
+      ]
+    },
+    {
+      "id": "1761131044",
+      "title": "Folge 34: Die Jagd nach dem Phantom",
+      "episodeNumber": 34,
+      "releaseDate": "2024-09-27",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/57/92/db579230-f18e-89e2-9be0-fc68c292f268/196872211986.jpg/100x100bb.jpg",
+      "description": "Die TKKG-Junioren sind auf der Jagd nach dem Phantom. Sie müssen die Spuren des Verbrechers verfolgen und ihn vor den Polizisten stellen. Ein spannender Fall für die jungen Detektive.",
+      "totalDuration": 3352.958,
+      "platforms": {
+        "appleMusic": "1761131044"
+      },
+      "chapters": [
+        {
+          "id": "1761131044-t01",
+          "title": "34 - Die Jagd nach dem Phantom (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 69.453
+        },
+        {
+          "id": "1761131044-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 69.453,
+          "duration": 62.0
+        },
+        {
+          "id": "1761131044-t03",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 01)",
+          "index": 2,
+          "startTime": 131.453,
+          "duration": 91.067
+        },
+        {
+          "id": "1761131044-t04",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 02)",
+          "index": 3,
+          "startTime": 222.52,
+          "duration": 91.227
+        },
+        {
+          "id": "1761131044-t05",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 03)",
+          "index": 4,
+          "startTime": 313.747,
+          "duration": 90.507
+        },
+        {
+          "id": "1761131044-t06",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 04)",
+          "index": 5,
+          "startTime": 404.254,
+          "duration": 90.253
+        },
+        {
+          "id": "1761131044-t07",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 05)",
+          "index": 6,
+          "startTime": 494.507,
+          "duration": 90.387
+        },
+        {
+          "id": "1761131044-t08",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 06)",
+          "index": 7,
+          "startTime": 584.894,
+          "duration": 98.773
+        },
+        {
+          "id": "1761131044-t09",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 07)",
+          "index": 8,
+          "startTime": 683.667,
+          "duration": 90.0
+        },
+        {
+          "id": "1761131044-t10",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 08)",
+          "index": 9,
+          "startTime": 773.667,
+          "duration": 90.0
+        },
+        {
+          "id": "1761131044-t11",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 09)",
+          "index": 10,
+          "startTime": 863.667,
+          "duration": 91.373
+        },
+        {
+          "id": "1761131044-t12",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 10)",
+          "index": 11,
+          "startTime": 955.04,
+          "duration": 91.0
+        },
+        {
+          "id": "1761131044-t13",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 11)",
+          "index": 12,
+          "startTime": 1046.04,
+          "duration": 90.307
+        },
+        {
+          "id": "1761131044-t14",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 12)",
+          "index": 13,
+          "startTime": 1136.347,
+          "duration": 90.92
+        },
+        {
+          "id": "1761131044-t15",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 13)",
+          "index": 14,
+          "startTime": 1227.267,
+          "duration": 91.4
+        },
+        {
+          "id": "1761131044-t16",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 14)",
+          "index": 15,
+          "startTime": 1318.667,
+          "duration": 91.507
+        },
+        {
+          "id": "1761131044-t17",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 15)",
+          "index": 16,
+          "startTime": 1410.174,
+          "duration": 90.36
+        },
+        {
+          "id": "1761131044-t18",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 16)",
+          "index": 17,
+          "startTime": 1500.534,
+          "duration": 90.52
+        },
+        {
+          "id": "1761131044-t19",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 17)",
+          "index": 18,
+          "startTime": 1591.054,
+          "duration": 90.0
+        },
+        {
+          "id": "1761131044-t20",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 18)",
+          "index": 19,
+          "startTime": 1681.054,
+          "duration": 92.893
+        },
+        {
+          "id": "1761131044-t21",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 19)",
+          "index": 20,
+          "startTime": 1773.947,
+          "duration": 90.12
+        },
+        {
+          "id": "1761131044-t22",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 20)",
+          "index": 21,
+          "startTime": 1864.067,
+          "duration": 90.973
+        },
+        {
+          "id": "1761131044-t23",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 21)",
+          "index": 22,
+          "startTime": 1955.04,
+          "duration": 90.16
+        },
+        {
+          "id": "1761131044-t24",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 22)",
+          "index": 23,
+          "startTime": 2045.2,
+          "duration": 90.573
+        },
+        {
+          "id": "1761131044-t25",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 23)",
+          "index": 24,
+          "startTime": 2135.773,
+          "duration": 94.16
+        },
+        {
+          "id": "1761131044-t26",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 24)",
+          "index": 25,
+          "startTime": 2229.933,
+          "duration": 91.613
+        },
+        {
+          "id": "1761131044-t27",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 25)",
+          "index": 26,
+          "startTime": 2321.546,
+          "duration": 93.773
+        },
+        {
+          "id": "1761131044-t28",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 26)",
+          "index": 27,
+          "startTime": 2415.319,
+          "duration": 95.093
+        },
+        {
+          "id": "1761131044-t29",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 27)",
+          "index": 28,
+          "startTime": 2510.412,
+          "duration": 91.533
+        },
+        {
+          "id": "1761131044-t30",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 28)",
+          "index": 29,
+          "startTime": 2601.945,
+          "duration": 91.4
+        },
+        {
+          "id": "1761131044-t31",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 29)",
+          "index": 30,
+          "startTime": 2693.345,
+          "duration": 91.013
+        },
+        {
+          "id": "1761131044-t32",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 30)",
+          "index": 31,
+          "startTime": 2784.358,
+          "duration": 90.187
+        },
+        {
+          "id": "1761131044-t33",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 31)",
+          "index": 32,
+          "startTime": 2874.545,
+          "duration": 90.48
+        },
+        {
+          "id": "1761131044-t34",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 32)",
+          "index": 33,
+          "startTime": 2965.025,
+          "duration": 90.653
+        },
+        {
+          "id": "1761131044-t35",
+          "title": "34 - Die Jagd nach dem Phantom (Teil 33)",
+          "index": 34,
+          "startTime": 3055.678,
+          "duration": 164.8
+        },
+        {
+          "id": "1761131044-t36",
+          "title": "TKKG Junior Schlußsong",
+          "index": 35,
+          "startTime": 3220.478,
+          "duration": 66.347
+        },
+        {
+          "id": "1761131044-t37",
+          "title": "34 - Die Jagd nach dem Phantom (Outro)",
+          "index": 36,
+          "startTime": 3286.825,
+          "duration": 66.133
+        }
+      ]
+    },
+    {
+      "id": "1794557791",
+      "title": "Folge 36: Der rätselhafte Brandstifter",
+      "episodeNumber": 36,
+      "releaseDate": "2025-03-28",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/54/06/845406ed-b392-53af-3d53-ba1679114220/196872247893.jpg/100x100bb.jpg",
+      "description": "Die TKKG Junior sind auf der Suche nach dem rätselhaften Brandstifter. In 32 Episoden ermitteln die vier Freunde, was passiert ist und wer dahinter steckt.",
+      "totalDuration": 2816.692,
+      "platforms": {
+        "appleMusic": "1794557791"
+      },
+      "chapters": [
+        {
+          "id": "1794557791-t01",
+          "title": "36 - Der rätselhafte Brandstifter (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 48.533
+        },
+        {
+          "id": "1794557791-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 48.533,
+          "duration": 62.667
+        },
+        {
+          "id": "1794557791-t03",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 01)",
+          "index": 2,
+          "startTime": 111.2,
+          "duration": 90.693
+        },
+        {
+          "id": "1794557791-t04",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 02)",
+          "index": 3,
+          "startTime": 201.893,
+          "duration": 90.053
+        },
+        {
+          "id": "1794557791-t05",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 03)",
+          "index": 4,
+          "startTime": 291.946,
+          "duration": 95.213
+        },
+        {
+          "id": "1794557791-t06",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 04)",
+          "index": 5,
+          "startTime": 387.159,
+          "duration": 91.253
+        },
+        {
+          "id": "1794557791-t07",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 05)",
+          "index": 6,
+          "startTime": 478.412,
+          "duration": 92.56
+        },
+        {
+          "id": "1794557791-t08",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 06)",
+          "index": 7,
+          "startTime": 570.972,
+          "duration": 91.347
+        },
+        {
+          "id": "1794557791-t09",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 07)",
+          "index": 8,
+          "startTime": 662.319,
+          "duration": 90.92
+        },
+        {
+          "id": "1794557791-t10",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 08)",
+          "index": 9,
+          "startTime": 753.239,
+          "duration": 93.573
+        },
+        {
+          "id": "1794557791-t11",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 09)",
+          "index": 10,
+          "startTime": 846.812,
+          "duration": 90.667
+        },
+        {
+          "id": "1794557791-t12",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 10)",
+          "index": 11,
+          "startTime": 937.479,
+          "duration": 90.187
+        },
+        {
+          "id": "1794557791-t13",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 11)",
+          "index": 12,
+          "startTime": 1027.666,
+          "duration": 97.0
+        },
+        {
+          "id": "1794557791-t14",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 12)",
+          "index": 13,
+          "startTime": 1124.666,
+          "duration": 93.08
+        },
+        {
+          "id": "1794557791-t15",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 13)",
+          "index": 14,
+          "startTime": 1217.746,
+          "duration": 91.04
+        },
+        {
+          "id": "1794557791-t16",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 14)",
+          "index": 15,
+          "startTime": 1308.786,
+          "duration": 92.107
+        },
+        {
+          "id": "1794557791-t17",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 15)",
+          "index": 16,
+          "startTime": 1400.893,
+          "duration": 91.24
+        },
+        {
+          "id": "1794557791-t18",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 16)",
+          "index": 17,
+          "startTime": 1492.133,
+          "duration": 90.267
+        },
+        {
+          "id": "1794557791-t19",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 17)",
+          "index": 18,
+          "startTime": 1582.4,
+          "duration": 92.493
+        },
+        {
+          "id": "1794557791-t20",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 18)",
+          "index": 19,
+          "startTime": 1674.893,
+          "duration": 93.24
+        },
+        {
+          "id": "1794557791-t21",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 19)",
+          "index": 20,
+          "startTime": 1768.133,
+          "duration": 90.133
+        },
+        {
+          "id": "1794557791-t22",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 20)",
+          "index": 21,
+          "startTime": 1858.266,
+          "duration": 95.613
+        },
+        {
+          "id": "1794557791-t23",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 21)",
+          "index": 22,
+          "startTime": 1953.879,
+          "duration": 92.88
+        },
+        {
+          "id": "1794557791-t24",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 22)",
+          "index": 23,
+          "startTime": 2046.759,
+          "duration": 92.48
+        },
+        {
+          "id": "1794557791-t25",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 23)",
+          "index": 24,
+          "startTime": 2139.239,
+          "duration": 91.253
+        },
+        {
+          "id": "1794557791-t26",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 24)",
+          "index": 25,
+          "startTime": 2230.492,
+          "duration": 91.813
+        },
+        {
+          "id": "1794557791-t27",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 25)",
+          "index": 26,
+          "startTime": 2322.305,
+          "duration": 90.427
+        },
+        {
+          "id": "1794557791-t28",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 26)",
+          "index": 27,
+          "startTime": 2412.732,
+          "duration": 90.48
+        },
+        {
+          "id": "1794557791-t29",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 27)",
+          "index": 28,
+          "startTime": 2503.212,
+          "duration": 90.2
+        },
+        {
+          "id": "1794557791-t30",
+          "title": "36 - Der rätselhafte Brandstifter (Teil 28)",
+          "index": 29,
+          "startTime": 2593.412,
+          "duration": 90.6
+        },
+        {
+          "id": "1794557791-t31",
+          "title": "TKKG Junior Schlußsong",
+          "index": 30,
+          "startTime": 2684.012,
+          "duration": 66.36
+        },
+        {
+          "id": "1794557791-t32",
+          "title": "36 - Der rätselhafte Brandstifter (Outro)",
+          "index": 31,
+          "startTime": 2750.372,
+          "duration": 66.32
+        }
+      ]
+    },
+    {
+      "id": "1811368929",
+      "title": "Folge 37: Das Geheimnis der Pirateninsel",
+      "episodeNumber": 37,
+      "releaseDate": "2025-05-30",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/57/75/8e577593-845b-028c-cba6-e0926c23f609/196872634211.jpg/100x100bb.jpg",
+      "description": "Das Album enthält ein Hörspiel mit dem Titel 'Folge 37: Das Geheimnis der Pirateninsel' von TKKG Junior.",
+      "totalDuration": 2939.107,
+      "platforms": {
+        "appleMusic": "1811368929"
+      },
+      "chapters": [
+        {
+          "id": "1811368929-t01",
+          "title": "Inhaltsangabe: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 41.04
+        },
+        {
+          "id": "1811368929-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 41.04,
+          "duration": 64.307
+        },
+        {
+          "id": "1811368929-t03",
+          "title": "Kapitel 01: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 2,
+          "startTime": 105.347,
+          "duration": 90.36
+        },
+        {
+          "id": "1811368929-t04",
+          "title": "Kapitel 02: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 3,
+          "startTime": 195.707,
+          "duration": 98.227
+        },
+        {
+          "id": "1811368929-t05",
+          "title": "Kapitel 03: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 4,
+          "startTime": 293.934,
+          "duration": 90.12
+        },
+        {
+          "id": "1811368929-t06",
+          "title": "Kapitel 04: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 5,
+          "startTime": 384.054,
+          "duration": 91.36
+        },
+        {
+          "id": "1811368929-t07",
+          "title": "Kapitel 05: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 6,
+          "startTime": 475.414,
+          "duration": 90.507
+        },
+        {
+          "id": "1811368929-t08",
+          "title": "Kapitel 06: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 7,
+          "startTime": 565.921,
+          "duration": 92.28
+        },
+        {
+          "id": "1811368929-t09",
+          "title": "Kapitel 07: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 8,
+          "startTime": 658.201,
+          "duration": 98.413
+        },
+        {
+          "id": "1811368929-t10",
+          "title": "Kapitel 08: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 9,
+          "startTime": 756.614,
+          "duration": 90.267
+        },
+        {
+          "id": "1811368929-t11",
+          "title": "Kapitel 09: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 10,
+          "startTime": 846.881,
+          "duration": 91.813
+        },
+        {
+          "id": "1811368929-t12",
+          "title": "Kapitel 10: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 11,
+          "startTime": 938.694,
+          "duration": 90.0
+        },
+        {
+          "id": "1811368929-t13",
+          "title": "Kapitel 11: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 12,
+          "startTime": 1028.694,
+          "duration": 92.387
+        },
+        {
+          "id": "1811368929-t14",
+          "title": "Kapitel 12: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 13,
+          "startTime": 1121.081,
+          "duration": 90.72
+        },
+        {
+          "id": "1811368929-t15",
+          "title": "Kapitel 13: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 14,
+          "startTime": 1211.801,
+          "duration": 91.44
+        },
+        {
+          "id": "1811368929-t16",
+          "title": "Kapitel 14: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 15,
+          "startTime": 1303.241,
+          "duration": 90.947
+        },
+        {
+          "id": "1811368929-t17",
+          "title": "Kapitel 15: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 16,
+          "startTime": 1394.188,
+          "duration": 97.027
+        },
+        {
+          "id": "1811368929-t18",
+          "title": "Kapitel 16: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 17,
+          "startTime": 1491.215,
+          "duration": 91.96
+        },
+        {
+          "id": "1811368929-t19",
+          "title": "Kapitel 17: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 18,
+          "startTime": 1583.175,
+          "duration": 90.6
+        },
+        {
+          "id": "1811368929-t20",
+          "title": "Kapitel 18: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 19,
+          "startTime": 1673.775,
+          "duration": 90.667
+        },
+        {
+          "id": "1811368929-t21",
+          "title": "Kapitel 19: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 20,
+          "startTime": 1764.442,
+          "duration": 91.453
+        },
+        {
+          "id": "1811368929-t22",
+          "title": "Kapitel 20: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 21,
+          "startTime": 1855.895,
+          "duration": 95.733
+        },
+        {
+          "id": "1811368929-t23",
+          "title": "Kapitel 21: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 22,
+          "startTime": 1951.628,
+          "duration": 91.613
+        },
+        {
+          "id": "1811368929-t24",
+          "title": "Kapitel 22: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 23,
+          "startTime": 2043.241,
+          "duration": 93.547
+        },
+        {
+          "id": "1811368929-t25",
+          "title": "Kapitel 23: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 24,
+          "startTime": 2136.788,
+          "duration": 91.307
+        },
+        {
+          "id": "1811368929-t26",
+          "title": "Kapitel 24: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 25,
+          "startTime": 2228.095,
+          "duration": 90.2
+        },
+        {
+          "id": "1811368929-t27",
+          "title": "Kapitel 25: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 26,
+          "startTime": 2318.295,
+          "duration": 90.0
+        },
+        {
+          "id": "1811368929-t28",
+          "title": "Kapitel 26: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 27,
+          "startTime": 2408.295,
+          "duration": 91.08
+        },
+        {
+          "id": "1811368929-t29",
+          "title": "Kapitel 27: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 28,
+          "startTime": 2499.375,
+          "duration": 90.533
+        },
+        {
+          "id": "1811368929-t30",
+          "title": "Kapitel 28: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 29,
+          "startTime": 2589.908,
+          "duration": 91.013
+        },
+        {
+          "id": "1811368929-t31",
+          "title": "Kapitel 29: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 30,
+          "startTime": 2680.921,
+          "duration": 130.04
+        },
+        {
+          "id": "1811368929-t32",
+          "title": "TKKG Junior Schlußsong",
+          "index": 31,
+          "startTime": 2810.961,
+          "duration": 66.533
+        },
+        {
+          "id": "1811368929-t33",
+          "title": "Outro: Das Geheimnis der Pirateninsel (Folge 37)",
+          "index": 32,
+          "startTime": 2877.494,
+          "duration": 61.613
+        }
+      ]
+    },
+    {
+      "id": "1841357954",
+      "title": "Folge 39: Spuk im Stadttheater",
+      "episodeNumber": 39,
+      "releaseDate": "2025-10-31",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/c0/ac/c0c0acb4-6510-dc72-9e7b-061999f53130/196872893441.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Episode 39: Spuk im Stadttheater, ein Hörspiel von TKKG Junior.",
+      "totalDuration": 2610.307,
+      "platforms": {
+        "appleMusic": "1841357954"
+      },
+      "chapters": [
+        {
+          "id": "1841357954-t01",
+          "title": "Inhaltsangabe: Spuk im Stadttheater (Folge 39)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 62.987
+        },
+        {
+          "id": "1841357954-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 62.987,
+          "duration": 63.453
+        },
+        {
+          "id": "1841357954-t03",
+          "title": "Kapitel 01: Spuk im Stadttheater (Folge 39)",
+          "index": 2,
+          "startTime": 126.44,
+          "duration": 93.427
+        },
+        {
+          "id": "1841357954-t04",
+          "title": "Kapitel 02: Spuk im Stadttheater (Folge 39)",
+          "index": 3,
+          "startTime": 219.867,
+          "duration": 90.0
+        },
+        {
+          "id": "1841357954-t05",
+          "title": "Kapitel 03: Spuk im Stadttheater (Folge 39)",
+          "index": 4,
+          "startTime": 309.867,
+          "duration": 90.347
+        },
+        {
+          "id": "1841357954-t06",
+          "title": "Kapitel 04: Spuk im Stadttheater (Folge 39)",
+          "index": 5,
+          "startTime": 400.214,
+          "duration": 91.56
+        },
+        {
+          "id": "1841357954-t07",
+          "title": "Kapitel 05: Spuk im Stadttheater (Folge 39)",
+          "index": 6,
+          "startTime": 491.774,
+          "duration": 92.693
+        },
+        {
+          "id": "1841357954-t08",
+          "title": "Kapitel 06: Spuk im Stadttheater (Folge 39)",
+          "index": 7,
+          "startTime": 584.467,
+          "duration": 90.827
+        },
+        {
+          "id": "1841357954-t09",
+          "title": "Kapitel 07: Spuk im Stadttheater (Folge 39)",
+          "index": 8,
+          "startTime": 675.294,
+          "duration": 92.213
+        },
+        {
+          "id": "1841357954-t10",
+          "title": "Kapitel 08: Spuk im Stadttheater (Folge 39)",
+          "index": 9,
+          "startTime": 767.507,
+          "duration": 90.013
+        },
+        {
+          "id": "1841357954-t11",
+          "title": "Kapitel 09: Spuk im Stadttheater (Folge 39)",
+          "index": 10,
+          "startTime": 857.52,
+          "duration": 90.0
+        },
+        {
+          "id": "1841357954-t12",
+          "title": "Kapitel 10: Spuk im Stadttheater (Folge 39)",
+          "index": 11,
+          "startTime": 947.52,
+          "duration": 91.52
+        },
+        {
+          "id": "1841357954-t13",
+          "title": "Kapitel 11: Spuk im Stadttheater (Folge 39)",
+          "index": 12,
+          "startTime": 1039.04,
+          "duration": 94.2
+        },
+        {
+          "id": "1841357954-t14",
+          "title": "Kapitel 12: Spuk im Stadttheater (Folge 39)",
+          "index": 13,
+          "startTime": 1133.24,
+          "duration": 91.973
+        },
+        {
+          "id": "1841357954-t15",
+          "title": "Kapitel 13: Spuk im Stadttheater (Folge 39)",
+          "index": 14,
+          "startTime": 1225.213,
+          "duration": 96.587
+        },
+        {
+          "id": "1841357954-t16",
+          "title": "Kapitel 14: Spuk im Stadttheater (Folge 39)",
+          "index": 15,
+          "startTime": 1321.8,
+          "duration": 92.387
+        },
+        {
+          "id": "1841357954-t17",
+          "title": "Kapitel 15: Spuk im Stadttheater (Folge 39)",
+          "index": 16,
+          "startTime": 1414.187,
+          "duration": 92.707
+        },
+        {
+          "id": "1841357954-t18",
+          "title": "Kapitel 16: Spuk im Stadttheater (Folge 39)",
+          "index": 17,
+          "startTime": 1506.894,
+          "duration": 91.067
+        },
+        {
+          "id": "1841357954-t19",
+          "title": "Kapitel 17: Spuk im Stadttheater (Folge 39)",
+          "index": 18,
+          "startTime": 1597.961,
+          "duration": 93.12
+        },
+        {
+          "id": "1841357954-t20",
+          "title": "Kapitel 18: Spuk im Stadttheater (Folge 39)",
+          "index": 19,
+          "startTime": 1691.081,
+          "duration": 91.4
+        },
+        {
+          "id": "1841357954-t21",
+          "title": "Kapitel 19: Spuk im Stadttheater (Folge 39)",
+          "index": 20,
+          "startTime": 1782.481,
+          "duration": 92.053
+        },
+        {
+          "id": "1841357954-t22",
+          "title": "Kapitel 20: Spuk im Stadttheater (Folge 39)",
+          "index": 21,
+          "startTime": 1874.534,
+          "duration": 92.907
+        },
+        {
+          "id": "1841357954-t23",
+          "title": "Kapitel 21: Spuk im Stadttheater (Folge 39)",
+          "index": 22,
+          "startTime": 1967.441,
+          "duration": 92.293
+        },
+        {
+          "id": "1841357954-t24",
+          "title": "Kapitel 22: Spuk im Stadttheater (Folge 39)",
+          "index": 23,
+          "startTime": 2059.734,
+          "duration": 90.4
+        },
+        {
+          "id": "1841357954-t25",
+          "title": "Kapitel 23: Spuk im Stadttheater (Folge 39)",
+          "index": 24,
+          "startTime": 2150.134,
+          "duration": 90.613
+        },
+        {
+          "id": "1841357954-t26",
+          "title": "Kapitel 24: Spuk im Stadttheater (Folge 39)",
+          "index": 25,
+          "startTime": 2240.747,
+          "duration": 94.867
+        },
+        {
+          "id": "1841357954-t27",
+          "title": "Kapitel 25: Spuk im Stadttheater (Folge 39)",
+          "index": 26,
+          "startTime": 2335.614,
+          "duration": 146.653
+        },
+        {
+          "id": "1841357954-t28",
+          "title": "TKKG Junior Schlußsong",
+          "index": 27,
+          "startTime": 2482.267,
+          "duration": 68.48
+        },
+        {
+          "id": "1841357954-t29",
+          "title": "Outro: Spuk im Stadttheater (Folge 39)",
+          "index": 28,
+          "startTime": 2550.747,
+          "duration": 59.56
+        }
+      ]
+    },
+    {
+      "id": "1851416939",
+      "title": "Folge 40: Alarm im Aquarium",
+      "episodeNumber": 40,
+      "releaseDate": "2025-12-05",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/95/1a/58951a5a-0682-c930-0fd4-46a56dfda05d/196873091563.jpg/100x100bb.jpg",
+      "description": "Die TKKG-Junioren sind auf einem Ausflug in einem Aquarium, als plötzlich ein Notfall ausbricht. Sie müssen helfen, die Situation zu klären und den Schaden zu begrenzen.",
+      "totalDuration": 2740.692,
+      "platforms": {
+        "appleMusic": "1851416939"
+      },
+      "chapters": [
+        {
+          "id": "1851416939-t01",
+          "title": "Inhaltsangabe: Alarm im Aquarium (Folge 40)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 63.36
+        },
+        {
+          "id": "1851416939-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 63.36,
+          "duration": 62.373
+        },
+        {
+          "id": "1851416939-t03",
+          "title": "Kapitel 01: Alarm im Aquarium (Folge 40)",
+          "index": 2,
+          "startTime": 125.733,
+          "duration": 90.373
+        },
+        {
+          "id": "1851416939-t04",
+          "title": "Kapitel 02: Alarm im Aquarium (Folge 40)",
+          "index": 3,
+          "startTime": 216.106,
+          "duration": 91.307
+        },
+        {
+          "id": "1851416939-t05",
+          "title": "Kapitel 03: Alarm im Aquarium (Folge 40)",
+          "index": 4,
+          "startTime": 307.413,
+          "duration": 90.36
+        },
+        {
+          "id": "1851416939-t06",
+          "title": "Kapitel 04: Alarm im Aquarium (Folge 40)",
+          "index": 5,
+          "startTime": 397.773,
+          "duration": 94.373
+        },
+        {
+          "id": "1851416939-t07",
+          "title": "Kapitel 05: Alarm im Aquarium (Folge 40)",
+          "index": 6,
+          "startTime": 492.146,
+          "duration": 92.173
+        },
+        {
+          "id": "1851416939-t08",
+          "title": "Kapitel 06: Alarm im Aquarium (Folge 40)",
+          "index": 7,
+          "startTime": 584.319,
+          "duration": 91.4
+        },
+        {
+          "id": "1851416939-t09",
+          "title": "Kapitel 07: Alarm im Aquarium (Folge 40)",
+          "index": 8,
+          "startTime": 675.719,
+          "duration": 96.56
+        },
+        {
+          "id": "1851416939-t10",
+          "title": "Kapitel 08: Alarm im Aquarium (Folge 40)",
+          "index": 9,
+          "startTime": 772.279,
+          "duration": 90.867
+        },
+        {
+          "id": "1851416939-t11",
+          "title": "Kapitel 09: Alarm im Aquarium (Folge 40)",
+          "index": 10,
+          "startTime": 863.146,
+          "duration": 92.8
+        },
+        {
+          "id": "1851416939-t12",
+          "title": "Kapitel 10: Alarm im Aquarium (Folge 40)",
+          "index": 11,
+          "startTime": 955.946,
+          "duration": 92.813
+        },
+        {
+          "id": "1851416939-t13",
+          "title": "Kapitel 11: Alarm im Aquarium (Folge 40)",
+          "index": 12,
+          "startTime": 1048.759,
+          "duration": 94.667
+        },
+        {
+          "id": "1851416939-t14",
+          "title": "Kapitel 12: Alarm im Aquarium (Folge 40)",
+          "index": 13,
+          "startTime": 1143.426,
+          "duration": 91.693
+        },
+        {
+          "id": "1851416939-t15",
+          "title": "Kapitel 13: Alarm im Aquarium (Folge 40)",
+          "index": 14,
+          "startTime": 1235.119,
+          "duration": 90.253
+        },
+        {
+          "id": "1851416939-t16",
+          "title": "Kapitel 14: Alarm im Aquarium (Folge 40)",
+          "index": 15,
+          "startTime": 1325.372,
+          "duration": 95.64
+        },
+        {
+          "id": "1851416939-t17",
+          "title": "Kapitel 15: Alarm im Aquarium (Folge 40)",
+          "index": 16,
+          "startTime": 1421.012,
+          "duration": 97.587
+        },
+        {
+          "id": "1851416939-t18",
+          "title": "Kapitel 16: Alarm im Aquarium (Folge 40)",
+          "index": 17,
+          "startTime": 1518.599,
+          "duration": 91.653
+        },
+        {
+          "id": "1851416939-t19",
+          "title": "Kapitel 17: Alarm im Aquarium (Folge 40)",
+          "index": 18,
+          "startTime": 1610.252,
+          "duration": 90.267
+        },
+        {
+          "id": "1851416939-t20",
+          "title": "Kapitel 18: Alarm im Aquarium (Folge 40)",
+          "index": 19,
+          "startTime": 1700.519,
+          "duration": 90.68
+        },
+        {
+          "id": "1851416939-t21",
+          "title": "Kapitel 19: Alarm im Aquarium (Folge 40)",
+          "index": 20,
+          "startTime": 1791.199,
+          "duration": 91.333
+        },
+        {
+          "id": "1851416939-t22",
+          "title": "Kapitel 20: Alarm im Aquarium (Folge 40)",
+          "index": 21,
+          "startTime": 1882.532,
+          "duration": 94.787
+        },
+        {
+          "id": "1851416939-t23",
+          "title": "Kapitel 21: Alarm im Aquarium (Folge 40)",
+          "index": 22,
+          "startTime": 1977.319,
+          "duration": 90.8
+        },
+        {
+          "id": "1851416939-t24",
+          "title": "Kapitel 22: Alarm im Aquarium (Folge 40)",
+          "index": 23,
+          "startTime": 2068.119,
+          "duration": 97.627
+        },
+        {
+          "id": "1851416939-t25",
+          "title": "Kapitel 23: Alarm im Aquarium (Folge 40)",
+          "index": 24,
+          "startTime": 2165.746,
+          "duration": 91.12
+        },
+        {
+          "id": "1851416939-t26",
+          "title": "Kapitel 24: Alarm im Aquarium (Folge 40)",
+          "index": 25,
+          "startTime": 2256.866,
+          "duration": 90.52
+        },
+        {
+          "id": "1851416939-t27",
+          "title": "Kapitel 25: Alarm im Aquarium (Folge 40)",
+          "index": 26,
+          "startTime": 2347.386,
+          "duration": 90.373
+        },
+        {
+          "id": "1851416939-t28",
+          "title": "Kapitel 26: Alarm im Aquarium (Folge 40)",
+          "index": 27,
+          "startTime": 2437.759,
+          "duration": 92.04
+        },
+        {
+          "id": "1851416939-t29",
+          "title": "Kapitel 27: Alarm im Aquarium (Folge 40)",
+          "index": 28,
+          "startTime": 2529.799,
+          "duration": 90.84
+        },
+        {
+          "id": "1851416939-t30",
+          "title": "TKKG Junior Schlußsong",
+          "index": 29,
+          "startTime": 2620.639,
+          "duration": 66.68
+        },
+        {
+          "id": "1851416939-t31",
+          "title": "Outro:  Alarm im Aquarium (Folge 40)",
+          "index": 30,
+          "startTime": 2687.319,
+          "duration": 53.373
+        }
+      ]
+    },
+    {
+      "id": "1868622669",
+      "title": "Folge 41: Aliens im Anflug",
+      "episodeNumber": 41,
+      "releaseDate": "2026-02-13",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/19/b9/0f19b976-2431-a565-bf76-55cbb6501f6c/196873647999.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel über Aliens im Anflug von TKKG Junior.",
+      "totalDuration": 2360.503,
+      "platforms": {
+        "appleMusic": "1868622669"
+      },
+      "chapters": [
+        {
+          "id": "1868622669-t01",
+          "title": "Inhaltsangabe: Aliens im Anflug (Folge 41)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 48.413
+        },
+        {
+          "id": "1868622669-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 48.413,
+          "duration": 63.16
+        },
+        {
+          "id": "1868622669-t03",
+          "title": "Kapitel 01: Aliens im Anflug (Folge 41)",
+          "index": 2,
+          "startTime": 111.573,
+          "duration": 97.36
+        },
+        {
+          "id": "1868622669-t04",
+          "title": "Kapitel 02: Aliens im Anflug (Folge 41)",
+          "index": 3,
+          "startTime": 208.933,
+          "duration": 90.0
+        },
+        {
+          "id": "1868622669-t05",
+          "title": "Kapitel 03: Aliens im Anflug (Folge 41)",
+          "index": 4,
+          "startTime": 298.933,
+          "duration": 94.733
+        },
+        {
+          "id": "1868622669-t06",
+          "title": "Kapitel 04: Aliens im Anflug (Folge 41)",
+          "index": 5,
+          "startTime": 393.666,
+          "duration": 93.093
+        },
+        {
+          "id": "1868622669-t07",
+          "title": "Kapitel 05: Aliens im Anflug (Folge 41)",
+          "index": 6,
+          "startTime": 486.759,
+          "duration": 90.827
+        },
+        {
+          "id": "1868622669-t08",
+          "title": "Kapitel 06: Aliens im Anflug (Folge 41)",
+          "index": 7,
+          "startTime": 577.586,
+          "duration": 100.573
+        },
+        {
+          "id": "1868622669-t09",
+          "title": "Kapitel 07: Aliens im Anflug (Folge 41)",
+          "index": 8,
+          "startTime": 678.159,
+          "duration": 95.48
+        },
+        {
+          "id": "1868622669-t10",
+          "title": "Kapitel 08: Aliens im Anflug (Folge 41)",
+          "index": 9,
+          "startTime": 773.639,
+          "duration": 90.413
+        },
+        {
+          "id": "1868622669-t11",
+          "title": "Kapitel 09: Aliens im Anflug (Folge 41)",
+          "index": 10,
+          "startTime": 864.052,
+          "duration": 91.173
+        },
+        {
+          "id": "1868622669-t12",
+          "title": "Kapitel 10: Aliens im Anflug (Folge 41)",
+          "index": 11,
+          "startTime": 955.225,
+          "duration": 94.64
+        },
+        {
+          "id": "1868622669-t13",
+          "title": "Kapitel 11: Aliens im Anflug (Folge 41)",
+          "index": 12,
+          "startTime": 1049.865,
+          "duration": 94.64
+        },
+        {
+          "id": "1868622669-t14",
+          "title": "Kapitel 12: Aliens im Anflug (Folge 41)",
+          "index": 13,
+          "startTime": 1144.505,
+          "duration": 91.813
+        },
+        {
+          "id": "1868622669-t15",
+          "title": "Kapitel 13: Aliens im Anflug (Folge 41)",
+          "index": 14,
+          "startTime": 1236.318,
+          "duration": 97.133
+        },
+        {
+          "id": "1868622669-t16",
+          "title": "Kapitel 14: Aliens im Anflug (Folge 41)",
+          "index": 15,
+          "startTime": 1333.451,
+          "duration": 92.293
+        },
+        {
+          "id": "1868622669-t17",
+          "title": "Kapitel 15: Aliens im Anflug (Folge 41)",
+          "index": 16,
+          "startTime": 1425.744,
+          "duration": 91.8
+        },
+        {
+          "id": "1868622669-t18",
+          "title": "Kapitel 16: Aliens im Anflug (Folge 41)",
+          "index": 17,
+          "startTime": 1517.544,
+          "duration": 94.787
+        },
+        {
+          "id": "1868622669-t19",
+          "title": "Kapitel 17: Aliens im Anflug (Folge 41)",
+          "index": 18,
+          "startTime": 1612.331,
+          "duration": 91.613
+        },
+        {
+          "id": "1868622669-t20",
+          "title": "Kapitel 18: Aliens im Anflug (Folge 41)",
+          "index": 19,
+          "startTime": 1703.944,
+          "duration": 92.813
+        },
+        {
+          "id": "1868622669-t21",
+          "title": "Kapitel 19: Aliens im Anflug (Folge 41)",
+          "index": 20,
+          "startTime": 1796.757,
+          "duration": 90.467
+        },
+        {
+          "id": "1868622669-t22",
+          "title": "Kapitel 20: Aliens im Anflug (Folge 41)",
+          "index": 21,
+          "startTime": 1887.224,
+          "duration": 92.493
+        },
+        {
+          "id": "1868622669-t23",
+          "title": "Kapitel 21: Aliens im Anflug (Folge 41)",
+          "index": 22,
+          "startTime": 1979.717,
+          "duration": 94.493
+        },
+        {
+          "id": "1868622669-t24",
+          "title": "Kapitel 22: Aliens im Anflug (Folge 41)",
+          "index": 23,
+          "startTime": 2074.21,
+          "duration": 161.56
+        },
+        {
+          "id": "1868622669-t25",
+          "title": "TKKG Junior Schlußsong",
+          "index": 24,
+          "startTime": 2235.77,
+          "duration": 68.293
+        },
+        {
+          "id": "1868622669-t26",
+          "title": "Outro: Aliens im Anflug (Folge 41)",
+          "index": 25,
+          "startTime": 2304.063,
+          "duration": 56.44
+        }
+      ]
+    },
+    {
+      "id": "1885967666",
+      "title": "Folge 42: Der Raub-Zug",
+      "episodeNumber": 42,
+      "releaseDate": "2026-04-17",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/bf/ca/39bfca6a-5517-f309-9735-9d449bf4c244/196873648026.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Episoden des Hörspiels 'TKKG Junior', das in Deutschland populär ist.",
+      "totalDuration": 2726.667,
+      "platforms": {
+        "appleMusic": "1885967666"
+      },
+      "chapters": [
+        {
+          "id": "1885967666-t01",
+          "title": "Inhaltsangabe: Der Raub-Zug (Folge 42)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 59.013
+        },
+        {
+          "id": "1885967666-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 59.013,
+          "duration": 62.587
+        },
+        {
+          "id": "1885967666-t03",
+          "title": "Kapitel 01: Der Raub-Zug (Folge 42)",
+          "index": 2,
+          "startTime": 121.6,
+          "duration": 91.507
+        },
+        {
+          "id": "1885967666-t04",
+          "title": "Kapitel 02: Der Raub-Zug (Folge 42)",
+          "index": 3,
+          "startTime": 213.107,
+          "duration": 90.067
+        },
+        {
+          "id": "1885967666-t05",
+          "title": "Kapitel 03: Der Raub-Zug (Folge 42)",
+          "index": 4,
+          "startTime": 303.174,
+          "duration": 90.733
+        },
+        {
+          "id": "1885967666-t06",
+          "title": "Kapitel 04: Der Raub-Zug (Folge 42)",
+          "index": 5,
+          "startTime": 393.907,
+          "duration": 90.08
+        },
+        {
+          "id": "1885967666-t07",
+          "title": "Kapitel 05: Der Raub-Zug (Folge 42)",
+          "index": 6,
+          "startTime": 483.987,
+          "duration": 90.053
+        },
+        {
+          "id": "1885967666-t08",
+          "title": "Kapitel 06: Der Raub-Zug (Folge 42)",
+          "index": 7,
+          "startTime": 574.04,
+          "duration": 97.653
+        },
+        {
+          "id": "1885967666-t09",
+          "title": "Kapitel 07: Der Raub-Zug (Folge 42)",
+          "index": 8,
+          "startTime": 671.693,
+          "duration": 92.013
+        },
+        {
+          "id": "1885967666-t10",
+          "title": "Kapitel 08: Der Raub-Zug (Folge 42)",
+          "index": 9,
+          "startTime": 763.706,
+          "duration": 90.933
+        },
+        {
+          "id": "1885967666-t11",
+          "title": "Kapitel 09: Der Raub-Zug (Folge 42)",
+          "index": 10,
+          "startTime": 854.639,
+          "duration": 90.827
+        },
+        {
+          "id": "1885967666-t12",
+          "title": "Kapitel 10: Der Raub-Zug (Folge 42)",
+          "index": 11,
+          "startTime": 945.466,
+          "duration": 91.467
+        },
+        {
+          "id": "1885967666-t13",
+          "title": "Kapitel 11: Der Raub-Zug (Folge 42)",
+          "index": 12,
+          "startTime": 1036.933,
+          "duration": 97.227
+        },
+        {
+          "id": "1885967666-t14",
+          "title": "Kapitel 12: Der Raub-Zug (Folge 42)",
+          "index": 13,
+          "startTime": 1134.16,
+          "duration": 95.56
+        },
+        {
+          "id": "1885967666-t15",
+          "title": "Kapitel 13: Der Raub-Zug (Folge 42)",
+          "index": 14,
+          "startTime": 1229.72,
+          "duration": 92.947
+        },
+        {
+          "id": "1885967666-t16",
+          "title": "Kapitel 14: Der Raub-Zug (Folge 42)",
+          "index": 15,
+          "startTime": 1322.667,
+          "duration": 92.747
+        },
+        {
+          "id": "1885967666-t17",
+          "title": "Kapitel 15: Der Raub-Zug (Folge 42)",
+          "index": 16,
+          "startTime": 1415.414,
+          "duration": 90.133
+        },
+        {
+          "id": "1885967666-t18",
+          "title": "Kapitel 16: Der Raub-Zug (Folge 42)",
+          "index": 17,
+          "startTime": 1505.547,
+          "duration": 90.48
+        },
+        {
+          "id": "1885967666-t19",
+          "title": "Kapitel 17: Der Raub-Zug (Folge 42)",
+          "index": 18,
+          "startTime": 1596.027,
+          "duration": 93.88
+        },
+        {
+          "id": "1885967666-t20",
+          "title": "Kapitel 18: Der Raub-Zug (Folge 42)",
+          "index": 19,
+          "startTime": 1689.907,
+          "duration": 90.147
+        },
+        {
+          "id": "1885967666-t21",
+          "title": "Kapitel 19: Der Raub-Zug (Folge 42)",
+          "index": 20,
+          "startTime": 1780.054,
+          "duration": 92.72
+        },
+        {
+          "id": "1885967666-t22",
+          "title": "Kapitel 20: Der Raub-Zug (Folge 42)",
+          "index": 21,
+          "startTime": 1872.774,
+          "duration": 90.0
+        },
+        {
+          "id": "1885967666-t23",
+          "title": "Kapitel 21: Der Raub-Zug (Folge 42)",
+          "index": 22,
+          "startTime": 1962.774,
+          "duration": 90.013
+        },
+        {
+          "id": "1885967666-t24",
+          "title": "Kapitel 22: Der Raub-Zug (Folge 42)",
+          "index": 23,
+          "startTime": 2052.787,
+          "duration": 90.0
+        },
+        {
+          "id": "1885967666-t25",
+          "title": "Kapitel 23: Der Raub-Zug (Folge 42)",
+          "index": 24,
+          "startTime": 2142.787,
+          "duration": 92.747
+        },
+        {
+          "id": "1885967666-t26",
+          "title": "Kapitel 24: Der Raub-Zug (Folge 42)",
+          "index": 25,
+          "startTime": 2235.534,
+          "duration": 90.2
+        },
+        {
+          "id": "1885967666-t27",
+          "title": "Kapitel 25: Der Raub-Zug (Folge 42)",
+          "index": 26,
+          "startTime": 2325.734,
+          "duration": 91.453
+        },
+        {
+          "id": "1885967666-t28",
+          "title": "Kapitel 26: Der Raub-Zug (Folge 42)",
+          "index": 27,
+          "startTime": 2417.187,
+          "duration": 91.0
+        },
+        {
+          "id": "1885967666-t29",
+          "title": "Kapitel 27: Der Raub-Zug (Folge 42)",
+          "index": 28,
+          "startTime": 2508.187,
+          "duration": 90.96
+        },
+        {
+          "id": "1885967666-t30",
+          "title": "TKKG Junior Schlußsong",
+          "index": 29,
+          "startTime": 2599.147,
+          "duration": 67.76
+        },
+        {
+          "id": "1885967666-t31",
+          "title": "Outro: Der Raub-Zug (Folge 42)",
+          "index": 30,
+          "startTime": 2666.907,
+          "duration": 59.76
+        }
+      ]
+    },
+    {
+      "id": "1685193736",
+      "title": "Adventskalender - Der widerliche Weihnachtswichtel",
+      "episodeNumber": null,
+      "releaseDate": "2022-11-25",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/69/20/b0692069-107a-5f31-797e-01e8b52ebeaa/886449957750.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'Adventskalender - Der widerliche Weihnachtswichtel' von TKKG Junior, das 34 Tracks umfasst und im Genre Hörspiel klassifiziert ist.",
+      "totalDuration": 6030.747,
+      "platforms": {
+        "appleMusic": "1685193736"
+      },
+      "chapters": [
+        {
+          "id": "1685193736-t01",
+          "title": "Der widerliche Weihnachtswichtel (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 60.791
+        },
+        {
+          "id": "1685193736-t02",
+          "title": "TKKG Junior Titelsong",
+          "index": 1,
+          "startTime": 60.791,
+          "duration": 62.514
+        },
+        {
+          "id": "1685193736-t03",
+          "title": "1. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 2,
+          "startTime": 123.305,
+          "duration": 186.843
+        },
+        {
+          "id": "1685193736-t04",
+          "title": "2. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 3,
+          "startTime": 310.148,
+          "duration": 250.88
+        },
+        {
+          "id": "1685193736-t05",
+          "title": "3. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 4,
+          "startTime": 561.028,
+          "duration": 126.973
+        },
+        {
+          "id": "1685193736-t06",
+          "title": "4. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 5,
+          "startTime": 688.001,
+          "duration": 217.107
+        },
+        {
+          "id": "1685193736-t07",
+          "title": "5. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 6,
+          "startTime": 905.108,
+          "duration": 149.76
+        },
+        {
+          "id": "1685193736-t08",
+          "title": "6. Dezember - Der widerliche Weihnachtswichtel (Teil 1)",
+          "index": 7,
+          "startTime": 1054.868,
+          "duration": 150.62
+        },
+        {
+          "id": "1685193736-t09",
+          "title": "6. Dezember - Der widerliche Weihnachtswichtel (Teil 2)",
+          "index": 8,
+          "startTime": 1205.488,
+          "duration": 173.446
+        },
+        {
+          "id": "1685193736-t10",
+          "title": "7. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 9,
+          "startTime": 1378.934,
+          "duration": 236.08
+        },
+        {
+          "id": "1685193736-t11",
+          "title": "8. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 10,
+          "startTime": 1615.014,
+          "duration": 233.093
+        },
+        {
+          "id": "1685193736-t12",
+          "title": "9. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 11,
+          "startTime": 1848.107,
+          "duration": 191.64
+        },
+        {
+          "id": "1685193736-t13",
+          "title": "10. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 12,
+          "startTime": 2039.747,
+          "duration": 177.88
+        },
+        {
+          "id": "1685193736-t14",
+          "title": "11. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 13,
+          "startTime": 2217.627,
+          "duration": 164.453
+        },
+        {
+          "id": "1685193736-t15",
+          "title": "12. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 14,
+          "startTime": 2382.08,
+          "duration": 181.947
+        },
+        {
+          "id": "1685193736-t16",
+          "title": "13. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 15,
+          "startTime": 2564.027,
+          "duration": 245.053
+        },
+        {
+          "id": "1685193736-t17",
+          "title": "14. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 16,
+          "startTime": 2809.08,
+          "duration": 160.4
+        },
+        {
+          "id": "1685193736-t18",
+          "title": "15. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 17,
+          "startTime": 2969.48,
+          "duration": 177.573
+        },
+        {
+          "id": "1685193736-t19",
+          "title": "16. Dezember - Der widerliche Weihnachtswichtel (Teil 1)",
+          "index": 18,
+          "startTime": 3147.053,
+          "duration": 169.241
+        },
+        {
+          "id": "1685193736-t20",
+          "title": "16. Dezember - Der widerliche Weihnachtswichtel (Teil 2)",
+          "index": 19,
+          "startTime": 3316.294,
+          "duration": 184.372
+        },
+        {
+          "id": "1685193736-t21",
+          "title": "17. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 20,
+          "startTime": 3500.666,
+          "duration": 254.547
+        },
+        {
+          "id": "1685193736-t22",
+          "title": "18. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 21,
+          "startTime": 3755.213,
+          "duration": 197.4
+        },
+        {
+          "id": "1685193736-t23",
+          "title": "19. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 22,
+          "startTime": 3952.613,
+          "duration": 255.96
+        },
+        {
+          "id": "1685193736-t24",
+          "title": "20. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 23,
+          "startTime": 4208.573,
+          "duration": 222.173
+        },
+        {
+          "id": "1685193736-t25",
+          "title": "21. Dezember - Der widerliche Weihnachtswichtel (Teil 1)",
+          "index": 24,
+          "startTime": 4430.746,
+          "duration": 183.378
+        },
+        {
+          "id": "1685193736-t26",
+          "title": "21. Dezember - Der widerliche Weihnachtswichtel (Teil 2)",
+          "index": 25,
+          "startTime": 4614.124,
+          "duration": 189.128
+        },
+        {
+          "id": "1685193736-t27",
+          "title": "22. Dezember - Der widerliche Weihnachtswichtel",
+          "index": 26,
+          "startTime": 4803.252,
+          "duration": 197.587
+        },
+        {
+          "id": "1685193736-t28",
+          "title": "23. Dezember - Der widerliche Weihnachtswichtel (Teil 1)",
+          "index": 27,
+          "startTime": 5000.839,
+          "duration": 183.509
+        },
+        {
+          "id": "1685193736-t29",
+          "title": "23. Dezember - Der widerliche Weihnachtswichtel (Teil 2)",
+          "index": 28,
+          "startTime": 5184.348,
+          "duration": 190.744
+        },
+        {
+          "id": "1685193736-t30",
+          "title": "24. Dezember - Der widerliche Weihnachtswichtel (Teil 1)",
+          "index": 29,
+          "startTime": 5375.092,
+          "duration": 151.497
+        },
+        {
+          "id": "1685193736-t31",
+          "title": "24. Dezember - Der widerliche Weihnachtswichtel (Teil 2)",
+          "index": 30,
+          "startTime": 5526.589,
+          "duration": 159.418
+        },
+        {
+          "id": "1685193736-t32",
+          "title": "24. Dezember - Der widerliche Weihnachtswichtel (Teil 3)",
+          "index": 31,
+          "startTime": 5686.007,
+          "duration": 196.172
+        },
+        {
+          "id": "1685193736-t33",
+          "title": "TKKG Junior Schlußsong",
+          "index": 32,
+          "startTime": 5882.179,
+          "duration": 68.05
+        },
+        {
+          "id": "1685193736-t34",
+          "title": "Der widerliche Weihnachtswichtel (Outro)",
+          "index": 33,
+          "startTime": 5950.229,
+          "duration": 80.518
+        }
+      ]
+    },
+    {
+      "id": "1734654620",
+      "title": "Die Fußball-Lüge",
+      "episodeNumber": null,
+      "releaseDate": "2024-06-07",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/07/0c/ee/070cee7c-f93d-12da-806c-a63705298621/196871655941.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele und ist für ein junges Publikum gedacht.",
+      "totalDuration": 2512.867,
+      "platforms": {
+        "appleMusic": "1734654620"
+      },
+      "chapters": [
+        {
+          "id": "1734654620-t01",
+          "title": "TKKG Junior Titelsong",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 62.547
+        },
+        {
+          "id": "1734654620-t02",
+          "title": "Die Fußball-Lüge (Teil 01)",
+          "index": 1,
+          "startTime": 62.547,
+          "duration": 151.213
+        },
+        {
+          "id": "1734654620-t03",
+          "title": "Die Fußball-Lüge (Teil 02)",
+          "index": 2,
+          "startTime": 213.76,
+          "duration": 152.373
+        },
+        {
+          "id": "1734654620-t04",
+          "title": "Die Fußball-Lüge (Teil 03)",
+          "index": 3,
+          "startTime": 366.133,
+          "duration": 150.987
+        },
+        {
+          "id": "1734654620-t05",
+          "title": "Die Fußball-Lüge (Teil 04)",
+          "index": 4,
+          "startTime": 517.12,
+          "duration": 153.373
+        },
+        {
+          "id": "1734654620-t06",
+          "title": "Die Fußball-Lüge (Teil 05)",
+          "index": 5,
+          "startTime": 670.493,
+          "duration": 150.347
+        },
+        {
+          "id": "1734654620-t07",
+          "title": "Die Fußball-Lüge (Teil 06)",
+          "index": 6,
+          "startTime": 820.84,
+          "duration": 150.573
+        },
+        {
+          "id": "1734654620-t08",
+          "title": "Die Fußball-Lüge (Teil 07)",
+          "index": 7,
+          "startTime": 971.413,
+          "duration": 152.32
+        },
+        {
+          "id": "1734654620-t09",
+          "title": "Die Fußball-Lüge (Teil 08)",
+          "index": 8,
+          "startTime": 1123.733,
+          "duration": 155.067
+        },
+        {
+          "id": "1734654620-t10",
+          "title": "Die Fußball-Lüge (Teil 09)",
+          "index": 9,
+          "startTime": 1278.8,
+          "duration": 154.733
+        },
+        {
+          "id": "1734654620-t11",
+          "title": "Die Fußball-Lüge (Teil 10)",
+          "index": 10,
+          "startTime": 1433.533,
+          "duration": 150.827
+        },
+        {
+          "id": "1734654620-t12",
+          "title": "Die Fußball-Lüge (Teil 11)",
+          "index": 11,
+          "startTime": 1584.36,
+          "duration": 152.213
+        },
+        {
+          "id": "1734654620-t13",
+          "title": "Die Fußball-Lüge (Teil 12)",
+          "index": 12,
+          "startTime": 1736.573,
+          "duration": 150.36
+        },
+        {
+          "id": "1734654620-t14",
+          "title": "Die Fußball-Lüge (Teil 13)",
+          "index": 13,
+          "startTime": 1886.933,
+          "duration": 150.52
+        },
+        {
+          "id": "1734654620-t15",
+          "title": "Die Fußball-Lüge (Teil 14)",
+          "index": 14,
+          "startTime": 2037.453,
+          "duration": 150.827
+        },
+        {
+          "id": "1734654620-t16",
+          "title": "Die Fußball-Lüge (Teil 15)",
+          "index": 15,
+          "startTime": 2188.28,
+          "duration": 191.427
+        },
+        {
+          "id": "1734654620-t17",
+          "title": "TKKG Junior Schlußsong",
+          "index": 16,
+          "startTime": 2379.707,
+          "duration": 64.84
+        },
+        {
+          "id": "1734654620-t18",
+          "title": "Die Fußball-Lüge (Outro)",
+          "index": 17,
+          "startTime": 2444.547,
+          "duration": 68.32
+        }
+      ]
+    },
+    {
+      "id": "1777047904",
+      "title": "Adventskalender (Eine schöne Bescherung)",
+      "episodeNumber": null,
+      "releaseDate": "2024-11-29",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/a5/06/dca5063e-0eb0-dd8f-13bc-8be057b083ba/196872211993.jpg/100x100bb.jpg",
+      "description": "In diesem Adventskalender erzählen die TKKG-Junioren von 24 Tagen voller Abenteuer und Überraschungen. Jeden Tag gibt es eine neue Geschichte, die das Herz wärmen wird.",
+      "totalDuration": 5454.949,
+      "platforms": {
+        "appleMusic": "1777047904"
+      },
+      "chapters": [
+        {
+          "id": "1777047904-t01",
+          "title": "Eine schöne Bescherung (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 46.493
+        },
+        {
+          "id": "1777047904-t02",
+          "title": "1. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 1,
+          "startTime": 46.493,
+          "duration": 95.28
+        },
+        {
+          "id": "1777047904-t03",
+          "title": "1. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 2,
+          "startTime": 141.773,
+          "duration": 91.747
+        },
+        {
+          "id": "1777047904-t04",
+          "title": "1. Dezember - Eine schöne Bescherung (Teil 03)",
+          "index": 3,
+          "startTime": 233.52,
+          "duration": 142.2
+        },
+        {
+          "id": "1777047904-t05",
+          "title": "2. Dezember - Eine schöne Bescherung",
+          "index": 4,
+          "startTime": 375.72,
+          "duration": 160.08
+        },
+        {
+          "id": "1777047904-t06",
+          "title": "3. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 5,
+          "startTime": 535.8,
+          "duration": 103.693
+        },
+        {
+          "id": "1777047904-t07",
+          "title": "3. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 6,
+          "startTime": 639.493,
+          "duration": 150.267
+        },
+        {
+          "id": "1777047904-t08",
+          "title": "4. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 7,
+          "startTime": 789.76,
+          "duration": 92.467
+        },
+        {
+          "id": "1777047904-t09",
+          "title": "4. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 8,
+          "startTime": 882.227,
+          "duration": 136.2
+        },
+        {
+          "id": "1777047904-t10",
+          "title": "5. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 9,
+          "startTime": 1018.427,
+          "duration": 91.48
+        },
+        {
+          "id": "1777047904-t11",
+          "title": "5. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 10,
+          "startTime": 1109.907,
+          "duration": 159.413
+        },
+        {
+          "id": "1777047904-t12",
+          "title": "6. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 11,
+          "startTime": 1269.32,
+          "duration": 96.2
+        },
+        {
+          "id": "1777047904-t13",
+          "title": "6. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 12,
+          "startTime": 1365.52,
+          "duration": 161.067
+        },
+        {
+          "id": "1777047904-t14",
+          "title": "7. Dezember - Eine schöne Bescherung",
+          "index": 13,
+          "startTime": 1526.587,
+          "duration": 165.373
+        },
+        {
+          "id": "1777047904-t15",
+          "title": "8. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 14,
+          "startTime": 1691.96,
+          "duration": 91.013
+        },
+        {
+          "id": "1777047904-t16",
+          "title": "8. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 15,
+          "startTime": 1782.973,
+          "duration": 178.187
+        },
+        {
+          "id": "1777047904-t17",
+          "title": "9. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 16,
+          "startTime": 1961.16,
+          "duration": 93.613
+        },
+        {
+          "id": "1777047904-t18",
+          "title": "9. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 17,
+          "startTime": 2054.773,
+          "duration": 123.627
+        },
+        {
+          "id": "1777047904-t19",
+          "title": "10. Dezember - Eine schöne Bescherung",
+          "index": 18,
+          "startTime": 2178.4,
+          "duration": 168.96
+        },
+        {
+          "id": "1777047904-t20",
+          "title": "11. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 19,
+          "startTime": 2347.36,
+          "duration": 93.627
+        },
+        {
+          "id": "1777047904-t21",
+          "title": "11. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 20,
+          "startTime": 2440.987,
+          "duration": 109.507
+        },
+        {
+          "id": "1777047904-t22",
+          "title": "12. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 21,
+          "startTime": 2550.494,
+          "duration": 90.267
+        },
+        {
+          "id": "1777047904-t23",
+          "title": "12. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 22,
+          "startTime": 2640.761,
+          "duration": 141.347
+        },
+        {
+          "id": "1777047904-t24",
+          "title": "13. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 23,
+          "startTime": 2782.108,
+          "duration": 93.827
+        },
+        {
+          "id": "1777047904-t25",
+          "title": "13. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 24,
+          "startTime": 2875.935,
+          "duration": 159.747
+        },
+        {
+          "id": "1777047904-t26",
+          "title": "14. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 25,
+          "startTime": 3035.682,
+          "duration": 98.733
+        },
+        {
+          "id": "1777047904-t27",
+          "title": "14. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 26,
+          "startTime": 3134.415,
+          "duration": 125.067
+        },
+        {
+          "id": "1777047904-t28",
+          "title": "15. Dezember - Eine schöne Bescherung",
+          "index": 27,
+          "startTime": 3259.482,
+          "duration": 173.613
+        },
+        {
+          "id": "1777047904-t29",
+          "title": "16. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 28,
+          "startTime": 3433.095,
+          "duration": 90.68
+        },
+        {
+          "id": "1777047904-t30",
+          "title": "16. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 29,
+          "startTime": 3523.775,
+          "duration": 111.293
+        },
+        {
+          "id": "1777047904-t31",
+          "title": "17. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 30,
+          "startTime": 3635.068,
+          "duration": 95.013
+        },
+        {
+          "id": "1777047904-t32",
+          "title": "17. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 31,
+          "startTime": 3730.081,
+          "duration": 139.707
+        },
+        {
+          "id": "1777047904-t33",
+          "title": "18. Dezember - Eine schöne Bescherung",
+          "index": 32,
+          "startTime": 3869.788,
+          "duration": 179.053
+        },
+        {
+          "id": "1777047904-t34",
+          "title": "19. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 33,
+          "startTime": 4048.841,
+          "duration": 91.747
+        },
+        {
+          "id": "1777047904-t35",
+          "title": "19. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 34,
+          "startTime": 4140.588,
+          "duration": 140.787
+        },
+        {
+          "id": "1777047904-t36",
+          "title": "20. Dezember - Eine schöne Bescherung",
+          "index": 35,
+          "startTime": 4281.375,
+          "duration": 179.253
+        },
+        {
+          "id": "1777047904-t37",
+          "title": "21. Dezember - Eine schöne Bescherung",
+          "index": 36,
+          "startTime": 4460.628,
+          "duration": 167.44
+        },
+        {
+          "id": "1777047904-t38",
+          "title": "22. Dezember - Eine schöne Bescherung",
+          "index": 37,
+          "startTime": 4628.068,
+          "duration": 162.92
+        },
+        {
+          "id": "1777047904-t39",
+          "title": "23. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 38,
+          "startTime": 4790.988,
+          "duration": 96.987
+        },
+        {
+          "id": "1777047904-t40",
+          "title": "23. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 39,
+          "startTime": 4887.975,
+          "duration": 138.307
+        },
+        {
+          "id": "1777047904-t41",
+          "title": "24. Dezember - Eine schöne Bescherung (Teil 01)",
+          "index": 40,
+          "startTime": 5026.282,
+          "duration": 90.053
+        },
+        {
+          "id": "1777047904-t42",
+          "title": "24. Dezember - Eine schöne Bescherung (Teil 02)",
+          "index": 41,
+          "startTime": 5116.335,
+          "duration": 96.467
+        },
+        {
+          "id": "1777047904-t43",
+          "title": "24. Dezember - Eine schöne Bescherung (Teil 03)",
+          "index": 42,
+          "startTime": 5212.802,
+          "duration": 173.84
+        },
+        {
+          "id": "1777047904-t44",
+          "title": "Eine schöne Bescherung (Outro)",
+          "index": 43,
+          "startTime": 5386.642,
+          "duration": 68.307
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-31T16:46:35Z"
+  "updatedAt": "2026-05-31T19:39:09Z"
 }

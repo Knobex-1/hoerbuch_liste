@@ -1,0 +1,288 @@
+{
+  "seriesId": "tkkg-junior-investigators",
+  "title": "TKKG - Junior Investigators",
+  "language": "de",
+  "author": "Stefan Wolf",
+  "narrator": "Verschiedene Sprecher",
+  "genres": [
+    "Hörspiel",
+    "Kinder & Jugend",
+    "Abenteuer"
+  ],
+  "albums": [
+    {
+      "id": "1438615063",
+      "title": "001/Scary Sleepover",
+      "episodeNumber": null,
+      "releaseDate": "2018-10-19",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/cf/78/75cf78fe-42a3-ec32-143a-d5b1d70a94e9/886447325193.jpg/100x100bb.jpg",
+      "description": "Die Junior-Investigator aus dem TKKG-Team sind auf einem Schreckens-Slumberparty angeland. Was für eine Nacht wird das werden? Ein spannender Hörspieleinstieg in die Serie.",
+      "totalDuration": 2665.318,
+      "platforms": {
+        "appleMusic": "1438615063"
+      },
+      "chapters": [
+        {
+          "id": "1438615063-t01",
+          "title": "001 - Scary Sleepover (Intro)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 19.773
+        },
+        {
+          "id": "1438615063-t02",
+          "title": "001 - Scary Sleepover (Part 01)",
+          "index": 1,
+          "startTime": 19.773,
+          "duration": 73.0
+        },
+        {
+          "id": "1438615063-t03",
+          "title": "001 - Scary Sleepover (Part 02)",
+          "index": 2,
+          "startTime": 92.773,
+          "duration": 75.293
+        },
+        {
+          "id": "1438615063-t04",
+          "title": "001 - Scary Sleepover (Part 03)",
+          "index": 3,
+          "startTime": 168.066,
+          "duration": 70.627
+        },
+        {
+          "id": "1438615063-t05",
+          "title": "001 - Scary Sleepover (Part 04)",
+          "index": 4,
+          "startTime": 238.693,
+          "duration": 72.253
+        },
+        {
+          "id": "1438615063-t06",
+          "title": "001 - Scary Sleepover (Part 05)",
+          "index": 5,
+          "startTime": 310.946,
+          "duration": 71.427
+        },
+        {
+          "id": "1438615063-t07",
+          "title": "001 - Scary Sleepover (Part 06)",
+          "index": 6,
+          "startTime": 382.373,
+          "duration": 75.6
+        },
+        {
+          "id": "1438615063-t08",
+          "title": "001 - Scary Sleepover (Part 07)",
+          "index": 7,
+          "startTime": 457.973,
+          "duration": 67.68
+        },
+        {
+          "id": "1438615063-t09",
+          "title": "001 - Scary Sleepover (Part 08)",
+          "index": 8,
+          "startTime": 525.653,
+          "duration": 79.613
+        },
+        {
+          "id": "1438615063-t10",
+          "title": "001 - Scary Sleepover (Part 09)",
+          "index": 9,
+          "startTime": 605.266,
+          "duration": 68.0
+        },
+        {
+          "id": "1438615063-t11",
+          "title": "001 - Scary Sleepover (Part 10)",
+          "index": 10,
+          "startTime": 673.266,
+          "duration": 78.587
+        },
+        {
+          "id": "1438615063-t12",
+          "title": "001 - Scary Sleepover (Part 11)",
+          "index": 11,
+          "startTime": 751.853,
+          "duration": 75.36
+        },
+        {
+          "id": "1438615063-t13",
+          "title": "001 - Scary Sleepover (Part 12)",
+          "index": 12,
+          "startTime": 827.213,
+          "duration": 64.533
+        },
+        {
+          "id": "1438615063-t14",
+          "title": "001 - Scary Sleepover (Part 13)",
+          "index": 13,
+          "startTime": 891.746,
+          "duration": 71.827
+        },
+        {
+          "id": "1438615063-t15",
+          "title": "001 - Scary Sleepover (Part 14)",
+          "index": 14,
+          "startTime": 963.573,
+          "duration": 72.813
+        },
+        {
+          "id": "1438615063-t16",
+          "title": "001 - Scary Sleepover (Part 15)",
+          "index": 15,
+          "startTime": 1036.386,
+          "duration": 82.253
+        },
+        {
+          "id": "1438615063-t17",
+          "title": "001 - Scary Sleepover (Part 16)",
+          "index": 16,
+          "startTime": 1118.639,
+          "duration": 66.093
+        },
+        {
+          "id": "1438615063-t18",
+          "title": "001 - Scary Sleepover (Part 17)",
+          "index": 17,
+          "startTime": 1184.732,
+          "duration": 75.813
+        },
+        {
+          "id": "1438615063-t19",
+          "title": "001 - Scary Sleepover (Part 18)",
+          "index": 18,
+          "startTime": 1260.545,
+          "duration": 69.973
+        },
+        {
+          "id": "1438615063-t20",
+          "title": "001 - Scary Sleepover (Part 19)",
+          "index": 19,
+          "startTime": 1330.518,
+          "duration": 74.96
+        },
+        {
+          "id": "1438615063-t21",
+          "title": "001 - Scary Sleepover (Part 20)",
+          "index": 20,
+          "startTime": 1405.478,
+          "duration": 72.56
+        },
+        {
+          "id": "1438615063-t22",
+          "title": "001 - Scary Sleepover (Part 21)",
+          "index": 21,
+          "startTime": 1478.038,
+          "duration": 73.467
+        },
+        {
+          "id": "1438615063-t23",
+          "title": "001 - Scary Sleepover (Part 22)",
+          "index": 22,
+          "startTime": 1551.505,
+          "duration": 72.08
+        },
+        {
+          "id": "1438615063-t24",
+          "title": "001 - Scary Sleepover (Part 23)",
+          "index": 23,
+          "startTime": 1623.585,
+          "duration": 71.987
+        },
+        {
+          "id": "1438615063-t25",
+          "title": "001 - Scary Sleepover (Part 24)",
+          "index": 24,
+          "startTime": 1695.572,
+          "duration": 74.987
+        },
+        {
+          "id": "1438615063-t26",
+          "title": "001 - Scary Sleepover (Part 25)",
+          "index": 25,
+          "startTime": 1770.559,
+          "duration": 71.213
+        },
+        {
+          "id": "1438615063-t27",
+          "title": "001 - Scary Sleepover (Part 26)",
+          "index": 26,
+          "startTime": 1841.772,
+          "duration": 75.933
+        },
+        {
+          "id": "1438615063-t28",
+          "title": "001 - Scary Sleepover (Part 27)",
+          "index": 27,
+          "startTime": 1917.705,
+          "duration": 75.787
+        },
+        {
+          "id": "1438615063-t29",
+          "title": "001 - Scary Sleepover (Part 28)",
+          "index": 28,
+          "startTime": 1993.492,
+          "duration": 69.493
+        },
+        {
+          "id": "1438615063-t30",
+          "title": "001 - Scary Sleepover (Part 29)",
+          "index": 29,
+          "startTime": 2062.985,
+          "duration": 73.48
+        },
+        {
+          "id": "1438615063-t31",
+          "title": "001 - Scary Sleepover (Part 30)",
+          "index": 30,
+          "startTime": 2136.465,
+          "duration": 72.693
+        },
+        {
+          "id": "1438615063-t32",
+          "title": "001 - Scary Sleepover (Part 31)",
+          "index": 31,
+          "startTime": 2209.158,
+          "duration": 72.36
+        },
+        {
+          "id": "1438615063-t33",
+          "title": "001 - Scary Sleepover (Part 32)",
+          "index": 32,
+          "startTime": 2281.518,
+          "duration": 72.453
+        },
+        {
+          "id": "1438615063-t34",
+          "title": "001 - Scary Sleepover (Part 33)",
+          "index": 33,
+          "startTime": 2353.971,
+          "duration": 67.907
+        },
+        {
+          "id": "1438615063-t35",
+          "title": "001 - Scary Sleepover (Part 34)",
+          "index": 34,
+          "startTime": 2421.878,
+          "duration": 79.893
+        },
+        {
+          "id": "1438615063-t36",
+          "title": "001 - Scary Sleepover (Part 35)",
+          "index": 35,
+          "startTime": 2501.771,
+          "duration": 89.187
+        },
+        {
+          "id": "1438615063-t37",
+          "title": "001 - Scary Sleepover (Outro)",
+          "index": 36,
+          "startTime": 2590.958,
+          "duration": 74.36
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-31T19:39:09Z"
+}

@@ -9,6 +9,1294 @@
   ],
   "albums": [
     {
+      "id": "1686063560",
+      "title": "01: Conni zieht um / Conni bekommt eine Katze / Conni macht das Seepferdchen / Conni geht zelten (Vier Hörspiele zur TV-Serie)",
+      "episodeNumber": 1,
+      "releaseDate": "2012-06-22",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/28/6f/ac/286fac18-afc9-9191-845a-2f38a95026c9/4057664075253.jpg/100x100bb.jpg",
+      "description": "Dieses Album besteht aus vier Hörspielen, die auf der beliebten TV-Serie 'Meine Freundin Conni' basieren. Jedes Hörspiel hat eine Länge von etwa 10 Minuten und ist für Kinder und Jugendliche geeignet.",
+      "totalDuration": 3025.603,
+      "platforms": {
+        "appleMusic": "1686063560"
+      },
+      "chapters": [
+        {
+          "id": "1686063560-t01",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 37.747
+        },
+        {
+          "id": "1686063560-t02",
+          "title": "Conni zieht um - Teil 01",
+          "index": 1,
+          "startTime": 37.747,
+          "duration": 91.928
+        },
+        {
+          "id": "1686063560-t03",
+          "title": "Conni zieht um - Teil 02",
+          "index": 2,
+          "startTime": 129.675,
+          "duration": 112.578
+        },
+        {
+          "id": "1686063560-t04",
+          "title": "Conni zieht um - Teil 03",
+          "index": 3,
+          "startTime": 242.253,
+          "duration": 80.068
+        },
+        {
+          "id": "1686063560-t05",
+          "title": "Conni zieht um - Teil 04",
+          "index": 4,
+          "startTime": 322.321,
+          "duration": 91.28
+        },
+        {
+          "id": "1686063560-t06",
+          "title": "Conni zieht um - Teil 05",
+          "index": 5,
+          "startTime": 413.601,
+          "duration": 81.369
+        },
+        {
+          "id": "1686063560-t07",
+          "title": "Conni zieht um - Teil 06",
+          "index": 6,
+          "startTime": 494.97,
+          "duration": 77.737
+        },
+        {
+          "id": "1686063560-t08",
+          "title": "Conni zieht um - Teil 07",
+          "index": 7,
+          "startTime": 572.707,
+          "duration": 80.126
+        },
+        {
+          "id": "1686063560-t09",
+          "title": "Conni zieht um - Teil 08",
+          "index": 8,
+          "startTime": 652.833,
+          "duration": 82.067
+        },
+        {
+          "id": "1686063560-t10",
+          "title": "Conni zieht um - Teil 09",
+          "index": 9,
+          "startTime": 734.9,
+          "duration": 116.914
+        },
+        {
+          "id": "1686063560-t11",
+          "title": "Conni bekommt eine Katze - Teil 01",
+          "index": 10,
+          "startTime": 851.814,
+          "duration": 83.152
+        },
+        {
+          "id": "1686063560-t12",
+          "title": "Conni bekommt eine Katze - Teil 02",
+          "index": 11,
+          "startTime": 934.966,
+          "duration": 84.725
+        },
+        {
+          "id": "1686063560-t13",
+          "title": "Conni bekommt eine Katze - Teil 03",
+          "index": 12,
+          "startTime": 1019.691,
+          "duration": 86.721
+        },
+        {
+          "id": "1686063560-t14",
+          "title": "Conni bekommt eine Katze - Teil 04",
+          "index": 13,
+          "startTime": 1106.412,
+          "duration": 93.189
+        },
+        {
+          "id": "1686063560-t15",
+          "title": "Conni bekommt eine Katze - Teil 05",
+          "index": 14,
+          "startTime": 1199.601,
+          "duration": 86.338
+        },
+        {
+          "id": "1686063560-t16",
+          "title": "Conni bekommt eine Katze - Teil 06",
+          "index": 15,
+          "startTime": 1285.939,
+          "duration": 92.056
+        },
+        {
+          "id": "1686063560-t17",
+          "title": "Conni bekommt eine Katze - Teil 07",
+          "index": 16,
+          "startTime": 1377.995,
+          "duration": 86.042
+        },
+        {
+          "id": "1686063560-t18",
+          "title": "Conni bekommt eine Katze - Teil 08",
+          "index": 17,
+          "startTime": 1464.037,
+          "duration": 133.299
+        },
+        {
+          "id": "1686063560-t19",
+          "title": "Conni macht das Seepferdchen - Teil 01",
+          "index": 18,
+          "startTime": 1597.336,
+          "duration": 82.941
+        },
+        {
+          "id": "1686063560-t20",
+          "title": "Conni macht das Seepferdchen - Teil 02",
+          "index": 19,
+          "startTime": 1680.277,
+          "duration": 112.27
+        },
+        {
+          "id": "1686063560-t21",
+          "title": "Conni macht das Seepferdchen - Teil 03",
+          "index": 20,
+          "startTime": 1792.547,
+          "duration": 117.243
+        },
+        {
+          "id": "1686063560-t22",
+          "title": "Conni macht das Seepferdchen - Teil 04",
+          "index": 21,
+          "startTime": 1909.79,
+          "duration": 81.699
+        },
+        {
+          "id": "1686063560-t23",
+          "title": "Conni macht das Seepferdchen - Teil 05",
+          "index": 22,
+          "startTime": 1991.489,
+          "duration": 79.641
+        },
+        {
+          "id": "1686063560-t24",
+          "title": "Conni macht das Seepferdchen - Teil 06",
+          "index": 23,
+          "startTime": 2071.13,
+          "duration": 90.821
+        },
+        {
+          "id": "1686063560-t25",
+          "title": "Conni macht das Seepferdchen - Teil 07",
+          "index": 24,
+          "startTime": 2161.951,
+          "duration": 119.306
+        },
+        {
+          "id": "1686063560-t26",
+          "title": "Conni geht zelten - Teil 01",
+          "index": 25,
+          "startTime": 2281.257,
+          "duration": 103.38
+        },
+        {
+          "id": "1686063560-t27",
+          "title": "Conni geht zelten - Teil 02",
+          "index": 26,
+          "startTime": 2384.637,
+          "duration": 83.398
+        },
+        {
+          "id": "1686063560-t28",
+          "title": "Conni geht zelten - Teil 03",
+          "index": 27,
+          "startTime": 2468.035,
+          "duration": 85.561
+        },
+        {
+          "id": "1686063560-t29",
+          "title": "Conni geht zelten - Teil 04",
+          "index": 28,
+          "startTime": 2553.596,
+          "duration": 71.256
+        },
+        {
+          "id": "1686063560-t30",
+          "title": "Conni geht zelten - Teil 05",
+          "index": 29,
+          "startTime": 2624.852,
+          "duration": 79.658
+        },
+        {
+          "id": "1686063560-t31",
+          "title": "Conni geht zelten - Teil 06",
+          "index": 30,
+          "startTime": 2704.51,
+          "duration": 91.597
+        },
+        {
+          "id": "1686063560-t32",
+          "title": "Conni geht zelten - Teil 07",
+          "index": 31,
+          "startTime": 2796.107,
+          "duration": 79.673
+        },
+        {
+          "id": "1686063560-t33",
+          "title": "Conni geht zelten - Teil 08",
+          "index": 32,
+          "startTime": 2875.78,
+          "duration": 64.493
+        },
+        {
+          "id": "1686063560-t34",
+          "title": "Conni geht zelten - Teil 09",
+          "index": 33,
+          "startTime": 2940.273,
+          "duration": 85.33
+        }
+      ]
+    },
+    {
+      "id": "1842149569",
+      "title": "04: Conni hat Geburtstag / Conni backt Pizza / Conni geht in den Zoo / Conni geht verloren (Vier Hörspiele zur TV-Serie)",
+      "episodeNumber": 4,
+      "releaseDate": "2013-03-29",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/22/8c/4b228ce4-2026-d53f-ca34-47d0688095f1/4069828934092.jpg/100x100bb.jpg",
+      "description": "Vier Hörspiele zur TV-Serie 'Meine Freundin Conni' mit verschiedenen Episoden: 'Conni hat Geburtstag', 'Conni backt Pizza', 'Conni geht in den Zoo' und 'Conni geht verloren'.",
+      "totalDuration": 3019.587,
+      "platforms": {
+        "appleMusic": "1842149569"
+      },
+      "chapters": [
+        {
+          "id": "1842149569-t01",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 37.653
+        },
+        {
+          "id": "1842149569-t02",
+          "title": "Conni hat Geburtstag - Teil 01",
+          "index": 1,
+          "startTime": 37.653,
+          "duration": 81.699
+        },
+        {
+          "id": "1842149569-t03",
+          "title": "Conni hat Geburtstag - Teil 02",
+          "index": 2,
+          "startTime": 119.352,
+          "duration": 90.297
+        },
+        {
+          "id": "1842149569-t04",
+          "title": "Conni hat Geburtstag - Teil 03",
+          "index": 3,
+          "startTime": 209.649,
+          "duration": 99.485
+        },
+        {
+          "id": "1842149569-t05",
+          "title": "Conni hat Geburtstag - Teil 04",
+          "index": 4,
+          "startTime": 309.134,
+          "duration": 82.292
+        },
+        {
+          "id": "1842149569-t06",
+          "title": "Conni hat Geburtstag - Teil 05",
+          "index": 5,
+          "startTime": 391.426,
+          "duration": 92.743
+        },
+        {
+          "id": "1842149569-t07",
+          "title": "Conni hat Geburtstag - Teil 06",
+          "index": 6,
+          "startTime": 484.169,
+          "duration": 92.588
+        },
+        {
+          "id": "1842149569-t08",
+          "title": "Conni hat Geburtstag - Teil 07",
+          "index": 7,
+          "startTime": 576.757,
+          "duration": 92.005
+        },
+        {
+          "id": "1842149569-t09",
+          "title": "Conni hat Geburtstag - Teil 08",
+          "index": 8,
+          "startTime": 668.762,
+          "duration": 103.464
+        },
+        {
+          "id": "1842149569-t10",
+          "title": "Conni backt Pizza - Teil 01",
+          "index": 9,
+          "startTime": 772.226,
+          "duration": 107.786
+        },
+        {
+          "id": "1842149569-t11",
+          "title": "Conni backt Pizza - Teil 02",
+          "index": 10,
+          "startTime": 880.012,
+          "duration": 85.503
+        },
+        {
+          "id": "1842149569-t12",
+          "title": "Conni backt Pizza - Teil 03",
+          "index": 11,
+          "startTime": 965.515,
+          "duration": 93.969
+        },
+        {
+          "id": "1842149569-t13",
+          "title": "Conni backt Pizza - Teil 04",
+          "index": 12,
+          "startTime": 1059.484,
+          "duration": 84.609
+        },
+        {
+          "id": "1842149569-t14",
+          "title": "Conni backt Pizza - Teil 05",
+          "index": 13,
+          "startTime": 1144.093,
+          "duration": 81.97
+        },
+        {
+          "id": "1842149569-t15",
+          "title": "Conni backt Pizza - Teil 06",
+          "index": 14,
+          "startTime": 1226.063,
+          "duration": 82.553
+        },
+        {
+          "id": "1842149569-t16",
+          "title": "Conni backt Pizza - Teil 07",
+          "index": 15,
+          "startTime": 1308.616,
+          "duration": 81.99
+        },
+        {
+          "id": "1842149569-t17",
+          "title": "Conni backt Pizza - Teil 08",
+          "index": 16,
+          "startTime": 1390.606,
+          "duration": 64.967
+        },
+        {
+          "id": "1842149569-t18",
+          "title": "Conni backt Pizza - Teil 09",
+          "index": 17,
+          "startTime": 1455.573,
+          "duration": 81.201
+        },
+        {
+          "id": "1842149569-t19",
+          "title": "Conni geht in den Zoo - Teil 01",
+          "index": 18,
+          "startTime": 1536.774,
+          "duration": 91.006
+        },
+        {
+          "id": "1842149569-t20",
+          "title": "Conni geht in den Zoo - Teil 02",
+          "index": 19,
+          "startTime": 1627.78,
+          "duration": 91.204
+        },
+        {
+          "id": "1842149569-t21",
+          "title": "Conni geht in den Zoo - Teil 03",
+          "index": 20,
+          "startTime": 1718.984,
+          "duration": 96.694
+        },
+        {
+          "id": "1842149569-t22",
+          "title": "Conni geht in den Zoo - Teil 04",
+          "index": 21,
+          "startTime": 1815.678,
+          "duration": 114.479
+        },
+        {
+          "id": "1842149569-t23",
+          "title": "Conni geht in den Zoo - Teil 05",
+          "index": 22,
+          "startTime": 1930.157,
+          "duration": 107.047
+        },
+        {
+          "id": "1842149569-t24",
+          "title": "Conni geht in den Zoo - Teil 06",
+          "index": 23,
+          "startTime": 2037.204,
+          "duration": 111.303
+        },
+        {
+          "id": "1842149569-t25",
+          "title": "Conni geht in den Zoo - Teil 07",
+          "index": 24,
+          "startTime": 2148.507,
+          "duration": 98.743
+        },
+        {
+          "id": "1842149569-t26",
+          "title": "Conni geht in den Zoo - Teil 08",
+          "index": 25,
+          "startTime": 2247.25,
+          "duration": 110.576
+        },
+        {
+          "id": "1842149569-t27",
+          "title": "Conni geht verloren - Teil 01",
+          "index": 26,
+          "startTime": 2357.826,
+          "duration": 92.559
+        },
+        {
+          "id": "1842149569-t28",
+          "title": "Conni geht verloren - Teil 02",
+          "index": 27,
+          "startTime": 2450.385,
+          "duration": 118.217
+        },
+        {
+          "id": "1842149569-t29",
+          "title": "Conni geht verloren - Teil 03",
+          "index": 28,
+          "startTime": 2568.602,
+          "duration": 115.771
+        },
+        {
+          "id": "1842149569-t30",
+          "title": "Conni geht verloren - Teil 04",
+          "index": 29,
+          "startTime": 2684.373,
+          "duration": 113.862
+        },
+        {
+          "id": "1842149569-t31",
+          "title": "Conni geht verloren - Teil 05",
+          "index": 30,
+          "startTime": 2798.235,
+          "duration": 84.649
+        },
+        {
+          "id": "1842149569-t32",
+          "title": "Conni geht verloren - Teil 06",
+          "index": 31,
+          "startTime": 2882.884,
+          "duration": 80.223
+        },
+        {
+          "id": "1842149569-t33",
+          "title": "Conni geht verloren - Teil 07",
+          "index": 32,
+          "startTime": 2963.107,
+          "duration": 56.48
+        }
+      ]
+    },
+    {
+      "id": "1686316185",
+      "title": "Folge 06: Conni lernt reiten / Conni am Strand / Conni in den Bergen / Conni macht Musik (Vier Hörspiele zur TV-Serie)",
+      "episodeNumber": 6,
+      "releaseDate": "2013-04-12",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fa/56/ee/fa56ee23-5736-3ba5-43f5-f681c56ca1c2/4057664074966.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält vier Hörspiele aus der Serie 'Meine Freundin Conni' mit verschiedenen Themen wie Reiten, Strand und Bergen.",
+      "totalDuration": 3213.656,
+      "platforms": {
+        "appleMusic": "1686316185"
+      },
+      "chapters": [
+        {
+          "id": "1686316185-t01",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 38.053
+        },
+        {
+          "id": "1686316185-t02",
+          "title": "Conni lernt reiten - Teil 01",
+          "index": 1,
+          "startTime": 38.053,
+          "duration": 81.97
+        },
+        {
+          "id": "1686316185-t03",
+          "title": "Conni lernt reiten - Teil 02",
+          "index": 2,
+          "startTime": 120.023,
+          "duration": 82.805
+        },
+        {
+          "id": "1686316185-t04",
+          "title": "Conni lernt reiten - Teil 03",
+          "index": 3,
+          "startTime": 202.828,
+          "duration": 82.164
+        },
+        {
+          "id": "1686316185-t05",
+          "title": "Conni lernt reiten - Teil 04",
+          "index": 4,
+          "startTime": 284.992,
+          "duration": 89.967
+        },
+        {
+          "id": "1686316185-t06",
+          "title": "Conni lernt reiten - Teil 05",
+          "index": 5,
+          "startTime": 374.959,
+          "duration": 98.78
+        },
+        {
+          "id": "1686316185-t07",
+          "title": "Conni lernt reiten - Teil 06",
+          "index": 6,
+          "startTime": 473.739,
+          "duration": 81.563
+        },
+        {
+          "id": "1686316185-t08",
+          "title": "Conni lernt reiten - Teil 07",
+          "index": 7,
+          "startTime": 555.302,
+          "duration": 93.015
+        },
+        {
+          "id": "1686316185-t09",
+          "title": "Conni lernt reiten - Teil 08",
+          "index": 8,
+          "startTime": 648.317,
+          "duration": 92.821
+        },
+        {
+          "id": "1686316185-t10",
+          "title": "Conni lernt reiten - Teil 09",
+          "index": 9,
+          "startTime": 741.138,
+          "duration": 79.622
+        },
+        {
+          "id": "1686316185-t11",
+          "title": "Conni am Strand - Teil 01",
+          "index": 10,
+          "startTime": 820.76,
+          "duration": 89.385
+        },
+        {
+          "id": "1686316185-t12",
+          "title": "Conni am Strand - Teil 02",
+          "index": 11,
+          "startTime": 910.145,
+          "duration": 89.172
+        },
+        {
+          "id": "1686316185-t13",
+          "title": "Conni am Strand - Teil 03",
+          "index": 12,
+          "startTime": 999.317,
+          "duration": 83.775
+        },
+        {
+          "id": "1686316185-t14",
+          "title": "Conni am Strand - Teil 04",
+          "index": 13,
+          "startTime": 1083.092,
+          "duration": 86.471
+        },
+        {
+          "id": "1686316185-t15",
+          "title": "Conni am Strand - Teil 05",
+          "index": 14,
+          "startTime": 1169.563,
+          "duration": 109.13
+        },
+        {
+          "id": "1686316185-t16",
+          "title": "Conni am Strand - Teil 06",
+          "index": 15,
+          "startTime": 1278.693,
+          "duration": 88.939
+        },
+        {
+          "id": "1686316185-t17",
+          "title": "Conni am Strand - Teil 07",
+          "index": 16,
+          "startTime": 1367.632,
+          "duration": 83.984
+        },
+        {
+          "id": "1686316185-t18",
+          "title": "Conni am Strand - Teil 08",
+          "index": 17,
+          "startTime": 1451.616,
+          "duration": 80.573
+        },
+        {
+          "id": "1686316185-t19",
+          "title": "Conni am Strand - Teil 09",
+          "index": 18,
+          "startTime": 1532.189,
+          "duration": 82.63
+        },
+        {
+          "id": "1686316185-t20",
+          "title": "Conni am Strand - Teil 10",
+          "index": 19,
+          "startTime": 1614.819,
+          "duration": 72.608
+        },
+        {
+          "id": "1686316185-t21",
+          "title": "Conni in den Bergen - Teil 01",
+          "index": 20,
+          "startTime": 1687.427,
+          "duration": 80.709
+        },
+        {
+          "id": "1686316185-t22",
+          "title": "Conni in den Bergen - Teil 02",
+          "index": 21,
+          "startTime": 1768.136,
+          "duration": 80.223
+        },
+        {
+          "id": "1686316185-t23",
+          "title": "Conni in den Bergen - Teil 03",
+          "index": 22,
+          "startTime": 1848.359,
+          "duration": 94.044
+        },
+        {
+          "id": "1686316185-t24",
+          "title": "Conni in den Bergen - Teil 04",
+          "index": 23,
+          "startTime": 1942.403,
+          "duration": 117.545
+        },
+        {
+          "id": "1686316185-t25",
+          "title": "Conni in den Bergen - Teil 05",
+          "index": 24,
+          "startTime": 2059.948,
+          "duration": 82.475
+        },
+        {
+          "id": "1686316185-t26",
+          "title": "Conni in den Bergen - Teil 06",
+          "index": 25,
+          "startTime": 2142.423,
+          "duration": 94.807
+        },
+        {
+          "id": "1686316185-t27",
+          "title": "Conni in den Bergen - Teil 07",
+          "index": 26,
+          "startTime": 2237.23,
+          "duration": 90.488
+        },
+        {
+          "id": "1686316185-t28",
+          "title": "Conni in den Bergen - Teil 08",
+          "index": 27,
+          "startTime": 2327.718,
+          "duration": 85.519
+        },
+        {
+          "id": "1686316185-t29",
+          "title": "Conni in den Bergen - Teil 09",
+          "index": 28,
+          "startTime": 2413.237,
+          "duration": 74.511
+        },
+        {
+          "id": "1686316185-t30",
+          "title": "Conni macht Musik - Teil 01",
+          "index": 29,
+          "startTime": 2487.748,
+          "duration": 89.618
+        },
+        {
+          "id": "1686316185-t31",
+          "title": "Conni macht Musik - Teil 02",
+          "index": 30,
+          "startTime": 2577.366,
+          "duration": 87.638
+        },
+        {
+          "id": "1686316185-t32",
+          "title": "Conni macht Musik - Teil 03",
+          "index": 31,
+          "startTime": 2665.004,
+          "duration": 85.639
+        },
+        {
+          "id": "1686316185-t33",
+          "title": "Conni macht Musik - Teil 04",
+          "index": 32,
+          "startTime": 2750.643,
+          "duration": 70.132
+        },
+        {
+          "id": "1686316185-t34",
+          "title": "Conni macht Musik - Teil 05",
+          "index": 33,
+          "startTime": 2820.775,
+          "duration": 79.657
+        },
+        {
+          "id": "1686316185-t35",
+          "title": "Conni macht Musik - Teil 06",
+          "index": 34,
+          "startTime": 2900.432,
+          "duration": 87.658
+        },
+        {
+          "id": "1686316185-t36",
+          "title": "Conni macht Musik - Teil 07",
+          "index": 35,
+          "startTime": 2988.09,
+          "duration": 85.969
+        },
+        {
+          "id": "1686316185-t37",
+          "title": "Conni macht Musik - Teil 08",
+          "index": 36,
+          "startTime": 3074.059,
+          "duration": 58.852
+        },
+        {
+          "id": "1686316185-t38",
+          "title": "Conni macht Musik - Teil 09",
+          "index": 37,
+          "startTime": 3132.911,
+          "duration": 80.745
+        }
+      ]
+    },
+    {
+      "id": "1686054122",
+      "title": "07: Conni beim Frisör / Conni auf Waldsafari / Conni auf der Burg / Conni und das Froschkonzert (Vier Hörspiele zur TV-Serie)",
+      "episodeNumber": 7,
+      "releaseDate": "2015-06-26",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/8b/d8/248bd8df-059c-3816-8ffa-94b21d6e783a/4057664075147.jpg/100x100bb.jpg",
+      "description": "Dieses Album besteht aus vier Hörspielen zur TV-Serie 'Meine Freundin Conni'. Jedes Hörspiel ist ca. 7 Minuten lang und bietet unterhaltsame Geschichten für Kinder.",
+      "totalDuration": 3115.534,
+      "platforms": {
+        "appleMusic": "1686054122"
+      },
+      "chapters": [
+        {
+          "id": "1686054122-t01",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 40.6
+        },
+        {
+          "id": "1686054122-t02",
+          "title": "Conni beim Frisör - Teil 01",
+          "index": 1,
+          "startTime": 40.6,
+          "duration": 89.497
+        },
+        {
+          "id": "1686054122-t03",
+          "title": "Conni beim Frisör - Teil 02",
+          "index": 2,
+          "startTime": 130.097,
+          "duration": 82.962
+        },
+        {
+          "id": "1686054122-t04",
+          "title": "Conni beim Frisör - Teil 03",
+          "index": 3,
+          "startTime": 213.059,
+          "duration": 87.502
+        },
+        {
+          "id": "1686054122-t05",
+          "title": "Conni beim Frisör - Teil 04",
+          "index": 4,
+          "startTime": 300.561,
+          "duration": 81.478
+        },
+        {
+          "id": "1686054122-t06",
+          "title": "Conni beim Frisör - Teil 05",
+          "index": 5,
+          "startTime": 382.039,
+          "duration": 96.101
+        },
+        {
+          "id": "1686054122-t07",
+          "title": "Conni beim Frisör - Teil 06",
+          "index": 6,
+          "startTime": 478.14,
+          "duration": 86.92
+        },
+        {
+          "id": "1686054122-t08",
+          "title": "Conni beim Frisör - Teil 07",
+          "index": 7,
+          "startTime": 565.06,
+          "duration": 103.458
+        },
+        {
+          "id": "1686054122-t09",
+          "title": "Conni beim Frisör - Teil 08",
+          "index": 8,
+          "startTime": 668.518,
+          "duration": 86.388
+        },
+        {
+          "id": "1686054122-t10",
+          "title": "Conni auf Waldsafari - Teil 01",
+          "index": 9,
+          "startTime": 754.906,
+          "duration": 80.379
+        },
+        {
+          "id": "1686054122-t11",
+          "title": "Conni auf Waldsafari - Teil 02",
+          "index": 10,
+          "startTime": 835.285,
+          "duration": 90.996
+        },
+        {
+          "id": "1686054122-t12",
+          "title": "Conni auf Waldsafari - Teil 03",
+          "index": 11,
+          "startTime": 926.281,
+          "duration": 102.817
+        },
+        {
+          "id": "1686054122-t13",
+          "title": "Conni auf Waldsafari - Teil 04",
+          "index": 12,
+          "startTime": 1029.098,
+          "duration": 109.475
+        },
+        {
+          "id": "1686054122-t14",
+          "title": "Conni auf Waldsafari - Teil 05",
+          "index": 13,
+          "startTime": 1138.573,
+          "duration": 98.391
+        },
+        {
+          "id": "1686054122-t15",
+          "title": "Conni auf Waldsafari - Teil 06",
+          "index": 14,
+          "startTime": 1236.964,
+          "duration": 107.961
+        },
+        {
+          "id": "1686054122-t16",
+          "title": "Conni auf Waldsafari - Teil 07",
+          "index": 15,
+          "startTime": 1344.925,
+          "duration": 97.363
+        },
+        {
+          "id": "1686054122-t17",
+          "title": "Conni auf Waldsafari - Teil 08",
+          "index": 16,
+          "startTime": 1442.288,
+          "duration": 80.232
+        },
+        {
+          "id": "1686054122-t18",
+          "title": "Conni auf der Burg - Teil 01",
+          "index": 17,
+          "startTime": 1522.52,
+          "duration": 80.145
+        },
+        {
+          "id": "1686054122-t19",
+          "title": "Conni auf der Burg - Teil 02",
+          "index": 18,
+          "startTime": 1602.665,
+          "duration": 90.957
+        },
+        {
+          "id": "1686054122-t20",
+          "title": "Conni auf der Burg - Teil 03",
+          "index": 19,
+          "startTime": 1693.622,
+          "duration": 80.437
+        },
+        {
+          "id": "1686054122-t21",
+          "title": "Conni auf der Burg - Teil 04",
+          "index": 20,
+          "startTime": 1774.059,
+          "duration": 83.232
+        },
+        {
+          "id": "1686054122-t22",
+          "title": "Conni auf der Burg - Teil 05",
+          "index": 21,
+          "startTime": 1857.291,
+          "duration": 76.229
+        },
+        {
+          "id": "1686054122-t23",
+          "title": "Conni auf der Burg - Teil 06",
+          "index": 22,
+          "startTime": 1933.52,
+          "duration": 80.456
+        },
+        {
+          "id": "1686054122-t24",
+          "title": "Conni auf der Burg - Teil 07",
+          "index": 23,
+          "startTime": 2013.976,
+          "duration": 99.77
+        },
+        {
+          "id": "1686054122-t25",
+          "title": "Conni auf der Burg - Teil 08",
+          "index": 24,
+          "startTime": 2113.746,
+          "duration": 80.67
+        },
+        {
+          "id": "1686054122-t26",
+          "title": "Conni auf der Burg - Teil 09",
+          "index": 25,
+          "startTime": 2194.416,
+          "duration": 79.583
+        },
+        {
+          "id": "1686054122-t27",
+          "title": "Conni auf der Burg - Teil 10",
+          "index": 26,
+          "startTime": 2273.999,
+          "duration": 96.882
+        },
+        {
+          "id": "1686054122-t28",
+          "title": "Conni und das Froschkonzert - Teil 01",
+          "index": 27,
+          "startTime": 2370.881,
+          "duration": 104.956
+        },
+        {
+          "id": "1686054122-t29",
+          "title": "Conni und das Froschkonzert - Teil 02",
+          "index": 28,
+          "startTime": 2475.837,
+          "duration": 104.312
+        },
+        {
+          "id": "1686054122-t30",
+          "title": "Conni und das Froschkonzert - Teil 03",
+          "index": 29,
+          "startTime": 2580.149,
+          "duration": 81.449
+        },
+        {
+          "id": "1686054122-t31",
+          "title": "Conni und das Froschkonzert - Teil 04",
+          "index": 30,
+          "startTime": 2661.598,
+          "duration": 85.616
+        },
+        {
+          "id": "1686054122-t32",
+          "title": "Conni und das Froschkonzert - Teil 05",
+          "index": 31,
+          "startTime": 2747.214,
+          "duration": 84.688
+        },
+        {
+          "id": "1686054122-t33",
+          "title": "Conni und das Froschkonzert - Teil 06",
+          "index": 32,
+          "startTime": 2831.902,
+          "duration": 82.203
+        },
+        {
+          "id": "1686054122-t34",
+          "title": "Conni und das Froschkonzert - Teil 07",
+          "index": 33,
+          "startTime": 2914.105,
+          "duration": 111.726
+        },
+        {
+          "id": "1686054122-t35",
+          "title": "Conni und das Froschkonzert - Teil 08",
+          "index": 34,
+          "startTime": 3025.831,
+          "duration": 89.703
+        }
+      ]
+    },
+    {
+      "id": "1686068484",
+      "title": "10: Conni im Advent / Conni fährt Schlittschuh / Conni lässt Drachen steigen / Conni und der fiese Schnupfen (Vier Hörspiele zur TV-Serie)",
+      "episodeNumber": 10,
+      "releaseDate": "2015-11-27",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/46/4e/e8464e71-d7ef-19cc-af6b-5ec22c456f9b/4057664075239.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele aus der beliebten Kinderbuchreihe um Conni, die auf CD veröffentlicht sind.",
+      "totalDuration": 3090.401,
+      "platforms": {
+        "appleMusic": "1686068484"
+      },
+      "chapters": [
+        {
+          "id": "1686068484-t01",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 37.587
+        },
+        {
+          "id": "1686068484-t02",
+          "title": "Conni im Advent - Teil 01",
+          "index": 1,
+          "startTime": 37.587,
+          "duration": 97.693
+        },
+        {
+          "id": "1686068484-t03",
+          "title": "Conni im Advent - Teil 02",
+          "index": 2,
+          "startTime": 135.28,
+          "duration": 87.638
+        },
+        {
+          "id": "1686068484-t04",
+          "title": "Conni im Advent - Teil 03",
+          "index": 3,
+          "startTime": 222.918,
+          "duration": 82.014
+        },
+        {
+          "id": "1686068484-t05",
+          "title": "Conni im Advent - Teil 04",
+          "index": 4,
+          "startTime": 304.932,
+          "duration": 66.093
+        },
+        {
+          "id": "1686068484-t06",
+          "title": "Conni im Advent - Teil 05",
+          "index": 5,
+          "startTime": 371.025,
+          "duration": 80.603
+        },
+        {
+          "id": "1686068484-t07",
+          "title": "Conni im Advent - Teil 06",
+          "index": 6,
+          "startTime": 451.628,
+          "duration": 80.01
+        },
+        {
+          "id": "1686068484-t08",
+          "title": "Conni im Advent - Teil 07",
+          "index": 7,
+          "startTime": 531.638,
+          "duration": 91.073
+        },
+        {
+          "id": "1686068484-t09",
+          "title": "Conni im Advent - Teil 08",
+          "index": 8,
+          "startTime": 622.711,
+          "duration": 112.794
+        },
+        {
+          "id": "1686068484-t10",
+          "title": "Conni im Advent - Teil 09",
+          "index": 9,
+          "startTime": 735.505,
+          "duration": 109.937
+        },
+        {
+          "id": "1686068484-t11",
+          "title": "Conni fährt Schlittschuh - Teil 01",
+          "index": 10,
+          "startTime": 845.442,
+          "duration": 101.497
+        },
+        {
+          "id": "1686068484-t12",
+          "title": "Conni fährt Schlittschuh - Teil 02",
+          "index": 11,
+          "startTime": 946.939,
+          "duration": 80.67
+        },
+        {
+          "id": "1686068484-t13",
+          "title": "Conni fährt Schlittschuh - Teil 03",
+          "index": 12,
+          "startTime": 1027.609,
+          "duration": 100.973
+        },
+        {
+          "id": "1686068484-t14",
+          "title": "Conni fährt Schlittschuh - Teil 04",
+          "index": 13,
+          "startTime": 1128.582,
+          "duration": 82.313
+        },
+        {
+          "id": "1686068484-t15",
+          "title": "Conni fährt Schlittschuh - Teil 05",
+          "index": 14,
+          "startTime": 1210.895,
+          "duration": 87.192
+        },
+        {
+          "id": "1686068484-t16",
+          "title": "Conni fährt Schlittschuh - Teil 06",
+          "index": 15,
+          "startTime": 1298.087,
+          "duration": 88.317
+        },
+        {
+          "id": "1686068484-t17",
+          "title": "Conni fährt Schlittschuh - Teil 07",
+          "index": 16,
+          "startTime": 1386.404,
+          "duration": 85.212
+        },
+        {
+          "id": "1686068484-t18",
+          "title": "Conni fährt Schlittschuh - Teil 08",
+          "index": 17,
+          "startTime": 1471.616,
+          "duration": 116.492
+        },
+        {
+          "id": "1686068484-t19",
+          "title": "Conni lässt Drachen steigen - Teil 01",
+          "index": 18,
+          "startTime": 1588.108,
+          "duration": 84.086
+        },
+        {
+          "id": "1686068484-t20",
+          "title": "Conni lässt Drachen steigen - Teil 02",
+          "index": 19,
+          "startTime": 1672.194,
+          "duration": 85.736
+        },
+        {
+          "id": "1686068484-t21",
+          "title": "Conni lässt Drachen steigen - Teil 03",
+          "index": 20,
+          "startTime": 1757.93,
+          "duration": 83.581
+        },
+        {
+          "id": "1686068484-t22",
+          "title": "Conni lässt Drachen steigen - Teil 04",
+          "index": 21,
+          "startTime": 1841.511,
+          "duration": 84.89
+        },
+        {
+          "id": "1686068484-t23",
+          "title": "Conni lässt Drachen steigen - Teil 05",
+          "index": 22,
+          "startTime": 1926.401,
+          "duration": 82.844
+        },
+        {
+          "id": "1686068484-t24",
+          "title": "Conni lässt Drachen steigen - Teil 06",
+          "index": 23,
+          "startTime": 2009.245,
+          "duration": 81.718
+        },
+        {
+          "id": "1686068484-t25",
+          "title": "Conni lässt Drachen steigen - Teil 07",
+          "index": 24,
+          "startTime": 2090.963,
+          "duration": 86.978
+        },
+        {
+          "id": "1686068484-t26",
+          "title": "Conni lässt Drachen steigen - Teil 08",
+          "index": 25,
+          "startTime": 2177.941,
+          "duration": 106.34
+        },
+        {
+          "id": "1686068484-t27",
+          "title": "Conni und der fiese Schnupfen - Teil 01",
+          "index": 26,
+          "startTime": 2284.281,
+          "duration": 84.668
+        },
+        {
+          "id": "1686068484-t28",
+          "title": "Conni und der fiese Schnupfen - Teil 02",
+          "index": 27,
+          "startTime": 2368.949,
+          "duration": 102.429
+        },
+        {
+          "id": "1686068484-t29",
+          "title": "Conni und der fiese Schnupfen - Teil 03",
+          "index": 28,
+          "startTime": 2471.378,
+          "duration": 96.839
+        },
+        {
+          "id": "1686068484-t30",
+          "title": "Conni und der fiese Schnupfen - Teil 04",
+          "index": 29,
+          "startTime": 2568.217,
+          "duration": 111.504
+        },
+        {
+          "id": "1686068484-t31",
+          "title": "Conni und der fiese Schnupfen - Teil 05",
+          "index": 30,
+          "startTime": 2679.721,
+          "duration": 83.814
+        },
+        {
+          "id": "1686068484-t32",
+          "title": "Conni und der fiese Schnupfen - Teil 06",
+          "index": 31,
+          "startTime": 2763.535,
+          "duration": 95.053
+        },
+        {
+          "id": "1686068484-t33",
+          "title": "Conni und der fiese Schnupfen - Teil 07",
+          "index": 32,
+          "startTime": 2858.588,
+          "duration": 108.902
+        },
+        {
+          "id": "1686068484-t34",
+          "title": "Conni und der fiese Schnupfen - Teil 08",
+          "index": 33,
+          "startTime": 2967.49,
+          "duration": 122.911
+        }
+      ]
+    },
+    {
       "id": "1686208249",
       "title": "Conni und die verflixte 13",
       "episodeNumber": 13,
@@ -642,6 +1930,663 @@
           "index": 46,
           "startTime": 4273.44,
           "duration": 78.707
+        }
+      ]
+    },
+    {
+      "id": "1582038401",
+      "title": "Connis Lieblingswitze: Lachen, bis die Streifen wackeln (Meine Freundin Conni - ab 6)",
+      "episodeNumber": null,
+      "releaseDate": "2014-07-22",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/52/4b/97524b9d-6b8e-0780-b524-14ea34a9f4d0/4066338226198_cover.jpg/100x100bb.jpg",
+      "description": "Dieses Hörspielalbum stammt aus Deutschland und richtet sich an Kinder ab 6 Jahren. Es bietet unterhaltsame Witze von Conni, die vor allem auf Lachen abzielen und somit ideal für junge Zuhörer geeignet sind.",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1582038401"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1517774908",
+      "title": "Geheimnis um Kater Mau - Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": "2020-07-03",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/95/e8/96/95e896a6-7920-9e3d-901c-65773b8a60ed/886448329596.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel zur Verfilmung, das Kater Mau als Protagonisten zeigt.",
+      "totalDuration": 4194.96,
+      "platforms": {
+        "appleMusic": "1517774908"
+      },
+      "chapters": [
+        {
+          "id": "1517774908-t01",
+          "title": "Geheimnis um Kater Mau (Inhaltsangabe)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 94.613
+        },
+        {
+          "id": "1517774908-t02",
+          "title": "Geheimnis um Kater Mau (Teil 01)",
+          "index": 1,
+          "startTime": 94.613,
+          "duration": 106.68
+        },
+        {
+          "id": "1517774908-t03",
+          "title": "Geheimnis um Kater Mau (Teil 02)",
+          "index": 2,
+          "startTime": 201.293,
+          "duration": 87.4
+        },
+        {
+          "id": "1517774908-t04",
+          "title": "Geheimnis um Kater Mau (Teil 03)",
+          "index": 3,
+          "startTime": 288.693,
+          "duration": 98.107
+        },
+        {
+          "id": "1517774908-t05",
+          "title": "Geheimnis um Kater Mau (Teil 04)",
+          "index": 4,
+          "startTime": 386.8,
+          "duration": 108.947
+        },
+        {
+          "id": "1517774908-t06",
+          "title": "Geheimnis um Kater Mau (Teil 05)",
+          "index": 5,
+          "startTime": 495.747,
+          "duration": 92.28
+        },
+        {
+          "id": "1517774908-t07",
+          "title": "Geheimnis um Kater Mau (Teil 06)",
+          "index": 6,
+          "startTime": 588.027,
+          "duration": 103.96
+        },
+        {
+          "id": "1517774908-t08",
+          "title": "Geheimnis um Kater Mau (Teil 07)",
+          "index": 7,
+          "startTime": 691.987,
+          "duration": 100.48
+        },
+        {
+          "id": "1517774908-t09",
+          "title": "Geheimnis um Kater Mau (Teil 08)",
+          "index": 8,
+          "startTime": 792.467,
+          "duration": 100.173
+        },
+        {
+          "id": "1517774908-t10",
+          "title": "Geheimnis um Kater Mau (Teil 09)",
+          "index": 9,
+          "startTime": 892.64,
+          "duration": 96.627
+        },
+        {
+          "id": "1517774908-t11",
+          "title": "Geheimnis um Kater Mau (Teil 10)",
+          "index": 10,
+          "startTime": 989.267,
+          "duration": 107.333
+        },
+        {
+          "id": "1517774908-t12",
+          "title": "Geheimnis um Kater Mau (Teil 11)",
+          "index": 11,
+          "startTime": 1096.6,
+          "duration": 99.44
+        },
+        {
+          "id": "1517774908-t13",
+          "title": "Geheimnis um Kater Mau (Teil 12)",
+          "index": 12,
+          "startTime": 1196.04,
+          "duration": 100.093
+        },
+        {
+          "id": "1517774908-t14",
+          "title": "Geheimnis um Kater Mau (Teil 13)",
+          "index": 13,
+          "startTime": 1296.133,
+          "duration": 103.4
+        },
+        {
+          "id": "1517774908-t15",
+          "title": "Geheimnis um Kater Mau (Teil 14)",
+          "index": 14,
+          "startTime": 1399.533,
+          "duration": 95.08
+        },
+        {
+          "id": "1517774908-t16",
+          "title": "Geheimnis um Kater Mau (Teil 15)",
+          "index": 15,
+          "startTime": 1494.613,
+          "duration": 99.173
+        },
+        {
+          "id": "1517774908-t17",
+          "title": "Geheimnis um Kater Mau (Teil 16)",
+          "index": 16,
+          "startTime": 1593.786,
+          "duration": 103.973
+        },
+        {
+          "id": "1517774908-t18",
+          "title": "Geheimnis um Kater Mau (Teil 17)",
+          "index": 17,
+          "startTime": 1697.759,
+          "duration": 95.52
+        },
+        {
+          "id": "1517774908-t19",
+          "title": "Geheimnis um Kater Mau (Teil 18)",
+          "index": 18,
+          "startTime": 1793.279,
+          "duration": 97.16
+        },
+        {
+          "id": "1517774908-t20",
+          "title": "Geheimnis um Kater Mau (Teil 19)",
+          "index": 19,
+          "startTime": 1890.439,
+          "duration": 109.627
+        },
+        {
+          "id": "1517774908-t21",
+          "title": "Geheimnis um Kater Mau (Teil 20)",
+          "index": 20,
+          "startTime": 2000.066,
+          "duration": 86.613
+        },
+        {
+          "id": "1517774908-t22",
+          "title": "Geheimnis um Kater Mau (Teil 21)",
+          "index": 21,
+          "startTime": 2086.679,
+          "duration": 111.947
+        },
+        {
+          "id": "1517774908-t23",
+          "title": "Geheimnis um Kater Mau (Teil 22)",
+          "index": 22,
+          "startTime": 2198.626,
+          "duration": 95.08
+        },
+        {
+          "id": "1517774908-t24",
+          "title": "Geheimnis um Kater Mau (Teil 23)",
+          "index": 23,
+          "startTime": 2293.706,
+          "duration": 94.987
+        },
+        {
+          "id": "1517774908-t25",
+          "title": "Geheimnis um Kater Mau (Teil 24)",
+          "index": 24,
+          "startTime": 2388.693,
+          "duration": 102.52
+        },
+        {
+          "id": "1517774908-t26",
+          "title": "Geheimnis um Kater Mau (Teil 25)",
+          "index": 25,
+          "startTime": 2491.213,
+          "duration": 108.56
+        },
+        {
+          "id": "1517774908-t27",
+          "title": "Geheimnis um Kater Mau (Teil 26)",
+          "index": 26,
+          "startTime": 2599.773,
+          "duration": 92.293
+        },
+        {
+          "id": "1517774908-t28",
+          "title": "Geheimnis um Kater Mau (Teil 27)",
+          "index": 27,
+          "startTime": 2692.066,
+          "duration": 104.267
+        },
+        {
+          "id": "1517774908-t29",
+          "title": "Geheimnis um Kater Mau (Teil 28)",
+          "index": 28,
+          "startTime": 2796.333,
+          "duration": 100.067
+        },
+        {
+          "id": "1517774908-t30",
+          "title": "Geheimnis um Kater Mau (Teil 29)",
+          "index": 29,
+          "startTime": 2896.4,
+          "duration": 100.827
+        },
+        {
+          "id": "1517774908-t31",
+          "title": "Geheimnis um Kater Mau (Teil 30)",
+          "index": 30,
+          "startTime": 2997.227,
+          "duration": 96.56
+        },
+        {
+          "id": "1517774908-t32",
+          "title": "Geheimnis um Kater Mau (Teil 31)",
+          "index": 31,
+          "startTime": 3093.787,
+          "duration": 102.96
+        },
+        {
+          "id": "1517774908-t33",
+          "title": "Geheimnis um Kater Mau (Teil 32)",
+          "index": 32,
+          "startTime": 3196.747,
+          "duration": 102.107
+        },
+        {
+          "id": "1517774908-t34",
+          "title": "Geheimnis um Kater Mau (Teil 33)",
+          "index": 33,
+          "startTime": 3298.854,
+          "duration": 95.68
+        },
+        {
+          "id": "1517774908-t35",
+          "title": "Geheimnis um Kater Mau (Teil 34)",
+          "index": 34,
+          "startTime": 3394.534,
+          "duration": 96.053
+        },
+        {
+          "id": "1517774908-t36",
+          "title": "Geheimnis um Kater Mau (Teil 35)",
+          "index": 35,
+          "startTime": 3490.587,
+          "duration": 103.267
+        },
+        {
+          "id": "1517774908-t37",
+          "title": "Geheimnis um Kater Mau (Teil 36)",
+          "index": 36,
+          "startTime": 3593.854,
+          "duration": 97.8
+        },
+        {
+          "id": "1517774908-t38",
+          "title": "Geheimnis um Kater Mau (Teil 37)",
+          "index": 37,
+          "startTime": 3691.654,
+          "duration": 109.947
+        },
+        {
+          "id": "1517774908-t39",
+          "title": "Geheimnis um Kater Mau (Teil 38)",
+          "index": 38,
+          "startTime": 3801.601,
+          "duration": 93.013
+        },
+        {
+          "id": "1517774908-t40",
+          "title": "Geheimnis um Kater Mau (Teil 39)",
+          "index": 39,
+          "startTime": 3894.614,
+          "duration": 100.0
+        },
+        {
+          "id": "1517774908-t41",
+          "title": "Geheimnis um Kater Mau (Teil 40)",
+          "index": 40,
+          "startTime": 3994.614,
+          "duration": 109.173
+        },
+        {
+          "id": "1517774908-t42",
+          "title": "Geheimnis um Kater Mau (Outro)",
+          "index": 41,
+          "startTime": 4103.787,
+          "duration": 91.173
+        }
+      ]
+    },
+    {
+      "id": "1893285590",
+      "title": "Abenteuer mit Kranich Klaus - Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": "2026-05-15",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/ea/62/d7ea6280-d854-b671-7e40-83c548566228/196874107072.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'Abenteuer mit Kranich Klaus - Hörspiel zum Kinofilm' von der Künstlerin Meine Freundin Conni. Es enthält insgesamt 46 Tracks und gehört zum Genre Hörspiele.",
+      "totalDuration": 4306.572,
+      "platforms": {
+        "appleMusic": "1893285590"
+      },
+      "chapters": [
+        {
+          "id": "1893285590-t01",
+          "title": "Inhaltsangabe: Abenteuer mit Kranich Klaus",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 73.72
+        },
+        {
+          "id": "1893285590-t02",
+          "title": "Kapitel 01: Abenteuer mit Kranich Klaus",
+          "index": 1,
+          "startTime": 73.72,
+          "duration": 90.04
+        },
+        {
+          "id": "1893285590-t03",
+          "title": "Kapitel 02: Abenteuer mit Kranich Klaus",
+          "index": 2,
+          "startTime": 163.76,
+          "duration": 90.0
+        },
+        {
+          "id": "1893285590-t04",
+          "title": "Kapitel 03: Abenteuer mit Kranich Klaus",
+          "index": 3,
+          "startTime": 253.76,
+          "duration": 101.8
+        },
+        {
+          "id": "1893285590-t05",
+          "title": "Kapitel 04: Abenteuer mit Kranich Klaus",
+          "index": 4,
+          "startTime": 355.56,
+          "duration": 90.88
+        },
+        {
+          "id": "1893285590-t06",
+          "title": "Kapitel 05: Abenteuer mit Kranich Klaus",
+          "index": 5,
+          "startTime": 446.44,
+          "duration": 93.64
+        },
+        {
+          "id": "1893285590-t07",
+          "title": "Kapitel 06: Abenteuer mit Kranich Klaus",
+          "index": 6,
+          "startTime": 540.08,
+          "duration": 91.893
+        },
+        {
+          "id": "1893285590-t08",
+          "title": "Kapitel 07: Abenteuer mit Kranich Klaus",
+          "index": 7,
+          "startTime": 631.973,
+          "duration": 96.547
+        },
+        {
+          "id": "1893285590-t09",
+          "title": "Kapitel 08: Abenteuer mit Kranich Klaus",
+          "index": 8,
+          "startTime": 728.52,
+          "duration": 93.693
+        },
+        {
+          "id": "1893285590-t10",
+          "title": "Kapitel 09: Abenteuer mit Kranich Klaus",
+          "index": 9,
+          "startTime": 822.213,
+          "duration": 92.32
+        },
+        {
+          "id": "1893285590-t11",
+          "title": "Kapitel 10: Abenteuer mit Kranich Klaus",
+          "index": 10,
+          "startTime": 914.533,
+          "duration": 92.16
+        },
+        {
+          "id": "1893285590-t12",
+          "title": "Kapitel 11: Abenteuer mit Kranich Klaus",
+          "index": 11,
+          "startTime": 1006.693,
+          "duration": 90.92
+        },
+        {
+          "id": "1893285590-t13",
+          "title": "Kapitel 12: Abenteuer mit Kranich Klaus",
+          "index": 12,
+          "startTime": 1097.613,
+          "duration": 91.36
+        },
+        {
+          "id": "1893285590-t14",
+          "title": "Kapitel 13: Abenteuer mit Kranich Klaus",
+          "index": 13,
+          "startTime": 1188.973,
+          "duration": 93.853
+        },
+        {
+          "id": "1893285590-t15",
+          "title": "Kapitel 14: Abenteuer mit Kranich Klaus",
+          "index": 14,
+          "startTime": 1282.826,
+          "duration": 90.0
+        },
+        {
+          "id": "1893285590-t16",
+          "title": "Kapitel 15: Abenteuer mit Kranich Klaus",
+          "index": 15,
+          "startTime": 1372.826,
+          "duration": 97.627
+        },
+        {
+          "id": "1893285590-t17",
+          "title": "Kapitel 16: Abenteuer mit Kranich Klaus",
+          "index": 16,
+          "startTime": 1470.453,
+          "duration": 91.48
+        },
+        {
+          "id": "1893285590-t18",
+          "title": "Kapitel 17: Abenteuer mit Kranich Klaus",
+          "index": 17,
+          "startTime": 1561.933,
+          "duration": 90.0
+        },
+        {
+          "id": "1893285590-t19",
+          "title": "Kapitel 18: Abenteuer mit Kranich Klaus",
+          "index": 18,
+          "startTime": 1651.933,
+          "duration": 92.907
+        },
+        {
+          "id": "1893285590-t20",
+          "title": "Kapitel 19: Abenteuer mit Kranich Klaus",
+          "index": 19,
+          "startTime": 1744.84,
+          "duration": 91.453
+        },
+        {
+          "id": "1893285590-t21",
+          "title": "Kapitel 20: Abenteuer mit Kranich Klaus",
+          "index": 20,
+          "startTime": 1836.293,
+          "duration": 92.72
+        },
+        {
+          "id": "1893285590-t22",
+          "title": "Kapitel 21: Abenteuer mit Kranich Klaus",
+          "index": 21,
+          "startTime": 1929.013,
+          "duration": 91.4
+        },
+        {
+          "id": "1893285590-t23",
+          "title": "Kapitel 22: Abenteuer mit Kranich Klaus",
+          "index": 22,
+          "startTime": 2020.413,
+          "duration": 98.44
+        },
+        {
+          "id": "1893285590-t24",
+          "title": "Kapitel 23: Abenteuer mit Kranich Klaus",
+          "index": 23,
+          "startTime": 2118.853,
+          "duration": 90.0
+        },
+        {
+          "id": "1893285590-t25",
+          "title": "Kapitel 24: Abenteuer mit Kranich Klaus",
+          "index": 24,
+          "startTime": 2208.853,
+          "duration": 90.56
+        },
+        {
+          "id": "1893285590-t26",
+          "title": "Kapitel 25: Abenteuer mit Kranich Klaus",
+          "index": 25,
+          "startTime": 2299.413,
+          "duration": 92.693
+        },
+        {
+          "id": "1893285590-t27",
+          "title": "Kapitel 26: Abenteuer mit Kranich Klaus",
+          "index": 26,
+          "startTime": 2392.106,
+          "duration": 93.227
+        },
+        {
+          "id": "1893285590-t28",
+          "title": "Kapitel 27: Abenteuer mit Kranich Klaus",
+          "index": 27,
+          "startTime": 2485.333,
+          "duration": 91.587
+        },
+        {
+          "id": "1893285590-t29",
+          "title": "Kapitel 28: Abenteuer mit Kranich Klaus",
+          "index": 28,
+          "startTime": 2576.92,
+          "duration": 91.28
+        },
+        {
+          "id": "1893285590-t30",
+          "title": "Kapitel 29: Abenteuer mit Kranich Klaus",
+          "index": 29,
+          "startTime": 2668.2,
+          "duration": 90.0
+        },
+        {
+          "id": "1893285590-t31",
+          "title": "Kapitel 30: Abenteuer mit Kranich Klaus",
+          "index": 30,
+          "startTime": 2758.2,
+          "duration": 90.0
+        },
+        {
+          "id": "1893285590-t32",
+          "title": "Kapitel 31: Abenteuer mit Kranich Klaus",
+          "index": 31,
+          "startTime": 2848.2,
+          "duration": 92.28
+        },
+        {
+          "id": "1893285590-t33",
+          "title": "Kapitel 32: Abenteuer mit Kranich Klaus",
+          "index": 32,
+          "startTime": 2940.48,
+          "duration": 92.0
+        },
+        {
+          "id": "1893285590-t34",
+          "title": "Kapitel 33: Abenteuer mit Kranich Klaus",
+          "index": 33,
+          "startTime": 3032.48,
+          "duration": 91.04
+        },
+        {
+          "id": "1893285590-t35",
+          "title": "Kapitel 34: Abenteuer mit Kranich Klaus",
+          "index": 34,
+          "startTime": 3123.52,
+          "duration": 90.68
+        },
+        {
+          "id": "1893285590-t36",
+          "title": "Kapitel 35: Abenteuer mit Kranich Klaus",
+          "index": 35,
+          "startTime": 3214.2,
+          "duration": 90.213
+        },
+        {
+          "id": "1893285590-t37",
+          "title": "Kapitel 36: Abenteuer mit Kranich Klaus",
+          "index": 36,
+          "startTime": 3304.413,
+          "duration": 92.093
+        },
+        {
+          "id": "1893285590-t38",
+          "title": "Kapitel 37: Abenteuer mit Kranich Klaus",
+          "index": 37,
+          "startTime": 3396.506,
+          "duration": 91.08
+        },
+        {
+          "id": "1893285590-t39",
+          "title": "Kapitel 38: Abenteuer mit Kranich Klaus",
+          "index": 38,
+          "startTime": 3487.586,
+          "duration": 90.0
+        },
+        {
+          "id": "1893285590-t40",
+          "title": "Kapitel 39: Abenteuer mit Kranich Klaus",
+          "index": 39,
+          "startTime": 3577.586,
+          "duration": 93.24
+        },
+        {
+          "id": "1893285590-t41",
+          "title": "Kapitel 40: Abenteuer mit Kranich Klaus",
+          "index": 40,
+          "startTime": 3670.826,
+          "duration": 90.44
+        },
+        {
+          "id": "1893285590-t42",
+          "title": "Kapitel 41: Abenteuer mit Kranich Klaus",
+          "index": 41,
+          "startTime": 3761.266,
+          "duration": 93.453
+        },
+        {
+          "id": "1893285590-t43",
+          "title": "Kapitel 42: Abenteuer mit Kranich Klaus",
+          "index": 42,
+          "startTime": 3854.719,
+          "duration": 90.0
+        },
+        {
+          "id": "1893285590-t44",
+          "title": "Kapitel 43: Abenteuer mit Kranich Klaus",
+          "index": 43,
+          "startTime": 3944.719,
+          "duration": 90.12
+        },
+        {
+          "id": "1893285590-t45",
+          "title": "Folg Deinem Herz",
+          "index": 44,
+          "startTime": 4034.839,
+          "duration": 78.8
+        },
+        {
+          "id": "1893285590-t46",
+          "title": "Outro: Abenteuer mit Kranich Klaus",
+          "index": 45,
+          "startTime": 4113.639,
+          "duration": 192.933
         }
       ]
     },
@@ -23621,5 +25566,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-28T21:41:22Z"
+  "updatedAt": "2026-05-31T19:39:09Z"
 }

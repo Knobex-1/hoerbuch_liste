@@ -436,7 +436,357 @@
         "appleMusic": "1888584862"
       },
       "chapters": []
+    },
+    {
+      "id": "6774641190",
+      "title": "Alea Aquarius - Das Hörspiel. Folge 6: Das verführerische Lied der Wale",
+      "episodeNumber": 6,
+      "releaseDate": "2026-06-19",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/c3/91/06c391b2-f0ca-b5ca-4bc4-eeba6146c016/4061229419055.jpg/100x100bb.jpg",
+      "description": "In diesem sechsten Teil der Serie 'Alea Aquarius' wird die Geschichte fortgesetzt. Ein verführerisches Lied der Wale bringt Unruhe in das Leben der Protagonisten.",
+      "totalDuration": 5840.011,
+      "platforms": {
+        "appleMusic": "6774641190"
+      },
+      "chapters": [
+        {
+          "id": "6774641190-t01",
+          "title": "Prolog: Das verführerische Lied der Wale (Folge 06)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 59.953
+        },
+        {
+          "id": "6774641190-t02",
+          "title": "Wenn das Wasser ruft (Titelsong)",
+          "index": 1,
+          "startTime": 59.953,
+          "duration": 82.395
+        },
+        {
+          "id": "6774641190-t03",
+          "title": "Kapitel 01: Das verführerische Lied der Wale (Folge 06)",
+          "index": 2,
+          "startTime": 142.348,
+          "duration": 122.633
+        },
+        {
+          "id": "6774641190-t04",
+          "title": "Kapitel 02: Das verführerische Lied der Wale (Folge 06)",
+          "index": 3,
+          "startTime": 264.981,
+          "duration": 121.64
+        },
+        {
+          "id": "6774641190-t05",
+          "title": "Kapitel 03: Das verführerische Lied der Wale (Folge 06)",
+          "index": 4,
+          "startTime": 386.621,
+          "duration": 121.09
+        },
+        {
+          "id": "6774641190-t06",
+          "title": "Kapitel 04: Das verführerische Lied der Wale (Folge 06)",
+          "index": 5,
+          "startTime": 507.711,
+          "duration": 122.636
+        },
+        {
+          "id": "6774641190-t07",
+          "title": "Kapitel 05: Das verführerische Lied der Wale (Folge 06)",
+          "index": 6,
+          "startTime": 630.347,
+          "duration": 120.402
+        },
+        {
+          "id": "6774641190-t08",
+          "title": "Kapitel 06: Das verführerische Lied der Wale (Folge 06)",
+          "index": 7,
+          "startTime": 750.749,
+          "duration": 120.142
+        },
+        {
+          "id": "6774641190-t09",
+          "title": "Kapitel 07: Das verführerische Lied der Wale (Folge 06)",
+          "index": 8,
+          "startTime": 870.891,
+          "duration": 123.334
+        },
+        {
+          "id": "6774641190-t10",
+          "title": "Kapitel 08: Das verführerische Lied der Wale (Folge 06)",
+          "index": 9,
+          "startTime": 994.225,
+          "duration": 120.24
+        },
+        {
+          "id": "6774641190-t11",
+          "title": "Kapitel 09: Das verführerische Lied der Wale (Folge 06)",
+          "index": 10,
+          "startTime": 1114.465,
+          "duration": 120.97
+        },
+        {
+          "id": "6774641190-t12",
+          "title": "Kapitel 10: Das verführerische Lied der Wale (Folge 06)",
+          "index": 11,
+          "startTime": 1235.435,
+          "duration": 123.055
+        },
+        {
+          "id": "6774641190-t13",
+          "title": "Kapitel 11: Das verführerische Lied der Wale (Folge 06)",
+          "index": 12,
+          "startTime": 1358.49,
+          "duration": 120.669
+        },
+        {
+          "id": "6774641190-t14",
+          "title": "Kapitel 12: Das verführerische Lied der Wale (Folge 06)",
+          "index": 13,
+          "startTime": 1479.159,
+          "duration": 122.265
+        },
+        {
+          "id": "6774641190-t15",
+          "title": "Kapitel 13: Das verführerische Lied der Wale (Folge 06)",
+          "index": 14,
+          "startTime": 1601.424,
+          "duration": 120.804
+        },
+        {
+          "id": "6774641190-t16",
+          "title": "Kapitel 14: Das verführerische Lied der Wale (Folge 06)",
+          "index": 15,
+          "startTime": 1722.228,
+          "duration": 121.7
+        },
+        {
+          "id": "6774641190-t17",
+          "title": "Kapitel 15: Das verführerische Lied der Wale (Folge 06)",
+          "index": 16,
+          "startTime": 1843.928,
+          "duration": 133.895
+        },
+        {
+          "id": "6774641190-t18",
+          "title": "Kapitel 16: Das verführerische Lied der Wale (Folge 06)",
+          "index": 17,
+          "startTime": 1977.823,
+          "duration": 121.783
+        },
+        {
+          "id": "6774641190-t19",
+          "title": "Kapitel 17: Das verführerische Lied der Wale (Folge 06)",
+          "index": 18,
+          "startTime": 2099.606,
+          "duration": 120.458
+        },
+        {
+          "id": "6774641190-t20",
+          "title": "Kapitel 18: Das verführerische Lied der Wale (Folge 06)",
+          "index": 19,
+          "startTime": 2220.064,
+          "duration": 123.356
+        },
+        {
+          "id": "6774641190-t21",
+          "title": "Kapitel 19: Das verführerische Lied der Wale (Folge 06)",
+          "index": 20,
+          "startTime": 2343.42,
+          "duration": 121.565
+        },
+        {
+          "id": "6774641190-t22",
+          "title": "Kapitel 20: Das verführerische Lied der Wale (Folge 06)",
+          "index": 21,
+          "startTime": 2464.985,
+          "duration": 120.089
+        },
+        {
+          "id": "6774641190-t23",
+          "title": "Kapitel 21: Das verführerische Lied der Wale (Folge 06)",
+          "index": 22,
+          "startTime": 2585.074,
+          "duration": 120.202
+        },
+        {
+          "id": "6774641190-t24",
+          "title": "Kapitel 22: Das verführerische Lied der Wale (Folge 06)",
+          "index": 23,
+          "startTime": 2705.276,
+          "duration": 122.927
+        },
+        {
+          "id": "6774641190-t25",
+          "title": "Kapitel 23: Das verführerische Lied der Wale (Folge 06)",
+          "index": 24,
+          "startTime": 2828.203,
+          "duration": 120.146
+        },
+        {
+          "id": "6774641190-t26",
+          "title": "Kapitel 24: Das verführerische Lied der Wale (Folge 06)",
+          "index": 25,
+          "startTime": 2948.349,
+          "duration": 124.993
+        },
+        {
+          "id": "6774641190-t27",
+          "title": "Kapitel 25: Das verführerische Lied der Wale (Folge 06)",
+          "index": 26,
+          "startTime": 3073.342,
+          "duration": 120.473
+        },
+        {
+          "id": "6774641190-t28",
+          "title": "Kapitel 26: Das verführerische Lied der Wale (Folge 06)",
+          "index": 27,
+          "startTime": 3193.815,
+          "duration": 120.112
+        },
+        {
+          "id": "6774641190-t29",
+          "title": "Kapitel 27: Das verführerische Lied der Wale (Folge 06)",
+          "index": 28,
+          "startTime": 3313.927,
+          "duration": 121.105
+        },
+        {
+          "id": "6774641190-t30",
+          "title": "Kapitel 28: Das verführerische Lied der Wale (Folge 06)",
+          "index": 29,
+          "startTime": 3435.032,
+          "duration": 124.493
+        },
+        {
+          "id": "6774641190-t31",
+          "title": "Kapitel 29: Das verführerische Lied der Wale (Folge 06)",
+          "index": 30,
+          "startTime": 3559.525,
+          "duration": 120.669
+        },
+        {
+          "id": "6774641190-t32",
+          "title": "Kapitel 30: Das verführerische Lied der Wale (Folge 06)",
+          "index": 31,
+          "startTime": 3680.194,
+          "duration": 120.563
+        },
+        {
+          "id": "6774641190-t33",
+          "title": "Kapitel 31: Das verführerische Lied der Wale (Folge 06)",
+          "index": 32,
+          "startTime": 3800.757,
+          "duration": 126.668
+        },
+        {
+          "id": "6774641190-t34",
+          "title": "Kapitel 32: Das verführerische Lied der Wale (Folge 06)",
+          "index": 33,
+          "startTime": 3927.425,
+          "duration": 120.473
+        },
+        {
+          "id": "6774641190-t35",
+          "title": "Kapitel 33: Das verführerische Lied der Wale (Folge 06)",
+          "index": 34,
+          "startTime": 4047.898,
+          "duration": 120.45
+        },
+        {
+          "id": "6774641190-t36",
+          "title": "Kapitel 34: Das verführerische Lied der Wale (Folge 06)",
+          "index": 35,
+          "startTime": 4168.348,
+          "duration": 121.452
+        },
+        {
+          "id": "6774641190-t37",
+          "title": "Kapitel 35: Das verführerische Lied der Wale (Folge 06)",
+          "index": 36,
+          "startTime": 4289.8,
+          "duration": 120.232
+        },
+        {
+          "id": "6774641190-t38",
+          "title": "Kapitel 36: Das verführerische Lied der Wale (Folge 06)",
+          "index": 37,
+          "startTime": 4410.032,
+          "duration": 120.541
+        },
+        {
+          "id": "6774641190-t39",
+          "title": "Kapitel 37: Das verführerische Lied der Wale (Folge 06)",
+          "index": 38,
+          "startTime": 4530.573,
+          "duration": 120.292
+        },
+        {
+          "id": "6774641190-t40",
+          "title": "Kapitel 38: Das verführerische Lied der Wale (Folge 06)",
+          "index": 39,
+          "startTime": 4650.865,
+          "duration": 120.338
+        },
+        {
+          "id": "6774641190-t41",
+          "title": "Kapitel 39: Das verführerische Lied der Wale (Folge 06)",
+          "index": 40,
+          "startTime": 4771.203,
+          "duration": 120.97
+        },
+        {
+          "id": "6774641190-t42",
+          "title": "Kapitel 40: Das verführerische Lied der Wale (Folge 06)",
+          "index": 41,
+          "startTime": 4892.173,
+          "duration": 121.888
+        },
+        {
+          "id": "6774641190-t43",
+          "title": "Kapitel 41: Das verführerische Lied der Wale (Folge 06)",
+          "index": 42,
+          "startTime": 5014.061,
+          "duration": 120.435
+        },
+        {
+          "id": "6774641190-t44",
+          "title": "Kapitel 42: Das verführerische Lied der Wale (Folge 06)",
+          "index": 43,
+          "startTime": 5134.496,
+          "duration": 121.015
+        },
+        {
+          "id": "6774641190-t45",
+          "title": "Kapitel 43: Das verführerische Lied der Wale (Folge 06)",
+          "index": 44,
+          "startTime": 5255.511,
+          "duration": 120.157
+        },
+        {
+          "id": "6774641190-t46",
+          "title": "Kapitel 44: Das verführerische Lied der Wale (Folge 06)",
+          "index": 45,
+          "startTime": 5375.668,
+          "duration": 121.527
+        },
+        {
+          "id": "6774641190-t47",
+          "title": "Kapitel 45: Das verführerische Lied der Wale (Folge 06)",
+          "index": 46,
+          "startTime": 5497.195,
+          "duration": 208.8
+        },
+        {
+          "id": "6774641190-t48",
+          "title": "Credits: Das verführerische Lied der Wale (Folge 06)",
+          "index": 47,
+          "startTime": 5705.995,
+          "duration": 134.016
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-28T19:26:51Z"
+  "updatedAt": "2026-05-31T19:39:09Z"
 }
