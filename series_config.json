@@ -43,26 +43,7 @@
       "avg_track_duration_seconds": 95,
       "enabled": true,
       "slug": "tkkg",
-      "franchise": "TKKG",
-      "title_patterns": {
-        "include": [
-          "Folge 1: Die Jagd nach den Millionendieben",
-          "Folge 1: Auf frischer Tat ertappt",
-          "Folge 5: Die Dino-Diebe",
-          "Folge 5: Das Phantom auf dem Feuerstuhl",
-          "Folge 6: Bei Anruf Abzocke",
-          "Folge 7: Rätsel um die alte Villa",
-          "Folge 9: Gepanschter Punsch",
-          "Folge 11: Rote Karte für Betrüger",
-          "Folge 13: Das verpfuschte Gemälde",
-          "Folge 15: In den Fängen der Felsenbande",
-          "Folge 16: Trügerischer Paddelspaß",
-          "Folge 17: Oskar in der Falle",
-          "Folge 21: Die Rache des Bombenlegers",
-          "Folge 26: Das Geiseldrama",
-          "Folge 27: Abrechnung in der Westernstadt"
-        ]
-      }
+      "franchise": "TKKG"
     },
     {
       "id_prefix": "bibi",
@@ -215,12 +196,7 @@
       "enabled": true,
       "slug": "mark-brandis",
       "id_prefix": "mark",
-      "franchise": "Mark Brandis",
-      "title_patterns": {
-        "include": [
-          "06: Woran du glaubst ..."
-        ]
-      }
+      "franchise": "Mark Brandis"
     },
     {
       "id_prefix": "mark-rk",
