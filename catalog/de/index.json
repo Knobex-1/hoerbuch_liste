@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-31T16:53:09Z",
+  "updatedAt": "2026-05-31T17:13:40Z",
   "series": [
     {
       "id": "tkkg",
@@ -168,19 +168,6 @@
       "seriesUpdatedAt": "2026-05-31T16:41:37Z"
     },
     {
-      "id": "star-wars",
-      "title": "Star Wars",
-      "author": "Star Wars",
-      "narrator": "",
-      "genres": [
-        "Hörspiel"
-      ],
-      "albumCount": 41,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Features/f9/a5/5f/dj.btarrfwu.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/star-wars.json",
-      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
-    },
-    {
       "id": "star-wars-labyrinth",
       "title": "Star Wars: Labyrinth des Bösen",
       "author": "Star Wars",
@@ -196,6 +183,22 @@
       "seriesUpdatedAt": "2026-05-31T16:41:37Z"
     },
     {
+      "id": "star-wars-rebels",
+      "title": "Star Wars: Rebels",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "albumCount": 19,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/star-wars-rebels.json",
+      "seriesUpdatedAt": "2026-05-31T17:13:40Z"
+    },
+    {
       "id": "star-wars-junge-jedi",
       "title": "Star Wars: Die jungen Jedi",
       "author": "Star Wars",
@@ -209,22 +212,6 @@
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/30/0a/d5300a84-983b-2c76-ebbd-df1e8b855924/4066339750777.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-junge-jedi.json",
       "seriesUpdatedAt": "2026-05-31T16:41:37Z"
-    },
-    {
-      "id": "star-wars-rebels",
-      "title": "Star Wars: Rebels",
-      "author": "Star Wars",
-      "narrator": "",
-      "genres": [
-        "Hörspiel",
-        "Science-Fiction",
-        "Fantasy",
-        "Abenteuer"
-      ],
-      "albumCount": 17,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/star-wars-rebels.json",
-      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
     },
     {
       "id": "torsten-straeter",

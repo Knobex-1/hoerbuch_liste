@@ -2586,7 +2586,161 @@
           "duration": 239.987
         }
       ]
+    },
+    {
+      "id": "1690693404",
+      "title": "Star Wars",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/93/59/3e9359d0-d598-cc28-a19b-b634befb782f/196871169462.jpg/100x100bb.jpg",
+      "description": "Keine Beschreibung verfügbar",
+      "totalDuration": 2031.427,
+      "platforms": {
+        "appleMusic": "1690693404"
+      },
+      "chapters": [
+        {
+          "id": "wilc-star-3404-t01",
+          "title": "EKG",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 75.548
+        },
+        {
+          "id": "wilc-star-3404-t02",
+          "title": "More...",
+          "index": 1,
+          "startTime": 75.548,
+          "duration": 163.951
+        },
+        {
+          "id": "wilc-star-3404-t03",
+          "title": "Random Name Generator",
+          "index": 2,
+          "startTime": 239.499,
+          "duration": 229.489
+        },
+        {
+          "id": "wilc-star-3404-t04",
+          "title": "The Joke Explained",
+          "index": 3,
+          "startTime": 468.988,
+          "duration": 153.186
+        },
+        {
+          "id": "wilc-star-3404-t05",
+          "title": "You Satellite",
+          "index": 4,
+          "startTime": 622.174,
+          "duration": 316.881
+        },
+        {
+          "id": "wilc-star-3404-t06",
+          "title": "Taste the Ceiling",
+          "index": 5,
+          "startTime": 939.055,
+          "duration": 195.381
+        },
+        {
+          "id": "wilc-star-3404-t07",
+          "title": "Pickled Ginger",
+          "index": 6,
+          "startTime": 1134.436,
+          "duration": 149.806
+        },
+        {
+          "id": "wilc-star-3404-t08",
+          "title": "Where Do I Begin",
+          "index": 7,
+          "startTime": 1284.242,
+          "duration": 174.799
+        },
+        {
+          "id": "wilc-star-3404-t09",
+          "title": "Cold Slope",
+          "index": 8,
+          "startTime": 1459.041,
+          "duration": 191.388
+        },
+        {
+          "id": "wilc-star-3404-t10",
+          "title": "King Of You",
+          "index": 9,
+          "startTime": 1650.429,
+          "duration": 160.972
+        },
+        {
+          "id": "wilc-star-3404-t11",
+          "title": "Magnetized",
+          "index": 10,
+          "startTime": 1811.401,
+          "duration": 220.026
+        }
+      ]
+    },
+    {
+      "id": "1615526561",
+      "title": "Star Wars",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/d8/97/f1d897ce-edfe-9d81-6f89-a8608a05f90f/198001712579.png/100x100bb.jpg",
+      "description": "Ein Soundtrack-Album zur Star Wars-Filmreihe.",
+      "totalDuration": 711.955,
+      "platforms": {
+        "appleMusic": "1615526561"
+      },
+      "chapters": [
+        {
+          "id": "cele-star-6561-t01",
+          "title": "Star Wars Main Theme (Epic Version)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 155.632
+        },
+        {
+          "id": "cele-star-6561-t02",
+          "title": "A New Home (From \"Star Wars: The Rise of Skywalker\")",
+          "index": 1,
+          "startTime": 155.632,
+          "duration": 107.997
+        },
+        {
+          "id": "cele-star-6561-t03",
+          "title": "Force Theme (From \"Star Wars: A New Hope) [Medieval Style]",
+          "index": 2,
+          "startTime": 263.629,
+          "duration": 72.831
+        },
+        {
+          "id": "cele-star-6561-t04",
+          "title": "Eno Cordova's Theme (Menu Theme from \"Star Wars Jedi Fallen Order\")",
+          "index": 3,
+          "startTime": 336.46,
+          "duration": 131.653
+        },
+        {
+          "id": "cele-star-6561-t05",
+          "title": "Princess Leia's Theme (From \"Star Wars Episode IV: A New Hope\")",
+          "index": 4,
+          "startTime": 468.113,
+          "duration": 86.766
+        },
+        {
+          "id": "cele-star-6561-t06",
+          "title": "Main Theme - Medieval Style (From \"Star Wars\")",
+          "index": 5,
+          "startTime": 554.879,
+          "duration": 68.578
+        },
+        {
+          "id": "cele-star-6561-t07",
+          "title": "Imperial March (From \"Star Wars: The Empire Strikes Back) [Medieval Style]",
+          "index": 6,
+          "startTime": 623.457,
+          "duration": 88.498
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-31T16:51:57Z"
+  "updatedAt": "2026-05-31T17:13:40Z"
 }
