@@ -31,7 +31,7 @@
         "tkkg folge",
         "tkkg und"
       ],
-      "artist_filter": "Stefan Wolf",
+      "artist_filter": "TKKG",
       "title": "TKKG",
       "author": "Stefan Wolf",
       "narrator": "Verschiedene Sprecher",
@@ -43,7 +43,26 @@
       "avg_track_duration_seconds": 95,
       "enabled": true,
       "slug": "tkkg",
-      "franchise": "TKKG"
+      "franchise": "TKKG",
+      "title_patterns": {
+        "include": [
+          "Folge 1: Die Jagd nach den Millionendieben",
+          "Folge 1: Auf frischer Tat ertappt",
+          "Folge 5: Die Dino-Diebe",
+          "Folge 5: Das Phantom auf dem Feuerstuhl",
+          "Folge 6: Bei Anruf Abzocke",
+          "Folge 7: Rätsel um die alte Villa",
+          "Folge 9: Gepanschter Punsch",
+          "Folge 11: Rote Karte für Betrüger",
+          "Folge 13: Das verpfuschte Gemälde",
+          "Folge 15: In den Fängen der Felsenbande",
+          "Folge 16: Trügerischer Paddelspaß",
+          "Folge 17: Oskar in der Falle",
+          "Folge 21: Die Rache des Bombenlegers",
+          "Folge 26: Das Geiseldrama",
+          "Folge 27: Abrechnung in der Westernstadt"
+        ]
+      }
     },
     {
       "id_prefix": "bibi",
@@ -79,7 +98,12 @@
       "avg_track_duration_seconds": 90,
       "enabled": true,
       "slug": "tkkg-junior",
-      "franchise": "TKKG"
+      "franchise": "TKKG",
+      "title_patterns": {
+        "include": [
+          "Folge 26: Achtung, Fahrraddiebe!"
+        ]
+      }
     },
     {
       "id_prefix": "tkkg-retro",
@@ -97,7 +121,20 @@
       "avg_track_duration_seconds": 90,
       "enabled": true,
       "slug": "tkkg-retro-archiv",
-      "franchise": "TKKG"
+      "franchise": "TKKG",
+      "title_patterns": {
+        "include": [
+          "TKKG Krimi-Box 5",
+          "Folge 7: Zwischen Gauklern und Ganoven",
+          "Folge 11: Die Falschmünzer vom Mäuseweg",
+          "Folge 13: Die Bettelmönche aus Atlantis",
+          "Folge 15: Ufos in Bad Finkenstein",
+          "Folge 16: X7 antwortet nicht",
+          "Folge 17: Die Doppelgängerin",
+          "Folge 21: Der Fluch der Mumie",
+          "Folge 27: Banditen im Palasthotel"
+        ]
+      }
     },
     {
       "id_prefix": "tkkg-inv",
@@ -178,7 +215,12 @@
       "enabled": true,
       "slug": "mark-brandis",
       "id_prefix": "mark",
-      "franchise": "Mark Brandis"
+      "franchise": "Mark Brandis",
+      "title_patterns": {
+        "include": [
+          "06: Woran du glaubst ..."
+        ]
+      }
     },
     {
       "id_prefix": "mark-rk",
@@ -196,7 +238,24 @@
       "avg_track_duration_seconds": 90,
       "enabled": true,
       "slug": "mark-brandis-raumkadett",
-      "franchise": "Mark Brandis"
+      "franchise": "Mark Brandis",
+      "title_patterns": {
+        "include": [
+          "Aufbruch zu den Sternen",
+          "Verloren im All",
+          "Tatort Astronautenschule",
+          "Hinter den Linien",
+          "Der Aladin-Schachzug",
+          "Woran du glaubst",
+          "Laurin",
+          "Mondschatten",
+          "Endstation Pallas",
+          "Zwischen den Fronten",
+          "Das Jupiter-Risiko",
+          "Der Fall Rublew",
+          "06: Testakte Kolibri 2"
+        ]
+      }
     },
     {
       "title": "Star Wars",

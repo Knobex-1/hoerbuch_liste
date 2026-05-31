@@ -1,0 +1,3277 @@
+{
+  "seriesId": "mark-brandis-raumkadett",
+  "title": "Mark Brandis - Raumkadett",
+  "language": "de",
+  "author": "Nikolai von Michalewsky",
+  "narrator": "",
+  "genres": [
+    "Hörspiel",
+    "Science-Fiction",
+    "Kinder & Jugend"
+  ],
+  "albums": [
+    {
+      "id": "1686299969",
+      "title": "01: Aufbruch zu den Sternen",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/eb/e6/49ebe645-3770-8a6f-9740-3dbd8f1d3108/4057664073037.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Aufbruch zu den Sternen' von Mark Brandis als Raumkadett, das im Genre Science-Fiction angesiedelt ist.",
+      "totalDuration": 3938.252,
+      "platforms": {
+        "appleMusic": "1686299969"
+      },
+      "chapters": [
+        {
+          "id": "mark-01au-9969-t01",
+          "title": "Aufbruch zu den Sternen - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 85.385
+        },
+        {
+          "id": "mark-01au-9969-t02",
+          "title": "Aufbruch zu den Sternen - Teil 02",
+          "index": 1,
+          "startTime": 85.385,
+          "duration": 83.46
+        },
+        {
+          "id": "mark-01au-9969-t03",
+          "title": "Aufbruch zu den Sternen - Teil 03",
+          "index": 2,
+          "startTime": 168.845,
+          "duration": 82.913
+        },
+        {
+          "id": "mark-01au-9969-t04",
+          "title": "Aufbruch zu den Sternen - Teil 04",
+          "index": 3,
+          "startTime": 251.758,
+          "duration": 83.697
+        },
+        {
+          "id": "mark-01au-9969-t05",
+          "title": "Aufbruch zu den Sternen - Teil 05",
+          "index": 4,
+          "startTime": 335.455,
+          "duration": 80.418
+        },
+        {
+          "id": "mark-01au-9969-t06",
+          "title": "Aufbruch zu den Sternen - Teil 06",
+          "index": 5,
+          "startTime": 415.873,
+          "duration": 77.982
+        },
+        {
+          "id": "mark-01au-9969-t07",
+          "title": "Aufbruch zu den Sternen - Teil 07",
+          "index": 6,
+          "startTime": 493.855,
+          "duration": 80.038
+        },
+        {
+          "id": "mark-01au-9969-t08",
+          "title": "Aufbruch zu den Sternen - Teil 08",
+          "index": 7,
+          "startTime": 573.893,
+          "duration": 96.39
+        },
+        {
+          "id": "mark-01au-9969-t09",
+          "title": "Aufbruch zu den Sternen - Teil 09",
+          "index": 8,
+          "startTime": 670.283,
+          "duration": 81.841
+        },
+        {
+          "id": "mark-01au-9969-t10",
+          "title": "Aufbruch zu den Sternen - Teil 10",
+          "index": 9,
+          "startTime": 752.124,
+          "duration": 113.842
+        },
+        {
+          "id": "mark-01au-9969-t11",
+          "title": "Aufbruch zu den Sternen - Teil 11",
+          "index": 10,
+          "startTime": 865.966,
+          "duration": 102.66
+        },
+        {
+          "id": "mark-01au-9969-t12",
+          "title": "Aufbruch zu den Sternen - Teil 12",
+          "index": 11,
+          "startTime": 968.626,
+          "duration": 63.453
+        },
+        {
+          "id": "mark-01au-9969-t13",
+          "title": "Aufbruch zu den Sternen - Teil 13",
+          "index": 12,
+          "startTime": 1032.079,
+          "duration": 83.185
+        },
+        {
+          "id": "mark-01au-9969-t14",
+          "title": "Aufbruch zu den Sternen - Teil 14",
+          "index": 13,
+          "startTime": 1115.264,
+          "duration": 87.41
+        },
+        {
+          "id": "mark-01au-9969-t15",
+          "title": "Aufbruch zu den Sternen - Teil 15",
+          "index": 14,
+          "startTime": 1202.674,
+          "duration": 80.0
+        },
+        {
+          "id": "mark-01au-9969-t16",
+          "title": "Aufbruch zu den Sternen - Teil 16",
+          "index": 15,
+          "startTime": 1282.674,
+          "duration": 82.938
+        },
+        {
+          "id": "mark-01au-9969-t17",
+          "title": "Aufbruch zu den Sternen - Teil 17",
+          "index": 16,
+          "startTime": 1365.612,
+          "duration": 84.788
+        },
+        {
+          "id": "mark-01au-9969-t18",
+          "title": "Aufbruch zu den Sternen - Teil 18",
+          "index": 17,
+          "startTime": 1450.4,
+          "duration": 80.021
+        },
+        {
+          "id": "mark-01au-9969-t19",
+          "title": "Aufbruch zu den Sternen - Teil 19",
+          "index": 18,
+          "startTime": 1530.421,
+          "duration": 79.569
+        },
+        {
+          "id": "mark-01au-9969-t20",
+          "title": "Aufbruch zu den Sternen - Teil 20",
+          "index": 19,
+          "startTime": 1609.99,
+          "duration": 80.435
+        },
+        {
+          "id": "mark-01au-9969-t21",
+          "title": "Aufbruch zu den Sternen - Teil 21",
+          "index": 20,
+          "startTime": 1690.425,
+          "duration": 81.607
+        },
+        {
+          "id": "mark-01au-9969-t22",
+          "title": "Aufbruch zu den Sternen - Teil 22",
+          "index": 21,
+          "startTime": 1772.032,
+          "duration": 104.459
+        },
+        {
+          "id": "mark-01au-9969-t23",
+          "title": "Aufbruch zu den Sternen - Teil 23",
+          "index": 22,
+          "startTime": 1876.491,
+          "duration": 117.547
+        },
+        {
+          "id": "mark-01au-9969-t24",
+          "title": "Aufbruch zu den Sternen - Teil 24",
+          "index": 23,
+          "startTime": 1994.038,
+          "duration": 82.789
+        },
+        {
+          "id": "mark-01au-9969-t25",
+          "title": "Aufbruch zu den Sternen - Teil 25",
+          "index": 24,
+          "startTime": 2076.827,
+          "duration": 89.267
+        },
+        {
+          "id": "mark-01au-9969-t26",
+          "title": "Aufbruch zu den Sternen - Teil 26",
+          "index": 25,
+          "startTime": 2166.094,
+          "duration": 81.772
+        },
+        {
+          "id": "mark-01au-9969-t27",
+          "title": "Aufbruch zu den Sternen - Teil 27",
+          "index": 26,
+          "startTime": 2247.866,
+          "duration": 95.257
+        },
+        {
+          "id": "mark-01au-9969-t28",
+          "title": "Aufbruch zu den Sternen - Teil 28",
+          "index": 27,
+          "startTime": 2343.123,
+          "duration": 88.472
+        },
+        {
+          "id": "mark-01au-9969-t29",
+          "title": "Aufbruch zu den Sternen - Teil 29",
+          "index": 28,
+          "startTime": 2431.595,
+          "duration": 113.217
+        },
+        {
+          "id": "mark-01au-9969-t30",
+          "title": "Aufbruch zu den Sternen - Teil 30",
+          "index": 29,
+          "startTime": 2544.812,
+          "duration": 94.164
+        },
+        {
+          "id": "mark-01au-9969-t31",
+          "title": "Aufbruch zu den Sternen - Teil 31",
+          "index": 30,
+          "startTime": 2638.976,
+          "duration": 97.28
+        },
+        {
+          "id": "mark-01au-9969-t32",
+          "title": "Aufbruch zu den Sternen - Teil 32",
+          "index": 31,
+          "startTime": 2736.256,
+          "duration": 81.968
+        },
+        {
+          "id": "mark-01au-9969-t33",
+          "title": "Aufbruch zu den Sternen - Teil 33",
+          "index": 32,
+          "startTime": 2818.224,
+          "duration": 79.702
+        },
+        {
+          "id": "mark-01au-9969-t34",
+          "title": "Aufbruch zu den Sternen - Teil 34",
+          "index": 33,
+          "startTime": 2897.926,
+          "duration": 79.846
+        },
+        {
+          "id": "mark-01au-9969-t35",
+          "title": "Aufbruch zu den Sternen - Teil 35",
+          "index": 34,
+          "startTime": 2977.772,
+          "duration": 99.898
+        },
+        {
+          "id": "mark-01au-9969-t36",
+          "title": "Aufbruch zu den Sternen - Teil 36",
+          "index": 35,
+          "startTime": 3077.67,
+          "duration": 83.512
+        },
+        {
+          "id": "mark-01au-9969-t37",
+          "title": "Aufbruch zu den Sternen - Teil 37",
+          "index": 36,
+          "startTime": 3161.182,
+          "duration": 90.703
+        },
+        {
+          "id": "mark-01au-9969-t38",
+          "title": "Aufbruch zu den Sternen - Teil 38",
+          "index": 37,
+          "startTime": 3251.885,
+          "duration": 86.091
+        },
+        {
+          "id": "mark-01au-9969-t39",
+          "title": "Aufbruch zu den Sternen - Teil 39",
+          "index": 38,
+          "startTime": 3337.976,
+          "duration": 81.638
+        },
+        {
+          "id": "mark-01au-9969-t40",
+          "title": "Aufbruch zu den Sternen - Teil 40",
+          "index": 39,
+          "startTime": 3419.614,
+          "duration": 82.199
+        },
+        {
+          "id": "mark-01au-9969-t41",
+          "title": "Aufbruch zu den Sternen - Teil 41",
+          "index": 40,
+          "startTime": 3501.813,
+          "duration": 82.572
+        },
+        {
+          "id": "mark-01au-9969-t42",
+          "title": "Aufbruch zu den Sternen - Teil 42",
+          "index": 41,
+          "startTime": 3584.385,
+          "duration": 88.948
+        },
+        {
+          "id": "mark-01au-9969-t43",
+          "title": "Aufbruch zu den Sternen - Teil 43",
+          "index": 42,
+          "startTime": 3673.333,
+          "duration": 84.37
+        },
+        {
+          "id": "mark-01au-9969-t44",
+          "title": "Aufbruch zu den Sternen - Teil 44",
+          "index": 43,
+          "startTime": 3757.703,
+          "duration": 93.367
+        },
+        {
+          "id": "mark-01au-9969-t45",
+          "title": "Aufbruch zu den Sternen - Teil 45",
+          "index": 44,
+          "startTime": 3851.07,
+          "duration": 87.182
+        }
+      ]
+    },
+    {
+      "id": "1686295905",
+      "title": "02: Verloren im All",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/d0/fa/8ad0fac3-ef9a-638f-0b16-4ac078a35351/4057664073129.jpg/100x100bb.jpg",
+      "description": "Ein Album mit Science-Fiction und Abenteuer-Elementen, das möglicherweise ein Hörspiel oder Hörbuch ist.",
+      "totalDuration": 3439.83,
+      "platforms": {
+        "appleMusic": "1686295905"
+      },
+      "chapters": [
+        {
+          "id": "mark-02ve-5905-t01",
+          "title": "Verloren im All - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 67.653
+        },
+        {
+          "id": "mark-02ve-5905-t02",
+          "title": "Verloren im All - Teil 02",
+          "index": 1,
+          "startTime": 67.653,
+          "duration": 81.063
+        },
+        {
+          "id": "mark-02ve-5905-t03",
+          "title": "Verloren im All - Teil 03",
+          "index": 2,
+          "startTime": 148.716,
+          "duration": 89.338
+        },
+        {
+          "id": "mark-02ve-5905-t04",
+          "title": "Verloren im All - Teil 04",
+          "index": 3,
+          "startTime": 238.054,
+          "duration": 97.936
+        },
+        {
+          "id": "mark-02ve-5905-t05",
+          "title": "Verloren im All - Teil 05",
+          "index": 4,
+          "startTime": 335.99,
+          "duration": 101.303
+        },
+        {
+          "id": "mark-02ve-5905-t06",
+          "title": "Verloren im All - Teil 06",
+          "index": 5,
+          "startTime": 437.293,
+          "duration": 111.409
+        },
+        {
+          "id": "mark-02ve-5905-t07",
+          "title": "Verloren im All - Teil 07",
+          "index": 6,
+          "startTime": 548.702,
+          "duration": 113.737
+        },
+        {
+          "id": "mark-02ve-5905-t08",
+          "title": "Verloren im All - Teil 08",
+          "index": 7,
+          "startTime": 662.439,
+          "duration": 108.467
+        },
+        {
+          "id": "mark-02ve-5905-t09",
+          "title": "Verloren im All - Teil 09",
+          "index": 8,
+          "startTime": 770.906,
+          "duration": 89.767
+        },
+        {
+          "id": "mark-02ve-5905-t10",
+          "title": "Verloren im All - Teil 10",
+          "index": 9,
+          "startTime": 860.673,
+          "duration": 85.136
+        },
+        {
+          "id": "mark-02ve-5905-t11",
+          "title": "Verloren im All - Teil 11",
+          "index": 10,
+          "startTime": 945.809,
+          "duration": 96.467
+        },
+        {
+          "id": "mark-02ve-5905-t12",
+          "title": "Verloren im All - Teil 12",
+          "index": 11,
+          "startTime": 1042.276,
+          "duration": 116.003
+        },
+        {
+          "id": "mark-02ve-5905-t13",
+          "title": "Verloren im All - Teil 13",
+          "index": 12,
+          "startTime": 1158.279,
+          "duration": 97.236
+        },
+        {
+          "id": "mark-02ve-5905-t14",
+          "title": "Verloren im All - Teil 14",
+          "index": 13,
+          "startTime": 1255.515,
+          "duration": 84.476
+        },
+        {
+          "id": "mark-02ve-5905-t15",
+          "title": "Verloren im All - Teil 15",
+          "index": 14,
+          "startTime": 1339.991,
+          "duration": 88.648
+        },
+        {
+          "id": "mark-02ve-5905-t16",
+          "title": "Verloren im All - Teil 16",
+          "index": 15,
+          "startTime": 1428.639,
+          "duration": 91.64
+        },
+        {
+          "id": "mark-02ve-5905-t17",
+          "title": "Verloren im All - Teil 17",
+          "index": 16,
+          "startTime": 1520.279,
+          "duration": 89.644
+        },
+        {
+          "id": "mark-02ve-5905-t18",
+          "title": "Verloren im All - Teil 18",
+          "index": 17,
+          "startTime": 1609.923,
+          "duration": 82.91
+        },
+        {
+          "id": "mark-02ve-5905-t19",
+          "title": "Verloren im All - Teil 19",
+          "index": 18,
+          "startTime": 1692.833,
+          "duration": 89.719
+        },
+        {
+          "id": "mark-02ve-5905-t20",
+          "title": "Verloren im All - Teil 20",
+          "index": 19,
+          "startTime": 1782.552,
+          "duration": 83.302
+        },
+        {
+          "id": "mark-02ve-5905-t21",
+          "title": "Verloren im All - Teil 21",
+          "index": 20,
+          "startTime": 1865.854,
+          "duration": 118.399
+        },
+        {
+          "id": "mark-02ve-5905-t22",
+          "title": "Verloren im All - Teil 22",
+          "index": 21,
+          "startTime": 1984.253,
+          "duration": 85.346
+        },
+        {
+          "id": "mark-02ve-5905-t23",
+          "title": "Verloren im All - Teil 23",
+          "index": 22,
+          "startTime": 2069.599,
+          "duration": 87.827
+        },
+        {
+          "id": "mark-02ve-5905-t24",
+          "title": "Verloren im All - Teil 24",
+          "index": 23,
+          "startTime": 2157.426,
+          "duration": 99.72
+        },
+        {
+          "id": "mark-02ve-5905-t25",
+          "title": "Verloren im All - Teil 25",
+          "index": 24,
+          "startTime": 2257.146,
+          "duration": 81.976
+        },
+        {
+          "id": "mark-02ve-5905-t26",
+          "title": "Verloren im All - Teil 26",
+          "index": 25,
+          "startTime": 2339.122,
+          "duration": 86.866
+        },
+        {
+          "id": "mark-02ve-5905-t27",
+          "title": "Verloren im All - Teil 27",
+          "index": 26,
+          "startTime": 2425.988,
+          "duration": 106.371
+        },
+        {
+          "id": "mark-02ve-5905-t28",
+          "title": "Verloren im All - Teil 28",
+          "index": 27,
+          "startTime": 2532.359,
+          "duration": 108.694
+        },
+        {
+          "id": "mark-02ve-5905-t29",
+          "title": "Verloren im All - Teil 29",
+          "index": 28,
+          "startTime": 2641.053,
+          "duration": 107.577
+        },
+        {
+          "id": "mark-02ve-5905-t30",
+          "title": "Verloren im All - Teil 30",
+          "index": 29,
+          "startTime": 2748.63,
+          "duration": 95.736
+        },
+        {
+          "id": "mark-02ve-5905-t31",
+          "title": "Verloren im All - Teil 31",
+          "index": 30,
+          "startTime": 2844.366,
+          "duration": 120.813
+        },
+        {
+          "id": "mark-02ve-5905-t32",
+          "title": "Verloren im All - Teil 32",
+          "index": 31,
+          "startTime": 2965.179,
+          "duration": 123.447
+        },
+        {
+          "id": "mark-02ve-5905-t33",
+          "title": "Verloren im All - Teil 33",
+          "index": 32,
+          "startTime": 3088.626,
+          "duration": 85.277
+        },
+        {
+          "id": "mark-02ve-5905-t34",
+          "title": "Verloren im All - Teil 34",
+          "index": 33,
+          "startTime": 3173.903,
+          "duration": 84.381
+        },
+        {
+          "id": "mark-02ve-5905-t35",
+          "title": "Verloren im All - Teil 35",
+          "index": 34,
+          "startTime": 3258.284,
+          "duration": 86.1
+        },
+        {
+          "id": "mark-02ve-5905-t36",
+          "title": "Verloren im All - Teil 36",
+          "index": 35,
+          "startTime": 3344.384,
+          "duration": 95.446
+        }
+      ]
+    },
+    {
+      "id": "1686317126",
+      "title": "03: Tatort Astronautenschule",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a2/c5/00/a2c50016-ed10-2123-fc67-e5cb32dac96b/4057664073112.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das Teil der populären deutschen Serie 'Tatort' ist. Es spielt auf einer Raumstation und ist von der Genre-Kategorie Science-Fiction geprägt.",
+      "totalDuration": 3187.465,
+      "platforms": {
+        "appleMusic": "1686317126"
+      },
+      "chapters": [
+        {
+          "id": "mark-03ta-7126-t01",
+          "title": "Tatort Astronautenschule - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 90.683
+        },
+        {
+          "id": "mark-03ta-7126-t02",
+          "title": "Tatort Astronautenschule - Teil 02",
+          "index": 1,
+          "startTime": 90.683,
+          "duration": 89.724
+        },
+        {
+          "id": "mark-03ta-7126-t03",
+          "title": "Tatort Astronautenschule - Teil 03",
+          "index": 2,
+          "startTime": 180.407,
+          "duration": 81.724
+        },
+        {
+          "id": "mark-03ta-7126-t04",
+          "title": "Tatort Astronautenschule - Teil 04",
+          "index": 3,
+          "startTime": 262.131,
+          "duration": 80.27
+        },
+        {
+          "id": "mark-03ta-7126-t05",
+          "title": "Tatort Astronautenschule - Teil 05",
+          "index": 4,
+          "startTime": 342.401,
+          "duration": 82.507
+        },
+        {
+          "id": "mark-03ta-7126-t06",
+          "title": "Tatort Astronautenschule - Teil 06",
+          "index": 5,
+          "startTime": 424.908,
+          "duration": 66.173
+        },
+        {
+          "id": "mark-03ta-7126-t07",
+          "title": "Tatort Astronautenschule - Teil 07",
+          "index": 6,
+          "startTime": 491.081,
+          "duration": 80.133
+        },
+        {
+          "id": "mark-03ta-7126-t08",
+          "title": "Tatort Astronautenschule - Teil 08",
+          "index": 7,
+          "startTime": 571.214,
+          "duration": 81.337
+        },
+        {
+          "id": "mark-03ta-7126-t09",
+          "title": "Tatort Astronautenschule - Teil 09",
+          "index": 8,
+          "startTime": 652.551,
+          "duration": 81.544
+        },
+        {
+          "id": "mark-03ta-7126-t10",
+          "title": "Tatort Astronautenschule - Teil 10",
+          "index": 9,
+          "startTime": 734.095,
+          "duration": 83.176
+        },
+        {
+          "id": "mark-03ta-7126-t11",
+          "title": "Tatort Astronautenschule - Teil 11",
+          "index": 10,
+          "startTime": 817.271,
+          "duration": 92.241
+        },
+        {
+          "id": "mark-03ta-7126-t12",
+          "title": "Tatort Astronautenschule - Teil 12",
+          "index": 11,
+          "startTime": 909.512,
+          "duration": 85.121
+        },
+        {
+          "id": "mark-03ta-7126-t13",
+          "title": "Tatort Astronautenschule - Teil 13",
+          "index": 12,
+          "startTime": 994.633,
+          "duration": 120.479
+        },
+        {
+          "id": "mark-03ta-7126-t14",
+          "title": "Tatort Astronautenschule - Teil 14",
+          "index": 13,
+          "startTime": 1115.112,
+          "duration": 111.169
+        },
+        {
+          "id": "mark-03ta-7126-t15",
+          "title": "Tatort Astronautenschule - Teil 15",
+          "index": 14,
+          "startTime": 1226.281,
+          "duration": 84.114
+        },
+        {
+          "id": "mark-03ta-7126-t16",
+          "title": "Tatort Astronautenschule - Teil 16",
+          "index": 15,
+          "startTime": 1310.395,
+          "duration": 91.549
+        },
+        {
+          "id": "mark-03ta-7126-t17",
+          "title": "Tatort Astronautenschule - Teil 17",
+          "index": 16,
+          "startTime": 1401.944,
+          "duration": 117.004
+        },
+        {
+          "id": "mark-03ta-7126-t18",
+          "title": "Tatort Astronautenschule - Teil 18",
+          "index": 17,
+          "startTime": 1518.948,
+          "duration": 81.688
+        },
+        {
+          "id": "mark-03ta-7126-t19",
+          "title": "Tatort Astronautenschule - Teil 19",
+          "index": 18,
+          "startTime": 1600.636,
+          "duration": 83.206
+        },
+        {
+          "id": "mark-03ta-7126-t20",
+          "title": "Tatort Astronautenschule - Teil 20",
+          "index": 19,
+          "startTime": 1683.842,
+          "duration": 118.47
+        },
+        {
+          "id": "mark-03ta-7126-t21",
+          "title": "Tatort Astronautenschule - Teil 21",
+          "index": 20,
+          "startTime": 1802.312,
+          "duration": 119.209
+        },
+        {
+          "id": "mark-03ta-7126-t22",
+          "title": "Tatort Astronautenschule - Teil 22",
+          "index": 21,
+          "startTime": 1921.521,
+          "duration": 87.987
+        },
+        {
+          "id": "mark-03ta-7126-t23",
+          "title": "Tatort Astronautenschule - Teil 23",
+          "index": 22,
+          "startTime": 2009.508,
+          "duration": 86.696
+        },
+        {
+          "id": "mark-03ta-7126-t24",
+          "title": "Tatort Astronautenschule - Teil 24",
+          "index": 23,
+          "startTime": 2096.204,
+          "duration": 81.016
+        },
+        {
+          "id": "mark-03ta-7126-t25",
+          "title": "Tatort Astronautenschule - Teil 25",
+          "index": 24,
+          "startTime": 2177.22,
+          "duration": 114.183
+        },
+        {
+          "id": "mark-03ta-7126-t26",
+          "title": "Tatort Astronautenschule - Teil 26",
+          "index": 25,
+          "startTime": 2291.403,
+          "duration": 119.932
+        },
+        {
+          "id": "mark-03ta-7126-t27",
+          "title": "Tatort Astronautenschule - Teil 27",
+          "index": 26,
+          "startTime": 2411.335,
+          "duration": 81.851
+        },
+        {
+          "id": "mark-03ta-7126-t28",
+          "title": "Tatort Astronautenschule - Teil 28",
+          "index": 27,
+          "startTime": 2493.186,
+          "duration": 83.889
+        },
+        {
+          "id": "mark-03ta-7126-t29",
+          "title": "Tatort Astronautenschule - Teil 29",
+          "index": 28,
+          "startTime": 2577.075,
+          "duration": 116.863
+        },
+        {
+          "id": "mark-03ta-7126-t30",
+          "title": "Tatort Astronautenschule - Teil 30",
+          "index": 29,
+          "startTime": 2693.938,
+          "duration": 113.064
+        },
+        {
+          "id": "mark-03ta-7126-t31",
+          "title": "Tatort Astronautenschule - Teil 31",
+          "index": 30,
+          "startTime": 2807.002,
+          "duration": 84.076
+        },
+        {
+          "id": "mark-03ta-7126-t32",
+          "title": "Tatort Astronautenschule - Teil 32",
+          "index": 31,
+          "startTime": 2891.078,
+          "duration": 87.967
+        },
+        {
+          "id": "mark-03ta-7126-t33",
+          "title": "Tatort Astronautenschule - Teil 33",
+          "index": 32,
+          "startTime": 2979.045,
+          "duration": 94.494
+        },
+        {
+          "id": "mark-03ta-7126-t34",
+          "title": "Tatort Astronautenschule - Teil 34",
+          "index": 33,
+          "startTime": 3073.539,
+          "duration": 113.926
+        }
+      ]
+    },
+    {
+      "id": "1686313198",
+      "title": "04: Hinter den Linien",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/60/6c/f3606c97-07c9-e0fb-09ce-f6fe8322dbe8/4057664073105.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel-Album von Mark Brandis, bekannt für Raumkader-Geschichten.",
+      "totalDuration": 2985.824,
+      "platforms": {
+        "appleMusic": "1686313198"
+      },
+      "chapters": [
+        {
+          "id": "mark-04hi-3198-t01",
+          "title": "Hinter den Linien - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 65.68
+        },
+        {
+          "id": "mark-04hi-3198-t02",
+          "title": "Hinter den Linien - Teil 02",
+          "index": 1,
+          "startTime": 65.68,
+          "duration": 85.845
+        },
+        {
+          "id": "mark-04hi-3198-t03",
+          "title": "Hinter den Linien - Teil 03",
+          "index": 2,
+          "startTime": 151.525,
+          "duration": 81.363
+        },
+        {
+          "id": "mark-04hi-3198-t04",
+          "title": "Hinter den Linien - Teil 04",
+          "index": 3,
+          "startTime": 232.888,
+          "duration": 84.892
+        },
+        {
+          "id": "mark-04hi-3198-t05",
+          "title": "Hinter den Linien - Teil 05",
+          "index": 4,
+          "startTime": 317.78,
+          "duration": 101.487
+        },
+        {
+          "id": "mark-04hi-3198-t06",
+          "title": "Hinter den Linien - Teil 06",
+          "index": 5,
+          "startTime": 419.267,
+          "duration": 119.311
+        },
+        {
+          "id": "mark-04hi-3198-t07",
+          "title": "Hinter den Linien - Teil 07",
+          "index": 6,
+          "startTime": 538.578,
+          "duration": 109.569
+        },
+        {
+          "id": "mark-04hi-3198-t08",
+          "title": "Hinter den Linien - Teil 08",
+          "index": 7,
+          "startTime": 648.147,
+          "duration": 82.344
+        },
+        {
+          "id": "mark-04hi-3198-t09",
+          "title": "Hinter den Linien - Teil 09",
+          "index": 8,
+          "startTime": 730.491,
+          "duration": 96.762
+        },
+        {
+          "id": "mark-04hi-3198-t10",
+          "title": "Hinter den Linien - Teil 10",
+          "index": 9,
+          "startTime": 827.253,
+          "duration": 84.307
+        },
+        {
+          "id": "mark-04hi-3198-t11",
+          "title": "Hinter den Linien - Teil 11",
+          "index": 10,
+          "startTime": 911.56,
+          "duration": 119.304
+        },
+        {
+          "id": "mark-04hi-3198-t12",
+          "title": "Hinter den Linien - Teil 12",
+          "index": 11,
+          "startTime": 1030.864,
+          "duration": 121.936
+        },
+        {
+          "id": "mark-04hi-3198-t13",
+          "title": "Hinter den Linien - Teil 13",
+          "index": 12,
+          "startTime": 1152.8,
+          "duration": 83.085
+        },
+        {
+          "id": "mark-04hi-3198-t14",
+          "title": "Hinter den Linien - Teil 14",
+          "index": 13,
+          "startTime": 1235.885,
+          "duration": 80.794
+        },
+        {
+          "id": "mark-04hi-3198-t15",
+          "title": "Hinter den Linien - Teil 15",
+          "index": 14,
+          "startTime": 1316.679,
+          "duration": 83.641
+        },
+        {
+          "id": "mark-04hi-3198-t16",
+          "title": "Hinter den Linien - Teil 16",
+          "index": 15,
+          "startTime": 1400.32,
+          "duration": 87.536
+        },
+        {
+          "id": "mark-04hi-3198-t17",
+          "title": "Hinter den Linien - Teil 17",
+          "index": 16,
+          "startTime": 1487.856,
+          "duration": 81.966
+        },
+        {
+          "id": "mark-04hi-3198-t18",
+          "title": "Hinter den Linien - Teil 18",
+          "index": 17,
+          "startTime": 1569.822,
+          "duration": 80.567
+        },
+        {
+          "id": "mark-04hi-3198-t19",
+          "title": "Hinter den Linien - Teil 19",
+          "index": 18,
+          "startTime": 1650.389,
+          "duration": 83.319
+        },
+        {
+          "id": "mark-04hi-3198-t20",
+          "title": "Hinter den Linien - Teil 20",
+          "index": 19,
+          "startTime": 1733.708,
+          "duration": 81.157
+        },
+        {
+          "id": "mark-04hi-3198-t21",
+          "title": "Hinter den Linien - Teil 21",
+          "index": 20,
+          "startTime": 1814.865,
+          "duration": 82.392
+        },
+        {
+          "id": "mark-04hi-3198-t22",
+          "title": "Hinter den Linien - Teil 22",
+          "index": 21,
+          "startTime": 1897.257,
+          "duration": 81.769
+        },
+        {
+          "id": "mark-04hi-3198-t23",
+          "title": "Hinter den Linien - Teil 23",
+          "index": 22,
+          "startTime": 1979.026,
+          "duration": 82.663
+        },
+        {
+          "id": "mark-04hi-3198-t24",
+          "title": "Hinter den Linien - Teil 24",
+          "index": 23,
+          "startTime": 2061.689,
+          "duration": 84.59
+        },
+        {
+          "id": "mark-04hi-3198-t25",
+          "title": "Hinter den Linien - Teil 25",
+          "index": 24,
+          "startTime": 2146.279,
+          "duration": 85.426
+        },
+        {
+          "id": "mark-04hi-3198-t26",
+          "title": "Hinter den Linien - Teil 26",
+          "index": 25,
+          "startTime": 2231.705,
+          "duration": 88.972
+        },
+        {
+          "id": "mark-04hi-3198-t27",
+          "title": "Hinter den Linien - Teil 27",
+          "index": 26,
+          "startTime": 2320.677,
+          "duration": 93.801
+        },
+        {
+          "id": "mark-04hi-3198-t28",
+          "title": "Hinter den Linien - Teil 28",
+          "index": 27,
+          "startTime": 2414.478,
+          "duration": 87.833
+        },
+        {
+          "id": "mark-04hi-3198-t29",
+          "title": "Hinter den Linien - Teil 29",
+          "index": 28,
+          "startTime": 2502.311,
+          "duration": 84.869
+        },
+        {
+          "id": "mark-04hi-3198-t30",
+          "title": "Hinter den Linien - Teil 30",
+          "index": 29,
+          "startTime": 2587.18,
+          "duration": 86.169
+        },
+        {
+          "id": "mark-04hi-3198-t31",
+          "title": "Hinter den Linien - Teil 31",
+          "index": 30,
+          "startTime": 2673.349,
+          "duration": 117.493
+        },
+        {
+          "id": "mark-04hi-3198-t32",
+          "title": "Hinter den Linien - Teil 32",
+          "index": 31,
+          "startTime": 2790.842,
+          "duration": 114.129
+        },
+        {
+          "id": "mark-04hi-3198-t33",
+          "title": "Hinter den Linien - Teil 33",
+          "index": 32,
+          "startTime": 2904.971,
+          "duration": 80.853
+        }
+      ]
+    },
+    {
+      "id": "1686294722",
+      "title": "05: Der Aladin-Schachzug",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ae/70/c7/ae70c7fb-d334-b019-64f6-1ed6710de6d2/4057664073075.jpg/100x100bb.jpg",
+      "description": "Ein Album mit dem Titel '05: Der Aladin-Schachzug' von Mark Brandis - Raumkadett, das sich auf Hörspiele spezialisiert hat.",
+      "totalDuration": 2704.68,
+      "platforms": {
+        "appleMusic": "1686294722"
+      },
+      "chapters": [
+        {
+          "id": "mark-05de-4722-t01",
+          "title": "Der Aladin-Schachzug - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 81.676
+        },
+        {
+          "id": "mark-05de-4722-t02",
+          "title": "Der Aladin-Schachzug - Teil 02",
+          "index": 1,
+          "startTime": 81.676,
+          "duration": 84.004
+        },
+        {
+          "id": "mark-05de-4722-t03",
+          "title": "Der Aladin-Schachzug - Teil 03",
+          "index": 2,
+          "startTime": 165.68,
+          "duration": 68.08
+        },
+        {
+          "id": "mark-05de-4722-t04",
+          "title": "Der Aladin-Schachzug - Teil 04",
+          "index": 3,
+          "startTime": 233.76,
+          "duration": 80.475
+        },
+        {
+          "id": "mark-05de-4722-t05",
+          "title": "Der Aladin-Schachzug - Teil 05",
+          "index": 4,
+          "startTime": 314.235,
+          "duration": 86.057
+        },
+        {
+          "id": "mark-05de-4722-t06",
+          "title": "Der Aladin-Schachzug - Teil 06",
+          "index": 5,
+          "startTime": 400.292,
+          "duration": 90.832
+        },
+        {
+          "id": "mark-05de-4722-t07",
+          "title": "Der Aladin-Schachzug - Teil 07",
+          "index": 6,
+          "startTime": 491.124,
+          "duration": 82.844
+        },
+        {
+          "id": "mark-05de-4722-t08",
+          "title": "Der Aladin-Schachzug - Teil 08",
+          "index": 7,
+          "startTime": 573.968,
+          "duration": 80.929
+        },
+        {
+          "id": "mark-05de-4722-t09",
+          "title": "Der Aladin-Schachzug - Teil 09",
+          "index": 8,
+          "startTime": 654.897,
+          "duration": 83.477
+        },
+        {
+          "id": "mark-05de-4722-t10",
+          "title": "Der Aladin-Schachzug - Teil 10",
+          "index": 9,
+          "startTime": 738.374,
+          "duration": 81.249
+        },
+        {
+          "id": "mark-05de-4722-t11",
+          "title": "Der Aladin-Schachzug - Teil 11",
+          "index": 10,
+          "startTime": 819.623,
+          "duration": 87.648
+        },
+        {
+          "id": "mark-05de-4722-t12",
+          "title": "Der Aladin-Schachzug - Teil 12",
+          "index": 11,
+          "startTime": 907.271,
+          "duration": 103.223
+        },
+        {
+          "id": "mark-05de-4722-t13",
+          "title": "Der Aladin-Schachzug - Teil 13",
+          "index": 12,
+          "startTime": 1010.494,
+          "duration": 88.995
+        },
+        {
+          "id": "mark-05de-4722-t14",
+          "title": "Der Aladin-Schachzug - Teil 14",
+          "index": 13,
+          "startTime": 1099.489,
+          "duration": 82.257
+        },
+        {
+          "id": "mark-05de-4722-t15",
+          "title": "Der Aladin-Schachzug - Teil 15",
+          "index": 14,
+          "startTime": 1181.746,
+          "duration": 83.72
+        },
+        {
+          "id": "mark-05de-4722-t16",
+          "title": "Der Aladin-Schachzug - Teil 16",
+          "index": 15,
+          "startTime": 1265.466,
+          "duration": 95.179
+        },
+        {
+          "id": "mark-05de-4722-t17",
+          "title": "Der Aladin-Schachzug - Teil 17",
+          "index": 16,
+          "startTime": 1360.645,
+          "duration": 115.21
+        },
+        {
+          "id": "mark-05de-4722-t18",
+          "title": "Der Aladin-Schachzug - Teil 18",
+          "index": 17,
+          "startTime": 1475.855,
+          "duration": 134.72
+        },
+        {
+          "id": "mark-05de-4722-t19",
+          "title": "Der Aladin-Schachzug - Teil 19",
+          "index": 18,
+          "startTime": 1610.575,
+          "duration": 88.627
+        },
+        {
+          "id": "mark-05de-4722-t20",
+          "title": "Der Aladin-Schachzug - Teil 20",
+          "index": 19,
+          "startTime": 1699.202,
+          "duration": 82.235
+        },
+        {
+          "id": "mark-05de-4722-t21",
+          "title": "Der Aladin-Schachzug - Teil 21",
+          "index": 20,
+          "startTime": 1781.437,
+          "duration": 94.319
+        },
+        {
+          "id": "mark-05de-4722-t22",
+          "title": "Der Aladin-Schachzug - Teil 22",
+          "index": 21,
+          "startTime": 1875.756,
+          "duration": 98.352
+        },
+        {
+          "id": "mark-05de-4722-t23",
+          "title": "Der Aladin-Schachzug - Teil 23",
+          "index": 22,
+          "startTime": 1974.108,
+          "duration": 101.014
+        },
+        {
+          "id": "mark-05de-4722-t24",
+          "title": "Der Aladin-Schachzug - Teil 24",
+          "index": 23,
+          "startTime": 2075.122,
+          "duration": 105.691
+        },
+        {
+          "id": "mark-05de-4722-t25",
+          "title": "Der Aladin-Schachzug - Teil 25",
+          "index": 24,
+          "startTime": 2180.813,
+          "duration": 83.458
+        },
+        {
+          "id": "mark-05de-4722-t26",
+          "title": "Der Aladin-Schachzug - Teil 26",
+          "index": 25,
+          "startTime": 2264.271,
+          "duration": 90.72
+        },
+        {
+          "id": "mark-05de-4722-t27",
+          "title": "Der Aladin-Schachzug - Teil 27",
+          "index": 26,
+          "startTime": 2354.991,
+          "duration": 81.57
+        },
+        {
+          "id": "mark-05de-4722-t28",
+          "title": "Der Aladin-Schachzug - Teil 28",
+          "index": 27,
+          "startTime": 2436.561,
+          "duration": 77.079
+        },
+        {
+          "id": "mark-05de-4722-t29",
+          "title": "Der Aladin-Schachzug - Teil 29",
+          "index": 28,
+          "startTime": 2513.64,
+          "duration": 83.5
+        },
+        {
+          "id": "mark-05de-4722-t30",
+          "title": "Der Aladin-Schachzug - Teil 30",
+          "index": 29,
+          "startTime": 2597.14,
+          "duration": 107.54
+        }
+      ]
+    },
+    {
+      "id": "1686252039",
+      "title": "06: Testakte Kolibri 2",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/fb/57/f3fb57da-95a6-c186-3813-bf893fd0345c/4057664072658.jpg/100x100bb.jpg",
+      "description": "Dieses Album umfasst 33 Tracks des Hörspiels 'Testakte Kolibri 2' von Mark Brandis. Es ist eindeutig als Hörspiel konzipiert.",
+      "totalDuration": 3137.065,
+      "platforms": {
+        "appleMusic": "1686252039"
+      },
+      "chapters": [
+        {
+          "id": "mark-06te-2039-t01",
+          "title": "Testakte Kolibri 2 - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 100.993
+        },
+        {
+          "id": "mark-06te-2039-t02",
+          "title": "Testakte Kolibri 2 - Teil 02",
+          "index": 1,
+          "startTime": 100.993,
+          "duration": 105.031
+        },
+        {
+          "id": "mark-06te-2039-t03",
+          "title": "Testakte Kolibri 2 - Teil 03",
+          "index": 2,
+          "startTime": 206.024,
+          "duration": 88.362
+        },
+        {
+          "id": "mark-06te-2039-t04",
+          "title": "Testakte Kolibri 2 - Teil 04",
+          "index": 3,
+          "startTime": 294.386,
+          "duration": 86.094
+        },
+        {
+          "id": "mark-06te-2039-t05",
+          "title": "Testakte Kolibri 2 - Teil 05",
+          "index": 4,
+          "startTime": 380.48,
+          "duration": 93.176
+        },
+        {
+          "id": "mark-06te-2039-t06",
+          "title": "Testakte Kolibri 2 - Teil 06",
+          "index": 5,
+          "startTime": 473.656,
+          "duration": 110.824
+        },
+        {
+          "id": "mark-06te-2039-t07",
+          "title": "Testakte Kolibri 2 - Teil 07",
+          "index": 6,
+          "startTime": 584.48,
+          "duration": 82.095
+        },
+        {
+          "id": "mark-06te-2039-t08",
+          "title": "Testakte Kolibri 2 - Teil 08",
+          "index": 7,
+          "startTime": 666.575,
+          "duration": 83.383
+        },
+        {
+          "id": "mark-06te-2039-t09",
+          "title": "Testakte Kolibri 2 - Teil 09",
+          "index": 8,
+          "startTime": 749.958,
+          "duration": 81.514
+        },
+        {
+          "id": "mark-06te-2039-t10",
+          "title": "Testakte Kolibri 2 - Teil 10",
+          "index": 9,
+          "startTime": 831.472,
+          "duration": 83.782
+        },
+        {
+          "id": "mark-06te-2039-t11",
+          "title": "Testakte Kolibri 2 - Teil 11",
+          "index": 10,
+          "startTime": 915.254,
+          "duration": 87.85
+        },
+        {
+          "id": "mark-06te-2039-t12",
+          "title": "Testakte Kolibri 2 - Teil 12",
+          "index": 11,
+          "startTime": 1003.104,
+          "duration": 82.276
+        },
+        {
+          "id": "mark-06te-2039-t13",
+          "title": "Testakte Kolibri 2 - Teil 13",
+          "index": 12,
+          "startTime": 1085.38,
+          "duration": 118.45
+        },
+        {
+          "id": "mark-06te-2039-t14",
+          "title": "Testakte Kolibri 2 - Teil 14",
+          "index": 13,
+          "startTime": 1203.83,
+          "duration": 119.198
+        },
+        {
+          "id": "mark-06te-2039-t15",
+          "title": "Testakte Kolibri 2 - Teil 15",
+          "index": 14,
+          "startTime": 1323.028,
+          "duration": 88.402
+        },
+        {
+          "id": "mark-06te-2039-t16",
+          "title": "Testakte Kolibri 2 - Teil 16",
+          "index": 15,
+          "startTime": 1411.43,
+          "duration": 81.438
+        },
+        {
+          "id": "mark-06te-2039-t17",
+          "title": "Testakte Kolibri 2 - Teil 17",
+          "index": 16,
+          "startTime": 1492.868,
+          "duration": 91.92
+        },
+        {
+          "id": "mark-06te-2039-t18",
+          "title": "Testakte Kolibri 2 - Teil 18",
+          "index": 17,
+          "startTime": 1584.788,
+          "duration": 90.154
+        },
+        {
+          "id": "mark-06te-2039-t19",
+          "title": "Testakte Kolibri 2 - Teil 19",
+          "index": 18,
+          "startTime": 1674.942,
+          "duration": 80.598
+        },
+        {
+          "id": "mark-06te-2039-t20",
+          "title": "Testakte Kolibri 2 - Teil 20",
+          "index": 19,
+          "startTime": 1755.54,
+          "duration": 80.833
+        },
+        {
+          "id": "mark-06te-2039-t21",
+          "title": "Testakte Kolibri 2 - Teil 21",
+          "index": 20,
+          "startTime": 1836.373,
+          "duration": 80.238
+        },
+        {
+          "id": "mark-06te-2039-t22",
+          "title": "Testakte Kolibri 2 - Teil 22",
+          "index": 21,
+          "startTime": 1916.611,
+          "duration": 84.136
+        },
+        {
+          "id": "mark-06te-2039-t23",
+          "title": "Testakte Kolibri 2 - Teil 23",
+          "index": 22,
+          "startTime": 2000.747,
+          "duration": 109.908
+        },
+        {
+          "id": "mark-06te-2039-t24",
+          "title": "Testakte Kolibri 2 - Teil 24",
+          "index": 23,
+          "startTime": 2110.655,
+          "duration": 84.611
+        },
+        {
+          "id": "mark-06te-2039-t25",
+          "title": "Testakte Kolibri 2 - Teil 25",
+          "index": 24,
+          "startTime": 2195.266,
+          "duration": 82.288
+        },
+        {
+          "id": "mark-06te-2039-t26",
+          "title": "Testakte Kolibri 2 - Teil 26",
+          "index": 25,
+          "startTime": 2277.554,
+          "duration": 82.967
+        },
+        {
+          "id": "mark-06te-2039-t27",
+          "title": "Testakte Kolibri 2 - Teil 27",
+          "index": 26,
+          "startTime": 2360.521,
+          "duration": 94.676
+        },
+        {
+          "id": "mark-06te-2039-t28",
+          "title": "Testakte Kolibri 2 - Teil 28",
+          "index": 27,
+          "startTime": 2455.197,
+          "duration": 102.606
+        },
+        {
+          "id": "mark-06te-2039-t29",
+          "title": "Testakte Kolibri 2 - Teil 29",
+          "index": 28,
+          "startTime": 2557.803,
+          "duration": 107.944
+        },
+        {
+          "id": "mark-06te-2039-t30",
+          "title": "Testakte Kolibri 2 - Teil 30",
+          "index": 29,
+          "startTime": 2665.747,
+          "duration": 106.739
+        },
+        {
+          "id": "mark-06te-2039-t31",
+          "title": "Testakte Kolibri 2 - Teil 31",
+          "index": 30,
+          "startTime": 2772.486,
+          "duration": 114.12
+        },
+        {
+          "id": "mark-06te-2039-t32",
+          "title": "Testakte Kolibri 2 - Teil 32",
+          "index": 31,
+          "startTime": 2886.606,
+          "duration": 108.767
+        },
+        {
+          "id": "mark-06te-2039-t33",
+          "title": "Testakte Kolibri 2 - Teil 33",
+          "index": 32,
+          "startTime": 2995.373,
+          "duration": 141.692
+        }
+      ]
+    },
+    {
+      "id": "1686317155",
+      "title": "07: Laurin",
+      "episodeNumber": 7,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/dd/cf/f6ddcfeb-e87b-5d53-6620-b3c93dbd3a4b/4057664073082.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält 38 Tracks des Künstlers Mark Brandis als Raumkadett und wird im Genre Hörspiele klassifiziert.",
+      "totalDuration": 3520.722,
+      "platforms": {
+        "appleMusic": "1686317155"
+      },
+      "chapters": [
+        {
+          "id": "mark-07la-7155-t01",
+          "title": "Laurin - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 80.432
+        },
+        {
+          "id": "mark-07la-7155-t02",
+          "title": "Laurin - Teil 02",
+          "index": 1,
+          "startTime": 80.432,
+          "duration": 86.983
+        },
+        {
+          "id": "mark-07la-7155-t03",
+          "title": "Laurin - Teil 03",
+          "index": 2,
+          "startTime": 167.415,
+          "duration": 90.785
+        },
+        {
+          "id": "mark-07la-7155-t04",
+          "title": "Laurin - Teil 04",
+          "index": 3,
+          "startTime": 258.2,
+          "duration": 87.015
+        },
+        {
+          "id": "mark-07la-7155-t05",
+          "title": "Laurin - Teil 05",
+          "index": 4,
+          "startTime": 345.215,
+          "duration": 95.477
+        },
+        {
+          "id": "mark-07la-7155-t06",
+          "title": "Laurin - Teil 06",
+          "index": 5,
+          "startTime": 440.692,
+          "duration": 111.295
+        },
+        {
+          "id": "mark-07la-7155-t07",
+          "title": "Laurin - Teil 07",
+          "index": 6,
+          "startTime": 551.987,
+          "duration": 66.387
+        },
+        {
+          "id": "mark-07la-7155-t08",
+          "title": "Laurin - Teil 08",
+          "index": 7,
+          "startTime": 618.374,
+          "duration": 94.721
+        },
+        {
+          "id": "mark-07la-7155-t09",
+          "title": "Laurin - Teil 09",
+          "index": 8,
+          "startTime": 713.095,
+          "duration": 99.966
+        },
+        {
+          "id": "mark-07la-7155-t10",
+          "title": "Laurin - Teil 10",
+          "index": 9,
+          "startTime": 813.061,
+          "duration": 93.22
+        },
+        {
+          "id": "mark-07la-7155-t11",
+          "title": "Laurin - Teil 11",
+          "index": 10,
+          "startTime": 906.281,
+          "duration": 81.136
+        },
+        {
+          "id": "mark-07la-7155-t12",
+          "title": "Laurin - Teil 12",
+          "index": 11,
+          "startTime": 987.417,
+          "duration": 80.845
+        },
+        {
+          "id": "mark-07la-7155-t13",
+          "title": "Laurin - Teil 13",
+          "index": 12,
+          "startTime": 1068.262,
+          "duration": 94.721
+        },
+        {
+          "id": "mark-07la-7155-t14",
+          "title": "Laurin - Teil 14",
+          "index": 13,
+          "startTime": 1162.983,
+          "duration": 83.59
+        },
+        {
+          "id": "mark-07la-7155-t15",
+          "title": "Laurin - Teil 15",
+          "index": 14,
+          "startTime": 1246.573,
+          "duration": 81.064
+        },
+        {
+          "id": "mark-07la-7155-t16",
+          "title": "Laurin - Teil 16",
+          "index": 15,
+          "startTime": 1327.637,
+          "duration": 91.35
+        },
+        {
+          "id": "mark-07la-7155-t17",
+          "title": "Laurin - Teil 17",
+          "index": 16,
+          "startTime": 1418.987,
+          "duration": 99.054
+        },
+        {
+          "id": "mark-07la-7155-t18",
+          "title": "Laurin - Teil 18",
+          "index": 17,
+          "startTime": 1518.041,
+          "duration": 116.354
+        },
+        {
+          "id": "mark-07la-7155-t19",
+          "title": "Laurin - Teil 19",
+          "index": 18,
+          "startTime": 1634.395,
+          "duration": 114.833
+        },
+        {
+          "id": "mark-07la-7155-t20",
+          "title": "Laurin - Teil 20",
+          "index": 19,
+          "startTime": 1749.228,
+          "duration": 91.916
+        },
+        {
+          "id": "mark-07la-7155-t21",
+          "title": "Laurin - Teil 21",
+          "index": 20,
+          "startTime": 1841.144,
+          "duration": 93.418
+        },
+        {
+          "id": "mark-07la-7155-t22",
+          "title": "Laurin - Teil 22",
+          "index": 21,
+          "startTime": 1934.562,
+          "duration": 89.571
+        },
+        {
+          "id": "mark-07la-7155-t23",
+          "title": "Laurin - Teil 23",
+          "index": 22,
+          "startTime": 2024.133,
+          "duration": 83.713
+        },
+        {
+          "id": "mark-07la-7155-t24",
+          "title": "Laurin - Teil 24",
+          "index": 23,
+          "startTime": 2107.846,
+          "duration": 93.624
+        },
+        {
+          "id": "mark-07la-7155-t25",
+          "title": "Laurin - Teil 25",
+          "index": 24,
+          "startTime": 2201.47,
+          "duration": 87.593
+        },
+        {
+          "id": "mark-07la-7155-t26",
+          "title": "Laurin - Teil 26",
+          "index": 25,
+          "startTime": 2289.063,
+          "duration": 82.584
+        },
+        {
+          "id": "mark-07la-7155-t27",
+          "title": "Laurin - Teil 27",
+          "index": 26,
+          "startTime": 2371.647,
+          "duration": 80.925
+        },
+        {
+          "id": "mark-07la-7155-t28",
+          "title": "Laurin - Teil 28",
+          "index": 27,
+          "startTime": 2452.572,
+          "duration": 116.17
+        },
+        {
+          "id": "mark-07la-7155-t29",
+          "title": "Laurin - Teil 29",
+          "index": 28,
+          "startTime": 2568.742,
+          "duration": 118.674
+        },
+        {
+          "id": "mark-07la-7155-t30",
+          "title": "Laurin - Teil 30",
+          "index": 29,
+          "startTime": 2687.416,
+          "duration": 84.094
+        },
+        {
+          "id": "mark-07la-7155-t31",
+          "title": "Laurin - Teil 31",
+          "index": 30,
+          "startTime": 2771.51,
+          "duration": 95.577
+        },
+        {
+          "id": "mark-07la-7155-t32",
+          "title": "Laurin - Teil 32",
+          "index": 31,
+          "startTime": 2867.087,
+          "duration": 87.914
+        },
+        {
+          "id": "mark-07la-7155-t33",
+          "title": "Laurin - Teil 33",
+          "index": 32,
+          "startTime": 2955.001,
+          "duration": 107.5
+        },
+        {
+          "id": "mark-07la-7155-t34",
+          "title": "Laurin - Teil 34",
+          "index": 33,
+          "startTime": 3062.501,
+          "duration": 102.877
+        },
+        {
+          "id": "mark-07la-7155-t35",
+          "title": "Laurin - Teil 35",
+          "index": 34,
+          "startTime": 3165.378,
+          "duration": 112.011
+        },
+        {
+          "id": "mark-07la-7155-t36",
+          "title": "Laurin - Teil 36",
+          "index": 35,
+          "startTime": 3277.389,
+          "duration": 80.941
+        },
+        {
+          "id": "mark-07la-7155-t37",
+          "title": "Laurin - Teil 37",
+          "index": 36,
+          "startTime": 3358.33,
+          "duration": 82.199
+        },
+        {
+          "id": "mark-07la-7155-t38",
+          "title": "Laurin - Teil 38",
+          "index": 37,
+          "startTime": 3440.529,
+          "duration": 80.193
+        }
+      ]
+    },
+    {
+      "id": "1686322025",
+      "title": "08: Mondschatten",
+      "episodeNumber": 8,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/f3/42/7ef3428a-8c39-ad6d-9d98-40c8e53683f2/4057664073099.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel über Raumfahrt und Abenteuer im Weltall.",
+      "totalDuration": 3395.078,
+      "platforms": {
+        "appleMusic": "1686322025"
+      },
+      "chapters": [
+        {
+          "id": "mark-08mo-2025-t01",
+          "title": "Mondschatten - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 85.194
+        },
+        {
+          "id": "mark-08mo-2025-t02",
+          "title": "Mondschatten - Teil 02",
+          "index": 1,
+          "startTime": 85.194,
+          "duration": 114.908
+        },
+        {
+          "id": "mark-08mo-2025-t03",
+          "title": "Mondschatten - Teil 03",
+          "index": 2,
+          "startTime": 200.102,
+          "duration": 117.645
+        },
+        {
+          "id": "mark-08mo-2025-t04",
+          "title": "Mondschatten - Teil 04",
+          "index": 3,
+          "startTime": 317.747,
+          "duration": 64.107
+        },
+        {
+          "id": "mark-08mo-2025-t05",
+          "title": "Mondschatten - Teil 05",
+          "index": 4,
+          "startTime": 381.854,
+          "duration": 88.543
+        },
+        {
+          "id": "mark-08mo-2025-t06",
+          "title": "Mondschatten - Teil 06",
+          "index": 5,
+          "startTime": 470.397,
+          "duration": 88.016
+        },
+        {
+          "id": "mark-08mo-2025-t07",
+          "title": "Mondschatten - Teil 07",
+          "index": 6,
+          "startTime": 558.413,
+          "duration": 94.197
+        },
+        {
+          "id": "mark-08mo-2025-t08",
+          "title": "Mondschatten - Teil 08",
+          "index": 7,
+          "startTime": 652.61,
+          "duration": 115.727
+        },
+        {
+          "id": "mark-08mo-2025-t09",
+          "title": "Mondschatten - Teil 09",
+          "index": 8,
+          "startTime": 768.337,
+          "duration": 104.757
+        },
+        {
+          "id": "mark-08mo-2025-t10",
+          "title": "Mondschatten - Teil 10",
+          "index": 9,
+          "startTime": 873.094,
+          "duration": 84.49
+        },
+        {
+          "id": "mark-08mo-2025-t11",
+          "title": "Mondschatten - Teil 11",
+          "index": 10,
+          "startTime": 957.584,
+          "duration": 93.915
+        },
+        {
+          "id": "mark-08mo-2025-t12",
+          "title": "Mondschatten - Teil 12",
+          "index": 11,
+          "startTime": 1051.499,
+          "duration": 90.915
+        },
+        {
+          "id": "mark-08mo-2025-t13",
+          "title": "Mondschatten - Teil 13",
+          "index": 12,
+          "startTime": 1142.414,
+          "duration": 104.684
+        },
+        {
+          "id": "mark-08mo-2025-t14",
+          "title": "Mondschatten - Teil 14",
+          "index": 13,
+          "startTime": 1247.098,
+          "duration": 81.757
+        },
+        {
+          "id": "mark-08mo-2025-t15",
+          "title": "Mondschatten - Teil 15",
+          "index": 14,
+          "startTime": 1328.855,
+          "duration": 86.169
+        },
+        {
+          "id": "mark-08mo-2025-t16",
+          "title": "Mondschatten - Teil 16",
+          "index": 15,
+          "startTime": 1415.024,
+          "duration": 98.109
+        },
+        {
+          "id": "mark-08mo-2025-t17",
+          "title": "Mondschatten - Teil 17",
+          "index": 16,
+          "startTime": 1513.133,
+          "duration": 86.768
+        },
+        {
+          "id": "mark-08mo-2025-t18",
+          "title": "Mondschatten - Teil 18",
+          "index": 17,
+          "startTime": 1599.901,
+          "duration": 84.335
+        },
+        {
+          "id": "mark-08mo-2025-t19",
+          "title": "Mondschatten - Teil 19",
+          "index": 18,
+          "startTime": 1684.236,
+          "duration": 81.862
+        },
+        {
+          "id": "mark-08mo-2025-t20",
+          "title": "Mondschatten - Teil 20",
+          "index": 19,
+          "startTime": 1766.098,
+          "duration": 82.955
+        },
+        {
+          "id": "mark-08mo-2025-t21",
+          "title": "Mondschatten - Teil 21",
+          "index": 20,
+          "startTime": 1849.053,
+          "duration": 91.914
+        },
+        {
+          "id": "mark-08mo-2025-t22",
+          "title": "Mondschatten - Teil 22",
+          "index": 21,
+          "startTime": 1940.967,
+          "duration": 80.051
+        },
+        {
+          "id": "mark-08mo-2025-t23",
+          "title": "Mondschatten - Teil 23",
+          "index": 22,
+          "startTime": 2021.018,
+          "duration": 99.439
+        },
+        {
+          "id": "mark-08mo-2025-t24",
+          "title": "Mondschatten - Teil 24",
+          "index": 23,
+          "startTime": 2120.457,
+          "duration": 83.422
+        },
+        {
+          "id": "mark-08mo-2025-t25",
+          "title": "Mondschatten - Teil 25",
+          "index": 24,
+          "startTime": 2203.879,
+          "duration": 81.776
+        },
+        {
+          "id": "mark-08mo-2025-t26",
+          "title": "Mondschatten - Teil 26",
+          "index": 25,
+          "startTime": 2285.655,
+          "duration": 82.5
+        },
+        {
+          "id": "mark-08mo-2025-t27",
+          "title": "Mondschatten - Teil 27",
+          "index": 26,
+          "startTime": 2368.155,
+          "duration": 85.769
+        },
+        {
+          "id": "mark-08mo-2025-t28",
+          "title": "Mondschatten - Teil 28",
+          "index": 27,
+          "startTime": 2453.924,
+          "duration": 101.547
+        },
+        {
+          "id": "mark-08mo-2025-t29",
+          "title": "Mondschatten - Teil 29",
+          "index": 28,
+          "startTime": 2555.471,
+          "duration": 112.301
+        },
+        {
+          "id": "mark-08mo-2025-t30",
+          "title": "Mondschatten - Teil 30",
+          "index": 29,
+          "startTime": 2667.772,
+          "duration": 85.991
+        },
+        {
+          "id": "mark-08mo-2025-t31",
+          "title": "Mondschatten - Teil 31",
+          "index": 30,
+          "startTime": 2753.763,
+          "duration": 85.525
+        },
+        {
+          "id": "mark-08mo-2025-t32",
+          "title": "Mondschatten - Teil 32",
+          "index": 31,
+          "startTime": 2839.288,
+          "duration": 83.035
+        },
+        {
+          "id": "mark-08mo-2025-t33",
+          "title": "Mondschatten - Teil 33",
+          "index": 32,
+          "startTime": 2922.323,
+          "duration": 111.688
+        },
+        {
+          "id": "mark-08mo-2025-t34",
+          "title": "Mondschatten - Teil 34",
+          "index": 33,
+          "startTime": 3034.011,
+          "duration": 109.041
+        },
+        {
+          "id": "mark-08mo-2025-t35",
+          "title": "Mondschatten - Teil 35",
+          "index": 34,
+          "startTime": 3143.052,
+          "duration": 85.124
+        },
+        {
+          "id": "mark-08mo-2025-t36",
+          "title": "Mondschatten - Teil 36",
+          "index": 35,
+          "startTime": 3228.176,
+          "duration": 84.288
+        },
+        {
+          "id": "mark-08mo-2025-t37",
+          "title": "Mondschatten - Teil 37",
+          "index": 36,
+          "startTime": 3312.464,
+          "duration": 82.614
+        }
+      ]
+    },
+    {
+      "id": "1686298483",
+      "title": "09: Endstation Pallas",
+      "episodeNumber": 9,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/6e/b1/c16eb1ad-54c0-3cff-4b0f-5b8fb0b8de95/4057664072993.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das als Raumkrimi konzipiert ist und möglicherweise Abenteuer- oder Science-Fiction-Elemente enthält.",
+      "totalDuration": 3284.025,
+      "platforms": {
+        "appleMusic": "1686298483"
+      },
+      "chapters": [
+        {
+          "id": "mark-09en-8483-t01",
+          "title": "Endstation Pallas - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 100.063
+        },
+        {
+          "id": "mark-09en-8483-t02",
+          "title": "Endstation Pallas - Teil 02",
+          "index": 1,
+          "startTime": 100.063,
+          "duration": 115.723
+        },
+        {
+          "id": "mark-09en-8483-t03",
+          "title": "Endstation Pallas - Teil 03",
+          "index": 2,
+          "startTime": 215.786,
+          "duration": 64.24
+        },
+        {
+          "id": "mark-09en-8483-t04",
+          "title": "Endstation Pallas - Teil 04",
+          "index": 3,
+          "startTime": 280.026,
+          "duration": 82.333
+        },
+        {
+          "id": "mark-09en-8483-t05",
+          "title": "Endstation Pallas - Teil 05",
+          "index": 4,
+          "startTime": 362.359,
+          "duration": 80.094
+        },
+        {
+          "id": "mark-09en-8483-t06",
+          "title": "Endstation Pallas - Teil 06",
+          "index": 5,
+          "startTime": 442.453,
+          "duration": 80.4
+        },
+        {
+          "id": "mark-09en-8483-t07",
+          "title": "Endstation Pallas - Teil 07",
+          "index": 6,
+          "startTime": 522.853,
+          "duration": 88.865
+        },
+        {
+          "id": "mark-09en-8483-t08",
+          "title": "Endstation Pallas - Teil 08",
+          "index": 7,
+          "startTime": 611.718,
+          "duration": 85.537
+        },
+        {
+          "id": "mark-09en-8483-t09",
+          "title": "Endstation Pallas - Teil 09",
+          "index": 8,
+          "startTime": 697.255,
+          "duration": 80.376
+        },
+        {
+          "id": "mark-09en-8483-t10",
+          "title": "Endstation Pallas - Teil 10",
+          "index": 9,
+          "startTime": 777.631,
+          "duration": 80.132
+        },
+        {
+          "id": "mark-09en-8483-t11",
+          "title": "Endstation Pallas - Teil 11",
+          "index": 10,
+          "startTime": 857.763,
+          "duration": 93.989
+        },
+        {
+          "id": "mark-09en-8483-t12",
+          "title": "Endstation Pallas - Teil 12",
+          "index": 11,
+          "startTime": 951.752,
+          "duration": 93.916
+        },
+        {
+          "id": "mark-09en-8483-t13",
+          "title": "Endstation Pallas - Teil 13",
+          "index": 12,
+          "startTime": 1045.668,
+          "duration": 83.41
+        },
+        {
+          "id": "mark-09en-8483-t14",
+          "title": "Endstation Pallas - Teil 14",
+          "index": 13,
+          "startTime": 1129.078,
+          "duration": 83.144
+        },
+        {
+          "id": "mark-09en-8483-t15",
+          "title": "Endstation Pallas - Teil 15",
+          "index": 14,
+          "startTime": 1212.222,
+          "duration": 82.481
+        },
+        {
+          "id": "mark-09en-8483-t16",
+          "title": "Endstation Pallas - Teil 16",
+          "index": 15,
+          "startTime": 1294.703,
+          "duration": 87.577
+        },
+        {
+          "id": "mark-09en-8483-t17",
+          "title": "Endstation Pallas - Teil 17",
+          "index": 16,
+          "startTime": 1382.28,
+          "duration": 91.694
+        },
+        {
+          "id": "mark-09en-8483-t18",
+          "title": "Endstation Pallas - Teil 18",
+          "index": 17,
+          "startTime": 1473.974,
+          "duration": 82.097
+        },
+        {
+          "id": "mark-09en-8483-t19",
+          "title": "Endstation Pallas - Teil 19",
+          "index": 18,
+          "startTime": 1556.071,
+          "duration": 82.143
+        },
+        {
+          "id": "mark-09en-8483-t20",
+          "title": "Endstation Pallas - Teil 20",
+          "index": 19,
+          "startTime": 1638.214,
+          "duration": 110.226
+        },
+        {
+          "id": "mark-09en-8483-t21",
+          "title": "Endstation Pallas - Teil 21",
+          "index": 20,
+          "startTime": 1748.44,
+          "duration": 89.21
+        },
+        {
+          "id": "mark-09en-8483-t22",
+          "title": "Endstation Pallas - Teil 22",
+          "index": 21,
+          "startTime": 1837.65,
+          "duration": 93.373
+        },
+        {
+          "id": "mark-09en-8483-t23",
+          "title": "Endstation Pallas - Teil 23",
+          "index": 22,
+          "startTime": 1931.023,
+          "duration": 83.409
+        },
+        {
+          "id": "mark-09en-8483-t24",
+          "title": "Endstation Pallas - Teil 24",
+          "index": 23,
+          "startTime": 2014.432,
+          "duration": 82.858
+        },
+        {
+          "id": "mark-09en-8483-t25",
+          "title": "Endstation Pallas - Teil 25",
+          "index": 24,
+          "startTime": 2097.29,
+          "duration": 83.348
+        },
+        {
+          "id": "mark-09en-8483-t26",
+          "title": "Endstation Pallas - Teil 26",
+          "index": 25,
+          "startTime": 2180.638,
+          "duration": 90.615
+        },
+        {
+          "id": "mark-09en-8483-t27",
+          "title": "Endstation Pallas - Teil 27",
+          "index": 26,
+          "startTime": 2271.253,
+          "duration": 106.505
+        },
+        {
+          "id": "mark-09en-8483-t28",
+          "title": "Endstation Pallas - Teil 28",
+          "index": 27,
+          "startTime": 2377.758,
+          "duration": 84.123
+        },
+        {
+          "id": "mark-09en-8483-t29",
+          "title": "Endstation Pallas - Teil 29",
+          "index": 28,
+          "startTime": 2461.881,
+          "duration": 98.075
+        },
+        {
+          "id": "mark-09en-8483-t30",
+          "title": "Endstation Pallas - Teil 30",
+          "index": 29,
+          "startTime": 2559.956,
+          "duration": 108.11
+        },
+        {
+          "id": "mark-09en-8483-t31",
+          "title": "Endstation Pallas - Teil 31",
+          "index": 30,
+          "startTime": 2668.066,
+          "duration": 94.545
+        },
+        {
+          "id": "mark-09en-8483-t32",
+          "title": "Endstation Pallas - Teil 32",
+          "index": 31,
+          "startTime": 2762.611,
+          "duration": 90.482
+        },
+        {
+          "id": "mark-09en-8483-t33",
+          "title": "Endstation Pallas - Teil 33",
+          "index": 32,
+          "startTime": 2853.093,
+          "duration": 89.946
+        },
+        {
+          "id": "mark-09en-8483-t34",
+          "title": "Endstation Pallas - Teil 34",
+          "index": 33,
+          "startTime": 2943.039,
+          "duration": 100.296
+        },
+        {
+          "id": "mark-09en-8483-t35",
+          "title": "Endstation Pallas - Teil 35",
+          "index": 34,
+          "startTime": 3043.335,
+          "duration": 119.791
+        },
+        {
+          "id": "mark-09en-8483-t36",
+          "title": "Endstation Pallas - Teil 36",
+          "index": 35,
+          "startTime": 3163.126,
+          "duration": 120.899
+        }
+      ]
+    },
+    {
+      "id": "1686299409",
+      "title": "10: Zwischen den Fronten",
+      "episodeNumber": 10,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/6d/55/946d55ee-9049-62be-212e-8cae932b4757/4057664073068.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiele, die auf Spannung und Spannung in einer Science-Fiction-Setting basieren, typisch für deutsche Hörspielproduktionen.",
+      "totalDuration": 3723.347,
+      "platforms": {
+        "appleMusic": "1686299409"
+      },
+      "chapters": [
+        {
+          "id": "mark-10zw-9409-t01",
+          "title": "Zwischen den Fronten - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 87.24
+        },
+        {
+          "id": "mark-10zw-9409-t02",
+          "title": "Zwischen den Fronten - Teil 02",
+          "index": 1,
+          "startTime": 87.24,
+          "duration": 116.988
+        },
+        {
+          "id": "mark-10zw-9409-t03",
+          "title": "Zwischen den Fronten - Teil 03",
+          "index": 2,
+          "startTime": 204.228,
+          "duration": 119.118
+        },
+        {
+          "id": "mark-10zw-9409-t04",
+          "title": "Zwischen den Fronten - Teil 04",
+          "index": 3,
+          "startTime": 323.346,
+          "duration": 64.747
+        },
+        {
+          "id": "mark-10zw-9409-t05",
+          "title": "Zwischen den Fronten - Teil 05",
+          "index": 4,
+          "startTime": 388.093,
+          "duration": 80.95
+        },
+        {
+          "id": "mark-10zw-9409-t06",
+          "title": "Zwischen den Fronten - Teil 06",
+          "index": 5,
+          "startTime": 469.043,
+          "duration": 81.99
+        },
+        {
+          "id": "mark-10zw-9409-t07",
+          "title": "Zwischen den Fronten - Teil 07",
+          "index": 6,
+          "startTime": 551.033,
+          "duration": 97.437
+        },
+        {
+          "id": "mark-10zw-9409-t08",
+          "title": "Zwischen den Fronten - Teil 08",
+          "index": 7,
+          "startTime": 648.47,
+          "duration": 104.771
+        },
+        {
+          "id": "mark-10zw-9409-t09",
+          "title": "Zwischen den Fronten - Teil 09",
+          "index": 8,
+          "startTime": 753.241,
+          "duration": 85.325
+        },
+        {
+          "id": "mark-10zw-9409-t10",
+          "title": "Zwischen den Fronten - Teil 10",
+          "index": 9,
+          "startTime": 838.566,
+          "duration": 118.132
+        },
+        {
+          "id": "mark-10zw-9409-t11",
+          "title": "Zwischen den Fronten - Teil 11",
+          "index": 10,
+          "startTime": 956.698,
+          "duration": 81.258
+        },
+        {
+          "id": "mark-10zw-9409-t12",
+          "title": "Zwischen den Fronten - Teil 12",
+          "index": 11,
+          "startTime": 1037.956,
+          "duration": 84.445
+        },
+        {
+          "id": "mark-10zw-9409-t13",
+          "title": "Zwischen den Fronten - Teil 13",
+          "index": 12,
+          "startTime": 1122.401,
+          "duration": 85.479
+        },
+        {
+          "id": "mark-10zw-9409-t14",
+          "title": "Zwischen den Fronten - Teil 14",
+          "index": 13,
+          "startTime": 1207.88,
+          "duration": 82.431
+        },
+        {
+          "id": "mark-10zw-9409-t15",
+          "title": "Zwischen den Fronten - Teil 15",
+          "index": 14,
+          "startTime": 1290.311,
+          "duration": 86.727
+        },
+        {
+          "id": "mark-10zw-9409-t16",
+          "title": "Zwischen den Fronten - Teil 16",
+          "index": 15,
+          "startTime": 1377.038,
+          "duration": 102.365
+        },
+        {
+          "id": "mark-10zw-9409-t17",
+          "title": "Zwischen den Fronten - Teil 17",
+          "index": 16,
+          "startTime": 1479.403,
+          "duration": 100.532
+        },
+        {
+          "id": "mark-10zw-9409-t18",
+          "title": "Zwischen den Fronten - Teil 18",
+          "index": 17,
+          "startTime": 1579.935,
+          "duration": 83.985
+        },
+        {
+          "id": "mark-10zw-9409-t19",
+          "title": "Zwischen den Fronten - Teil 19",
+          "index": 18,
+          "startTime": 1663.92,
+          "duration": 87.832
+        },
+        {
+          "id": "mark-10zw-9409-t20",
+          "title": "Zwischen den Fronten - Teil 20",
+          "index": 19,
+          "startTime": 1751.752,
+          "duration": 82.666
+        },
+        {
+          "id": "mark-10zw-9409-t21",
+          "title": "Zwischen den Fronten - Teil 21",
+          "index": 20,
+          "startTime": 1834.418,
+          "duration": 84.805
+        },
+        {
+          "id": "mark-10zw-9409-t22",
+          "title": "Zwischen den Fronten - Teil 22",
+          "index": 21,
+          "startTime": 1919.223,
+          "duration": 83.925
+        },
+        {
+          "id": "mark-10zw-9409-t23",
+          "title": "Zwischen den Fronten - Teil 23",
+          "index": 22,
+          "startTime": 2003.148,
+          "duration": 85.57
+        },
+        {
+          "id": "mark-10zw-9409-t24",
+          "title": "Zwischen den Fronten - Teil 24",
+          "index": 23,
+          "startTime": 2088.718,
+          "duration": 93.118
+        },
+        {
+          "id": "mark-10zw-9409-t25",
+          "title": "Zwischen den Fronten - Teil 25",
+          "index": 24,
+          "startTime": 2181.836,
+          "duration": 108.259
+        },
+        {
+          "id": "mark-10zw-9409-t26",
+          "title": "Zwischen den Fronten - Teil 26",
+          "index": 25,
+          "startTime": 2290.095,
+          "duration": 82.034
+        },
+        {
+          "id": "mark-10zw-9409-t27",
+          "title": "Zwischen den Fronten - Teil 27",
+          "index": 26,
+          "startTime": 2372.129,
+          "duration": 87.98
+        },
+        {
+          "id": "mark-10zw-9409-t28",
+          "title": "Zwischen den Fronten - Teil 28",
+          "index": 27,
+          "startTime": 2460.109,
+          "duration": 85.058
+        },
+        {
+          "id": "mark-10zw-9409-t29",
+          "title": "Zwischen den Fronten - Teil 29",
+          "index": 28,
+          "startTime": 2545.167,
+          "duration": 106.58
+        },
+        {
+          "id": "mark-10zw-9409-t30",
+          "title": "Zwischen den Fronten - Teil 30",
+          "index": 29,
+          "startTime": 2651.747,
+          "duration": 116.973
+        },
+        {
+          "id": "mark-10zw-9409-t31",
+          "title": "Zwischen den Fronten - Teil 31",
+          "index": 30,
+          "startTime": 2768.72,
+          "duration": 115.708
+        },
+        {
+          "id": "mark-10zw-9409-t32",
+          "title": "Zwischen den Fronten - Teil 32",
+          "index": 31,
+          "startTime": 2884.428,
+          "duration": 88.639
+        },
+        {
+          "id": "mark-10zw-9409-t33",
+          "title": "Zwischen den Fronten - Teil 33",
+          "index": 32,
+          "startTime": 2973.067,
+          "duration": 91.597
+        },
+        {
+          "id": "mark-10zw-9409-t34",
+          "title": "Zwischen den Fronten - Teil 34",
+          "index": 33,
+          "startTime": 3064.664,
+          "duration": 88.334
+        },
+        {
+          "id": "mark-10zw-9409-t35",
+          "title": "Zwischen den Fronten - Teil 35",
+          "index": 34,
+          "startTime": 3152.998,
+          "duration": 86.965
+        },
+        {
+          "id": "mark-10zw-9409-t36",
+          "title": "Zwischen den Fronten - Teil 36",
+          "index": 35,
+          "startTime": 3239.963,
+          "duration": 97.21
+        },
+        {
+          "id": "mark-10zw-9409-t37",
+          "title": "Zwischen den Fronten - Teil 37",
+          "index": 36,
+          "startTime": 3337.173,
+          "duration": 92.935
+        },
+        {
+          "id": "mark-10zw-9409-t38",
+          "title": "Zwischen den Fronten - Teil 38",
+          "index": 37,
+          "startTime": 3430.108,
+          "duration": 98.213
+        },
+        {
+          "id": "mark-10zw-9409-t39",
+          "title": "Zwischen den Fronten - Teil 39",
+          "index": 38,
+          "startTime": 3528.321,
+          "duration": 91.601
+        },
+        {
+          "id": "mark-10zw-9409-t40",
+          "title": "Zwischen den Fronten - Teil 40",
+          "index": 39,
+          "startTime": 3619.922,
+          "duration": 103.425
+        }
+      ]
+    },
+    {
+      "id": "1686316969",
+      "title": "11: Das Jupiter-Risiko",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/66/ef/6766ef06-799e-d859-b0c6-ad9143a78859/4057664073006.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel über Raumkategorien und Risiken im Weltraum.",
+      "totalDuration": 3802.373,
+      "platforms": {
+        "appleMusic": "1686316969"
+      },
+      "chapters": [
+        {
+          "id": "mark-11da-6969-t01",
+          "title": "Das Jupiter-Risiko - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 96.559
+        },
+        {
+          "id": "mark-11da-6969-t02",
+          "title": "Das Jupiter-Risiko - Teil 02",
+          "index": 1,
+          "startTime": 96.559,
+          "duration": 81.454
+        },
+        {
+          "id": "mark-11da-6969-t03",
+          "title": "Das Jupiter-Risiko - Teil 03",
+          "index": 2,
+          "startTime": 178.013,
+          "duration": 82.317
+        },
+        {
+          "id": "mark-11da-6969-t04",
+          "title": "Das Jupiter-Risiko - Teil 04",
+          "index": 3,
+          "startTime": 260.33,
+          "duration": 80.03
+        },
+        {
+          "id": "mark-11da-6969-t05",
+          "title": "Das Jupiter-Risiko - Teil 05",
+          "index": 4,
+          "startTime": 340.36,
+          "duration": 64.653
+        },
+        {
+          "id": "mark-11da-6969-t06",
+          "title": "Das Jupiter-Risiko - Teil 06",
+          "index": 5,
+          "startTime": 405.013,
+          "duration": 86.31
+        },
+        {
+          "id": "mark-11da-6969-t07",
+          "title": "Das Jupiter-Risiko - Teil 07",
+          "index": 6,
+          "startTime": 491.323,
+          "duration": 117.946
+        },
+        {
+          "id": "mark-11da-6969-t08",
+          "title": "Das Jupiter-Risiko - Teil 08",
+          "index": 7,
+          "startTime": 609.269,
+          "duration": 118.69
+        },
+        {
+          "id": "mark-11da-6969-t09",
+          "title": "Das Jupiter-Risiko - Teil 09",
+          "index": 8,
+          "startTime": 727.959,
+          "duration": 81.818
+        },
+        {
+          "id": "mark-11da-6969-t10",
+          "title": "Das Jupiter-Risiko - Teil 10",
+          "index": 9,
+          "startTime": 809.777,
+          "duration": 85.27
+        },
+        {
+          "id": "mark-11da-6969-t11",
+          "title": "Das Jupiter-Risiko - Teil 11",
+          "index": 10,
+          "startTime": 895.047,
+          "duration": 117.498
+        },
+        {
+          "id": "mark-11da-6969-t12",
+          "title": "Das Jupiter-Risiko - Teil 12",
+          "index": 11,
+          "startTime": 1012.545,
+          "duration": 84.045
+        },
+        {
+          "id": "mark-11da-6969-t13",
+          "title": "Das Jupiter-Risiko - Teil 13",
+          "index": 12,
+          "startTime": 1096.59,
+          "duration": 86.183
+        },
+        {
+          "id": "mark-11da-6969-t14",
+          "title": "Das Jupiter-Risiko - Teil 14",
+          "index": 13,
+          "startTime": 1182.773,
+          "duration": 89.227
+        },
+        {
+          "id": "mark-11da-6969-t15",
+          "title": "Das Jupiter-Risiko - Teil 15",
+          "index": 14,
+          "startTime": 1272.0,
+          "duration": 89.117
+        },
+        {
+          "id": "mark-11da-6969-t16",
+          "title": "Das Jupiter-Risiko - Teil 16",
+          "index": 15,
+          "startTime": 1361.117,
+          "duration": 118.197
+        },
+        {
+          "id": "mark-11da-6969-t17",
+          "title": "Das Jupiter-Risiko - Teil 17",
+          "index": 16,
+          "startTime": 1479.314,
+          "duration": 120.939
+        },
+        {
+          "id": "mark-11da-6969-t18",
+          "title": "Das Jupiter-Risiko - Teil 18",
+          "index": 17,
+          "startTime": 1600.253,
+          "duration": 116.547
+        },
+        {
+          "id": "mark-11da-6969-t19",
+          "title": "Das Jupiter-Risiko - Teil 19",
+          "index": 18,
+          "startTime": 1716.8,
+          "duration": 80.741
+        },
+        {
+          "id": "mark-11da-6969-t20",
+          "title": "Das Jupiter-Risiko - Teil 20",
+          "index": 19,
+          "startTime": 1797.541,
+          "duration": 84.275
+        },
+        {
+          "id": "mark-11da-6969-t21",
+          "title": "Das Jupiter-Risiko - Teil 21",
+          "index": 20,
+          "startTime": 1881.816,
+          "duration": 90.4
+        },
+        {
+          "id": "mark-11da-6969-t22",
+          "title": "Das Jupiter-Risiko - Teil 22",
+          "index": 21,
+          "startTime": 1972.216,
+          "duration": 100.584
+        },
+        {
+          "id": "mark-11da-6969-t23",
+          "title": "Das Jupiter-Risiko - Teil 23",
+          "index": 22,
+          "startTime": 2072.8,
+          "duration": 83.527
+        },
+        {
+          "id": "mark-11da-6969-t24",
+          "title": "Das Jupiter-Risiko - Teil 24",
+          "index": 23,
+          "startTime": 2156.327,
+          "duration": 91.394
+        },
+        {
+          "id": "mark-11da-6969-t25",
+          "title": "Das Jupiter-Risiko - Teil 25",
+          "index": 24,
+          "startTime": 2247.721,
+          "duration": 109.206
+        },
+        {
+          "id": "mark-11da-6969-t26",
+          "title": "Das Jupiter-Risiko - Teil 26",
+          "index": 25,
+          "startTime": 2356.927,
+          "duration": 115.073
+        },
+        {
+          "id": "mark-11da-6969-t27",
+          "title": "Das Jupiter-Risiko - Teil 27",
+          "index": 26,
+          "startTime": 2472.0,
+          "duration": 112.273
+        },
+        {
+          "id": "mark-11da-6969-t28",
+          "title": "Das Jupiter-Risiko - Teil 28",
+          "index": 27,
+          "startTime": 2584.273,
+          "duration": 85.06
+        },
+        {
+          "id": "mark-11da-6969-t29",
+          "title": "Das Jupiter-Risiko - Teil 29",
+          "index": 28,
+          "startTime": 2669.333,
+          "duration": 84.011
+        },
+        {
+          "id": "mark-11da-6969-t30",
+          "title": "Das Jupiter-Risiko - Teil 30",
+          "index": 29,
+          "startTime": 2753.344,
+          "duration": 86.667
+        },
+        {
+          "id": "mark-11da-6969-t31",
+          "title": "Das Jupiter-Risiko - Teil 31",
+          "index": 30,
+          "startTime": 2840.011,
+          "duration": 84.754
+        },
+        {
+          "id": "mark-11da-6969-t32",
+          "title": "Das Jupiter-Risiko - Teil 32",
+          "index": 31,
+          "startTime": 2924.765,
+          "duration": 89.557
+        },
+        {
+          "id": "mark-11da-6969-t33",
+          "title": "Das Jupiter-Risiko - Teil 33",
+          "index": 32,
+          "startTime": 3014.322,
+          "duration": 95.184
+        },
+        {
+          "id": "mark-11da-6969-t34",
+          "title": "Das Jupiter-Risiko - Teil 34",
+          "index": 33,
+          "startTime": 3109.506,
+          "duration": 86.402
+        },
+        {
+          "id": "mark-11da-6969-t35",
+          "title": "Das Jupiter-Risiko - Teil 35",
+          "index": 34,
+          "startTime": 3195.908,
+          "duration": 87.157
+        },
+        {
+          "id": "mark-11da-6969-t36",
+          "title": "Das Jupiter-Risiko - Teil 36",
+          "index": 35,
+          "startTime": 3283.065,
+          "duration": 85.803
+        },
+        {
+          "id": "mark-11da-6969-t37",
+          "title": "Das Jupiter-Risiko - Teil 37",
+          "index": 36,
+          "startTime": 3368.868,
+          "duration": 95.025
+        },
+        {
+          "id": "mark-11da-6969-t38",
+          "title": "Das Jupiter-Risiko - Teil 38",
+          "index": 37,
+          "startTime": 3463.893,
+          "duration": 82.072
+        },
+        {
+          "id": "mark-11da-6969-t39",
+          "title": "Das Jupiter-Risiko - Teil 39",
+          "index": 38,
+          "startTime": 3545.965,
+          "duration": 82.965
+        },
+        {
+          "id": "mark-11da-6969-t40",
+          "title": "Das Jupiter-Risiko - Teil 40",
+          "index": 39,
+          "startTime": 3628.93,
+          "duration": 91.394
+        },
+        {
+          "id": "mark-11da-6969-t41",
+          "title": "Das Jupiter-Risiko - Teil 41",
+          "index": 40,
+          "startTime": 3720.324,
+          "duration": 82.049
+        }
+      ]
+    },
+    {
+      "id": "1686200342",
+      "title": "12: Der Fall Rublew",
+      "episodeNumber": 12,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bc/38/f1/bc38f16e-5aad-9f68-5bbb-88c329b8419b/4057664880246.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist ein Hörspiel, das auf Apple Music verfügbar ist.",
+      "totalDuration": 3489.266,
+      "platforms": {
+        "appleMusic": "1686200342"
+      },
+      "chapters": [
+        {
+          "id": "mark-12de-0342-t01",
+          "title": "Der Fall Rublew - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 65.467
+        },
+        {
+          "id": "mark-12de-0342-t02",
+          "title": "Der Fall Rublew - Teil 02",
+          "index": 1,
+          "startTime": 65.467,
+          "duration": 119.576
+        },
+        {
+          "id": "mark-12de-0342-t03",
+          "title": "Der Fall Rublew - Teil 03",
+          "index": 2,
+          "startTime": 185.043,
+          "duration": 116.611
+        },
+        {
+          "id": "mark-12de-0342-t04",
+          "title": "Der Fall Rublew - Teil 04",
+          "index": 3,
+          "startTime": 301.654,
+          "duration": 86.35
+        },
+        {
+          "id": "mark-12de-0342-t05",
+          "title": "Der Fall Rublew - Teil 05",
+          "index": 4,
+          "startTime": 388.004,
+          "duration": 82.362
+        },
+        {
+          "id": "mark-12de-0342-t06",
+          "title": "Der Fall Rublew - Teil 06",
+          "index": 5,
+          "startTime": 470.366,
+          "duration": 81.796
+        },
+        {
+          "id": "mark-12de-0342-t07",
+          "title": "Der Fall Rublew - Teil 07",
+          "index": 6,
+          "startTime": 552.162,
+          "duration": 82.332
+        },
+        {
+          "id": "mark-12de-0342-t08",
+          "title": "Der Fall Rublew - Teil 08",
+          "index": 7,
+          "startTime": 634.494,
+          "duration": 83.056
+        },
+        {
+          "id": "mark-12de-0342-t09",
+          "title": "Der Fall Rublew - Teil 09",
+          "index": 8,
+          "startTime": 717.55,
+          "duration": 118.019
+        },
+        {
+          "id": "mark-12de-0342-t10",
+          "title": "Der Fall Rublew - Teil 10",
+          "index": 9,
+          "startTime": 835.569,
+          "duration": 113.765
+        },
+        {
+          "id": "mark-12de-0342-t11",
+          "title": "Der Fall Rublew - Teil 11",
+          "index": 10,
+          "startTime": 949.334,
+          "duration": 85.168
+        },
+        {
+          "id": "mark-12de-0342-t12",
+          "title": "Der Fall Rublew - Teil 12",
+          "index": 11,
+          "startTime": 1034.502,
+          "duration": 84.593
+        },
+        {
+          "id": "mark-12de-0342-t13",
+          "title": "Der Fall Rublew - Teil 13",
+          "index": 12,
+          "startTime": 1119.095,
+          "duration": 83.401
+        },
+        {
+          "id": "mark-12de-0342-t14",
+          "title": "Der Fall Rublew - Teil 14",
+          "index": 13,
+          "startTime": 1202.496,
+          "duration": 109.622
+        },
+        {
+          "id": "mark-12de-0342-t15",
+          "title": "Der Fall Rublew - Teil 15",
+          "index": 14,
+          "startTime": 1312.118,
+          "duration": 100.469
+        },
+        {
+          "id": "mark-12de-0342-t16",
+          "title": "Der Fall Rublew - Teil 16",
+          "index": 15,
+          "startTime": 1412.587,
+          "duration": 84.511
+        },
+        {
+          "id": "mark-12de-0342-t17",
+          "title": "Der Fall Rublew - Teil 17",
+          "index": 16,
+          "startTime": 1497.098,
+          "duration": 84.915
+        },
+        {
+          "id": "mark-12de-0342-t18",
+          "title": "Der Fall Rublew - Teil 18",
+          "index": 17,
+          "startTime": 1582.013,
+          "duration": 82.71
+        },
+        {
+          "id": "mark-12de-0342-t19",
+          "title": "Der Fall Rublew - Teil 19",
+          "index": 18,
+          "startTime": 1664.723,
+          "duration": 82.251
+        },
+        {
+          "id": "mark-12de-0342-t20",
+          "title": "Der Fall Rublew - Teil 20",
+          "index": 19,
+          "startTime": 1746.974,
+          "duration": 83.506
+        },
+        {
+          "id": "mark-12de-0342-t21",
+          "title": "Der Fall Rublew - Teil 21",
+          "index": 20,
+          "startTime": 1830.48,
+          "duration": 80.165
+        },
+        {
+          "id": "mark-12de-0342-t22",
+          "title": "Der Fall Rublew - Teil 22",
+          "index": 21,
+          "startTime": 1910.645,
+          "duration": 85.136
+        },
+        {
+          "id": "mark-12de-0342-t23",
+          "title": "Der Fall Rublew - Teil 23",
+          "index": 22,
+          "startTime": 1995.781,
+          "duration": 82.339
+        },
+        {
+          "id": "mark-12de-0342-t24",
+          "title": "Der Fall Rublew - Teil 24",
+          "index": 23,
+          "startTime": 2078.12,
+          "duration": 89.622
+        },
+        {
+          "id": "mark-12de-0342-t25",
+          "title": "Der Fall Rublew - Teil 25",
+          "index": 24,
+          "startTime": 2167.742,
+          "duration": 82.425
+        },
+        {
+          "id": "mark-12de-0342-t26",
+          "title": "Der Fall Rublew - Teil 26",
+          "index": 25,
+          "startTime": 2250.167,
+          "duration": 83.075
+        },
+        {
+          "id": "mark-12de-0342-t27",
+          "title": "Der Fall Rublew - Teil 27",
+          "index": 26,
+          "startTime": 2333.242,
+          "duration": 81.334
+        },
+        {
+          "id": "mark-12de-0342-t28",
+          "title": "Der Fall Rublew - Teil 28",
+          "index": 27,
+          "startTime": 2414.576,
+          "duration": 82.424
+        },
+        {
+          "id": "mark-12de-0342-t29",
+          "title": "Der Fall Rublew - Teil 29",
+          "index": 28,
+          "startTime": 2497.0,
+          "duration": 80.815
+        },
+        {
+          "id": "mark-12de-0342-t30",
+          "title": "Der Fall Rublew - Teil 30",
+          "index": 29,
+          "startTime": 2577.815,
+          "duration": 82.056
+        },
+        {
+          "id": "mark-12de-0342-t31",
+          "title": "Der Fall Rublew - Teil 31",
+          "index": 30,
+          "startTime": 2659.871,
+          "duration": 109.282
+        },
+        {
+          "id": "mark-12de-0342-t32",
+          "title": "Der Fall Rublew - Teil 32",
+          "index": 31,
+          "startTime": 2769.153,
+          "duration": 117.846
+        },
+        {
+          "id": "mark-12de-0342-t33",
+          "title": "Der Fall Rublew - Teil 33",
+          "index": 32,
+          "startTime": 2886.999,
+          "duration": 86.817
+        },
+        {
+          "id": "mark-12de-0342-t34",
+          "title": "Der Fall Rublew - Teil 34",
+          "index": 33,
+          "startTime": 2973.816,
+          "duration": 85.171
+        },
+        {
+          "id": "mark-12de-0342-t35",
+          "title": "Der Fall Rublew - Teil 35",
+          "index": 34,
+          "startTime": 3058.987,
+          "duration": 83.232
+        },
+        {
+          "id": "mark-12de-0342-t36",
+          "title": "Der Fall Rublew - Teil 36",
+          "index": 35,
+          "startTime": 3142.219,
+          "duration": 101.32
+        },
+        {
+          "id": "mark-12de-0342-t37",
+          "title": "Der Fall Rublew - Teil 37",
+          "index": 36,
+          "startTime": 3243.539,
+          "duration": 84.753
+        },
+        {
+          "id": "mark-12de-0342-t38",
+          "title": "Der Fall Rublew - Teil 38",
+          "index": 37,
+          "startTime": 3328.292,
+          "duration": 80.713
+        },
+        {
+          "id": "mark-12de-0342-t39",
+          "title": "Der Fall Rublew - Teil 39",
+          "index": 38,
+          "startTime": 3409.005,
+          "duration": 80.261
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-31T15:30:38Z"
+}

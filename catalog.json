@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-29T11:04:32.320773+00:00",
+  "updatedAt": "2026-05-31T15:30:38.258448+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -92930,7 +92930,8 @@
       ],
       "description": "Dieses Album enthält die erste Folge des Hörspiels 'Die Jagd nach den Millionendieben' von TKKG Retro-Archiv. Es handelt sich um ein spannendes Hörspiel, das Spannung und Abenteuer bietet.",
       "episodeNumber": 1,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-3378",
@@ -106393,7 +106394,8 @@
       ],
       "description": "Dieses Album ist ein deutscher Hörspiel-Album mit dem Titel 'Folge 1: Auf frischer Tat ertappt' von TKKG Junior, das im Genre des Krimi-Abenteuer Hörspiels angesiedelt ist.",
       "episodeNumber": 1,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-5070",
@@ -107932,7 +107934,8 @@
       ],
       "description": "Ein Hörspielalbum über Betrug mit 37 Folgen von TKKG Junior.",
       "episodeNumber": 11,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-4247",
@@ -108213,7 +108216,8 @@
       ],
       "description": "Ein spannender und gruseliger Punsch-Abenteuer, der in der Serie TKKG Junior spielt.",
       "episodeNumber": 9,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-7472",
@@ -108480,7 +108484,8 @@
       ],
       "description": "Ein Album im Genre Hörspiel, das sich auf Spannung und Unterhaltung konzentriert.",
       "episodeNumber": 6,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8306",
@@ -109028,7 +109033,8 @@
       ],
       "description": "Dieses Album enthält das Hörspiel 'Folge 13: Das verpfuschte Gemälde' von TKKG Junior, das sich in einem humorvollen Abenteuer mit Jugendhelden entfaltet.",
       "episodeNumber": 13,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-3998",
@@ -109295,7 +109301,8 @@
       ],
       "description": "Dieses Album ist ein Hörspielalbum, das Teil der Serie TKKG Junior ist.",
       "episodeNumber": 5,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8455",
@@ -109850,7 +109857,8 @@
       ],
       "description": "Ein Album mit dem Titel 'Folge 16: Trügerischer Paddelspaß' von 'TKKG Junior', das zu den Hörspielen gehört, ist typisch für deutsche Hörspielproduktionen.",
       "episodeNumber": 16,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8929",
@@ -110723,7 +110731,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'Folge 7: Rätsel um die alte Villa' von TKKG Retro-Archiv. Es umfasst 25 Tracks im Genre Hörspiele.",
       "episodeNumber": 7,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-4954",
@@ -111285,7 +111294,8 @@
       ],
       "description": "Ein Hörspielalbum mit dem Titel 'Folge 15: In den Fängen der Felsenbande' von TKKG Junior, das 37 Tracks umfasst und im Genre Hörspiel angesiedelt ist.",
       "episodeNumber": 15,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8578",
@@ -111961,7 +111971,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel von TKKG Retro-Archiv mit 25 Folgen, das sich um die Abenteuer der Falschmünzer vom Mäuseweg dreht.",
       "episodeNumber": 11,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-1577",
@@ -112144,7 +112155,8 @@
       ],
       "description": "Dieses Album enthält die Folge 27 des Hörspiels 'TKKG Junior', das sich um Abenteuer in einer Westernstadt dreht. Das Genre Hörspiel passt perfekt zu diesem Inhalt.",
       "episodeNumber": 27,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-4701",
@@ -112552,7 +112564,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel der Serie \"Oskar\", die in Deutschland produziert wurde.",
       "episodeNumber": 17,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-5406",
@@ -112749,7 +112762,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel, das Teil einer Serie ist, die sich auf Banditen im Palasthotel konzentriert. Es passt gut in die Kategorie der Unterhaltung und Spannung, die Hörspiele oft bieten.",
       "episodeNumber": 27,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-9346",
@@ -113480,7 +113494,8 @@
       ],
       "description": "Ein Hörspielalbum über Gauklern und Ganoven, für Kinder und Jugendliche.",
       "episodeNumber": 7,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-1774",
@@ -114268,7 +114283,8 @@
       ],
       "description": "Ein Hörspiel über UFOs in Bad Finkenstein, das aufregende Abenteuer und Spannung bietet.",
       "episodeNumber": 15,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8392",
@@ -115345,7 +115361,8 @@
       ],
       "description": "Dieses Album enthält 25 Folgen eines Hörspiels mit dem Titel 'X7 antwortet nicht' von der Gruppe TKKG Retro-Archiv.",
       "episodeNumber": 16,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-2321",
@@ -115935,7 +115952,8 @@
       ],
       "description": "Dieses Album enthält Folge 26: Das Geiseldrama eines Hörspiels. Es könnte eine spannende Krimi- oder Thriller-Geschichte sein.",
       "episodeNumber": 26,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-4171",
@@ -116329,7 +116347,8 @@
       ],
       "description": "Ein Album mit 25 Folgen eines Hörspiels über das Phantom auf dem Feuerstuhl, produziert von TKKG Retro-Archiv.",
       "episodeNumber": 5,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-9951",
@@ -118912,7 +118931,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 17: Die Doppelgängerin' von TKKG Retro-Archiv, das 25 Tracks umfasst.",
       "episodeNumber": 17,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-0491",
@@ -119327,7 +119347,8 @@
       ],
       "description": "Dieses Album enthält Folge 21 von 'Die Rache des Bombenlegers', einem deutschen Hörspiel, das Spannung und Spannung bietet.",
       "episodeNumber": 21,
-      "series": "TKKG"
+      "series": "TKKG",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8406",
@@ -119558,7 +119579,8 @@
       ],
       "description": "Ein spannendes Hörspiel, das auf der beliebten TKKG-Reihe basiert, mit 30 Folgen voller Action und Spannung.",
       "episodeNumber": 21,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-3614",
@@ -119755,7 +119777,8 @@
       ],
       "description": "Dieses Album beinhaltet 25 Hörspiel-Tracks des TKKG Retro-Archiv, das auf das Album 'Folge 13: Die Bettelmönche aus Atlantis' verweist. Es handelt sich somit um ein Hörspiel-Album.",
       "episodeNumber": 13,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-7459",
@@ -134720,7 +134743,8 @@
       ],
       "description": "Dieses Album umfasst 33 Tracks des Hörspiels 'Testakte Kolibri 2' von Mark Brandis. Es ist eindeutig als Hörspiel konzipiert.",
       "episodeNumber": 6,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-14pi-7090",
@@ -135322,7 +135346,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Aufbruch zu den Sternen' von Mark Brandis als Raumkadett, das im Genre Science-Fiction angesiedelt ist.",
       "episodeNumber": 1,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-02ve-5905",
@@ -135595,7 +135620,8 @@
       ],
       "description": "Ein Album mit Science-Fiction und Abenteuer-Elementen, das möglicherweise ein Hörspiel oder Hörbuch ist.",
       "episodeNumber": 2,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-11da-6969",
@@ -135903,7 +135929,8 @@
       ],
       "description": "Ein spannendes Hörspiel über Raumkategorien und Risiken im Weltraum.",
       "episodeNumber": 11,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-10zw-9409",
@@ -136204,7 +136231,8 @@
       ],
       "description": "Dieses Album enthält Hörspiele, die auf Spannung und Spannung in einer Science-Fiction-Setting basieren, typisch für deutsche Hörspielproduktionen.",
       "episodeNumber": 10,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-08mo-2025",
@@ -136484,7 +136512,8 @@
       ],
       "description": "Ein spannendes Hörspiel über Raumfahrt und Abenteuer im Weltall.",
       "episodeNumber": 8,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-12de-0342",
@@ -136779,7 +136808,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel, das auf Apple Music verfügbar ist.",
       "episodeNumber": 12,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-05de-4722",
@@ -137010,7 +137040,8 @@
       ],
       "description": "Ein Album mit dem Titel '05: Der Aladin-Schachzug' von Mark Brandis - Raumkadett, das sich auf Hörspiele spezialisiert hat.",
       "episodeNumber": 5,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-07la-7155",
@@ -137297,7 +137328,8 @@
       ],
       "description": "Dieses Album enthält 38 Tracks des Künstlers Mark Brandis als Raumkadett und wird im Genre Hörspiele klassifiziert.",
       "episodeNumber": 7,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-03ta-7126",
@@ -137557,7 +137589,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel, das Teil der populären deutschen Serie 'Tatort' ist. Es spielt auf einer Raumstation und ist von der Genre-Kategorie Science-Fiction geprägt.",
       "episodeNumber": 3,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-06wo-5917",
@@ -137802,7 +137835,8 @@
       ],
       "description": "Ein Science-Fiction-Hörspielalbum von Mark Brandis, Raumkadett, das sich auf spannende Erzählungen konzentriert.",
       "episodeNumber": 6,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-04hi-3198",
@@ -138054,7 +138088,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel-Album von Mark Brandis, bekannt für Raumkader-Geschichten.",
       "episodeNumber": 4,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-09en-8483",
@@ -138327,7 +138362,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel, das als Raumkrimi konzipiert ist und möglicherweise Abenteuer- oder Science-Fiction-Elemente enthält.",
       "episodeNumber": 9,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "joch-mark-3128",
@@ -225845,8 +225881,9 @@
         }
       ],
       "description": "Dieses Album enthält 12 Hörspiel-Tracks aus der TKKG Krimi-Box 5, ein populäres deutscher Hörspielformat.",
-      "series": "TKKG",
-      "episodeNumber": 5
+      "series": "TKKG Retro-Archiv",
+      "episodeNumber": 5,
+      "franchise": "TKKG"
     },
     {
       "id": "einf-folg-9424",
