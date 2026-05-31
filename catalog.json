@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-31T16:46:35.245839+00:00",
+  "updatedAt": "2026-05-31T16:51:57.482457+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -130047,7 +130047,7 @@
       ],
       "description": "Dieses Album ist ein Album mit Hörspielen von Mark Brandis, das auf Apple Music verfügbar ist.",
       "episodeNumber": 11,
-      "series": "Mark Brandis - Raumkadett",
+      "series": "Mark Brandis",
       "franchise": "Mark Brandis"
     },
     {
@@ -136821,7 +136821,7 @@
       ],
       "description": "Dieses Album ist ein Hörspiel, das auf Apple Music verfügbar ist.",
       "episodeNumber": 12,
-      "series": "Mark Brandis - Raumkadett",
+      "series": "Mark Brandis",
       "franchise": "Mark Brandis"
     },
     {
@@ -137053,7 +137053,7 @@
       ],
       "description": "Ein Album mit dem Titel '05: Der Aladin-Schachzug' von Mark Brandis - Raumkadett, das sich auf Hörspiele spezialisiert hat.",
       "episodeNumber": 5,
-      "series": "Mark Brandis - Raumkadett",
+      "series": "Mark Brandis",
       "franchise": "Mark Brandis"
     },
     {
@@ -137341,7 +137341,7 @@
       ],
       "description": "Dieses Album enthält 38 Tracks des Künstlers Mark Brandis als Raumkadett und wird im Genre Hörspiele klassifiziert.",
       "episodeNumber": 7,
-      "series": "Mark Brandis - Raumkadett",
+      "series": "Mark Brandis",
       "franchise": "Mark Brandis"
     },
     {
@@ -137848,7 +137848,7 @@
       ],
       "description": "Ein Science-Fiction-Hörspielalbum von Mark Brandis, Raumkadett, das sich auf spannende Erzählungen konzentriert.",
       "episodeNumber": 6,
-      "series": "Mark Brandis",
+      "series": "Mark Brandis - Raumkadett",
       "franchise": "Mark Brandis"
     },
     {
@@ -138375,7 +138375,7 @@
       ],
       "description": "Dieses Album ist ein Hörspiel, das als Raumkrimi konzipiert ist und möglicherweise Abenteuer- oder Science-Fiction-Elemente enthält.",
       "episodeNumber": 9,
-      "series": "Mark Brandis - Raumkadett",
+      "series": "Mark Brandis",
       "franchise": "Mark Brandis"
     },
     {
@@ -138843,7 +138843,8 @@
       ],
       "chapters": [],
       "description": "Ein Album aus dem Star Wars Film, bekannt für Abenteuer und Sci-Fi Elemente.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-star-5628",
@@ -138863,7 +138864,8 @@
       ],
       "chapters": [],
       "description": "Ein Hörspiel-Album mit dem Titel 'Star Wars: Die Rache der Sith' von Star Wars, bestehend aus 48 Tracks im Genre Hörspiel.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-star-5577",
@@ -138883,7 +138885,8 @@
       ],
       "chapters": [],
       "description": "Dieses Album ist ein Hörspiel-Album aus der Star Wars-Reihe, das auf den Hörer zugeschnitten ist.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-teil-5282",
@@ -139219,7 +139222,8 @@
       ],
       "chapters": [],
       "description": "Ein Star Wars Hörspiel mit 43 Tracks, das die Handlung der dunklen Bedrohung erforscht.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-star-3076",
@@ -139239,7 +139243,8 @@
       ],
       "chapters": [],
       "description": "Ein Album, das als Hörspiel von Star Wars veröffentlicht wurde, umfasst 45 Tracks und fällt eindeutig unter das Genre der Science-Fiction, da es Teil der Star Wars-Reihe ist.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "ludw-star-9718",
@@ -139427,7 +139432,8 @@
       ],
       "chapters": [],
       "description": "Dieses Album ist das Original-Hörspiel zu Star Wars: Das Imperium schlägt zurück, ein bekanntes Hörspiel aus der Star Wars-Reihe.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-star-7448",
@@ -139447,7 +139453,8 @@
       ],
       "chapters": [],
       "description": "Das Album ist ein Hörspiel aus der Star Wars Serie, das auf einem populären Science-Fiction Universum basiert.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-laby-7643",
@@ -139804,7 +139811,8 @@
       ],
       "chapters": [],
       "description": "Dies ist ein Soundtrack für den Film Star Wars: Die Letzten Jedi, der zur Science-Fiction-Genre gehört.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-star-4407",
@@ -139824,7 +139832,8 @@
       ],
       "chapters": [],
       "description": "Ein Album von Star Wars mit Hörspiel-Tracks, das auf der Apple Music-Plattform verfügbar ist.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-folg-1283",
@@ -140273,7 +140282,8 @@
       ],
       "chapters": [],
       "description": "Keine Beschreibung verfügbar.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-dark-6695",
@@ -140631,7 +140641,8 @@
       ],
       "chapters": [],
       "description": "Ein Original-Hörspiel zur Star Wars-Verfilmung, umfasst 47 Tracks im Genre Hörspiel.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "wilc-star-3404",
@@ -143880,7 +143891,8 @@
       ],
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels', bestehend aus 18 Episoden im Hörspiel-Genre.",
       "episodeNumber": 8,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "john-star-6725",
@@ -144611,7 +144623,8 @@
       ],
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels', das sich in einem Science-Fiction-Universum spielt.",
       "episodeNumber": 11,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-10ei-8822",
@@ -144745,7 +144758,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel, das das Original-Hörspiel zur TV-Serie 'Star Wars Rebels' enthält.",
       "episodeNumber": 10,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-12da-6594",
@@ -144879,7 +144893,8 @@
       ],
       "description": "Dieses Album enthält Hörspiel-Tracks aus der Star Wars Rebels Serie, die auf Lothal spielen. Es ist kein traditionelles Musikalbum, sondern ein Original-Hörspiel zur Serie.",
       "episodeNumber": 12,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-02gu-4386",
@@ -145709,7 +145724,8 @@
       ],
       "description": "Dieses Album ist ein Original-Hörspiel zur Star Wars-TV-Serie. Es gehört zur Hörspiel-Genre-Kategorie.",
       "episodeNumber": 15,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "john-star-4280",
@@ -146228,7 +146244,8 @@
       ],
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das sich im Genre der Science-Fiction bewegt.",
       "episodeNumber": 13,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-14di-7953",
@@ -146369,7 +146386,8 @@
       ],
       "description": "Dieses Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das als Hörspiel formatiert auf iTunes verfügbar ist.",
       "episodeNumber": 14,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-16de-0131",
@@ -146664,7 +146682,8 @@
       ],
       "description": "Dieses Album enthält das Original-Hörspiel zur Star Wars-TV-Serie Rebels. Es ist ein Hörspiel-Album, das Teil der Science-Fiction-Genre ist.",
       "episodeNumber": 16,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "thec-02de-0985",
@@ -149473,7 +149492,8 @@
         }
       ],
       "description": "Ein Original-Hörspiel zur TV-Serie 'Star Wars Rebels', das auf einem Album veröffentlicht wurde.",
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "thec-06di-7415",
@@ -153270,7 +153290,8 @@
       ],
       "description": "Das Album ist ein Original-Hörspiel zur Star Wars-TV-Serie, das 18 Tracks umfasst und sich im Genre der Science-Fiction und Abenteuer bewegt.",
       "episodeNumber": 6,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "thec-21da-9165",
@@ -155333,7 +155354,8 @@
       ],
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie 'Star Wars Rebels'. Es enthält 17 Episoden und ist Teil der Hörspiel-Kategorie, die oft Kinder und Jugendliche anspricht.",
       "episodeNumber": 9,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-05ei-6310",
@@ -155467,7 +155489,8 @@
       ],
       "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Star Wars Rebels, das im deutschen Sprachraum produziert wurde.",
       "episodeNumber": 5,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "wilb-star-7520",
@@ -156363,7 +156386,8 @@
         }
       ],
       "description": "Ein Soundtrack-Album für den Film Star Wars: Episode I - Das Phantom Menace.",
-      "series": "Star Wars"
+      "series": "Star Wars: Kino-Hörspiele",
+      "franchise": "Star Wars"
     },
     {
       "id": "john-john-7474",

@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-31T16:46:35Z",
+  "updatedAt": "2026-05-31T16:51:57Z",
   "series": [
     {
       "id": "tkkg",
@@ -118,10 +118,10 @@
         "Science-Fiction",
         "Kinder & Jugend"
       ],
-      "albumCount": 22,
+      "albumCount": 18,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis-raumkadett.json",
-      "seriesUpdatedAt": "2026-05-31T16:46:35Z"
+      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
     },
     {
       "id": "mark-brandis",
@@ -132,23 +132,25 @@
         "Hörspiel",
         "Science-Fiction"
       ],
-      "albumCount": 28,
+      "albumCount": 32,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/a7/41/78a74140-fcf4-a199-862f-123f051d4f96/4057664072689.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis.json",
-      "seriesUpdatedAt": "2026-05-31T16:46:35Z"
+      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
     },
     {
-      "id": "star-wars",
-      "title": "Star Wars",
+      "id": "star-wars-kino",
+      "title": "Star Wars: Kino-Hörspiele",
       "author": "Star Wars",
       "narrator": "",
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy"
       ],
-      "albumCount": 65,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/37/42/bb374216-d59d-a308-09bb-daad96ad68bc/4066339690349.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/star-wars.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "albumCount": 12,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/72/bb/83/72bb83d6-c16b-fde0-ebfd-9bc7f4adc91e/4064066834982_cover.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/star-wars-kino.json",
+      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
     },
     {
       "id": "star-wars-dark-lord",
@@ -164,6 +166,19 @@
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ec/c9/6aecc9f3-d5af-4f81-51eb-4b8690e9918c/4057664075192.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-dark-lord.json",
       "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+    },
+    {
+      "id": "star-wars",
+      "title": "Star Wars",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel"
+      ],
+      "albumCount": 41,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Features/f9/a5/5f/dj.btarrfwu.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/star-wars.json",
+      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
     },
     {
       "id": "star-wars-labyrinth",
@@ -206,10 +221,10 @@
         "Fantasy",
         "Abenteuer"
       ],
-      "albumCount": 5,
+      "albumCount": 17,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-rebels.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
     },
     {
       "id": "torsten-straeter",
