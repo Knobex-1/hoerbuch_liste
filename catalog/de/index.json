@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-31T16:41:37Z",
+  "updatedAt": "2026-05-31T16:46:35Z",
   "series": [
     {
       "id": "tkkg",
@@ -12,10 +12,10 @@
         "Krimi",
         "Kinder & Jugend"
       ],
-      "albumCount": 194,
+      "albumCount": 193,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/22/5b/31225b7c-f967-2b47-3bd0-8bdc135e4675/886446011790.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "seriesUpdatedAt": "2026-05-31T16:46:35Z"
     },
     {
       "id": "sherlock-holmes",
@@ -94,18 +94,19 @@
       "seriesUpdatedAt": "2026-05-31T16:41:37Z"
     },
     {
-      "id": "mark-brandis",
-      "title": "Mark Brandis",
-      "author": "Mark Brandis",
-      "narrator": "",
+      "id": "tkkg-junior",
+      "title": "TKKG Junior",
+      "author": "Stefan Wolf",
+      "narrator": "Verschiedene Sprecher",
       "genres": [
         "Hörspiel",
-        "Science-Fiction"
+        "Kinder & Jugend",
+        "Abenteuer"
       ],
-      "albumCount": 32,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/mark-brandis.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "albumCount": 2,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/46/b2/7b46b201-f9a3-eecd-94a7-f37a287110fb/886446012971.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/tkkg-junior.json",
+      "seriesUpdatedAt": "2026-05-31T16:46:35Z"
     },
     {
       "id": "mark-brandis-raumkadett",
@@ -117,10 +118,24 @@
         "Science-Fiction",
         "Kinder & Jugend"
       ],
-      "albumCount": 18,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/eb/e6/49ebe645-3770-8a6f-9740-3dbd8f1d3108/4057664073037.jpg/100x100bb.jpg",
+      "albumCount": 22,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis-raumkadett.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "seriesUpdatedAt": "2026-05-31T16:46:35Z"
+    },
+    {
+      "id": "mark-brandis",
+      "title": "Mark Brandis",
+      "author": "Mark Brandis",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "albumCount": 28,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/a7/41/78a74140-fcf4-a199-862f-123f051d4f96/4057664072689.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/mark-brandis.json",
+      "seriesUpdatedAt": "2026-05-31T16:46:35Z"
     },
     {
       "id": "star-wars",
@@ -507,21 +522,6 @@
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fb/b1/28fbb19f-8167-6d9f-d574-cc78a6dbfd4a/4069829541695_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/michelle-madow-fantasy-hoerbuecher-hoerbuch-bestseller.json",
       "seriesUpdatedAt": "2026-05-27T18:01:36Z"
-    },
-    {
-      "id": "tkkg-junior",
-      "title": "TKKG Junior",
-      "author": "Stefan Wolf",
-      "narrator": "Verschiedene Sprecher",
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
-      ],
-      "albumCount": 1,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/98/1d/e5981df2-4ab2-d1ee-88ab-5e98f2c9e81c/196589989512.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/tkkg-junior.json",
-      "seriesUpdatedAt": "2026-05-29T10:04:07Z"
     }
   ]
 }

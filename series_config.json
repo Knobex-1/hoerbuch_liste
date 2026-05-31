@@ -82,7 +82,8 @@
       "franchise": "TKKG",
       "title_patterns": {
         "include": [
-          "Folge 26: Achtung, Fahrraddiebe!"
+          "Folge 26: Achtung, Fahrraddiebe!",
+          "Folge 5: Das Phantom auf dem Feuerstuhl"
         ]
       }
     },
@@ -247,7 +248,9 @@
           "10: Zwischen den Fronten",
           "11: Die Vollstrecker 1",
           "11: Das Jupiter-Risiko",
-          "12: Die Vollstrecker 2"
+          "12: Die Vollstrecker 2",
+          "01: Bordbuch Delta VII",
+          "02: Verrat auf der Venus"
         ]
       }
     },
