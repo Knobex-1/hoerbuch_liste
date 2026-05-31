@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-31T15:30:38.258448+00:00",
+  "updatedAt": "2026-05-31T16:41:36.328997+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -110055,7 +110055,8 @@
       ],
       "description": "Das Album 'Folge 6: Angst in der 9a' ist ein Hörspiel von TKKG Retro-Archiv mit 25 Tracks.",
       "episodeNumber": 6,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-6329",
@@ -111774,7 +111775,8 @@
       ],
       "description": "Das Album 'Folge 9: Abenteuer im Ferienlager' von TKKG Retro-Archiv ist ein Hörspiel, das die Abenteuer des Teams TKKG aufgreift. Es handelt sich um ein spannendes Hörspiel für Kinder und Jugendliche.",
       "episodeNumber": 9,
-      "series": "TKKG"
+      "series": "TKKG Retro-Archiv",
+      "franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-0287",
@@ -125634,7 +125636,8 @@
       ],
       "description": "Dieses Album ist ein Hörspielalbum mit 39 Tracks von Mark Brandis.",
       "episodeNumber": 1,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-03un-1357",
@@ -125991,7 +125994,8 @@
       ],
       "description": "Dieses Album umfasst 48 Tracks des deutschen Hörspiels 'Unternehmen Delphin' von Mark Brandis, das auf Apple Music verfügbar ist.",
       "episodeNumber": 3,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-07vo-7088",
@@ -126285,7 +126289,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel mit dem Titel '07: Vorstoß zum Uranus 1' von Mark Brandis, das sich auf Science-Fiction konzentriert.",
       "episodeNumber": 7,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-02ve-7253",
@@ -126642,7 +126647,8 @@
       ],
       "description": "Dieses Album enthält 48 Tracks des Hörspiels '02: Verrat auf der Venus' von Mark Brandis, das als Hörbuch verfügbar ist.",
       "episodeNumber": 2,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-04au-2637",
@@ -127013,7 +127019,8 @@
       ],
       "description": "Das Album '04: Aufstand der Roboter' von Mark Brandis ist ein Hörspiel, das sich in einer Science-Fiction-Welt spielt und Spannung und Abenteuer verspricht.",
       "episodeNumber": 4,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-25ra-1659",
@@ -128924,7 +128931,8 @@
       ],
       "description": "Keine Beschreibung verfügbar",
       "episodeNumber": 8,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-19si-7004",
@@ -129491,7 +129499,8 @@
       ],
       "description": "Das Album erscheint im Genre Hörspiele und könnte sich auf eine Science-Fiction-Geschichte handeln.",
       "episodeNumber": 9,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-05te-6312",
@@ -129771,7 +129780,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel von Mark Brandis mit insgesamt 37 Tracks. Es handelt sich um ein kurzes Hörspiel, das auf iTunes verfügbar ist und dem Genre Hörspiel zugeordnet wird.",
       "episodeNumber": 5,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-11di-3055",
@@ -130037,7 +130047,8 @@
       ],
       "description": "Dieses Album ist ein Album mit Hörspielen von Mark Brandis, das auf Apple Music verfügbar ist.",
       "episodeNumber": 11,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-31ge-9896",
@@ -131038,7 +131049,8 @@
       ],
       "description": "Das Album '10: Raumsonde Epsilon 2' von Mark Brandis ist ein Hörspiel, das in der Science-Fiction-Genre angesiedelt ist. Es bietet eine spannende Geschichte mit Raumfahrt und Wissenschafts-Elementen.",
       "episodeNumber": 10,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-15ak-1845",
@@ -132821,7 +132833,8 @@
       ],
       "description": "Das Album enthält Hörspiel-Tracks, die typisch für deutsche Hörspiele sind.",
       "episodeNumber": 12,
-      "series": "Mark Brandis"
+      "series": "Mark Brandis - Raumkadett",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "mark-29di-5503",
@@ -136808,7 +136821,7 @@
       ],
       "description": "Dieses Album ist ein Hörspiel, das auf Apple Music verfügbar ist.",
       "episodeNumber": 12,
-      "series": "Mark Brandis - Raumkadett",
+      "series": "Mark Brandis",
       "franchise": "Mark Brandis"
     },
     {
@@ -137040,7 +137053,7 @@
       ],
       "description": "Ein Album mit dem Titel '05: Der Aladin-Schachzug' von Mark Brandis - Raumkadett, das sich auf Hörspiele spezialisiert hat.",
       "episodeNumber": 5,
-      "series": "Mark Brandis - Raumkadett",
+      "series": "Mark Brandis",
       "franchise": "Mark Brandis"
     },
     {
@@ -137328,7 +137341,7 @@
       ],
       "description": "Dieses Album enthält 38 Tracks des Künstlers Mark Brandis als Raumkadett und wird im Genre Hörspiele klassifiziert.",
       "episodeNumber": 7,
-      "series": "Mark Brandis - Raumkadett",
+      "series": "Mark Brandis",
       "franchise": "Mark Brandis"
     },
     {
@@ -137835,7 +137848,7 @@
       ],
       "description": "Ein Science-Fiction-Hörspielalbum von Mark Brandis, Raumkadett, das sich auf spannende Erzählungen konzentriert.",
       "episodeNumber": 6,
-      "series": "Mark Brandis",
+      "series": "Mark Brandis - Raumkadett",
       "franchise": "Mark Brandis"
     },
     {
@@ -139186,7 +139199,8 @@
       ],
       "description": "Dieses Album ist Teil einer Hörspiel-Serie über die Klon-Kriege im Star Wars Universum.",
       "episodeNumber": 1,
-      "series": "Star Wars"
+      "series": "Star Wars: Dark Lord",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-star-4311",
@@ -139769,7 +139783,8 @@
       ],
       "description": "Ein spannendes Hörspiel, das im Raumfahrt-Setting spielt, mit mysteriösen Ereignissen und Geheimnissen.",
       "episodeNumber": 1,
-      "series": "Star Wars"
+      "series": "Star Wars: Labyrinth des Bösen",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-star-4894",
@@ -140167,7 +140182,8 @@
       ],
       "description": "Ein Hörspiel aus der Star Wars-Serie, das auf der Jagd nach Darth Sidious in einer dunklen Welt ist.",
       "episodeNumber": 2,
-      "series": "Star Wars"
+      "series": "Star Wars: Labyrinth des Bösen",
+      "franchise": "Star Wars"
     },
     {
       "id": "pian-star-7800",
@@ -140594,7 +140610,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel aus der Star Wars-Serie, das Teil 2 von 'Dark Lord' darstellt. Es handelt sich um eine Fortsetzung in der Star Wars-Hörspielreihe, die Abenteuer und Science-Fiction Elemente umfasst.",
       "episodeNumber": 2,
-      "series": "Star Wars"
+      "series": "Star Wars: Dark Lord",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-rogu-5595",
@@ -141077,7 +141094,8 @@
       ],
       "description": "Dieses Album ist Teil einer Fortsetzung eines beliebten Science-Fiction-Universums und entspricht typischerweise den Genres Hörspiel und Abenteuer.",
       "episodeNumber": 3,
-      "series": "Star Wars"
+      "series": "Star Wars: Labyrinth des Bösen",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-folg-4516",
@@ -141400,7 +141418,8 @@
       ],
       "description": "Ein Star Wars Hörspiel mit Handlung auf Alderaan.",
       "episodeNumber": 3,
-      "series": "Star Wars"
+      "series": "Star Wars: Dark Lord",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-folg-8178",
@@ -141716,7 +141735,8 @@
       ],
       "description": "Ein Hörspiel aus der Star Wars-Reihe, das sich um Kashyyyk dreht.",
       "episodeNumber": 4,
-      "series": "Star Wars"
+      "series": "Star Wars: Dark Lord",
+      "franchise": "Star Wars"
     },
     {
       "id": "john-star-3662",
@@ -143613,7 +143633,8 @@
       ],
       "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das junge Jedi auf Missionen begibt. Es enthält spannende Abenteuer und Elemente der Science-Fiction.",
       "episodeNumber": 1,
-      "series": "Star Wars"
+      "series": "Star Wars: Die jungen Jedi",
+      "franchise": "Star Wars"
     },
     {
       "id": "john-star-5765",
@@ -144147,7 +144168,8 @@
       ],
       "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie Star Wars Rebels, welches den Titel '07: Galaxis in Flammen / Die Belagerung von Lothal' trägt. Es ist Teil einer Hörspielreihe, die sich in der Science-Fiction-Welt von Star Wars abspielt.",
       "episodeNumber": 1,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "mich-rogu-0537",
@@ -145131,7 +145153,8 @@
       ],
       "description": "Dieses Album enthält Hörspiel-Episoden aus der Star Wars-Serie, die speziell für Audiokonsum gedacht sind.",
       "episodeNumber": 2,
-      "series": "Star Wars"
+      "series": "Star Wars: Die jungen Jedi",
+      "franchise": "Star Wars"
     },
     {
       "id": "thec-01de-5746",
@@ -151678,7 +151701,8 @@
       ],
       "description": "Ein Album von Star Wars Rebels mit 16 Tracks, das als Hörspiel zur Star Wars-TV-Serie dient.",
       "episodeNumber": 1,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "thee-star-0183",
@@ -152948,7 +152972,8 @@
       ],
       "description": "Ein Original-Hörspiel zur Star Wars-TV-Serie, das 17 Tracks umfasst und im Genre Science-Fiction und Abenteuer angesiedelt ist.",
       "episodeNumber": 2,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-04mi-2083",
@@ -153096,7 +153121,8 @@
       ],
       "description": "Dieses Album ist ein Hörspiel-Album mit 18 Tracks aus der Serie Star Wars Rebels.",
       "episodeNumber": 4,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-06au-7736",
@@ -153610,7 +153636,8 @@
       ],
       "description": "Das Album ist das Original-Hörspiel zur Star Wars-TV-Serie Rebels.",
       "episodeNumber": 3,
-      "series": "Star Wars"
+      "series": "Star Wars: Rebels",
+      "franchise": "Star Wars"
     },
     {
       "id": "thec-15ve-5238",

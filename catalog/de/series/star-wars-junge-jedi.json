@@ -1,0 +1,596 @@
+{
+  "seriesId": "star-wars-junge-jedi",
+  "title": "Star Wars: Die jungen Jedi",
+  "language": "de",
+  "author": "Star Wars",
+  "narrator": "",
+  "genres": [
+    "Hörspiel",
+    "Science-Fiction",
+    "Kinder & Jugend"
+  ],
+  "albums": [
+    {
+      "id": "1686357820",
+      "title": "01: Die jungen Jedi / Auf Mission für Meister Yoda / Das große Rennen / Das verschollene Jedi-Schiff (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/30/0a/d5300a84-983b-2c76-ebbd-df1e8b855924/4066339750777.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist das Original-Hörspiel zur Star Wars-TV-Serie, das junge Jedi auf Missionen begibt. Es enthält spannende Abenteuer und Elemente der Science-Fiction.",
+      "totalDuration": 4034.903,
+      "platforms": {
+        "appleMusic": "1686357820"
+      },
+      "chapters": [
+        {
+          "id": "star-01di-7820-t01",
+          "title": "Kapitel 01: Die jungen Jedi",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 101.135
+        },
+        {
+          "id": "star-01di-7820-t02",
+          "title": "Kapitel 02: Die jungen Jedi",
+          "index": 1,
+          "startTime": 101.135,
+          "duration": 97.318
+        },
+        {
+          "id": "star-01di-7820-t03",
+          "title": "Kapitel 03: Die jungen Jedi",
+          "index": 2,
+          "startTime": 198.453,
+          "duration": 95.678
+        },
+        {
+          "id": "star-01di-7820-t04",
+          "title": "Kapitel 04: Die jungen Jedi",
+          "index": 3,
+          "startTime": 294.131,
+          "duration": 89.491
+        },
+        {
+          "id": "star-01di-7820-t05",
+          "title": "Kapitel 05: Die jungen Jedi",
+          "index": 4,
+          "startTime": 383.622,
+          "duration": 104.3
+        },
+        {
+          "id": "star-01di-7820-t06",
+          "title": "Kapitel 06: Die jungen Jedi",
+          "index": 5,
+          "startTime": 487.922,
+          "duration": 91.262
+        },
+        {
+          "id": "star-01di-7820-t07",
+          "title": "Kapitel 07: Die jungen Jedi",
+          "index": 6,
+          "startTime": 579.184,
+          "duration": 92.941
+        },
+        {
+          "id": "star-01di-7820-t08",
+          "title": "Kapitel 08: Die jungen Jedi",
+          "index": 7,
+          "startTime": 672.125,
+          "duration": 90.905
+        },
+        {
+          "id": "star-01di-7820-t09",
+          "title": "Kapitel 09: Die jungen Jedi",
+          "index": 8,
+          "startTime": 763.03,
+          "duration": 88.377
+        },
+        {
+          "id": "star-01di-7820-t10",
+          "title": "Kapitel 10: Die jungen Jedi",
+          "index": 9,
+          "startTime": 851.407,
+          "duration": 90.454
+        },
+        {
+          "id": "star-01di-7820-t11",
+          "title": "Kapitel 11: Die jungen Jedi",
+          "index": 10,
+          "startTime": 941.861,
+          "duration": 96.47
+        },
+        {
+          "id": "star-01di-7820-t12",
+          "title": "Kapitel 12: Die jungen Jedi",
+          "index": 11,
+          "startTime": 1038.331,
+          "duration": 103.716
+        },
+        {
+          "id": "star-01di-7820-t13",
+          "title": "Kapitel 01: Auf Mission für Meister Yoda",
+          "index": 12,
+          "startTime": 1142.047,
+          "duration": 90.455
+        },
+        {
+          "id": "star-01di-7820-t14",
+          "title": "Kapitel 02: Auf Mission für Meister Yoda",
+          "index": 13,
+          "startTime": 1232.502,
+          "duration": 88.567
+        },
+        {
+          "id": "star-01di-7820-t15",
+          "title": "Kapitel 03: Auf Mission für Meister Yoda",
+          "index": 14,
+          "startTime": 1321.069,
+          "duration": 86.133
+        },
+        {
+          "id": "star-01di-7820-t16",
+          "title": "Kapitel 04: Auf Mission für Meister Yoda",
+          "index": 15,
+          "startTime": 1407.202,
+          "duration": 92.343
+        },
+        {
+          "id": "star-01di-7820-t17",
+          "title": "Kapitel 05: Auf Mission für Meister Yoda",
+          "index": 16,
+          "startTime": 1499.545,
+          "duration": 90.209
+        },
+        {
+          "id": "star-01di-7820-t18",
+          "title": "Kapitel 06: Auf Mission für Meister Yoda",
+          "index": 17,
+          "startTime": 1589.754,
+          "duration": 84.942
+        },
+        {
+          "id": "star-01di-7820-t19",
+          "title": "Kapitel 07: Auf Mission für Meister Yoda",
+          "index": 18,
+          "startTime": 1674.696,
+          "duration": 99.515
+        },
+        {
+          "id": "star-01di-7820-t20",
+          "title": "Kapitel 08: Auf Mission für Meister Yoda",
+          "index": 19,
+          "startTime": 1774.211,
+          "duration": 103.207
+        },
+        {
+          "id": "star-01di-7820-t21",
+          "title": "Kapitel 09: Auf Mission für Meister Yoda",
+          "index": 20,
+          "startTime": 1877.418,
+          "duration": 93.017
+        },
+        {
+          "id": "star-01di-7820-t22",
+          "title": "Kapitel 10: Auf Mission für Meister Yoda",
+          "index": 21,
+          "startTime": 1970.435,
+          "duration": 96.792
+        },
+        {
+          "id": "star-01di-7820-t23",
+          "title": "Kapitel 11: Auf Mission für Meister Yoda",
+          "index": 22,
+          "startTime": 2067.227,
+          "duration": 99.971
+        },
+        {
+          "id": "star-01di-7820-t24",
+          "title": "Kapitel 01: Das große Rennen",
+          "index": 23,
+          "startTime": 2167.198,
+          "duration": 88.239
+        },
+        {
+          "id": "star-01di-7820-t25",
+          "title": "Kapitel 02: Das große Rennen",
+          "index": 24,
+          "startTime": 2255.437,
+          "duration": 95.442
+        },
+        {
+          "id": "star-01di-7820-t26",
+          "title": "Kapitel 03: Das große Rennen",
+          "index": 25,
+          "startTime": 2350.879,
+          "duration": 91.774
+        },
+        {
+          "id": "star-01di-7820-t27",
+          "title": "Kapitel 04: Das große Rennen",
+          "index": 26,
+          "startTime": 2442.653,
+          "duration": 85.744
+        },
+        {
+          "id": "star-01di-7820-t28",
+          "title": "Kapitel 05: Das große Rennen",
+          "index": 27,
+          "startTime": 2528.397,
+          "duration": 91.838
+        },
+        {
+          "id": "star-01di-7820-t29",
+          "title": "Kapitel 06: Das große Rennen",
+          "index": 28,
+          "startTime": 2620.235,
+          "duration": 99.661
+        },
+        {
+          "id": "star-01di-7820-t30",
+          "title": "Kapitel 07: Das große Rennen",
+          "index": 29,
+          "startTime": 2719.896,
+          "duration": 97.948
+        },
+        {
+          "id": "star-01di-7820-t31",
+          "title": "Kapitel 08: Das große Rennen",
+          "index": 30,
+          "startTime": 2817.844,
+          "duration": 105.213
+        },
+        {
+          "id": "star-01di-7820-t32",
+          "title": "Kapitel 09: Das große Rennen",
+          "index": 31,
+          "startTime": 2923.057,
+          "duration": 103.682
+        },
+        {
+          "id": "star-01di-7820-t33",
+          "title": "Kapitel 01: Das verschollene Jedi-Schiff",
+          "index": 32,
+          "startTime": 3026.739,
+          "duration": 95.215
+        },
+        {
+          "id": "star-01di-7820-t34",
+          "title": "Kapitel 02: Das verschollene Jedi-Schiff",
+          "index": 33,
+          "startTime": 3121.954,
+          "duration": 97.024
+        },
+        {
+          "id": "star-01di-7820-t35",
+          "title": "Kapitel 03: Das verschollene Jedi-Schiff",
+          "index": 34,
+          "startTime": 3218.978,
+          "duration": 83.806
+        },
+        {
+          "id": "star-01di-7820-t36",
+          "title": "Kapitel 04: Das verschollene Jedi-Schiff",
+          "index": 35,
+          "startTime": 3302.784,
+          "duration": 96.786
+        },
+        {
+          "id": "star-01di-7820-t37",
+          "title": "Kapitel 05: Das verschollene Jedi-Schiff",
+          "index": 36,
+          "startTime": 3399.57,
+          "duration": 88.522
+        },
+        {
+          "id": "star-01di-7820-t38",
+          "title": "Kapitel 06: Das verschollene Jedi-Schiff",
+          "index": 37,
+          "startTime": 3488.092,
+          "duration": 84.841
+        },
+        {
+          "id": "star-01di-7820-t39",
+          "title": "Kapitel 07: Das verschollene Jedi-Schiff",
+          "index": 38,
+          "startTime": 3572.933,
+          "duration": 87.898
+        },
+        {
+          "id": "star-01di-7820-t40",
+          "title": "Kapitel 08: Das verschollene Jedi-Schiff",
+          "index": 39,
+          "startTime": 3660.831,
+          "duration": 89.128
+        },
+        {
+          "id": "star-01di-7820-t41",
+          "title": "Kapitel 09: Das verschollene Jedi-Schiff",
+          "index": 40,
+          "startTime": 3749.959,
+          "duration": 94.857
+        },
+        {
+          "id": "star-01di-7820-t42",
+          "title": "Kapitel 10: Das verschollene Jedi-Schiff",
+          "index": 41,
+          "startTime": 3844.816,
+          "duration": 93.535
+        },
+        {
+          "id": "star-01di-7820-t43",
+          "title": "Kapitel 11: Das verschollene Jedi-Schiff",
+          "index": 42,
+          "startTime": 3938.351,
+          "duration": 96.552
+        }
+      ]
+    },
+    {
+      "id": "1686364386",
+      "title": "02: Gute Besserung, Nubs! / Der Schrott-Gigant / Rettung im Schnee / Angriff der Trainingsdroiden (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/a0/5a/e7a05a4a-dbc8-202d-97c9-fce102ae5390/4066339750760.jpg/100x100bb.jpg",
+      "description": "Dieses Album enthält Hörspiel-Episoden aus der Star Wars-Serie, die speziell für Audiokonsum gedacht sind.",
+      "totalDuration": 3575.406,
+      "platforms": {
+        "appleMusic": "1686364386"
+      },
+      "chapters": [
+        {
+          "id": "star-02gu-4386-t01",
+          "title": "Kapitel 01: Gute Besserung, Nubs!",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 85.846
+        },
+        {
+          "id": "star-02gu-4386-t02",
+          "title": "Kapitel 02: Gute Besserung, Nubs!",
+          "index": 1,
+          "startTime": 85.846,
+          "duration": 102.735
+        },
+        {
+          "id": "star-02gu-4386-t03",
+          "title": "Kapitel 03: Gute Besserung, Nubs!",
+          "index": 2,
+          "startTime": 188.581,
+          "duration": 85.671
+        },
+        {
+          "id": "star-02gu-4386-t04",
+          "title": "Kapitel 04: Gute Besserung, Nubs!",
+          "index": 3,
+          "startTime": 274.252,
+          "duration": 101.774
+        },
+        {
+          "id": "star-02gu-4386-t05",
+          "title": "Kapitel 05: Gute Besserung, Nubs!",
+          "index": 4,
+          "startTime": 376.026,
+          "duration": 101.014
+        },
+        {
+          "id": "star-02gu-4386-t06",
+          "title": "Kapitel 06: Gute Besserung, Nubs!",
+          "index": 5,
+          "startTime": 477.04,
+          "duration": 102.39
+        },
+        {
+          "id": "star-02gu-4386-t07",
+          "title": "Kapitel 07: Gute Besserung, Nubs!",
+          "index": 6,
+          "startTime": 579.43,
+          "duration": 90.403
+        },
+        {
+          "id": "star-02gu-4386-t08",
+          "title": "Kapitel 08: Gute Besserung, Nubs!",
+          "index": 7,
+          "startTime": 669.833,
+          "duration": 91.933
+        },
+        {
+          "id": "star-02gu-4386-t09",
+          "title": "Kapitel 09: Gute Besserung",
+          "index": 8,
+          "startTime": 761.766,
+          "duration": 135.298
+        },
+        {
+          "id": "star-02gu-4386-t10",
+          "title": "Kapitel 01: Der Schrott-Gigant",
+          "index": 9,
+          "startTime": 897.064,
+          "duration": 93.828
+        },
+        {
+          "id": "star-02gu-4386-t11",
+          "title": "Kapitel 02: Der Schrott-Gigant",
+          "index": 10,
+          "startTime": 990.892,
+          "duration": 97.353
+        },
+        {
+          "id": "star-02gu-4386-t12",
+          "title": "Kapitel 03: Der Schrott-Gigant",
+          "index": 11,
+          "startTime": 1088.245,
+          "duration": 94.011
+        },
+        {
+          "id": "star-02gu-4386-t13",
+          "title": "Kapitel 04: Der Schrott-Gigant",
+          "index": 12,
+          "startTime": 1182.256,
+          "duration": 97.124
+        },
+        {
+          "id": "star-02gu-4386-t14",
+          "title": "Kapitel 05: Der Schrott-Gigant",
+          "index": 13,
+          "startTime": 1279.38,
+          "duration": 101.224
+        },
+        {
+          "id": "star-02gu-4386-t15",
+          "title": "Kapitel 06: Der Schrott-Gigant",
+          "index": 14,
+          "startTime": 1380.604,
+          "duration": 112.124
+        },
+        {
+          "id": "star-02gu-4386-t16",
+          "title": "Kapitel 07: Der Schrott-Gigant",
+          "index": 15,
+          "startTime": 1492.728,
+          "duration": 94.723
+        },
+        {
+          "id": "star-02gu-4386-t17",
+          "title": "Kapitel 08: Der Schrott-Gigant",
+          "index": 16,
+          "startTime": 1587.451,
+          "duration": 83.994
+        },
+        {
+          "id": "star-02gu-4386-t18",
+          "title": "Kapitel 09: Der Schrott-Gigant",
+          "index": 17,
+          "startTime": 1671.445,
+          "duration": 80.301
+        },
+        {
+          "id": "star-02gu-4386-t19",
+          "title": "Kapitel 01: Rettung im Schnee",
+          "index": 18,
+          "startTime": 1751.746,
+          "duration": 88.082
+        },
+        {
+          "id": "star-02gu-4386-t20",
+          "title": "Kapitel 02: Rettung im Schnee",
+          "index": 19,
+          "startTime": 1839.828,
+          "duration": 100.143
+        },
+        {
+          "id": "star-02gu-4386-t21",
+          "title": "Kapitel 03: Rettung im Schnee",
+          "index": 20,
+          "startTime": 1939.971,
+          "duration": 78.059
+        },
+        {
+          "id": "star-02gu-4386-t22",
+          "title": "Kapitel 04: Rettung im Schnee",
+          "index": 21,
+          "startTime": 2018.03,
+          "duration": 86.757
+        },
+        {
+          "id": "star-02gu-4386-t23",
+          "title": "Kapitel 05: Rettung im Schnee",
+          "index": 22,
+          "startTime": 2104.787,
+          "duration": 96.324
+        },
+        {
+          "id": "star-02gu-4386-t24",
+          "title": "Kapitel 06: Rettung im Schnee",
+          "index": 23,
+          "startTime": 2201.111,
+          "duration": 94.558
+        },
+        {
+          "id": "star-02gu-4386-t25",
+          "title": "Kapitel 07: Rettung im Schnee",
+          "index": 24,
+          "startTime": 2295.669,
+          "duration": 103.08
+        },
+        {
+          "id": "star-02gu-4386-t26",
+          "title": "Kapitel 08: Rettung im Schnee",
+          "index": 25,
+          "startTime": 2398.749,
+          "duration": 94.866
+        },
+        {
+          "id": "star-02gu-4386-t27",
+          "title": "Kapitel 09: Rettung im Schnee",
+          "index": 26,
+          "startTime": 2493.615,
+          "duration": 117.236
+        },
+        {
+          "id": "star-02gu-4386-t28",
+          "title": "Kapitel 10: Rettung im Schnee",
+          "index": 27,
+          "startTime": 2610.851,
+          "duration": 117.08
+        },
+        {
+          "id": "star-02gu-4386-t29",
+          "title": "Kapitel 01: Angriff der Trainingsdroiden",
+          "index": 28,
+          "startTime": 2727.931,
+          "duration": 114.176
+        },
+        {
+          "id": "star-02gu-4386-t30",
+          "title": "Kapitel 02: Angriff der Trainingsdroiden",
+          "index": 29,
+          "startTime": 2842.107,
+          "duration": 101.666
+        },
+        {
+          "id": "star-02gu-4386-t31",
+          "title": "Kapitel 03: Angriff der Trainingsdroiden",
+          "index": 30,
+          "startTime": 2943.773,
+          "duration": 102.074
+        },
+        {
+          "id": "star-02gu-4386-t32",
+          "title": "Kapitel 04: Angriff der Trainingsdroiden",
+          "index": 31,
+          "startTime": 3045.847,
+          "duration": 99.489
+        },
+        {
+          "id": "star-02gu-4386-t33",
+          "title": "Kapitel 05: Angriff der Trainingsdroiden",
+          "index": 32,
+          "startTime": 3145.336,
+          "duration": 96.515
+        },
+        {
+          "id": "star-02gu-4386-t34",
+          "title": "Kapitel 06: Angriff der Trainingsdroiden",
+          "index": 33,
+          "startTime": 3241.851,
+          "duration": 94.776
+        },
+        {
+          "id": "star-02gu-4386-t35",
+          "title": "Kapitel 07: Angriff der Trainingsdroiden",
+          "index": 34,
+          "startTime": 3336.627,
+          "duration": 125.196
+        },
+        {
+          "id": "star-02gu-4386-t36",
+          "title": "Kapitel 08: Angriff der Trainingsdroiden",
+          "index": 35,
+          "startTime": 3461.823,
+          "duration": 113.583
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-31T16:41:37Z"
+}

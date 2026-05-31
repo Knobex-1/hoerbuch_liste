@@ -113,7 +113,9 @@
           "Folge 16: X7 antwortet nicht",
           "Folge 17: Die Doppelgängerin",
           "Folge 21: Der Fluch der Mumie",
-          "Folge 27: Banditen im Palasthotel"
+          "Folge 27: Banditen im Palasthotel",
+          "Folge 6: Angst in der 9a",
+          "Folge 9: Abenteuer im Ferienlager"
         ]
       }
     },
@@ -229,7 +231,23 @@
           "Zwischen den Fronten",
           "Das Jupiter-Risiko",
           "Der Fall Rublew",
-          "06: Testakte Kolibri 2"
+          "06: Testakte Kolibri 2",
+          "01: Aufbruch zu den Sternen",
+          "02: Verloren im All",
+          "03: Tatort Astronautenschule",
+          "04: Aufstand der Roboter",
+          "04: Hinter den Linien",
+          "05: Testakte Kolibri 1",
+          "07: Vorstoß zum Uranus 1",
+          "08: Vorstoß zum Uranus 2",
+          "08: Mondschatten",
+          "09: Raumsonde Epsilon 1",
+          "09: Endstation Pallas",
+          "10: Raumsonde Epsilon 2",
+          "10: Zwischen den Fronten",
+          "11: Die Vollstrecker 1",
+          "11: Das Jupiter-Risiko",
+          "12: Die Vollstrecker 2"
         ]
       }
     },
@@ -245,7 +263,161 @@
       "narrator": "",
       "enabled": true,
       "slug": "star-wars",
-      "id_prefix": "star"
+      "id_prefix": "star",
+      "franchise": "Star Wars"
+    },
+    {
+      "id_prefix": "star-kino",
+      "search_term": "",
+      "extra_search_terms": [],
+      "artist_filter": "Star Wars",
+      "title": "Star Wars: Kino-Hörspiele",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy"
+      ],
+      "enabled": true,
+      "slug": "star-wars-kino",
+      "franchise": "Star Wars",
+      "sub_franchise": "Kinofilme",
+      "title_patterns": {
+        "include": [
+          "Eine neue Hoffnung",
+          "Das Imperium schlägt zurück",
+          "Die Rückkehr der Jedi-Ritter",
+          "Die Dunkle Bedrohung",
+          "Angriff der Klonkrieger",
+          "Die Rache der Sith",
+          "Das Erwachen der Macht",
+          "Die Letzten Jedi",
+          "Der Aufstieg Skywalkers",
+          "Solo: A Star Wars",
+          "Rogue One: A Star Wars Story",
+          "Phantom Menace"
+        ],
+        "exclude": [
+          "Soundtrack",
+          "soundtrack",
+          "Original Film",
+          "Original Motion Picture",
+          "Original Motion Picture Score"
+        ]
+      }
+    },
+    {
+      "id_prefix": "star-rbl",
+      "search_term": "",
+      "extra_search_terms": [],
+      "artist_filter": "Star Wars",
+      "title": "Star Wars: Rebels",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "enabled": true,
+      "slug": "star-wars-rebels",
+      "franchise": "Star Wars",
+      "sub_franchise": "TV-Serien",
+      "title_patterns": {
+        "include": [
+          "Das Original-Hörspiel zur Star Wars",
+          "Das Originalhörspiel zur Star Wars",
+          "Das Original-Hörspiel zur TV-Serie",
+          "Funke einer Rebellion",
+          "Lothal",
+          "Ezra",
+          "Kanan",
+          "Sabine",
+          "Hera"
+        ]
+      }
+    },
+    {
+      "id_prefix": "star-yjk",
+      "search_term": "",
+      "extra_search_terms": [],
+      "artist_filter": "Star Wars",
+      "title": "Star Wars: Die jungen Jedi",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Kinder & Jugend"
+      ],
+      "enabled": true,
+      "slug": "star-wars-junge-jedi",
+      "franchise": "Star Wars",
+      "sub_franchise": "TV-Serien",
+      "title_patterns": {
+        "include": [
+          "Die jungen Jedi",
+          "Nubs",
+          "Meister Yoda",
+          "Das verschollene Jedi-Schiff",
+          "Schrott-Gigant"
+        ]
+      }
+    },
+    {
+      "id_prefix": "star-lab",
+      "search_term": "",
+      "extra_search_terms": [],
+      "artist_filter": "Star Wars",
+      "title": "Star Wars: Labyrinth des Bösen",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy"
+      ],
+      "enabled": true,
+      "slug": "star-wars-labyrinth",
+      "franchise": "Star Wars",
+      "sub_franchise": "Roman-Hörspiele",
+      "title_patterns": {
+        "include": [
+          "Labyrinth des Bösen",
+          "Gunrays Geheimnis",
+          "Darth Sidious auf der Spur",
+          "Angriff auf Coruscant"
+        ]
+      }
+    },
+    {
+      "id_prefix": "star-dkl",
+      "search_term": "",
+      "extra_search_terms": [],
+      "artist_filter": "Star Wars",
+      "title": "Star Wars: Dark Lord",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy"
+      ],
+      "enabled": true,
+      "slug": "star-wars-dark-lord",
+      "franchise": "Star Wars",
+      "sub_franchise": "Roman-Hörspiele",
+      "title_patterns": {
+        "include": [
+          "Dark Lord",
+          "Die letzten Stunden der Klon-Kriege",
+          "Auf der Flucht vor dem Imperium",
+          "Aufruhr auf Alderaan",
+          "Der Untergang von Kashyyyk"
+        ]
+      }
     },
     {
       "title": "Marco Göllner",

@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-31T15:45:05Z",
+  "updatedAt": "2026-05-31T16:41:37Z",
   "series": [
     {
       "id": "tkkg",
@@ -12,10 +12,10 @@
         "Krimi",
         "Kinder & Jugend"
       ],
-      "albumCount": 196,
+      "albumCount": 194,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/22/5b/31225b7c-f967-2b47-3bd0-8bdc135e4675/886446011790.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg.json",
-      "seriesUpdatedAt": "2026-05-31T15:30:38Z"
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
     },
     {
       "id": "sherlock-holmes",
@@ -88,10 +88,10 @@
         "Kinder & Jugend",
         "Krimi"
       ],
-      "albumCount": 10,
+      "albumCount": 12,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg-retro-archiv.json",
-      "seriesUpdatedAt": "2026-05-31T15:30:38Z"
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
     },
     {
       "id": "mark-brandis",
@@ -102,10 +102,10 @@
         "Hörspiel",
         "Science-Fiction"
       ],
-      "albumCount": 38,
+      "albumCount": 32,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis.json",
-      "seriesUpdatedAt": "2026-05-31T15:30:38Z"
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
     },
     {
       "id": "mark-brandis-raumkadett",
@@ -117,10 +117,10 @@
         "Science-Fiction",
         "Kinder & Jugend"
       ],
-      "albumCount": 12,
+      "albumCount": 18,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/eb/e6/49ebe645-3770-8a6f-9740-3dbd8f1d3108/4057664073037.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis-raumkadett.json",
-      "seriesUpdatedAt": "2026-05-31T15:30:38Z"
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
     },
     {
       "id": "star-wars",
@@ -130,10 +130,71 @@
       "genres": [
         "Hörspiel"
       ],
-      "albumCount": 79,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ec/c9/6aecc9f3-d5af-4f81-51eb-4b8690e9918c/4057664075192.jpg/100x100bb.jpg",
+      "albumCount": 65,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/37/42/bb374216-d59d-a308-09bb-daad96ad68bc/4066339690349.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars.json",
-      "seriesUpdatedAt": "2026-05-28T21:41:22Z"
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+    },
+    {
+      "id": "star-wars-dark-lord",
+      "title": "Star Wars: Dark Lord",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy"
+      ],
+      "albumCount": 4,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ec/c9/6aecc9f3-d5af-4f81-51eb-4b8690e9918c/4057664075192.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/star-wars-dark-lord.json",
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+    },
+    {
+      "id": "star-wars-labyrinth",
+      "title": "Star Wars: Labyrinth des Bösen",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy"
+      ],
+      "albumCount": 3,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/e0/19/2be01972-44c9-ce56-d83e-7b4e9bad9a64/4057664074942.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/star-wars-labyrinth.json",
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+    },
+    {
+      "id": "star-wars-junge-jedi",
+      "title": "Star Wars: Die jungen Jedi",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Kinder & Jugend"
+      ],
+      "albumCount": 2,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/30/0a/d5300a84-983b-2c76-ebbd-df1e8b855924/4066339750777.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/star-wars-junge-jedi.json",
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+    },
+    {
+      "id": "star-wars-rebels",
+      "title": "Star Wars: Rebels",
+      "author": "Star Wars",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "albumCount": 5,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/star-wars-rebels.json",
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
     },
     {
       "id": "torsten-straeter",

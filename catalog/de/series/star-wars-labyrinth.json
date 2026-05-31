@@ -1,0 +1,1051 @@
+{
+  "seriesId": "star-wars-labyrinth",
+  "title": "Star Wars: Labyrinth des Bösen",
+  "language": "de",
+  "author": "Star Wars",
+  "narrator": "",
+  "genres": [
+    "Hörspiel",
+    "Science-Fiction",
+    "Fantasy"
+  ],
+  "albums": [
+    {
+      "id": "1686317643",
+      "title": "Labyrinth des Bösen - Teil 1: Gunrays Geheimnis",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/e0/19/2be01972-44c9-ce56-d83e-7b4e9bad9a64/4057664074942.jpg/100x100bb.jpg",
+      "description": "Ein spannendes Hörspiel, das im Raumfahrt-Setting spielt, mit mysteriösen Ereignissen und Geheimnissen.",
+      "totalDuration": 3307.424,
+      "platforms": {
+        "appleMusic": "1686317643"
+      },
+      "chapters": [
+        {
+          "id": "star-laby-7643-t01",
+          "title": "Gunrays Geheimnis - Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 92.653
+        },
+        {
+          "id": "star-laby-7643-t02",
+          "title": "Gunrays Geheimnis - Teil 02",
+          "index": 1,
+          "startTime": 92.653,
+          "duration": 68.845
+        },
+        {
+          "id": "star-laby-7643-t03",
+          "title": "Gunrays Geheimnis - Teil 03",
+          "index": 2,
+          "startTime": 161.498,
+          "duration": 63.869
+        },
+        {
+          "id": "star-laby-7643-t04",
+          "title": "Gunrays Geheimnis - Teil 04",
+          "index": 3,
+          "startTime": 225.367,
+          "duration": 66.846
+        },
+        {
+          "id": "star-laby-7643-t05",
+          "title": "Gunrays Geheimnis - Teil 05",
+          "index": 4,
+          "startTime": 292.213,
+          "duration": 88.636
+        },
+        {
+          "id": "star-laby-7643-t06",
+          "title": "Gunrays Geheimnis - Teil 06",
+          "index": 5,
+          "startTime": 380.849,
+          "duration": 89.07
+        },
+        {
+          "id": "star-laby-7643-t07",
+          "title": "Gunrays Geheimnis - Teil 07",
+          "index": 6,
+          "startTime": 469.919,
+          "duration": 78.166
+        },
+        {
+          "id": "star-laby-7643-t08",
+          "title": "Gunrays Geheimnis - Teil 08",
+          "index": 7,
+          "startTime": 548.085,
+          "duration": 78.78
+        },
+        {
+          "id": "star-laby-7643-t09",
+          "title": "Gunrays Geheimnis - Teil 09",
+          "index": 8,
+          "startTime": 626.865,
+          "duration": 51.414
+        },
+        {
+          "id": "star-laby-7643-t10",
+          "title": "Gunrays Geheimnis - Teil 10",
+          "index": 9,
+          "startTime": 678.279,
+          "duration": 65.773
+        },
+        {
+          "id": "star-laby-7643-t11",
+          "title": "Gunrays Geheimnis - Teil 11",
+          "index": 10,
+          "startTime": 744.052,
+          "duration": 72.033
+        },
+        {
+          "id": "star-laby-7643-t12",
+          "title": "Gunrays Geheimnis - Teil 12",
+          "index": 11,
+          "startTime": 816.085,
+          "duration": 73.46
+        },
+        {
+          "id": "star-laby-7643-t13",
+          "title": "Gunrays Geheimnis - Teil 13",
+          "index": 12,
+          "startTime": 889.545,
+          "duration": 83.813
+        },
+        {
+          "id": "star-laby-7643-t14",
+          "title": "Gunrays Geheimnis - Teil 14",
+          "index": 13,
+          "startTime": 973.358,
+          "duration": 84.57
+        },
+        {
+          "id": "star-laby-7643-t15",
+          "title": "Gunrays Geheimnis - Teil 15",
+          "index": 14,
+          "startTime": 1057.928,
+          "duration": 83.457
+        },
+        {
+          "id": "star-laby-7643-t16",
+          "title": "Gunrays Geheimnis - Teil 16",
+          "index": 15,
+          "startTime": 1141.385,
+          "duration": 68.98
+        },
+        {
+          "id": "star-laby-7643-t17",
+          "title": "Gunrays Geheimnis - Teil 17",
+          "index": 16,
+          "startTime": 1210.365,
+          "duration": 70.283
+        },
+        {
+          "id": "star-laby-7643-t18",
+          "title": "Gunrays Geheimnis - Teil 18",
+          "index": 17,
+          "startTime": 1280.648,
+          "duration": 87.47
+        },
+        {
+          "id": "star-laby-7643-t19",
+          "title": "Gunrays Geheimnis - Teil 19",
+          "index": 18,
+          "startTime": 1368.118,
+          "duration": 104.387
+        },
+        {
+          "id": "star-laby-7643-t20",
+          "title": "Gunrays Geheimnis - Teil 20",
+          "index": 19,
+          "startTime": 1472.505,
+          "duration": 95.627
+        },
+        {
+          "id": "star-laby-7643-t21",
+          "title": "Gunrays Geheimnis - Teil 21",
+          "index": 20,
+          "startTime": 1568.132,
+          "duration": 87.507
+        },
+        {
+          "id": "star-laby-7643-t22",
+          "title": "Gunrays Geheimnis - Teil 22",
+          "index": 21,
+          "startTime": 1655.639,
+          "duration": 64.04
+        },
+        {
+          "id": "star-laby-7643-t23",
+          "title": "Gunrays Geheimnis - Teil 23",
+          "index": 22,
+          "startTime": 1719.679,
+          "duration": 69.623
+        },
+        {
+          "id": "star-laby-7643-t24",
+          "title": "Gunrays Geheimnis - Teil 24",
+          "index": 23,
+          "startTime": 1789.302,
+          "duration": 62.258
+        },
+        {
+          "id": "star-laby-7643-t25",
+          "title": "Gunrays Geheimnis - Teil 25",
+          "index": 24,
+          "startTime": 1851.56,
+          "duration": 62.519
+        },
+        {
+          "id": "star-laby-7643-t26",
+          "title": "Gunrays Geheimnis - Teil 26",
+          "index": 25,
+          "startTime": 1914.079,
+          "duration": 61.507
+        },
+        {
+          "id": "star-laby-7643-t27",
+          "title": "Gunrays Geheimnis - Teil 27",
+          "index": 26,
+          "startTime": 1975.586,
+          "duration": 66.684
+        },
+        {
+          "id": "star-laby-7643-t28",
+          "title": "Gunrays Geheimnis - Teil 28",
+          "index": 27,
+          "startTime": 2042.27,
+          "duration": 63.319
+        },
+        {
+          "id": "star-laby-7643-t29",
+          "title": "Gunrays Geheimnis - Teil 29",
+          "index": 28,
+          "startTime": 2105.589,
+          "duration": 57.863
+        },
+        {
+          "id": "star-laby-7643-t30",
+          "title": "Gunrays Geheimnis - Teil 30",
+          "index": 29,
+          "startTime": 2163.452,
+          "duration": 64.336
+        },
+        {
+          "id": "star-laby-7643-t31",
+          "title": "Gunrays Geheimnis - Teil 31",
+          "index": 30,
+          "startTime": 2227.788,
+          "duration": 62.029
+        },
+        {
+          "id": "star-laby-7643-t32",
+          "title": "Gunrays Geheimnis - Teil 32",
+          "index": 31,
+          "startTime": 2289.817,
+          "duration": 56.173
+        },
+        {
+          "id": "star-laby-7643-t33",
+          "title": "Gunrays Geheimnis - Teil 33",
+          "index": 32,
+          "startTime": 2345.99,
+          "duration": 65.582
+        },
+        {
+          "id": "star-laby-7643-t34",
+          "title": "Gunrays Geheimnis - Teil 34",
+          "index": 33,
+          "startTime": 2411.572,
+          "duration": 71.281
+        },
+        {
+          "id": "star-laby-7643-t35",
+          "title": "Gunrays Geheimnis - Teil 35",
+          "index": 34,
+          "startTime": 2482.853,
+          "duration": 74.557
+        },
+        {
+          "id": "star-laby-7643-t36",
+          "title": "Gunrays Geheimnis - Teil 36",
+          "index": 35,
+          "startTime": 2557.41,
+          "duration": 69.721
+        },
+        {
+          "id": "star-laby-7643-t37",
+          "title": "Gunrays Geheimnis - Teil 37",
+          "index": 36,
+          "startTime": 2627.131,
+          "duration": 88.437
+        },
+        {
+          "id": "star-laby-7643-t38",
+          "title": "Gunrays Geheimnis - Teil 38",
+          "index": 37,
+          "startTime": 2715.568,
+          "duration": 88.589
+        },
+        {
+          "id": "star-laby-7643-t39",
+          "title": "Gunrays Geheimnis - Teil 39",
+          "index": 38,
+          "startTime": 2804.157,
+          "duration": 80.155
+        },
+        {
+          "id": "star-laby-7643-t40",
+          "title": "Gunrays Geheimnis - Teil 40",
+          "index": 39,
+          "startTime": 2884.312,
+          "duration": 79.792
+        },
+        {
+          "id": "star-laby-7643-t41",
+          "title": "Gunrays Geheimnis - Teil 41",
+          "index": 40,
+          "startTime": 2964.104,
+          "duration": 82.053
+        },
+        {
+          "id": "star-laby-7643-t42",
+          "title": "Gunrays Geheimnis - Teil 42",
+          "index": 41,
+          "startTime": 3046.157,
+          "duration": 69.01
+        },
+        {
+          "id": "star-laby-7643-t43",
+          "title": "Gunrays Geheimnis - Teil 43",
+          "index": 42,
+          "startTime": 3115.167,
+          "duration": 68.292
+        },
+        {
+          "id": "star-laby-7643-t44",
+          "title": "Gunrays Geheimnis - Teil 44",
+          "index": 43,
+          "startTime": 3183.459,
+          "duration": 60.028
+        },
+        {
+          "id": "star-laby-7643-t45",
+          "title": "Gunrays Geheimnis - Teil 45",
+          "index": 44,
+          "startTime": 3243.487,
+          "duration": 63.937
+        }
+      ]
+    },
+    {
+      "id": "1686061283",
+      "title": "Folge 2: Darth Sidious auf der Spur (Labyrinth des Bösen)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/03/a5/a203a5c2-ffeb-acda-4463-25f314c0d2b0/4057664075185.jpg/100x100bb.jpg",
+      "description": "Ein Hörspiel aus der Star Wars-Serie, das auf der Jagd nach Darth Sidious in einer dunklen Welt ist.",
+      "totalDuration": 3464.109,
+      "platforms": {
+        "appleMusic": "1686061283"
+      },
+      "chapters": [
+        {
+          "id": "star-folg-1283-t01",
+          "title": "Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 65.817
+        },
+        {
+          "id": "star-folg-1283-t02",
+          "title": "Teil 02",
+          "index": 1,
+          "startTime": 65.817,
+          "duration": 71.641
+        },
+        {
+          "id": "star-folg-1283-t03",
+          "title": "Teil 03",
+          "index": 2,
+          "startTime": 137.458,
+          "duration": 96.187
+        },
+        {
+          "id": "star-folg-1283-t04",
+          "title": "Teil 04",
+          "index": 3,
+          "startTime": 233.645,
+          "duration": 95.915
+        },
+        {
+          "id": "star-folg-1283-t05",
+          "title": "Teil 05",
+          "index": 4,
+          "startTime": 329.56,
+          "duration": 86.0
+        },
+        {
+          "id": "star-folg-1283-t06",
+          "title": "Teil 06",
+          "index": 5,
+          "startTime": 415.56,
+          "duration": 65.664
+        },
+        {
+          "id": "star-folg-1283-t07",
+          "title": "Teil 07",
+          "index": 6,
+          "startTime": 481.224,
+          "duration": 66.686
+        },
+        {
+          "id": "star-folg-1283-t08",
+          "title": "Teil 08",
+          "index": 7,
+          "startTime": 547.91,
+          "duration": 58.565
+        },
+        {
+          "id": "star-folg-1283-t09",
+          "title": "Teil 09",
+          "index": 8,
+          "startTime": 606.475,
+          "duration": 70.365
+        },
+        {
+          "id": "star-folg-1283-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 676.84,
+          "duration": 50.253
+        },
+        {
+          "id": "star-folg-1283-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 727.093,
+          "duration": 77.652
+        },
+        {
+          "id": "star-folg-1283-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 804.745,
+          "duration": 95.814
+        },
+        {
+          "id": "star-folg-1283-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 900.559,
+          "duration": 71.952
+        },
+        {
+          "id": "star-folg-1283-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 972.511,
+          "duration": 80.982
+        },
+        {
+          "id": "star-folg-1283-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1053.493,
+          "duration": 105.667
+        },
+        {
+          "id": "star-folg-1283-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1159.16,
+          "duration": 63.049
+        },
+        {
+          "id": "star-folg-1283-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1222.209,
+          "duration": 74.031
+        },
+        {
+          "id": "star-folg-1283-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1296.24,
+          "duration": 84.307
+        },
+        {
+          "id": "star-folg-1283-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1380.547,
+          "duration": 88.907
+        },
+        {
+          "id": "star-folg-1283-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1469.454,
+          "duration": 59.722
+        },
+        {
+          "id": "star-folg-1283-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1529.176,
+          "duration": 57.571
+        },
+        {
+          "id": "star-folg-1283-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1586.747,
+          "duration": 77.569
+        },
+        {
+          "id": "star-folg-1283-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1664.316,
+          "duration": 74.618
+        },
+        {
+          "id": "star-folg-1283-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 1738.934,
+          "duration": 74.0
+        },
+        {
+          "id": "star-folg-1283-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 1812.934,
+          "duration": 60.122
+        },
+        {
+          "id": "star-folg-1283-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 1873.056,
+          "duration": 64.724
+        },
+        {
+          "id": "star-folg-1283-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 1937.78,
+          "duration": 62.007
+        },
+        {
+          "id": "star-folg-1283-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 1999.787,
+          "duration": 63.397
+        },
+        {
+          "id": "star-folg-1283-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2063.184,
+          "duration": 57.132
+        },
+        {
+          "id": "star-folg-1283-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2120.316,
+          "duration": 61.311
+        },
+        {
+          "id": "star-folg-1283-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2181.627,
+          "duration": 59.484
+        },
+        {
+          "id": "star-folg-1283-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2241.111,
+          "duration": 53.89
+        },
+        {
+          "id": "star-folg-1283-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2295.001,
+          "duration": 74.801
+        },
+        {
+          "id": "star-folg-1283-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2369.802,
+          "duration": 74.812
+        },
+        {
+          "id": "star-folg-1283-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 2444.614,
+          "duration": 70.881
+        },
+        {
+          "id": "star-folg-1283-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 2515.495,
+          "duration": 63.554
+        },
+        {
+          "id": "star-folg-1283-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 2579.049,
+          "duration": 70.286
+        },
+        {
+          "id": "star-folg-1283-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 2649.335,
+          "duration": 69.252
+        },
+        {
+          "id": "star-folg-1283-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 2718.587,
+          "duration": 73.709
+        },
+        {
+          "id": "star-folg-1283-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 2792.296,
+          "duration": 77.239
+        },
+        {
+          "id": "star-folg-1283-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 2869.535,
+          "duration": 74.861
+        },
+        {
+          "id": "star-folg-1283-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 2944.396,
+          "duration": 62.55
+        },
+        {
+          "id": "star-folg-1283-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 3006.946,
+          "duration": 68.722
+        },
+        {
+          "id": "star-folg-1283-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 3075.668,
+          "duration": 69.347
+        },
+        {
+          "id": "star-folg-1283-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 3145.015,
+          "duration": 77.2
+        },
+        {
+          "id": "star-folg-1283-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 3222.215,
+          "duration": 70.119
+        },
+        {
+          "id": "star-folg-1283-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 3292.334,
+          "duration": 85.442
+        },
+        {
+          "id": "star-folg-1283-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 3377.776,
+          "duration": 86.333
+        }
+      ]
+    },
+    {
+      "id": "1686055714",
+      "title": "Teil 3: Angriff auf Coruscant (Labyrinth des Bösen)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/15/13/7f/15137f15-7a18-30e5-ee25-7b04f22ee10a/4057664075116.jpg/100x100bb.jpg",
+      "description": "Dieses Album ist Teil einer Fortsetzung eines beliebten Science-Fiction-Universums und entspricht typischerweise den Genres Hörspiel und Abenteuer.",
+      "totalDuration": 3356.24,
+      "platforms": {
+        "appleMusic": "1686055714"
+      },
+      "chapters": [
+        {
+          "id": "star-teil-5714-t01",
+          "title": "Teil 01",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 60.42
+        },
+        {
+          "id": "star-teil-5714-t02",
+          "title": "Teil 02",
+          "index": 1,
+          "startTime": 60.42,
+          "duration": 63.802
+        },
+        {
+          "id": "star-teil-5714-t03",
+          "title": "Teil 03",
+          "index": 2,
+          "startTime": 124.222,
+          "duration": 80.418
+        },
+        {
+          "id": "star-teil-5714-t04",
+          "title": "Teil 04",
+          "index": 3,
+          "startTime": 204.64,
+          "duration": 81.547
+        },
+        {
+          "id": "star-teil-5714-t05",
+          "title": "Teil 05",
+          "index": 4,
+          "startTime": 286.187,
+          "duration": 75.181
+        },
+        {
+          "id": "star-teil-5714-t06",
+          "title": "Teil 06",
+          "index": 5,
+          "startTime": 361.368,
+          "duration": 65.475
+        },
+        {
+          "id": "star-teil-5714-t07",
+          "title": "Teil 07",
+          "index": 6,
+          "startTime": 426.843,
+          "duration": 65.011
+        },
+        {
+          "id": "star-teil-5714-t08",
+          "title": "Teil 08",
+          "index": 7,
+          "startTime": 491.854,
+          "duration": 65.208
+        },
+        {
+          "id": "star-teil-5714-t09",
+          "title": "Teil 09",
+          "index": 8,
+          "startTime": 557.062,
+          "duration": 63.972
+        },
+        {
+          "id": "star-teil-5714-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 621.034,
+          "duration": 65.714
+        },
+        {
+          "id": "star-teil-5714-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 686.748,
+          "duration": 50.187
+        },
+        {
+          "id": "star-teil-5714-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 736.935,
+          "duration": 36.253
+        },
+        {
+          "id": "star-teil-5714-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 773.188,
+          "duration": 62.322
+        },
+        {
+          "id": "star-teil-5714-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 835.51,
+          "duration": 100.21
+        },
+        {
+          "id": "star-teil-5714-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 935.72,
+          "duration": 78.374
+        },
+        {
+          "id": "star-teil-5714-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1014.094,
+          "duration": 75.67
+        },
+        {
+          "id": "star-teil-5714-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1089.764,
+          "duration": 77.157
+        },
+        {
+          "id": "star-teil-5714-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1166.921,
+          "duration": 45.2
+        },
+        {
+          "id": "star-teil-5714-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1212.121,
+          "duration": 47.8
+        },
+        {
+          "id": "star-teil-5714-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1259.921,
+          "duration": 66.579
+        },
+        {
+          "id": "star-teil-5714-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1326.5,
+          "duration": 64.847
+        },
+        {
+          "id": "star-teil-5714-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 1391.347,
+          "duration": 70.978
+        },
+        {
+          "id": "star-teil-5714-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 1462.325,
+          "duration": 66.708
+        },
+        {
+          "id": "star-teil-5714-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 1529.033,
+          "duration": 60.554
+        },
+        {
+          "id": "star-teil-5714-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 1589.587,
+          "duration": 37.76
+        },
+        {
+          "id": "star-teil-5714-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 1627.347,
+          "duration": 82.92
+        },
+        {
+          "id": "star-teil-5714-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 1710.267,
+          "duration": 64.893
+        },
+        {
+          "id": "star-teil-5714-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 1775.16,
+          "duration": 75.227
+        },
+        {
+          "id": "star-teil-5714-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 1850.387,
+          "duration": 63.003
+        },
+        {
+          "id": "star-teil-5714-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 1913.39,
+          "duration": 64.098
+        },
+        {
+          "id": "star-teil-5714-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 1977.488,
+          "duration": 94.046
+        },
+        {
+          "id": "star-teil-5714-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 2071.534,
+          "duration": 48.067
+        },
+        {
+          "id": "star-teil-5714-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 2119.601,
+          "duration": 65.114
+        },
+        {
+          "id": "star-teil-5714-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 2184.715,
+          "duration": 70.185
+        },
+        {
+          "id": "star-teil-5714-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 2254.9,
+          "duration": 73.487
+        },
+        {
+          "id": "star-teil-5714-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 2328.387,
+          "duration": 78.963
+        },
+        {
+          "id": "star-teil-5714-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 2407.35,
+          "duration": 98.05
+        },
+        {
+          "id": "star-teil-5714-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 2505.4,
+          "duration": 84.267
+        },
+        {
+          "id": "star-teil-5714-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 2589.667,
+          "duration": 79.293
+        },
+        {
+          "id": "star-teil-5714-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 2668.96,
+          "duration": 48.52
+        },
+        {
+          "id": "star-teil-5714-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 2717.48,
+          "duration": 60.107
+        },
+        {
+          "id": "star-teil-5714-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 2777.587,
+          "duration": 68.56
+        },
+        {
+          "id": "star-teil-5714-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 2846.147,
+          "duration": 76.333
+        },
+        {
+          "id": "star-teil-5714-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 2922.48,
+          "duration": 62.287
+        },
+        {
+          "id": "star-teil-5714-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 2984.767,
+          "duration": 50.113
+        },
+        {
+          "id": "star-teil-5714-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 3034.88,
+          "duration": 68.933
+        },
+        {
+          "id": "star-teil-5714-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 3103.813,
+          "duration": 84.747
+        },
+        {
+          "id": "star-teil-5714-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 3188.56,
+          "duration": 67.013
+        },
+        {
+          "id": "star-teil-5714-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 3255.573,
+          "duration": 100.667
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-05-31T16:41:37Z"
+}
