@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-31T18:08:59Z",
+  "updatedAt": "2026-05-31T18:44:24Z",
   "series": [
     {
       "id": "tkkg",
@@ -221,10 +221,10 @@
       "genres": [
         "Comedy"
       ],
-      "albumCount": 25,
+      "albumCount": 24,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/33/c4/b833c454-b176-5f75-df19-bcc5da060d72/4066339395770.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/torsten-straeter.json",
-      "seriesUpdatedAt": "2026-05-28T19:34:33Z"
+      "seriesUpdatedAt": "2026-05-31T18:44:24Z"
     },
     {
       "id": "marco-goellner",
@@ -494,10 +494,10 @@
       "genres": [
         "Hörspiele"
       ],
-      "albumCount": 57,
+      "albumCount": 50,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/68/5b/5f685baf-f63f-4a7c-35de-9c21b79ae7d3/4069828291706_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/patrick-lynen.json",
-      "seriesUpdatedAt": "2026-05-28T21:41:22Z"
+      "seriesUpdatedAt": "2026-05-31T18:44:24Z"
     },
     {
       "id": "traumreisen-fuer-erwachsene-und-kinder",

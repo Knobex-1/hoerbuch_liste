@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-05-31T17:13:17.637976+00:00",
+  "updatedAt": "2026-05-31T18:44:24.163838+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -151512,117 +151512,6 @@
       "description": "Ein Soundtrack-Album für den Film Star Wars: Episode I - Das Phantom Menace.",
       "series": "Star Wars: Kino-Hörspiele",
       "franchise": "Star Wars"
-    },
-    {
-      "id": "thec-musi-0817",
-      "title": "Music from the Star Wars Saga",
-      "author": "Star Wars",
-      "narrator": "Torsten Sträter",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/75/74/23/757423c5-8a47-39a1-a9a0-5574b1ee0d0f/13UADIM53256.rgb.jpg/100x100bb.jpg",
-      "totalDuration": 3407.905,
-      "platforms": {
-        "appleMusic": "1657240817"
-      },
-      "genres": [
-        "Science-Fiction",
-        "Hörspiel",
-        "Comedy"
-      ],
-      "chapters": [
-        {
-          "id": "thec-musi-0817-t01",
-          "title": "Star Wars Suite: Main Theme (From \"Star Wars: Episode IV - A New Hope\")",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 326.813
-        },
-        {
-          "id": "thec-musi-0817-t02",
-          "title": "The Asteroid Field (From \"Star Wars: Episode V - The Empire Strikes Back\")",
-          "index": 1,
-          "startTime": 326.813,
-          "duration": 265.973
-        },
-        {
-          "id": "thec-musi-0817-t03",
-          "title": "Princess Leia's Theme (From \"Star Wars: Episode IV - A New Hope\")",
-          "index": 2,
-          "startTime": 592.786,
-          "duration": 286.0
-        },
-        {
-          "id": "thec-musi-0817-t04",
-          "title": "The Imperial March (From \"Star Wars: Episode V - The Empire Strikes Back\")",
-          "index": 3,
-          "startTime": 878.786,
-          "duration": 182.6
-        },
-        {
-          "id": "thec-musi-0817-t05",
-          "title": "Yoda's Theme (From \"Star Wars: Episode V - The Empire Strikes Back\")",
-          "index": 4,
-          "startTime": 1061.386,
-          "duration": 232.36
-        },
-        {
-          "id": "thec-musi-0817-t06",
-          "title": "Forest Battle (From \"Star Wars: Episode VI - Return of the Jedi\")",
-          "index": 5,
-          "startTime": 1293.746,
-          "duration": 234.707
-        },
-        {
-          "id": "thec-musi-0817-t07",
-          "title": "Han Solo and the Princess (From \"Star Wars: Episode VI - Return of the Jedi\")",
-          "index": 6,
-          "startTime": 1528.453,
-          "duration": 250.893
-        },
-        {
-          "id": "thec-musi-0817-t08",
-          "title": "The Flag Parade (From \"Star Wars: Episode I - The Phantom Menace\")",
-          "index": 7,
-          "startTime": 1779.346,
-          "duration": 199.333
-        },
-        {
-          "id": "thec-musi-0817-t09",
-          "title": "Anakin's Theme (From \"Star Wars: The Phantom Menace\")",
-          "index": 8,
-          "startTime": 1978.679,
-          "duration": 172.973
-        },
-        {
-          "id": "thec-musi-0817-t10",
-          "title": "The Adventures Of Jar Jar (From \"Star Wars: The Phantom Menace\")",
-          "index": 9,
-          "startTime": 2151.652,
-          "duration": 207.773
-        },
-        {
-          "id": "thec-musi-0817-t11",
-          "title": "Duel of the Fates (From \"Star Wars: Episode I - The Phantom Menace\")",
-          "index": 10,
-          "startTime": 2359.425,
-          "duration": 249.64
-        },
-        {
-          "id": "thec-musi-0817-t12",
-          "title": "Across the Stars (From \"Star Wars: Episode II - Attack of the Clones\")",
-          "index": 11,
-          "startTime": 2609.065,
-          "duration": 343.253
-        },
-        {
-          "id": "thec-musi-0817-t13",
-          "title": "The Throne Room / Finale (From \"Star Wars: Episode Iv - A New Hope\")",
-          "index": 12,
-          "startTime": 2952.318,
-          "duration": 455.587
-        }
-      ],
-      "description": "Ein Soundtrack-Album mit Musik aus der Star Wars Saga, interpretiert von der Prager Philharmoniker-Orchester.",
-      "series": "Torsten Sträter"
     },
     {
       "id": "katj-hrge-8608",
@@ -446259,26 +446148,6 @@
       "series": "Yakari"
     },
     {
-      "id": "patr-heil-9228",
-      "title": "Heilstrom Morgenmeditation - Den Fluss der Lebensenergie aktivieren - EP",
-      "author": "Patrick Lynen",
-      "narrator": "Patrick Lynen",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/87/9a/d0879ace-b941-1487-cb33-d6c29e7bf03e/4099995385564_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1740829228"
-      },
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
-        "Entspannung"
-      ],
-      "chapters": [],
-      "description": "Dieses Album ist eine Meditationseinheit, die sich mit der Aktivierung der Lebensenergie beschäftigt. Es wird von Patrick Lynen produziert und ist Teil der Kategorie Hörspiele.",
-      "series": "Patrick Lynen"
-    },
-    {
       "id": "patr-mani-0130",
       "title": "Manifestiere Gesundheit während Du schläfst",
       "author": "Patrick Lynen",
@@ -446396,26 +446265,6 @@
       ],
       "chapters": [],
       "description": "Das Album 'Einschlafgeschichte für Erwachsene' von Patrick Lynen umfasst zehn Hörspiel-Stücke und ist somit ein deutscher Hörspiel/Hörbuch-Katalog auf Apple Music.",
-      "series": "Patrick Lynen"
-    },
-    {
-      "id": "patr-medi-9694",
-      "title": "Meditation Heilung - EP",
-      "author": "Patrick Lynen",
-      "narrator": "Patrick Lynen",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/40/a2/1940a2f8-7d99-0caa-3e0e-52544365b846/4099995400144_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1741289694"
-      },
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
-        "Entspannung"
-      ],
-      "chapters": [],
-      "description": "Dieses Album enthält zwei Hörspieltracks, was darauf hindeutet, dass es sich um ein deutsches Hörspiel handelt.",
       "series": "Patrick Lynen"
     },
     {
@@ -446609,26 +446458,6 @@
       "series": "Patrick Lynen"
     },
     {
-      "id": "patr-derz-7577",
-      "title": "Der Zauberballon - Geführte Einschlafhilfe für Kinder - EP",
-      "author": "Patrick Lynen",
-      "narrator": "Patrick Lynen",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/8e/0e/df8e0e9a-2790-41f6-e673-fa1a42af4b0c/4069828067332_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1791507577"
-      },
-      "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
-        "Fantasy",
-        "Entspannung"
-      ],
-      "chapters": [],
-      "description": "Dieses Hörspielalbum \"Der Zauberballon\" ist eine geführte Einschlafhilfe für Kinder und bietet eine beruhigende Atmosphäre, ideal für die Vorbereitung auf den Schlaf. Es vermittelt spannende Geschichten, die Kindern helfen, sich zu entspannen und in einen erholsamen Schlaf zu finden.",
-      "series": "Patrick Lynen"
-    },
-    {
       "id": "patr-heil-9767",
       "title": "Heilreise zum Inneren Kind - Löse alte Blockaden, erkenne unbewusste Muster und befreie dich aus der Selbstsabotage",
       "author": "Patrick Lynen",
@@ -446646,26 +446475,6 @@
       ],
       "chapters": [],
       "description": "Ein Album, das sich auf die Heilung und persönliche Entwicklung konzentriert, typisch für viele Hörspiele und Hörbücher.",
-      "series": "Patrick Lynen"
-    },
-    {
-      "id": "patr-heil-2782",
-      "title": "Heilstrom Meditation -  Wege zur Selbstheilung - EP",
-      "author": "Patrick Lynen",
-      "narrator": "Patrick Lynen",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/3d/b8/b83db8a6-24f0-2e7f-5694-df41794e72ef/4099995390131_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1740272782"
-      },
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
-        "Entspannung"
-      ],
-      "chapters": [],
-      "description": "Ein Hörspiel-EP über Meditation und Selbstheilung von Patrick Lynen.",
       "series": "Patrick Lynen"
     },
     {
@@ -446986,26 +446795,6 @@
       ],
       "chapters": [],
       "description": "Das Album 'Selbstheilung - Ich bitte um den göttlichen Heilstrom' von Patrick Lynen ist ein Hörspiel, das auf Apple Music verfügbar ist und 12 Tracks umfasst.",
-      "series": "Patrick Lynen"
-    },
-    {
-      "id": "patr-chak-0854",
-      "title": "Chakra Reinigung - Meditation zum Einschlafen",
-      "author": "Patrick Lynen",
-      "narrator": "Patrick Lynen",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/b6/2e/9fb62e9c-6d73-4aa0-4d7b-4d54ccfcf35e/4057664930569_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1780290854"
-      },
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
-        "Entspannung"
-      ],
-      "chapters": [],
-      "description": "Dieses Album enthält Meditationen und Entspannungsinhalte, typisch für Hörspiele zur Stressbewältigung und Entspannung.",
       "series": "Patrick Lynen"
     },
     {
@@ -447331,26 +447120,6 @@
       "series": "Patrick Lynen"
     },
     {
-      "id": "patr-mdit-0379",
-      "title": "Méditation sur le courant de guérison. Les voies de l'auto-guérison - EP",
-      "author": "Patrick Lynen",
-      "narrator": "Patrick Lynen",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/3b/15/ca3b15da-96ea-85d5-c675-85f9d28f2edc/4099995918823_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1773290379"
-      },
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
-        "Entspannung"
-      ],
-      "chapters": [],
-      "description": "Dieses Album bietet meditative und spirituelle Inhalte, die typisch für deutsche Hörspiele sind.",
-      "series": "Patrick Lynen"
-    },
-    {
       "id": "patr-hipn-5728",
       "title": "Hipnosis guiada para transformar tu mente: Piensa en positivo, irradia optimismo y abraza la paz interior y el bienestar",
       "author": "Patrick Lynen",
@@ -447410,26 +447179,6 @@
       ],
       "chapters": [],
       "description": "Dieses Album enthält 19 Hörspieltracks, die sich um das Thema 'Auto-guérison' und 'Je m'adresse au courant divin de guérison' drehen. Es ist ein Hörspielalbum von Patrick Lynen, das auf Apple Music verfügbar ist.",
-      "series": "Patrick Lynen"
-    },
-    {
-      "id": "patr-hypn-4007",
-      "title": "Hypnotic Music: Blissful Sounds for Hypnotherapy, Meditation & Deep Relaxation",
-      "author": "Patrick Lynen",
-      "narrator": "Patrick Lynen",
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/3b/cb/4e3bcbe5-fd37-d015-b6cd-c8bba73f82e4/4069829644501_cover.jpg/100x100bb.jpg",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1885494007"
-      },
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
-        "Entspannung"
-      ],
-      "chapters": [],
-      "description": "Dieses Album enthält entspannende Sounds für Hypnotherapie, Meditation und tiefes Entspannen.",
       "series": "Patrick Lynen"
     },
     {
