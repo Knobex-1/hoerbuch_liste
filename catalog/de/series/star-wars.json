@@ -1,0 +1,279 @@
+{
+  "seriesId": "star-wars",
+  "title": "Star Wars",
+  "language": "de",
+  "author": "Star Wars",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1686045746",
+      "title": "01: Der Hinterhalt / Der Angriff der Malevolence (Das Original-Hörspiel zur Star Wars-TV-Serie)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/33/c4/b833c454-b176-5f75-df19-bcc5da060d72/4066339395770.jpg/100x100bb.jpg",
+      "description": "Das Album enthält Szenen aus einer Star Wars-TV-Serie, bekannt für seinen Science-Fiction-Inhalt und Abenteuer. Es handelt sich um ein Hörspiel-Album.",
+      "totalDuration": 2642.518,
+      "platforms": {
+        "appleMusic": "1686045746"
+      },
+      "chapters": [
+        {
+          "id": "thec-01de-5746-t01",
+          "title": "Kapitel 01: Der Hinterhalt",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 59.867
+        },
+        {
+          "id": "thec-01de-5746-t02",
+          "title": "Kapitel 02: Der Hinterhalt",
+          "index": 1,
+          "startTime": 59.867,
+          "duration": 79.85
+        },
+        {
+          "id": "thec-01de-5746-t03",
+          "title": "Kapitel 03: Der Hinterhalt",
+          "index": 2,
+          "startTime": 139.717,
+          "duration": 93.843
+        },
+        {
+          "id": "thec-01de-5746-t04",
+          "title": "Kapitel 04: Der Hinterhalt",
+          "index": 3,
+          "startTime": 233.56,
+          "duration": 73.299
+        },
+        {
+          "id": "thec-01de-5746-t05",
+          "title": "Kapitel 05: Der Hinterhalt",
+          "index": 4,
+          "startTime": 306.859,
+          "duration": 79.999
+        },
+        {
+          "id": "thec-01de-5746-t06",
+          "title": "Kapitel 06: Der Hinterhalt",
+          "index": 5,
+          "startTime": 386.858,
+          "duration": 91.689
+        },
+        {
+          "id": "thec-01de-5746-t07",
+          "title": "Kapitel 07: Der Hinterhalt",
+          "index": 6,
+          "startTime": 478.547,
+          "duration": 83.2
+        },
+        {
+          "id": "thec-01de-5746-t08",
+          "title": "Kapitel 08: Der Hinterhalt",
+          "index": 7,
+          "startTime": 561.747,
+          "duration": 93.0
+        },
+        {
+          "id": "thec-01de-5746-t09",
+          "title": "Kapitel 09: Der Hinterhalt",
+          "index": 8,
+          "startTime": 654.747,
+          "duration": 76.427
+        },
+        {
+          "id": "thec-01de-5746-t10",
+          "title": "Kapitel 10: Der Hinterhalt",
+          "index": 9,
+          "startTime": 731.174,
+          "duration": 64.825
+        },
+        {
+          "id": "thec-01de-5746-t11",
+          "title": "Kapitel 11: Der Hinterhalt",
+          "index": 10,
+          "startTime": 795.999,
+          "duration": 80.869
+        },
+        {
+          "id": "thec-01de-5746-t12",
+          "title": "Kapitel 12: Der Hinterhalt",
+          "index": 11,
+          "startTime": 876.868,
+          "duration": 71.546
+        },
+        {
+          "id": "thec-01de-5746-t13",
+          "title": "Kapitel 13: Der Hinterhalt",
+          "index": 12,
+          "startTime": 948.414,
+          "duration": 61.2
+        },
+        {
+          "id": "thec-01de-5746-t14",
+          "title": "Kapitel 14: Der Hinterhalt",
+          "index": 13,
+          "startTime": 1009.614,
+          "duration": 73.558
+        },
+        {
+          "id": "thec-01de-5746-t15",
+          "title": "Kapitel 15: Der Hinterhalt",
+          "index": 14,
+          "startTime": 1083.172,
+          "duration": 64.655
+        },
+        {
+          "id": "thec-01de-5746-t16",
+          "title": "Kapitel 16: Der Hinterhalt",
+          "index": 15,
+          "startTime": 1147.827,
+          "duration": 62.607
+        },
+        {
+          "id": "thec-01de-5746-t17",
+          "title": "Kapitel 17: Der Hinterhalt",
+          "index": 16,
+          "startTime": 1210.434,
+          "duration": 78.353
+        },
+        {
+          "id": "thec-01de-5746-t18",
+          "title": "Kapitel 01: Der Angriff der Malevolence",
+          "index": 17,
+          "startTime": 1288.787,
+          "duration": 63.96
+        },
+        {
+          "id": "thec-01de-5746-t19",
+          "title": "Kapitel 02: Der Angriff der Malevolence",
+          "index": 18,
+          "startTime": 1352.747,
+          "duration": 62.919
+        },
+        {
+          "id": "thec-01de-5746-t20",
+          "title": "Kapitel 03: Der Angriff der Malevolence",
+          "index": 19,
+          "startTime": 1415.666,
+          "duration": 74.281
+        },
+        {
+          "id": "thec-01de-5746-t21",
+          "title": "Kapitel 04: Der Angriff der Malevolence",
+          "index": 20,
+          "startTime": 1489.947,
+          "duration": 59.849
+        },
+        {
+          "id": "thec-01de-5746-t22",
+          "title": "Kapitel 05: Der Angriff der Malevolence",
+          "index": 21,
+          "startTime": 1549.796,
+          "duration": 59.7
+        },
+        {
+          "id": "thec-01de-5746-t23",
+          "title": "Kapitel 06: Der Angriff der Malevolence",
+          "index": 22,
+          "startTime": 1609.496,
+          "duration": 59.482
+        },
+        {
+          "id": "thec-01de-5746-t24",
+          "title": "Kapitel 07: Der Angriff der Malevolence",
+          "index": 23,
+          "startTime": 1668.978,
+          "duration": 71.981
+        },
+        {
+          "id": "thec-01de-5746-t25",
+          "title": "Kapitel 08: Der Angriff der Malevolence",
+          "index": 24,
+          "startTime": 1740.959,
+          "duration": 73.799
+        },
+        {
+          "id": "thec-01de-5746-t26",
+          "title": "Kapitel 09: Der Angriff der Malevolence",
+          "index": 25,
+          "startTime": 1814.758,
+          "duration": 73.999
+        },
+        {
+          "id": "thec-01de-5746-t27",
+          "title": "Kapitel 10: Der Angriff der Malevolence",
+          "index": 26,
+          "startTime": 1888.757,
+          "duration": 62.84
+        },
+        {
+          "id": "thec-01de-5746-t28",
+          "title": "Kapitel 11: Der Angriff der Malevolence",
+          "index": 27,
+          "startTime": 1951.597,
+          "duration": 95.735
+        },
+        {
+          "id": "thec-01de-5746-t29",
+          "title": "Kapitel 12: Der Angriff der Malevolence",
+          "index": 28,
+          "startTime": 2047.332,
+          "duration": 88.399
+        },
+        {
+          "id": "thec-01de-5746-t30",
+          "title": "Kapitel 13: Der Angriff der Malevolence",
+          "index": 29,
+          "startTime": 2135.731,
+          "duration": 57.298
+        },
+        {
+          "id": "thec-01de-5746-t31",
+          "title": "Kapitel 14: Der Angriff der Malevolence",
+          "index": 30,
+          "startTime": 2193.029,
+          "duration": 77.663
+        },
+        {
+          "id": "thec-01de-5746-t32",
+          "title": "Kapitel 15: Der Angriff der Malevolence",
+          "index": 31,
+          "startTime": 2270.692,
+          "duration": 62.059
+        },
+        {
+          "id": "thec-01de-5746-t33",
+          "title": "Kapitel 16: Der Angriff der Malevolence",
+          "index": 32,
+          "startTime": 2332.751,
+          "duration": 61.251
+        },
+        {
+          "id": "thec-01de-5746-t34",
+          "title": "Kapitel 17: Der Angriff der Malevolence",
+          "index": 33,
+          "startTime": 2394.002,
+          "duration": 79.17
+        },
+        {
+          "id": "thec-01de-5746-t35",
+          "title": "Kapitel 18: Der Angriff der Malevolence",
+          "index": 34,
+          "startTime": 2473.172,
+          "duration": 74.702
+        },
+        {
+          "id": "thec-01de-5746-t36",
+          "title": "Kapitel 19: Der Angriff der Malevolence",
+          "index": 35,
+          "startTime": 2547.874,
+          "duration": 94.644
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-01T05:39:47Z"
+}

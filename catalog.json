@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-06-01T05:30:11.328707+00:00",
+  "updatedAt": "2026-06-01T05:39:47.265203+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -6602,7 +6602,7 @@
         }
       ],
       "description": "4 Belege. Inhaltsverzeichnis umschalten. Fünf Freunde und das Tal der Dinosaurier.Er basiert, wie die vorherigen Teile, auf der Kinderbuchserie Fünf Freunde von Enid Blyton, folgt jedoch keiner Handlung der von ihr veröffentlichten Bücher.",
-      "series": "Fünf Freunde"
+      "series": "Folge"
     },
     {
       "id": "ff-kino2",
@@ -142905,7 +142905,8 @@
       ],
       "description": "Das Album enthält Szenen aus einer Star Wars-TV-Serie, bekannt für seinen Science-Fiction-Inhalt und Abenteuer. Es handelt sich um ein Hörspiel-Album.",
       "episodeNumber": 1,
-      "series": "Torsten Sträter"
+      "series": "Star Wars",
+      "franchise": "Star Wars"
     },
     {
       "id": "star-15ei-5659",
@@ -152069,7 +152070,7 @@
       ],
       "description": "Das Album 'Folge 1: Das dunkle Fragment' von Heliosphere 2265 ist ein Hörspiel-Album mit 38 Tracks. Es passt in die Genres Hörspiel und Science-Fiction.",
       "episodeNumber": 1,
-      "series": "Planet Eden"
+      "series": "Alfred Hitchcock präsentiert"
     },
     {
       "id": "heli-folg-0334",
@@ -161694,7 +161695,7 @@
       ],
       "description": "Ein Album mit Hörspiel-Titel und -Genre, das auf Apple Music verfügbar ist.",
       "episodeNumber": 1,
-      "series": "Die Eiskönigin"
+      "series": "Alfred Hitchcock präsentiert"
     },
     {
       "id": "frak-folg-1042",
@@ -175873,7 +175874,7 @@
       ],
       "description": "Das Album enthält die erste Folge eines Hörspielabenteuers mit Spannung und Spannung um das Thema Küstenkrimi.",
       "episodeNumber": 1,
-      "series": "Kai Magnus Sting"
+      "series": "Alfred Hitchcock präsentiert"
     },
     {
       "id": "edga-asde-8752",
