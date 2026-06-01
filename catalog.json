@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-06-01T08:23:14.193649+00:00",
+  "updatedAt": "2026-06-01T10:18:40.842510+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -464620,7 +464620,9 @@
         "appleMusic": "1693251001"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -466070,7 +466072,9 @@
         "appleMusic": "1713139537"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -466384,7 +466388,9 @@
         "appleMusic": "1686422147"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -466649,7 +466655,9 @@
         "appleMusic": "1641117630"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -468302,7 +468310,9 @@
         "appleMusic": "1791590085"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Abenteuer"
       ],
       "chapters": [
         {
@@ -473107,7 +473117,9 @@
         "appleMusic": "1706836031"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -473477,7 +473489,9 @@
         "appleMusic": "1686907309"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -475605,7 +475619,9 @@
         "appleMusic": "1506910515"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -477433,7 +477449,8 @@
         "appleMusic": "1631992111"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Komödie"
       ],
       "chapters": [
         {
@@ -477698,7 +477715,9 @@
         "appleMusic": "1706835490"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Komödie",
+        "Klassiker"
       ],
       "chapters": [
         {
@@ -478019,7 +478038,9 @@
         "appleMusic": "1767340592"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -478529,7 +478550,9 @@
         "appleMusic": "1686159795"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -479123,7 +479146,10 @@
         "appleMusic": "1743889891"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv",
+        "Klassiker"
       ],
       "chapters": [
         {
@@ -480088,7 +480114,9 @@
         "appleMusic": "1704626213"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -481487,7 +481515,9 @@
         "appleMusic": "1690190446"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -482649,7 +482679,9 @@
         "appleMusic": "1693253082"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -483243,7 +483275,9 @@
         "appleMusic": "1686420398"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -483998,7 +484032,9 @@
         "appleMusic": "1779094034"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
@@ -484439,7 +484475,9 @@
         "appleMusic": "1841383806"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Abenteuer"
       ],
       "chapters": [
         {
@@ -486828,7 +486866,9 @@
         "appleMusic": "1832475032"
       },
       "genres": [
-        "Hörspiel"
+        "Hörspiel",
+        "Krimi",
+        "Detektiv"
       ],
       "chapters": [
         {
