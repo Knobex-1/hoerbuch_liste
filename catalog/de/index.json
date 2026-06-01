@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-06-01T05:30:11Z",
+  "updatedAt": "2026-06-01T05:36:24Z",
   "series": [
     {
       "id": "tkkg",
@@ -114,6 +114,21 @@
       "subSeriesOf": "tkkg"
     },
     {
+      "id": "mark-brandis",
+      "title": "Mark Brandis",
+      "author": "Mark Brandis",
+      "narrator": "",
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "albumCount": 33,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/mark-brandis.json",
+      "seriesUpdatedAt": "2026-06-01T05:36:24Z",
+      "franchise": "Mark Brandis"
+    },
+    {
       "id": "mark-brandis-raumkadett",
       "title": "Mark Brandis - Raumkadett",
       "author": "Nikolai von Michalewsky",
@@ -123,27 +138,12 @@
         "Science-Fiction",
         "Kinder & Jugend"
       ],
-      "albumCount": 19,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
+      "albumCount": 12,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/eb/e6/49ebe645-3770-8a6f-9740-3dbd8f1d3108/4057664073037.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis-raumkadett.json",
-      "seriesUpdatedAt": "2026-06-01T05:30:11Z",
+      "seriesUpdatedAt": "2026-06-01T05:36:24Z",
       "franchise": "Mark Brandis",
       "subSeriesOf": "mark-brandis"
-    },
-    {
-      "id": "mark-brandis",
-      "title": "Mark Brandis",
-      "author": "Mark Brandis",
-      "narrator": "",
-      "genres": [
-        "Hörspiel",
-        "Science-Fiction"
-      ],
-      "albumCount": 31,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/a7/41/78a74140-fcf4-a199-862f-123f051d4f96/4057664072689.jpg/100x100bb.jpg",
-      "dataURL": "catalog/de/series/mark-brandis.json",
-      "seriesUpdatedAt": "2026-06-01T05:30:11Z",
-      "franchise": "Mark Brandis"
     },
     {
       "id": "star-wars-kino",
