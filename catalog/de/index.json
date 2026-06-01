@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-06-01T07:02:43Z",
+  "updatedAt": "2026-06-01T08:23:38Z",
   "series": [
     {
       "id": "tkkg",
@@ -599,6 +599,32 @@
       "seriesUpdatedAt": "2026-05-31T19:39:09Z",
       "franchise": "TKKG",
       "subSeriesOf": "tkkg"
+    },
+    {
+      "id": "jason-dark-john-sinclair",
+      "title": "Jason Dark & John Sinclair",
+      "author": "",
+      "narrator": "",
+      "genres": [
+        "Hörspiele"
+      ],
+      "albumCount": 41,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/ad/b6/e7adb60f-9ad1-ae9a-426d-da2f41a3f8e5/9783838761107_3000.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/jason-dark-john-sinclair.json",
+      "seriesUpdatedAt": "2026-06-01T08:23:38Z"
+    },
+    {
+      "id": "john-sinclair",
+      "title": "John Sinclair",
+      "author": "",
+      "narrator": "",
+      "genres": [
+        "Hörspiele"
+      ],
+      "albumCount": 193,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bf/dd/12/bfdd1206-4431-94b0-7c82-43df889f4868/9783838761503_3000.jpg/100x100bb.jpg",
+      "dataURL": "catalog/de/series/john-sinclair.json",
+      "seriesUpdatedAt": "2026-06-01T08:23:38Z"
     }
   ]
 }

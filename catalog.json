@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-06-01T06:42:32.516387+00:00",
+  "updatedAt": "2026-06-01T08:23:14.193649+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -540803,6 +540803,4604 @@
       ],
       "description": "In diesem sechsten Teil der Serie 'Alea Aquarius' wird die Geschichte fortgesetzt. Ein verführerisches Lied der Wale bringt Unruhe in das Leben der Protagonisten.",
       "series": "Alea Aquarius & Tanya Stewner"
+    },
+    {
+      "id": "309189296",
+      "title": "John Sinclair, Folge 28: Das Eisgefängnis",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/96/2f/mzi.fzodyukw.jpg/100x100bb.jpg",
+      "episodeNumber": 28,
+      "releaseDate": "2004-04-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309189296"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel \"John Sinclair, Folge 28: Das Eisgefängnis\" von Jason Dark und John Sinclair.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309165861",
+      "title": "John Sinclair, Folge 14: Knochensaat",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/20/f2/9c/mzi.kptasbeb.jpg/100x100bb.jpg",
+      "episodeNumber": 14,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309165861"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der John-Sinclair-Reihe ermittelt der Privatdetektiv um die mysteriösen Vorgänge in einer kleinen Stadt. Ein Mordfall, ein Geheimnis und eine Spur, die Sinclair auf den Plan ruft.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309195958",
+      "title": "John Sinclair, Folge 24: Die Drohung (Teil 1 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/2b/de/2a/mzi.vpsqjcgw.jpg/100x100bb.jpg",
+      "episodeNumber": 24,
+      "releaseDate": "2003-06-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309195958"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel-Album, das Teil einer Serie ist und auf Apple Music verfügbar ist.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309151058",
+      "title": "John Sinclair, Folge 17: Bills Hinrichtung (Teil 2 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/48/b9/mzi.usuzyhph.jpg/100x100bb.jpg",
+      "episodeNumber": 17,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309151058"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Teil 2 von 3: John Sinclair, Folge 17: Bills Hinrichtung. Kriminalhörspiel nach dem Roman von John Sinclair.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309311997",
+      "title": "John Sinclair, Folge 16: Die Horror-Cops (Teil 1 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/a7/cb/mzi.enbfvgro.jpg/100x100bb.jpg",
+      "episodeNumber": 16,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309311997"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil von drei Folgen ermitteln die Horror-Cops einen Mordfall, der mit mysteriösen Vorfällen und unheimlichen Ereignissen verbunden ist.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309163044",
+      "title": "John Sinclair, Folge 8: Das Mädchen von Atlantis",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/b9/ee/69/mzi.finkxjyb.jpg/100x100bb.jpg",
+      "episodeNumber": 8,
+      "releaseDate": "2001-09-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309163044"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'John Sinclair, Folge 8: Das Mädchen von Atlantis' von Jason Dark & John Sinclair, das 13 Tracks umfasst und im Genre Hörspiele angesiedelt ist.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309318278",
+      "title": "John Sinclair, Folge 7: Das Horror-Schloss Im Spessart",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/ad/b6/e7adb60f-9ad1-ae9a-426d-da2f41a3f8e5/9783838761107_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 7,
+      "releaseDate": "2001-09-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309318278"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In diesem siebten Teil der John Sinclair-Reihe ermittelt der Privatdetektiv in einem alten Schloss im Spessart, das von mysteriösen Ereignissen umgeben ist. Ein Horror-Schloss, das für Todesfälle und Verbrechen bekannt ist.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309189303",
+      "title": "John Sinclair, Folge 20: Das Buch der grausamen Träume",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/79/f5/70/mzi.zfkmywkd.jpg/100x100bb.jpg",
+      "episodeNumber": 20,
+      "releaseDate": "2002-12-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309189303"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In 'Das Buch der grausamen Träume' geht es um eine mysteriöse Geschichte, die John Sinclair erzählt. Die 13 Tracks bieten eine spannende und aufregende Hörerfahrung.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309190742",
+      "title": "John Sinclair, Folge 26: Das letzte Duell (Teil 3 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/8c/7a/3f/mzi.nivvsypa.jpg/100x100bb.jpg",
+      "episodeNumber": 26,
+      "releaseDate": "2003-08-21",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309190742"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge von John Sinclair muss er sein letztes Duell bestehen. Ein Kriminalroman in Form eines Hörspiels.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309312300",
+      "title": "John Sinclair, Folge 18: Die teuflischen Puppen (Teil 3 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/67/6f/cd/mzi.smdtryhg.jpg/100x100bb.jpg",
+      "episodeNumber": 18,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309312300"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album von Jason Dark & John Sinclair mit 13 Hörspiel-Tracks, das Teil der Serie \"John Sinclair\" ist. Es umfasst \"Die teuflischen Puppen\" als Teil 3 einer dreiteiligen Folge.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309571812",
+      "title": "John Sinclair, Folge 38: Im Land Des Vampirs (1/3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/40/1f/02/mzi.bqtpdjrz.jpg/100x100bb.jpg",
+      "episodeNumber": 38,
+      "releaseDate": "2007-07-17",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309571812"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In dieser ersten von drei Teilen der 38. Folge von John Sinclair reist der Detektiv in ein Land, das von Vampiren beherrscht wird. Er muss sich gegen die dunklen Mächte stemmen und seine Freunde retten.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309156072",
+      "title": "John Sinclair, Folge 40: Mein Todesurteil (Teil 3 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/e3/9e/d8/mzi.nwpkucok.jpg/100x100bb.jpg",
+      "episodeNumber": 40,
+      "releaseDate": "2007-08-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309156072"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album des Genres Hörspiel, das sich auf ein Theaterstück von John Sinclair konzentriert, das sich um ein Todesurteil dreht.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309208816",
+      "title": "John Sinclair, Folge 25: Ein Friedhof am Ende der Welt (Teil 2 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f6/0e/cd/mzi.ilucixca.jpg/100x100bb.jpg",
+      "episodeNumber": 25,
+      "releaseDate": "2003-06-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309208816"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album im Genre Hörspiele, das sich um das Thema 'Ein Friedhof am Ende der Welt' handelt, deutet eindeutig auf ein Hörspiel hin.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309174968",
+      "title": "John Sinclair, Folge 39: Schreie in der Horror-Gruft (Teil 2 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/d7/1a/c0/mzi.flfgdpam.jpg/100x100bb.jpg",
+      "episodeNumber": 39,
+      "releaseDate": "2007-08-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309174968"
+      },
+      "genres": [
+        "Hörspiel",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In dieser zweiten Folge der John-Sinclair-Reihe wird Detective Sinclair auf eine Mordserie in einem Horror-Gruft aufmerksam. Er muss die Spuren verfolgen, um den Mörder zu fangen.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309170640",
+      "title": "John Sinclair, Folge 42: Blutiger Halloween",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f8/3e/26/mzi.ezxeqyfw.jpg/100x100bb.jpg",
+      "episodeNumber": 42,
+      "releaseDate": "2007-11-05",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309170640"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt Jason Dark die Geschichte von John Sinclair, einem Detektiv, der in einer blutigen Halloween-Nacht einen Mord aufklären muss.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309321030",
+      "title": "John Sinclair, Folge 12: Der Hexer Von Paris (Teil 1 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/7a/ab/15/mzi.nnlqbaet.jpg/100x100bb.jpg",
+      "episodeNumber": 12,
+      "releaseDate": "2001-11-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309321030"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil von zwei Folgen erzählt John Sinclair eine Geschichte um einen Hexer in Paris. Ein mysteriöser Fall, der den Privatdetektiv auf eine Spur führt, die ihn in die dunkle Welt des Okkultismus führt.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309321421",
+      "title": "John Sinclair, Folge 10: Die Horror-Reiter",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/19/e4/91/mzi.xjghqisu.jpg/100x100bb.jpg",
+      "episodeNumber": 10,
+      "releaseDate": "2001-11-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309321421"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror",
+        "Pferde"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der John-Sinclair-Reihe ermittelt der Privatdetektiv John Sinclair in einem Fall von Horror-Reitern, die eine Stadt terrorisieren. Ein klassischer Kriminalfall mit Mystery-Elementen und Action.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309171574",
+      "title": "John Sinclair, Folge 45: Die Teufelsuhr",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/0b/fe/e2/mzi.jrsdtoiq.jpg/100x100bb.jpg",
+      "episodeNumber": 45,
+      "releaseDate": "2008-07-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309171574"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum über die Figur John Sinclair, das sich in einem spannenden Abenteuer befindet.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309190683",
+      "title": "John Sinclair, Folge 23: Der unheimliche Richter",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/a7/67/fea76725-db9c-4b34-3ac3-7bbecbf2b497/mzi.jcuquvae.jpg/100x100bb.jpg",
+      "episodeNumber": 23,
+      "releaseDate": "2003-02-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309190683"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'John Sinclair, Folge 23: Der unheimliche Richter'. Es enthält 17 Tracks und gehört zur Kategorie Hörspiele.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309176828",
+      "title": "John Sinclair, Folge 31: Der Würfel des Unheils",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/d9/98/b0/mzi.xzweangv.jpg/100x100bb.jpg",
+      "episodeNumber": 31,
+      "releaseDate": "2004-11-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309176828"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem 18-teiligen Hörspiel ermittelt John Sinclair in einer Mordserie, die mit einem mysteriösen Würfel beginnt. Ein Kriminalfall, der ihn auf eine Spur von Verbrechen führt.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309164676",
+      "title": "John Sinclair, Folge 29: Die grausamen Ritter (Teil 1 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/6b/ac/3f/mzi.lrhuewwm.jpg/100x100bb.jpg",
+      "episodeNumber": 29,
+      "releaseDate": "2004-04-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309164676"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil einer zweiteiligen Folge der John-Sinclair-Reihe ermittelt Detective John Sinclair in einem Mordfall. Er muss die grausamen Ritter, eine mysteriöse Bande, aufklären.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309162788",
+      "title": "John Sinclair, Folge 15: Die Geisterbraut",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/6f/2e/7d/mzi.zwqahrta.jpg/100x100bb.jpg",
+      "episodeNumber": 15,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309162788"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Serie über John Sinclair und umfasst 13 Hörspiel-Tracks mit Spannung und Spannung.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309311844",
+      "title": "John Sinclair, Folge 21: Die Höllenkutsche (Teil 1 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/77/b1/f4/mzi.emlinsom.jpg/100x100bb.jpg",
+      "episodeNumber": 21,
+      "releaseDate": "2002-12-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309311844"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil der 21. Folge des John-Sinclair-Hörspiels 'Die Höllenkutsche' wird die Geschichte von Detective Sinclair fortgesetzt. Er muss eine mysteriöse Kutsche aufklären, die in der Hölle auftaucht.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309206799",
+      "title": "John Sinclair, Folge 34: Mr. Mondos Monster (Teil 1 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/0a/f0/80/mzi.scsffjft.jpg/100x100bb.jpg",
+      "episodeNumber": 34,
+      "releaseDate": "2005-12-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309206799"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In Teil 1 von 2 der Folge 34 des John-Sinclair-Hörspiels 'Mr. Mondos Monster' geht es um einen mysteriösen Fall, den Detektiv Mr. Mondo aufzuklären versucht.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309322022",
+      "title": "John Sinclair, Folge 11: Kino des Schreckens",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/e2/21/41/mzi.bcqdaiso.jpg/100x100bb.jpg",
+      "episodeNumber": 11,
+      "releaseDate": "2001-11-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309322022"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel-Album, das in einem düsteren Kino spielt.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309170807",
+      "title": "John Sinclair, Folge 44: Das Elixier des Teufels (Teil 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/a3/50/9a/mzi.wnphublj.jpg/100x100bb.jpg",
+      "episodeNumber": 44,
+      "releaseDate": "2008-05-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309170807"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem zweiten Teil der John-Sinclair-Folge wird die Geschichte fortgesetzt. Jason Dark und John Sinclair erzählen eine Kriminalgeschichte mit Spannung und Action.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309326366",
+      "title": "John Sinclair, Folge 43: Ich Flog In Die Todeswolke (1/2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/9e/b7/eb/mzi.phijxipe.jpg/100x100bb.jpg",
+      "episodeNumber": 43,
+      "releaseDate": "2008-04-07",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309326366"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'John Sinclair, Folge 43: Ich Flog In Die Todeswolke (1/2)' von Jason Dark & John Sinclair, bestehend aus 15 Tracks und im Genre Hörspiele.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309182108",
+      "title": "John Sinclair, Folge 32: Dr. Tods Monsterhöhle",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/3b/87/bb/mzi.boherour.jpg/100x100bb.jpg",
+      "episodeNumber": 32,
+      "releaseDate": "2004-11-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309182108"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge von John Sinclair ermittelt Dr. Tod in einer Monsterhöhle nach einem mysteriösen Fall. Ein klassischer Kriminalfall mit paranormalen Elementen.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309311337",
+      "title": "John Sinclair, Folge 19: Der Sensenmann als Hochzeitsgast",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/41/a4/5e/mzi.hfgipcim.jpg/100x100bb.jpg",
+      "episodeNumber": 19,
+      "releaseDate": "2002-12-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309311337"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem 19. Folge des John-Sinclair-Hörspiels übernimmt der Sensenmann als Hochzeitsgast eine wichtige Rolle. Eine spannende Geschichte, die zwischen Magie und Realität spielt.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309190980",
+      "title": "John Sinclair, Folge 36: Der Todesnebel",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/d0/c6/3f/mzi.bsqnfwzl.jpg/100x100bb.jpg",
+      "episodeNumber": 36,
+      "releaseDate": "2006-06-02",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309190980"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Ein Album im Genre Hörspiel mit dem Titel 'John Sinclair, Folge 36: Der Todesnebel', das von Jason Dark und John Sinclair produziert wurde.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309338194",
+      "title": "John Sinclair, Folge 27: Asmodinas Todesengel",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/e0/1b/mzi.lncojlac.jpg/100x100bb.jpg",
+      "episodeNumber": 27,
+      "releaseDate": "2003-08-21",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309338194"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält 20 Hörspiel-Tracks, die dem Genre Fantasy zuzuordnen sind und das Albumtitel 'John Sinclair, Folge 27: Asmodinas Todesengel' suggerieren.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309164868",
+      "title": "John Sinclair, Folge 13: Gefangen in der Mikrowelt (Teil 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/3e/05/94/mzi.zwypphum.jpg/100x100bb.jpg",
+      "episodeNumber": 13,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309164868"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum über John Sinclair, das in einer Mikrowelt gefangen ist.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309182475",
+      "title": "John Sinclair, Folge 33: Die Eisvampire",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/92/b6/cc/mzi.jyvaprkt.jpg/100x100bb.jpg",
+      "episodeNumber": 33,
+      "releaseDate": "2005-12-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309182475"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "John Sinclair, Folge 33: Die Eisvampire - Ein neuer Fall für den Detektiv John Sinclair. Er muss eine Mordserie aufklären, die mit mysteriösen Eisvampir-Angriffen zusammenhängt.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309326889",
+      "title": "John Sinclair, Folge 41: Die Schöne Aus Dem Totenreich",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/94/c9/42/mzi.lggqwlvd.jpg/100x100bb.jpg",
+      "episodeNumber": 41,
+      "releaseDate": "2007-12-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309326889"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "John Sinclair, Folge 41: Die Schöne Aus Dem Totenreich - Ein neues Abenteuer des Privatdetektivs John Sinclair. Er muss eine Schönheit aus dem Totenreich retten.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309201413",
+      "title": "John Sinclair, Folge 37: Dr. Tods Horror-Insel",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/be/0a/71/mzi.xggfofly.jpg/100x100bb.jpg",
+      "episodeNumber": 37,
+      "releaseDate": "2007-06-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309201413"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "In diesem 37. Folge der Serie 'John Sinclair' wird Dr. Tod's Horror-Insel erzählt. John Sinclair muss sich einem mysteriösen Insel besuchen, um den Mord an einer jungen Frau aufzuklären.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309174960",
+      "title": "John Sinclair, Folge 46: Myxins Entführung",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/13/8a/b6/mzi.qjoxuhhd.jpg/100x100bb.jpg",
+      "episodeNumber": 46,
+      "releaseDate": "2008-07-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309174960"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Folge 46 der Serie John Sinclair: Myxins Entführung - ein Kriminalhörspiel mit Detektiv John Sinclair.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309184009",
+      "title": "John Sinclair, Folge 22: Asmodinas Reich (Teli 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/c9/4c/mzi.rhjpialv.jpg/100x100bb.jpg",
+      "episodeNumber": 22,
+      "releaseDate": "2003-02-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309184009"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In 'Asmodinas Reich' geht es um eine mysteriöse Geschichte, die John Sinclair aufklären muss. Teil 2 von 2.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309200070",
+      "title": "John Sinclair, Folge 30: Die Drachensaat (Teil 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/0f/cd/mzi.msjsrloe.jpg/100x100bb.jpg",
+      "episodeNumber": 30,
+      "releaseDate": "2004-11-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309200070"
+      },
+      "genres": [
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel über Drachen, das Teil einer Serie ist.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309317148",
+      "title": "John Sinclair, Folge 9: Das Dämonenauge (2/2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/e9/8d/f6/mzi.bybvcwhi.jpg/100x100bb.jpg",
+      "episodeNumber": 9,
+      "releaseDate": "2001-09-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309317148"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In 'Das Dämonenauge (2/2)' setzt die Geschichte von John Sinclair fort. Der Privatdetektiv muss gegen eine mysteriöse Bedrohung vorgehen.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309201143",
+      "title": "John Sinclair, Folge 35: Königin der Wölfe (Teil 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/b6/dc/mzi.ophyarut.jpg/100x100bb.jpg",
+      "episodeNumber": 35,
+      "releaseDate": "2006-06-02",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309201143"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem zweiten Teil der John-Sinclair-Folge ermittelt Detective John Sinclair in einem Mordfall. Er muss die Spuren eines mysteriösen Tötungsmotivs aufklären.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "309572213",
+      "title": "John Sinclair, SE 02: Der Pfähler",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/73/6d/d5736d4e-69c4-d4f4-50a0-8d9512b1abed/mzi.najazhnb.jpg/100x100bb.jpg",
+      "episodeNumber": null,
+      "releaseDate": "2005-05-09",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309572213"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem zweiten Teil der Serie 'John Sinclair' wird erneut die Figur des Privatdetektivs John Sinclair porträtiert, der in einem mysteriösen Fall ermittelt. Ein Pfähler ist ein wichtiger Hinweis auf den Mörder.",
+      "series": "Jason Dark & John Sinclair"
+    },
+    {
+      "id": "1884413745",
+      "title": "Folge 192: Luzifer",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/12/8f/e4128f28-5597-b35a-54f5-a14e335f46ee/9783754018422_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 192,
+      "releaseDate": "2026-04-24",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1884413745"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1867141588",
+      "title": "Folge 190: Zombie Zug",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/8b/46/478b4685-1dc7-6b90-5ab1-32ef3d2d3f9c/9783754018408_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 190,
+      "releaseDate": "2026-02-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1867141588"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel über den 'Zombie Zug' von John Sinclair, das auf 16 Tracks verteilt ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1893655895",
+      "title": "Folge 193: Invasion der Riesenkäfer",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/1f/26781f08-1772-16bb-4b30-f277745b4701/9783754018439_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 193,
+      "releaseDate": "2026-05-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1893655895"
+      },
+      "genres": [
+        "Hörspiel",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "Im Hörspiel 'Invasion der Riesenkäfer' von John Sinclair wird eine Invasion riesener Käfer auf die Erde dargestellt. Die Geschichte folgt einer Gruppe von Überlebenden, die versuchen, den Angriff zu verhindern.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1873425203",
+      "title": "Folge 191: Der Blutjäger",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/88/d2/0c88d2cf-17e1-5e2c-1ea4-c0f1038838b1/9783754018415_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 191,
+      "releaseDate": "2026-03-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1873425203"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "John Sinclair präsentiert sein nächstes Hörspiel-Erlebnis. 'Folge 191: Der Blutjäger' ist ein packender Kriminalfall, der in einem kalten Winter nachts spielt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1848987265",
+      "title": "Folge 188: Das Hexentor",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/9c/8f/7c9c8f3f-06d8-e08f-55c4-765438675feb/9783754018385_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 188,
+      "releaseDate": "2025-12-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1848987265"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 20 Hörspiel-Stücke unter der Regie von John Sinclair, das in der deutschen Hörspieltradition angesiedelt ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "356472016",
+      "title": "John Sinclair, Classics Folge 1: Der Anfang",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bf/dd/12/bfdd1206-4431-94b0-7c82-43df889f4868/9783838761503_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 1,
+      "releaseDate": "2010-03-20",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "356472016"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Die Classics Folge 1: Der Anfang von John Sinclair ist eine Sammlung von Hörspielen. Es handelt sich um eine Klassiker-Sammlung, die den Anfang einer Reihe darstellt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1856271697",
+      "title": "Folge 189: Tanz auf dem Scheiterhaufen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/9a/f9/789af93e-2773-3879-2848-1cced70e636a/9783754018392_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 189,
+      "releaseDate": "2026-01-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1856271697"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit dem Titel 'Folge 189: Tanz auf dem Scheiterhaufen' von John Sinclair, das sich auf Hörspiele spezialisiert hat. Es enthält 20 Tracks, die typisch für ein Hörspielformat sind.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "333633618",
+      "title": "John Sinclair, Folge 1: Im Nachtclub der Vampire (Remastered)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/fd/3e/3a/mzi.ewfwsszz.jpg/100x100bb.jpg",
+      "episodeNumber": 1,
+      "releaseDate": "2008-11-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "333633618"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil der John-Sinclair-Reihe wird ein mysteriöser Mord in einem Nachtclub aufgedeckt. Ein Detektiv muss die Spuren verfolgen und den Täter finden.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "634857916",
+      "title": "Folge 83: Ein Leben unter Toten",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d3/34/ab/d334ab8e-3476-a586-51ee-f65ec6dfb515/9783838771847_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 83,
+      "releaseDate": "2013-04-19",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "634857916"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte über das Leben eines Menschen unter Toten. Ein Mysterium wird aufgelöst, als die Hauptfigur in ein Grabungsgelände gerät.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309318278",
+      "title": "John Sinclair, Folge 7: Das Horror-Schloss Im Spessart",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/ad/b6/e7adb60f-9ad1-ae9a-426d-da2f41a3f8e5/9783838761107_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 7,
+      "releaseDate": "2001-09-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309318278"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In diesem siebten Teil der John Sinclair-Reihe ermittelt der Privatdetektiv in einem alten Schloss im Spessart, das von mysteriösen Ereignissen umgeben ist. Ein Horror-Schloss, das für Todesfälle und Verbrechen bekannt ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309189296",
+      "title": "John Sinclair, Folge 28: Das Eisgefängnis",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/96/2f/mzi.fzodyukw.jpg/100x100bb.jpg",
+      "episodeNumber": 28,
+      "releaseDate": "2004-04-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309189296"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel \"John Sinclair, Folge 28: Das Eisgefängnis\" von Jason Dark und John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309176828",
+      "title": "John Sinclair, Folge 31: Der Würfel des Unheils",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/d9/98/b0/mzi.xzweangv.jpg/100x100bb.jpg",
+      "episodeNumber": 31,
+      "releaseDate": "2004-11-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309176828"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem 18-teiligen Hörspiel ermittelt John Sinclair in einer Mordserie, die mit einem mysteriösen Würfel beginnt. Ein Kriminalfall, der ihn auf eine Spur von Verbrechen führt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "608279663",
+      "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie, Teil 1",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3e/81/de/3e81dec7-e57f-610b-02ac-ef5b0da9db9f/9783838771762_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 80,
+      "releaseDate": "2013-03-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "608279663"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Die erste Folge der Kreuz-Trilogie erzählt die Geschichte von Sieben Siegeln der Magie. Eine Abenteuerreise durch die Welt des Okkultismus beginnt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "418709399",
+      "title": "John Sinclair - Classics, Folge 6: Friedhof der Vampire",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/18/37/67/mzi.zdbguhib.jpg/100x100bb.jpg",
+      "episodeNumber": 6,
+      "releaseDate": "2011-02-18",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "418709399"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In diesem sechsten Teil der 'Classics'-Serie von John Sinclair erzählt die Geschichte von einem Friedhof, auf dem Vampire begraben liegen. Eine Gruppe Freunde entscheidet sich, den Friedhof zu erkunden und wird dabei in eine Welt von Blut und Tod hineingezogen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309311844",
+      "title": "John Sinclair, Folge 21: Die Höllenkutsche (Teil 1 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/77/b1/f4/mzi.emlinsom.jpg/100x100bb.jpg",
+      "episodeNumber": 21,
+      "releaseDate": "2002-12-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309311844"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil der 21. Folge des John-Sinclair-Hörspiels 'Die Höllenkutsche' wird die Geschichte von Detective Sinclair fortgesetzt. Er muss eine mysteriöse Kutsche aufklären, die in der Hölle auftaucht.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "957426097",
+      "title": "Folge 100: Das Ende",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/d7/f6/26/d7f62683-f2fa-da5b-500a-2249197e1c93/9783838775432_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 100,
+      "releaseDate": "2015-03-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "957426097"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309170640",
+      "title": "John Sinclair, Folge 42: Blutiger Halloween",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f8/3e/26/mzi.ezxeqyfw.jpg/100x100bb.jpg",
+      "episodeNumber": 42,
+      "releaseDate": "2007-11-05",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309170640"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt Jason Dark die Geschichte von John Sinclair, einem Detektiv, der in einer blutigen Halloween-Nacht einen Mord aufklären muss.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309190683",
+      "title": "John Sinclair, Folge 23: Der unheimliche Richter",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/a7/67/fea76725-db9c-4b34-3ac3-7bbecbf2b497/mzi.jcuquvae.jpg/100x100bb.jpg",
+      "episodeNumber": 23,
+      "releaseDate": "2003-02-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309190683"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'John Sinclair, Folge 23: Der unheimliche Richter'. Es enthält 17 Tracks und gehört zur Kategorie Hörspiele.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309206799",
+      "title": "John Sinclair, Folge 34: Mr. Mondos Monster (Teil 1 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/0a/f0/80/mzi.scsffjft.jpg/100x100bb.jpg",
+      "episodeNumber": 34,
+      "releaseDate": "2005-12-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309206799"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In Teil 1 von 2 der Folge 34 des John-Sinclair-Hörspiels 'Mr. Mondos Monster' geht es um einen mysteriösen Fall, den Detektiv Mr. Mondo aufzuklären versucht.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1112187172",
+      "title": "Folge 113: Mandraka, der Schwarzblut-Vampir",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6d/bf/4e/6dbf4e1e-7fa1-2510-db9b-8048a6fe550f/9783838779102_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 113,
+      "releaseDate": "2017-02-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1112187172"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair die Geschichte von Mandraka, einem Vampir mit schwarzen Blut. Eine spannende Geschichte, die Hörer in seinem Bann hält.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1236848232",
+      "title": "Folge 121: Die Geburt des Schwarzen Tods. Teil 3 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b8/33/bb/b833bb17-c2c4-6e6c-620e-d980d6aa0440/9783838783352_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 121,
+      "releaseDate": "2018-03-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1236848232"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Hörspielreihe über einen düsteren historischen Konflikt, der im deutschen Sprachraum angesiedelt ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "327254705",
+      "title": "John Sinclair, Folge 2: Die Totenkopf-Insel",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/70/5e/mzi.rxjbqnnn.jpg/100x100bb.jpg",
+      "episodeNumber": 2,
+      "releaseDate": "2008-11-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "327254705"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In der zweiten Folge des John-Sinclair-Hörspiels wird die Totenkopf-Insel thematisiert. Ein Kriminalfall auf einer abgelegenen Insel führt zu Spannung und Action.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1825879249",
+      "title": "Folge 185: Am Tisch des Henkers",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4b/58/6f4b58d7-f455-4e4e-84ec-d5302ebff90f/9783754017371_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 185,
+      "releaseDate": "2025-08-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1825879249"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "John Sinclair präsentiert sein bekanntes Kriminalhörspiel 'Folge 185: Am Tisch des Henkers', in dem ein Mordfall aufgedeckt wird. Ein spannender Fall für Detektiv Frankenstein.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309189303",
+      "title": "John Sinclair, Folge 20: Das Buch der grausamen Träume",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/79/f5/70/mzi.zfkmywkd.jpg/100x100bb.jpg",
+      "episodeNumber": 20,
+      "releaseDate": "2002-12-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309189303"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In 'Das Buch der grausamen Träume' geht es um eine mysteriöse Geschichte, die John Sinclair erzählt. Die 13 Tracks bieten eine spannende und aufregende Hörerfahrung.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "357774896",
+      "title": "John Sinclair, Classics Folge 2: Mörder aus dem Totenreich",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/c1/71/fa/mzi.cwfqsqvk.jpg/100x100bb.jpg",
+      "episodeNumber": 2,
+      "releaseDate": "2010-03-20",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "357774896"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Kriminalgeschichte. Ein Mord aus dem Jenseits setzt die Detektive auf den Fall an.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "449150577",
+      "title": "Folge 67: Die Gruft mit dem Höllenauge",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/53/ec/d2/mzi.smbwilfh.jpg/100x100bb.jpg",
+      "episodeNumber": 67,
+      "releaseDate": "2011-07-22",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "449150577"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309163044",
+      "title": "John Sinclair, Folge 8: Das Mädchen von Atlantis",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/b9/ee/69/mzi.finkxjyb.jpg/100x100bb.jpg",
+      "episodeNumber": 8,
+      "releaseDate": "2001-09-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309163044"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'John Sinclair, Folge 8: Das Mädchen von Atlantis' von Jason Dark & John Sinclair, das 13 Tracks umfasst und im Genre Hörspiele angesiedelt ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "514759783",
+      "title": "Folge 73: Die Werwolf-Elite",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/68/e7/19/68e7194f-350a-1743-396f-fb3447126ef6/9783838770062_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 73,
+      "releaseDate": "2012-04-05",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "514759783"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel geht es um eine Gruppe von Werwölfen. Es handelt sich um die 73. Folge einer Serie und bietet wahrscheinlich weitere Abenteuer und Spannung.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "327253628",
+      "title": "John Sinclair, Folge 3: Achterbahn ins Jenseits",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/cc/b7/59/mzi.nvsvcind.jpg/100x100bb.jpg",
+      "episodeNumber": 3,
+      "releaseDate": "2000-10-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "327253628"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album der Kategorie Hörspiele, das sich auf ein spannendes Thema im Genre des Krimi/Thriller konzentriert.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "660880978",
+      "title": "Folge 84: Ewige Schreie",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/68/9e/15/689e151b-b11c-56f3-616e-2b73133364e0/9783838771922_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 84,
+      "releaseDate": "2013-06-21",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "660880978"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "John Sinclair präsentiert sein neues Hörspiel 'Folge 84: Ewige Schreie', eine Spannungsgeschichte voller Überraschungen und Twists. Ein Must-Hör für alle Fans von Kriminalhörspielen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "327299068",
+      "title": "Geisterjäger, Folge 5: Der Mörder mit dem Januskopf (Remastered)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/d7/d2/19/mzi.uyubenpk.jpg/100x100bb.jpg",
+      "episodeNumber": 5,
+      "releaseDate": "2009-01-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "327299068"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In 'Der Mörder mit dem Januskopf' geht es um einen mysteriösen Mordfall. Der Detektiv John Sinclair muss den Täter finden und die Wahrheit aufklären.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1848973386",
+      "title": "Folge 187: Die Wölfin von Rom",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/75/6a/d5756ae2-c737-5905-6e96-01caa4aa2862/9783754018378_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 187,
+      "releaseDate": "2025-11-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1848973386"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um die Wölfin von Rom. Ein spannender Kriminalfall, der in den Straßen Roms spielt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1815360455",
+      "title": "Folge 183: Das Hexenschiff",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/94/57/a4945746-c8ae-715f-a5c1-247c230b6970/9783754017357_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 183,
+      "releaseDate": "2025-06-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1815360455"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Ein Album von John Sinclair mit Hörspiel 'Folge 183: Das Hexenschiff'.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1744947018",
+      "title": "Folge 172: Das Erbe der Templer",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/17/91/55179191-f58d-8e4a-ac09-95e7c59b4321/9783754012819_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 172,
+      "releaseDate": "2024-06-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1744947018"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Titel wie 'Folge 172: Das Erbe der Templer', was darauf hindeutet, dass es sich um ein Hörspiel handelt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "402447168",
+      "title": "John Sinclair, Classics Folge 5: Sakuro, der Dämon",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/eb/ed/mzi.noekygim.jpg/100x100bb.jpg",
+      "episodeNumber": 5,
+      "releaseDate": "2010-11-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "402447168"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair die Geschichte von Sakuro, einem Dämonenjäger. Ein klassischer Kriminalfall in einer mystischen Umgebung.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1112100940",
+      "title": "Classics, Folge 27: Wenn der Werwolf heult",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/6f/3b/e7/6f3be74c-270b-2ca4-b1bd-cdb47851fa9a/9783838779058_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 27,
+      "releaseDate": "2016-11-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1112100940"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um den Werwolf. Ein Klassiker des deutschen Hörspiele-Repertoires.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1560216795",
+      "title": "Folge 145: Villa Frankenstein",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/8b/3f/bd8b3f4a-58f5-fc26-e5bc-0c5d0204596a/9783838797069_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 145,
+      "releaseDate": "2021-04-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1560216795"
+      },
+      "genres": [
+        "Hörspiel",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair die Geschichte um Victor Frankenstein und seine legendäre Villa. Ein Klassiker der Gothic-Literatur in Hörform.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "327268038",
+      "title": "John Sinclair, Folge 6: Schach mit dem Dämon (Remastered)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/33/ba/mzi.voqbbsie.jpg/100x100bb.jpg",
+      "episodeNumber": 6,
+      "releaseDate": "2009-01-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "327268038"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält 19 Hörspiel-Tracks des Künstlers John Sinclair, die sich um die Geschichte 'Schach mit dem Dämon' handeln.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309171574",
+      "title": "John Sinclair, Folge 45: Die Teufelsuhr",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/0b/fe/e2/mzi.jrsdtoiq.jpg/100x100bb.jpg",
+      "episodeNumber": 45,
+      "releaseDate": "2008-07-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309171574"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum über die Figur John Sinclair, das sich in einem spannenden Abenteuer befindet.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "327305262",
+      "title": "John Sinclair, Folge 4: Damona, Dienerin des Satans (Remastered)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/0c/e3/a2/mzi.epcbkqtw.jpg/100x100bb.jpg",
+      "episodeNumber": 4,
+      "releaseDate": "2009-01-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "327305262"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "John Sinclair, Folge 4: Damona, Dienerin des Satans ist ein Hörspiel aus der Reihe 'John Sinclair' und handelt von mysteriösen Ereignissen um eine Dienerin des Satans.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1831104329",
+      "title": "Folge 186: Carinas Todesparties",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/7a/4f/837a4f92-ae74-4e54-3def-6489c92860f6/9783754019078_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 186,
+      "releaseDate": "2025-09-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1831104329"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309321421",
+      "title": "John Sinclair, Folge 10: Die Horror-Reiter",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/19/e4/91/mzi.xjghqisu.jpg/100x100bb.jpg",
+      "episodeNumber": 10,
+      "releaseDate": "2001-11-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309321421"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror",
+        "Pferde"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der John-Sinclair-Reihe ermittelt der Privatdetektiv John Sinclair in einem Fall von Horror-Reitern, die eine Stadt terrorisieren. Ein klassischer Kriminalfall mit Mystery-Elementen und Action.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309165861",
+      "title": "John Sinclair, Folge 14: Knochensaat",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/20/f2/9c/mzi.kptasbeb.jpg/100x100bb.jpg",
+      "episodeNumber": 14,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309165861"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der John-Sinclair-Reihe ermittelt der Privatdetektiv um die mysteriösen Vorgänge in einer kleinen Stadt. Ein Mordfall, ein Geheimnis und eine Spur, die Sinclair auf den Plan ruft.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309195958",
+      "title": "John Sinclair, Folge 24: Die Drohung (Teil 1 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/2b/de/2a/mzi.vpsqjcgw.jpg/100x100bb.jpg",
+      "episodeNumber": 24,
+      "releaseDate": "2003-06-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309195958"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel-Album, das Teil einer Serie ist und auf Apple Music verfügbar ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "386719338",
+      "title": "John Sinclair Classics, Folge 4: Das Leichenhaus der Lady L.",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/46/8f/1f/mzi.iunjxcof.jpg/100x100bb.jpg",
+      "episodeNumber": 4,
+      "releaseDate": "2010-08-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "386719338"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem vierten Teil der John Sinclair Classics-Serie ermittelt Detective John Sinclair in einem Mordfall, der ihn zu einer mysteriösen Leichenhalle führt. Ein Kriminalroman in Hörform.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309322022",
+      "title": "John Sinclair, Folge 11: Kino des Schreckens",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/e2/21/41/mzi.bcqdaiso.jpg/100x100bb.jpg",
+      "episodeNumber": 11,
+      "releaseDate": "2001-11-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309322022"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel-Album, das in einem düsteren Kino spielt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309321030",
+      "title": "John Sinclair, Folge 12: Der Hexer Von Paris (Teil 1 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/7a/ab/15/mzi.nnlqbaet.jpg/100x100bb.jpg",
+      "episodeNumber": 12,
+      "releaseDate": "2001-11-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309321030"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil von zwei Folgen erzählt John Sinclair eine Geschichte um einen Hexer in Paris. Ein mysteriöser Fall, der den Privatdetektiv auf eine Spur führt, die ihn in die dunkle Welt des Okkultismus führt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "431079949",
+      "title": "John Sinclair, Folge 65: Das Vampirnest",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/eb/7c/39/mzi.yvlsqenf.jpg/100x100bb.jpg",
+      "episodeNumber": 65,
+      "releaseDate": "2011-04-21",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "431079949"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um Vampire. Keine weitere Beschreibung verfügbar.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561138632",
+      "title": "Folge 134: Die lebende Legende (Teil 1 von 2)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a3/ce/9a/a3ce9a0a-54a8-901b-b2e2-4d7e92b272af/9783838789774_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 134,
+      "releaseDate": "2019-11-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561138632"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "310881960",
+      "title": "John Sinclair, Folge 50: Zombies in Manhattan",
+      "author": "John Sinclair & Jason Dark",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/23/e1/bf/mzi.rixiluzc.jpg/100x100bb.jpg",
+      "episodeNumber": 50,
+      "releaseDate": "2009-04-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "310881960"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "In diesem Episoden-Hörspiel der John-Sinclair-Reihe ermittelt Privatdetektiv John Sinclair in Manhattan nach Zombies, die aus den Gräbern auferstanden sind. Ein Fall für den Detektiven, der zwischen Leben und Tod balanciert.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "371219234",
+      "title": "John Sinclair, Classics Folge 3: Dr. Satanos",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/4d/1e/f1/mzi.evtrnbvy.jpg/100x100bb.jpg",
+      "episodeNumber": 3,
+      "releaseDate": "2010-05-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "371219234"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In 'Dr. Satanos' erzählt John Sinclair eine Geschichte über einen mysteriösen Arzt, der in einem alten Haus lebt und seltsame Experimente durchführt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1236862571",
+      "title": "Folge 119: Drei Herzen aus Eis. Teil 1 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/bb/e7/d7/bbe7d78b-551a-5afc-1c2b-4f8bfa7c35da/9783838783338_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 119,
+      "releaseDate": "2018-01-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1236862571"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Hörspielreihe mit dem Titel 'Drei Herzen aus Eis'. Es handelt sich um ein deutscher Hörspiel-Album.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1409830569",
+      "title": "Folge 125: Zombies aus dem Höllenfeuer. Teil 1 von 3",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ab/01/1a/ab011a5f-a885-cc2d-4480-abb95420dd2f/9783838787619_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 125,
+      "releaseDate": "2018-10-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1409830569"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil einer dreiteiligen Folge erzählt John Sinclair eine Geschichte über Zombies, die aus dem Höllenfeuer auferstehen. Eine Abenteuerserie für Hörbuchfans.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1236873317",
+      "title": "Folge 120: Die goldenen Skelette. Teil 2 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ac/13/34/ac133456-8a74-48cc-0280-483ee28f81f1/9783838783345_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 120,
+      "releaseDate": "2018-02-23",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1236873317"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Die zweite Folge einer vierteiligen Serie, in der es um die goldenen Skelette geht. Eine spannende Geschichte mit aufregenden Ereignissen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309162788",
+      "title": "John Sinclair, Folge 15: Die Geisterbraut",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/6f/2e/7d/mzi.zwqahrta.jpg/100x100bb.jpg",
+      "episodeNumber": 15,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309162788"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Serie über John Sinclair und umfasst 13 Hörspiel-Tracks mit Spannung und Spannung.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309164676",
+      "title": "John Sinclair, Folge 29: Die grausamen Ritter (Teil 1 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/6b/ac/3f/mzi.lrhuewwm.jpg/100x100bb.jpg",
+      "episodeNumber": 29,
+      "releaseDate": "2004-04-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309164676"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil einer zweiteiligen Folge der John-Sinclair-Reihe ermittelt Detective John Sinclair in einem Mordfall. Er muss die grausamen Ritter, eine mysteriöse Bande, aufklären.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1236872881",
+      "title": "Folge 118: Die Kreuzweg-Legende",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/cd/1d/a3/cd1da362-0d52-f835-78c9-b41451976eae/9783838783321_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 118,
+      "releaseDate": "2017-09-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1236872881"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair die Geschichte der Kreuzweg-Legende. Ein mysteriöser Mordfall in einem kleinen Dorf führt zu einer langen und spannenden Verfolgungsjagd.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1409832147",
+      "title": "Folge 129: Gruft der wimmernden Seelen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d7/65/0d/d7650d70-93da-6d2a-09f0-9f610ccc7b4f/9783838788913_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 129,
+      "releaseDate": "2019-02-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1409832147"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte über eine Gruft voller wimmernder Seelen. Ein mysteriöser Ort, der viele Geheimnisse birgt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309182108",
+      "title": "John Sinclair, Folge 32: Dr. Tods Monsterhöhle",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/3b/87/bb/mzi.boherour.jpg/100x100bb.jpg",
+      "episodeNumber": 32,
+      "releaseDate": "2004-11-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309182108"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge von John Sinclair ermittelt Dr. Tod in einer Monsterhöhle nach einem mysteriösen Fall. Ein klassischer Kriminalfall mit paranormalen Elementen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309208816",
+      "title": "John Sinclair, Folge 25: Ein Friedhof am Ende der Welt (Teil 2 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f6/0e/cd/mzi.ilucixca.jpg/100x100bb.jpg",
+      "episodeNumber": 25,
+      "releaseDate": "2003-06-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309208816"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album im Genre Hörspiele, das sich um das Thema 'Ein Friedhof am Ende der Welt' handelt, deutet eindeutig auf ein Hörspiel hin.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1409831150",
+      "title": "Folge 126: Die Rache der Großen Alten. Teil 2 von 3",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/98/0f/b0/980fb08e-eebb-dd1b-09d7-79ba300939a6/9783838787626_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 126,
+      "releaseDate": "2018-11-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1409831150"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Die zweite Folge einer dreiteiligen Hörspielserie, in der die Rache der Großen Alten thematisiert wird.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1369227784",
+      "title": "Folge 123: Alvas Feuerkuss",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0c/25/b1/0c25b168-d1d0-48b4-0c6c-8e0ad9076825/9783838787596_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 123,
+      "releaseDate": "2018-07-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1369227784"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel wird die Geschichte von Alva und seinem Feuerkuss erzählt. Ein Kriminalfall, der in eine Welt von Mysterien und Gefahren führt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561133380",
+      "title": "Folge 139: Werwolf-Omen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/52/0e/60/520e604b-e51f-68be-22d2-d84198cdc67d/9783838794013_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 139,
+      "releaseDate": "2020-06-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561133380"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'Folge 139: Werwolf-Omen' von John Sinclair, das 30 Tracks umfasst und im Genre Hörspiel klassifiziert ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309338194",
+      "title": "John Sinclair, Folge 27: Asmodinas Todesengel",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/e0/1b/mzi.lncojlac.jpg/100x100bb.jpg",
+      "episodeNumber": 27,
+      "releaseDate": "2003-08-21",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309338194"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält 20 Hörspiel-Tracks, die dem Genre Fantasy zuzuordnen sind und das Albumtitel 'John Sinclair, Folge 27: Asmodinas Todesengel' suggerieren.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1459632701",
+      "title": "Folge 131: Zombie-Ballade",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4e/ec/b8/4eecb8ff-f178-9bed-5b56-174ace71791f/9783838789729_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 131,
+      "releaseDate": "2019-05-31",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1459632701"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 131: Zombie-Ballade' von John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1595830049",
+      "title": "Folge 40: Der Albtraum-Friedhof (Classics) [Ungekürzt]",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/c5/15/ebc51514-0d0a-c345-5e20-096fffd42263/9783838794150_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 40,
+      "releaseDate": "2020-07-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1595830049"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Folge 40: Der Albtraum-Friedhof ist ein ungeschnittenes Hörspiel von John Sinclair. Es handelt sich um eine klassische Episode aus der Serie, die auf Spannung und Atmosphäre setzt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1650043122",
+      "title": "Folge 157: Geister-Dämmerung",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3b/ac/5b/3bac5baf-dcbc-1c11-15cb-11312165001f/9783754003572_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 157,
+      "releaseDate": "2022-11-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1650043122"
+      },
+      "genres": [
+        "Hörspiel",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel der Folge 157 aus der Reihe von John Sinclair geht es um eine Geister-Dämmerung. Es wird erzählt, wie die Protagonisten in einer dunklen und mystischen Atmosphäre um ihr Leben kämpfen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561134968",
+      "title": "Folge 136: Vampir-Express. Teil 1 von 2 (Ungekürzt)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f3/29/11/f32911cb-4d2d-ad3d-8dc8-baa2d46ce0ba/9783838792255_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 136,
+      "releaseDate": "2020-02-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561134968"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album, das als Hörspiel veröffentlicht wurde, ist auf Apple Music verfügbar.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309311997",
+      "title": "John Sinclair, Folge 16: Die Horror-Cops (Teil 1 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/a7/cb/mzi.enbfvgro.jpg/100x100bb.jpg",
+      "episodeNumber": 16,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309311997"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil von drei Folgen ermitteln die Horror-Cops einen Mordfall, der mit mysteriösen Vorfällen und unheimlichen Ereignissen verbunden ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1577386889",
+      "title": "Folge 147: Die Schwert-Legende",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/52/f4/f9/52f4f99e-1fc7-23e6-0ba5-12efc8431900/9783838797083_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 147,
+      "releaseDate": "2021-07-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1577386889"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "John Sinclair präsentiert eine weitere Episode seiner legendären Schwert-Serie. In dieser Folge erzählt die Geschichte von Krieger und Magier, die in einer Welt voller Abenteuer und Gefahren ums Überleben kämpfen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1193213771",
+      "title": "Folge 117: Zombies auf dem Roten Platz",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music82/v4/52/a1/28/52a12853-217c-d0cb-6d60-7fdbd21bc7c4/9783838783314_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 117,
+      "releaseDate": "2017-07-21",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1193213771"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum mit dem Titel 'Folge 117: Zombies auf dem Roten Platz' von John Sinclair, das 15 Tracks umfasst und im Genre Hörspiel angesiedelt ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1458759447",
+      "title": "Sinclair, Staffel 1: Dead Zone, Folge 1: Zeichen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0f/cc/fe/0fccfefd-3fda-82a5-780b-07448416b9ef/4251535784934_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 1,
+      "releaseDate": "2019-04-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1458759447"
+      },
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction"
+      ],
+      "chapters": [],
+      "description": "In dieser ersten Folge der ersten Staffel der Serie 'Sinclair' wird die Geschichte um den Protagonisten Sinclair fortgesetzt. Er muss in einem toten Zonen nach einer Bedrohung suchen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "356571065",
+      "title": "John Sinclair, Folge 55: Fenris, der Götterwolf",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/11/ed/a7/mzi.idunexuj.jpg/100x100bb.jpg",
+      "episodeNumber": 55,
+      "releaseDate": "2010-02-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "356571065"
+      },
+      "genres": [
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel, das Teil einer Reihe von John Sinclair ist und sich auf eine Geschichte um Fenris, den Götterwolf, konzentriert.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309571812",
+      "title": "John Sinclair, Folge 38: Im Land Des Vampirs (1/3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/40/1f/02/mzi.bqtpdjrz.jpg/100x100bb.jpg",
+      "episodeNumber": 38,
+      "releaseDate": "2007-07-17",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309571812"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In dieser ersten von drei Teilen der 38. Folge von John Sinclair reist der Detektiv in ein Land, das von Vampiren beherrscht wird. Er muss sich gegen die dunklen Mächte stemmen und seine Freunde retten.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1660529862",
+      "title": "Folge 158: Londons Gruselkammer Nr. 1",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/07/93/ad/0793ade2-c679-85b9-d172-85d547f337ab/9783754003589_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 158,
+      "releaseDate": "2023-01-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1660529862"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel über Londons Gruselkammer Nr. 1, mit 18 Folgen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1369227922",
+      "title": "Folge 124: Die Rache der Horror-Reiter",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/17/7e/34/177e342e-c1d4-9f24-eb88-73da1846c203/9783838787602_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 124,
+      "releaseDate": "2018-08-31",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1369227922"
+      },
+      "genres": [
+        "Horror",
+        "Pferde"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 124: Die Rache der Horror-Reiter', das im Genre Horror angesiedelt ist und auf Apple Music verfügbar ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1058880189",
+      "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/f4/10/db/f410dbb9-7d4b-9fff-320f-6bdacf665367/mzm.fyjthpnj.jpg/100x100bb.jpg",
+      "episodeNumber": 110,
+      "releaseDate": "2016-08-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1058880189"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "John Sinclair präsentiert sein neues Hörspiel in zwei Teilen. In 'Die Träne des Teufels' geht es um einen mysteriösen Mordfall und die Suche nach der Wahrheit.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "310881940",
+      "title": "John Sinclair, Folge 49: Ich jagte Jack the Ripper",
+      "author": "John Sinclair & Jason Dark",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/70/2a/1a/mzi.fsvlzkkv.jpg/100x100bb.jpg",
+      "episodeNumber": 49,
+      "releaseDate": "2009-04-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "310881940"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "John Sinclair, Folge 49: Ich jagte Jack the Ripper - Ein neuer Fall für den legendären Privatdetektiv John Sinclair. Er muss den berüchtigten Mörder Jack the Ripper aufspüren und stoppen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1367885836",
+      "title": "Folge 122: Inferno in der Alptraum-Schlucht. Teil 4 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/e9/21/eae92163-078f-c7ac-a387-11bfe5f0f46b/9783838783369_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 122,
+      "releaseDate": "2018-04-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1367885836"
+      },
+      "genres": [
+        "Hörspiel",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "In dieser vierteiligen Hörspielserie wird die Geschichte einer Gruppe von Abenteurern fortgesetzt, die in eine gefährliche Schlucht geraten sind. Sie müssen sich gegen Überlebenskämpfe und mysteriöse Ereignisse behaupten.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "973020839",
+      "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/97/f3/07/97f3071e-e53d-f737-9c89-675a3aaca468/9783838775487_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 101,
+      "releaseDate": "2015-06-19",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "973020839"
+      },
+      "genres": [
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel über Hexenjäger in einer fiktiven Welt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561130359",
+      "title": "Folge 137: Kampf um Lady X (Teil 2 von 2)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/3a/72/c43a720b-aace-ad28-6b8a-ae11103a59a5/9783838793993_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 137,
+      "releaseDate": "2020-03-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561130359"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309190742",
+      "title": "John Sinclair, Folge 26: Das letzte Duell (Teil 3 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/8c/7a/3f/mzi.nivvsypa.jpg/100x100bb.jpg",
+      "episodeNumber": 26,
+      "releaseDate": "2003-08-21",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309190742"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge von John Sinclair muss er sein letztes Duell bestehen. Ein Kriminalroman in Form eines Hörspiels.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1680860045",
+      "title": "Classics, Folge 50: Die Katakomben von Paris",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/d7/ca/86d7cafb-0d2e-44ad-caa7-af221d65f1ce/9783754006504_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 50,
+      "releaseDate": "2023-05-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1680860045"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Die Katakomben von Paris sind eine Geschichte über einen mysteriösen Fund in den unterirdischen Gängen der französischen Hauptstadt. Ein Team von Archäologen und Forschern muss die Wahrheit hinter dem Fund aufdecken, bevor es zu spät ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309164868",
+      "title": "John Sinclair, Folge 13: Gefangen in der Mikrowelt (Teil 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/3e/05/94/mzi.zwypphum.jpg/100x100bb.jpg",
+      "episodeNumber": 13,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309164868"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum über John Sinclair, das in einer Mikrowelt gefangen ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "986945730",
+      "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/df/43/89/df4389c2-83a6-ddd3-1c0a-c67228bb4192/9783838776897_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 105,
+      "releaseDate": "2016-01-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "986945730"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil der dreiteiligen Folge ermittelt Detective Shimada einen Mord, bei dem ein wichtiger Zeuge ermordet wurde. Die Ermittlungen beginnen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1695542521",
+      "title": "Folge 162: Das Vampir-Internat",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/a5/4e/dca54ef4-9a15-94a7-6661-dd9b8aebefc6/9783754005620_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 162,
+      "releaseDate": "2023-08-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1695542521"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält 17 Tracks des Hörspiels 'Folge 162: Das Vampir-Internat' von John Sinclair, das sich in einem Fantasy-Genre bewegt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1193212687",
+      "title": "Folge 115: Der Planet der Magier. Teil 3 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music82/v4/e2/1c/37/e21c37a0-484a-c4af-39ba-1f2ea89a3c4a/9783838783291_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 115,
+      "releaseDate": "2017-04-24",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1193212687"
+      },
+      "genres": [
+        "Hörspiel",
+        "Science-Fiction",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Der dritte Teil einer vierteiligen Folge, in der es um magische Kräfte und Abenteuer auf einem fremden Planeten geht. Eine spannende Geschichte für Fans von Science-Fiction-Hörspielen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1634384314",
+      "title": "Folge 155: Die schwebenden Leichen von Prag - Teil 1 von 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a6/96/c8/a696c8a0-f7e1-7fde-e765-bd7cbf6bbae9/9783754003558_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 155,
+      "releaseDate": "2022-08-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1634384314"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil einer Zwei-Teiler-Folge ermittelt John Sinclair in Prag nach einem Mordfall. Ein mysteriöser Täter verursacht Chaos und Tod in der tschechischen Hauptstadt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309311337",
+      "title": "John Sinclair, Folge 19: Der Sensenmann als Hochzeitsgast",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/41/a4/5e/mzi.hfgipcim.jpg/100x100bb.jpg",
+      "episodeNumber": 19,
+      "releaseDate": "2002-12-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309311337"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem 19. Folge des John-Sinclair-Hörspiels übernimmt der Sensenmann als Hochzeitsgast eine wichtige Rolle. Eine spannende Geschichte, die zwischen Magie und Realität spielt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1606784261",
+      "title": "Folge 151: Samarans Todeswasser - Teil 1 von 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8c/29/fe/8c29fece-7894-c422-96a4-345747d1af60/9783838797120_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 151,
+      "releaseDate": "2022-02-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1606784261"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil der Folge 151 erzählt John Sinclair eine Kriminalstory um das Thema Todeswasser. Ein Mordfall in einem Dorf führt zu einer Spurensuche, die tiefer in die Vergangenheit reicht.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1730690941",
+      "title": "Folge 168: Der grausame Wald - Teil 1 von 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/87/ea/6d87ea5a-5305-19e6-cd92-fbd410639e32/9783754008980_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 168,
+      "releaseDate": "2024-03-01",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1730690941"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil der Folge 168 erzählt John Sinclair eine Geschichte über den grausamen Wald. Was ihn dort erwartet, wird in Teil 2 weitererzählt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309326366",
+      "title": "John Sinclair, Folge 43: Ich Flog In Die Todeswolke (1/2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/9e/b7/eb/mzi.phijxipe.jpg/100x100bb.jpg",
+      "episodeNumber": 43,
+      "releaseDate": "2008-04-07",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309326366"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'John Sinclair, Folge 43: Ich Flog In Die Todeswolke (1/2)' von Jason Dark & John Sinclair, bestehend aus 15 Tracks und im Genre Hörspiele.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "554174497",
+      "title": "Folge 76: Herrin der Dunkelwelt",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/eb/59/6a/eb596a30-fcd9-a4f5-1a8b-909951969614/9783838770499_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 76,
+      "releaseDate": "2012-08-17",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "554174497"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte aus seiner 'Folge'-Serie. Es handelt sich um ein Fantasy-Hörspiel, in dem die Herrin der Dunkelwelt eine wichtige Rolle spielt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "910994433",
+      "title": "Folge 96: Pandoras Botschaft",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/a6/b2/5f/a6b25f78-558b-e4aa-0a41-aa318de5935b/9783785749272_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 96,
+      "releaseDate": "2014-11-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "910994433"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um Pandoras Botschaft. Ein mysteriöser Brief bringt die Hauptfigur in eine Welt des Verwirrungs und Panik.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1735439696",
+      "title": "Folge 170: Ein Grab aus der Vergangenheit",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/5f/48/065f48d5-caac-c8b4-f853-8dfc440cc2f3/9783754012789_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 170,
+      "releaseDate": "2024-04-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1735439696"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit 18 Tracks aus dem Hörspiel 'Folge 170: Ein Grab aus der Vergangenheit', von John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561139447",
+      "title": "Classics, Folge 38: Die Totenkopf-Gang",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ff/ae/ff/ffaeff6d-d898-265e-003c-b0fb7915bd3a/9783838792309_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 38,
+      "releaseDate": "2020-01-31",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561139447"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Die Totenkopf-Gang' von John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1058880720",
+      "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/44/62/40/4462407b-3b56-98d4-d706-6aab8a701d40/mzm.prchaego.jpg/100x100bb.jpg",
+      "episodeNumber": 111,
+      "releaseDate": "2016-09-09",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1058880720"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Die zweite Folge einer Kriminalstory um Jane Collins. Ein mysteriöser Mordfall muss aufgeklärt werden.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "465049804",
+      "title": "Folge 68: Die Leichenkutsche von London",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/62/93/ec/mzi.iucrlrht.jpg/100x100bb.jpg",
+      "episodeNumber": 68,
+      "releaseDate": "2011-09-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "465049804"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der Serie 'John Sinclair' erzählt man die Geschichte um eine mysteriöse Leichenkutsche in London. Ein Kriminalfall wird aufgedeckt und die Hörer werden mit Spannung und Action belohnt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "910994230",
+      "title": "Folge 98: Treffpunkt Leichenhaus",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/14/b2/f0/14b2f0be-bac6-2aaf-79bb-ecc2d4ee6c73/9783838774589_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 98,
+      "releaseDate": "2015-02-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "910994230"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel ermittelt Detective Frank Haller in einem Mordfall, der ihn auf eine Spur von Verbrechen und Korruption führt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1564820359",
+      "title": "Folge 146: Meine Henkersmahlzeit",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bc/76/16/bc7616ce-8d0c-4726-4e8c-42be914c7def/9783838797076_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 146,
+      "releaseDate": "2021-05-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1564820359"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Folge 146: Meine Henkersmahlzeit' von John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309170807",
+      "title": "John Sinclair, Folge 44: Das Elixier des Teufels (Teil 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/a3/50/9a/mzi.wnphublj.jpg/100x100bb.jpg",
+      "episodeNumber": 44,
+      "releaseDate": "2008-05-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309170807"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem zweiten Teil der John-Sinclair-Folge wird die Geschichte fortgesetzt. Jason Dark und John Sinclair erzählen eine Kriminalgeschichte mit Spannung und Action.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1458757823",
+      "title": "Folge 130: Mirandas Monsterwelt",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/04/d6/2a/04d62a54-77e2-2689-a277-edafa31c028c/9783838789712_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 130,
+      "releaseDate": "2019-04-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1458757823"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Miranda steigt in eine andere Welt ab, wo sie auf ungewöhnliche Monster trifft. Ein Abenteuer für alle, die gerne in fantastische Welten eintauchen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309151058",
+      "title": "John Sinclair, Folge 17: Bills Hinrichtung (Teil 2 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/48/b9/mzi.usuzyhph.jpg/100x100bb.jpg",
+      "episodeNumber": 17,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309151058"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Teil 2 von 3: John Sinclair, Folge 17: Bills Hinrichtung. Kriminalhörspiel nach dem Roman von John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309182475",
+      "title": "John Sinclair, Folge 33: Die Eisvampire",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/92/b6/cc/mzi.jyvaprkt.jpg/100x100bb.jpg",
+      "episodeNumber": 33,
+      "releaseDate": "2005-12-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309182475"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "John Sinclair, Folge 33: Die Eisvampire - Ein neuer Fall für den Detektiv John Sinclair. Er muss eine Mordserie aufklären, die mit mysteriösen Eisvampir-Angriffen zusammenhängt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1409831056",
+      "title": "Folge 128: Hemators tödliche Welt. Teil 4 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cc/33/96/cc3396aa-6bec-b822-cee7-b9e55e24a9fd/9783838787640_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 128,
+      "releaseDate": "2019-01-31",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1409831056"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1193212676",
+      "title": "Folge 114: Die Eismeer-Hexe. Teil 2 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/a3/c9/26/a3c92601-7790-ede2-711a-2370be64ca94/9783838781808_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 114,
+      "releaseDate": "2017-03-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1193212676"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem zweiten Teil einer vierteiligen Folge erzählt die Eismeer-Hexe ihre Geschichte weiter. Was sie uns verrät, bleibt geheim... (Keine weitere Beschreibung verfügbar)",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309326889",
+      "title": "John Sinclair, Folge 41: Die Schöne Aus Dem Totenreich",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/94/c9/42/mzi.lggqwlvd.jpg/100x100bb.jpg",
+      "episodeNumber": 41,
+      "releaseDate": "2007-12-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309326889"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "John Sinclair, Folge 41: Die Schöne Aus Dem Totenreich - Ein neues Abenteuer des Privatdetektivs John Sinclair. Er muss eine Schönheit aus dem Totenreich retten.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "986900232",
+      "title": "Classics, Folge 24: Hochzeit der Vampire",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/18/e9/80/18e98057-f87b-5462-91da-e940624ebcae/9783838775616_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 24,
+      "releaseDate": "2015-12-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "986900232"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um Vampir-Hochzeit. Eine mysteriöse und romantische Geschichte, die in einem dunklen Wald spielt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309312300",
+      "title": "John Sinclair, Folge 18: Die teuflischen Puppen (Teil 3 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/67/6f/cd/mzi.smdtryhg.jpg/100x100bb.jpg",
+      "episodeNumber": 18,
+      "releaseDate": "2002-02-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309312300"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album von Jason Dark & John Sinclair mit 13 Hörspiel-Tracks, das Teil der Serie \"John Sinclair\" ist. Es umfasst \"Die teuflischen Puppen\" als Teil 3 einer dreiteiligen Folge.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561145780",
+      "title": "Classics, Folge 42: Das Hochhaus der Dämonen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/54/a4/7a54a40d-95cd-b6c0-fa65-ece9b5a2eed0/9783838796130_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 42,
+      "releaseDate": "2021-03-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561145780"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album ist ein Hörspiel mit dem Titel 'Das Hochhaus der Dämonen', das Teil einer Serie ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1058879871",
+      "title": "Folge 109: Sieben Dolche für den Teufel",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/49/04/a6/4904a6b5-8511-31d4-deab-387f29c8a498/mzm.pesyzmbv.jpg/100x100bb.jpg",
+      "episodeNumber": 109,
+      "releaseDate": "2016-07-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1058879871"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "John Sinclair ist ein bekannter Autor von Kriminalromanen und -hörspielen. In 'Folge 109: Sieben Dolche für den Teufel' erzählt er eine spannende Geschichte um Mord, Verbrechen und Intrige.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1058880201",
+      "title": "Folge 108: Satans Knochenuhr",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d5/e4/57/d5e457a8-1b84-10b3-cfd7-4637d6720494/mzm.budyuqov.jpg/100x100bb.jpg",
+      "episodeNumber": 108,
+      "releaseDate": "2016-05-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1058880201"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 108: Satans Knochenuhr' von John Sinclair. Es handelt sich um ein spannendes Hörspiel, das wahrscheinlich Elemente des Krimi und des Thrillers umfasst.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "444178625",
+      "title": "Classics Folge 7: Die Töchter der Hölle",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/de/d6/36/mzi.obgsxerg.jpg/100x100bb.jpg",
+      "episodeNumber": 7,
+      "releaseDate": "2011-06-24",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "444178625"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiele, die sich um klassische Themen wie die Töchter der Hölle handeln.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309201413",
+      "title": "John Sinclair, Folge 37: Dr. Tods Horror-Insel",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/be/0a/71/mzi.xggfofly.jpg/100x100bb.jpg",
+      "episodeNumber": 37,
+      "releaseDate": "2007-06-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309201413"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "In diesem 37. Folge der Serie 'John Sinclair' wird Dr. Tod's Horror-Insel erzählt. John Sinclair muss sich einem mysteriösen Insel besuchen, um den Mord an einer jungen Frau aufzuklären.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1693242126",
+      "title": "Villa Wahnsinn (50 Jahre John Sinclair)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/98/c0/91/98c091a9-779a-fa48-d71e-741c76d5515f/9783754007501_3000.jpg/100x100bb.jpg",
+      "episodeNumber": null,
+      "releaseDate": "2023-07-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1693242126"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album 'Villa Wahnsinn (50 Jahre John Sinclair)' ist ein Hörspiel, das die Geschichte von John Sinclair erzählt. Es enthält 31 Tracks und ist eine Hommage an den amerikanischen Beat-Poeten.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1592683630",
+      "title": "Folge 149: Die Rache des Kopflosen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/85/0b/1e850bf6-7b5d-4c32-d1cf-a32f3a0a8177/9783838797106_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 149,
+      "releaseDate": "2021-11-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1592683630"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1112139963",
+      "title": "Classics, Folge 28: Die Geisterhöhle",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/8e/de/9c/8ede9c4e-64b8-0e12-fae1-ad8d8c60bbb3/9783838779089_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 28,
+      "releaseDate": "2017-01-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1112139963"
+      },
+      "genres": [
+        "Hörspiel",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In 'Die Geisterhöhle' erzählt John Sinclair eine Geschichte über mysteriöse Ereignisse in einer Höhle. Einige Menschen suchen nach verlorenen Schätzen, während andere versuchen, die Höhle zu erkunden.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1444651046",
+      "title": "Folge 127: Zwei Schwerter gegen die Hölle. Teil 3 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/b2/1c/deb21cf5-7e9e-3187-8c82-5bbf9935d64b/9783838787633_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 127,
+      "releaseDate": "2018-12-21",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1444651046"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "493272604",
+      "title": "Folge 71: Der Mann, der nicht sterben konnte",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/0c/11/mzi.tnagrmkz.jpg/100x100bb.jpg",
+      "episodeNumber": 71,
+      "releaseDate": "2012-01-20",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "493272604"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair die Geschichte eines Mannes, der nach einem mysteriösen Unfall unverwundbar wird. Doch dies bringt auch seine Umgebung in Gefahr.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "396107978",
+      "title": "John Sinclair, Folge 60: Ich stieß das Tor zur Hölle auf",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/7b/1b/cc/mzi.kcniwpcj.jpg/100x100bb.jpg",
+      "episodeNumber": 60,
+      "releaseDate": "2010-10-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "396107978"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel von John Sinclair mit dem Titel 'Ich stieß das Tor zur Hölle auf'. Es handelt sich um einen Thriller mit Spannung und Spannung.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1706824983",
+      "title": "Folge 163: Die Werwolf-Schlucht",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/ac/17/6fac1710-f3b6-09d3-7dc5-941940e486c6/9783754008935_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 163,
+      "releaseDate": "2023-09-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1706824983"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der Serie 'John Sinclair' erzählt die Geschichte eines Werwolfs, der in einer Schlucht lebt. Ein Detektiv muss ihn finden und stoppen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309174960",
+      "title": "John Sinclair, Folge 46: Myxins Entführung",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/13/8a/b6/mzi.qjoxuhhd.jpg/100x100bb.jpg",
+      "episodeNumber": 46,
+      "releaseDate": "2008-07-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309174960"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Folge 46 der Serie John Sinclair: Myxins Entführung - ein Kriminalhörspiel mit Detektiv John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1193212642",
+      "title": "Folge 116: Die Totenmaske aus Atlantis. Teil 4 von 4",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/7c/2b/4c/7c2b4c37-6d22-3400-6469-e7f74e70b7f1/9783838783307_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 116,
+      "releaseDate": "2017-05-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1193212642"
+      },
+      "genres": [
+        "Hörspiel",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "In dieser vierteiligen Folge erzählt John Sinclair eine Geschichte über die Totenmaske aus Atlantis. Ein Abenteuer, das die Zuhörer in den Bann zieht.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309174968",
+      "title": "John Sinclair, Folge 39: Schreie in der Horror-Gruft (Teil 2 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/d7/1a/c0/mzi.flfgdpam.jpg/100x100bb.jpg",
+      "episodeNumber": 39,
+      "releaseDate": "2007-08-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309174968"
+      },
+      "genres": [
+        "Hörspiel",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In dieser zweiten Folge der John-Sinclair-Reihe wird Detective Sinclair auf eine Mordserie in einem Horror-Gruft aufmerksam. Er muss die Spuren verfolgen, um den Mörder zu fangen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309184009",
+      "title": "John Sinclair, Folge 22: Asmodinas Reich (Teli 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/c9/4c/mzi.rhjpialv.jpg/100x100bb.jpg",
+      "episodeNumber": 22,
+      "releaseDate": "2003-02-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309184009"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In 'Asmodinas Reich' geht es um eine mysteriöse Geschichte, die John Sinclair aufklären muss. Teil 2 von 2.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "606997602",
+      "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie, Teil 3",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/37/8f/cd/378fcd8b-2d60-5d5e-c912-44b02a406edb/9783838771786_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 82,
+      "releaseDate": "2013-03-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "606997602"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Die dritte Folge der Kreuz-Trilogie von John Sinclair. Eine dramatische Geschichte in 15 Teilen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "986931860",
+      "title": "Folge 104: Die magische Bombe",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/e4/94/77/e4947744-f667-2160-1997-6298261f5a6e/dj.acbwaqsr.jpg/100x100bb.jpg",
+      "episodeNumber": 104,
+      "releaseDate": "2015-10-08",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "986931860"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "986946738",
+      "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/5c/19/09/5c190947-88d3-e5e5-ac7f-3e2d9ae8ce8c/9783838776903_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 106,
+      "releaseDate": "2016-02-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "986946738"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der Serie Xorron's Totenheer geht es um ... (Keine weitere Beschreibung verfügbar)",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "470491866",
+      "title": "Classics Folge 9: Die Nacht des schwarzen Drachen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/5d/84/mzi.gfzkvnhs.jpg/100x100bb.jpg",
+      "episodeNumber": 9,
+      "releaseDate": "2011-10-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "470491866"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält eine Folge des Hörspiels 'Die Nacht des schwarzen Drachen' von John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1631530909",
+      "title": "Folge 154: Ich und der Poltergeist",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/5b/90/545b9001-2e0b-6c9d-282e-188cc39bf90d/4066004480008_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 154,
+      "releaseDate": "2022-06-24",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1631530909"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "608280636",
+      "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie, Teil 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/53/fd/6a/53fd6a33-0df0-cefd-142a-9732d26683be/9783838771779_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 81,
+      "releaseDate": "2013-03-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "608280636"
+      },
+      "genres": [
+        "Hörspiel",
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der Kreuz-Trilogie muss ein Protagonist allein in einer Drachenhöhle überleben. Ein Abenteuerspiel mit Spannung und Action.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309200070",
+      "title": "John Sinclair, Folge 30: Die Drachensaat (Teil 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/0f/cd/mzi.msjsrloe.jpg/100x100bb.jpg",
+      "episodeNumber": 30,
+      "releaseDate": "2004-11-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309200070"
+      },
+      "genres": [
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspiel über Drachen, das Teil einer Serie ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "327483755",
+      "title": "John Sinclair, Folge 53: Dämonen im Raketencamp",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/5b/1e/0c/mzi.ytqrkhku.jpg/100x100bb.jpg",
+      "episodeNumber": 53,
+      "releaseDate": "2009-08-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "327483755"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem 17-teiligen Hörspiel-Folgenband von John Sinclair geht es um Dämonen, Raketen und Abenteuer. Keine weitere Beschreibung verfügbar.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "858549973",
+      "title": "Folge 94: Verdammt und begraben",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/79/09/49/7909498d-044a-f358-8de4-82dcc8671703/9783838774107_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 94,
+      "releaseDate": "2014-08-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "858549973"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 94: Verdammt und begraben' von John Sinclair. Es handelt sich um ein spannendes Hörspiel, das in einem Thriller-Genre angesiedelt ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "762808016",
+      "title": "Folge 88: Die Leichenstadt",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/a8/d7/41/a8d7413d-4d0f-085a-be2e-72c5ddef7c44/9783838772912_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 88,
+      "releaseDate": "2013-12-20",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "762808016"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge der Serie 'Die Leichenstadt' ermittelt Detective Frank Jackson in einem Mordfall. Ein weiterer Toter bringt die Ermittlungen auf eine heiße Spur.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309317148",
+      "title": "John Sinclair, Folge 9: Das Dämonenauge (2/2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/e9/8d/f6/mzi.bybvcwhi.jpg/100x100bb.jpg",
+      "episodeNumber": 9,
+      "releaseDate": "2001-09-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309317148"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In 'Das Dämonenauge (2/2)' setzt die Geschichte von John Sinclair fort. Der Privatdetektiv muss gegen eine mysteriöse Bedrohung vorgehen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "403746153",
+      "title": "John Sinclair, Folge 62: Bring mir den Kopf von Asmodina (III/III)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/58/2a/cf/mzi.bqqbclen.jpg/100x100bb.jpg",
+      "episodeNumber": 62,
+      "releaseDate": "2010-11-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "403746153"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "John Sinclair, Folge 62: Bring mir den Kopf von Asmodina (III/III) - Das dritte und finale Kapitel einer Hörspielserie von John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "402446668",
+      "title": "John Sinclair, Folge 61: Im Zentrum des Schreckens (II/III)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/b8/b5/2d/mzi.bmezoprg.jpg/100x100bb.jpg",
+      "episodeNumber": 61,
+      "releaseDate": "2010-11-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "402446668"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Im Zentrum des Schreckens ist die zweite und dritte Folge einer Serie von Hörspielen, die auf dem Leben des amerikanischen Beat-Poeten John Sinclair basieren.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1193209827",
+      "title": "Classics, Folge 30: Das Phantom von Soho",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music82/v4/5c/b6/cd/5cb6cda2-acaa-9f78-bf47-c28a0afcb086/9783838783437_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 30,
+      "releaseDate": "2017-08-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1193209827"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält die dritte Folge von 'Classics', einem Hörspiel-Album, das sich auf klassische Geschichten spezialisiert. Die Erzählung 'Das Phantom von Soho' passt perfekt in die Kategorie des Krimi-Genres.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "412855445",
+      "title": "John Sinclair, Folge 63: Tokatas Todesspur",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/a7/42/d9/mzi.dqcqsmwf.jpg/100x100bb.jpg",
+      "episodeNumber": 63,
+      "releaseDate": "2011-01-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "412855445"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel-Folgen aus der Serie John Sinclair erzählt die Geschichte um den Tod eines Mädchens, das in einem Wald gefunden wurde. Die Ermittler müssen nun herausfinden, wer dahinter steckt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1752443351",
+      "title": "Folge 173: Im Namen der Hölle",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/25/0a/d0250acd-792b-d4d9-42e3-01e706416f98/9783754012826_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 173,
+      "releaseDate": "2024-07-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1752443351"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1119170879",
+      "title": "Classics, Folge 29: Der Hexenclub",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/ad/ed/28/aded28c8-a6be-1707-1a23-2c38c959a076/9783838779096_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 29,
+      "releaseDate": "2017-06-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1119170879"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um den Hexenclub. Ein mysteriöser Club, der in dunklen Nächten tagt und Geheimnisse enthüllt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "986927635",
+      "title": "Folge 103: Ghoul-Parasiten",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/61/0f/f7/610ff790-6b7b-35db-aa47-761090bd00aa/9783838775586_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 103,
+      "releaseDate": "2015-09-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "986927635"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "567092015",
+      "title": "Folge 77: Der lächelnde Henker",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8b/38/13/8b3813b5-a38b-dedc-1df0-8689075edff4/9783838770864_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 77,
+      "releaseDate": "2012-10-12",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "567092015"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album mit dem Titel 'Folge 77: Der lächelnde Henker' von John Sinclair, das im Genre Hörspiel klassifiziert ist. Es enthält 13 Tracks und scheint ein Hörspiel oder Hörbuch zu sein.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561968353",
+      "title": "Folge 133: Mörderische Weihnachten",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/ff/cf/c5ffcf7f-3de8-b3d2-9518-ad4d0d23088b/9783838789743_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 133,
+      "releaseDate": "2019-09-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561968353"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Kriminalgeschichte, die an Weihnachten spielt. Ein Mordfall in einer Kleinstadt führt zu einem spannenden Verfolgungsjagd.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "580463366",
+      "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4e/44/a7/4e44a724-5bbe-e1c8-eff7-a9157b807806/9783838770888_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 13,
+      "releaseDate": "2012-11-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "580463366"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Im 13. Folgen des John Sinclair-Klassikers erzählt die Mumi, dass sie den Tod von John Sinclair rächt und sich auf eine Rachejagd begibt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1409844360",
+      "title": "Classics, Folge 34: Die Todesgondel",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ae/c1/0a/aec10a72-1f08-4119-b20d-8ae39f359848/9783838787657_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 34,
+      "releaseDate": "2018-09-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1409844360"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel wird die Geschichte der Todesgondel erzählt. Ein mysteriöser Tod führt zu einer Suche nach Wahrheit und Erkenntnis.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1580549902",
+      "title": "Classics, Folge 36: Die Rache der roten Hexe",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/c1/8d/51c18d30-4154-707d-8f4d-eadb37cbc4f6/9783838789057_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 36,
+      "releaseDate": "2019-06-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1580549902"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um die Rache einer roten Hexe. Ein klassischer Kriminalfall, der in einer mystischen Umgebung spielt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1058882914",
+      "title": "Classics, Folge 26: Der Fluch aus dem Dschungel",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/03/0d/37/030d373f-f722-3981-89b4-ac35e826dfa0/mzm.lrnvzxim.jpg/100x100bb.jpg",
+      "episodeNumber": 26,
+      "releaseDate": "2016-06-10",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1058882914"
+      },
+      "genres": [
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Der Fluch aus dem Dschungel', das Teil einer Serie ist. Es bietet ein spannendes Abenteuer in einer Fantasy-Welt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1453987198",
+      "title": "Classics, Folge 35: Der Voodoo-Mörder",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/e8/2f/88e82fc9-581f-4f6a-8d86-034d69a8dc3c/9783838787664_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 35,
+      "releaseDate": "2019-03-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1453987198"
+      },
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Der Voodoo-Mörder', das vermutlich Elemente von Krimi und Thriller umfasst.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309156072",
+      "title": "John Sinclair, Folge 40: Mein Todesurteil (Teil 3 von 3)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/e3/9e/d8/mzi.nwpkucok.jpg/100x100bb.jpg",
+      "episodeNumber": 40,
+      "releaseDate": "2007-08-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309156072"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Album des Genres Hörspiel, das sich auf ein Theaterstück von John Sinclair konzentriert, das sich um ein Todesurteil dreht.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "779458288",
+      "title": "Folge 89: In den Krallen der roten Vampire",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3d/4a/49/3d4a49b0-23c4-84fb-cd28-60816f2f282f/9783838773544_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 89,
+      "releaseDate": "2014-01-17",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "779458288"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 15 Hörspiel-Tracks, die sich um ein spannendes Abenteuer in den Krallen der roten Vampire drehen. Es handelt sich um ein Hörspiel, das Spannung und Spannung bietet.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1675823797",
+      "title": "Folge 160: Die Unheimliche vom Schandturm",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/36/53/ed3653f3-cb1e-1574-395c-9b2146c1a370/9783754005606_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 160,
+      "releaseDate": "2023-04-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1675823797"
+      },
+      "genres": [
+        "Hörspiel",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um die Unheimliche vom Schandturm. Keine weitere Beschreibung verfügbar.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1236847654",
+      "title": "Classics, Folge 31: Die Drachenburg",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/61/18/df/6118dfce-4156-c565-46a4-fd1350adfac9/9783838783444_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 31,
+      "releaseDate": "2017-10-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1236847654"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1790161409",
+      "title": "Folge 179: Kathedrale der Angst",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/cd/06/68cd06ac-f58d-1328-0dc1-50d1a725399f/9783754015896_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 179,
+      "releaseDate": "2025-02-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1790161409"
+      },
+      "genres": [
+        "Hörspiel",
+        "Thriller"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um Angst und Verwirrung. Ein mysteriöser Mord in einer Kathedrale führt zu einem Kriminalermittlungskrimi, der bis ins Herz der Stadt reicht.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "570751019",
+      "title": "Folge 78: Die Todesgöttin",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ef/f7/64/eff7646e-d4e6-0931-bc7e-a9be0bf35644/9783838770963_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 78,
+      "releaseDate": "2012-11-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "570751019"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In 'Folge 78: Die Todesgöttin' erzählt John Sinclair eine Geschichte über Mord, Tod und Verwirrung. Ein weiterer Fall für seine Detektivserie.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "324275565",
+      "title": "John Sinclair, Folge 52: Horrortrip zur Schönheitsfarm",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/15/c8/9b/mzi.grgpkeak.jpg/100x100bb.jpg",
+      "episodeNumber": 52,
+      "releaseDate": "2009-06-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "324275565"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "John Sinclair, Folge 52: Horrortrip zur Schönheitsfarm - Ein episches Hörspiel mit Abenteuer und Horror-Elementen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "378824710",
+      "title": "John Sinclair, Folge 57: Im Jenseits verurteilt",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b7/2f/mzi.wcvrmwbj.jpg/100x100bb.jpg",
+      "episodeNumber": 57,
+      "releaseDate": "2010-06-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "378824710"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist ein Hörspiel von John Sinclair, das die Handlung um die Figur John Sinclair weiterführt. Es ist Teil einer Serie mit insgesamt 57 Folgen, die spannende Geschichten bietet.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1798185662",
+      "title": "Folge 180: Horror-Hochzeit",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/39/5f/7b395f88-e5e9-236e-80bf-8f0acba04996/9783754016800_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 180,
+      "releaseDate": "2025-03-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1798185662"
+      },
+      "genres": [
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "Das Album enthält Episoden eines Hörspiels mit dem Titel 'Folge 180: Horror-Hochzeit', das dem Genre Horror zugeordnet ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "545608305",
+      "title": "Folge 75: Albtraum in Atlantis",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c6/51/c2/c651c218-e698-bc27-9dc9-741ff7eb240d/9783838770703_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 75,
+      "releaseDate": "2012-07-20",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "545608305"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In dieser Folge von John Sinclair's Hörspielen wird Atlantis in einen Albtraum hineingezogen. Eine Gruppe Freunde muss sich gegen die Mächte des Bösen wehren.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1594396664",
+      "title": "Folge 150: Eisherz (Ungekürzt)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/1c/13/5d1c1359-185f-77e8-4731-68004fae9d21/9783838797113_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 150,
+      "releaseDate": "2021-12-17",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1594396664"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum, das sich auf das Thema 'Eisherz' konzentriert.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1757445916",
+      "title": "Folge 174: Das Richtschwert der Templer - Teil 1 von 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/e1/f5/06e1f5c9-7fc7-2376-84aa-7e274e1c5aaf/9783754012833_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 174,
+      "releaseDate": "2024-08-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1757445916"
+      },
+      "genres": [
+        "Hörspiel",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil einer zweiteiligen Folge erzählt John Sinclair eine Geschichte über das Ritterschwert der Templer. Ein Abenteuer, das die Zugehörigkeit zu einem bestimmten Orden in Frage stellt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1582446310",
+      "title": "Classics, Folge 44: Die Spinnen-Königin",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7e/08/4c/7e084c99-bb55-fba5-069c-1ce0f358fd7d/9783838797045_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 44,
+      "releaseDate": "2021-09-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1582446310"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair die Geschichte von Die Spinnen-Königin. Ein spannender Kriminalfall wartet auf den Zuhörer.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1369226177",
+      "title": "Classics, Folge 33: Irrfahrt ins Jenseits",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e4/06/48/e406487d-8292-48b6-9ce4-07de554a1375/9783838783468_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 33,
+      "releaseDate": "2018-05-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1369226177"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "436337105",
+      "title": "John Sinclair, Folge 66: Hexenwahn",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/1c/29/27/mzi.nswblvyy.jpg/100x100bb.jpg",
+      "episodeNumber": 66,
+      "releaseDate": "2011-05-20",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "436337105"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel wird die Geschichte des John Sinclair fortgesetzt. Es handelt sich um eine Kriminalstory mit mystischen Elementen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "479568458",
+      "title": "Folge 70: Die Hexeninsel",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/ba/dd/88/mzi.ttznyzot.jpg/100x100bb.jpg",
+      "episodeNumber": 70,
+      "releaseDate": "2011-11-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "479568458"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Die Folge 70 der Serie 'Die Hexeninsel' von John Sinclair erzählt eine Geschichte um Hexen und Zauber. Ein spannender Kriminalfall wird aufgerollt, als ein Mord an einer jungen Frau auftritt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "498475675",
+      "title": "Classics Folge 10: Die Insel der Skelette",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/04/ae/11/mzi.suqmajjv.jpg/100x100bb.jpg",
+      "episodeNumber": 10,
+      "releaseDate": "2012-02-17",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "498475675"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein Hörspielalbum über die Insel der Skelette, das Spannung und Abenteuer verspricht.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561139523",
+      "title": "Classics, Folge 37: Zirkus Luzifer",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/68/c7/8868c7f0-d454-e28a-4f3e-eb29c37674d5/9783838789064_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 37,
+      "releaseDate": "2019-08-30",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561139523"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um den Zirkus Luzifer. Einmal pro Monat erscheint ein neues Kapitel in der Serie 'Classics'.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "392283108",
+      "title": "John Sinclair, Folge 59: Das Erbe des Schwarzen Tods",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/2a/b8/00/mzi.zycivdpf.jpg/100x100bb.jpg",
+      "episodeNumber": 59,
+      "releaseDate": "2010-09-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "392283108"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Inhalt unbekannt. Es handelt sich um eine Episode aus der John-Sinclair-Reihe, die auf Apple Music verfügbar ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "796926574",
+      "title": "Folge 90: Belphégors Rückkehr",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/27/c8/16/27c816b6-f3cc-70c9-729d-2b526219a6bc/9783838773674_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 90,
+      "releaseDate": "2014-03-14",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "796926574"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album ist Teil einer Hörspielserie mit dem Titel 'Folge 90: Belphégors Rückkehr' von John Sinclair, das 15 Tracks umfasst und im Genre Hörspiel angesiedelt ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561133198",
+      "title": "Folge 140: Shimadas Höllenschloss (Teil 1 von 2)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/61/ad/f661ad5f-3e23-a78a-e95f-eafb55bb8c9e/9783838794020_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 140,
+      "releaseDate": "2020-08-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561133198"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem ersten Teil einer zweiteiligen Folge erzählt John Sinclair eine Geschichte um Shimadas Höllenschloss. Das Hörspiel ist Teil eines beliebten Serienbestehs und wird von Fans erwartet.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "324276149",
+      "title": "John Sinclair,  Folge 51: Mannequins mit Mörderaugen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/8d/0f/e2/mzi.zocqhoza.jpg/100x100bb.jpg",
+      "episodeNumber": 51,
+      "releaseDate": "2009-06-16",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "324276149"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält Hörspiel-Tracks und passt somit in die Kategorie Hörspiele.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1561134270",
+      "title": "Folge 138: Albtraum-Comic",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/59/e9/a0/59e9a053-80d6-a5bc-4724-0c51232a4506/9783838794006_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 138,
+      "releaseDate": "2020-05-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1561134270"
+      },
+      "genres": [
+        "Hörspiel",
+        "Superhelden"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "537591474",
+      "title": "John Sinclair, Classics Folge 11: Der Blutgraf",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/bc/14/be/bc14be0d-68ab-6fab-4258-32b5a2bef142/9783838770185_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 11,
+      "releaseDate": "2012-06-22",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "537591474"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem 11. Teil der 'Classics Folge' erzählt John Sinclair eine Geschichte um den Blutgraf, die sich in einer Mischung aus Kriminal- und Abenteuerstory entwickelt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1613257417",
+      "title": "Folge 152: Todesfalle unter Wasser - Teil 2 von 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/97/ca/bd97ca6a-457c-b993-1bf9-0cea499932b4/9783754002520_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 152,
+      "releaseDate": "2022-03-25",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1613257417"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1706826007",
+      "title": "Folge 164: Baals Opferdolch - Teil 1 von 2",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/a7/ce/d9a7cef5-a195-fd77-72ae-36f83b9c0b11/9783754008942_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 164,
+      "releaseDate": "2023-10-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1706826007"
+      },
+      "genres": [
+        "Hörspiel",
+        "Pferde"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1721171144",
+      "title": "Folge 167: Teufelsspuk und Killer-Strigen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/fc/62/48fc6216-6d7d-8bf6-4eb3-f2671b7ff406/9783754008973_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 167,
+      "releaseDate": "2024-01-26",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1721171144"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte über Teufel und Killer-Strigen. Es handelt sich um die 167. Folge einer Serie.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1570802127",
+      "title": "Folge 135: Ninja, Zombies und Shimada. Teil 2 von 2 (Ungekürzt)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f5/df/54/f5df5443-a1fc-6a1c-0ddd-b4004a5da5e5/9783838789910_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 135,
+      "releaseDate": "2019-12-20",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1570802127"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "356610081",
+      "title": "John Sinclair, Folge 56: Eine schaurige Warnung",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/84/2d/mzi.zpqaqsuz.jpg/100x100bb.jpg",
+      "episodeNumber": 56,
+      "releaseDate": "2010-02-27",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "356610081"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Inhalt unbekannt. Es handelt sich um eine Episode aus der Serie 'John Sinclair', die auf Apple Music streambar ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "309201143",
+      "title": "John Sinclair, Folge 35: Königin der Wölfe (Teil 2 von 2)",
+      "author": "Jason Dark & John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/b6/dc/mzi.ophyarut.jpg/100x100bb.jpg",
+      "episodeNumber": 35,
+      "releaseDate": "2006-06-02",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "309201143"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem zweiten Teil der John-Sinclair-Folge ermittelt Detective John Sinclair in einem Mordfall. Er muss die Spuren eines mysteriösen Tötungsmotivs aufklären.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1670096143",
+      "title": "Folge 49: Die Rache des Kreuzritters (Classics)",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/7c/0c/c37c0cca-d8b4-6872-ddbd-45fcf0780b5c/9783754003497_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 49,
+      "releaseDate": "2023-02-24",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1670096143"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält 19 Tracks aus dem Hörspiel 'Folge 49: Die Rache des Kreuzritters' von John Sinclair.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1604567143",
+      "title": "Classics, Folge 45: Das Todeskarussell",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/50/17/3050177c-f461-c38d-ac81-183d3ea9faa8/9783838797052_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 45,
+      "releaseDate": "2022-01-28",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1604567143"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um das Todeskarussell. Ein mysteriöses Karussell, auf dem die Menschen sterben, wenn sie es besuchen.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "381704062",
+      "title": "John Sinclair, Folge 58: Asmodinas Todeslabyrinth",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/a4/29/90/mzi.wtdlbnsu.jpg/100x100bb.jpg",
+      "episodeNumber": 58,
+      "releaseDate": "2010-07-23",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "381704062"
+      },
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "Ein spannendes Hörspiel aus der Serie von John Sinclair, das in einem Labyrinth voller Magie und Geheimnisse spielt.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1714228737",
+      "title": "Folge 166: Der Doge, sein Henker und ich",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/74/c3/ff74c314-4e92-25b1-9a90-b25cfdad7a23/9783754008966_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 166,
+      "releaseDate": "2023-12-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1714228737"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um den Dogen, sein Henker und ihn selbst. Eine spannende und abenteuerliche Reise durch die Zeit.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "425336465",
+      "title": "John Sinclair, Folge 64: Um Mitternacht am Galgenberg",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/1d/40/mzi.ugpoaluz.jpg/100x100bb.jpg",
+      "episodeNumber": 64,
+      "releaseDate": "2011-03-18",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "425336465"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Ein deutscher Hörspiel-Album von John Sinclair, das sich um eine fesselnde Handlung im Genre des Krimi und Thriller dreht.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "834316835",
+      "title": "Folge 91: Der Höllenwurm",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3c/ae/93/3cae934e-619c-eb44-3460-e7a7be1bf0f7/9783838773865_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 91,
+      "releaseDate": "2014-04-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "834316835"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Dieses Album enthält das Hörspiel 'Folge 91: Der Höllenwurm' von John Sinclair mit 15 Episoden im Genre Hörspiel.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "702942325",
+      "title": "Folge 87: Schlucht der stummen Götter",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/65/eb/0b/65eb0bd8-4e80-eb8c-92ba-a89c836a0d89/9783838772721_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 87,
+      "releaseDate": "2013-11-22",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "702942325"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "949585255",
+      "title": "Folge 99: Das gläserne Grauen",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/15/3c/51/153c512a-e779-acb9-feb4-c37303afbf26/9783838774558_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 99,
+      "releaseDate": "2015-03-13",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "949585255"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um das Thema des Gläsernen Grauens. Es handelt sich um eine Kriminalstory mit Spannung und Action.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "983241687",
+      "title": "Classics, Folge 22: Der See des Schreckens",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ad/4d/77/ad4d77d5-31c6-cd2b-0cd4-9e125ab66b15/9783838775470_1448.jpg/100x100bb.jpg",
+      "episodeNumber": 22,
+      "releaseDate": "2015-05-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "983241687"
+      },
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel erzählt John Sinclair eine Geschichte um den See des Schreckens. Ein mysteriöser See, der für Unfälle und Verbrechen verantwortlich ist.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1058879868",
+      "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3e/75/c5/3e75c5d0-fc6a-539b-270b-78388c6661a5/mzm.yilkazuz.jpg/100x100bb.jpg",
+      "episodeNumber": 107,
+      "releaseDate": "2016-03-11",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1058879868"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "Keine Beschreibung verfügbar",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1774743739",
+      "title": "Folge 176: Aibon - Land der Druiden",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/31/6f/92316f22-cb7c-863d-8230-430fbef80a7c/9783754015872_3000.jpg/100x100bb.jpg",
+      "episodeNumber": 176,
+      "releaseDate": "2024-11-29",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1774743739"
+      },
+      "genres": [
+        "Hörspiel",
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel wird die Geschichte von Aibon fortgesetzt. Die Reise nach Land der Druiden beginnt und führt zu neuen Abenteuern.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "453536817",
+      "title": "Classics Folge 8: Das Rätsel der gläsernen Särge",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/66/da/8b/mzi.qrcecdgf.jpg/100x100bb.jpg",
+      "episodeNumber": 8,
+      "releaseDate": "2011-08-19",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "453536817"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Hörspiel ermittelt John Sinclair in einem mysteriösen Fall, bei dem gläserne Särge auftauchen. Ein Klassiker der deutschen Hörspiel-Literatur.",
+      "series": "John Sinclair"
+    },
+    {
+      "id": "1058883665",
+      "title": "Classics, Folge 25: Dr. Tods Höllenfahrt",
+      "author": "John Sinclair",
+      "narrator": "",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/db/63/58/db6358f2-d990-d688-7415-509d802578bf/mzm.hisuistr.jpg/100x100bb.jpg",
+      "episodeNumber": 25,
+      "releaseDate": "2016-04-15",
+      "totalDuration": 0.0,
+      "platforms": {
+        "appleMusic": "1058883665"
+      },
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "description": "In diesem Klassiker erzählt Dr. Tod seine abenteuerliche Geschichte von der Hölle bis in die Erde zurück.",
+      "series": "John Sinclair"
     }
   ]
 }

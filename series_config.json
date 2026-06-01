@@ -855,6 +855,32 @@
       "author": "Fünf Freunde",
       "narrator": "",
       "enabled": true
+    },
+    {
+      "slug": "jason-dark-john-sinclair",
+      "title": "Jason Dark & John Sinclair",
+      "search_term": "Jason Dark & John Sinclair",
+      "extra_search_terms": [],
+      "artist_filter": "Jason Dark & John Sinclair",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
+    },
+    {
+      "slug": "john-sinclair",
+      "title": "John Sinclair",
+      "search_term": "John Sinclair",
+      "extra_search_terms": [],
+      "artist_filter": "John Sinclair",
+      "genres": [
+        "Hörspiele"
+      ],
+      "author": "",
+      "narrator": "",
+      "enabled": true
     }
   ]
 }
