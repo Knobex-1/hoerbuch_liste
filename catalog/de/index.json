@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-05-31T21:17:38Z",
+  "updatedAt": "2026-06-01T05:07:53Z",
   "series": [
     {
       "id": "tkkg",
@@ -15,7 +15,8 @@
       "albumCount": 193,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/22/5b/31225b7c-f967-2b47-3bd0-8bdc135e4675/886446011790.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg.json",
-      "seriesUpdatedAt": "2026-05-31T16:46:35Z"
+      "seriesUpdatedAt": "2026-05-31T16:46:35Z",
+      "franchise": "TKKG"
     },
     {
       "id": "sherlock-holmes",
@@ -91,7 +92,9 @@
       "albumCount": 72,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg-retro-archiv.json",
-      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z",
+      "franchise": "TKKG",
+      "subSeriesOf": "tkkg"
     },
     {
       "id": "tkkg-junior",
@@ -106,7 +109,9 @@
       "albumCount": 18,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/46/b2/7b46b201-f9a3-eecd-94a7-f37a287110fb/886446012971.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg-junior.json",
-      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z",
+      "franchise": "TKKG",
+      "subSeriesOf": "tkkg"
     },
     {
       "id": "mark-brandis-raumkadett",
@@ -118,10 +123,12 @@
         "Science-Fiction",
         "Kinder & Jugend"
       ],
-      "albumCount": 18,
+      "albumCount": 22,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis-raumkadett.json",
-      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
+      "seriesUpdatedAt": "2026-06-01T05:07:53Z",
+      "franchise": "Mark Brandis",
+      "subSeriesOf": "mark-brandis"
     },
     {
       "id": "mark-brandis",
@@ -132,10 +139,11 @@
         "Hörspiel",
         "Science-Fiction"
       ],
-      "albumCount": 32,
+      "albumCount": 28,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/a7/41/78a74140-fcf4-a199-862f-123f051d4f96/4057664072689.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis.json",
-      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
+      "seriesUpdatedAt": "2026-06-01T05:07:53Z",
+      "franchise": "Mark Brandis"
     },
     {
       "id": "star-wars-kino",
@@ -150,7 +158,9 @@
       "albumCount": 12,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/72/bb/83/72bb83d6-c16b-fde0-ebfd-9bc7f4adc91e/4064066834982_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-kino.json",
-      "seriesUpdatedAt": "2026-05-31T16:51:57Z"
+      "seriesUpdatedAt": "2026-05-31T16:51:57Z",
+      "franchise": "Star Wars",
+      "subSeriesOf": "star-wars"
     },
     {
       "id": "star-wars-dark-lord",
@@ -165,7 +175,9 @@
       "albumCount": 4,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ec/c9/6aecc9f3-d5af-4f81-51eb-4b8690e9918c/4057664075192.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-dark-lord.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z",
+      "franchise": "Star Wars",
+      "subSeriesOf": "star-wars"
     },
     {
       "id": "star-wars-labyrinth",
@@ -180,7 +192,9 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/e0/19/2be01972-44c9-ce56-d83e-7b4e9bad9a64/4057664074942.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-labyrinth.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z",
+      "franchise": "Star Wars",
+      "subSeriesOf": "star-wars"
     },
     {
       "id": "star-wars-rebels",
@@ -196,7 +210,9 @@
       "albumCount": 19,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-rebels.json",
-      "seriesUpdatedAt": "2026-05-31T17:13:40Z"
+      "seriesUpdatedAt": "2026-05-31T17:13:40Z",
+      "franchise": "Star Wars",
+      "subSeriesOf": "star-wars"
     },
     {
       "id": "star-wars-junge-jedi",
@@ -211,7 +227,9 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/30/0a/d5300a84-983b-2c76-ebbd-df1e8b855924/4066339750777.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-junge-jedi.json",
-      "seriesUpdatedAt": "2026-05-31T16:41:37Z"
+      "seriesUpdatedAt": "2026-05-31T16:41:37Z",
+      "franchise": "Star Wars",
+      "subSeriesOf": "star-wars"
     },
     {
       "id": "torsten-straeter",
@@ -538,7 +556,9 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/cf/78/75cf78fe-42a3-ec32-143a-d5b1d70a94e9/886447325193.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg-junior-investigators.json",
-      "seriesUpdatedAt": "2026-05-31T19:39:09Z"
+      "seriesUpdatedAt": "2026-05-31T19:39:09Z",
+      "franchise": "TKKG",
+      "subSeriesOf": "tkkg"
     }
   ]
 }
