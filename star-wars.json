@@ -15,6 +15,11 @@
       "slug": "roman-hoerspiele"
     },
     {
+      "id": 4,
+      "name": "Star Wars",
+      "slug": "star-wars-star-wars"
+    },
+    {
       "id": 2,
       "name": "TV-Serien",
       "slug": "tv-serien"
