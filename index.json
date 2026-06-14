@@ -33,7 +33,7 @@
     {
       "name": "Krimis von der Küste",
       "slug": "krimis-von-der-kueste",
-      "episode_count": 51,
+      "episode_count": 50,
       "sub_franchise_count": 0
     },
     {
@@ -254,5 +254,5 @@
     }
   ],
   "total_franchises": 42,
-  "total_episodes": 2888
+  "total_episodes": 2887
 }
