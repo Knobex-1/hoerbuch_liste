@@ -1,0 +1,41 @@
+{
+  "name": "Kinder Kurzgeschichten, Kinder Hörbuch & Kinder Schlafgeschichten",
+  "slug": "kinder-kurzgeschichten,-kinder-hoerbuch-&-kinder-schlafgeschichten",
+  "description": "",
+  "cover_url": "",
+  "sub_franchises": [],
+  "episodes": [
+    {
+      "id": "kind-leou-1083",
+      "title": "Leo und der magische Regenbogenstein - Single",
+      "author": "Kinder Kurzgeschichten, Kinder Hörbuch & Kinder Schlafgeschichten",
+      "episode_number": null,
+      "genres": [
+        "Kinder & Jugend"
+      ],
+      "chapters": [
+        {
+          "id": "kind-leou-1083-t01",
+          "title": "Leo und der magische Regenbogenstein",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 331.457
+        }
+      ],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/be/8d/b9be8dda-eb1a-cd14-9d0a-0c7c3ae54b08/423195.jpg/100x100bb.jpg",
+      "apple_music_id": 1770801083,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742178",
+      "extra": {
+        "description": "Ein Album für Kinder mit Geschichten über Leo und einen magischen Regenbogenstein.",
+        "total_duration": 331.457,
+        "platforms": {
+          "appleMusic": "1770801083"
+        }
+      }
+    }
+  ],
+  "episode_count": 1
+}

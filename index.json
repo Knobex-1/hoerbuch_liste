@@ -1,0 +1,258 @@
+{
+  "franchises": [
+    {
+      "name": "Die drei ???",
+      "slug": "die-drei-???",
+      "episode_count": 444,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "TKKG",
+      "slug": "tkkg",
+      "episode_count": 281,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Bibi Blocksberg",
+      "slug": "bibi-blocksberg",
+      "episode_count": 234,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Sherlock Holmes",
+      "slug": "sherlock-holmes",
+      "episode_count": 77,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Fünf Freunde",
+      "slug": "fuenf-freunde",
+      "episode_count": 193,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Krimis von der Küste",
+      "slug": "krimis-von-der-kueste",
+      "episode_count": 51,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Mark Brandis",
+      "slug": "mark-brandis",
+      "episode_count": 45,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Star Wars",
+      "slug": "star-wars",
+      "episode_count": 41,
+      "sub_franchise_count": 3
+    },
+    {
+      "name": "Marco Göllner",
+      "slug": "marco-goellner",
+      "episode_count": 5,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "John Sinclair, Tonstudio Braun, Folge",
+      "slug": "john-sinclair,-tonstudio-braun,-folge",
+      "episode_count": 0,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Kampfmagischer Farmer",
+      "slug": "kampfmagischer-farmer",
+      "episode_count": 0,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Raumstation Alpha-Base",
+      "slug": "raumstation-alpha-base",
+      "episode_count": 0,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Die großen Meister des Horrors",
+      "slug": "die-grossen-meister-des-horrors",
+      "episode_count": 0,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Per Anhalter durch die Galaxis",
+      "slug": "per-anhalter-durch-die-galaxis",
+      "episode_count": 0,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Alfred Hitchcock präsentiert",
+      "slug": "alfred-hitchcock-praesentiert",
+      "episode_count": 3,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Planet Eden",
+      "slug": "planet-eden",
+      "episode_count": 50,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Zoomania",
+      "slug": "zoomania",
+      "episode_count": 3,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Bibi und Tina",
+      "slug": "bibi-und-tina",
+      "episode_count": 181,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Die Eiskönigin",
+      "slug": "die-eiskoenigin",
+      "episode_count": 20,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Spidey Hörspiel",
+      "slug": "spidey-hoerspiel",
+      "episode_count": 2,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Torsten Sträter",
+      "slug": "torsten-straeter",
+      "episode_count": 23,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Kinder Kurzgeschichten, Kinder Hörbuch & Kinder Schlafgeschichten",
+      "slug": "kinder-kurzgeschichten,-kinder-hoerbuch-&-kinder-schlafgeschichten",
+      "episode_count": 1,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Hörbuch Manufaktur an der Elbe",
+      "slug": "hoerbuch-manufaktur-an-der-elbe",
+      "episode_count": 9,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Conni",
+      "slug": "conni",
+      "episode_count": 101,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Meine Freundin Conni",
+      "slug": "meine-freundin-conni",
+      "episode_count": 2,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Benjamin Blümchen",
+      "slug": "benjamin-bluemchen",
+      "episode_count": 199,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Sherlock Holmes - Die neuen Fälle",
+      "slug": "sherlock-holmes---die-neuen-faelle",
+      "episode_count": 0,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Alea Aquarius & Tanya Stewner",
+      "slug": "alea-aquarius-&-tanya-stewner",
+      "episode_count": 7,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Pettersson und Findus",
+      "slug": "pettersson-und-findus",
+      "episode_count": 45,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Die Playmos",
+      "slug": "die-playmos",
+      "episode_count": 129,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Robin Hood - Schlitzohr von Sherwood",
+      "slug": "robin-hood---schlitzohr-von-sherwood",
+      "episode_count": 39,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Miraculous",
+      "slug": "miraculous",
+      "episode_count": 77,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Yakari",
+      "slug": "yakari",
+      "episode_count": 39,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Patrick Lynen",
+      "slug": "patrick-lynen",
+      "episode_count": 50,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Traumreisen für Erwachsene und Kinder",
+      "slug": "traumreisen-fuer-erwachsene-und-kinder",
+      "episode_count": 20,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Traumreisen für Kinder und Erwachsene",
+      "slug": "traumreisen-fuer-kinder-und-erwachsene",
+      "episode_count": 0,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+      "slug": "michelle-madow,-fantasy-hoerbuecher-&-hoerbuch-bestseller",
+      "episode_count": 0,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Kai Magnus Sting",
+      "slug": "kai-magnus-sting",
+      "episode_count": 46,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Folge",
+      "slug": "folge",
+      "episode_count": 1,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Jason Dark & John Sinclair",
+      "slug": "jason-dark-&-john-sinclair",
+      "episode_count": 2,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "John Sinclair",
+      "slug": "john-sinclair",
+      "episode_count": 193,
+      "sub_franchise_count": 0
+    },
+    {
+      "name": "Weitere Titel",
+      "slug": "weitere-titel",
+      "episode_count": 275,
+      "sub_franchise_count": 0
+    }
+  ],
+  "total_franchises": 42,
+  "total_episodes": 2888
+}

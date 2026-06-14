@@ -1,0 +1,438 @@
+{
+  "name": "Meine Freundin Conni",
+  "slug": "meine-freundin-conni",
+  "description": "",
+  "cover_url": "",
+  "sub_franchises": [],
+  "episodes": [
+    {
+      "id": "mein-mein-5592",
+      "title": "Meine Freundin Conni - Hörspielbox, Vol. 1",
+      "author": "Meine Freundin Conni",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend"
+      ],
+      "chapters": [
+        {
+          "id": "mein-mein-5592-t01",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 37.747
+        },
+        {
+          "id": "mein-mein-5592-t02",
+          "title": "Conni zieht um - Teil 1",
+          "index": 1,
+          "startTime": 37.747,
+          "duration": 375.853
+        },
+        {
+          "id": "mein-mein-5592-t03",
+          "title": "Conni zieht um - Teil 2",
+          "index": 2,
+          "startTime": 413.6,
+          "duration": 438.213
+        },
+        {
+          "id": "mein-mein-5592-t04",
+          "title": "Conni bekommt eine Katze - Teil 1",
+          "index": 3,
+          "startTime": 851.813,
+          "duration": 347.787
+        },
+        {
+          "id": "mein-mein-5592-t05",
+          "title": "Conni bekommt eine Katze - Teil 2",
+          "index": 4,
+          "startTime": 1199.6,
+          "duration": 397.733
+        },
+        {
+          "id": "mein-mein-5592-t06",
+          "title": "Conni macht das Seepferdchen - Teil 1",
+          "index": 5,
+          "startTime": 1597.333,
+          "duration": 312.453
+        },
+        {
+          "id": "mein-mein-5592-t07",
+          "title": "Conni macht das Seepferdchen - Teil 2",
+          "index": 6,
+          "startTime": 1909.786,
+          "duration": 371.467
+        },
+        {
+          "id": "mein-mein-5592-t08",
+          "title": "Conni geht zelten - Teil 1",
+          "index": 7,
+          "startTime": 2281.253,
+          "duration": 423.253
+        },
+        {
+          "id": "mein-mein-5592-t09",
+          "title": "Conni geht zelten - Teil 2",
+          "index": 8,
+          "startTime": 2704.506,
+          "duration": 321.093
+        },
+        {
+          "id": "mein-mein-5592-t10",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 9,
+          "startTime": 3025.599,
+          "duration": 37.893
+        },
+        {
+          "id": "mein-mein-5592-t11",
+          "title": "Conni auf dem Bauernhof - Teil 1",
+          "index": 10,
+          "startTime": 3063.492,
+          "duration": 405.613
+        },
+        {
+          "id": "mein-mein-5592-t12",
+          "title": "Conni auf dem Bauernhof - Teil 2",
+          "index": 11,
+          "startTime": 3469.105,
+          "duration": 374.387
+        },
+        {
+          "id": "mein-mein-5592-t13",
+          "title": "Conni schläft im Kindergarten - Teil 1",
+          "index": 12,
+          "startTime": 3843.492,
+          "duration": 331.813
+        },
+        {
+          "id": "mein-mein-5592-t14",
+          "title": "Conni schläft im Kindergarten - Teil 2",
+          "index": 13,
+          "startTime": 4175.305,
+          "duration": 388.76
+        },
+        {
+          "id": "mein-mein-5592-t15",
+          "title": "Conni geht zum Zahnarzt - Teil 1",
+          "index": 14,
+          "startTime": 4564.065,
+          "duration": 394.187
+        },
+        {
+          "id": "mein-mein-5592-t16",
+          "title": "Conni geht zum Zahnarzt - Teil 2",
+          "index": 15,
+          "startTime": 4958.252,
+          "duration": 381.76
+        },
+        {
+          "id": "mein-mein-5592-t17",
+          "title": "Connis erster Flug - Teil 1",
+          "index": 16,
+          "startTime": 5340.012,
+          "duration": 385.133
+        },
+        {
+          "id": "mein-mein-5592-t18",
+          "title": "Connis erster Flug - Teil 2",
+          "index": 17,
+          "startTime": 5725.145,
+          "duration": 358.0
+        },
+        {
+          "id": "mein-mein-5592-t19",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 18,
+          "startTime": 6083.145,
+          "duration": 39.28
+        },
+        {
+          "id": "mein-mein-5592-t20",
+          "title": "Conni tanzt - Teil 1",
+          "index": 19,
+          "startTime": 6122.425,
+          "duration": 386.707
+        },
+        {
+          "id": "mein-mein-5592-t21",
+          "title": "Conni tanzt - Teil 2",
+          "index": 20,
+          "startTime": 6509.132,
+          "duration": 356.667
+        },
+        {
+          "id": "mein-mein-5592-t22",
+          "title": "Conni lernt die Uhrzeit - Teil 1",
+          "index": 21,
+          "startTime": 6865.799,
+          "duration": 336.667
+        },
+        {
+          "id": "mein-mein-5592-t23",
+          "title": "Conni lernt die Uhrzeit - Teil 2",
+          "index": 22,
+          "startTime": 7202.466,
+          "duration": 359.973
+        },
+        {
+          "id": "mein-mein-5592-t24",
+          "title": "Conni lernt Rad fahren - Teil 1",
+          "index": 23,
+          "startTime": 7562.439,
+          "duration": 392.853
+        },
+        {
+          "id": "mein-mein-5592-t25",
+          "title": "Conni lernt Rad fahren - Teil 2",
+          "index": 24,
+          "startTime": 7955.292,
+          "duration": 358.64
+        },
+        {
+          "id": "mein-mein-5592-t26",
+          "title": "Conni lernt backen - Teil 1",
+          "index": 25,
+          "startTime": 8313.932,
+          "duration": 323.747
+        },
+        {
+          "id": "mein-mein-5592-t27",
+          "title": "Conni lernt backen - Teil 2",
+          "index": 26,
+          "startTime": 8637.679,
+          "duration": 336.427
+        }
+      ],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/10/84/b9/1084b9e7-0976-b717-cf3a-3c8e526320a7/16UMGIM04029.rgb.jpg/100x100bb.jpg",
+      "apple_music_id": 1453155592,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742286",
+      "extra": {
+        "description": "Ein Album, das Hörspiele umfasst, ist typischerweise ein deutsches Hörspiel oder Hörbuch, das auf Plattformen wie Apple Music verfügbar ist.",
+        "total_duration": 8974.106,
+        "platforms": {
+          "appleMusic": "1453155592"
+        }
+      }
+    },
+    {
+      "id": "mein-mein-4452",
+      "title": "Meine Freundin Conni - Hörspielbox, Vol. 2",
+      "author": "Meine Freundin Conni",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend"
+      ],
+      "chapters": [
+        {
+          "id": "mein-mein-4452-t01",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 37.653
+        },
+        {
+          "id": "mein-mein-4452-t02",
+          "title": "Conni hat Geburtstag - Teil 1",
+          "index": 1,
+          "startTime": 37.653,
+          "duration": 353.773
+        },
+        {
+          "id": "mein-mein-4452-t03",
+          "title": "Conni hat Geburtstag - Teil 2",
+          "index": 2,
+          "startTime": 391.426,
+          "duration": 380.8
+        },
+        {
+          "id": "mein-mein-4452-t04",
+          "title": "Conni backt Pizza - Teil 1",
+          "index": 3,
+          "startTime": 772.226,
+          "duration": 371.867
+        },
+        {
+          "id": "mein-mein-4452-t05",
+          "title": "Conni backt Pizza - Teil 2",
+          "index": 4,
+          "startTime": 1144.093,
+          "duration": 392.68
+        },
+        {
+          "id": "mein-mein-4452-t06",
+          "title": "Conni geht in den Zoo - Teil 1",
+          "index": 5,
+          "startTime": 1536.773,
+          "duration": 336.587
+        },
+        {
+          "id": "mein-mein-4452-t07",
+          "title": "Conni geht in den Zoo - Teil 2",
+          "index": 6,
+          "startTime": 1873.36,
+          "duration": 484.467
+        },
+        {
+          "id": "mein-mein-4452-t08",
+          "title": "Conni geht verloren - Teil 1",
+          "index": 7,
+          "startTime": 2357.827,
+          "duration": 326.547
+        },
+        {
+          "id": "mein-mein-4452-t09",
+          "title": "Conni geht verloren - Teil 2",
+          "index": 8,
+          "startTime": 2684.374,
+          "duration": 335.213
+        },
+        {
+          "id": "mein-mein-4452-t10",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 9,
+          "startTime": 3019.587,
+          "duration": 38.48
+        },
+        {
+          "id": "mein-mein-4452-t11",
+          "title": "Conni fährt Ski - Teil 1",
+          "index": 10,
+          "startTime": 3058.067,
+          "duration": 400.893
+        },
+        {
+          "id": "mein-mein-4452-t12",
+          "title": "Conni fährt Ski - Teil 2",
+          "index": 11,
+          "startTime": 3458.96,
+          "duration": 364.173
+        },
+        {
+          "id": "mein-mein-4452-t13",
+          "title": "Conni und der Osterhase - Teil 1",
+          "index": 12,
+          "startTime": 3823.133,
+          "duration": 350.427
+        },
+        {
+          "id": "mein-mein-4452-t14",
+          "title": "Conni und der Osterhase - Teil 2",
+          "index": 13,
+          "startTime": 4173.56,
+          "duration": 374.76
+        },
+        {
+          "id": "mein-mein-4452-t15",
+          "title": "Conni geht zum Kinderarzt - Teil 1",
+          "index": 14,
+          "startTime": 4548.32,
+          "duration": 365.773
+        },
+        {
+          "id": "mein-mein-4452-t16",
+          "title": "Conni geht zum Kinderarzt - Teil 2",
+          "index": 15,
+          "startTime": 4914.093,
+          "duration": 365.053
+        },
+        {
+          "id": "mein-mein-4452-t17",
+          "title": "Conni spielt Fußball - Teil 1",
+          "index": 16,
+          "startTime": 5279.146,
+          "duration": 331.453
+        },
+        {
+          "id": "mein-mein-4452-t18",
+          "title": "Conni spielt Fußball - Teil 2",
+          "index": 17,
+          "startTime": 5610.599,
+          "duration": 393.627
+        },
+        {
+          "id": "mein-mein-4452-t19",
+          "title": "Intro Theme Song \"Meine Freundin Conni\"",
+          "index": 18,
+          "startTime": 6004.226,
+          "duration": 38.053
+        },
+        {
+          "id": "mein-mein-4452-t20",
+          "title": "Conni lernt reiten - Teil 1",
+          "index": 19,
+          "startTime": 6042.279,
+          "duration": 336.907
+        },
+        {
+          "id": "mein-mein-4452-t21",
+          "title": "Conni lernt reiten - Teil 2",
+          "index": 20,
+          "startTime": 6379.186,
+          "duration": 445.8
+        },
+        {
+          "id": "mein-mein-4452-t22",
+          "title": "Conni am Strand - Teil 1",
+          "index": 21,
+          "startTime": 6824.986,
+          "duration": 457.933
+        },
+        {
+          "id": "mein-mein-4452-t23",
+          "title": "Conni am Strand - Teil 2",
+          "index": 22,
+          "startTime": 7282.919,
+          "duration": 408.733
+        },
+        {
+          "id": "mein-mein-4452-t24",
+          "title": "Conni in den Bergen - Teil 1",
+          "index": 23,
+          "startTime": 7691.652,
+          "duration": 372.52
+        },
+        {
+          "id": "mein-mein-4452-t25",
+          "title": "Conni in den Bergen - Teil 2",
+          "index": 24,
+          "startTime": 8064.172,
+          "duration": 427.8
+        },
+        {
+          "id": "mein-mein-4452-t26",
+          "title": "Conni macht Musik - Teil 1",
+          "index": 25,
+          "startTime": 8491.972,
+          "duration": 333.027
+        },
+        {
+          "id": "mein-mein-4452-t27",
+          "title": "Conni macht Musik - Teil 2",
+          "index": 26,
+          "startTime": 8824.999,
+          "duration": 392.88
+        }
+      ],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/20/fb/8c/20fb8c3d-b29d-517d-dbbe-e469666acf98/17UMGIM79739.rgb.jpg/100x100bb.jpg",
+      "apple_music_id": 1453154452,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742285",
+      "extra": {
+        "description": "Dieses Album ist eine Hörspielbox, die das Hörspiel 'Meine Freundin Conni' umfasst. Es bietet insgesamt 27 Hörspiele in diesem Format.",
+        "total_duration": 9217.879,
+        "platforms": {
+          "appleMusic": "1453154452"
+        }
+      }
+    }
+  ],
+  "episode_count": 2
+}

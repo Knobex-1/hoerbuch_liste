@@ -1,0 +1,138 @@
+{
+  "name": "Marco Göllner",
+  "slug": "marco-goellner",
+  "description": "",
+  "cover_url": "",
+  "sub_franchises": [],
+  "episodes": [
+    {
+      "id": "katj-diem-2251",
+      "title": "Die Mutprobe, Ein echter Krimi, Der geteilte Wald (Hörspiele zur TV Serie 16)",
+      "author": "Katja Grübel, Peter Weis & Der kleine Rabe Socke",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Krimi",
+        "Horror",
+        "Thriller",
+        "Dark Fantasy"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/3c/f9/043cf95a-8152-ae45-67b2-5d04f4dd6d36/4066338226761_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1582042251,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.741518",
+      "extra": {
+        "description": "Dieses Album besteht aus Hörspielen, die zu einer TV-Serie gehören und von bekannten deutschen Stimmen wie Katja Grübel und Peter Weis gelesen werden.",
+        "narrator": "Katja Grübel, Peter Weis oder Unbekannt",
+        "platforms": {
+          "appleMusic": "1582042251"
+        }
+      }
+    },
+    {
+      "id": "katj-hrge-8608",
+      "title": "Hörgespinste 06 - Suicide",
+      "author": "Marco Göllner",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Horror",
+        "Thriller",
+        "Dark Fantasy"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/13/7a/e5/137ae594-1cb1-8fe8-5602-41e2ec4b1824/4064066048228_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1488118608,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.741335",
+      "extra": {
+        "description": "Ein Album von Hörspielen, das auf Apple Music verfügbar ist.",
+        "platforms": {
+          "appleMusic": "1488118608"
+        }
+      }
+    },
+    {
+      "id": "katj-hrge-4540",
+      "title": "Hörgespinste 1 - Klirrende Kälte",
+      "author": "Marco Göllner",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Horror",
+        "Thriller",
+        "Dark Fantasy"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8e/90/2d/8e902daf-1c7c-0247-230e-1cc666d55dc7/4064066043889_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1487234540,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.741341",
+      "extra": {
+        "description": "Dieses Album umfasst 29 Hörspiel-Tracks, die dem Genre Hörspiel zugeordnet sind. Es ist Teil einer Serie mit dem Titel 'Hörgespinste' und bietet ein spannendes Erlebnis für Hörer.",
+        "platforms": {
+          "appleMusic": "1487234540"
+        }
+      }
+    },
+    {
+      "id": "katj-kass-7786",
+      "title": "Kassandras Kinder 03 - Die verwahrloste Wohnung",
+      "author": "Marco Göllner",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Horror",
+        "Thriller",
+        "Dark Fantasy"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bd/80/df/bd80df69-cca0-1479-eacd-872c09b708af/4064066048266_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1488087786,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.741340",
+      "extra": {
+        "description": "Ein Hörspielalbum über 'Kassandras Kinder 03 - Die verwahrloste Wohnung' mit Katja Behnke, Marco Göllner & Andreas Ulrich.",
+        "narrator": "Katja Behnke, Marco Göllner & Andreas Ulrich",
+        "platforms": {
+          "appleMusic": "1488087786"
+        }
+      }
+    },
+    {
+      "id": "katj-scha-4136",
+      "title": "Schattensaiten 6 - Tal der Wiederkehr",
+      "author": "Marco Göllner",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Horror",
+        "Thriller",
+        "Dark Fantasy"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cd/46/17/cd46176a-8d47-aed8-4642-ccca6e82f9f9/4064066043865_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1487234136,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.741336",
+      "extra": {
+        "description": "Dieses Album enthält Hörspiele, die in deutscher Sprache produziert wurden.",
+        "platforms": {
+          "appleMusic": "1487234136"
+        }
+      }
+    }
+  ],
+  "episode_count": 5
+}

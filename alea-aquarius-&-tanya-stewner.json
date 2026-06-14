@@ -1,0 +1,876 @@
+{
+  "name": "Alea Aquarius & Tanya Stewner",
+  "slug": "alea-aquarius-&-tanya-stewner",
+  "description": "",
+  "cover_url": "",
+  "sub_franchises": [],
+  "episodes": [
+    {
+      "id": "alea-alea-7832",
+      "title": "Alea Aquarius - Das Hörspiel. Folge 1: Die Alpha Cru",
+      "author": "Alea Aquarius & Tanya Stewner",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/f7/7e/a3f77e05-f8b0-8226-1dc1-ba108057b476/4069828735699_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1831977832,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742562",
+      "extra": {
+        "description": "Ein Hörspielalbum, das sich auf eine Episode einer Serie konzentriert, typisch für deutsche Hörspiele.",
+        "platforms": {
+          "appleMusic": "1831977832"
+        }
+      }
+    },
+    {
+      "id": "alea-alea-3577",
+      "title": "Alea Aquarius (Das Hörspiel) [Folge 2: Lennox Scorpio]",
+      "author": "Alea Aquarius & Tanya Stewner",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/f5/a4/26f5a4a0-6725-398a-2904-72a7fe5008e0/4069829067355_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1848883577,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742563",
+      "extra": {
+        "description": "Ein Album, das sich auf Hörspiele spezialisiert und spezifische Titel wie 'Alea Aquarius (Das Hörspiel)' verwendet.",
+        "platforms": {
+          "appleMusic": "1848883577"
+        }
+      }
+    },
+    {
+      "id": "alea-alea-4170",
+      "title": "Alea Aquarius - Das Hörspiel. Folge 2: Lennox Scorpio",
+      "author": "Alea Aquarius & Tanya Stewner",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "chapters": [
+        {
+          "id": "alea-alea-4170-t01",
+          "title": "Prolog: Lennox Scorpio (Folge 02)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 43.792
+        },
+        {
+          "id": "alea-alea-4170-t02",
+          "title": "Wenn das Wasser ruft (Titelsong)",
+          "index": 1,
+          "startTime": 43.792,
+          "duration": 82.635
+        },
+        {
+          "id": "alea-alea-4170-t03",
+          "title": "Kapitel 01: Lennox Scorpio (Folge 02)",
+          "index": 2,
+          "startTime": 126.427,
+          "duration": 123.228
+        },
+        {
+          "id": "alea-alea-4170-t04",
+          "title": "Kapitel 02: Lennox Scorpio (Folge 02)",
+          "index": 3,
+          "startTime": 249.655,
+          "duration": 121.295
+        },
+        {
+          "id": "alea-alea-4170-t05",
+          "title": "Kapitel 03: Lennox Scorpio (Folge 02)",
+          "index": 4,
+          "startTime": 370.95,
+          "duration": 126.475
+        },
+        {
+          "id": "alea-alea-4170-t06",
+          "title": "Kapitel 04: Lennox Scorpio (Folge 02)",
+          "index": 5,
+          "startTime": 497.425,
+          "duration": 134.632
+        },
+        {
+          "id": "alea-alea-4170-t07",
+          "title": "Kapitel 05: Lennox Scorpio (Folge 02)",
+          "index": 6,
+          "startTime": 632.057,
+          "duration": 120.382
+        },
+        {
+          "id": "alea-alea-4170-t08",
+          "title": "Kapitel 06: Lennox Scorpio (Folge 02)",
+          "index": 7,
+          "startTime": 752.439,
+          "duration": 120.497
+        },
+        {
+          "id": "alea-alea-4170-t09",
+          "title": "Kapitel 07: Lennox Scorpio (Folge 02)",
+          "index": 8,
+          "startTime": 872.936,
+          "duration": 121.613
+        },
+        {
+          "id": "alea-alea-4170-t10",
+          "title": "Kapitel 08: Lennox Scorpio (Folge 02)",
+          "index": 9,
+          "startTime": 994.549,
+          "duration": 121.597
+        },
+        {
+          "id": "alea-alea-4170-t11",
+          "title": "Kapitel 09: Lennox Scorpio (Folge 02)",
+          "index": 10,
+          "startTime": 1116.146,
+          "duration": 126.04
+        },
+        {
+          "id": "alea-alea-4170-t12",
+          "title": "Kapitel 10: Lennox Scorpio (Folge 02)",
+          "index": 11,
+          "startTime": 1242.186,
+          "duration": 120.135
+        },
+        {
+          "id": "alea-alea-4170-t13",
+          "title": "Kapitel 11: Lennox Scorpio (Folge 02)",
+          "index": 12,
+          "startTime": 1362.321,
+          "duration": 121.194
+        },
+        {
+          "id": "alea-alea-4170-t14",
+          "title": "Kapitel 12: Lennox Scorpio (Folge 02)",
+          "index": 13,
+          "startTime": 1483.515,
+          "duration": 134.363
+        },
+        {
+          "id": "alea-alea-4170-t15",
+          "title": "Kapitel 13: Lennox Scorpio (Folge 02)",
+          "index": 14,
+          "startTime": 1617.878,
+          "duration": 120.767
+        },
+        {
+          "id": "alea-alea-4170-t16",
+          "title": "Kapitel 14: Lennox Scorpio (Folge 02)",
+          "index": 15,
+          "startTime": 1738.645,
+          "duration": 120.404
+        },
+        {
+          "id": "alea-alea-4170-t17",
+          "title": "Kapitel 15: Lennox Scorpio (Folge 02)",
+          "index": 16,
+          "startTime": 1859.049,
+          "duration": 120.317
+        },
+        {
+          "id": "alea-alea-4170-t18",
+          "title": "Kapitel 16: Lennox Scorpio (Folge 02)",
+          "index": 17,
+          "startTime": 1979.366,
+          "duration": 120.538
+        },
+        {
+          "id": "alea-alea-4170-t19",
+          "title": "Kapitel 17: Lennox Scorpio (Folge 02)",
+          "index": 18,
+          "startTime": 2099.904,
+          "duration": 120.475
+        },
+        {
+          "id": "alea-alea-4170-t20",
+          "title": "Kapitel 18: Lennox Scorpio (Folge 02)",
+          "index": 19,
+          "startTime": 2220.379,
+          "duration": 120.08
+        },
+        {
+          "id": "alea-alea-4170-t21",
+          "title": "Kapitel 19: Lennox Scorpio (Folge 02)",
+          "index": 20,
+          "startTime": 2340.459,
+          "duration": 122.459
+        },
+        {
+          "id": "alea-alea-4170-t22",
+          "title": "Kapitel 20: Lennox Scorpio (Folge 02)",
+          "index": 21,
+          "startTime": 2462.918,
+          "duration": 122.372
+        },
+        {
+          "id": "alea-alea-4170-t23",
+          "title": "Kapitel 21: Lennox Scorpio (Folge 02)",
+          "index": 22,
+          "startTime": 2585.29,
+          "duration": 120.886
+        },
+        {
+          "id": "alea-alea-4170-t24",
+          "title": "Kapitel 22: Lennox Scorpio (Folge 02)",
+          "index": 23,
+          "startTime": 2706.176,
+          "duration": 123.566
+        },
+        {
+          "id": "alea-alea-4170-t25",
+          "title": "Kapitel 23: Lennox Scorpio (Folge 02)",
+          "index": 24,
+          "startTime": 2829.742,
+          "duration": 121.795
+        },
+        {
+          "id": "alea-alea-4170-t26",
+          "title": "Kapitel 24: Lennox Scorpio (Folge 02)",
+          "index": 25,
+          "startTime": 2951.537,
+          "duration": 122.586
+        },
+        {
+          "id": "alea-alea-4170-t27",
+          "title": "Kapitel 25: Lennox Scorpio (Folge 02)",
+          "index": 26,
+          "startTime": 3074.123,
+          "duration": 122.254
+        },
+        {
+          "id": "alea-alea-4170-t28",
+          "title": "Kapitel 26: Lennox Scorpio (Folge 02)",
+          "index": 27,
+          "startTime": 3196.377,
+          "duration": 121.874
+        },
+        {
+          "id": "alea-alea-4170-t29",
+          "title": "Kapitel 27: Lennox Scorpio (Folge 02)",
+          "index": 28,
+          "startTime": 3318.251,
+          "duration": 123.882
+        },
+        {
+          "id": "alea-alea-4170-t30",
+          "title": "Kapitel 28: Lennox Scorpio (Folge 02)",
+          "index": 29,
+          "startTime": 3442.133,
+          "duration": 123.803
+        },
+        {
+          "id": "alea-alea-4170-t31",
+          "title": "Kapitel 29: Lennox Scorpio (Folge 02)",
+          "index": 30,
+          "startTime": 3565.936,
+          "duration": 123.645
+        },
+        {
+          "id": "alea-alea-4170-t32",
+          "title": "Kapitel 30: Lennox Scorpio (Folge 02)",
+          "index": 31,
+          "startTime": 3689.581,
+          "duration": 121.637
+        },
+        {
+          "id": "alea-alea-4170-t33",
+          "title": "Kapitel 31: Lennox Scorpio (Folge 02)",
+          "index": 32,
+          "startTime": 3811.218,
+          "duration": 124.261
+        },
+        {
+          "id": "alea-alea-4170-t34",
+          "title": "Kapitel 32: Lennox Scorpio (Folge 02)",
+          "index": 33,
+          "startTime": 3935.479,
+          "duration": 124.23
+        },
+        {
+          "id": "alea-alea-4170-t35",
+          "title": "Kapitel 33: Lennox Scorpio (Folge 02)",
+          "index": 34,
+          "startTime": 4059.709,
+          "duration": 121.036
+        },
+        {
+          "id": "alea-alea-4170-t36",
+          "title": "Kapitel 34: Lennox Scorpio (Folge 02)",
+          "index": 35,
+          "startTime": 4180.745,
+          "duration": 124.641
+        },
+        {
+          "id": "alea-alea-4170-t37",
+          "title": "Kapitel 35: Lennox Scorpio (Folge 02)",
+          "index": 36,
+          "startTime": 4305.386,
+          "duration": 120.214
+        },
+        {
+          "id": "alea-alea-4170-t38",
+          "title": "Kapitel 36: Lennox Scorpio (Folge 02)",
+          "index": 37,
+          "startTime": 4425.6,
+          "duration": 123.914
+        },
+        {
+          "id": "alea-alea-4170-t39",
+          "title": "Kapitel 37: Lennox Scorpio (Folge 02)",
+          "index": 38,
+          "startTime": 4549.514,
+          "duration": 123.25
+        },
+        {
+          "id": "alea-alea-4170-t40",
+          "title": "Kapitel 38: Lennox Scorpio (Folge 02)",
+          "index": 39,
+          "startTime": 4672.764,
+          "duration": 121.953
+        },
+        {
+          "id": "alea-alea-4170-t41",
+          "title": "Kapitel 39: Lennox Scorpio (Folge 02)",
+          "index": 40,
+          "startTime": 4794.717,
+          "duration": 122.317
+        },
+        {
+          "id": "alea-alea-4170-t42",
+          "title": "Kapitel 40: Lennox Scorpio (Folge 02)",
+          "index": 41,
+          "startTime": 4917.034,
+          "duration": 124.18
+        },
+        {
+          "id": "alea-alea-4170-t43",
+          "title": "Kapitel 41: Lennox Scorpio (Folge 02)",
+          "index": 42,
+          "startTime": 5041.214,
+          "duration": 123.012
+        },
+        {
+          "id": "alea-alea-4170-t44",
+          "title": "Kapitel 42: Lennox Scorpio (Folge 02)",
+          "index": 43,
+          "startTime": 5164.226,
+          "duration": 121.827
+        },
+        {
+          "id": "alea-alea-4170-t45",
+          "title": "Kapitel 43: Lennox Scorpio (Folge 02)",
+          "index": 44,
+          "startTime": 5286.053,
+          "duration": 122.759
+        },
+        {
+          "id": "alea-alea-4170-t46",
+          "title": "Kapitel 44: Lennox Scorpio (Folge 02)",
+          "index": 45,
+          "startTime": 5408.812,
+          "duration": 124.26
+        },
+        {
+          "id": "alea-alea-4170-t47",
+          "title": "Kapitel 45: Lennox Scorpio (Folge 02)",
+          "index": 46,
+          "startTime": 5533.072,
+          "duration": 122.728
+        },
+        {
+          "id": "alea-alea-4170-t48",
+          "title": "Kapitel 46: Lennox Scorpio (Folge 02)",
+          "index": 47,
+          "startTime": 5655.8,
+          "duration": 124.83
+        },
+        {
+          "id": "alea-alea-4170-t49",
+          "title": "Kapitel 47: Lennox Scorpio (Folge 02)",
+          "index": 48,
+          "startTime": 5780.63,
+          "duration": 121.21
+        },
+        {
+          "id": "alea-alea-4170-t50",
+          "title": "Kapitel 48: Lennox Scorpio (Folge 02)",
+          "index": 49,
+          "startTime": 5901.84,
+          "duration": 122.839
+        }
+      ],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/db/18/44db18ef-f643-dccc-93e2-e4c18417eeb7/4013575962921.jpg/100x100bb.jpg",
+      "apple_music_id": 1848884170,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742567",
+      "extra": {
+        "description": "Dieses Album ist ein Hörspiel-Album von Alea Aquarius und Tanya Stewner, das Teil einer Reihe ist. Es ist bekannt für kriminalistische Inhalte und bietet ein tiefgehenderes Erlebnis als typische Musikstücke.",
+        "total_duration": 6024.679,
+        "platforms": {
+          "appleMusic": "1848884170"
+        }
+      }
+    },
+    {
+      "id": "alea-alea-7634",
+      "title": "Alea Aquarius - Das Hörspiel. Folge 3: Tauchgang mit Folgen",
+      "author": "Alea Aquarius & Tanya Stewner",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/5d/19/e35d19d2-8dbf-b1d2-83e0-4dd920860e18/4069829240680_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1858687634,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742564",
+      "extra": {
+        "description": "Ein Hörspielalbum, das Teil einer Serie ist und Hörer in spannende Geschichten eintauchen lässt.",
+        "platforms": {
+          "appleMusic": "1858687634"
+        }
+      }
+    },
+    {
+      "id": "alea-alea-4810",
+      "title": "Alea Aquarius - Das Hörspiel. Folge 4: Der beschwerliche Weg nach Schottland",
+      "author": "Alea Aquarius & Tanya Stewner",
+      "episode_number": 4,
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/5a/11/3a5a11b6-6105-0af4-33a0-9e785ea13f2b/4069829509848_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1872724810,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742565",
+      "extra": {
+        "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Alea Aquarius - Das Hörspiel. Folge 4: Der beschwerliche Weg nach Schottland' von den Künstlern Alea Aquarius und Tanya Stewner. Es enthält 37 Tracks im Genre Hörspiel.",
+        "platforms": {
+          "appleMusic": "1872724810"
+        }
+      }
+    },
+    {
+      "id": "alea-alea-4862",
+      "title": "Alea Aquarius - Das Hörspiel. Folge 5: Die geheime Unterwasser-Kuppel",
+      "author": "Alea Aquarius & Tanya Stewner",
+      "episode_number": 5,
+      "genres": [
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Fantasy",
+        "Abenteuer"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/12/72/c5127287-df09-ddbd-73e6-997657b0ed69/4069829732864_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1888584862,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742566",
+      "extra": {
+        "description": "Dieses Album ist ein Hörspielalbum von Alea Aquarius mit Tanya Stewner, das sich auf Abenteuer und Geheimnisse im Unterwasser konzentriert.",
+        "platforms": {
+          "appleMusic": "1888584862"
+        }
+      }
+    },
+    {
+      "id": "6774641190",
+      "title": "Alea Aquarius - Das Hörspiel. Folge 6: Das verführerische Lied der Wale",
+      "author": "Alea Aquarius & Tanya Stewner",
+      "episode_number": 6,
+      "genres": [
+        "Hörspiel",
+        "Fantasy",
+        "Kinder & Jugend",
+        "Abenteuer"
+      ],
+      "chapters": [
+        {
+          "id": "6774641190-t01",
+          "title": "Prolog: Das verführerische Lied der Wale (Folge 06)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 59.953
+        },
+        {
+          "id": "6774641190-t02",
+          "title": "Wenn das Wasser ruft (Titelsong)",
+          "index": 1,
+          "startTime": 59.953,
+          "duration": 82.395
+        },
+        {
+          "id": "6774641190-t03",
+          "title": "Kapitel 01: Das verführerische Lied der Wale (Folge 06)",
+          "index": 2,
+          "startTime": 142.348,
+          "duration": 122.633
+        },
+        {
+          "id": "6774641190-t04",
+          "title": "Kapitel 02: Das verführerische Lied der Wale (Folge 06)",
+          "index": 3,
+          "startTime": 264.981,
+          "duration": 121.64
+        },
+        {
+          "id": "6774641190-t05",
+          "title": "Kapitel 03: Das verführerische Lied der Wale (Folge 06)",
+          "index": 4,
+          "startTime": 386.621,
+          "duration": 121.09
+        },
+        {
+          "id": "6774641190-t06",
+          "title": "Kapitel 04: Das verführerische Lied der Wale (Folge 06)",
+          "index": 5,
+          "startTime": 507.711,
+          "duration": 122.636
+        },
+        {
+          "id": "6774641190-t07",
+          "title": "Kapitel 05: Das verführerische Lied der Wale (Folge 06)",
+          "index": 6,
+          "startTime": 630.347,
+          "duration": 120.402
+        },
+        {
+          "id": "6774641190-t08",
+          "title": "Kapitel 06: Das verführerische Lied der Wale (Folge 06)",
+          "index": 7,
+          "startTime": 750.749,
+          "duration": 120.142
+        },
+        {
+          "id": "6774641190-t09",
+          "title": "Kapitel 07: Das verführerische Lied der Wale (Folge 06)",
+          "index": 8,
+          "startTime": 870.891,
+          "duration": 123.334
+        },
+        {
+          "id": "6774641190-t10",
+          "title": "Kapitel 08: Das verführerische Lied der Wale (Folge 06)",
+          "index": 9,
+          "startTime": 994.225,
+          "duration": 120.24
+        },
+        {
+          "id": "6774641190-t11",
+          "title": "Kapitel 09: Das verführerische Lied der Wale (Folge 06)",
+          "index": 10,
+          "startTime": 1114.465,
+          "duration": 120.97
+        },
+        {
+          "id": "6774641190-t12",
+          "title": "Kapitel 10: Das verführerische Lied der Wale (Folge 06)",
+          "index": 11,
+          "startTime": 1235.435,
+          "duration": 123.055
+        },
+        {
+          "id": "6774641190-t13",
+          "title": "Kapitel 11: Das verführerische Lied der Wale (Folge 06)",
+          "index": 12,
+          "startTime": 1358.49,
+          "duration": 120.669
+        },
+        {
+          "id": "6774641190-t14",
+          "title": "Kapitel 12: Das verführerische Lied der Wale (Folge 06)",
+          "index": 13,
+          "startTime": 1479.159,
+          "duration": 122.265
+        },
+        {
+          "id": "6774641190-t15",
+          "title": "Kapitel 13: Das verführerische Lied der Wale (Folge 06)",
+          "index": 14,
+          "startTime": 1601.424,
+          "duration": 120.804
+        },
+        {
+          "id": "6774641190-t16",
+          "title": "Kapitel 14: Das verführerische Lied der Wale (Folge 06)",
+          "index": 15,
+          "startTime": 1722.228,
+          "duration": 121.7
+        },
+        {
+          "id": "6774641190-t17",
+          "title": "Kapitel 15: Das verführerische Lied der Wale (Folge 06)",
+          "index": 16,
+          "startTime": 1843.928,
+          "duration": 133.895
+        },
+        {
+          "id": "6774641190-t18",
+          "title": "Kapitel 16: Das verführerische Lied der Wale (Folge 06)",
+          "index": 17,
+          "startTime": 1977.823,
+          "duration": 121.783
+        },
+        {
+          "id": "6774641190-t19",
+          "title": "Kapitel 17: Das verführerische Lied der Wale (Folge 06)",
+          "index": 18,
+          "startTime": 2099.606,
+          "duration": 120.458
+        },
+        {
+          "id": "6774641190-t20",
+          "title": "Kapitel 18: Das verführerische Lied der Wale (Folge 06)",
+          "index": 19,
+          "startTime": 2220.064,
+          "duration": 123.356
+        },
+        {
+          "id": "6774641190-t21",
+          "title": "Kapitel 19: Das verführerische Lied der Wale (Folge 06)",
+          "index": 20,
+          "startTime": 2343.42,
+          "duration": 121.565
+        },
+        {
+          "id": "6774641190-t22",
+          "title": "Kapitel 20: Das verführerische Lied der Wale (Folge 06)",
+          "index": 21,
+          "startTime": 2464.985,
+          "duration": 120.089
+        },
+        {
+          "id": "6774641190-t23",
+          "title": "Kapitel 21: Das verführerische Lied der Wale (Folge 06)",
+          "index": 22,
+          "startTime": 2585.074,
+          "duration": 120.202
+        },
+        {
+          "id": "6774641190-t24",
+          "title": "Kapitel 22: Das verführerische Lied der Wale (Folge 06)",
+          "index": 23,
+          "startTime": 2705.276,
+          "duration": 122.927
+        },
+        {
+          "id": "6774641190-t25",
+          "title": "Kapitel 23: Das verführerische Lied der Wale (Folge 06)",
+          "index": 24,
+          "startTime": 2828.203,
+          "duration": 120.146
+        },
+        {
+          "id": "6774641190-t26",
+          "title": "Kapitel 24: Das verführerische Lied der Wale (Folge 06)",
+          "index": 25,
+          "startTime": 2948.349,
+          "duration": 124.993
+        },
+        {
+          "id": "6774641190-t27",
+          "title": "Kapitel 25: Das verführerische Lied der Wale (Folge 06)",
+          "index": 26,
+          "startTime": 3073.342,
+          "duration": 120.473
+        },
+        {
+          "id": "6774641190-t28",
+          "title": "Kapitel 26: Das verführerische Lied der Wale (Folge 06)",
+          "index": 27,
+          "startTime": 3193.815,
+          "duration": 120.112
+        },
+        {
+          "id": "6774641190-t29",
+          "title": "Kapitel 27: Das verführerische Lied der Wale (Folge 06)",
+          "index": 28,
+          "startTime": 3313.927,
+          "duration": 121.105
+        },
+        {
+          "id": "6774641190-t30",
+          "title": "Kapitel 28: Das verführerische Lied der Wale (Folge 06)",
+          "index": 29,
+          "startTime": 3435.032,
+          "duration": 124.493
+        },
+        {
+          "id": "6774641190-t31",
+          "title": "Kapitel 29: Das verführerische Lied der Wale (Folge 06)",
+          "index": 30,
+          "startTime": 3559.525,
+          "duration": 120.669
+        },
+        {
+          "id": "6774641190-t32",
+          "title": "Kapitel 30: Das verführerische Lied der Wale (Folge 06)",
+          "index": 31,
+          "startTime": 3680.194,
+          "duration": 120.563
+        },
+        {
+          "id": "6774641190-t33",
+          "title": "Kapitel 31: Das verführerische Lied der Wale (Folge 06)",
+          "index": 32,
+          "startTime": 3800.757,
+          "duration": 126.668
+        },
+        {
+          "id": "6774641190-t34",
+          "title": "Kapitel 32: Das verführerische Lied der Wale (Folge 06)",
+          "index": 33,
+          "startTime": 3927.425,
+          "duration": 120.473
+        },
+        {
+          "id": "6774641190-t35",
+          "title": "Kapitel 33: Das verführerische Lied der Wale (Folge 06)",
+          "index": 34,
+          "startTime": 4047.898,
+          "duration": 120.45
+        },
+        {
+          "id": "6774641190-t36",
+          "title": "Kapitel 34: Das verführerische Lied der Wale (Folge 06)",
+          "index": 35,
+          "startTime": 4168.348,
+          "duration": 121.452
+        },
+        {
+          "id": "6774641190-t37",
+          "title": "Kapitel 35: Das verführerische Lied der Wale (Folge 06)",
+          "index": 36,
+          "startTime": 4289.8,
+          "duration": 120.232
+        },
+        {
+          "id": "6774641190-t38",
+          "title": "Kapitel 36: Das verführerische Lied der Wale (Folge 06)",
+          "index": 37,
+          "startTime": 4410.032,
+          "duration": 120.541
+        },
+        {
+          "id": "6774641190-t39",
+          "title": "Kapitel 37: Das verführerische Lied der Wale (Folge 06)",
+          "index": 38,
+          "startTime": 4530.573,
+          "duration": 120.292
+        },
+        {
+          "id": "6774641190-t40",
+          "title": "Kapitel 38: Das verführerische Lied der Wale (Folge 06)",
+          "index": 39,
+          "startTime": 4650.865,
+          "duration": 120.338
+        },
+        {
+          "id": "6774641190-t41",
+          "title": "Kapitel 39: Das verführerische Lied der Wale (Folge 06)",
+          "index": 40,
+          "startTime": 4771.203,
+          "duration": 120.97
+        },
+        {
+          "id": "6774641190-t42",
+          "title": "Kapitel 40: Das verführerische Lied der Wale (Folge 06)",
+          "index": 41,
+          "startTime": 4892.173,
+          "duration": 121.888
+        },
+        {
+          "id": "6774641190-t43",
+          "title": "Kapitel 41: Das verführerische Lied der Wale (Folge 06)",
+          "index": 42,
+          "startTime": 5014.061,
+          "duration": 120.435
+        },
+        {
+          "id": "6774641190-t44",
+          "title": "Kapitel 42: Das verführerische Lied der Wale (Folge 06)",
+          "index": 43,
+          "startTime": 5134.496,
+          "duration": 121.015
+        },
+        {
+          "id": "6774641190-t45",
+          "title": "Kapitel 43: Das verführerische Lied der Wale (Folge 06)",
+          "index": 44,
+          "startTime": 5255.511,
+          "duration": 120.157
+        },
+        {
+          "id": "6774641190-t46",
+          "title": "Kapitel 44: Das verführerische Lied der Wale (Folge 06)",
+          "index": 45,
+          "startTime": 5375.668,
+          "duration": 121.527
+        },
+        {
+          "id": "6774641190-t47",
+          "title": "Kapitel 45: Das verführerische Lied der Wale (Folge 06)",
+          "index": 46,
+          "startTime": 5497.195,
+          "duration": 208.8
+        },
+        {
+          "id": "6774641190-t48",
+          "title": "Credits: Das verführerische Lied der Wale (Folge 06)",
+          "index": 47,
+          "startTime": 5705.995,
+          "duration": 134.016
+        }
+      ],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/c3/91/06c391b2-f0ca-b5ca-4bc4-eeba6146c016/4061229419055.jpg/100x100bb.jpg",
+      "apple_music_id": 6774641190,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.743340",
+      "extra": {
+        "description": "In diesem sechsten Teil der Serie 'Alea Aquarius' wird die Geschichte fortgesetzt. Ein verführerisches Lied der Wale bringt Unruhe in das Leben der Protagonisten.",
+        "total_duration": 5840.011,
+        "release_date": "2026-06-19",
+        "platforms": {
+          "appleMusic": "6774641190"
+        }
+      }
+    }
+  ],
+  "episode_count": 7
+}

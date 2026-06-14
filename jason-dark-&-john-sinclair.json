@@ -1,0 +1,58 @@
+{
+  "name": "Jason Dark & John Sinclair",
+  "slug": "jason-dark-&-john-sinclair",
+  "description": "",
+  "cover_url": "",
+  "sub_franchises": [],
+  "episodes": [
+    {
+      "id": "309190980",
+      "title": "John Sinclair, Folge 36: Der Todesnebel",
+      "author": "Jason Dark & John Sinclair",
+      "episode_number": 36,
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/d0/c6/3f/mzi.bsqnfwzl.jpg/100x100bb.jpg",
+      "apple_music_id": 309190980,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.743341",
+      "extra": {
+        "description": "Ein Album im Genre Hörspiel mit dem Titel 'John Sinclair, Folge 36: Der Todesnebel', das von Jason Dark und John Sinclair produziert wurde.",
+        "release_date": "2006-06-02",
+        "platforms": {
+          "appleMusic": "309190980"
+        }
+      }
+    },
+    {
+      "id": "309572213",
+      "title": "John Sinclair, SE 02: Der Pfähler",
+      "author": "Jason Dark & John Sinclair",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Krimi"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/73/6d/d5736d4e-69c4-d4f4-50a0-8d9512b1abed/mzi.najazhnb.jpg/100x100bb.jpg",
+      "apple_music_id": 309572213,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.743342",
+      "extra": {
+        "description": "In diesem zweiten Teil der Serie 'John Sinclair' wird erneut die Figur des Privatdetektivs John Sinclair porträtiert, der in einem mysteriösen Fall ermittelt. Ein Pfähler ist ein wichtiger Hinweis auf den Mörder.",
+        "release_date": "2005-05-09",
+        "platforms": {
+          "appleMusic": "309572213"
+        }
+      }
+    }
+  ],
+  "episode_count": 2
+}
