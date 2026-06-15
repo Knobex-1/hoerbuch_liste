@@ -21,7 +21,7 @@
     {
       "name": "Sherlock Holmes",
       "slug": "sherlock-holmes",
-      "episode_count": 77,
+      "episode_count": 80,
       "sub_franchise_count": 0
     },
     {
@@ -153,7 +153,7 @@
     {
       "name": "Benjamin Blümchen",
       "slug": "benjamin-bluemchen",
-      "episode_count": 199,
+      "episode_count": 200,
       "sub_franchise_count": 0
     },
     {
@@ -249,7 +249,7 @@
     {
       "name": "Weitere Titel",
       "slug": "weitere-titel",
-      "episode_count": 275,
+      "episode_count": 271,
       "sub_franchise_count": 0
     }
   ],

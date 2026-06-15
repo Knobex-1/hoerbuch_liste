@@ -294,7 +294,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/33/c4/b833c454-b176-5f75-df19-bcc5da060d72/4066339395770.jpg/100x100bb.jpg",
       "apple_music_id": 1686045746,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741301",
       "extra": {
@@ -304,7 +304,8 @@
         "platforms": {
           "appleMusic": "1686045746"
         }
-      }
+      },
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-01di-7820",
@@ -623,7 +624,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/30/0a/d5300a84-983b-2c76-ebbd-df1e8b855924/4066339750777.jpg/100x100bb.jpg",
       "apple_music_id": 1686357820,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741294",
       "extra": {
@@ -634,7 +635,7 @@
           "appleMusic": "1686357820"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-01ge-8078",
@@ -764,7 +765,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/bf/92/82bf92d1-590a-d023-74dd-a27ec3683123/4066339690752.jpg/100x100bb.jpg",
       "apple_music_id": 1685928078,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741321",
       "extra": {
@@ -775,7 +776,7 @@
           "appleMusic": "1685928078"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-07ga-4525",
@@ -947,7 +948,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/11/f7/0911f7e1-8917-dbe3-bbe6-5d8bd23baa37/4066339690424.jpg/100x100bb.jpg",
       "apple_music_id": 1685924525,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741296",
       "extra": {
@@ -958,7 +959,7 @@
           "appleMusic": "1685924525"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-laby-7643",
@@ -1290,7 +1291,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2b/e0/19/2be01972-44c9-ce56-d83e-7b4e9bad9a64/4057664074942.jpg/100x100bb.jpg",
       "apple_music_id": 1686317643,
       "status": "active",
-      "sub_franchise_id": 3,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741280",
       "extra": {
@@ -1301,7 +1302,7 @@
           "appleMusic": "1686317643"
         }
       },
-      "sub_franchise": "Roman-Hörspiele"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-teil-5282",
@@ -1613,7 +1614,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ec/c9/6aecc9f3-d5af-4f81-51eb-4b8690e9918c/4057664075192.jpg/100x100bb.jpg",
       "apple_music_id": 1686055282,
       "status": "active",
-      "sub_franchise_id": 3,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741275",
       "extra": {
@@ -1624,7 +1625,7 @@
           "appleMusic": "1686055282"
         }
       },
-      "sub_franchise": "Roman-Hörspiele"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-02de-7606",
@@ -1761,7 +1762,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/9b/2d/229b2da1-9eab-4906-daf5-9c766ac315d1/4066339690776.jpg/100x100bb.jpg",
       "apple_music_id": 1685927606,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741325",
       "extra": {
@@ -1772,7 +1773,7 @@
           "appleMusic": "1685927606"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-02gu-4386",
@@ -2042,7 +2043,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/a0/5a/e7a05a4a-dbc8-202d-97c9-fce102ae5390/4066339750760.jpg/100x100bb.jpg",
       "apple_music_id": 1686364386,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741301",
       "extra": {
@@ -2053,7 +2054,7 @@
           "appleMusic": "1686364386"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-dark-6695",
@@ -2386,7 +2387,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/44/9e/b9449e88-ba93-d538-a7f5-c713b9658491/4057664075000.jpg/100x100bb.jpg",
       "apple_music_id": 1686316695,
       "status": "active",
-      "sub_franchise_id": 3,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741288",
       "extra": {
@@ -2397,7 +2398,7 @@
           "appleMusic": "1686316695"
         }
       },
-      "sub_franchise": "Roman-Hörspiele"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-folg-1283",
@@ -2751,7 +2752,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/03/a5/a203a5c2-ffeb-acda-4463-25f314c0d2b0/4057664075185.jpg/100x100bb.jpg",
       "apple_music_id": 1686061283,
       "status": "active",
-      "sub_franchise_id": 3,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741286",
       "extra": {
@@ -2762,7 +2763,7 @@
           "appleMusic": "1686061283"
         }
       },
-      "sub_franchise": "Roman-Hörspiele"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-03ve-1870",
@@ -2892,7 +2893,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/20/80/04/208004ba-b7d9-f2e4-d165-d9de5984e603/4066339689947.jpg/100x100bb.jpg",
       "apple_music_id": 1685931870,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741329",
       "extra": {
@@ -2903,7 +2904,7 @@
           "appleMusic": "1685931870"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-folg-4516",
@@ -3222,7 +3223,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/36/e2/9936e276-fa01-2adb-5cf6-9f8283718b6a/4057664075123.jpg/100x100bb.jpg",
       "apple_music_id": 1686064516,
       "status": "active",
-      "sub_franchise_id": 3,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741292",
       "extra": {
@@ -3233,7 +3234,7 @@
           "appleMusic": "1686064516"
         }
       },
-      "sub_franchise": "Roman-Hörspiele"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-teil-5714",
@@ -3594,7 +3595,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/15/13/7f/15137f15-7a18-30e5-ee25-7b04f22ee10a/4057664075116.jpg/100x100bb.jpg",
       "apple_music_id": 1686055714,
       "status": "active",
-      "sub_franchise_id": 3,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741291",
       "extra": {
@@ -3605,7 +3606,7 @@
           "appleMusic": "1686055714"
         }
       },
-      "sub_franchise": "Roman-Hörspiele"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-04mi-2083",
@@ -3749,7 +3750,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/f2/90/d1f2901e-68f3-7c54-2e52-7d5333955bba/4066339690547.jpg/100x100bb.jpg",
       "apple_music_id": 1685922083,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741326",
       "extra": {
@@ -3760,7 +3761,7 @@
           "appleMusic": "1685922083"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-folg-8178",
@@ -4072,7 +4073,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/25/c2/0625c2e9-26b3-49e9-1b22-efeac7042522/4057664075031.jpg/100x100bb.jpg",
       "apple_music_id": 1686318178,
       "status": "active",
-      "sub_franchise_id": 3,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741293",
       "extra": {
@@ -4083,7 +4084,7 @@
           "appleMusic": "1686318178"
         }
       },
-      "sub_franchise": "Roman-Hörspiele"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-05ei-6310",
@@ -4213,7 +4214,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bb/37/42/bb374216-d59d-a308-09bb-daad96ad68bc/4066339690349.jpg/100x100bb.jpg",
       "apple_music_id": 1685926310,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741333",
       "extra": {
@@ -4224,7 +4225,7 @@
           "appleMusic": "1685926310"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-06au-7736",
@@ -4368,7 +4369,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/b3/ee/52b3ee27-e5a6-f079-69ea-01767bcd5d29/4066339690578.jpg/100x100bb.jpg",
       "apple_music_id": 1685927736,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741327",
       "extra": {
@@ -4379,7 +4380,7 @@
           "appleMusic": "1685927736"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-08di-1533",
@@ -4523,7 +4524,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d1/4f/84/d14f8467-b1ef-ae41-45ad-52b41e59a305/4066339690431.jpg/100x100bb.jpg",
       "apple_music_id": 1685931533,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741295",
       "extra": {
@@ -4534,7 +4535,7 @@
           "appleMusic": "1685931533"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-09do-8890",
@@ -4670,7 +4671,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/82/72/5c82723f-f058-8481-8d8a-4100a89db709/4066339690769.jpg/100x100bb.jpg",
       "apple_music_id": 1685928890,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741332",
       "extra": {
@@ -4681,7 +4682,7 @@
           "appleMusic": "1685928890"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-10ei-8822",
@@ -4811,7 +4812,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/9b/71/289b7148-9c93-8758-d556-1394b6864dd6/4066339690660.jpg/100x100bb.jpg",
       "apple_music_id": 1685928822,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741299",
       "extra": {
@@ -4822,7 +4823,7 @@
           "appleMusic": "1685928822"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-11un-9845",
@@ -4959,7 +4960,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/ec/13/b9ec1324-b561-f855-1ae2-d3354deef719/4066339690615.jpg/100x100bb.jpg",
       "apple_music_id": 1685929845,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741298",
       "extra": {
@@ -4970,7 +4971,7 @@
           "appleMusic": "1685929845"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-12da-6594",
@@ -5100,7 +5101,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4c/fc/f3/4cfcf33d-1729-bf50-a89e-9b2a58039f9d/4066339690332.jpg/100x100bb.jpg",
       "apple_music_id": 1685926594,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741300",
       "extra": {
@@ -5111,7 +5112,7 @@
           "appleMusic": "1685926594"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-13de-9464",
@@ -5248,7 +5249,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/7d/54/1c7d5425-f37f-9b13-c129-9930a062c9ce/4066339690400.jpg/100x100bb.jpg",
       "apple_music_id": 1685939464,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741304",
       "extra": {
@@ -5259,7 +5260,7 @@
           "appleMusic": "1685939464"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-14di-7953",
@@ -5396,7 +5397,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/34/f9/4134f938-3b08-9057-ed56-2113ff45d882/4066339690790.jpg/100x100bb.jpg",
       "apple_music_id": 1685927953,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741304",
       "extra": {
@@ -5407,7 +5408,7 @@
           "appleMusic": "1685927953"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-15ei-5659",
@@ -5684,7 +5685,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/cf/42/a4cf42f8-9b01-984e-3fb8-4c3500841f1c/4066339690691.jpg/100x100bb.jpg",
       "apple_music_id": 1685975659,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741303",
       "extra": {
@@ -5695,7 +5696,7 @@
           "appleMusic": "1685975659"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-16de-0131",
@@ -5986,7 +5987,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/f2/56/6af25693-da77-2c20-b3f8-6894de695114/4066339690622.jpg/100x100bb.jpg",
       "apple_music_id": 1685930131,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741305",
       "extra": {
@@ -5997,7 +5998,7 @@
           "appleMusic": "1685930131"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-derf-7972",
@@ -6134,7 +6135,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/48/70/2748707c-9e54-115e-8393-02e585ac2cc7/4066339690516.jpg/100x100bb.jpg",
       "apple_music_id": 1685927972,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741313",
       "extra": {
@@ -6145,7 +6146,7 @@
           "appleMusic": "1685927972"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-rogu-5595",
@@ -6162,7 +6163,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/72/bb/83/72bb83d6-c16b-fde0-ebfd-9bc7f4adc91e/4064066834982_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685835595,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741289",
       "extra": {
@@ -6172,7 +6173,7 @@
           "appleMusic": "1685835595"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-solo-3941",
@@ -6189,7 +6190,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/da/ad/c6daad6c-a222-6fbc-fc69-09863aa5a98a/4064066834975_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685823941,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741287",
       "extra": {
@@ -6199,7 +6200,7 @@
           "appleMusic": "1685823941"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "wilc-star-3404",
@@ -6294,7 +6295,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3e/93/59/3e9359d0-d598-cc28-a19b-b634befb782f/196871169462.jpg/100x100bb.jpg",
       "apple_music_id": 1690693404,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741290",
       "extra": {
@@ -6305,7 +6306,7 @@
           "appleMusic": "1690693404"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "cele-star-6561",
@@ -6372,7 +6373,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/d8/97/f1d897ce-edfe-9d81-6f89-a8608a05f90f/198001712579.png/100x100bb.jpg",
       "apple_music_id": 1615526561,
       "status": "active",
-      "sub_franchise_id": 2,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741297",
       "extra": {
@@ -6383,7 +6384,7 @@
           "appleMusic": "1615526561"
         }
       },
-      "sub_franchise": "TV-Serien"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "john-star-0117",
@@ -6751,7 +6752,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/c6/7d/0d/mzi.uneltcdw.jpg/100x100bb.jpg",
       "apple_music_id": 458870117,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741334",
       "extra": {
@@ -6762,7 +6763,7 @@
           "appleMusic": "458870117"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-3076",
@@ -6779,7 +6780,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/fb/e6/44fbe6e4-602f-ee21-cf32-10318e6b2a3d/4064066834968_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685823076,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741277",
       "extra": {
@@ -6789,7 +6790,7 @@
           "appleMusic": "1685823076"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-4407",
@@ -6806,7 +6807,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/bb/f1/5bbbf10e-b5a5-dba4-ced9-82fcab7b29d4/4064066834944_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685824407,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741285",
       "extra": {
@@ -6816,7 +6817,7 @@
           "appleMusic": "1685824407"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-6235",
@@ -6833,7 +6834,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/d5/2b/dbd52b22-5c88-9584-3891-ebaf533ba390/4064066834937_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685826235,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741278",
       "extra": {
@@ -6843,7 +6844,7 @@
           "appleMusic": "1685826235"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-7448",
@@ -6860,7 +6861,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/31/8c/de318cc7-440b-a538-d28f-d5ec7f1bec8b/4064066834920_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685827448,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741279",
       "extra": {
@@ -6870,7 +6871,7 @@
           "appleMusic": "1685827448"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-4311",
@@ -6886,7 +6887,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/8c/dd/158cdd9b-66fd-9525-f1b1-8a9d207c76d6/4064066834951_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685824311,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741276",
       "extra": {
@@ -6896,7 +6897,7 @@
           "appleMusic": "1685824311"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-4894",
@@ -6913,7 +6914,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4f/e5/a7/4fe5a73a-68c4-a8ae-8f9b-bd8663654e38/4064066834913_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685824894,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741284",
       "extra": {
@@ -6923,7 +6924,7 @@
           "appleMusic": "1685824894"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-5628",
@@ -6940,7 +6941,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/9f/38/2a9f382b-783c-b5b3-72da-10350da5a77a/4064066834906_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685825628,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741273",
       "extra": {
@@ -6950,7 +6951,7 @@
           "appleMusic": "1685825628"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-5577",
@@ -6967,7 +6968,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/d4/2f/cdd42f8a-90a7-a495-aa6d-878eaf1755aa/4064066834890_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685825577,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741274",
       "extra": {
@@ -6977,7 +6978,7 @@
           "appleMusic": "1685825577"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     },
     {
       "id": "star-star-4507",
@@ -6994,7 +6995,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/37/ba/e437bab5-4629-a13f-84ff-5a4a19f607a5/4064066834883_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1685814507,
       "status": "active",
-      "sub_franchise_id": 1,
+      "sub_franchise_id": 4,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741272",
       "extra": {
@@ -7004,7 +7005,7 @@
           "appleMusic": "1685814507"
         }
       },
-      "sub_franchise": "Kinofilme"
+      "sub_franchise": "Star Wars"
     }
   ],
   "episode_count": 41
