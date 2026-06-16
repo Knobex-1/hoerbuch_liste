@@ -3,7 +3,18 @@
   "slug": "mark-brandis",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [],
+  "sub_franchises": [
+    {
+      "id": 6,
+      "name": "Mark Brandis",
+      "slug": "mark-brandis-mark-brandis"
+    },
+    {
+      "id": 5,
+      "name": "Mark Brandis Raumkadett",
+      "slug": "mark-brandis-raumkadett"
+    }
+  ],
   "episodes": [
     {
       "id": "mark-01au-9969",
@@ -635,7 +646,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
       "apple_music_id": 1686253520,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741227",
       "extra": {
@@ -645,7 +656,8 @@
         "platforms": {
           "appleMusic": "1686253520"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-02ve-5905",
@@ -1277,7 +1289,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/67/d5/4d67d5cd-4642-81a5-2515-b4e8647dca67/4057664072801.jpg/100x100bb.jpg",
       "apple_music_id": 1686267253,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741230",
       "extra": {
@@ -1287,7 +1299,8 @@
         "platforms": {
           "appleMusic": "1686267253"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-03ta-7126",
@@ -1906,7 +1919,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/a7/41/78a74140-fcf4-a199-862f-123f051d4f96/4057664072689.jpg/100x100bb.jpg",
       "apple_music_id": 1686251357,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741228",
       "extra": {
@@ -1916,7 +1929,8 @@
         "platforms": {
           "appleMusic": "1686251357"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-04au-2637",
@@ -2283,7 +2297,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/65/21/526521e2-151e-06d4-12f7-8245abd21d0b/4057664072504.jpg/100x100bb.jpg",
       "apple_music_id": 1686282637,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741231",
       "extra": {
@@ -2293,7 +2307,8 @@
         "platforms": {
           "appleMusic": "1686282637"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-04hi-3198",
@@ -3064,7 +3079,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4e/25/bf/4e25bf8e-429b-5277-e68b-694739f645c4/4057664072870.jpg/100x100bb.jpg",
       "apple_music_id": 1686266312,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741240",
       "extra": {
@@ -3074,7 +3089,8 @@
         "platforms": {
           "appleMusic": "1686266312"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-06te-2039",
@@ -3322,7 +3338,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/fb/57/f3fb57da-95a6-c186-3813-bf893fd0345c/4057664072658.jpg/100x100bb.jpg",
       "apple_music_id": 1686252039,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741257",
       "extra": {
@@ -3332,7 +3348,8 @@
         "platforms": {
           "appleMusic": "1686252039"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-06wo-5917",
@@ -4166,7 +4183,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/7b/a8/d47ba8a1-459a-9fe1-c496-344d4df83f8c/4057664072863.jpg/100x100bb.jpg",
       "apple_music_id": 1686257088,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741229",
       "extra": {
@@ -4176,7 +4193,8 @@
         "platforms": {
           "appleMusic": "1686257088"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-08mo-2025",
@@ -4787,7 +4805,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/22/8d/82228da6-bcd1-6f16-e70c-0402299332ec/4057664072412.jpg/100x100bb.jpg",
       "apple_music_id": 1686281732,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741237",
       "extra": {
@@ -4797,7 +4815,8 @@
         "platforms": {
           "appleMusic": "1686281732"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-09en-8483",
@@ -5345,7 +5364,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/41/95/444195c7-3357-b166-954e-cd7c1efe7578/4057664072924.jpg/100x100bb.jpg",
       "apple_music_id": 1686257672,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741239",
       "extra": {
@@ -5355,7 +5374,8 @@
         "platforms": {
           "appleMusic": "1686257672"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-10ra-2099",
@@ -5645,7 +5665,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/65/06/4265067e-9d38-da94-f821-b42af6bad5db/4057664072665.jpg/100x100bb.jpg",
       "apple_music_id": 1686252099,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741244",
       "extra": {
@@ -5655,7 +5675,8 @@
         "platforms": {
           "appleMusic": "1686252099"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-10zw-9409",
@@ -6538,7 +6559,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/e6/b3/77e6b396-e7fa-7043-a984-ee37ef25325e/4057664072771.jpg/100x100bb.jpg",
       "apple_music_id": 1686253055,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741241",
       "extra": {
@@ -6548,7 +6569,8 @@
         "platforms": {
           "appleMusic": "1686253055"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-12de-0342",
@@ -7092,7 +7114,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/01/1c/58/011c589b-8443-1755-8c83-dcf0db0253c3/4057664072375.jpg/100x100bb.jpg",
       "apple_music_id": 1686282930,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741250",
       "extra": {
@@ -7102,7 +7124,8 @@
         "platforms": {
           "appleMusic": "1686282930"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-13pi-8241",
@@ -7378,7 +7401,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/72/f6/bd/72f6bde5-801b-4686-72b7-a71f224916b8/4057664072542.jpg/100x100bb.jpg",
       "apple_music_id": 1686248241,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741255",
       "extra": {
@@ -7388,7 +7411,8 @@
         "platforms": {
           "appleMusic": "1686248241"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-14pi-7090",
@@ -7650,7 +7674,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/41/98/194198f0-97f8-4849-ae98-e8c578ac9207/4057664072948.jpg/100x100bb.jpg",
       "apple_music_id": 1686257090,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741258",
       "extra": {
@@ -7660,7 +7684,8 @@
         "platforms": {
           "appleMusic": "1686257090"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-15ak-1845",
@@ -7965,7 +7990,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/66/9f/5f669f4c-cf1e-0342-9188-3c803ba01665/4057664072757.jpg/100x100bb.jpg",
       "apple_music_id": 1686291845,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741245",
       "extra": {
@@ -7975,7 +8000,8 @@
         "platforms": {
           "appleMusic": "1686291845"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-16op-5457",
@@ -8288,7 +8314,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cc/b9/e9/ccb9e9fc-7783-ae47-46c3-efe4e9b3e94e/4057664072788.jpg/100x100bb.jpg",
       "apple_music_id": 1686255457,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741253",
       "extra": {
@@ -8298,7 +8324,8 @@
         "platforms": {
           "appleMusic": "1686255457"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-17al-0493",
@@ -8581,7 +8608,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/87/80/a5878016-98ac-7e0a-acd9-eee319d4e4a6/4057664072887.jpg/100x100bb.jpg",
       "apple_music_id": 1686270493,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741249",
       "extra": {
@@ -8591,7 +8618,8 @@
         "platforms": {
           "appleMusic": "1686270493"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-18al-3748",
@@ -8846,7 +8874,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/11/28/b5112873-7988-f24e-0265-aec68c066408/4057664072740.jpg/100x100bb.jpg",
       "apple_music_id": 1686293748,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741254",
       "extra": {
@@ -8856,7 +8884,8 @@
         "platforms": {
           "appleMusic": "1686293748"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-19si-7004",
@@ -9146,7 +9175,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/1e/39/a01e39ed-b9d9-babe-099b-19ffc5e9829c/4057664072566.jpg/100x100bb.jpg",
       "apple_music_id": 1686297004,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741238",
       "extra": {
@@ -9156,7 +9185,8 @@
         "platforms": {
           "appleMusic": "1686297004"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-20si-9720",
@@ -9390,7 +9420,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/d9/e8/d8d9e89b-15b8-da8c-6803-abc30a106490/4057664072610.jpg/100x100bb.jpg",
       "apple_music_id": 1686249720,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741235",
       "extra": {
@@ -9400,7 +9430,8 @@
         "platforms": {
           "appleMusic": "1686249720"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-21la-6977",
@@ -9677,7 +9708,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/34/b6/ff/34b6fffa-a0c2-845f-d9b9-413eca5cd2d6/4057664072382.jpg/100x100bb.jpg",
       "apple_music_id": 1686286977,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741247",
       "extra": {
@@ -9687,7 +9718,8 @@
         "platforms": {
           "appleMusic": "1686286977"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-22la-4040",
@@ -9909,7 +9941,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cd/b1/22/cdb12287-b1b2-aa14-7ac4-d8c590caae3d/4057664072795.jpg/100x100bb.jpg",
       "apple_music_id": 1686254040,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741256",
       "extra": {
@@ -9919,7 +9951,8 @@
         "platforms": {
           "appleMusic": "1686254040"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-23tr-6239",
@@ -10279,7 +10312,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/66/e8/7566e80c-6f60-eea4-a080-29ac560f2f03/4057664072894.jpg/100x100bb.jpg",
       "apple_music_id": 1686256239,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741234",
       "extra": {
@@ -10289,7 +10322,8 @@
         "platforms": {
           "appleMusic": "1686256239"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-24bl-3451",
@@ -10600,7 +10634,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/b7/59/2ab759c7-1869-d512-a39f-4bd400357d3f/4057664072856.jpg/100x100bb.jpg",
       "apple_music_id": 1686253451,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741233",
       "extra": {
@@ -10610,7 +10644,8 @@
         "platforms": {
           "appleMusic": "1686253451"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-25ra-1659",
@@ -10900,7 +10935,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/02/a9/7602a940-5a86-0421-2107-18a139b5dc07/4057664072627.jpg/100x100bb.jpg",
       "apple_music_id": 1686271659,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741232",
       "extra": {
@@ -10910,7 +10945,8 @@
         "platforms": {
           "appleMusic": "1686271659"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-26ik-1045",
@@ -11249,7 +11285,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/a8/dd/a3a8ddeb-7f2c-66aa-08b2-8dacbdb2d5ec/4057664072672.jpg/100x100bb.jpg",
       "apple_music_id": 1686251045,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741252",
       "extra": {
@@ -11259,7 +11295,8 @@
         "platforms": {
           "appleMusic": "1686251045"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-27me-1065",
@@ -11619,7 +11656,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/8e/65/068e656e-751b-db22-a024-47bdd0751b27/4057664072597.jpg/100x100bb.jpg",
       "apple_music_id": 1686251065,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741243",
       "extra": {
@@ -11629,7 +11666,8 @@
         "platforms": {
           "appleMusic": "1686251065"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-28di-9593",
@@ -11912,7 +11950,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/91/5d/e4/915de4be-ef22-9298-7823-62f007970b37/4057664072559.jpg/100x100bb.jpg",
       "apple_music_id": 1686249593,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741246",
       "extra": {
@@ -11922,7 +11960,8 @@
         "platforms": {
           "appleMusic": "1686249593"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-29di-5503",
@@ -12163,7 +12202,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/f6/4a/b1f64ae5-96a7-55b7-c619-a55ffa246cee/4057664072344.jpg/100x100bb.jpg",
       "apple_music_id": 1686285503,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741251",
       "extra": {
@@ -12173,7 +12212,8 @@
         "platforms": {
           "appleMusic": "1686285503"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-30pl-6360",
@@ -12540,7 +12580,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/f8/d2/27f8d252-5b38-0979-589f-04bcc3c18e7e/4057664072313.jpg/100x100bb.jpg",
       "apple_music_id": 1686876360,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741236",
       "extra": {
@@ -12550,7 +12590,8 @@
         "platforms": {
           "appleMusic": "1686876360"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-31ge-9896",
@@ -12889,7 +12930,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/20/22/a4202248-6a6b-ec7e-91ad-10214715671a/4057664072825.jpg/100x100bb.jpg",
       "apple_music_id": 1686269896,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741242",
       "extra": {
@@ -12899,7 +12940,8 @@
         "platforms": {
           "appleMusic": "1686269896"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-32de-5288",
@@ -13267,7 +13309,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/04/8d/34048d15-e0f1-3ab4-0a6b-07e938fc202f/4057664072320.jpg/100x100bb.jpg",
       "apple_music_id": 1686285288,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741248",
       "extra": {
@@ -13277,7 +13319,8 @@
         "platforms": {
           "appleMusic": "1686285288"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-2829-3265",
@@ -13434,7 +13477,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/89/81/c68981eb-5294-b090-2dd2-84819aecde98/00602537896110.rgb.jpg/100x100bb.jpg",
       "apple_music_id": 1453153265,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741271",
       "extra": {
@@ -13444,7 +13487,8 @@
         "platforms": {
           "appleMusic": "1453153265"
         }
-      }
+      },
+      "sub_franchise": "Mark Brandis"
     }
   ],
   "episode_count": 45
