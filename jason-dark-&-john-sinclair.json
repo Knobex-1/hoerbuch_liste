@@ -14,7 +14,116 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Er hatte sich wenige ...",
+          "duration_ms": 183107
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "12 Stunden später ...",
+          "duration_ms": 173400
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Inspector, Nein Smith ...",
+          "duration_ms": 214587
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "John? Die Frau steht ...",
+          "duration_ms": 65347
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Montag, 7:43 ...",
+          "duration_ms": 191667
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Verdammt, Billy...",
+          "duration_ms": 226720
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ich habe es euch gesagt ...",
+          "duration_ms": 173200
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Mann, diese Küstenstraße ...",
+          "duration_ms": 144907
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Möchtest du noch etwas ...",
+          "duration_ms": 161573
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Fünf Meilen können lang ...",
+          "duration_ms": 294093
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "300 Gramm Rindergehacktes ...",
+          "duration_ms": 153853
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Geheiligt werde dein Name ...",
+          "duration_ms": 187467
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ist es schlimm?",
+          "duration_ms": 95893
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Ich verließ das Gasthaus ...",
+          "duration_ms": 126787
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Und? Er geht nicht ...",
+          "duration_ms": 459493
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Wie lange ist er schon ...",
+          "duration_ms": 215413
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Der Nebel hatte mich ...",
+          "duration_ms": 260067
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Epilog",
+          "duration_ms": 95680
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/d0/c6/3f/mzi.bsqnfwzl.jpg/100x100bb.jpg",
       "apple_music_id": 309190980,
       "status": "active",
@@ -38,7 +147,308 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Ein Teuflischer Plan",
+          "duration_ms": 97187
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Das Erbe",
+          "duration_ms": 361667
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Petrilla",
+          "duration_ms": 169773
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Der Bote Der Die Klingel Führt...",
+          "duration_ms": 141480
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Die Vision",
+          "duration_ms": 174227
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Zigaretten",
+          "duration_ms": 115960
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ein Todbringender Vogel",
+          "duration_ms": 94760
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Einbrecher?",
+          "duration_ms": 103453
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Recherche",
+          "duration_ms": 126787
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Die Gruft",
+          "duration_ms": 204160
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Air-Traffic",
+          "duration_ms": 127187
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Der Meister Kommt",
+          "duration_ms": 193173
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Magenwasser",
+          "duration_ms": 95040
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Rachel Und Cass Garrett",
+          "duration_ms": 126427
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Der Besuch",
+          "duration_ms": 104000
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Coliseum Theatre",
+          "duration_ms": 224653
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Im Haus Der Varescus",
+          "duration_ms": 298293
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "In Kaluracs Gewalt",
+          "duration_ms": 129280
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Dom Und Rebecca",
+          "duration_ms": 147893
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Die Herkunft Des Kreuzes",
+          "duration_ms": 180520
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Der Wiedergänger",
+          "duration_ms": 103360
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "In Schach",
+          "duration_ms": 172507
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "Harold Farmer",
+          "duration_ms": 173320
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "Dr. Dans Waffenkammer",
+          "duration_ms": 83707
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "Der Plan",
+          "duration_ms": 137600
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "Ein Ungewöhnlicher Anruf",
+          "duration_ms": 78440
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "Warten Auf Die Opfer",
+          "duration_ms": 89160
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "Wettlauf Gegen Die Zeit",
+          "duration_ms": 91547
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "Wo Wollen Sie Hin?",
+          "duration_ms": 85693
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "Kein Bluff",
+          "duration_ms": 211973
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "Ein Schwarzes Kleid",
+          "duration_ms": 74387
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "Waffenlos",
+          "duration_ms": 97320
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "Die Schwarze Limousine",
+          "duration_ms": 91547
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "Hubschrauber",
+          "duration_ms": 128440
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "Kaluracs Leichenhalle",
+          "duration_ms": 105933
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "Übermacht",
+          "duration_ms": 189027
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "Der Endkampf",
+          "duration_ms": 137213
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "Johns Bestimmung",
+          "duration_ms": 158000
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "Der Soundtrack - Mitternacht - Florian Göbels",
+          "duration_ms": 96853
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "Der Soundtrack - Das Böse Ist Erwacht - Stil",
+          "duration_ms": 87867
+        },
+        {
+          "track": 41,
+          "disc": 1,
+          "title": "Der Soundtrack - Rachels Tod - Stil",
+          "duration_ms": 34560
+        },
+        {
+          "track": 42,
+          "disc": 1,
+          "title": "Der Soundtrack - Verfolgungsjagd - Stil",
+          "duration_ms": 104307
+        },
+        {
+          "track": 43,
+          "disc": 1,
+          "title": "Der Soundtrack - Dawn - Florian Göbels",
+          "duration_ms": 149000
+        },
+        {
+          "track": 44,
+          "disc": 1,
+          "title": "Der Soundtrack - In Kaluracs Leichenhalle - Stil",
+          "duration_ms": 43053
+        },
+        {
+          "track": 45,
+          "disc": 1,
+          "title": "Der Soundtrack - Der Lange Weg Zum Schloß - Stil",
+          "duration_ms": 47840
+        },
+        {
+          "track": 46,
+          "disc": 1,
+          "title": "Der Soundtrack - Der Grundstein Für Die Invasion - Stil",
+          "duration_ms": 23187
+        },
+        {
+          "track": 47,
+          "disc": 1,
+          "title": "Der Soundtrack - Die Dunkelheit Naht - Florian Göbels",
+          "duration_ms": 119800
+        },
+        {
+          "track": 48,
+          "disc": 1,
+          "title": "Der Soundtrack - Creeping Shadows - David Snell",
+          "duration_ms": 156400
+        },
+        {
+          "track": 49,
+          "disc": 1,
+          "title": "Der Soundtrack - Disturbed Sleep - Quito Colayco",
+          "duration_ms": 166067
+        },
+        {
+          "track": 50,
+          "disc": 1,
+          "title": "Der Soundtrack - the Cult - Brian Lock",
+          "duration_ms": 104853
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/73/6d/d5736d4e-69c4-d4f4-50a0-8d9512b1abed/mzi.najazhnb.jpg/100x100bb.jpg",
       "apple_music_id": 309572213,
       "status": "active",

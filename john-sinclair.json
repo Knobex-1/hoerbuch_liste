@@ -108,7 +108,74 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Kapitel 01",
+          "duration_ms": 447626
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Kapitel 02",
+          "duration_ms": 338989
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Kapitel 03",
+          "duration_ms": 315434
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Kapitel 04",
+          "duration_ms": 312446
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Kapitel 05",
+          "duration_ms": 260915
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Kapitel 06",
+          "duration_ms": 204680
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Kapitel 07",
+          "duration_ms": 232549
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Kapitel 08",
+          "duration_ms": 279150
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Kapitel 09",
+          "duration_ms": 315769
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Kapitel 10",
+          "duration_ms": 99339
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Kapitel 11",
+          "duration_ms": 216270
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/70/5e/mzi.rxjbqnnn.jpg/100x100bb.jpg",
       "apple_music_id": 327254705,
       "status": "active",
@@ -154,7 +221,92 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Kapitel 01",
+          "duration_ms": 328605
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Kapitel 02",
+          "duration_ms": 379225
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Kapitel 03",
+          "duration_ms": 330896
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Kapitel 04",
+          "duration_ms": 371106
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Kapitel 05",
+          "duration_ms": 147548
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Kapitel 06",
+          "duration_ms": 229615
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Kapitel 07",
+          "duration_ms": 137016
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Kapitel 08",
+          "duration_ms": 360963
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Kapitel 09",
+          "duration_ms": 180723
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Kapitel 10",
+          "duration_ms": 146623
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Kapitel 11",
+          "duration_ms": 148834
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Kapitel 12",
+          "duration_ms": 312968
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Kapitel 13",
+          "duration_ms": 100384
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Kapitel 14",
+          "duration_ms": 606348
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/cc/b7/59/mzi.nvsvcind.jpg/100x100bb.jpg",
       "apple_music_id": 327253628,
       "status": "active",
@@ -201,7 +353,86 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Kapitel 01",
+          "duration_ms": 341333
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Kapitel 02",
+          "duration_ms": 352442
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Kapitel 03",
+          "duration_ms": 166641
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Kapitel 04",
+          "duration_ms": 145391
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Kapitel 05",
+          "duration_ms": 256064
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Kapitel 06",
+          "duration_ms": 251146
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Kapitel 07",
+          "duration_ms": 330749
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Kapitel 08",
+          "duration_ms": 251884
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Kapitel 09",
+          "duration_ms": 363884
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Kapitel 10",
+          "duration_ms": 197538
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Kapitel 11",
+          "duration_ms": 192688
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Kapitel 12",
+          "duration_ms": 403463
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Kapitel 13",
+          "duration_ms": 401039
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/0c/e3/a2/mzi.epcbkqtw.jpg/100x100bb.jpg",
       "apple_music_id": 327305262,
       "status": "active",
@@ -226,7 +457,110 @@
         "Krimi",
         "Horror"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 1",
+          "duration_ms": 250986
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 2",
+          "duration_ms": 320847
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 3",
+          "duration_ms": 210200
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 4",
+          "duration_ms": 260874
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 5",
+          "duration_ms": 199602
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 6",
+          "duration_ms": 249900
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 7",
+          "duration_ms": 170218
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 8",
+          "duration_ms": 143487
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 9",
+          "duration_ms": 195154
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 10",
+          "duration_ms": 158213
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 11",
+          "duration_ms": 269892
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 12",
+          "duration_ms": 207091
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 13",
+          "duration_ms": 102233
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 14",
+          "duration_ms": 250986
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 15",
+          "duration_ms": 241084
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 16",
+          "duration_ms": 93416
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Der Mörder mit dem Januskopf, Pt. 17",
+          "duration_ms": 655427
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/d7/d2/19/mzi.uyubenpk.jpg/100x100bb.jpg",
       "apple_music_id": 327299068,
       "status": "active",
@@ -297,7 +631,122 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 1 (Remastered)",
+          "duration_ms": 256989
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 2 (Remastered)",
+          "duration_ms": 307542
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 3 (Remastered)",
+          "duration_ms": 139991
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 4 (Remastered)",
+          "duration_ms": 112952
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 5 (Remastered)",
+          "duration_ms": 176074
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 6 (Remastered)",
+          "duration_ms": 143086
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 7 (Remastered)",
+          "duration_ms": 299342
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 8 (Remastered)",
+          "duration_ms": 338105
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 9 (Remastered)",
+          "duration_ms": 246324
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 10 (Remastered)",
+          "duration_ms": 239905
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 11 (Remastered)",
+          "duration_ms": 248909
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 12 (Remastered)",
+          "duration_ms": 266958
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 13 (Remastered)",
+          "duration_ms": 123269
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 14 (Remastered)",
+          "duration_ms": 292482
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 15 (Remastered)",
+          "duration_ms": 202322
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 16 (Remastered)",
+          "duration_ms": 110621
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 17 (Remastered)",
+          "duration_ms": 148057
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 18 (Remastered)",
+          "duration_ms": 137097
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Schach mit dem Dämon - Kapitel 19 (Remastered)",
+          "duration_ms": 172322
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/33/ba/mzi.voqbbsie.jpg/100x100bb.jpg",
       "apple_music_id": 327268038,
       "status": "active",
@@ -345,7 +794,86 @@
         "Krimi",
         "Horror"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Das Gewölbe",
+          "duration_ms": 417880
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Samstag 0.53h",
+          "duration_ms": 248800
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Samstag 9.22h",
+          "duration_ms": 308840
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Samstag 16.59h",
+          "duration_ms": 358027
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Sie saßen",
+          "duration_ms": 349400
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Ralf Brandner",
+          "duration_ms": 351373
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ja?",
+          "duration_ms": 98973
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Wie Heißt Du?",
+          "duration_ms": 185427
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Samstag 23.10h",
+          "duration_ms": 132920
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Danke",
+          "duration_ms": 244360
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Mir Stockt Der Atem",
+          "duration_ms": 347627
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Am Nächsten Morgen",
+          "duration_ms": 122960
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Outtakes",
+          "duration_ms": 308145
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/ad/b6/e7adb60f-9ad1-ae9a-426d-da2f41a3f8e5/9783838761107_3000.jpg/100x100bb.jpg",
       "apple_music_id": 309318278,
       "status": "active",
@@ -391,7 +919,86 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Aus der Offenbarung des Johannes ...",
+          "duration_ms": 376280
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Freitag, 19:30 Uhr",
+          "duration_ms": 169373
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Freitag, 20:10 Uhr",
+          "duration_ms": 371880
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Samstag, 0:04 Uhr",
+          "duration_ms": 195240
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Ah, ihr beide habt euch schon bekannt gemacht ...",
+          "duration_ms": 227080
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Satan ...",
+          "duration_ms": 197387
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Die Verbindung war unterbrochen ...",
+          "duration_ms": 164387
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Samstag, 6:38 Uhr",
+          "duration_ms": 159387
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Willkommen in Griechenland ...",
+          "duration_ms": 115227
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Samstag, 15:12 Uhr",
+          "duration_ms": 326347
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Samstag, 15:35 Uhr",
+          "duration_ms": 305053
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Jane Collins wurde brutal gegen die Statue gepresst ...",
+          "duration_ms": 230253
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ich war in den Stein getaucht ...",
+          "duration_ms": 380134
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/b9/ee/69/mzi.finkxjyb.jpg/100x100bb.jpg",
       "apple_music_id": 309163044,
       "status": "active",
@@ -439,7 +1046,86 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Was Bisher Geschah",
+          "duration_ms": 236000
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Samstag 19.12h",
+          "duration_ms": 112320
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Jane",
+          "duration_ms": 342680
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Jane starrte",
+          "duration_ms": 162427
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Samstag 22.34h",
+          "duration_ms": 142573
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Sonntag 9.03h",
+          "duration_ms": 338147
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Sonntag 12.44h",
+          "duration_ms": 208787
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Je tiefer",
+          "duration_ms": 188467
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Ich kam",
+          "duration_ms": 318440
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Die Schießerei",
+          "duration_ms": 265560
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Kiriakis",
+          "duration_ms": 226067
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Urplötzlich",
+          "duration_ms": 142720
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Der Sprung",
+          "duration_ms": 509680
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/e9/8d/f6/mzi.bybvcwhi.jpg/100x100bb.jpg",
       "apple_music_id": 309317148,
       "status": "active",
@@ -488,7 +1174,86 @@
         "Horror",
         "Pferde"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "New Scotland Yard",
+          "duration_ms": 325453
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Pater Emilio",
+          "duration_ms": 422667
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Mittwoch 8.10h",
+          "duration_ms": 119587
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Mittwoch 12.30h",
+          "duration_ms": 287040
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Mittwoch 19.28h",
+          "duration_ms": 183667
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Sie wollen",
+          "duration_ms": 294267
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Jetzt haltet",
+          "duration_ms": 143360
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Juan",
+          "duration_ms": 154187
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Mein ganzer Körper",
+          "duration_ms": 329733
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Man du",
+          "duration_ms": 192147
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Mist",
+          "duration_ms": 133800
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Suko",
+          "duration_ms": 134520
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Zuerst",
+          "duration_ms": 540504
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/19/e4/91/mzi.xjghqisu.jpg/100x100bb.jpg",
       "apple_music_id": 309321421,
       "status": "active",
@@ -536,7 +1301,86 @@
         "Krimi",
         "Thriller"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Donnerstag, 20:56 Uhr",
+          "duration_ms": 239040
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Freitag, 18:56 Uhr",
+          "duration_ms": 256560
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Freitag, 20:22 Uhr",
+          "duration_ms": 199320
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Mit einem lauten Platzen explodierte ...",
+          "duration_ms": 69733
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Freitag, 21:34 Uhr",
+          "duration_ms": 188507
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Bereiten sie sich auf die Hölle vor ...",
+          "duration_ms": 141027
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Hey sie sind zu spät ...",
+          "duration_ms": 332147
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Es war eine surreale, geisterhafte Stimmung ...",
+          "duration_ms": 387787
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Freitag, 23:28 Uhr",
+          "duration_ms": 323413
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Der Weg war lang und beschwerlich ...",
+          "duration_ms": 208080
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Sind sie soweit?",
+          "duration_ms": 240013
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Unser Ziel war weiter entfernt ...",
+          "duration_ms": 159187
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Wir rannten wie der Teufel ...",
+          "duration_ms": 556950
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/e2/21/41/mzi.bcqdaiso.jpg/100x100bb.jpg",
       "apple_music_id": 309322022,
       "status": "active",
@@ -561,7 +1405,86 @@
         "Krimi",
         "Fantasy"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Es war eine Welt des Entsetzens ...",
+          "duration_ms": 276000
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Mittwoch, 22:17 Uhr",
+          "duration_ms": 264947
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Mittwoch, 22:56 Uhr",
+          "duration_ms": 327840
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Donnerstag, 6:33 Uhr",
+          "duration_ms": 269267
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Donnerstag, 11:06 Uhr",
+          "duration_ms": 192187
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Keine zwanzig Minuten später ...",
+          "duration_ms": 155173
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Donnerstag, 15:10 Uhr",
+          "duration_ms": 188800
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Paul Hatte uns im Hilton einquartiert ...",
+          "duration_ms": 324440
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Die Dusche war erfrischender gewesen ...",
+          "duration_ms": 264320
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Jane erzählte mir alles ...",
+          "duration_ms": 170307
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Der Louvre hat vor einer Viertelstunde geschlossen ...",
+          "duration_ms": 202880
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Donnerstag, 21:10 Uhr",
+          "duration_ms": 111680
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Im ersten Moment wusste ich nicht ...",
+          "duration_ms": 411694
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/7a/ab/15/mzi.nnlqbaet.jpg/100x100bb.jpg",
       "apple_music_id": 309321030,
       "status": "active",
@@ -607,7 +1530,86 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Was bisher geschah ...",
+          "duration_ms": 260920
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Endlich ist es soweit ...",
+          "duration_ms": 203747
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Donnerstag, 21:25 Uhr",
+          "duration_ms": 166800
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Nach dem Gespräch ...",
+          "duration_ms": 334520
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Als die Kuppel wieder nach oben schwebte ...",
+          "duration_ms": 362560
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Donnerstag, 22:14 Uhr",
+          "duration_ms": 151720
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Die Spinne hatte sich mit ihren Beinen ...",
+          "duration_ms": 214920
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Donnerstag, 23:05 Uhr",
+          "duration_ms": 209000
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Sinclair, seit du so rumschmollst ...",
+          "duration_ms": 122440
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Die Assistentin wankte zurück ...",
+          "duration_ms": 166587
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Donnerstag, 23:37 Uhr",
+          "duration_ms": 225253
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Der verdreckte Stofflappen stank ...",
+          "duration_ms": 228213
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Verdammt, er will fliehen ...",
+          "duration_ms": 295627
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/3e/05/94/mzi.zwypphum.jpg/100x100bb.jpg",
       "apple_music_id": 309164868,
       "status": "active",
@@ -631,7 +1633,86 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Freitag, 17:38 Uhr",
+          "duration_ms": 201960
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Dann mal los ...",
+          "duration_ms": 301253
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Freitag, 19:44 Uhr",
+          "duration_ms": 383253
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Auf dem Rückweg sprach Karin kein Wort ...",
+          "duration_ms": 131373
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Es ist nicht mehr weit Herr Kommissar ...",
+          "duration_ms": 246267
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Samstag, 8:13 Uhr",
+          "duration_ms": 151413
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Samstag, 16:05 Uhr",
+          "duration_ms": 219547
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Ich betrat mein Zimmer und wunderte mich ...",
+          "duration_ms": 162520
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Hallo! Jemand zu Hause?",
+          "duration_ms": 317173
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Na, geht's wieder?",
+          "duration_ms": 322547
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Sinclair, gib auf ...",
+          "duration_ms": 172840
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Die Skelette mit ihrer schrecklichen Fracht ...",
+          "duration_ms": 214227
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Aus! Das ist das Ende!",
+          "duration_ms": 213693
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/20/f2/9c/mzi.kptasbeb.jpg/100x100bb.jpg",
       "apple_music_id": 309165861,
       "status": "active",
@@ -656,7 +1737,86 @@
         "Krimi",
         "Horror"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Samstag 1. August 2.13h nachts Greenwich London",
+          "duration_ms": 488667
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Montag 13.10h in der Kantine des New Scotland Yard",
+          "duration_ms": 147160
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Montag 21.22h im alten Erskine Haus",
+          "duration_ms": 190360
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Dinstag 14.36h Nervenklinik Bel Air London",
+          "duration_ms": 103000
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Dienstag 19.47h Soho London",
+          "duration_ms": 366840
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Dienstag 19.55h South Kensington London",
+          "duration_ms": 189400
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Dienstag 20.34h im alten Erskine Haus",
+          "duration_ms": 274600
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Susan Erskine",
+          "duration_ms": 110960
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Suko?",
+          "duration_ms": 187080
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Dienstag 22.17h auf der Packham Road",
+          "duration_ms": 332533
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Wir erreichten Greenwich",
+          "duration_ms": 124533
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Grimes rannte wie der Teufel",
+          "duration_ms": 284320
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Kapitel 13",
+          "duration_ms": 153493
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/6f/2e/7d/mzi.zwqahrta.jpg/100x100bb.jpg",
       "apple_music_id": 309162788,
       "status": "active",
@@ -680,7 +1840,86 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Montag 19.31h",
+          "duration_ms": 404160
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Montag 20.04h",
+          "duration_ms": 362987
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Dienstag 5.10h",
+          "duration_ms": 265240
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Dienstag 7.54h",
+          "duration_ms": 189333
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "John",
+          "duration_ms": 144107
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Hank Stone",
+          "duration_ms": 190387
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Dienstag 18.10h",
+          "duration_ms": 132187
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Mr Sinclair",
+          "duration_ms": 251893
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Puh",
+          "duration_ms": 194800
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Dienstag 19.23h",
+          "duration_ms": 104507
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Diese Laurie",
+          "duration_ms": 110533
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Dienstag 21.04h",
+          "duration_ms": 276787
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ja hallo",
+          "duration_ms": 102453
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/85/a7/cb/mzi.enbfvgro.jpg/100x100bb.jpg",
       "apple_music_id": 309311997,
       "status": "active",
@@ -704,7 +1943,86 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Ja hallo",
+          "duration_ms": 140800
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Verdammt",
+          "duration_ms": 266347
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Der letzte",
+          "duration_ms": 168133
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Dienstag 22.10h",
+          "duration_ms": 232693
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Irgendwo",
+          "duration_ms": 182107
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Dienstag 22.53h",
+          "duration_ms": 251093
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Sinclair",
+          "duration_ms": 156627
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Nachdem",
+          "duration_ms": 213640
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Wir ließen",
+          "duration_ms": 398467
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Bill Conolly",
+          "duration_ms": 163173
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Mittwoch 10h später",
+          "duration_ms": 122893
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Was ist",
+          "duration_ms": 165760
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Wir kletterten",
+          "duration_ms": 338973
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f5/48/b9/mzi.usuzyhph.jpg/100x100bb.jpg",
       "apple_music_id": 309151058,
       "status": "active",
@@ -727,7 +2045,86 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Donnerstag 10.54h",
+          "duration_ms": 400827
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Donnerstag 4.10h morgens",
+          "duration_ms": 209640
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Donnerstag 13.20h",
+          "duration_ms": 236187
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Dienstag 17.23h",
+          "duration_ms": 192147
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Donnerstag 16.59h",
+          "duration_ms": 134667
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Donnerstag 17.25h",
+          "duration_ms": 197467
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ich hatte",
+          "duration_ms": 206627
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Donnerstag 19.34h",
+          "duration_ms": 263640
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Ja",
+          "duration_ms": 191267
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Mist",
+          "duration_ms": 194373
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Okay Leute",
+          "duration_ms": 187960
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "John hierher",
+          "duration_ms": 383080
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Outtakes",
+          "duration_ms": 83893
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/67/6f/cd/mzi.smdtryhg.jpg/100x100bb.jpg",
       "apple_music_id": 309312300,
       "status": "active",
@@ -750,7 +2147,116 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Freitag 17.33h",
+          "duration_ms": 246280
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Samstag 9.44h",
+          "duration_ms": 404307
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Samstag 10.28h",
+          "duration_ms": 202680
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "John. Will",
+          "duration_ms": 112253
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Das darf doch nicht",
+          "duration_ms": 169733
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Und wie sehe ich aus",
+          "duration_ms": 151280
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Alles in Ordnung",
+          "duration_ms": 138507
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Wir hatten uns",
+          "duration_ms": 138627
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Bist du",
+          "duration_ms": 165560
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Will Mallmann",
+          "duration_ms": 277547
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "John?",
+          "duration_ms": 100107
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Wir fuhren",
+          "duration_ms": 166627
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Während",
+          "duration_ms": 124013
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "In Will Mallmann",
+          "duration_ms": 62733
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Ach du Scheiße",
+          "duration_ms": 114747
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Hahaha",
+          "duration_ms": 78413
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Das ist das Ende",
+          "duration_ms": 158600
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Eine Stunde später",
+          "duration_ms": 54240
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/41/a4/5e/mzi.hfgipcim.jpg/100x100bb.jpg",
       "apple_music_id": 309311337,
       "status": "active",
@@ -774,7 +2280,86 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Es War Ein Buch",
+          "duration_ms": 283680
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Eine unheimliche",
+          "duration_ms": 202640
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Donnerstag 22.10h",
+          "duration_ms": 386720
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "John, John",
+          "duration_ms": 201893
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "John bist du",
+          "duration_ms": 229053
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Da kommen sie",
+          "duration_ms": 153147
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Leo Genn",
+          "duration_ms": 325880
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Der Fluß",
+          "duration_ms": 107160
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Komm Gerald",
+          "duration_ms": 260467
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Ich holte",
+          "duration_ms": 186987
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Da seht mal",
+          "duration_ms": 165173
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Sieht ja",
+          "duration_ms": 318493
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Suko",
+          "duration_ms": 123373
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/79/f5/70/mzi.zfkmywkd.jpg/100x100bb.jpg",
       "apple_music_id": 309189303,
       "status": "active",
@@ -798,7 +2383,86 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Das Schloss wurde seit jeher ...",
+          "duration_ms": 221373
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Mitternacht",
+          "duration_ms": 276987
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Wer ist da?",
+          "duration_ms": 212760
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Die drei verliessen ...",
+          "duration_ms": 160867
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Suko, da ...",
+          "duration_ms": 113307
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Verdammt ...",
+          "duration_ms": 190000
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Harry Salem schritt lässig ...",
+          "duration_ms": 227480
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Das Zuckerpüppchen ...",
+          "duration_ms": 209973
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Das Licht im Turm ...",
+          "duration_ms": 275920
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Mein Weg führte mich ...",
+          "duration_ms": 210093
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Hey, ihr Freund wird wach",
+          "duration_ms": 217227
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Asmodina steckt hinter allem",
+          "duration_ms": 158733
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Dean ...",
+          "duration_ms": 226240
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/77/b1/f4/mzi.emlinsom.jpg/100x100bb.jpg",
       "apple_music_id": 309311844,
       "status": "active",
@@ -846,7 +2510,104 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Powell? Sir, Suko hier ...",
+          "duration_ms": 108827
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Und, Sinclair, soll ich die Chinesin aufschlitzen?",
+          "duration_ms": 161360
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Und jetzt, Kutscher, bring' sie zu Asmodina",
+          "duration_ms": 200827
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Es sieht nicht gut aus, oder?",
+          "duration_ms": 230040
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Die Kutsche raste mit höllischem Tempo ...",
+          "duration_ms": 168360
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Mister Sinclair...",
+          "duration_ms": 278600
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ah, na endlich ...",
+          "duration_ms": 210707
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Im ersten Moment war ich völlig desorientiert",
+          "duration_ms": 203520
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Da sind wir ...",
+          "duration_ms": 93547
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Zurück, Markus, zurück!",
+          "duration_ms": 90093
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "John, ich kann langsam nicht mehr...",
+          "duration_ms": 258867
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Bill? Bill, bist du da?",
+          "duration_ms": 115240
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Myxin, was ist?",
+          "duration_ms": 95267
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Wo rennst du denn hin ...",
+          "duration_ms": 190920
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Soll ich auch rauskommen?",
+          "duration_ms": 189200
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Der Eingang zu Asmodinas Leichenhalle ...",
+          "duration_ms": 77867
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/63/c9/4c/mzi.rhjpialv.jpg/100x100bb.jpg",
       "apple_music_id": 309184009,
       "status": "active",
@@ -871,7 +2632,110 @@
         "Thriller",
         "Horror"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Maddox",
+          "duration_ms": 429920
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Montag 8.14h",
+          "duration_ms": 228280
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Innerhalb von Sekunden",
+          "duration_ms": 251920
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Zwei Tage später",
+          "duration_ms": 304427
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "John",
+          "duration_ms": 190107
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Mittwoch 10.54h",
+          "duration_ms": 133147
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ach dieser",
+          "duration_ms": 91973
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Freust du dich",
+          "duration_ms": 123067
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Schließ auf",
+          "duration_ms": 126293
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Ach verdammt",
+          "duration_ms": 85467
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Aaah das Arbeitszimmer",
+          "duration_ms": 140333
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Wo sollst denn",
+          "duration_ms": 38507
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ja Parker",
+          "duration_ms": 79013
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "John endlich",
+          "duration_ms": 200427
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Nadida",
+          "duration_ms": 190400
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Erza Parker",
+          "duration_ms": 188787
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Drei Stunden später",
+          "duration_ms": 132613
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/a7/67/fea76725-db9c-4b34-3ac3-7bbecbf2b497/mzi.jcuquvae.jpg/100x100bb.jpg",
       "apple_music_id": 309190683,
       "status": "active",
@@ -918,7 +2782,98 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Der Eissturm",
+          "duration_ms": 132667
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Telefonat mit Rod Huxley",
+          "duration_ms": 53680
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Ein Friedhof",
+          "duration_ms": 292133
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Treffen mit Rod Huxley",
+          "duration_ms": 269213
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Warnung aus dem Jenseits",
+          "duration_ms": 219493
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Der Raabe",
+          "duration_ms": 232933
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Flug nach Hannover",
+          "duration_ms": 86400
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Autofahrt zum Hartz",
+          "duration_ms": 206853
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Das Grab",
+          "duration_ms": 241293
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Hans Kröger",
+          "duration_ms": 89040
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Gasthof \"Geschlachteter Lamm\"",
+          "duration_ms": 229440
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Eine Falle nimmt Formen an",
+          "duration_ms": 208973
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Der Brocken",
+          "duration_ms": 109267
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Der erste Gefangene aus dem Sinclair Team",
+          "duration_ms": 84533
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Die Hexen",
+          "duration_ms": 275253
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/2b/de/2a/mzi.vpsqjcgw.jpg/100x100bb.jpg",
       "apple_music_id": 309195958,
       "status": "active",
@@ -964,7 +2919,104 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Ein Friedhof am Ende der Welt",
+          "duration_ms": 205707
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Bill",
+          "duration_ms": 68640
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Montag 3.28h",
+          "duration_ms": 202493
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Sagen sie das",
+          "duration_ms": 175733
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Er kommt zu sich",
+          "duration_ms": 238973
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Ach Mist",
+          "duration_ms": 200733
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Na warte",
+          "duration_ms": 125293
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Die Hexen",
+          "duration_ms": 147120
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Nimm das Buch",
+          "duration_ms": 336120
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Okay Suko",
+          "duration_ms": 206453
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Und die Dämonen",
+          "duration_ms": 176213
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Will komm näher",
+          "duration_ms": 132960
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Du liebe Zeit",
+          "duration_ms": 144080
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Die Höhle",
+          "duration_ms": 94600
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Geschwindigkeit",
+          "duration_ms": 171400
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Seht mal",
+          "duration_ms": 149387
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f6/0e/cd/mzi.ilucixca.jpg/100x100bb.jpg",
       "apple_music_id": 309208816,
       "status": "active",
@@ -1012,7 +3064,92 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Das letzte Duell",
+          "duration_ms": 168893
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Was ist denn",
+          "duration_ms": 259880
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Montag 8.44h",
+          "duration_ms": 78093
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Wir schaffen es",
+          "duration_ms": 246213
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Geht es so",
+          "duration_ms": 197240
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Myxin",
+          "duration_ms": 171893
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Hier trinken sie",
+          "duration_ms": 245093
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Es kommt",
+          "duration_ms": 168533
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Gott sei Dank",
+          "duration_ms": 188080
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Verdammt",
+          "duration_ms": 233293
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Es tut mir",
+          "duration_ms": 248400
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Jane",
+          "duration_ms": 183480
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Der Aufstieg",
+          "duration_ms": 308227
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "John",
+          "duration_ms": 199667
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/8c/7a/3f/mzi.nivvsypa.jpg/100x100bb.jpg",
       "apple_music_id": 309190742,
       "status": "active",
@@ -1059,7 +3196,128 @@
         "Hörspiel",
         "Fantasy"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Auf den Vampir",
+          "duration_ms": 301733
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Donnerstag 19.54h",
+          "duration_ms": 168573
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Jingle",
+          "duration_ms": 76973
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Donnerstag 19.33h",
+          "duration_ms": 172693
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Aaah",
+          "duration_ms": 179427
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Was",
+          "duration_ms": 237813
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Fryley",
+          "duration_ms": 18173
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Sauerstoff",
+          "duration_ms": 28760
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Powell",
+          "duration_ms": 59387
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Freitag 9.12h",
+          "duration_ms": 222827
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Und",
+          "duration_ms": 298787
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Hallo",
+          "duration_ms": 211813
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Er hat was",
+          "duration_ms": 112747
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Na wie",
+          "duration_ms": 157693
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Es wird nicht",
+          "duration_ms": 198960
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Na toll",
+          "duration_ms": 178720
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Was ist das",
+          "duration_ms": 112760
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Wir sind",
+          "duration_ms": 151533
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Sonntag 13.22h",
+          "duration_ms": 87507
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Outtakes",
+          "duration_ms": 130387
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/e0/1b/mzi.lncojlac.jpg/100x100bb.jpg",
       "apple_music_id": 309338194,
       "status": "active",
@@ -1106,7 +3364,104 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Der dunkle Plan",
+          "duration_ms": 279040
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Die Beerdigung",
+          "duration_ms": 373933
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Einige Erklärungen",
+          "duration_ms": 184320
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Ankunft in Palermo",
+          "duration_ms": 315840
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Dr. Tod stellt sich vor",
+          "duration_ms": 109973
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Im Leichenschauhaus",
+          "duration_ms": 119320
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "John wird entführt",
+          "duration_ms": 190733
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Suko",
+          "duration_ms": 73147
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Das Eisgefängnis",
+          "duration_ms": 239920
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Die Suche",
+          "duration_ms": 80267
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Das Eisgefängnis II",
+          "duration_ms": 156173
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Hife Naht",
+          "duration_ms": 86733
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "John in großer Not",
+          "duration_ms": 107440
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Suko wächst über sich hinaus",
+          "duration_ms": 248253
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Zu spät?",
+          "duration_ms": 149520
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Krankenhaus",
+          "duration_ms": 107040
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/ad/96/2f/mzi.fzodyukw.jpg/100x100bb.jpg",
       "apple_music_id": 309189296,
       "status": "active",
@@ -1155,7 +3510,92 @@
         "Krimi",
         "Fantasy"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Waren das",
+          "duration_ms": 212573
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Das darf",
+          "duration_ms": 229147
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Oh da war",
+          "duration_ms": 225467
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Mittwoch 12.58h",
+          "duration_ms": 164947
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Ich hätte",
+          "duration_ms": 299800
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Er irrte",
+          "duration_ms": 246293
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "John",
+          "duration_ms": 270840
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Hallo",
+          "duration_ms": 205787
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Kannst du ihn",
+          "duration_ms": 144733
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Weiter nach",
+          "duration_ms": 61947
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Rein da",
+          "duration_ms": 112827
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Es war",
+          "duration_ms": 315320
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ich rannte",
+          "duration_ms": 233240
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Werden sie",
+          "duration_ms": 134613
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/6b/ac/3f/mzi.lrhuewwm.jpg/100x100bb.jpg",
       "apple_music_id": 309164676,
       "status": "active",
@@ -1201,7 +3641,122 @@
       "genres": [
         "Fantasy"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Was bisher geschah",
+          "duration_ms": 152947
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Warte noch",
+          "duration_ms": 155200
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Oh nein",
+          "duration_ms": 227267
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Er kommt",
+          "duration_ms": 116027
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Da wären wir",
+          "duration_ms": 322000
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Kommen sie",
+          "duration_ms": 58147
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ihr seid",
+          "duration_ms": 106733
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Ich sah",
+          "duration_ms": 148947
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Angehneme Träume",
+          "duration_ms": 170973
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Bis hierhin",
+          "duration_ms": 235000
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Dahinten",
+          "duration_ms": 152907
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Langsam",
+          "duration_ms": 104840
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Du hast es",
+          "duration_ms": 236760
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Hier ist es",
+          "duration_ms": 86787
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Fesselt ihn",
+          "duration_ms": 75760
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Lass die Kinder",
+          "duration_ms": 125400
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Ich rannte",
+          "duration_ms": 90947
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Was haben die",
+          "duration_ms": 170053
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Na sieh mal",
+          "duration_ms": 230120
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/0f/cd/mzi.msjsrloe.jpg/100x100bb.jpg",
       "apple_music_id": 309200070,
       "status": "active",
@@ -1249,7 +3804,116 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Dienstag 12.33h",
+          "duration_ms": 244747
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Vier Stunden später",
+          "duration_ms": 207613
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Freitag 11.48h",
+          "duration_ms": 176880
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Sein Grab",
+          "duration_ms": 55440
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Freitag 13.30h",
+          "duration_ms": 199613
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Ganz ruhig",
+          "duration_ms": 55733
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Freitag 19.47h",
+          "duration_ms": 98093
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Moment mal",
+          "duration_ms": 130853
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Da habt ihr",
+          "duration_ms": 212547
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Sie wollen",
+          "duration_ms": 160840
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Jane Collins",
+          "duration_ms": 238627
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Wartet bitte",
+          "duration_ms": 102200
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "War doch",
+          "duration_ms": 128013
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Zur Seite",
+          "duration_ms": 103147
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Du siehst",
+          "duration_ms": 146400
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Hier",
+          "duration_ms": 174667
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Verdammt",
+          "duration_ms": 254680
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Epilog",
+          "duration_ms": 148360
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/d9/98/b0/mzi.xzweangv.jpg/100x100bb.jpg",
       "apple_music_id": 309176828,
       "status": "active",
@@ -1273,7 +3937,122 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Ja! Pamela Scott?",
+          "duration_ms": 101160
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Da ist es wieder, hörst du es?",
+          "duration_ms": 154867
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Herby, ich sehe was, da vorne ...",
+          "duration_ms": 245547
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Du glaubst ja nicht im ernst, das dieser",
+          "duration_ms": 159413
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Ich jage die ganze Halle hoch!",
+          "duration_ms": 166587
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Mhm, ja doch ...",
+          "duration_ms": 33440
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Herbie rannte um sein Leben. Er hatte gesehen",
+          "duration_ms": 110427
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Ach du liebe Zeit!",
+          "duration_ms": 154480
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Nimm deine Finger von mir du verdammter",
+          "duration_ms": 255960
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Sie meinen es gibt noch mehr von",
+          "duration_ms": 236267
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Herein! Sir John",
+          "duration_ms": 202840
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Donnerstag 6:32 Uhr morgens",
+          "duration_ms": 190093
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Wie Weit ist es noch?",
+          "duration_ms": 230040
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Da wären wir! ...",
+          "duration_ms": 144187
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Alles klar Pamela? ...",
+          "duration_ms": 67813
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Hier ist es, sehen sie?",
+          "duration_ms": 69000
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Wie der Teufel rannte ich die Treppe",
+          "duration_ms": 164333
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Pamela der Boomerang",
+          "duration_ms": 91333
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Mit dem Handy informierte ich Sir John.",
+          "duration_ms": 75267
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/3b/87/bb/mzi.boherour.jpg/100x100bb.jpg",
       "apple_music_id": 309182108,
       "status": "active",
@@ -1320,7 +4099,110 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Donnerstag 23.54, Black Hills Forest, England",
+          "duration_ms": 314000
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Mach sie fertig John ...",
+          "duration_ms": 254333
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Freitag 18.05 - Mittelstation des Drachsteingebirges",
+          "duration_ms": 229813
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Man Toni, jetzt mach ich mir ...",
+          "duration_ms": 186200
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Freitag 19.00, Hotel Schönblick",
+          "duration_ms": 134080
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Ach du liebe Zeit ...",
+          "duration_ms": 69533
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Max Berger lenkte seinen Jeep ...",
+          "duration_ms": 113160
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Oh mein Gott.",
+          "duration_ms": 143627
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Freitag 20.11, im Haus der Familie Berger",
+          "duration_ms": 209467
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Und ihr Kollege hat es sich plötzlich ...",
+          "duration_ms": 154067
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Freitag 20.59, Haus der Familie Berger",
+          "duration_ms": 218107
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Kommen sie, hier lang.",
+          "duration_ms": 81760
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ich passierte die ersten beiden Höhlen ...",
+          "duration_ms": 104640
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Bitte, können sie nicht schneller fahren ...",
+          "duration_ms": 223053
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Der Vampir hatte mich über das Geländer ...",
+          "duration_ms": 143987
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Der Vampir war schnell ...",
+          "duration_ms": 112893
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Drei Stunden später ...",
+          "duration_ms": 111227
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/92/b6/cc/mzi.jyvaprkt.jpg/100x100bb.jpg",
       "apple_music_id": 309182475,
       "status": "active",
@@ -1367,7 +4249,116 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Sie hatten ihn gequält ...",
+          "duration_ms": 144520
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Wochenende. Lady Goldwin liebte diese Abende ...",
+          "duration_ms": 186480
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Polizei. Goldwin hier, Sara Goldwin ...",
+          "duration_ms": 245027
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Es hätte so ein schöner Abend werden können ...",
+          "duration_ms": 185853
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Schließen sie die Tür hinter mir ...",
+          "duration_ms": 199053
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Zwei Stunden später.",
+          "duration_ms": 163947
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Samstag, 23.54 In der Redaktion des Daily Globe",
+          "duration_ms": 66493
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Werd wach! Freunde, mir ging es schlecht ...",
+          "duration_ms": 292973
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Wo wollen sie hin?",
+          "duration_ms": 139613
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Lady Sara passierte ein Schild mit der Aufschrift ...",
+          "duration_ms": 157027
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Scheiß Wetter. Du sagst es, was hilft ...",
+          "duration_ms": 53093
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Nein, nein, nicht in die Zwangsjacke ...",
+          "duration_ms": 176040
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "He, was machen sie hier?",
+          "duration_ms": 122533
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Glauben sie mir, sie können ...",
+          "duration_ms": 181693
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Ihren Sohn wollten sie also besuchen ...",
+          "duration_ms": 223440
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Und, kannst du was erkennen Bill?",
+          "duration_ms": 60173
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Drei Kugeln befanden sich noch in der Trommel",
+          "duration_ms": 51067
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Ich habe dir gesagt ...",
+          "duration_ms": 208560
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/0a/f0/80/mzi.scsffjft.jpg/100x100bb.jpg",
       "apple_music_id": 309206799,
       "status": "active",
@@ -1415,7 +4406,98 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Das sieht nicht gut aus Bill",
+          "duration_ms": 254933
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Ich verbrenne",
+          "duration_ms": 261387
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Aber mein Mann ist um das Haus geflogen",
+          "duration_ms": 286013
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Sind wir ihnen entwischt",
+          "duration_ms": 168013
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Sonntag, 14:33 Uhr",
+          "duration_ms": 190640
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Sonntag, 9:45 Uhr",
+          "duration_ms": 143667
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Junge, Junge, Junge",
+          "duration_ms": 205187
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Sie haben ihn",
+          "duration_ms": 115160
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Er ist ein Wehrwolf",
+          "duration_ms": 148653
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Es war Nacht",
+          "duration_ms": 193213
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Endstation",
+          "duration_ms": 152627
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Ich habe einen Fehler gemacht",
+          "duration_ms": 233600
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ihr glaubt ihr hättet es tatsächlich geschafft",
+          "duration_ms": 209107
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Steig ein",
+          "duration_ms": 80200
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Nachdem ich in den frühen Morgenstunden",
+          "duration_ms": 178933
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/b6/dc/mzi.ophyarut.jpg/100x100bb.jpg",
       "apple_music_id": 309201143,
       "status": "active",
@@ -1487,7 +4569,122 @@
         "Krimi",
         "Thriller"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Sierra 9",
+          "duration_ms": 475133
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Bitte kehren sie",
+          "duration_ms": 180573
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Na endlich",
+          "duration_ms": 197427
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Küstenwache",
+          "duration_ms": 92987
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Herein",
+          "duration_ms": 186827
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Du scheinst dich",
+          "duration_ms": 70453
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Sie haben ihn",
+          "duration_ms": 88893
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Ist das normal",
+          "duration_ms": 35493
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Das Meer",
+          "duration_ms": 115533
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Und",
+          "duration_ms": 120520
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Mr Sinclair",
+          "duration_ms": 133387
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Irgendwas",
+          "duration_ms": 124707
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ich hatte",
+          "duration_ms": 85973
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Ist es gut so",
+          "duration_ms": 126107
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Scheiße",
+          "duration_ms": 62520
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Laß den Sarg",
+          "duration_ms": 204080
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Oh Gott",
+          "duration_ms": 256773
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Die Kugel",
+          "duration_ms": 367720
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "20 Minuten später",
+          "duration_ms": 148520
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/be/0a/71/mzi.xggfofly.jpg/100x100bb.jpg",
       "apple_music_id": 309201413,
       "status": "active",
@@ -1534,7 +4731,92 @@
         "Hörspiel",
         "Fantasy"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Sonntag 22.34h",
+          "duration_ms": 213893
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Da Vorne Ist Es",
+          "duration_ms": 433427
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Nein Bitte Nicht",
+          "duration_ms": 172880
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Hier",
+          "duration_ms": 258200
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "London 4.32h",
+          "duration_ms": 145160
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Noch Etwas Wein",
+          "duration_ms": 431440
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Powell",
+          "duration_ms": 158813
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Wir fuhren",
+          "duration_ms": 193480
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Ich Legte Meinen Arm",
+          "duration_ms": 210693
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Schlagartig",
+          "duration_ms": 157560
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "John",
+          "duration_ms": 82973
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Jetzt Wehr Dich Nicht So",
+          "duration_ms": 344040
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Halt",
+          "duration_ms": 152107
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Stehen bleiben",
+          "duration_ms": 414133
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/40/1f/02/mzi.bqtpdjrz.jpg/100x100bb.jpg",
       "apple_music_id": 309571812,
       "status": "active",
@@ -1558,7 +4840,110 @@
         "Hörspiel",
         "Horror"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "In der letzten Folge",
+          "duration_ms": 159547
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Ja",
+          "duration_ms": 200253
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Schnell",
+          "duration_ms": 183133
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Wo sind wir",
+          "duration_ms": 277973
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Hier entlang",
+          "duration_ms": 261213
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Ein bißchen dürftig",
+          "duration_ms": 106320
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "John",
+          "duration_ms": 161653
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Hier",
+          "duration_ms": 155813
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Nimm den",
+          "duration_ms": 112507
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Dienstag 18.21h",
+          "duration_ms": 156053
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Der Bus",
+          "duration_ms": 149040
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Der Mörder",
+          "duration_ms": 75453
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Vergangenheit",
+          "duration_ms": 79453
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Ist wirklich",
+          "duration_ms": 179467
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "John so wach doch",
+          "duration_ms": 280200
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Will Mallmann",
+          "duration_ms": 193027
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Nehmen sie",
+          "duration_ms": 200880
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/d7/1a/c0/mzi.flfgdpam.jpg/100x100bb.jpg",
       "apple_music_id": 309174968,
       "status": "active",
@@ -1604,7 +4989,122 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Sie hatten ihn geschwächt...",
+          "duration_ms": 184173
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Warum John? Warum?",
+          "duration_ms": 82627
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Gegenwart",
+          "duration_ms": 235227
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "John nein Karel, nein!",
+          "duration_ms": 250573
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Suko? Ja, Sir James ...",
+          "duration_ms": 127293
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Jetzt geht's los",
+          "duration_ms": 124627
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "John, Wir wollen zurück zum Dorf",
+          "duration_ms": 128867
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Bill Conolly folgte dem Schein der Fackel ...",
+          "duration_ms": 165947
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Es ist vollbracht!",
+          "duration_ms": 406227
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Misses Collins! Moment",
+          "duration_ms": 95173
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Bei Gott, was ist das?",
+          "duration_ms": 101520
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Dienstag, 21.43 Uhr",
+          "duration_ms": 207920
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Oohhh Gott John?",
+          "duration_ms": 143280
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Ah, gut. Sehr gut meine Freunde",
+          "duration_ms": 145280
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Misses Collins. Warum bin ich nicht überrascht?",
+          "duration_ms": 103360
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Jane Collins rannte um ihr Leben ...",
+          "duration_ms": 168280
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Meister hast du den Kelch?",
+          "duration_ms": 281960
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Gordon Fariak kochte vor Wut ...",
+          "duration_ms": 206613
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Burg Fariak brannte bis auf die Grundmauern nieder",
+          "duration_ms": 74947
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/e3/9e/d8/mzi.nwpkucok.jpg/100x100bb.jpg",
       "apple_music_id": 309156072,
       "status": "active",
@@ -1628,7 +5128,92 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Einst Hatte Man Ihn....",
+          "duration_ms": 456067
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Hilf Uns, Wo Bist Du....",
+          "duration_ms": 93707
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Mr. Sinclair? Ja Smith....",
+          "duration_ms": 239507
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Nach Vorne Gehn, Hier Passiert...",
+          "duration_ms": 199480
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Ahhhhhhh Ich Verbrenne...",
+          "duration_ms": 379693
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Suko Hatte Sich Neben Der Eingangstür...",
+          "duration_ms": 235253
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ich Schwebte, Fühlte Wie Mein Körper...",
+          "duration_ms": 148240
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Paul - Sir James? - Suko...",
+          "duration_ms": 45587
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Hier Geht Es Nicht Weiter...",
+          "duration_ms": 323360
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Seltsam, Das Treppenhaus Endet Einfach...",
+          "duration_ms": 85240
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Verdammt John, Wir Können Hier Nicht...",
+          "duration_ms": 338200
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Sie Dürfen Mich Nicht Gegen Meinen Willen...",
+          "duration_ms": 87653
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Zurück Dämon!",
+          "duration_ms": 277600
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Sperren Sie Das Gebiet...",
+          "duration_ms": 211413
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/94/c9/42/mzi.lggqwlvd.jpg/100x100bb.jpg",
       "apple_music_id": 309326889,
       "status": "active",
@@ -1676,7 +5261,80 @@
         "Krimi",
         "Thriller"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Mach es tot, mach es tot...",
+          "duration_ms": 421267
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Herein. Sie wollten mich sprechen ...",
+          "duration_ms": 166640
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Ok Leute, wer von euch ...",
+          "duration_ms": 219107
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Hier ist ja eine Stimmung ...",
+          "duration_ms": 237053
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Ronny Wilder saß die Angst ...",
+          "duration_ms": 184880
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Mr. Sinclair, das hier ist ...",
+          "duration_ms": 257440
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Hatte einer von euch heute ...",
+          "duration_ms": 231960
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Als Jane Und ich bei den ...",
+          "duration_ms": 102093
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Ganz toll Paul ...",
+          "duration_ms": 228720
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Eigentlich ist es den Schülern ...",
+          "duration_ms": 388747
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Fanny, bist du hier ...",
+          "duration_ms": 137347
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Und? Nichts ...",
+          "duration_ms": 335467
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f8/3e/26/mzi.ezxeqyfw.jpg/100x100bb.jpg",
       "apple_music_id": 309170640,
       "status": "active",
@@ -1699,7 +5357,98 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Das Ist Sie Morasso ...",
+          "duration_ms": 115947
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Ich War Hellwach ...",
+          "duration_ms": 218627
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Nicht So Hastig ...",
+          "duration_ms": 114507
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Kein Gepäck?",
+          "duration_ms": 203360
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Sinclair. Wir Haben Sie ...",
+          "duration_ms": 212987
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Ihre Bordkarten Bitte.",
+          "duration_ms": 216000
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Fahren Sie Los.",
+          "duration_ms": 174920
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Etwas Zu Trinken, Sir?",
+          "duration_ms": 214573
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Ist Die Maschine Startbereit?",
+          "duration_ms": 62773
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Sie Sind Ein Hohes Risiko ...",
+          "duration_ms": 281413
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Also, Besonders Schnell ...",
+          "duration_ms": 143693
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Wie Erstarrt Hockten Wir ...",
+          "duration_ms": 320453
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Was Soll Das Heissen ...",
+          "duration_ms": 92627
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Das Ist Doch Unmöglich.",
+          "duration_ms": 227240
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Wir Traten Aus Dem Cockpit.",
+          "duration_ms": 275627
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/9e/b7/eb/mzi.phijxipe.jpg/100x100bb.jpg",
       "apple_music_id": 309326366,
       "status": "active",
@@ -1746,7 +5495,110 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Es war ein Hort des Bösen",
+          "duration_ms": 232280
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Den Sprung aus der abstürzenden Boeing",
+          "duration_ms": 164987
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Ist sie wach?",
+          "duration_ms": 171653
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Collins",
+          "duration_ms": 187267
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Sir James!",
+          "duration_ms": 158133
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Setzen sie sich da hin!",
+          "duration_ms": 219827
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Jane Collins! Sieh an! Und der Chinese ist auch dabei!",
+          "duration_ms": 234000
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Angie, bist du da!?",
+          "duration_ms": 178053
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Atlantischer Ozean, auf dem Flugzeugträger",
+          "duration_ms": 266547
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Der Todesnebel?",
+          "duration_ms": 286653
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Und? So sagen sie doch was!",
+          "duration_ms": 125907
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Ich weiß gar nicht wovon sie reden!",
+          "duration_ms": 161880
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tokata? Ja, er hat das Mädchen in seiner Gewalt!",
+          "duration_ms": 140147
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Sie sind auferstanden!?",
+          "duration_ms": 161080
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Die Holzbowlen unter meinen Füssen",
+          "duration_ms": 107293
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Dogers an alle!",
+          "duration_ms": 209480
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Wir werden das Fenster zum Dach öffnen!",
+          "duration_ms": 259000
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/a3/50/9a/mzi.wnphublj.jpg/100x100bb.jpg",
       "apple_music_id": 309170807,
       "status": "active",
@@ -1792,7 +5644,98 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 1",
+          "duration_ms": 97707
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 2",
+          "duration_ms": 326253
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 3",
+          "duration_ms": 247387
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 4",
+          "duration_ms": 238213
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 5",
+          "duration_ms": 163280
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 6",
+          "duration_ms": 199080
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 7",
+          "duration_ms": 240667
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 8",
+          "duration_ms": 305373
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 9",
+          "duration_ms": 184653
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 10",
+          "duration_ms": 404840
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 11",
+          "duration_ms": 190227
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 12",
+          "duration_ms": 147493
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 13",
+          "duration_ms": 204747
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 14",
+          "duration_ms": 122240
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Die Teufelsuhr, Kapitel 15",
+          "duration_ms": 331347
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/0b/fe/e2/mzi.jrsdtoiq.jpg/100x100bb.jpg",
       "apple_music_id": 309171574,
       "status": "active",
@@ -1816,7 +5759,68 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 1",
+          "duration_ms": 445547
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 2",
+          "duration_ms": 344920
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 3",
+          "duration_ms": 282747
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 4",
+          "duration_ms": 310307
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 5",
+          "duration_ms": 252787
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 6",
+          "duration_ms": 233400
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 7",
+          "duration_ms": 230987
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 8",
+          "duration_ms": 199440
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 9",
+          "duration_ms": 188173
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Myxins Entführung, Kapitel 10",
+          "duration_ms": 353707
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/13/8a/b6/mzi.qjoxuhhd.jpg/100x100bb.jpg",
       "apple_music_id": 309174960,
       "status": "active",
@@ -1864,7 +5868,92 @@
         "Hörspiel",
         "Krimi"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 1",
+          "duration_ms": 294653
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 2",
+          "duration_ms": 153320
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 3",
+          "duration_ms": 117547
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 4",
+          "duration_ms": 80200
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 5",
+          "duration_ms": 196880
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 6",
+          "duration_ms": 165373
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 7",
+          "duration_ms": 144093
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 8",
+          "duration_ms": 218120
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 9",
+          "duration_ms": 191573
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 10",
+          "duration_ms": 271120
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 11",
+          "duration_ms": 265840
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 12",
+          "duration_ms": 155520
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 13",
+          "duration_ms": 284267
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Ich jagte Jack the Ripper, Kapitel 14",
+          "duration_ms": 255347
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/70/2a/1a/mzi.fsvlzkkv.jpg/100x100bb.jpg",
       "apple_music_id": 310881940,
       "status": "active",
@@ -1912,7 +6001,122 @@
         "Krimi",
         "Thriller"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 1",
+          "duration_ms": 158333
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 2",
+          "duration_ms": 260307
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 3",
+          "duration_ms": 109333
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 4",
+          "duration_ms": 295213
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 5",
+          "duration_ms": 209760
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 6",
+          "duration_ms": 250733
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 7",
+          "duration_ms": 209320
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 8",
+          "duration_ms": 195293
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 9",
+          "duration_ms": 165920
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 10",
+          "duration_ms": 145813
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 11",
+          "duration_ms": 136640
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 12",
+          "duration_ms": 338040
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 13",
+          "duration_ms": 123093
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 14",
+          "duration_ms": 219000
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 15",
+          "duration_ms": 180267
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 16",
+          "duration_ms": 174813
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 17",
+          "duration_ms": 189960
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 18",
+          "duration_ms": 188933
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Zombies in Manhattan, Kapitel 19",
+          "duration_ms": 72747
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/23/e1/bf/mzi.rixiluzc.jpg/100x100bb.jpg",
       "apple_music_id": 310881960,
       "status": "active",
@@ -1935,7 +6139,116 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 1",
+          "duration_ms": 141505
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 2",
+          "duration_ms": 237052
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 3",
+          "duration_ms": 98870
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 4",
+          "duration_ms": 89477
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 5",
+          "duration_ms": 87213
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 6",
+          "duration_ms": 218481
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 7",
+          "duration_ms": 188708
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 8",
+          "duration_ms": 308319
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 9",
+          "duration_ms": 59143
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 10",
+          "duration_ms": 103332
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 11",
+          "duration_ms": 256626
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 12",
+          "duration_ms": 98294
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 13",
+          "duration_ms": 66270
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 14",
+          "duration_ms": 276699
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 15",
+          "duration_ms": 72582
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 16",
+          "duration_ms": 192380
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 17",
+          "duration_ms": 43842
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Mannequins mit Mörderaugen, Kapitel 18",
+          "duration_ms": 226948
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/8d/0f/e2/mzi.zocqhoza.jpg/100x100bb.jpg",
       "apple_music_id": 324276149,
       "status": "active",
@@ -1958,7 +6271,116 @@
       "genres": [
         "Hörspiel"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 1",
+          "duration_ms": 105783
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 2",
+          "duration_ms": 146663
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 3",
+          "duration_ms": 172241
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 4",
+          "duration_ms": 212090
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 5",
+          "duration_ms": 153617
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 6",
+          "duration_ms": 214863
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 7",
+          "duration_ms": 247113
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 8",
+          "duration_ms": 125842
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 9",
+          "duration_ms": 191656
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 10",
+          "duration_ms": 148901
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 11",
+          "duration_ms": 290552
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 12",
+          "duration_ms": 73962
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 13",
+          "duration_ms": 164202
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 14",
+          "duration_ms": 124394
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 15",
+          "duration_ms": 128776
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 16",
+          "duration_ms": 79536
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 17",
+          "duration_ms": 245519
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Horrortrip zur Schönheitsfarm, Kapitel 18",
+          "duration_ms": 309940
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/15/c8/9b/mzi.grgpkeak.jpg/100x100bb.jpg",
       "apple_music_id": 324275565,
       "status": "active",

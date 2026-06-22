@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-22T11:52:36.845636+00:00",
+  "exported_at": "2026-06-22T11:53:18.417307+00:00",
   "franchises": [
     {
       "name": "Die drei ???",
@@ -458820,7 +458820,248 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Samstag 17 Uhr 34...",
+              "duration_ms": 192200
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Montag 21 Uhr 26...",
+              "duration_ms": 110733
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Dienstag 0 Uhr 43...",
+              "duration_ms": 165627
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Was? Caroline, Bist Du Das?",
+              "duration_ms": 186173
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Frank! Der Junge Wird Durchkommen...",
+              "duration_ms": 47893
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Dienstag 4 Uhr 23...",
+              "duration_ms": 112147
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Was Willst Du Denn So Früh Am Morgen...",
+              "duration_ms": 199987
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Mittwoch 11 Uhr 23...",
+              "duration_ms": 89707
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Conolly. Hey Der Rasende Reporter...",
+              "duration_ms": 100640
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Mittwoch 15 Uhr 53...",
+              "duration_ms": 37707
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Oh Du Meine Güte, Wo Bin Ich",
+              "duration_ms": 216040
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Anne Baxter Verließ Die Gasstätte...",
+              "duration_ms": 81973
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Mittwoch 19 Uhr 10...",
+              "duration_ms": 123920
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Donnerstags 9 Uhr 14...",
+              "duration_ms": 93533
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Na, Notieren Sie Sich Meinen Namen?",
+              "duration_ms": 121147
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Collins. Jane? Anne Hier...",
+              "duration_ms": 55760
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Herein. Constable Jones?...",
+              "duration_ms": 183347
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Donnerstag 19 Uhr 58...",
+              "duration_ms": 71627
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Hallo? Jemand Da?",
+              "duration_ms": 228400
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Ich Untersuchte Die Tatorte Und Beweisstücke Sehr Genau...",
+              "duration_ms": 82840
+            },
+            {
+              "track": 21,
+              "disc": 1,
+              "title": "Leg' Sie Da Drüben Auf Die Bahre, Igor...",
+              "duration_ms": 134520
+            },
+            {
+              "track": 22,
+              "disc": 1,
+              "title": "Natürlich, Das Obligatorische Eisentor...",
+              "duration_ms": 142400
+            },
+            {
+              "track": 23,
+              "disc": 1,
+              "title": "Donnerstag 21 Uhr 53...",
+              "duration_ms": 80773
+            },
+            {
+              "track": 24,
+              "disc": 1,
+              "title": "Krieg' Ich Auch Eine, Jason",
+              "duration_ms": 69040
+            },
+            {
+              "track": 25,
+              "disc": 1,
+              "title": "Jones. Constable! Sir!....",
+              "duration_ms": 35307
+            },
+            {
+              "track": 26,
+              "disc": 1,
+              "title": "Los! Komm Zu Dir!",
+              "duration_ms": 206480
+            },
+            {
+              "track": 27,
+              "disc": 1,
+              "title": "Mrs. Baxter, Was Machen Sie Denn Hier...",
+              "duration_ms": 76720
+            },
+            {
+              "track": 28,
+              "disc": 1,
+              "title": "Hey! Stop!...",
+              "duration_ms": 33653
+            },
+            {
+              "track": 29,
+              "disc": 1,
+              "title": "Bald Ist Es So Weit Lara....",
+              "duration_ms": 176613
+            },
+            {
+              "track": 30,
+              "disc": 1,
+              "title": "Hier Vorne Ist Es.",
+              "duration_ms": 101467
+            },
+            {
+              "track": 31,
+              "disc": 1,
+              "title": "Können Sie Nicht Schneller Fahren, Joe?...",
+              "duration_ms": 162120
+            },
+            {
+              "track": 32,
+              "disc": 1,
+              "title": "Powell. Entschuldigen Sie, Dass Ich Sie...",
+              "duration_ms": 65120
+            },
+            {
+              "track": 33,
+              "disc": 1,
+              "title": "Also Leute Hört Mal Her...",
+              "duration_ms": 108213
+            },
+            {
+              "track": 34,
+              "disc": 1,
+              "title": "Möchten Sie Auch Eine?",
+              "duration_ms": 143040
+            },
+            {
+              "track": 35,
+              "disc": 1,
+              "title": "In Deckung!",
+              "duration_ms": 29853
+            },
+            {
+              "track": 36,
+              "disc": 1,
+              "title": "Es Ist Ruhiger Geworden...",
+              "duration_ms": 74293
+            },
+            {
+              "track": 37,
+              "disc": 1,
+              "title": "Der Professor Hatte Vom Friedhof Aus...",
+              "duration_ms": 95320
+            },
+            {
+              "track": 38,
+              "disc": 1,
+              "title": "Was Soll Das? Was...",
+              "duration_ms": 142653
+            },
+            {
+              "track": 39,
+              "disc": 1,
+              "title": "Lara Hatte Mir Mehre Rippen Und Das Schlüsselbein...",
+              "duration_ms": 69053
+            },
+            {
+              "track": 40,
+              "disc": 1,
+              "title": "The Light of the Son Is the Son of the Light",
+              "duration_ms": 177467
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bf/dd/12/bfdd1206-4431-94b0-7c82-43df889f4868/9783838761503_3000.jpg/100x100bb.jpg",
           "apple_music_id": 356472016,
           "status": "active",
@@ -458834,7 +459075,92 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 1 (Remastered)",
+              "duration_ms": 410659
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 2 (Remastered)",
+              "duration_ms": 230151
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 3 (Remastered)",
+              "duration_ms": 403397
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 4 (Remastered)",
+              "duration_ms": 211098
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 5 (Remastered)",
+              "duration_ms": 129352
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 6 (Remastered)",
+              "duration_ms": 118928
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 7 (Remastered)",
+              "duration_ms": 119799
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 8 (Remastered)",
+              "duration_ms": 101589
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 9 (Remastered)",
+              "duration_ms": 384545
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 10 (Remastered)",
+              "duration_ms": 83247
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 11 (Remastered)",
+              "duration_ms": 222420
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 12 (Remastered)",
+              "duration_ms": 272008
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 13 (Remastered)",
+              "duration_ms": 241607
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Im Nachtclub der Vampire - Kapitel 14 (Remastered)",
+              "duration_ms": 960812
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/fd/3e/3a/mzi.ewfwsszz.jpg/100x100bb.jpg",
           "apple_music_id": 333633618,
           "status": "active",
@@ -458864,7 +459190,98 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 1",
+              "duration_ms": 160223
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 2",
+              "duration_ms": 266609
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 3",
+              "duration_ms": 157878
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 4",
+              "duration_ms": 174720
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 5",
+              "duration_ms": 154033
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 6",
+              "duration_ms": 154663
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 7",
+              "duration_ms": 186512
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 8",
+              "duration_ms": 303215
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 9",
+              "duration_ms": 156378
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 10",
+              "duration_ms": 233032
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 11",
+              "duration_ms": 232683
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 12",
+              "duration_ms": 266314
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 13",
+              "duration_ms": 241419
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 14",
+              "duration_ms": 339082
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Mörder aus dem Totenreich, Teil 15",
+              "duration_ms": 349400
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/c1/71/fa/mzi.cwfqsqvk.jpg/100x100bb.jpg",
           "apple_music_id": 357774896,
           "status": "active",
@@ -458960,7 +459377,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 1",
+              "duration_ms": 310222
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 2",
+              "duration_ms": 191482
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 3",
+              "duration_ms": 292777
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 4",
+              "duration_ms": 401334
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 5",
+              "duration_ms": 479970
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 6",
+              "duration_ms": 266502
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 7",
+              "duration_ms": 547674
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 8",
+              "duration_ms": 185091
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 9",
+              "duration_ms": 237896
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 10",
+              "duration_ms": 370221
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Dr. Satanos - Teil 11",
+              "duration_ms": 227525
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/4d/1e/f1/mzi.evtrnbvy.jpg/100x100bb.jpg",
           "apple_music_id": 371219234,
           "status": "active",
@@ -459074,7 +459558,74 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 1",
+              "duration_ms": 262147
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 2",
+              "duration_ms": 261693
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 3",
+              "duration_ms": 263733
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 4",
+              "duration_ms": 332320
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 5",
+              "duration_ms": 262027
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 6",
+              "duration_ms": 350933
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 7",
+              "duration_ms": 321573
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 8",
+              "duration_ms": 352760
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 9",
+              "duration_ms": 377867
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 10",
+              "duration_ms": 259413
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Das Leichenhaus der Lady L. - Teil 11",
+              "duration_ms": 294040
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/46/8f/1f/mzi.iunjxcof.jpg/100x100bb.jpg",
           "apple_music_id": 386719338,
           "status": "active",
@@ -459300,7 +459851,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 1",
+              "duration_ms": 243560
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 2",
+              "duration_ms": 375133
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 3",
+              "duration_ms": 282120
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 4",
+              "duration_ms": 245280
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 5",
+              "duration_ms": 399187
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 6",
+              "duration_ms": 266067
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 7",
+              "duration_ms": 269960
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 8",
+              "duration_ms": 352867
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 9",
+              "duration_ms": 537040
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 10",
+              "duration_ms": 223920
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Sakuro, der Dämon - Teil 11",
+              "duration_ms": 326000
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/e0/eb/ed/mzi.noekygim.jpg/100x100bb.jpg",
           "apple_music_id": 402447168,
           "status": "active",
@@ -459316,7 +459934,80 @@
             "Fantasy",
             "Horror"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 1",
+              "duration_ms": 231093
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 2",
+              "duration_ms": 406067
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 3",
+              "duration_ms": 255560
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 4",
+              "duration_ms": 232333
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 5",
+              "duration_ms": 322107
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 6",
+              "duration_ms": 258760
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 7",
+              "duration_ms": 227627
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 8",
+              "duration_ms": 364787
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 9",
+              "duration_ms": 303960
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 10",
+              "duration_ms": 206600
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 11",
+              "duration_ms": 238067
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Friedhof der Vampire, Teil 12",
+              "duration_ms": 229467
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/18/37/67/mzi.zdbguhib.jpg/100x100bb.jpg",
           "apple_music_id": 418709399,
           "status": "active",
@@ -459459,7 +460150,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 1",
+              "duration_ms": 223133
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 2",
+              "duration_ms": 293013
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 3",
+              "duration_ms": 283107
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 4",
+              "duration_ms": 287147
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 5",
+              "duration_ms": 200187
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 6",
+              "duration_ms": 371240
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 7",
+              "duration_ms": 529733
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 8",
+              "duration_ms": 339960
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 9",
+              "duration_ms": 292107
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 10",
+              "duration_ms": 310893
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Classics Folge 7: Die Töchter der Hölle - Teil 11",
+              "duration_ms": 427302
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/de/d6/36/mzi.obgsxerg.jpg/100x100bb.jpg",
           "apple_music_id": 444178625,
           "status": "active",
@@ -459568,7 +460326,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 1",
+              "duration_ms": 325107
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 2",
+              "duration_ms": 313187
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 3",
+              "duration_ms": 249893
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 4",
+              "duration_ms": 305387
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 5",
+              "duration_ms": 353973
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 6",
+              "duration_ms": 304080
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 7",
+              "duration_ms": 177040
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 8",
+              "duration_ms": 244760
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 9",
+              "duration_ms": 315907
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 10",
+              "duration_ms": 211933
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Classics Folge 8: Das Rätsel der gläsernen Särge - Teil 11",
+              "duration_ms": 411867
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/66/da/8b/mzi.qrcecdgf.jpg/100x100bb.jpg",
           "apple_music_id": 453536817,
           "status": "active",
@@ -459676,7 +460501,68 @@
             "Hörspiel",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 1",
+              "duration_ms": 203387
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 2",
+              "duration_ms": 250013
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 3",
+              "duration_ms": 234200
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 4",
+              "duration_ms": 401320
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 5",
+              "duration_ms": 270133
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 6",
+              "duration_ms": 389253
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 7",
+              "duration_ms": 349560
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 8",
+              "duration_ms": 431867
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 9",
+              "duration_ms": 346973
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Die Nacht des schwarzen Drachen - Kapitel 10",
+              "duration_ms": 286755
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/bc/5d/84/mzi.gfzkvnhs.jpg/100x100bb.jpg",
           "apple_music_id": 470491866,
           "status": "active",
@@ -459784,7 +460670,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 1",
+              "duration_ms": 319680
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 2",
+              "duration_ms": 250707
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 3",
+              "duration_ms": 418667
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 4",
+              "duration_ms": 281453
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 5",
+              "duration_ms": 369133
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 6",
+              "duration_ms": 261413
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 7",
+              "duration_ms": 365053
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 8",
+              "duration_ms": 360427
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 9",
+              "duration_ms": 411853
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 10",
+              "duration_ms": 315000
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Classics Folge 10: Die Insel der Skelette, Kapitel 11",
+              "duration_ms": 399320
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/04/ae/11/mzi.suqmajjv.jpg/100x100bb.jpg",
           "apple_music_id": 498475675,
           "status": "active",
@@ -459894,7 +460847,68 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 1",
+              "duration_ms": 458347
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 2",
+              "duration_ms": 336453
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 3",
+              "duration_ms": 270000
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 4",
+              "duration_ms": 423840
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 5",
+              "duration_ms": 374373
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 6",
+              "duration_ms": 578080
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 7",
+              "duration_ms": 325800
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 8",
+              "duration_ms": 418413
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 9",
+              "duration_ms": 432493
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Classics Folge 11: Der Blutgraf, Kapitel 10",
+              "duration_ms": 221093
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/bc/14/be/bc14be0d-68ab-6fab-4258-32b5a2bef142/9783838770185_1448.jpg/100x100bb.jpg",
           "apple_music_id": 537591474,
           "status": "active",
@@ -460098,7 +461112,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 1",
+              "duration_ms": 142013
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 2",
+              "duration_ms": 280000
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 3",
+              "duration_ms": 384533
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 4",
+              "duration_ms": 329440
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 5",
+              "duration_ms": 303027
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 6",
+              "duration_ms": 319507
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 7",
+              "duration_ms": 472560
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 8",
+              "duration_ms": 459800
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 9",
+              "duration_ms": 441227
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 10",
+              "duration_ms": 394187
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 13: John Sinclair Classics - Amoklauf der Mumie, Kapitel 11",
+              "duration_ms": 315933
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4e/44/a7/4e44a724-5bbe-e1c8-eff7-a9157b807806/9783838770888_1448.jpg/100x100bb.jpg",
           "apple_music_id": 580463366,
           "status": "active",
@@ -464463,7 +465544,110 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 1",
+              "duration_ms": 117440
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 2",
+              "duration_ms": 210777
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 3",
+              "duration_ms": 230339
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 4",
+              "duration_ms": 125413
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 5",
+              "duration_ms": 87521
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 6",
+              "duration_ms": 154890
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 7",
+              "duration_ms": 175859
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 8",
+              "duration_ms": 117534
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 9",
+              "duration_ms": 243429
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 10",
+              "duration_ms": 99848
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 11",
+              "duration_ms": 116543
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 12",
+              "duration_ms": 264948
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 13",
+              "duration_ms": 259186
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 14",
+              "duration_ms": 306069
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 15",
+              "duration_ms": 338641
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 16",
+              "duration_ms": 49978
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Dämonen im Raketencamp, Kapitel 17",
+              "duration_ms": 315514
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/5b/1e/0c/mzi.ytqrkhku.jpg/100x100bb.jpg",
           "apple_music_id": 327483755,
           "status": "active",
@@ -464478,7 +465662,104 @@
             "Abenteuer",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 1",
+              "duration_ms": 156512
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 2",
+              "duration_ms": 344228
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 3",
+              "duration_ms": 182572
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 4",
+              "duration_ms": 217221
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 5",
+              "duration_ms": 102755
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 6",
+              "duration_ms": 247502
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 7",
+              "duration_ms": 79549
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 8",
+              "duration_ms": 305961
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 9",
+              "duration_ms": 264505
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 10",
+              "duration_ms": 283357
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 11",
+              "duration_ms": 211540
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 12",
+              "duration_ms": 240696
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 13",
+              "duration_ms": 82831
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 14",
+              "duration_ms": 230365
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 15",
+              "duration_ms": 182344
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Fenris, der Götterwolf, Teil 16",
+              "duration_ms": 152358
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/11/ed/a7/mzi.idunexuj.jpg/100x100bb.jpg",
           "apple_music_id": 356571065,
           "status": "active",
@@ -464492,7 +465773,92 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 1",
+              "duration_ms": 228155
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 2",
+              "duration_ms": 231544
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 3",
+              "duration_ms": 115646
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 4",
+              "duration_ms": 212639
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 5",
+              "duration_ms": 294799
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 6",
+              "duration_ms": 114573
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 7",
+              "duration_ms": 245439
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 8",
+              "duration_ms": 210562
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 9",
+              "duration_ms": 140942
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 10",
+              "duration_ms": 244247
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 11",
+              "duration_ms": 254510
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 12",
+              "duration_ms": 321571
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 13",
+              "duration_ms": 140942
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Eine schaurige Warnung, Teil 14",
+              "duration_ms": 270669
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/2f/84/2d/mzi.zpqaqsuz.jpg/100x100bb.jpg",
           "apple_music_id": 356610081,
           "status": "active",
@@ -464506,7 +465872,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 1",
+              "duration_ms": 332383
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 2",
+              "duration_ms": 212438
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 3",
+              "duration_ms": 317002
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 4",
+              "duration_ms": 360762
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 5",
+              "duration_ms": 331714
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 6",
+              "duration_ms": 279954
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 7",
+              "duration_ms": 280088
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 8",
+              "duration_ms": 295108
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 9",
+              "duration_ms": 309043
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 10",
+              "duration_ms": 345327
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 57: Im Jenseits verurteilt - Teil 11",
+              "duration_ms": 327533
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b7/2f/mzi.wcvrmwbj.jpg/100x100bb.jpg",
           "apple_music_id": 378824710,
           "status": "active",
@@ -464521,7 +465954,74 @@
             "Hörspiel",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 1",
+              "duration_ms": 286332
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 2",
+              "duration_ms": 295698
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 3",
+              "duration_ms": 286828
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 4",
+              "duration_ms": 306993
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 5",
+              "duration_ms": 203139
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 6",
+              "duration_ms": 253277
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 7",
+              "duration_ms": 223773
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 8",
+              "duration_ms": 273509
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 9",
+              "duration_ms": 285247
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 10",
+              "duration_ms": 289454
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 58: Asmodinas Todeslabyrinth - Teil 11",
+              "duration_ms": 181487
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/a4/29/90/mzi.wtdlbnsu.jpg/100x100bb.jpg",
           "apple_music_id": 381704062,
           "status": "active",
@@ -464535,7 +466035,80 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 1",
+              "duration_ms": 372413
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 2",
+              "duration_ms": 370933
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 3",
+              "duration_ms": 221200
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 4",
+              "duration_ms": 208427
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 5",
+              "duration_ms": 221640
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 6",
+              "duration_ms": 239933
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 7",
+              "duration_ms": 284920
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 8",
+              "duration_ms": 213667
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 9",
+              "duration_ms": 252947
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 10",
+              "duration_ms": 168267
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 11",
+              "duration_ms": 310747
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 59: Das Erbe des Schwarzen Tods - Teil 12",
+              "duration_ms": 127827
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/2a/b8/00/mzi.zycivdpf.jpg/100x100bb.jpg",
           "apple_music_id": 392283108,
           "status": "active",
@@ -464550,7 +466123,80 @@
             "Krimi",
             "Thriller"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 1",
+              "duration_ms": 259507
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 2",
+              "duration_ms": 101907
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 3",
+              "duration_ms": 393813
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 4",
+              "duration_ms": 310760
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 5",
+              "duration_ms": 313907
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 6",
+              "duration_ms": 370333
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 7",
+              "duration_ms": 151520
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 8",
+              "duration_ms": 80893
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 9",
+              "duration_ms": 181733
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 10",
+              "duration_ms": 414800
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 11",
+              "duration_ms": 32747
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 60: Ich stieß das Tor zur Hölle auf - Teil 12",
+              "duration_ms": 345267
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/7b/1b/cc/mzi.kcniwpcj.jpg/100x100bb.jpg",
           "apple_music_id": 396107978,
           "status": "active",
@@ -464564,7 +466210,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 1",
+              "duration_ms": 343000
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 2",
+              "duration_ms": 304107
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 3",
+              "duration_ms": 256213
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 4",
+              "duration_ms": 210387
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 5",
+              "duration_ms": 270333
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 6",
+              "duration_ms": 374813
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 7",
+              "duration_ms": 244187
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 8",
+              "duration_ms": 335253
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 9",
+              "duration_ms": 232867
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 10",
+              "duration_ms": 211800
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 61: Im Zentrum des Schreckens - Teil 11",
+              "duration_ms": 195640
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/b8/b5/2d/mzi.bmezoprg.jpg/100x100bb.jpg",
           "apple_music_id": 402446668,
           "status": "active",
@@ -464578,7 +466291,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 1",
+              "duration_ms": 421573
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 2",
+              "duration_ms": 433467
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 3",
+              "duration_ms": 306160
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 4",
+              "duration_ms": 242693
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 5",
+              "duration_ms": 419093
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 6",
+              "duration_ms": 258853
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 7",
+              "duration_ms": 180667
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 8",
+              "duration_ms": 396480
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 9",
+              "duration_ms": 303440
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 10",
+              "duration_ms": 564933
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 62: Bring mir den Kopf von Asmodina - Teil 11",
+              "duration_ms": 173160
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/58/2a/cf/mzi.bqqbclen.jpg/100x100bb.jpg",
           "apple_music_id": 403746153,
           "status": "active",
@@ -464592,7 +466372,86 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 1",
+              "duration_ms": 198987
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 2",
+              "duration_ms": 206787
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 3",
+              "duration_ms": 366613
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 4",
+              "duration_ms": 206600
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 5",
+              "duration_ms": 139480
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 6",
+              "duration_ms": 370640
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 7",
+              "duration_ms": 229080
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 8",
+              "duration_ms": 195720
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 9",
+              "duration_ms": 248320
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 10",
+              "duration_ms": 333333
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 11",
+              "duration_ms": 143693
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 12",
+              "duration_ms": 271093
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 63: Tokatas Todesspur - Teil 13",
+              "duration_ms": 410813
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/a7/42/d9/mzi.dqcqsmwf.jpg/100x100bb.jpg",
           "apple_music_id": 412855445,
           "status": "active",
@@ -464606,7 +466465,68 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 1",
+              "duration_ms": 166093
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 2",
+              "duration_ms": 265133
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 3",
+              "duration_ms": 197867
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 4",
+              "duration_ms": 226133
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 5",
+              "duration_ms": 389560
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 6",
+              "duration_ms": 282880
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 7",
+              "duration_ms": 241960
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 8",
+              "duration_ms": 379333
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 9",
+              "duration_ms": 247453
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 64: Um Mitternacht am Galgenberg - Teil 10",
+              "duration_ms": 239413
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/1d/40/mzi.ugpoaluz.jpg/100x100bb.jpg",
           "apple_music_id": 425336465,
           "status": "active",
@@ -464620,7 +466540,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 1",
+              "duration_ms": 200347
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 2",
+              "duration_ms": 213867
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 3",
+              "duration_ms": 291333
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 4",
+              "duration_ms": 269707
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 5",
+              "duration_ms": 145387
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 6",
+              "duration_ms": 303387
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 7",
+              "duration_ms": 318613
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 8",
+              "duration_ms": 158893
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 9",
+              "duration_ms": 262453
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 10",
+              "duration_ms": 413120
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 65: Das Vampirnest - Teil 11",
+              "duration_ms": 283213
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/eb/7c/39/mzi.yvlsqenf.jpg/100x100bb.jpg",
           "apple_music_id": 431079949,
           "status": "active",
@@ -464635,7 +466622,68 @@
             "Hörspiel",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 1",
+              "duration_ms": 353400
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 2",
+              "duration_ms": 346787
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 3",
+              "duration_ms": 268120
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 4",
+              "duration_ms": 230427
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 5",
+              "duration_ms": 493173
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 6",
+              "duration_ms": 382600
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 7",
+              "duration_ms": 432933
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 8",
+              "duration_ms": 379440
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 9",
+              "duration_ms": 228120
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 66: Hexenwahn - Teil 10",
+              "duration_ms": 360726
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/1c/29/27/mzi.nswblvyy.jpg/100x100bb.jpg",
           "apple_music_id": 436337105,
           "status": "active",
@@ -464649,7 +466697,74 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 1",
+              "duration_ms": 336440
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 2",
+              "duration_ms": 301240
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 3",
+              "duration_ms": 275173
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 4",
+              "duration_ms": 385427
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 5",
+              "duration_ms": 389493
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 6",
+              "duration_ms": 281413
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 7",
+              "duration_ms": 194533
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 8",
+              "duration_ms": 276427
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 9",
+              "duration_ms": 316440
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 10",
+              "duration_ms": 364760
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 67: Die Gruft mit dem Höllenauge - Teil 11",
+              "duration_ms": 282853
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/53/ec/d2/mzi.smbwilfh.jpg/100x100bb.jpg",
           "apple_music_id": 449150577,
           "status": "active",
@@ -464664,7 +466779,68 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 1",
+              "duration_ms": 220293
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 2",
+              "duration_ms": 240587
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 3",
+              "duration_ms": 290827
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 4",
+              "duration_ms": 371240
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 5",
+              "duration_ms": 380333
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 6",
+              "duration_ms": 363200
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 7",
+              "duration_ms": 374307
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 8",
+              "duration_ms": 286160
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 9",
+              "duration_ms": 294173
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Die Leichenkutsche von London - Kapitel 10",
+              "duration_ms": 115213
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/62/93/ec/mzi.iucrlrht.jpg/100x100bb.jpg",
           "apple_music_id": 465049804,
           "status": "active",
@@ -464679,7 +466855,68 @@
             "Hörspiel",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 1",
+              "duration_ms": 409240
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 2",
+              "duration_ms": 159480
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 3",
+              "duration_ms": 224267
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 4",
+              "duration_ms": 332827
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 5",
+              "duration_ms": 450680
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 6",
+              "duration_ms": 292853
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 7",
+              "duration_ms": 238493
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 8",
+              "duration_ms": 172973
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 9",
+              "duration_ms": 374747
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 70: Die Hexeninsel - Kapitel 10",
+              "duration_ms": 105627
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/ba/dd/88/mzi.ttznyzot.jpg/100x100bb.jpg",
           "apple_music_id": 479568458,
           "status": "active",
@@ -464693,7 +466930,68 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 1",
+              "duration_ms": 331893
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 2",
+              "duration_ms": 405467
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 3",
+              "duration_ms": 312520
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 4",
+              "duration_ms": 185453
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 5",
+              "duration_ms": 378013
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 6",
+              "duration_ms": 442613
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 7",
+              "duration_ms": 393867
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 8",
+              "duration_ms": 355800
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 9",
+              "duration_ms": 376840
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 71: Der Mann, der nicht sterben konnte - Kapitel 10",
+              "duration_ms": 203533
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/4f/0c/11/mzi.tnagrmkz.jpg/100x100bb.jpg",
           "apple_music_id": 493272604,
           "status": "active",
@@ -464707,7 +467005,68 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 1",
+              "duration_ms": 474453
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 2",
+              "duration_ms": 409600
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 3",
+              "duration_ms": 223000
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 4",
+              "duration_ms": 265120
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 5",
+              "duration_ms": 197747
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 6",
+              "duration_ms": 311720
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 7",
+              "duration_ms": 392427
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 8",
+              "duration_ms": 332920
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 9",
+              "duration_ms": 389000
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 73: Die Werwolf-Elite - Kapitel 10",
+              "duration_ms": 379667
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/68/e7/19/68e7194f-350a-1743-396f-fb3447126ef6/9783838770062_1448.jpg/100x100bb.jpg",
           "apple_music_id": 514759783,
           "status": "active",
@@ -464722,7 +467081,74 @@
             "Hörspiel",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 1",
+              "duration_ms": 445013
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 2",
+              "duration_ms": 397787
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 3",
+              "duration_ms": 342200
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 4",
+              "duration_ms": 250027
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 5",
+              "duration_ms": 333773
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 6",
+              "duration_ms": 325013
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 7",
+              "duration_ms": 337227
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 8",
+              "duration_ms": 296213
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 9",
+              "duration_ms": 384880
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 10",
+              "duration_ms": 338013
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 75: Albtraum in Atlantis, Kapitel 11",
+              "duration_ms": 184533
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/c6/51/c2/c651c218-e698-bc27-9dc9-741ff7eb240d/9783838770703_1448.jpg/100x100bb.jpg",
           "apple_music_id": 545608305,
           "status": "active",
@@ -464737,7 +467163,74 @@
             "Hörspiel",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 1",
+              "duration_ms": 244987
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 2",
+              "duration_ms": 264187
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 3",
+              "duration_ms": 223080
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 4",
+              "duration_ms": 246373
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 5",
+              "duration_ms": 371907
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 6",
+              "duration_ms": 302880
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 7",
+              "duration_ms": 365707
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 8",
+              "duration_ms": 345053
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 9",
+              "duration_ms": 272747
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 10",
+              "duration_ms": 203320
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 76 - Herrin der Dunkelwelt, Kapitel 11",
+              "duration_ms": 305147
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/eb/59/6a/eb596a30-fcd9-a4f5-1a8b-909951969614/9783838770499_1448.jpg/100x100bb.jpg",
           "apple_music_id": 554174497,
           "status": "active",
@@ -464751,7 +467244,86 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 1",
+              "duration_ms": 306347
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 2",
+              "duration_ms": 329280
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 3",
+              "duration_ms": 324360
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 4",
+              "duration_ms": 295000
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 5",
+              "duration_ms": 206787
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 6",
+              "duration_ms": 321773
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 7",
+              "duration_ms": 299333
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 8",
+              "duration_ms": 299387
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 9",
+              "duration_ms": 396840
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 10",
+              "duration_ms": 453093
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 11",
+              "duration_ms": 266307
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 12",
+              "duration_ms": 209200
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 77: Der lächelnde Henker, Kapitel 13",
+              "duration_ms": 317107
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8b/38/13/8b3813b5-a38b-dedc-1df0-8689075edff4/9783838770864_1448.jpg/100x100bb.jpg",
           "apple_music_id": 567092015,
           "status": "active",
@@ -464766,7 +467338,80 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 1",
+              "duration_ms": 191253
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 2",
+              "duration_ms": 322560
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 3",
+              "duration_ms": 306973
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 4",
+              "duration_ms": 381093
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 5",
+              "duration_ms": 367613
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 6",
+              "duration_ms": 267627
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 7",
+              "duration_ms": 216800
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 8",
+              "duration_ms": 212213
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 9",
+              "duration_ms": 227627
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 10",
+              "duration_ms": 284733
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 11",
+              "duration_ms": 215893
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 78: Die Todesgöttin, Kapitel 12",
+              "duration_ms": 373067
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ef/f7/64/eff7646e-d4e6-0931-bc7e-a9be0bf35644/9783838770963_1448.jpg/100x100bb.jpg",
           "apple_music_id": 570751019,
           "status": "active",
@@ -464781,7 +467426,68 @@
             "Hörspiel",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 1",
+              "duration_ms": 194920
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 2",
+              "duration_ms": 407560
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 3",
+              "duration_ms": 389560
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 4",
+              "duration_ms": 387973
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 5",
+              "duration_ms": 310453
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 6",
+              "duration_ms": 283933
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 7",
+              "duration_ms": 338520
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 8",
+              "duration_ms": 411213
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 9",
+              "duration_ms": 388560
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie Teil 1, Kapitel 10",
+              "duration_ms": 430765
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3e/81/de/3e81dec7-e57f-610b-02ac-ef5b0da9db9f/9783838771762_1448.jpg/100x100bb.jpg",
           "apple_music_id": 608279663,
           "status": "active",
@@ -464797,7 +467503,86 @@
             "Abenteuer",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 1",
+              "duration_ms": 150000
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 2",
+              "duration_ms": 349293
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 3",
+              "duration_ms": 368667
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 4",
+              "duration_ms": 329107
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 5",
+              "duration_ms": 382440
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 6",
+              "duration_ms": 321320
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 7",
+              "duration_ms": 298187
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 8",
+              "duration_ms": 271147
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 9",
+              "duration_ms": 307773
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 10",
+              "duration_ms": 354360
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 11",
+              "duration_ms": 410173
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 12",
+              "duration_ms": 297147
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 81: Allein in der Drachenhöhle - Kreuz-Trilogie Teil 2, Kapitel 13",
+              "duration_ms": 460691
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/53/fd/6a/53fd6a33-0df0-cefd-142a-9732d26683be/9783838771779_1448.jpg/100x100bb.jpg",
           "apple_music_id": 608280636,
           "status": "active",
@@ -464811,7 +467596,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 1",
+              "duration_ms": 201480
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 2",
+              "duration_ms": 340827
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 3",
+              "duration_ms": 323360
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 4",
+              "duration_ms": 267693
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 5",
+              "duration_ms": 293360
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 6",
+              "duration_ms": 345653
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 7",
+              "duration_ms": 366720
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 8",
+              "duration_ms": 301467
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 9",
+              "duration_ms": 350053
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 10",
+              "duration_ms": 407360
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 11",
+              "duration_ms": 274373
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 12",
+              "duration_ms": 374840
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 13",
+              "duration_ms": 491853
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 14",
+              "duration_ms": 226787
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 82: Macht und Mythos - Kreuz-Trilogie Teil 3, Kapitel 15",
+              "duration_ms": 203453
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/37/8f/cd/378fcd8b-2d60-5d5e-c912-44b02a406edb/9783838771786_1448.jpg/100x100bb.jpg",
           "apple_music_id": 606997602,
           "status": "active",
@@ -464825,7 +467701,104 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 1",
+              "duration_ms": 155587
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 2",
+              "duration_ms": 207027
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 3",
+              "duration_ms": 166000
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 4",
+              "duration_ms": 340107
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 5",
+              "duration_ms": 325160
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 6",
+              "duration_ms": 431853
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 7",
+              "duration_ms": 334880
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 8",
+              "duration_ms": 265653
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 9",
+              "duration_ms": 287187
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 10",
+              "duration_ms": 323600
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 11",
+              "duration_ms": 282707
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 12",
+              "duration_ms": 330160
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 13",
+              "duration_ms": 303187
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 14",
+              "duration_ms": 398053
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 15",
+              "duration_ms": 279973
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Folge 83: Ein Leben unter Toten, Kapitel 16",
+              "duration_ms": 290773
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d3/34/ab/d334ab8e-3476-a586-51ee-f65ec6dfb515/9783838771847_1448.jpg/100x100bb.jpg",
           "apple_music_id": 634857916,
           "status": "active",
@@ -464839,7 +467812,86 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 1",
+              "duration_ms": 214307
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 2",
+              "duration_ms": 332960
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 3",
+              "duration_ms": 245603
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 4",
+              "duration_ms": 299653
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 5",
+              "duration_ms": 171293
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 6",
+              "duration_ms": 253040
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 7",
+              "duration_ms": 232573
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 8",
+              "duration_ms": 409773
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 9",
+              "duration_ms": 474440
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 10",
+              "duration_ms": 326467
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 11",
+              "duration_ms": 451867
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 12",
+              "duration_ms": 216840
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 84: Ewige Schreie, Kapitel 13",
+              "duration_ms": 152213
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/68/9e/15/689e151b-b11c-56f3-616e-2b73133364e0/9783838771922_1448.jpg/100x100bb.jpg",
           "apple_music_id": 660880978,
           "status": "active",
@@ -464853,7 +467905,80 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 1",
+              "duration_ms": 125027
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 2",
+              "duration_ms": 310053
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 3",
+              "duration_ms": 359000
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 4",
+              "duration_ms": 243667
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 5",
+              "duration_ms": 283493
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 6",
+              "duration_ms": 307707
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 7",
+              "duration_ms": 192627
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 8",
+              "duration_ms": 277107
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 9",
+              "duration_ms": 243707
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 10",
+              "duration_ms": 311653
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 11",
+              "duration_ms": 416147
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 87: Schlucht der stummen Götter, Kapitel 12",
+              "duration_ms": 189853
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/65/eb/0b/65eb0bd8-4e80-eb8c-92ba-a89c836a0d89/9783838772721_1448.jpg/100x100bb.jpg",
           "apple_music_id": 702942325,
           "status": "active",
@@ -464868,7 +467993,98 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 1",
+              "duration_ms": 216013
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 2",
+              "duration_ms": 198867
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 3",
+              "duration_ms": 218800
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 4",
+              "duration_ms": 284480
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 5",
+              "duration_ms": 245027
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 6",
+              "duration_ms": 322640
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 7",
+              "duration_ms": 314507
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 8",
+              "duration_ms": 242027
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 9",
+              "duration_ms": 250933
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 10",
+              "duration_ms": 374040
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 11",
+              "duration_ms": 257800
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 12",
+              "duration_ms": 297907
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 13",
+              "duration_ms": 292680
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 14",
+              "duration_ms": 242067
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 88: Die Leichenstadt, Kapitel 15",
+              "duration_ms": 179267
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/a8/d7/41/a8d7413d-4d0f-085a-be2e-72c5ddef7c44/9783838772912_1448.jpg/100x100bb.jpg",
           "apple_music_id": 762808016,
           "status": "active",
@@ -464884,7 +468100,98 @@
             "Krimi",
             "Thriller"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 1",
+              "duration_ms": 217440
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 2",
+              "duration_ms": 234413
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 3",
+              "duration_ms": 188187
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 4",
+              "duration_ms": 262933
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 5",
+              "duration_ms": 239120
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 6",
+              "duration_ms": 305347
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 7",
+              "duration_ms": 332533
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 8",
+              "duration_ms": 262640
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 9",
+              "duration_ms": 243813
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 10",
+              "duration_ms": 305747
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 11",
+              "duration_ms": 228040
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 12",
+              "duration_ms": 197147
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 13",
+              "duration_ms": 230680
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 14",
+              "duration_ms": 284453
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 89: In den Krallen der roten Vampire, Kapitel 15",
+              "duration_ms": 193613
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3d/4a/49/3d4a49b0-23c4-84fb-cd28-60816f2f282f/9783838773544_1448.jpg/100x100bb.jpg",
           "apple_music_id": 779458288,
           "status": "active",
@@ -464898,7 +468205,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 1",
+              "duration_ms": 183747
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 2",
+              "duration_ms": 167933
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 3",
+              "duration_ms": 139640
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 4",
+              "duration_ms": 285880
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 5",
+              "duration_ms": 162133
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 6",
+              "duration_ms": 235547
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 7",
+              "duration_ms": 209333
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 8",
+              "duration_ms": 200013
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 9",
+              "duration_ms": 134613
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 10",
+              "duration_ms": 124920
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 11",
+              "duration_ms": 131067
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 12",
+              "duration_ms": 173093
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 13",
+              "duration_ms": 98453
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 14",
+              "duration_ms": 257880
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 90: Belphégors Rückkehr, Kapitel 15",
+              "duration_ms": 272280
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/27/c8/16/27c816b6-f3cc-70c9-729d-2b526219a6bc/9783838773674_1448.jpg/100x100bb.jpg",
           "apple_music_id": 796926574,
           "status": "active",
@@ -464912,7 +468310,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 1",
+              "duration_ms": 166227
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 2",
+              "duration_ms": 267267
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 3",
+              "duration_ms": 291627
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 4",
+              "duration_ms": 247467
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 5",
+              "duration_ms": 197240
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 6",
+              "duration_ms": 199533
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 7",
+              "duration_ms": 175627
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 8",
+              "duration_ms": 67520
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 9",
+              "duration_ms": 250613
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 10",
+              "duration_ms": 220320
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 11",
+              "duration_ms": 276747
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 12",
+              "duration_ms": 163573
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 13",
+              "duration_ms": 194453
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 14",
+              "duration_ms": 150800
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 91: Der Höllenwurm, Kapitel 15",
+              "duration_ms": 268947
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/3c/ae/93/3cae934e-619c-eb44-3460-e7a7be1bf0f7/9783838773865_1448.jpg/100x100bb.jpg",
           "apple_music_id": 834316835,
           "status": "active",
@@ -464927,7 +468416,98 @@
             "Krimi",
             "Thriller"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 1",
+              "duration_ms": 288987
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 2",
+              "duration_ms": 236627
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 3",
+              "duration_ms": 230933
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 4",
+              "duration_ms": 136493
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 5",
+              "duration_ms": 241560
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 6",
+              "duration_ms": 252680
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 7",
+              "duration_ms": 228720
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 8",
+              "duration_ms": 156200
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 9",
+              "duration_ms": 200320
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 10",
+              "duration_ms": 204933
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 11",
+              "duration_ms": 287107
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 12",
+              "duration_ms": 172667
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 13",
+              "duration_ms": 227373
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 14",
+              "duration_ms": 179467
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 94: Verdammt und begraben, Kapitel 15",
+              "duration_ms": 136316
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/79/09/49/7909498d-044a-f358-8de4-82dcc8671703/9783838774107_1448.jpg/100x100bb.jpg",
           "apple_music_id": 858549973,
           "status": "active",
@@ -464941,7 +468521,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 1",
+              "duration_ms": 219093
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 2",
+              "duration_ms": 250013
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 3",
+              "duration_ms": 170720
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 4",
+              "duration_ms": 232333
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 5",
+              "duration_ms": 247253
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 6",
+              "duration_ms": 223160
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 7",
+              "duration_ms": 271573
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 8",
+              "duration_ms": 366813
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 9",
+              "duration_ms": 244040
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 10",
+              "duration_ms": 338547
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 11",
+              "duration_ms": 267480
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 12",
+              "duration_ms": 246027
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 13",
+              "duration_ms": 146133
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 14",
+              "duration_ms": 181973
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 96: Pandoras Botschaft, Kapitel 15",
+              "duration_ms": 136613
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/a6/b2/5f/a6b25f78-558b-e4aa-0a41-aa318de5935b/9783785749272_1448.jpg/100x100bb.jpg",
           "apple_music_id": 910994433,
           "status": "active",
@@ -464956,7 +468627,98 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 1",
+              "duration_ms": 308160
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 2",
+              "duration_ms": 117787
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 3",
+              "duration_ms": 116240
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 4",
+              "duration_ms": 264253
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 5",
+              "duration_ms": 266987
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 6",
+              "duration_ms": 324320
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 7",
+              "duration_ms": 264480
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 8",
+              "duration_ms": 155013
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 9",
+              "duration_ms": 204467
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 10",
+              "duration_ms": 220480
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 11",
+              "duration_ms": 223253
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 12",
+              "duration_ms": 212867
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 13",
+              "duration_ms": 284000
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 14",
+              "duration_ms": 216840
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 98: Treffpunkt Leichenhaus, Kapitel 15",
+              "duration_ms": 127653
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/14/b2/f0/14b2f0be-bac6-2aaf-79bb-ecc2d4ee6c73/9783838774589_1448.jpg/100x100bb.jpg",
           "apple_music_id": 910994230,
           "status": "active",
@@ -464970,7 +468732,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 1",
+              "duration_ms": 118520
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 2",
+              "duration_ms": 186253
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 3",
+              "duration_ms": 237293
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 4",
+              "duration_ms": 324240
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 5",
+              "duration_ms": 337520
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 6",
+              "duration_ms": 215707
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 7",
+              "duration_ms": 235853
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 8",
+              "duration_ms": 332373
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 9",
+              "duration_ms": 305787
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 10",
+              "duration_ms": 299333
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 11",
+              "duration_ms": 201467
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 12",
+              "duration_ms": 186693
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 13",
+              "duration_ms": 263027
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 14",
+              "duration_ms": 156253
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 99: Das gläserne Grauen, Kapitel 15",
+              "duration_ms": 221213
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/15/3c/51/153c512a-e779-acb9-feb4-c37303afbf26/9783838774558_1448.jpg/100x100bb.jpg",
           "apple_music_id": 949585255,
           "status": "active",
@@ -464984,7 +468837,188 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 1",
+              "duration_ms": 314280
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 2",
+              "duration_ms": 144147
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 3",
+              "duration_ms": 217293
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 4",
+              "duration_ms": 245707
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 5",
+              "duration_ms": 276467
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 6",
+              "duration_ms": 233920
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 7",
+              "duration_ms": 220227
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 8",
+              "duration_ms": 151480
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 9",
+              "duration_ms": 164933
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 10",
+              "duration_ms": 208547
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 11",
+              "duration_ms": 238880
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 12",
+              "duration_ms": 132867
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 13",
+              "duration_ms": 295800
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 14",
+              "duration_ms": 270467
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 15",
+              "duration_ms": 333693
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 16",
+              "duration_ms": 171947
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 17",
+              "duration_ms": 370400
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 18",
+              "duration_ms": 216067
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 19",
+              "duration_ms": 198893
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 20",
+              "duration_ms": 341627
+            },
+            {
+              "track": 21,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 21",
+              "duration_ms": 359040
+            },
+            {
+              "track": 22,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 22",
+              "duration_ms": 380747
+            },
+            {
+              "track": 23,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 23",
+              "duration_ms": 279280
+            },
+            {
+              "track": 24,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 24",
+              "duration_ms": 276440
+            },
+            {
+              "track": 25,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 25",
+              "duration_ms": 178453
+            },
+            {
+              "track": 26,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 26",
+              "duration_ms": 419747
+            },
+            {
+              "track": 27,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 27",
+              "duration_ms": 301173
+            },
+            {
+              "track": 28,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 28",
+              "duration_ms": 263080
+            },
+            {
+              "track": 29,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 29",
+              "duration_ms": 88360
+            },
+            {
+              "track": 30,
+              "disc": 1,
+              "title": "Folge 100: Das Ende, Kapitel 30",
+              "duration_ms": 228147
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/d7/f6/26/d7f62683-f2fa-da5b-500a-2249197e1c93/9783838775432_1448.jpg/100x100bb.jpg",
           "apple_music_id": 957426097,
           "status": "active",
