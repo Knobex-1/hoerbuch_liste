@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-22T11:54:11.456808+00:00",
+  "exported_at": "2026-06-22T11:58:41.175425+00:00",
   "franchises": [
     {
       "name": "Die drei ???",
@@ -5550,228 +5550,6 @@
           "sub_franchise": null
         },
         {
-          "id": "diee-diee-9550",
-          "title": "Die Eiskönigin - Zauber der Polarlichter (Hörspiel zum TV-Special)",
-          "author": "Die Eiskönigin",
-          "episode_number": null,
-          "genres": [
-            "Kinder & Jugend",
-            "Hörspiel",
-            "Krimi",
-            "Abenteuer",
-            "Fantasy"
-          ],
-          "chapters": [
-            {
-              "id": "diee-diee-9550-t01",
-              "title": "Kapitel 01: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 0,
-              "startTime": 0.0,
-              "duration": 88.533
-            },
-            {
-              "id": "diee-diee-9550-t02",
-              "title": "Kapitel 02: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 1,
-              "startTime": 88.533,
-              "duration": 89.04
-            },
-            {
-              "id": "diee-diee-9550-t03",
-              "title": "Kapitel 03: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 2,
-              "startTime": 177.573,
-              "duration": 89.467
-            },
-            {
-              "id": "diee-diee-9550-t04",
-              "title": "Kapitel 04: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 3,
-              "startTime": 267.04,
-              "duration": 93.8
-            },
-            {
-              "id": "diee-diee-9550-t05",
-              "title": "Kapitel 05: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 4,
-              "startTime": 360.84,
-              "duration": 90.267
-            },
-            {
-              "id": "diee-diee-9550-t06",
-              "title": "Kapitel 06: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 5,
-              "startTime": 451.107,
-              "duration": 86.333
-            },
-            {
-              "id": "diee-diee-9550-t07",
-              "title": "Kapitel 07: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 6,
-              "startTime": 537.44,
-              "duration": 88.067
-            },
-            {
-              "id": "diee-diee-9550-t08",
-              "title": "Kapitel 08: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 7,
-              "startTime": 625.507,
-              "duration": 92.373
-            },
-            {
-              "id": "diee-diee-9550-t09",
-              "title": "Kapitel 09: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 8,
-              "startTime": 717.88,
-              "duration": 91.467
-            },
-            {
-              "id": "diee-diee-9550-t10",
-              "title": "Kapitel 10: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 9,
-              "startTime": 809.347,
-              "duration": 90.6
-            },
-            {
-              "id": "diee-diee-9550-t11",
-              "title": "Kapitel 11: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 10,
-              "startTime": 899.947,
-              "duration": 86.067
-            },
-            {
-              "id": "diee-diee-9550-t12",
-              "title": "Kapitel 12: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 11,
-              "startTime": 986.014,
-              "duration": 91.28
-            },
-            {
-              "id": "diee-diee-9550-t13",
-              "title": "Kapitel 13: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 12,
-              "startTime": 1077.294,
-              "duration": 88.893
-            },
-            {
-              "id": "diee-diee-9550-t14",
-              "title": "Kapitel 14: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 13,
-              "startTime": 1166.187,
-              "duration": 96.107
-            },
-            {
-              "id": "diee-diee-9550-t15",
-              "title": "Kapitel 15: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 14,
-              "startTime": 1262.294,
-              "duration": 87.933
-            },
-            {
-              "id": "diee-diee-9550-t16",
-              "title": "Kapitel 16: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 15,
-              "startTime": 1350.227,
-              "duration": 89.36
-            },
-            {
-              "id": "diee-diee-9550-t17",
-              "title": "Kapitel 17: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 16,
-              "startTime": 1439.587,
-              "duration": 90.12
-            },
-            {
-              "id": "diee-diee-9550-t18",
-              "title": "Kapitel 18: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 17,
-              "startTime": 1529.707,
-              "duration": 89.413
-            },
-            {
-              "id": "diee-diee-9550-t19",
-              "title": "Kapitel 19: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 18,
-              "startTime": 1619.12,
-              "duration": 90.6
-            },
-            {
-              "id": "diee-diee-9550-t20",
-              "title": "Kapitel 20: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 19,
-              "startTime": 1709.72,
-              "duration": 89.747
-            },
-            {
-              "id": "diee-diee-9550-t21",
-              "title": "Kapitel 21: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 20,
-              "startTime": 1799.467,
-              "duration": 92.227
-            },
-            {
-              "id": "diee-diee-9550-t22",
-              "title": "Kapitel 22: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 21,
-              "startTime": 1891.694,
-              "duration": 91.44
-            },
-            {
-              "id": "diee-diee-9550-t23",
-              "title": "Kapitel 23: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 22,
-              "startTime": 1983.134,
-              "duration": 89.693
-            },
-            {
-              "id": "diee-diee-9550-t24",
-              "title": "Kapitel 24: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 23,
-              "startTime": 2072.827,
-              "duration": 85.707
-            },
-            {
-              "id": "diee-diee-9550-t25",
-              "title": "Kapitel 25: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 24,
-              "startTime": 2158.534,
-              "duration": 92.987
-            },
-            {
-              "id": "diee-diee-9550-t26",
-              "title": "Kapitel 26: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 25,
-              "startTime": 2251.521,
-              "duration": 87.267
-            },
-            {
-              "id": "diee-diee-9550-t27",
-              "title": "Kapitel 27: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 26,
-              "startTime": 2338.788,
-              "duration": 90.693
-            },
-            {
-              "id": "diee-diee-9550-t28",
-              "title": "Kapitel 28: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 27,
-              "startTime": 2429.481,
-              "duration": 87.547
-            },
-            {
-              "id": "diee-diee-9550-t29",
-              "title": "Kapitel 29: Die Eiskönigin - Zauber der Polarlichter",
-              "index": 28,
-              "startTime": 2517.028,
-              "duration": 87.973
-            }
-          ],
-          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/40/a8/5240a80d-2a00-913a-6f2e-7b685f5a9799/4066339483620.jpg/100x100bb.jpg",
-          "apple_music_id": 1686159550,
-          "status": "active",
-          "sub_franchise": null
-        },
-        {
           "id": "diee-diee-0973",
           "title": "Die Eiskönigin 2 (Das Original-Hörspiel zum Film)",
           "author": "Die Eiskönigin",
@@ -6116,248 +5894,6 @@
           ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/03/a0/d203a062-7462-e861-6f9e-623ef320aec0/4066339450325.jpg/100x100bb.jpg",
           "apple_music_id": 1685960973,
-          "status": "active",
-          "sub_franchise": null
-        },
-        {
-          "id": "diee-diee-2143",
-          "title": "Die Eiskönigin: Olaf taut auf (Hörspiel zum Special)",
-          "author": "Die Eiskönigin",
-          "episode_number": null,
-          "genres": [
-            "Hörspiel",
-            "Krimi",
-            "Abenteuer",
-            "Kinder & Jugend"
-          ],
-          "chapters": [
-            {
-              "id": "diee-diee-2143-t01",
-              "title": "Kapitel 01: Die Eiskönigin - Olaf taut auf",
-              "index": 0,
-              "startTime": 0.0,
-              "duration": 74.24
-            },
-            {
-              "id": "diee-diee-2143-t02",
-              "title": "Kapitel 02: Die Eiskönigin - Olaf taut auf",
-              "index": 1,
-              "startTime": 74.24,
-              "duration": 81.027
-            },
-            {
-              "id": "diee-diee-2143-t03",
-              "title": "Kapitel 03: Die Eiskönigin - Olaf taut auf",
-              "index": 2,
-              "startTime": 155.267,
-              "duration": 74.853
-            },
-            {
-              "id": "diee-diee-2143-t04",
-              "title": "Kapitel 04: Die Eiskönigin - Olaf taut auf",
-              "index": 3,
-              "startTime": 230.12,
-              "duration": 87.693
-            },
-            {
-              "id": "diee-diee-2143-t05",
-              "title": "Kapitel 05: Die Eiskönigin - Olaf taut auf",
-              "index": 4,
-              "startTime": 317.813,
-              "duration": 89.787
-            },
-            {
-              "id": "diee-diee-2143-t06",
-              "title": "Kapitel 06: Die Eiskönigin - Olaf taut auf",
-              "index": 5,
-              "startTime": 407.6,
-              "duration": 91.867
-            },
-            {
-              "id": "diee-diee-2143-t07",
-              "title": "Kapitel 07: Die Eiskönigin - Olaf taut auf",
-              "index": 6,
-              "startTime": 499.467,
-              "duration": 89.533
-            },
-            {
-              "id": "diee-diee-2143-t08",
-              "title": "Kapitel 08: Die Eiskönigin - Olaf taut auf",
-              "index": 7,
-              "startTime": 589.0,
-              "duration": 95.56
-            },
-            {
-              "id": "diee-diee-2143-t09",
-              "title": "Kapitel 09: Die Eiskönigin - Olaf taut auf",
-              "index": 8,
-              "startTime": 684.56,
-              "duration": 80.853
-            },
-            {
-              "id": "diee-diee-2143-t10",
-              "title": "Kapitel 10: Die Eiskönigin - Olaf taut auf",
-              "index": 9,
-              "startTime": 765.413,
-              "duration": 96.573
-            },
-            {
-              "id": "diee-diee-2143-t11",
-              "title": "Kapitel 11: Die Eiskönigin - Olaf taut auf",
-              "index": 10,
-              "startTime": 861.986,
-              "duration": 114.333
-            },
-            {
-              "id": "diee-diee-2143-t12",
-              "title": "Kapitel 12: Die Eiskönigin - Olaf taut auf",
-              "index": 11,
-              "startTime": 976.319,
-              "duration": 98.373
-            },
-            {
-              "id": "diee-diee-2143-t13",
-              "title": "Kapitel 13: Die Eiskönigin - Olaf taut auf",
-              "index": 12,
-              "startTime": 1074.692,
-              "duration": 85.133
-            },
-            {
-              "id": "diee-diee-2143-t14",
-              "title": "Kapitel 14: Die Eiskönigin - Olaf taut auf",
-              "index": 13,
-              "startTime": 1159.825,
-              "duration": 88.147
-            },
-            {
-              "id": "diee-diee-2143-t15",
-              "title": "Kapitel 15: Die Eiskönigin - Olaf taut auf",
-              "index": 14,
-              "startTime": 1247.972,
-              "duration": 85.547
-            },
-            {
-              "id": "diee-diee-2143-t16",
-              "title": "Kapitel 16: Die Eiskönigin - Olaf taut auf",
-              "index": 15,
-              "startTime": 1333.519,
-              "duration": 91.813
-            },
-            {
-              "id": "diee-diee-2143-t17",
-              "title": "Kapitel 17: Die Eiskönigin - Olaf taut auf",
-              "index": 16,
-              "startTime": 1425.332,
-              "duration": 97.813
-            },
-            {
-              "id": "diee-diee-2143-t18",
-              "title": "Kapitel 18: Die Eiskönigin - Olaf taut auf",
-              "index": 17,
-              "startTime": 1523.145,
-              "duration": 93.773
-            },
-            {
-              "id": "diee-diee-2143-t19",
-              "title": "Kapitel 19: Die Eiskönigin - Olaf taut auf",
-              "index": 18,
-              "startTime": 1616.918,
-              "duration": 88.587
-            },
-            {
-              "id": "diee-diee-2143-t20",
-              "title": "Kapitel 20: Die Eiskönigin - Olaf taut auf",
-              "index": 19,
-              "startTime": 1705.505,
-              "duration": 89.453
-            },
-            {
-              "id": "diee-diee-2143-t21",
-              "title": "Kapitel 21: Die Eiskönigin - Olaf taut auf",
-              "index": 20,
-              "startTime": 1794.958,
-              "duration": 89.387
-            },
-            {
-              "id": "diee-diee-2143-t22",
-              "title": "Kapitel 22: Die Eiskönigin - Olaf taut auf",
-              "index": 21,
-              "startTime": 1884.345,
-              "duration": 91.28
-            },
-            {
-              "id": "diee-diee-2143-t23",
-              "title": "Kapitel 23: Die Eiskönigin - Olaf taut auf",
-              "index": 22,
-              "startTime": 1975.625,
-              "duration": 92.547
-            },
-            {
-              "id": "diee-diee-2143-t24",
-              "title": "Kapitel 24: Die Eiskönigin - Olaf taut auf",
-              "index": 23,
-              "startTime": 2068.172,
-              "duration": 76.96
-            },
-            {
-              "id": "diee-diee-2143-t25",
-              "title": "Kapitel 25: Die Eiskönigin - Olaf taut auf",
-              "index": 24,
-              "startTime": 2145.132,
-              "duration": 83.32
-            },
-            {
-              "id": "diee-diee-2143-t26",
-              "title": "Kapitel 26: Die Eiskönigin - Olaf taut auf",
-              "index": 25,
-              "startTime": 2228.452,
-              "duration": 86.92
-            },
-            {
-              "id": "diee-diee-2143-t27",
-              "title": "Kapitel 27: Die Eiskönigin - Olaf taut auf",
-              "index": 26,
-              "startTime": 2315.372,
-              "duration": 82.68
-            },
-            {
-              "id": "diee-diee-2143-t28",
-              "title": "Kapitel 28: Die Eiskönigin - Olaf taut auf",
-              "index": 27,
-              "startTime": 2398.052,
-              "duration": 102.427
-            },
-            {
-              "id": "diee-diee-2143-t29",
-              "title": "Kapitel 29: Die Eiskönigin - Olaf taut auf",
-              "index": 28,
-              "startTime": 2500.479,
-              "duration": 69.533
-            },
-            {
-              "id": "diee-diee-2143-t30",
-              "title": "Kapitel 30: Die Eiskönigin - Olaf taut auf",
-              "index": 29,
-              "startTime": 2570.012,
-              "duration": 82.667
-            },
-            {
-              "id": "diee-diee-2143-t31",
-              "title": "Kapitel 31: Die Eiskönigin - Olaf taut auf",
-              "index": 30,
-              "startTime": 2652.679,
-              "duration": 87.533
-            },
-            {
-              "id": "diee-diee-2143-t32",
-              "title": "Kapitel 32: Die Eiskönigin - Olaf taut auf",
-              "index": 31,
-              "startTime": 2740.212,
-              "duration": 104.573
-            }
-          ],
-          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/d0/02/b0d00263-7010-7631-7cf4-7a30fbafa810/4066339450363.jpg/100x100bb.jpg",
-          "apple_music_id": 1685952143,
           "status": "active",
           "sub_franchise": null
         },
@@ -7094,108 +6630,6 @@
           ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/96/a3/6a96a3fb-fb2e-a6b4-7c2c-1db875ab4cb6/196872298086.jpg/100x100bb.jpg",
           "apple_music_id": 1786074450,
-          "status": "active",
-          "sub_franchise": null
-        },
-        {
-          "id": "diee-eswa-7909",
-          "title": "Es war einmal ein Schneemann (Hörspiel zum Kurzfilm)",
-          "author": "Die Eiskönigin",
-          "episode_number": null,
-          "genres": [
-            "Kinder & Jugend",
-            "Hörspiel",
-            "Krimi",
-            "Abenteuer"
-          ],
-          "chapters": [
-            {
-              "id": "diee-eswa-7909-t01",
-              "title": "Kapitel 01: Es war einmal ein Schneemann",
-              "index": 0,
-              "startTime": 0.0,
-              "duration": 86.32
-            },
-            {
-              "id": "diee-eswa-7909-t02",
-              "title": "Kapitel 02: Es war einmal ein Schneemann",
-              "index": 1,
-              "startTime": 86.32,
-              "duration": 97.84
-            },
-            {
-              "id": "diee-eswa-7909-t03",
-              "title": "Kapitel 03: Es war einmal ein Schneemann",
-              "index": 2,
-              "startTime": 184.16,
-              "duration": 91.907
-            },
-            {
-              "id": "diee-eswa-7909-t04",
-              "title": "Kapitel 04: Es war einmal ein Schneemann",
-              "index": 3,
-              "startTime": 276.067,
-              "duration": 79.893
-            },
-            {
-              "id": "diee-eswa-7909-t05",
-              "title": "Kapitel 05: Es war einmal ein Schneemann",
-              "index": 4,
-              "startTime": 355.96,
-              "duration": 89.533
-            },
-            {
-              "id": "diee-eswa-7909-t06",
-              "title": "Kapitel 06: Es war einmal ein Schneemann",
-              "index": 5,
-              "startTime": 445.493,
-              "duration": 100.493
-            },
-            {
-              "id": "diee-eswa-7909-t07",
-              "title": "Kapitel 07: Es war einmal ein Schneemann",
-              "index": 6,
-              "startTime": 545.986,
-              "duration": 90.987
-            },
-            {
-              "id": "diee-eswa-7909-t08",
-              "title": "Kapitel 08: Es war einmal ein Schneemann",
-              "index": 7,
-              "startTime": 636.973,
-              "duration": 86.173
-            },
-            {
-              "id": "diee-eswa-7909-t09",
-              "title": "Kapitel 09: Es war einmal ein Schneemann",
-              "index": 8,
-              "startTime": 723.146,
-              "duration": 82.133
-            },
-            {
-              "id": "diee-eswa-7909-t10",
-              "title": "Kapitel 10: Es war einmal ein Schneemann",
-              "index": 9,
-              "startTime": 805.279,
-              "duration": 105.88
-            },
-            {
-              "id": "diee-eswa-7909-t11",
-              "title": "Kapitel 11: Es war einmal ein Schneemann",
-              "index": 10,
-              "startTime": 911.159,
-              "duration": 96.653
-            },
-            {
-              "id": "diee-eswa-7909-t12",
-              "title": "Kapitel 12: Es war einmal ein Schneemann",
-              "index": 11,
-              "startTime": 1007.812,
-              "duration": 91.733
-            }
-          ],
-          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/78/ff/5278ff1c-8f52-461b-347e-fc1e4d6b75a2/4066339450264.jpg/100x100bb.jpg",
-          "apple_music_id": 1686157909,
           "status": "active",
           "sub_franchise": null
         },
@@ -8721,101 +8155,6 @@
           ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/90/9d/27909d7a-e783-1ffd-5452-9b1b4f021ff1/196872196610.jpg/100x100bb.jpg",
           "apple_music_id": 1753045100,
-          "status": "active",
-          "sub_franchise": null
-        },
-        {
-          "id": "diee-part-5821",
-          "title": "Partyfieber (Das Original-Hörspiel zum Kurzfilm)",
-          "author": "Die Eiskönigin",
-          "episode_number": null,
-          "genres": [
-            "Hörspiel",
-            "Krimi",
-            "Abenteuer",
-            "Kinder & Jugend"
-          ],
-          "chapters": [
-            {
-              "id": "diee-part-5821-t01",
-              "title": "Kapitel 01: Partyfieber",
-              "index": 0,
-              "startTime": 0.0,
-              "duration": 92.125
-            },
-            {
-              "id": "diee-part-5821-t02",
-              "title": "Kapitel 02: Partyfieber",
-              "index": 1,
-              "startTime": 92.125,
-              "duration": 96.398
-            },
-            {
-              "id": "diee-part-5821-t03",
-              "title": "Kapitel 03: Partyfieber",
-              "index": 2,
-              "startTime": 188.523,
-              "duration": 93.901
-            },
-            {
-              "id": "diee-part-5821-t04",
-              "title": "Kapitel 04: Partyfieber",
-              "index": 3,
-              "startTime": 282.424,
-              "duration": 108.739
-            },
-            {
-              "id": "diee-part-5821-t05",
-              "title": "Kapitel 05: Partyfieber",
-              "index": 4,
-              "startTime": 391.163,
-              "duration": 96.641
-            },
-            {
-              "id": "diee-part-5821-t06",
-              "title": "Kapitel 06: Partyfieber",
-              "index": 5,
-              "startTime": 487.804,
-              "duration": 93.634
-            },
-            {
-              "id": "diee-part-5821-t07",
-              "title": "Kapitel 07: Partyfieber",
-              "index": 6,
-              "startTime": 581.438,
-              "duration": 96.676
-            },
-            {
-              "id": "diee-part-5821-t08",
-              "title": "Kapitel 08: Partyfieber",
-              "index": 7,
-              "startTime": 678.114,
-              "duration": 102.307
-            },
-            {
-              "id": "diee-part-5821-t09",
-              "title": "Kapitel 09: Partyfieber",
-              "index": 8,
-              "startTime": 780.421,
-              "duration": 103.607
-            },
-            {
-              "id": "diee-part-5821-t10",
-              "title": "Kapitel 10: Partyfieber",
-              "index": 9,
-              "startTime": 884.028,
-              "duration": 92.874
-            },
-            {
-              "id": "diee-part-5821-t11",
-              "title": "Kapitel 11: Partyfieber",
-              "index": 10,
-              "startTime": 976.902,
-              "duration": 105.549
-            }
-          ],
-          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/b5/41/42b5417c-17d8-0e5e-ae40-b3cba5a9ab24/4066339449930.jpg/100x100bb.jpg",
-          "apple_music_id": 1685945821,
           "status": "active",
           "sub_franchise": null
         },
@@ -324178,6 +323517,1016 @@
       "sub_franchises": [],
       "episodes": [
         {
+          "id": "nach-diee-8314",
+          "title": "Die Eiskönigin",
+          "author": "Nachtfuchs",
+          "episode_number": null,
+          "genres": [
+            "Hörspiel",
+            "Fantasy",
+            "Abenteuer"
+          ],
+          "chapters": [
+            {
+              "id": "nach-diee-8314-t01",
+              "title": "Die Eiskönigin, Pt. 1",
+              "index": 0,
+              "startTime": 0.0,
+              "duration": 61.022
+            },
+            {
+              "id": "nach-diee-8314-t02",
+              "title": "Die Eiskönigin, Pt. 2",
+              "index": 1,
+              "startTime": 61.022,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t03",
+              "title": "Die Eiskönigin, Pt. 3",
+              "index": 2,
+              "startTime": 122.021,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t04",
+              "title": "Die Eiskönigin, Pt. 4",
+              "index": 3,
+              "startTime": 182.021,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t05",
+              "title": "Die Eiskönigin, Pt. 5",
+              "index": 4,
+              "startTime": 242.021,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t06",
+              "title": "Die Eiskönigin, Pt. 6",
+              "index": 5,
+              "startTime": 302.021,
+              "duration": 61.997
+            },
+            {
+              "id": "nach-diee-8314-t07",
+              "title": "Die Eiskönigin, Pt. 7",
+              "index": 6,
+              "startTime": 364.018,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t08",
+              "title": "Die Eiskönigin, Pt. 8",
+              "index": 7,
+              "startTime": 425.017,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t09",
+              "title": "Die Eiskönigin, Pt. 9",
+              "index": 8,
+              "startTime": 485.017,
+              "duration": 61.997
+            },
+            {
+              "id": "nach-diee-8314-t10",
+              "title": "Die Eiskönigin, Pt. 10",
+              "index": 9,
+              "startTime": 547.014,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t11",
+              "title": "Die Eiskönigin, Pt. 11",
+              "index": 10,
+              "startTime": 608.013,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t12",
+              "title": "Die Eiskönigin, Pt. 12",
+              "index": 11,
+              "startTime": 669.012,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t13",
+              "title": "Die Eiskönigin, Pt. 13",
+              "index": 12,
+              "startTime": 729.012,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t14",
+              "title": "Die Eiskönigin, Pt. 14",
+              "index": 13,
+              "startTime": 790.011,
+              "duration": 61.997
+            },
+            {
+              "id": "nach-diee-8314-t15",
+              "title": "Die Eiskönigin, Pt. 15",
+              "index": 14,
+              "startTime": 852.008,
+              "duration": 61.997
+            },
+            {
+              "id": "nach-diee-8314-t16",
+              "title": "Die Eiskönigin, Pt. 16",
+              "index": 15,
+              "startTime": 914.005,
+              "duration": 61.997
+            },
+            {
+              "id": "nach-diee-8314-t17",
+              "title": "Die Eiskönigin, Pt. 17",
+              "index": 16,
+              "startTime": 976.002,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t18",
+              "title": "Die Eiskönigin, Pt. 18",
+              "index": 17,
+              "startTime": 1037.001,
+              "duration": 61.997
+            },
+            {
+              "id": "nach-diee-8314-t19",
+              "title": "Die Eiskönigin, Pt. 19",
+              "index": 18,
+              "startTime": 1098.998,
+              "duration": 61.022
+            },
+            {
+              "id": "nach-diee-8314-t20",
+              "title": "Die Eiskönigin, Pt. 20",
+              "index": 19,
+              "startTime": 1160.02,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t21",
+              "title": "Die Eiskönigin, Pt. 21",
+              "index": 20,
+              "startTime": 1220.02,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t22",
+              "title": "Die Eiskönigin, Pt. 22",
+              "index": 21,
+              "startTime": 1281.019,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t23",
+              "title": "Die Eiskönigin, Pt. 23",
+              "index": 22,
+              "startTime": 1342.018,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t24",
+              "title": "Die Eiskönigin, Pt. 24",
+              "index": 23,
+              "startTime": 1402.018,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t25",
+              "title": "Die Eiskönigin, Pt. 25",
+              "index": 24,
+              "startTime": 1462.018,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t26",
+              "title": "Die Eiskönigin, Pt. 26",
+              "index": 25,
+              "startTime": 1523.017,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t27",
+              "title": "Die Eiskönigin, Pt. 27",
+              "index": 26,
+              "startTime": 1583.017,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t28",
+              "title": "Die Eiskönigin, Pt. 28",
+              "index": 27,
+              "startTime": 1643.017,
+              "duration": 60.0
+            },
+            {
+              "id": "nach-diee-8314-t29",
+              "title": "Die Eiskönigin, Pt. 29",
+              "index": 28,
+              "startTime": 1703.017,
+              "duration": 60.999
+            },
+            {
+              "id": "nach-diee-8314-t30",
+              "title": "Die Eiskönigin, Pt. 30",
+              "index": 29,
+              "startTime": 1764.016,
+              "duration": 88.024
+            }
+          ],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/6e/f5/ab6ef58e-b97d-4dc2-5de1-8b0abcbc701a/cover_4062851751650.jpg/100x100bb.jpg",
+          "apple_music_id": 1644678314,
+          "status": "active",
+          "sub_franchise": null
+        },
+        {
+          "id": "diee-diee-9550",
+          "title": "Die Eiskönigin - Zauber der Polarlichter (Hörspiel zum TV-Special)",
+          "author": "Die Eiskönigin",
+          "episode_number": null,
+          "genres": [
+            "Kinder & Jugend",
+            "Hörspiel",
+            "Krimi",
+            "Abenteuer",
+            "Fantasy"
+          ],
+          "chapters": [
+            {
+              "id": "diee-diee-9550-t01",
+              "title": "Kapitel 01: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 0,
+              "startTime": 0.0,
+              "duration": 88.533
+            },
+            {
+              "id": "diee-diee-9550-t02",
+              "title": "Kapitel 02: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 1,
+              "startTime": 88.533,
+              "duration": 89.04
+            },
+            {
+              "id": "diee-diee-9550-t03",
+              "title": "Kapitel 03: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 2,
+              "startTime": 177.573,
+              "duration": 89.467
+            },
+            {
+              "id": "diee-diee-9550-t04",
+              "title": "Kapitel 04: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 3,
+              "startTime": 267.04,
+              "duration": 93.8
+            },
+            {
+              "id": "diee-diee-9550-t05",
+              "title": "Kapitel 05: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 4,
+              "startTime": 360.84,
+              "duration": 90.267
+            },
+            {
+              "id": "diee-diee-9550-t06",
+              "title": "Kapitel 06: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 5,
+              "startTime": 451.107,
+              "duration": 86.333
+            },
+            {
+              "id": "diee-diee-9550-t07",
+              "title": "Kapitel 07: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 6,
+              "startTime": 537.44,
+              "duration": 88.067
+            },
+            {
+              "id": "diee-diee-9550-t08",
+              "title": "Kapitel 08: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 7,
+              "startTime": 625.507,
+              "duration": 92.373
+            },
+            {
+              "id": "diee-diee-9550-t09",
+              "title": "Kapitel 09: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 8,
+              "startTime": 717.88,
+              "duration": 91.467
+            },
+            {
+              "id": "diee-diee-9550-t10",
+              "title": "Kapitel 10: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 9,
+              "startTime": 809.347,
+              "duration": 90.6
+            },
+            {
+              "id": "diee-diee-9550-t11",
+              "title": "Kapitel 11: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 10,
+              "startTime": 899.947,
+              "duration": 86.067
+            },
+            {
+              "id": "diee-diee-9550-t12",
+              "title": "Kapitel 12: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 11,
+              "startTime": 986.014,
+              "duration": 91.28
+            },
+            {
+              "id": "diee-diee-9550-t13",
+              "title": "Kapitel 13: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 12,
+              "startTime": 1077.294,
+              "duration": 88.893
+            },
+            {
+              "id": "diee-diee-9550-t14",
+              "title": "Kapitel 14: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 13,
+              "startTime": 1166.187,
+              "duration": 96.107
+            },
+            {
+              "id": "diee-diee-9550-t15",
+              "title": "Kapitel 15: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 14,
+              "startTime": 1262.294,
+              "duration": 87.933
+            },
+            {
+              "id": "diee-diee-9550-t16",
+              "title": "Kapitel 16: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 15,
+              "startTime": 1350.227,
+              "duration": 89.36
+            },
+            {
+              "id": "diee-diee-9550-t17",
+              "title": "Kapitel 17: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 16,
+              "startTime": 1439.587,
+              "duration": 90.12
+            },
+            {
+              "id": "diee-diee-9550-t18",
+              "title": "Kapitel 18: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 17,
+              "startTime": 1529.707,
+              "duration": 89.413
+            },
+            {
+              "id": "diee-diee-9550-t19",
+              "title": "Kapitel 19: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 18,
+              "startTime": 1619.12,
+              "duration": 90.6
+            },
+            {
+              "id": "diee-diee-9550-t20",
+              "title": "Kapitel 20: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 19,
+              "startTime": 1709.72,
+              "duration": 89.747
+            },
+            {
+              "id": "diee-diee-9550-t21",
+              "title": "Kapitel 21: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 20,
+              "startTime": 1799.467,
+              "duration": 92.227
+            },
+            {
+              "id": "diee-diee-9550-t22",
+              "title": "Kapitel 22: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 21,
+              "startTime": 1891.694,
+              "duration": 91.44
+            },
+            {
+              "id": "diee-diee-9550-t23",
+              "title": "Kapitel 23: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 22,
+              "startTime": 1983.134,
+              "duration": 89.693
+            },
+            {
+              "id": "diee-diee-9550-t24",
+              "title": "Kapitel 24: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 23,
+              "startTime": 2072.827,
+              "duration": 85.707
+            },
+            {
+              "id": "diee-diee-9550-t25",
+              "title": "Kapitel 25: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 24,
+              "startTime": 2158.534,
+              "duration": 92.987
+            },
+            {
+              "id": "diee-diee-9550-t26",
+              "title": "Kapitel 26: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 25,
+              "startTime": 2251.521,
+              "duration": 87.267
+            },
+            {
+              "id": "diee-diee-9550-t27",
+              "title": "Kapitel 27: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 26,
+              "startTime": 2338.788,
+              "duration": 90.693
+            },
+            {
+              "id": "diee-diee-9550-t28",
+              "title": "Kapitel 28: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 27,
+              "startTime": 2429.481,
+              "duration": 87.547
+            },
+            {
+              "id": "diee-diee-9550-t29",
+              "title": "Kapitel 29: Die Eiskönigin - Zauber der Polarlichter",
+              "index": 28,
+              "startTime": 2517.028,
+              "duration": 87.973
+            }
+          ],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/40/a8/5240a80d-2a00-913a-6f2e-7b685f5a9799/4066339483620.jpg/100x100bb.jpg",
+          "apple_music_id": 1686159550,
+          "status": "active",
+          "sub_franchise": null
+        },
+        {
+          "id": "diee-diee-2143",
+          "title": "Die Eiskönigin: Olaf taut auf (Hörspiel zum Special)",
+          "author": "Die Eiskönigin",
+          "episode_number": null,
+          "genres": [
+            "Hörspiel",
+            "Krimi",
+            "Abenteuer",
+            "Kinder & Jugend"
+          ],
+          "chapters": [
+            {
+              "id": "diee-diee-2143-t01",
+              "title": "Kapitel 01: Die Eiskönigin - Olaf taut auf",
+              "index": 0,
+              "startTime": 0.0,
+              "duration": 74.24
+            },
+            {
+              "id": "diee-diee-2143-t02",
+              "title": "Kapitel 02: Die Eiskönigin - Olaf taut auf",
+              "index": 1,
+              "startTime": 74.24,
+              "duration": 81.027
+            },
+            {
+              "id": "diee-diee-2143-t03",
+              "title": "Kapitel 03: Die Eiskönigin - Olaf taut auf",
+              "index": 2,
+              "startTime": 155.267,
+              "duration": 74.853
+            },
+            {
+              "id": "diee-diee-2143-t04",
+              "title": "Kapitel 04: Die Eiskönigin - Olaf taut auf",
+              "index": 3,
+              "startTime": 230.12,
+              "duration": 87.693
+            },
+            {
+              "id": "diee-diee-2143-t05",
+              "title": "Kapitel 05: Die Eiskönigin - Olaf taut auf",
+              "index": 4,
+              "startTime": 317.813,
+              "duration": 89.787
+            },
+            {
+              "id": "diee-diee-2143-t06",
+              "title": "Kapitel 06: Die Eiskönigin - Olaf taut auf",
+              "index": 5,
+              "startTime": 407.6,
+              "duration": 91.867
+            },
+            {
+              "id": "diee-diee-2143-t07",
+              "title": "Kapitel 07: Die Eiskönigin - Olaf taut auf",
+              "index": 6,
+              "startTime": 499.467,
+              "duration": 89.533
+            },
+            {
+              "id": "diee-diee-2143-t08",
+              "title": "Kapitel 08: Die Eiskönigin - Olaf taut auf",
+              "index": 7,
+              "startTime": 589.0,
+              "duration": 95.56
+            },
+            {
+              "id": "diee-diee-2143-t09",
+              "title": "Kapitel 09: Die Eiskönigin - Olaf taut auf",
+              "index": 8,
+              "startTime": 684.56,
+              "duration": 80.853
+            },
+            {
+              "id": "diee-diee-2143-t10",
+              "title": "Kapitel 10: Die Eiskönigin - Olaf taut auf",
+              "index": 9,
+              "startTime": 765.413,
+              "duration": 96.573
+            },
+            {
+              "id": "diee-diee-2143-t11",
+              "title": "Kapitel 11: Die Eiskönigin - Olaf taut auf",
+              "index": 10,
+              "startTime": 861.986,
+              "duration": 114.333
+            },
+            {
+              "id": "diee-diee-2143-t12",
+              "title": "Kapitel 12: Die Eiskönigin - Olaf taut auf",
+              "index": 11,
+              "startTime": 976.319,
+              "duration": 98.373
+            },
+            {
+              "id": "diee-diee-2143-t13",
+              "title": "Kapitel 13: Die Eiskönigin - Olaf taut auf",
+              "index": 12,
+              "startTime": 1074.692,
+              "duration": 85.133
+            },
+            {
+              "id": "diee-diee-2143-t14",
+              "title": "Kapitel 14: Die Eiskönigin - Olaf taut auf",
+              "index": 13,
+              "startTime": 1159.825,
+              "duration": 88.147
+            },
+            {
+              "id": "diee-diee-2143-t15",
+              "title": "Kapitel 15: Die Eiskönigin - Olaf taut auf",
+              "index": 14,
+              "startTime": 1247.972,
+              "duration": 85.547
+            },
+            {
+              "id": "diee-diee-2143-t16",
+              "title": "Kapitel 16: Die Eiskönigin - Olaf taut auf",
+              "index": 15,
+              "startTime": 1333.519,
+              "duration": 91.813
+            },
+            {
+              "id": "diee-diee-2143-t17",
+              "title": "Kapitel 17: Die Eiskönigin - Olaf taut auf",
+              "index": 16,
+              "startTime": 1425.332,
+              "duration": 97.813
+            },
+            {
+              "id": "diee-diee-2143-t18",
+              "title": "Kapitel 18: Die Eiskönigin - Olaf taut auf",
+              "index": 17,
+              "startTime": 1523.145,
+              "duration": 93.773
+            },
+            {
+              "id": "diee-diee-2143-t19",
+              "title": "Kapitel 19: Die Eiskönigin - Olaf taut auf",
+              "index": 18,
+              "startTime": 1616.918,
+              "duration": 88.587
+            },
+            {
+              "id": "diee-diee-2143-t20",
+              "title": "Kapitel 20: Die Eiskönigin - Olaf taut auf",
+              "index": 19,
+              "startTime": 1705.505,
+              "duration": 89.453
+            },
+            {
+              "id": "diee-diee-2143-t21",
+              "title": "Kapitel 21: Die Eiskönigin - Olaf taut auf",
+              "index": 20,
+              "startTime": 1794.958,
+              "duration": 89.387
+            },
+            {
+              "id": "diee-diee-2143-t22",
+              "title": "Kapitel 22: Die Eiskönigin - Olaf taut auf",
+              "index": 21,
+              "startTime": 1884.345,
+              "duration": 91.28
+            },
+            {
+              "id": "diee-diee-2143-t23",
+              "title": "Kapitel 23: Die Eiskönigin - Olaf taut auf",
+              "index": 22,
+              "startTime": 1975.625,
+              "duration": 92.547
+            },
+            {
+              "id": "diee-diee-2143-t24",
+              "title": "Kapitel 24: Die Eiskönigin - Olaf taut auf",
+              "index": 23,
+              "startTime": 2068.172,
+              "duration": 76.96
+            },
+            {
+              "id": "diee-diee-2143-t25",
+              "title": "Kapitel 25: Die Eiskönigin - Olaf taut auf",
+              "index": 24,
+              "startTime": 2145.132,
+              "duration": 83.32
+            },
+            {
+              "id": "diee-diee-2143-t26",
+              "title": "Kapitel 26: Die Eiskönigin - Olaf taut auf",
+              "index": 25,
+              "startTime": 2228.452,
+              "duration": 86.92
+            },
+            {
+              "id": "diee-diee-2143-t27",
+              "title": "Kapitel 27: Die Eiskönigin - Olaf taut auf",
+              "index": 26,
+              "startTime": 2315.372,
+              "duration": 82.68
+            },
+            {
+              "id": "diee-diee-2143-t28",
+              "title": "Kapitel 28: Die Eiskönigin - Olaf taut auf",
+              "index": 27,
+              "startTime": 2398.052,
+              "duration": 102.427
+            },
+            {
+              "id": "diee-diee-2143-t29",
+              "title": "Kapitel 29: Die Eiskönigin - Olaf taut auf",
+              "index": 28,
+              "startTime": 2500.479,
+              "duration": 69.533
+            },
+            {
+              "id": "diee-diee-2143-t30",
+              "title": "Kapitel 30: Die Eiskönigin - Olaf taut auf",
+              "index": 29,
+              "startTime": 2570.012,
+              "duration": 82.667
+            },
+            {
+              "id": "diee-diee-2143-t31",
+              "title": "Kapitel 31: Die Eiskönigin - Olaf taut auf",
+              "index": 30,
+              "startTime": 2652.679,
+              "duration": 87.533
+            },
+            {
+              "id": "diee-diee-2143-t32",
+              "title": "Kapitel 32: Die Eiskönigin - Olaf taut auf",
+              "index": 31,
+              "startTime": 2740.212,
+              "duration": 104.573
+            }
+          ],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/d0/02/b0d00263-7010-7631-7cf4-7a30fbafa810/4066339450363.jpg/100x100bb.jpg",
+          "apple_music_id": 1685952143,
+          "status": "active",
+          "sub_franchise": null
+        },
+        {
+          "id": "diee-eswa-7909",
+          "title": "Es war einmal ein Schneemann (Hörspiel zum Kurzfilm)",
+          "author": "Die Eiskönigin",
+          "episode_number": null,
+          "genres": [
+            "Kinder & Jugend",
+            "Hörspiel",
+            "Krimi",
+            "Abenteuer"
+          ],
+          "chapters": [
+            {
+              "id": "diee-eswa-7909-t01",
+              "title": "Kapitel 01: Es war einmal ein Schneemann",
+              "index": 0,
+              "startTime": 0.0,
+              "duration": 86.32
+            },
+            {
+              "id": "diee-eswa-7909-t02",
+              "title": "Kapitel 02: Es war einmal ein Schneemann",
+              "index": 1,
+              "startTime": 86.32,
+              "duration": 97.84
+            },
+            {
+              "id": "diee-eswa-7909-t03",
+              "title": "Kapitel 03: Es war einmal ein Schneemann",
+              "index": 2,
+              "startTime": 184.16,
+              "duration": 91.907
+            },
+            {
+              "id": "diee-eswa-7909-t04",
+              "title": "Kapitel 04: Es war einmal ein Schneemann",
+              "index": 3,
+              "startTime": 276.067,
+              "duration": 79.893
+            },
+            {
+              "id": "diee-eswa-7909-t05",
+              "title": "Kapitel 05: Es war einmal ein Schneemann",
+              "index": 4,
+              "startTime": 355.96,
+              "duration": 89.533
+            },
+            {
+              "id": "diee-eswa-7909-t06",
+              "title": "Kapitel 06: Es war einmal ein Schneemann",
+              "index": 5,
+              "startTime": 445.493,
+              "duration": 100.493
+            },
+            {
+              "id": "diee-eswa-7909-t07",
+              "title": "Kapitel 07: Es war einmal ein Schneemann",
+              "index": 6,
+              "startTime": 545.986,
+              "duration": 90.987
+            },
+            {
+              "id": "diee-eswa-7909-t08",
+              "title": "Kapitel 08: Es war einmal ein Schneemann",
+              "index": 7,
+              "startTime": 636.973,
+              "duration": 86.173
+            },
+            {
+              "id": "diee-eswa-7909-t09",
+              "title": "Kapitel 09: Es war einmal ein Schneemann",
+              "index": 8,
+              "startTime": 723.146,
+              "duration": 82.133
+            },
+            {
+              "id": "diee-eswa-7909-t10",
+              "title": "Kapitel 10: Es war einmal ein Schneemann",
+              "index": 9,
+              "startTime": 805.279,
+              "duration": 105.88
+            },
+            {
+              "id": "diee-eswa-7909-t11",
+              "title": "Kapitel 11: Es war einmal ein Schneemann",
+              "index": 10,
+              "startTime": 911.159,
+              "duration": 96.653
+            },
+            {
+              "id": "diee-eswa-7909-t12",
+              "title": "Kapitel 12: Es war einmal ein Schneemann",
+              "index": 11,
+              "startTime": 1007.812,
+              "duration": 91.733
+            }
+          ],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/78/ff/5278ff1c-8f52-461b-347e-fc1e4d6b75a2/4066339450264.jpg/100x100bb.jpg",
+          "apple_music_id": 1686157909,
+          "status": "active",
+          "sub_franchise": null
+        },
+        {
+          "id": "diee-part-5821",
+          "title": "Partyfieber (Das Original-Hörspiel zum Kurzfilm)",
+          "author": "Die Eiskönigin",
+          "episode_number": null,
+          "genres": [
+            "Hörspiel",
+            "Krimi",
+            "Abenteuer",
+            "Kinder & Jugend"
+          ],
+          "chapters": [
+            {
+              "id": "diee-part-5821-t01",
+              "title": "Kapitel 01: Partyfieber",
+              "index": 0,
+              "startTime": 0.0,
+              "duration": 92.125
+            },
+            {
+              "id": "diee-part-5821-t02",
+              "title": "Kapitel 02: Partyfieber",
+              "index": 1,
+              "startTime": 92.125,
+              "duration": 96.398
+            },
+            {
+              "id": "diee-part-5821-t03",
+              "title": "Kapitel 03: Partyfieber",
+              "index": 2,
+              "startTime": 188.523,
+              "duration": 93.901
+            },
+            {
+              "id": "diee-part-5821-t04",
+              "title": "Kapitel 04: Partyfieber",
+              "index": 3,
+              "startTime": 282.424,
+              "duration": 108.739
+            },
+            {
+              "id": "diee-part-5821-t05",
+              "title": "Kapitel 05: Partyfieber",
+              "index": 4,
+              "startTime": 391.163,
+              "duration": 96.641
+            },
+            {
+              "id": "diee-part-5821-t06",
+              "title": "Kapitel 06: Partyfieber",
+              "index": 5,
+              "startTime": 487.804,
+              "duration": 93.634
+            },
+            {
+              "id": "diee-part-5821-t07",
+              "title": "Kapitel 07: Partyfieber",
+              "index": 6,
+              "startTime": 581.438,
+              "duration": 96.676
+            },
+            {
+              "id": "diee-part-5821-t08",
+              "title": "Kapitel 08: Partyfieber",
+              "index": 7,
+              "startTime": 678.114,
+              "duration": 102.307
+            },
+            {
+              "id": "diee-part-5821-t09",
+              "title": "Kapitel 09: Partyfieber",
+              "index": 8,
+              "startTime": 780.421,
+              "duration": 103.607
+            },
+            {
+              "id": "diee-part-5821-t10",
+              "title": "Kapitel 10: Partyfieber",
+              "index": 9,
+              "startTime": 884.028,
+              "duration": 92.874
+            },
+            {
+              "id": "diee-part-5821-t11",
+              "title": "Kapitel 11: Partyfieber",
+              "index": 10,
+              "startTime": 976.902,
+              "duration": 105.549
+            }
+          ],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/b5/41/42b5417c-17d8-0e5e-ae40-b3cba5a9ab24/4066339449930.jpg/100x100bb.jpg",
+          "apple_music_id": 1685945821,
+          "status": "active",
+          "sub_franchise": null
+        },
+        {
+          "id": "pete-pete-4839",
+          "title": "Peter Lustig liest Die Eiskönigin von Hans Christian Andersen",
+          "author": "Peter Lustig",
+          "episode_number": null,
+          "genres": [
+            "Hörspiel",
+            "Klassiker",
+            "Kinder & Jugend"
+          ],
+          "chapters": [
+            {
+              "id": "pete-pete-4839-t01",
+              "title": "Die Eiskönigin: Klein-Rudi",
+              "index": 0,
+              "startTime": 0.0,
+              "duration": 1065.866
+            },
+            {
+              "id": "pete-pete-4839-t02",
+              "title": "Die Eiskönigin: Die Reise nach der neuen Heimat",
+              "index": 1,
+              "startTime": 1065.866,
+              "duration": 653.16
+            },
+            {
+              "id": "pete-pete-4839-t03",
+              "title": "Die Eiskönigin: Der Onkel",
+              "index": 2,
+              "startTime": 1719.026,
+              "duration": 662.613
+            },
+            {
+              "id": "pete-pete-4839-t04",
+              "title": "Die Eiskönigin: Babette",
+              "index": 3,
+              "startTime": 2381.639,
+              "duration": 1468.92
+            },
+            {
+              "id": "pete-pete-4839-t05",
+              "title": "Die Eiskönigin: Auf dem Heimwege",
+              "index": 4,
+              "startTime": 3850.559,
+              "duration": 272.746
+            },
+            {
+              "id": "pete-pete-4839-t06",
+              "title": "Die Eiskönigin: Der Besuch in der Mühle",
+              "index": 5,
+              "startTime": 4123.305,
+              "duration": 536.52
+            },
+            {
+              "id": "pete-pete-4839-t07",
+              "title": "Die Eiskönigin: Das Adlernest",
+              "index": 6,
+              "startTime": 4659.825,
+              "duration": 494.906
+            },
+            {
+              "id": "pete-pete-4839-t08",
+              "title": "Die Eiskönigin: Welche Neuigkeiten die Stubenkatze wieder zu erzählen hatte",
+              "index": 7,
+              "startTime": 5154.731,
+              "duration": 259.613
+            },
+            {
+              "id": "pete-pete-4839-t09",
+              "title": "Die Eiskönigin: Die Eisjungfrau",
+              "index": 8,
+              "startTime": 5414.344,
+              "duration": 279.013
+            },
+            {
+              "id": "pete-pete-4839-t10",
+              "title": "Die Eiskönigin: Die Frau Patin",
+              "index": 9,
+              "startTime": 5693.357,
+              "duration": 410.013
+            },
+            {
+              "id": "pete-pete-4839-t11",
+              "title": "Die Eiskönigin: Der Vetter",
+              "index": 10,
+              "startTime": 6103.37,
+              "duration": 341.213
+            },
+            {
+              "id": "pete-pete-4839-t12",
+              "title": "Die Eiskönigin: Böse Mächte",
+              "index": 11,
+              "startTime": 6444.583,
+              "duration": 426.613
+            },
+            {
+              "id": "pete-pete-4839-t13",
+              "title": "Die Eiskönigin: Im Hause des Müllers",
+              "index": 12,
+              "startTime": 6871.196,
+              "duration": 322.213
+            },
+            {
+              "id": "pete-pete-4839-t14",
+              "title": "Die Eiskönigin: Nächtliche Gesichte",
+              "index": 13,
+              "startTime": 7193.409,
+              "duration": 296.013
+            },
+            {
+              "id": "pete-pete-4839-t15",
+              "title": "Die Eiskönigin: Schluß",
+              "index": 14,
+              "startTime": 7489.422,
+              "duration": 839.133
+            }
+          ],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/56/5c/f2565c75-fc0f-ea8f-435d-8d1ee05007b0/5413059370140.jpg/100x100bb.jpg",
+          "apple_music_id": 1582704839,
+          "status": "active",
+          "sub_franchise": null
+        },
+        {
           "id": "frak-folg-7215",
           "title": "Folge 1: Verloren im Mikrokosmos",
           "author": "Alfred Hitchcock präsentiert",
@@ -481237,233 +481586,6 @@
           "sub_franchise": null
         },
         {
-          "id": "nach-diee-8314",
-          "title": "Die Eiskönigin",
-          "author": "Nachtfuchs",
-          "episode_number": null,
-          "genres": [
-            "Hörspiel",
-            "Fantasy",
-            "Abenteuer"
-          ],
-          "chapters": [
-            {
-              "id": "nach-diee-8314-t01",
-              "title": "Die Eiskönigin, Pt. 1",
-              "index": 0,
-              "startTime": 0.0,
-              "duration": 61.022
-            },
-            {
-              "id": "nach-diee-8314-t02",
-              "title": "Die Eiskönigin, Pt. 2",
-              "index": 1,
-              "startTime": 61.022,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t03",
-              "title": "Die Eiskönigin, Pt. 3",
-              "index": 2,
-              "startTime": 122.021,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t04",
-              "title": "Die Eiskönigin, Pt. 4",
-              "index": 3,
-              "startTime": 182.021,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t05",
-              "title": "Die Eiskönigin, Pt. 5",
-              "index": 4,
-              "startTime": 242.021,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t06",
-              "title": "Die Eiskönigin, Pt. 6",
-              "index": 5,
-              "startTime": 302.021,
-              "duration": 61.997
-            },
-            {
-              "id": "nach-diee-8314-t07",
-              "title": "Die Eiskönigin, Pt. 7",
-              "index": 6,
-              "startTime": 364.018,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t08",
-              "title": "Die Eiskönigin, Pt. 8",
-              "index": 7,
-              "startTime": 425.017,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t09",
-              "title": "Die Eiskönigin, Pt. 9",
-              "index": 8,
-              "startTime": 485.017,
-              "duration": 61.997
-            },
-            {
-              "id": "nach-diee-8314-t10",
-              "title": "Die Eiskönigin, Pt. 10",
-              "index": 9,
-              "startTime": 547.014,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t11",
-              "title": "Die Eiskönigin, Pt. 11",
-              "index": 10,
-              "startTime": 608.013,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t12",
-              "title": "Die Eiskönigin, Pt. 12",
-              "index": 11,
-              "startTime": 669.012,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t13",
-              "title": "Die Eiskönigin, Pt. 13",
-              "index": 12,
-              "startTime": 729.012,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t14",
-              "title": "Die Eiskönigin, Pt. 14",
-              "index": 13,
-              "startTime": 790.011,
-              "duration": 61.997
-            },
-            {
-              "id": "nach-diee-8314-t15",
-              "title": "Die Eiskönigin, Pt. 15",
-              "index": 14,
-              "startTime": 852.008,
-              "duration": 61.997
-            },
-            {
-              "id": "nach-diee-8314-t16",
-              "title": "Die Eiskönigin, Pt. 16",
-              "index": 15,
-              "startTime": 914.005,
-              "duration": 61.997
-            },
-            {
-              "id": "nach-diee-8314-t17",
-              "title": "Die Eiskönigin, Pt. 17",
-              "index": 16,
-              "startTime": 976.002,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t18",
-              "title": "Die Eiskönigin, Pt. 18",
-              "index": 17,
-              "startTime": 1037.001,
-              "duration": 61.997
-            },
-            {
-              "id": "nach-diee-8314-t19",
-              "title": "Die Eiskönigin, Pt. 19",
-              "index": 18,
-              "startTime": 1098.998,
-              "duration": 61.022
-            },
-            {
-              "id": "nach-diee-8314-t20",
-              "title": "Die Eiskönigin, Pt. 20",
-              "index": 19,
-              "startTime": 1160.02,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t21",
-              "title": "Die Eiskönigin, Pt. 21",
-              "index": 20,
-              "startTime": 1220.02,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t22",
-              "title": "Die Eiskönigin, Pt. 22",
-              "index": 21,
-              "startTime": 1281.019,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t23",
-              "title": "Die Eiskönigin, Pt. 23",
-              "index": 22,
-              "startTime": 1342.018,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t24",
-              "title": "Die Eiskönigin, Pt. 24",
-              "index": 23,
-              "startTime": 1402.018,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t25",
-              "title": "Die Eiskönigin, Pt. 25",
-              "index": 24,
-              "startTime": 1462.018,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t26",
-              "title": "Die Eiskönigin, Pt. 26",
-              "index": 25,
-              "startTime": 1523.017,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t27",
-              "title": "Die Eiskönigin, Pt. 27",
-              "index": 26,
-              "startTime": 1583.017,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t28",
-              "title": "Die Eiskönigin, Pt. 28",
-              "index": 27,
-              "startTime": 1643.017,
-              "duration": 60.0
-            },
-            {
-              "id": "nach-diee-8314-t29",
-              "title": "Die Eiskönigin, Pt. 29",
-              "index": 28,
-              "startTime": 1703.017,
-              "duration": 60.999
-            },
-            {
-              "id": "nach-diee-8314-t30",
-              "title": "Die Eiskönigin, Pt. 30",
-              "index": 29,
-              "startTime": 1764.016,
-              "duration": 88.024
-            }
-          ],
-          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/6e/f5/ab6ef58e-b97d-4dc2-5de1-8b0abcbc701a/cover_4062851751650.jpg/100x100bb.jpg",
-          "apple_music_id": 1644678314,
-          "status": "active",
-          "sub_franchise": null
-        },
-        {
           "id": "6768412749",
           "title": "Die Hitzekugel",
           "author": "Arthur Conan Doyle",
@@ -489728,128 +489850,6 @@
           ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/66/b9/2566b924-75b7-ab4a-6bc8-c5e66f6974a1/cover.jpg/100x100bb.jpg",
           "apple_music_id": 1686562911,
-          "status": "active",
-          "sub_franchise": null
-        },
-        {
-          "id": "pete-pete-4839",
-          "title": "Peter Lustig liest Die Eiskönigin von Hans Christian Andersen",
-          "author": "Peter Lustig",
-          "episode_number": null,
-          "genres": [
-            "Hörspiel",
-            "Klassiker",
-            "Kinder & Jugend"
-          ],
-          "chapters": [
-            {
-              "id": "pete-pete-4839-t01",
-              "title": "Die Eiskönigin: Klein-Rudi",
-              "index": 0,
-              "startTime": 0.0,
-              "duration": 1065.866
-            },
-            {
-              "id": "pete-pete-4839-t02",
-              "title": "Die Eiskönigin: Die Reise nach der neuen Heimat",
-              "index": 1,
-              "startTime": 1065.866,
-              "duration": 653.16
-            },
-            {
-              "id": "pete-pete-4839-t03",
-              "title": "Die Eiskönigin: Der Onkel",
-              "index": 2,
-              "startTime": 1719.026,
-              "duration": 662.613
-            },
-            {
-              "id": "pete-pete-4839-t04",
-              "title": "Die Eiskönigin: Babette",
-              "index": 3,
-              "startTime": 2381.639,
-              "duration": 1468.92
-            },
-            {
-              "id": "pete-pete-4839-t05",
-              "title": "Die Eiskönigin: Auf dem Heimwege",
-              "index": 4,
-              "startTime": 3850.559,
-              "duration": 272.746
-            },
-            {
-              "id": "pete-pete-4839-t06",
-              "title": "Die Eiskönigin: Der Besuch in der Mühle",
-              "index": 5,
-              "startTime": 4123.305,
-              "duration": 536.52
-            },
-            {
-              "id": "pete-pete-4839-t07",
-              "title": "Die Eiskönigin: Das Adlernest",
-              "index": 6,
-              "startTime": 4659.825,
-              "duration": 494.906
-            },
-            {
-              "id": "pete-pete-4839-t08",
-              "title": "Die Eiskönigin: Welche Neuigkeiten die Stubenkatze wieder zu erzählen hatte",
-              "index": 7,
-              "startTime": 5154.731,
-              "duration": 259.613
-            },
-            {
-              "id": "pete-pete-4839-t09",
-              "title": "Die Eiskönigin: Die Eisjungfrau",
-              "index": 8,
-              "startTime": 5414.344,
-              "duration": 279.013
-            },
-            {
-              "id": "pete-pete-4839-t10",
-              "title": "Die Eiskönigin: Die Frau Patin",
-              "index": 9,
-              "startTime": 5693.357,
-              "duration": 410.013
-            },
-            {
-              "id": "pete-pete-4839-t11",
-              "title": "Die Eiskönigin: Der Vetter",
-              "index": 10,
-              "startTime": 6103.37,
-              "duration": 341.213
-            },
-            {
-              "id": "pete-pete-4839-t12",
-              "title": "Die Eiskönigin: Böse Mächte",
-              "index": 11,
-              "startTime": 6444.583,
-              "duration": 426.613
-            },
-            {
-              "id": "pete-pete-4839-t13",
-              "title": "Die Eiskönigin: Im Hause des Müllers",
-              "index": 12,
-              "startTime": 6871.196,
-              "duration": 322.213
-            },
-            {
-              "id": "pete-pete-4839-t14",
-              "title": "Die Eiskönigin: Nächtliche Gesichte",
-              "index": 13,
-              "startTime": 7193.409,
-              "duration": 296.013
-            },
-            {
-              "id": "pete-pete-4839-t15",
-              "title": "Die Eiskönigin: Schluß",
-              "index": 14,
-              "startTime": 7489.422,
-              "duration": 839.133
-            }
-          ],
-          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f2/56/5c/f2565c75-fc0f-ea8f-435d-8d1ee05007b0/5413059370140.jpg/100x100bb.jpg",
-          "apple_music_id": 1582704839,
           "status": "active",
           "sub_franchise": null
         },
