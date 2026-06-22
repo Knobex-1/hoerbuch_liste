@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-22T11:53:18.417307+00:00",
+  "exported_at": "2026-06-22T11:53:52.540938+00:00",
   "franchises": [
     {
       "name": "Die drei ???",
@@ -462068,7 +462068,98 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 1",
+              "duration_ms": 147413
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 2",
+              "duration_ms": 104107
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 3",
+              "duration_ms": 272813
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 4",
+              "duration_ms": 283133
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 5",
+              "duration_ms": 392147
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 6",
+              "duration_ms": 162600
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 7",
+              "duration_ms": 234653
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 8",
+              "duration_ms": 131680
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 9",
+              "duration_ms": 179440
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 10",
+              "duration_ms": 243013
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 11",
+              "duration_ms": 296920
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 12",
+              "duration_ms": 255907
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 13",
+              "duration_ms": 195547
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 14",
+              "duration_ms": 174827
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Classics, Folge 22: Der See des Schreckens, Kapitel 15",
+              "duration_ms": 330560
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ad/4d/77/ad4d77d5-31c6-cd2b-0cd4-9e125ab66b15/9783838775470_1448.jpg/100x100bb.jpg",
           "apple_music_id": 983241687,
           "status": "active",
@@ -462314,7 +462405,98 @@
             "Hörspiel",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 1",
+              "duration_ms": 244800
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 2",
+              "duration_ms": 224187
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 3",
+              "duration_ms": 161187
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 4",
+              "duration_ms": 274720
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 5",
+              "duration_ms": 300573
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 6",
+              "duration_ms": 199547
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 7",
+              "duration_ms": 147760
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 8",
+              "duration_ms": 180760
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 9",
+              "duration_ms": 277867
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 10",
+              "duration_ms": 328493
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 11",
+              "duration_ms": 213067
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 12",
+              "duration_ms": 320013
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 13",
+              "duration_ms": 342040
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 14",
+              "duration_ms": 209747
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Classics, Folge 24: Hochzeit der Vampire, Kapitel 15",
+              "duration_ms": 183973
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/18/e9/80/18e98057-f87b-5462-91da-e940624ebcae/9783838775616_1448.jpg/100x100bb.jpg",
           "apple_music_id": 986900232,
           "status": "active",
@@ -462433,7 +462615,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 1",
+              "duration_ms": 211200
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 2",
+              "duration_ms": 177147
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 3",
+              "duration_ms": 159520
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 4",
+              "duration_ms": 274027
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 5",
+              "duration_ms": 211933
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 6",
+              "duration_ms": 197400
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 7",
+              "duration_ms": 316147
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 8",
+              "duration_ms": 119960
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 9",
+              "duration_ms": 321387
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 10",
+              "duration_ms": 239680
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 11",
+              "duration_ms": 323013
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 12",
+              "duration_ms": 163840
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 13",
+              "duration_ms": 140560
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 14",
+              "duration_ms": 331120
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Classics, Folge 25: Dr. Tods Höllenfahrt, Kapitel 15",
+              "duration_ms": 174280
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/db/63/58/db6358f2-d990-d688-7415-509d802578bf/mzm.hisuistr.jpg/100x100bb.jpg",
           "apple_music_id": 1058883665,
           "status": "active",
@@ -462559,7 +462832,98 @@
             "Abenteuer",
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 1",
+              "duration_ms": 144427
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 2",
+              "duration_ms": 235893
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 3",
+              "duration_ms": 183413
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 4",
+              "duration_ms": 165507
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 5",
+              "duration_ms": 246840
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 6",
+              "duration_ms": 187573
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 7",
+              "duration_ms": 166093
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 8",
+              "duration_ms": 286773
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 9",
+              "duration_ms": 313453
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 10",
+              "duration_ms": 169600
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 11",
+              "duration_ms": 199347
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 12",
+              "duration_ms": 240480
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 13",
+              "duration_ms": 183413
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 14",
+              "duration_ms": 194787
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Classics, Folge 26: Der Fluch aus dem Dschungel, Kapitel 15",
+              "duration_ms": 298453
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/03/0d/37/030d373f-f722-3981-89b4-ac35e826dfa0/mzm.lrnvzxim.jpg/100x100bb.jpg",
           "apple_music_id": 1058882914,
           "status": "active",
@@ -469032,7 +469396,98 @@
           "genres": [
             "Fantasy"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 1",
+              "duration_ms": 286293
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 2",
+              "duration_ms": 230067
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 3",
+              "duration_ms": 125480
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 4",
+              "duration_ms": 223173
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 5",
+              "duration_ms": 202987
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 6",
+              "duration_ms": 211280
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 7",
+              "duration_ms": 133293
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 8",
+              "duration_ms": 263107
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 9",
+              "duration_ms": 247013
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 10",
+              "duration_ms": 107960
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 11",
+              "duration_ms": 217147
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 12",
+              "duration_ms": 96200
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 13",
+              "duration_ms": 110880
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 14",
+              "duration_ms": 129573
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1, Kapitel 15",
+              "duration_ms": 149413
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/97/f3/07/97f3071e-e53d-f737-9c89-675a3aaca468/9783838775487_1448.jpg/100x100bb.jpg",
           "apple_music_id": 973020839,
           "status": "active",
@@ -469046,7 +469501,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 1",
+              "duration_ms": 65853
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 2",
+              "duration_ms": 90080
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 3",
+              "duration_ms": 155347
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 4",
+              "duration_ms": 132320
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 5",
+              "duration_ms": 165280
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 6",
+              "duration_ms": 115867
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 7",
+              "duration_ms": 249187
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 8",
+              "duration_ms": 200333
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 9",
+              "duration_ms": 173653
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 10",
+              "duration_ms": 91040
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 11",
+              "duration_ms": 225160
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 12",
+              "duration_ms": 291360
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 13",
+              "duration_ms": 217893
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 14",
+              "duration_ms": 267227
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 103: Ghoul-Parasiten, Kapitel 15",
+              "duration_ms": 213933
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/61/0f/f7/610ff790-6b7b-35db-aa47-761090bd00aa/9783838775586_1448.jpg/100x100bb.jpg",
           "apple_music_id": 986927635,
           "status": "active",
@@ -469060,7 +469606,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 1",
+              "duration_ms": 238840
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 2",
+              "duration_ms": 276640
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 3",
+              "duration_ms": 259907
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 4",
+              "duration_ms": 175760
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 5",
+              "duration_ms": 294373
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 6",
+              "duration_ms": 142200
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 7",
+              "duration_ms": 232640
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 8",
+              "duration_ms": 199533
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 9",
+              "duration_ms": 180493
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 10",
+              "duration_ms": 158720
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 11",
+              "duration_ms": 71773
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 12",
+              "duration_ms": 164933
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 13",
+              "duration_ms": 77813
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 14",
+              "duration_ms": 299573
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 104: Die magische Bombe, Kapitel 15",
+              "duration_ms": 246053
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/e4/94/77/e4947744-f667-2160-1997-6298261f5a6e/dj.acbwaqsr.jpg/100x100bb.jpg",
           "apple_music_id": 986931860,
           "status": "active",
@@ -469075,7 +469712,98 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 1",
+              "duration_ms": 49693
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 2",
+              "duration_ms": 258040
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 3",
+              "duration_ms": 316027
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 4",
+              "duration_ms": 208147
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 5",
+              "duration_ms": 174787
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 6",
+              "duration_ms": 193707
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 7",
+              "duration_ms": 326600
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 8",
+              "duration_ms": 254467
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 9",
+              "duration_ms": 239467
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 10",
+              "duration_ms": 314200
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 11",
+              "duration_ms": 257067
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 12",
+              "duration_ms": 260253
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 13",
+              "duration_ms": 321507
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 14",
+              "duration_ms": 215480
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 105: Shimadas Mordaugen (Teil 1 von 3), Kapitel 15",
+              "duration_ms": 87867
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/df/43/89/df4389c2-83a6-ddd3-1c0a-c67228bb4192/9783838776897_1448.jpg/100x100bb.jpg",
           "apple_music_id": 986945730,
           "status": "active",
@@ -469089,7 +469817,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 1",
+              "duration_ms": 143320
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 2",
+              "duration_ms": 192627
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 3",
+              "duration_ms": 282573
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 4",
+              "duration_ms": 180880
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 5",
+              "duration_ms": 274587
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 6",
+              "duration_ms": 312693
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 7",
+              "duration_ms": 191320
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 8",
+              "duration_ms": 227173
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 9",
+              "duration_ms": 297880
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 10",
+              "duration_ms": 229760
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 11",
+              "duration_ms": 182467
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 12",
+              "duration_ms": 168200
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 13",
+              "duration_ms": 218653
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 14",
+              "duration_ms": 173653
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3), Kapitel 15",
+              "duration_ms": 82507
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/5c/19/09/5c190947-88d3-e5e5-ac7f-3e2d9ae8ce8c/9783838776903_1448.jpg/100x100bb.jpg",
           "apple_music_id": 986946738,
           "status": "active",
@@ -469103,7 +469922,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 1",
+              "duration_ms": 162387
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 2",
+              "duration_ms": 132107
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 3",
+              "duration_ms": 184533
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 4",
+              "duration_ms": 258133
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 5",
+              "duration_ms": 139813
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 6",
+              "duration_ms": 298587
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 7",
+              "duration_ms": 279960
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 8",
+              "duration_ms": 212560
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 9",
+              "duration_ms": 184920
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 10",
+              "duration_ms": 167587
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 11",
+              "duration_ms": 284920
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 12",
+              "duration_ms": 276067
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 13",
+              "duration_ms": 279307
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 14",
+              "duration_ms": 329427
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 107: Der Kampf mit den Giganten, Teil 3 von 3, Kapitel 15",
+              "duration_ms": 139867
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3e/75/c5/3e75c5d0-fc6a-539b-270b-78388c6661a5/mzm.yilkazuz.jpg/100x100bb.jpg",
           "apple_music_id": 1058879868,
           "status": "active",
@@ -469118,7 +470028,98 @@
             "Krimi",
             "Thriller"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 1",
+              "duration_ms": 284680
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 2",
+              "duration_ms": 149173
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 3",
+              "duration_ms": 276267
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 4",
+              "duration_ms": 241813
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 5",
+              "duration_ms": 250493
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 6",
+              "duration_ms": 136480
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 7",
+              "duration_ms": 214453
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 8",
+              "duration_ms": 55840
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 9",
+              "duration_ms": 196853
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 10",
+              "duration_ms": 38160
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 11",
+              "duration_ms": 197787
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 12",
+              "duration_ms": 128867
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 13",
+              "duration_ms": 341867
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 14",
+              "duration_ms": 555467
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 108: Satans Knochenuhr, Kapitel 15",
+              "duration_ms": 118720
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d5/e4/57/d5e457a8-1b84-10b3-cfd7-4637d6720494/mzm.budyuqov.jpg/100x100bb.jpg",
           "apple_music_id": 1058880201,
           "status": "active",
@@ -469133,7 +470134,98 @@
             "Hörspiel",
             "Krimi"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 1",
+              "duration_ms": 198013
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 2",
+              "duration_ms": 189720
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 3",
+              "duration_ms": 226840
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 4",
+              "duration_ms": 296467
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 5",
+              "duration_ms": 160747
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 6",
+              "duration_ms": 268267
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 7",
+              "duration_ms": 242720
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 8",
+              "duration_ms": 178213
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 9",
+              "duration_ms": 243160
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 10",
+              "duration_ms": 237213
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 11",
+              "duration_ms": 167707
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 12",
+              "duration_ms": 215360
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 13",
+              "duration_ms": 227640
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 14",
+              "duration_ms": 351013
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 109: Sieben Dolche für den Teufel, Kapitel 15",
+              "duration_ms": 152052
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/49/04/a6/4904a6b5-8511-31d4-deab-387f29c8a498/mzm.pesyzmbv.jpg/100x100bb.jpg",
           "apple_music_id": 1058879871,
           "status": "active",
@@ -469147,7 +470239,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 1",
+              "duration_ms": 271440
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 2",
+              "duration_ms": 291120
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 3",
+              "duration_ms": 203907
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 4",
+              "duration_ms": 265293
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 5",
+              "duration_ms": 160587
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 6",
+              "duration_ms": 125187
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 7",
+              "duration_ms": 205253
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 8",
+              "duration_ms": 181293
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 9",
+              "duration_ms": 111053
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 10",
+              "duration_ms": 210507
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 11",
+              "duration_ms": 120173
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 12",
+              "duration_ms": 125720
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 13",
+              "duration_ms": 140893
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 14",
+              "duration_ms": 168600
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 110: Die Träne des Teufels, Teil 1 von 2, Kapitel 15",
+              "duration_ms": 186995
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/f4/10/db/f410dbb9-7d4b-9fff-320f-6bdacf665367/mzm.fyjthpnj.jpg/100x100bb.jpg",
           "apple_music_id": 1058880189,
           "status": "active",
@@ -469161,7 +470344,98 @@
           "genres": [
             "Hörspiel"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 1",
+              "duration_ms": 160573
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 2",
+              "duration_ms": 356333
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 3",
+              "duration_ms": 202533
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 4",
+              "duration_ms": 205613
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 5",
+              "duration_ms": 241227
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 6",
+              "duration_ms": 450440
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 7",
+              "duration_ms": 231227
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 8",
+              "duration_ms": 246133
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 9",
+              "duration_ms": 128067
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 10",
+              "duration_ms": 302200
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 11",
+              "duration_ms": 237733
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 12",
+              "duration_ms": 258867
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 13",
+              "duration_ms": 156200
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 14",
+              "duration_ms": 227573
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Folge 111: Abrechnung mit Jane Collins, Teil 2 von 2, Kapitel 15",
+              "duration_ms": 316224
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/44/62/40/4462407b-3b56-98d4-d706-6aab8a701d40/mzm.prchaego.jpg/100x100bb.jpg",
           "apple_music_id": 1058880720,
           "status": "active",
