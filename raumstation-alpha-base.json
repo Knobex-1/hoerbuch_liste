@@ -19,7 +19,140 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 1",
+          "duration_ms": 83080
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 2",
+          "duration_ms": 454947
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 3",
+          "duration_ms": 156400
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 4",
+          "duration_ms": 121507
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 5",
+          "duration_ms": 112067
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 6",
+          "duration_ms": 182907
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 7",
+          "duration_ms": 57493
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 8",
+          "duration_ms": 240120
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 9",
+          "duration_ms": 89267
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 10",
+          "duration_ms": 45213
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 11",
+          "duration_ms": 121680
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 12",
+          "duration_ms": 41960
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 13",
+          "duration_ms": 157733
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 14",
+          "duration_ms": 242547
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 15",
+          "duration_ms": 78640
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 16",
+          "duration_ms": 131547
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 17",
+          "duration_ms": 128813
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 18",
+          "duration_ms": 86947
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 19",
+          "duration_ms": 50240
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 20",
+          "duration_ms": 235653
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 21",
+          "duration_ms": 59453
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "Sprung durch den Sektor, Teil 22",
+          "duration_ms": 186027
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/c7/05/ec/c705ec7b-0bf6-3231-a5f7-4eee8f479915/4250064604645_1448.jpg/100x100bb.jpg",
       "apple_music_id": 845368698,
       "status": "active",
@@ -47,7 +180,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Kontakt, Teil 1",
+          "duration_ms": 55440
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Kontakt, Teil 2",
+          "duration_ms": 73480
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Kontakt, Teil 3",
+          "duration_ms": 109707
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Kontakt, Teil 4",
+          "duration_ms": 205160
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Kontakt, Teil 5",
+          "duration_ms": 45773
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Kontakt, Teil 6",
+          "duration_ms": 165467
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Kontakt, Teil 7",
+          "duration_ms": 102253
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Kontakt, Teil 8",
+          "duration_ms": 202707
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Kontakt, Teil 9",
+          "duration_ms": 102707
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Kontakt, Teil 10",
+          "duration_ms": 232867
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Kontakt, Teil 11",
+          "duration_ms": 88667
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Kontakt, Teil 12",
+          "duration_ms": 202640
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Kontakt, Teil 13",
+          "duration_ms": 252200
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Kontakt, Teil 14",
+          "duration_ms": 211627
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Kontakt, Teil 15",
+          "duration_ms": 265107
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Kontakt, Teil 16",
+          "duration_ms": 212440
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Kontakt, Teil 17",
+          "duration_ms": 238107
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Kontakt, Teil 18",
+          "duration_ms": 261240
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Kontakt, Teil 19",
+          "duration_ms": 165640
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Kontakt, Teil 20",
+          "duration_ms": 106960
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d2/61/67/d26167e3-73ad-cd7c-4523-539619106263/4250064604928_1448.jpg/100x100bb.jpg",
       "apple_music_id": 845186324,
       "status": "active",
@@ -75,7 +329,122 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 1",
+          "duration_ms": 33493
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 2",
+          "duration_ms": 95027
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 3",
+          "duration_ms": 160387
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 4",
+          "duration_ms": 123400
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 5",
+          "duration_ms": 271307
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 6",
+          "duration_ms": 300480
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 7",
+          "duration_ms": 188800
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 8",
+          "duration_ms": 383493
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 9",
+          "duration_ms": 216493
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 10",
+          "duration_ms": 223987
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 11",
+          "duration_ms": 92307
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 12",
+          "duration_ms": 327787
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 13",
+          "duration_ms": 412040
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 14",
+          "duration_ms": 206893
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 15",
+          "duration_ms": 149867
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 16",
+          "duration_ms": 139733
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 17",
+          "duration_ms": 322453
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 18",
+          "duration_ms": 137653
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Das letzte Lebenszeichen, Teil 19",
+          "duration_ms": 199187
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/0d/0b/34/0d0b34de-019c-f010-4aee-523d1f6ab89e/4250064604935_1448.jpg/100x100bb.jpg",
       "apple_music_id": 845199610,
       "status": "active",
@@ -103,7 +472,194 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Die Romani, Teil 1",
+          "duration_ms": 132853
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Die Romani, Teil 2",
+          "duration_ms": 99933
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Die Romani, Teil 3",
+          "duration_ms": 49080
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Die Romani, Teil 4",
+          "duration_ms": 102533
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Die Romani, Teil 5",
+          "duration_ms": 88973
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Die Romani, Teil 6",
+          "duration_ms": 102453
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Die Romani, Teil 7",
+          "duration_ms": 37307
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Die Romani, Teil 8",
+          "duration_ms": 61040
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Die Romani, Teil 9",
+          "duration_ms": 152400
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Die Romani, Teil 10",
+          "duration_ms": 80907
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Die Romani, Teil 11",
+          "duration_ms": 69253
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Die Romani, Teil 12",
+          "duration_ms": 72293
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Die Romani, Teil 13",
+          "duration_ms": 51600
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Die Romani, Teil 14",
+          "duration_ms": 57760
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Die Romani, Teil 15",
+          "duration_ms": 98973
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Die Romani, Teil 16",
+          "duration_ms": 110920
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Die Romani, Teil 17",
+          "duration_ms": 66440
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Die Romani, Teil 18",
+          "duration_ms": 116800
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Die Romani, Teil 19",
+          "duration_ms": 154227
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Die Romani, Teil 20",
+          "duration_ms": 43467
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Die Romani, Teil 21",
+          "duration_ms": 29240
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "Die Romani, Teil 22",
+          "duration_ms": 141547
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "Die Romani, Teil 23",
+          "duration_ms": 53427
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "Die Romani, Teil 24",
+          "duration_ms": 50187
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "Die Romani, Teil 25",
+          "duration_ms": 102747
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "Die Romani, Teil 26",
+          "duration_ms": 61693
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "Die Romani, Teil 27",
+          "duration_ms": 229520
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "Die Romani, Teil 28",
+          "duration_ms": 81653
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "Die Romani, Teil 29",
+          "duration_ms": 85693
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "Die Romani, Teil 30",
+          "duration_ms": 40747
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "Die Romani, Teil 31",
+          "duration_ms": 117413
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/82/26/a5/8226a50a-1ca1-1f76-b953-fa673615bf3d/4250064605161_1448.jpg/100x100bb.jpg",
       "apple_music_id": 845227479,
       "status": "active",
@@ -131,7 +687,134 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 1",
+          "duration_ms": 133333
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 2",
+          "duration_ms": 153627
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 3",
+          "duration_ms": 170253
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 4",
+          "duration_ms": 124573
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 5",
+          "duration_ms": 77267
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 6",
+          "duration_ms": 126080
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 7",
+          "duration_ms": 57107
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 8",
+          "duration_ms": 114613
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 9",
+          "duration_ms": 188840
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 10",
+          "duration_ms": 93733
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 11",
+          "duration_ms": 64187
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 12",
+          "duration_ms": 74653
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 13",
+          "duration_ms": 80133
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 14",
+          "duration_ms": 86573
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 15",
+          "duration_ms": 352267
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 16",
+          "duration_ms": 154667
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 17",
+          "duration_ms": 165040
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 18",
+          "duration_ms": 186400
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 19",
+          "duration_ms": 165653
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 20",
+          "duration_ms": 49480
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Der Untergang der Alpha-Base, Teil 21",
+          "duration_ms": 141067
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/8e/da/cf/8edacf75-fe31-f463-7d14-c4d0b0634349/4250064605178_1448.jpg/100x100bb.jpg",
       "apple_music_id": 845242481,
       "status": "active",
@@ -159,7 +842,176 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Feind, Teil 1",
+          "duration_ms": 207147
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Feind, Teil 2",
+          "duration_ms": 157133
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Feind, Teil 3",
+          "duration_ms": 42227
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Feind, Teil 4",
+          "duration_ms": 61480
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Feind, Teil 5",
+          "duration_ms": 140733
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Feind, Teil 6",
+          "duration_ms": 118827
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Feind, Teil 7",
+          "duration_ms": 66720
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Feind, Teil 8",
+          "duration_ms": 100160
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Feind, Teil 9",
+          "duration_ms": 50320
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Feind, Teil 10",
+          "duration_ms": 72507
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Feind, Teil 11",
+          "duration_ms": 106133
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Feind, Teil 12",
+          "duration_ms": 124040
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Feind, Teil 13",
+          "duration_ms": 166960
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Feind, Teil 14",
+          "duration_ms": 136733
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Feind, Teil 15",
+          "duration_ms": 21840
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Feind, Teil 16",
+          "duration_ms": 110147
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Feind, Teil 17",
+          "duration_ms": 92240
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Feind, Teil 18",
+          "duration_ms": 71400
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Feind, Teil 19",
+          "duration_ms": 77600
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Feind, Teil 20",
+          "duration_ms": 107307
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Feind, Teil 21",
+          "duration_ms": 48387
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "Feind, Teil 22",
+          "duration_ms": 26640
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "Feind, Teil 23",
+          "duration_ms": 102747
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "Feind, Teil 24",
+          "duration_ms": 107093
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "Feind, Teil 25",
+          "duration_ms": 239413
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "Feind, Teil 26",
+          "duration_ms": 41080
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "Feind, Teil 27",
+          "duration_ms": 35973
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "Feind, Teil 28",
+          "duration_ms": 116507
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1f/cf/bc/1fcfbc8a-a565-d9e2-1054-abe8e0c74242/4250064605376_1448.jpg/100x100bb.jpg",
       "apple_music_id": 848317908,
       "status": "active",
@@ -187,7 +1039,146 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Attentäter, Teil 1",
+          "duration_ms": 82467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Attentäter, Teil 2",
+          "duration_ms": 263173
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Attentäter, Teil 3",
+          "duration_ms": 45093
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Attentäter, Teil 4",
+          "duration_ms": 223040
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Attentäter, Teil 5",
+          "duration_ms": 63653
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Attentäter, Teil 6",
+          "duration_ms": 107760
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Attentäter, Teil 7",
+          "duration_ms": 85720
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Attentäter, Teil 8",
+          "duration_ms": 96067
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Attentäter, Teil 9",
+          "duration_ms": 127493
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Attentäter, Teil 10",
+          "duration_ms": 99240
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Attentäter, Teil 11",
+          "duration_ms": 70733
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Attentäter, Teil 12",
+          "duration_ms": 67293
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Attentäter, Teil 13",
+          "duration_ms": 65187
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Attentäter, Teil 14",
+          "duration_ms": 146760
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Attentäter, Teil 15",
+          "duration_ms": 58227
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Attentäter, Teil 16",
+          "duration_ms": 141267
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Attentäter, Teil 17",
+          "duration_ms": 166373
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Attentäter, Teil 18",
+          "duration_ms": 136080
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Attentäter, Teil 19",
+          "duration_ms": 151867
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Attentäter, Teil 20",
+          "duration_ms": 159320
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Attentäter, Teil 21",
+          "duration_ms": 18533
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "Attentäter, Teil 22",
+          "duration_ms": 40773
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "Attentäter, Teil 23",
+          "duration_ms": 145053
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/30/94/52/30945289-db64-f7fe-a918-d2298e9058fa/4250064605499_1448.jpg/100x100bb.jpg",
       "apple_music_id": 845263483,
       "status": "active",
@@ -215,7 +1206,176 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 1",
+          "duration_ms": 128253
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 2",
+          "duration_ms": 101920
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 3",
+          "duration_ms": 198267
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 4",
+          "duration_ms": 164933
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 5",
+          "duration_ms": 141267
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 6",
+          "duration_ms": 139213
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 7",
+          "duration_ms": 52213
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 8",
+          "duration_ms": 40187
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 9",
+          "duration_ms": 27627
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 10",
+          "duration_ms": 168253
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 11",
+          "duration_ms": 138947
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 12",
+          "duration_ms": 95960
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 13",
+          "duration_ms": 111173
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 14",
+          "duration_ms": 61947
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 15",
+          "duration_ms": 72507
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 16",
+          "duration_ms": 64613
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 17",
+          "duration_ms": 92187
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 18",
+          "duration_ms": 49347
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 19",
+          "duration_ms": 93213
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 20",
+          "duration_ms": 114080
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 21",
+          "duration_ms": 109827
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 22",
+          "duration_ms": 67253
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 23",
+          "duration_ms": 187320
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 24",
+          "duration_ms": 85360
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 25",
+          "duration_ms": 131280
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 26",
+          "duration_ms": 60453
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 27",
+          "duration_ms": 39173
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 28",
+          "duration_ms": 193707
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/10/f4/6b/10f46bc5-1269-0a2b-7dc2-2291e79326af/4250064605505_1448.jpg/100x100bb.jpg",
       "apple_music_id": 845268697,
       "status": "active",
@@ -243,7 +1403,146 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 29",
+          "duration_ms": 57120
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 30",
+          "duration_ms": 80093
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 31",
+          "duration_ms": 74707
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 32",
+          "duration_ms": 90800
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 33",
+          "duration_ms": 41547
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 34",
+          "duration_ms": 51813
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 35",
+          "duration_ms": 174160
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 36",
+          "duration_ms": 160880
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 37",
+          "duration_ms": 108427
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 38",
+          "duration_ms": 166307
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 39",
+          "duration_ms": 136693
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 40",
+          "duration_ms": 306347
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 41",
+          "duration_ms": 354573
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 42",
+          "duration_ms": 171333
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 43",
+          "duration_ms": 112107
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 44",
+          "duration_ms": 150627
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 45",
+          "duration_ms": 63453
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 46",
+          "duration_ms": 167573
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 47",
+          "duration_ms": 168067
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 48",
+          "duration_ms": 68347
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 49",
+          "duration_ms": 97400
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 50",
+          "duration_ms": 73853
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "Kampf um Zulu, Teil 51",
+          "duration_ms": 323213
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1e/7f/9c/1e7f9cda-599a-8af7-a2cd-3973bee53720/4250064605765_1448.jpg/100x100bb.jpg",
       "apple_music_id": 845277091,
       "status": "active",

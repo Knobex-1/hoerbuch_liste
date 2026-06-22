@@ -1344,7 +1344,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c9/40/56/c9405647-fc6a-1f99-f446-b30ae0a44576/4057664893147.jpg/100x100bb.jpg",
       "apple_music_id": 1685832113,
       "status": "active",
-      "sub_franchise_id": 5,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-22T19:14:16",
       "extra": {
@@ -1358,7 +1358,7 @@
           "sub_franchise": "Mark Brandis Raumkadett"
         }
       },
-      "sub_franchise": "Mark Brandis Raumkadett"
+      "sub_franchise": "Mark Brandis"
     },
     {
       "id": "mark-03ta-7126",
@@ -13738,7 +13738,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/a9/1d/bda91d62-9bfd-0a56-711a-3af915122837/4066338330260.jpg/100x100bb.jpg",
       "apple_music_id": 1686274764,
       "status": "active",
-      "sub_franchise_id": 5,
+      "sub_franchise_id": 6,
       "last_validated": null,
       "updated_at": "2026-06-22T19:14:16",
       "extra": {
@@ -13752,7 +13752,7 @@
           "sub_franchise": "Mark Brandis Raumkadett"
         }
       },
-      "sub_franchise": "Mark Brandis Raumkadett"
+      "sub_franchise": "Mark Brandis"
     }
   ],
   "episode_count": 54

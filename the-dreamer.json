@@ -19,7 +19,50 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Das Wirken Jesu (Johannes 3)",
+          "duration_ms": 444839
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Das Wirken Jesu (Johannes 4)",
+          "duration_ms": 598753
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Das Wirken Jesu (Johannes 7)",
+          "duration_ms": 522188
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Das Wirken Jesu (Johannes 8)",
+          "duration_ms": 709904
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Das Wirken Jesu (Johannes 11)",
+          "duration_ms": 449071
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Das Wirken Jesu (Matthäus 20)",
+          "duration_ms": 409992
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Das Wirken Jesu (Matthäus 21)",
+          "duration_ms": 631432
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/2b/f6/mzi.gmmfubxd.jpg/100x100bb.jpg",
       "apple_music_id": 408927916,
       "status": "active",

@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-22T19:27:17.910068+00:00",
+  "exported_at": "2026-06-22T19:28:17.419990+00:00",
   "franchises": [
     {
       "name": "100% Wolf",
@@ -79749,7 +79749,248 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 01)",
+              "duration_ms": 100280
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 02)",
+              "duration_ms": 104293
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 03)",
+              "duration_ms": 95413
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 04)",
+              "duration_ms": 96987
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 05)",
+              "duration_ms": 102533
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 06)",
+              "duration_ms": 97587
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 07)",
+              "duration_ms": 106373
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 08)",
+              "duration_ms": 94893
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 09)",
+              "duration_ms": 100227
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 10)",
+              "duration_ms": 100293
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 11)",
+              "duration_ms": 98813
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 12)",
+              "duration_ms": 103093
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 13)",
+              "duration_ms": 96373
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 14)",
+              "duration_ms": 100013
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 15)",
+              "duration_ms": 103867
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 16)",
+              "duration_ms": 98573
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 17)",
+              "duration_ms": 96013
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 18)",
+              "duration_ms": 102093
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 19)",
+              "duration_ms": 105347
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 20)",
+              "duration_ms": 93653
+            },
+            {
+              "track": 21,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 21)",
+              "duration_ms": 100187
+            },
+            {
+              "track": 22,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 22)",
+              "duration_ms": 101587
+            },
+            {
+              "track": 23,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 23)",
+              "duration_ms": 99720
+            },
+            {
+              "track": 24,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 24)",
+              "duration_ms": 102107
+            },
+            {
+              "track": 25,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 25)",
+              "duration_ms": 99787
+            },
+            {
+              "track": 26,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 26)",
+              "duration_ms": 97520
+            },
+            {
+              "track": 27,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 27)",
+              "duration_ms": 96613
+            },
+            {
+              "track": 28,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 28)",
+              "duration_ms": 104827
+            },
+            {
+              "track": 29,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 29)",
+              "duration_ms": 98987
+            },
+            {
+              "track": 30,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 30)",
+              "duration_ms": 99360
+            },
+            {
+              "track": 31,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 31)",
+              "duration_ms": 100573
+            },
+            {
+              "track": 32,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 32)",
+              "duration_ms": 100093
+            },
+            {
+              "track": 33,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 33)",
+              "duration_ms": 99507
+            },
+            {
+              "track": 34,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 34)",
+              "duration_ms": 96600
+            },
+            {
+              "track": 35,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 35)",
+              "duration_ms": 105613
+            },
+            {
+              "track": 36,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 36)",
+              "duration_ms": 97373
+            },
+            {
+              "track": 37,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 37)",
+              "duration_ms": 97653
+            },
+            {
+              "track": 38,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 38)",
+              "duration_ms": 99987
+            },
+            {
+              "track": 39,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 39)",
+              "duration_ms": 100253
+            },
+            {
+              "track": 40,
+              "disc": 1,
+              "title": "001 - Die Handy-Falle (Teil 40)",
+              "duration_ms": 99880
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/95/94/28/95942811-a08c-53d6-acb5-e74ebba4badc/886445747584.jpg/100x100bb.jpg",
           "apple_music_id": 1092514327,
           "status": "active",
@@ -79791,7 +80032,248 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 01)",
+              "duration_ms": 102973
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 02)",
+              "duration_ms": 102773
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 03)",
+              "duration_ms": 101547
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 04)",
+              "duration_ms": 99880
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 05)",
+              "duration_ms": 102120
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 06)",
+              "duration_ms": 103653
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 07)",
+              "duration_ms": 106080
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 08)",
+              "duration_ms": 102560
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 09)",
+              "duration_ms": 97227
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 10)",
+              "duration_ms": 108120
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 11)",
+              "duration_ms": 99600
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 12)",
+              "duration_ms": 101267
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 13)",
+              "duration_ms": 100973
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 14)",
+              "duration_ms": 108027
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 15)",
+              "duration_ms": 99093
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 16)",
+              "duration_ms": 101800
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 17)",
+              "duration_ms": 102333
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 18)",
+              "duration_ms": 103973
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 19)",
+              "duration_ms": 99000
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 20)",
+              "duration_ms": 105280
+            },
+            {
+              "track": 21,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 21)",
+              "duration_ms": 105493
+            },
+            {
+              "track": 22,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 22)",
+              "duration_ms": 99520
+            },
+            {
+              "track": 23,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 23)",
+              "duration_ms": 102933
+            },
+            {
+              "track": 24,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 24)",
+              "duration_ms": 102493
+            },
+            {
+              "track": 25,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 25)",
+              "duration_ms": 99493
+            },
+            {
+              "track": 26,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 26)",
+              "duration_ms": 103613
+            },
+            {
+              "track": 27,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 27)",
+              "duration_ms": 104280
+            },
+            {
+              "track": 28,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 28)",
+              "duration_ms": 96920
+            },
+            {
+              "track": 29,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 29)",
+              "duration_ms": 103787
+            },
+            {
+              "track": 30,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 30)",
+              "duration_ms": 104827
+            },
+            {
+              "track": 31,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 31)",
+              "duration_ms": 100707
+            },
+            {
+              "track": 32,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 32)",
+              "duration_ms": 103200
+            },
+            {
+              "track": 33,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 33)",
+              "duration_ms": 101867
+            },
+            {
+              "track": 34,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 34)",
+              "duration_ms": 103493
+            },
+            {
+              "track": 35,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 35)",
+              "duration_ms": 104440
+            },
+            {
+              "track": 36,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 36)",
+              "duration_ms": 99080
+            },
+            {
+              "track": 37,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 37)",
+              "duration_ms": 102973
+            },
+            {
+              "track": 38,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 38)",
+              "duration_ms": 101053
+            },
+            {
+              "track": 39,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 39)",
+              "duration_ms": 107733
+            },
+            {
+              "track": 40,
+              "disc": 1,
+              "title": "004 - Gefahr im Fitness-Studio (Teil 40)",
+              "duration_ms": 99160
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/dd/30/96/dd30968d-2de0-de43-99b6-82fbca9acb0b/886445747843.jpg/100x100bb.jpg",
           "apple_music_id": 1092511873,
           "status": "active",
@@ -79805,7 +80287,248 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 01)",
+              "duration_ms": 110333
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 02)",
+              "duration_ms": 106093
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 03)",
+              "duration_ms": 105880
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 04)",
+              "duration_ms": 103387
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 05)",
+              "duration_ms": 108707
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 06)",
+              "duration_ms": 105947
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 07)",
+              "duration_ms": 110240
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 08)",
+              "duration_ms": 106387
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 09)",
+              "duration_ms": 108107
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 10)",
+              "duration_ms": 106133
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 11)",
+              "duration_ms": 104307
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 12)",
+              "duration_ms": 110093
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 13)",
+              "duration_ms": 107827
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 14)",
+              "duration_ms": 104107
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 15)",
+              "duration_ms": 106333
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 16)",
+              "duration_ms": 111573
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 17)",
+              "duration_ms": 105933
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 18)",
+              "duration_ms": 106293
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 19)",
+              "duration_ms": 107200
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 20)",
+              "duration_ms": 109133
+            },
+            {
+              "track": 21,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 21)",
+              "duration_ms": 107360
+            },
+            {
+              "track": 22,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 22)",
+              "duration_ms": 103480
+            },
+            {
+              "track": 23,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 23)",
+              "duration_ms": 107187
+            },
+            {
+              "track": 24,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 24)",
+              "duration_ms": 106720
+            },
+            {
+              "track": 25,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 25)",
+              "duration_ms": 106093
+            },
+            {
+              "track": 26,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 26)",
+              "duration_ms": 110773
+            },
+            {
+              "track": 27,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 27)",
+              "duration_ms": 105587
+            },
+            {
+              "track": 28,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 28)",
+              "duration_ms": 110560
+            },
+            {
+              "track": 29,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 29)",
+              "duration_ms": 107240
+            },
+            {
+              "track": 30,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 30)",
+              "duration_ms": 106440
+            },
+            {
+              "track": 31,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 31)",
+              "duration_ms": 104760
+            },
+            {
+              "track": 32,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 32)",
+              "duration_ms": 104987
+            },
+            {
+              "track": 33,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 33)",
+              "duration_ms": 112120
+            },
+            {
+              "track": 34,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 34)",
+              "duration_ms": 104387
+            },
+            {
+              "track": 35,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 35)",
+              "duration_ms": 105827
+            },
+            {
+              "track": 36,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 36)",
+              "duration_ms": 111120
+            },
+            {
+              "track": 37,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 37)",
+              "duration_ms": 106467
+            },
+            {
+              "track": 38,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 38)",
+              "duration_ms": 104333
+            },
+            {
+              "track": 39,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 39)",
+              "duration_ms": 109093
+            },
+            {
+              "track": 40,
+              "disc": 1,
+              "title": "005 - Tatort Paris (Teil 40)",
+              "duration_ms": 106320
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2a/a4/01/2aa40111-f8dd-9899-3c41-f47be05704f2/886445747911.jpg/100x100bb.jpg",
           "apple_music_id": 1092511008,
           "status": "active",
@@ -79819,7 +80542,248 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 01)",
+              "duration_ms": 110480
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 02)",
+              "duration_ms": 110813
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 03)",
+              "duration_ms": 108280
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 04)",
+              "duration_ms": 121493
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 05)",
+              "duration_ms": 112400
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 06)",
+              "duration_ms": 117080
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 07)",
+              "duration_ms": 110453
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 08)",
+              "duration_ms": 132027
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 09)",
+              "duration_ms": 88853
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 10)",
+              "duration_ms": 116920
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 11)",
+              "duration_ms": 109560
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 12)",
+              "duration_ms": 132747
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 13)",
+              "duration_ms": 103907
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 14)",
+              "duration_ms": 109453
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 15)",
+              "duration_ms": 115627
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 16)",
+              "duration_ms": 111933
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 17)",
+              "duration_ms": 107080
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 18)",
+              "duration_ms": 113720
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 19)",
+              "duration_ms": 109507
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 20)",
+              "duration_ms": 121933
+            },
+            {
+              "track": 21,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 21)",
+              "duration_ms": 108853
+            },
+            {
+              "track": 22,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 22)",
+              "duration_ms": 112680
+            },
+            {
+              "track": 23,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 23)",
+              "duration_ms": 113920
+            },
+            {
+              "track": 24,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 24)",
+              "duration_ms": 115253
+            },
+            {
+              "track": 25,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 25)",
+              "duration_ms": 114800
+            },
+            {
+              "track": 26,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 26)",
+              "duration_ms": 105427
+            },
+            {
+              "track": 27,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 27)",
+              "duration_ms": 112587
+            },
+            {
+              "track": 28,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 28)",
+              "duration_ms": 119960
+            },
+            {
+              "track": 29,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 29)",
+              "duration_ms": 107960
+            },
+            {
+              "track": 30,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 30)",
+              "duration_ms": 111800
+            },
+            {
+              "track": 31,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 31)",
+              "duration_ms": 116320
+            },
+            {
+              "track": 32,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 32)",
+              "duration_ms": 107240
+            },
+            {
+              "track": 33,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 33)",
+              "duration_ms": 114627
+            },
+            {
+              "track": 34,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 34)",
+              "duration_ms": 114360
+            },
+            {
+              "track": 35,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 35)",
+              "duration_ms": 117120
+            },
+            {
+              "track": 36,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 36)",
+              "duration_ms": 99840
+            },
+            {
+              "track": 37,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 37)",
+              "duration_ms": 120813
+            },
+            {
+              "track": 38,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 38)",
+              "duration_ms": 113707
+            },
+            {
+              "track": 39,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 39)",
+              "duration_ms": 115667
+            },
+            {
+              "track": 40,
+              "disc": 1,
+              "title": "008 - Vorsicht Strandhaie! (Teil 40)",
+              "duration_ms": 118653
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4e/5e/27/4e5e27de-a390-f602-5072-ab44a843f85c/886445748192.jpg/100x100bb.jpg",
           "apple_music_id": 1092513609,
           "status": "active",
@@ -79847,7 +80811,248 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 01)",
+              "duration_ms": 111467
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 02)",
+              "duration_ms": 110547
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 03)",
+              "duration_ms": 108587
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 04)",
+              "duration_ms": 112187
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 05)",
+              "duration_ms": 107867
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 06)",
+              "duration_ms": 114400
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 07)",
+              "duration_ms": 109107
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 08)",
+              "duration_ms": 114587
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 09)",
+              "duration_ms": 109413
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 10)",
+              "duration_ms": 109920
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 11)",
+              "duration_ms": 111067
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 12)",
+              "duration_ms": 110387
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 13)",
+              "duration_ms": 110680
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 14)",
+              "duration_ms": 110907
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 15)",
+              "duration_ms": 111827
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 16)",
+              "duration_ms": 108347
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 17)",
+              "duration_ms": 106880
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 18)",
+              "duration_ms": 115840
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 19)",
+              "duration_ms": 105307
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 20)",
+              "duration_ms": 115813
+            },
+            {
+              "track": 21,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 21)",
+              "duration_ms": 113987
+            },
+            {
+              "track": 22,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 22)",
+              "duration_ms": 110387
+            },
+            {
+              "track": 23,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 23)",
+              "duration_ms": 108573
+            },
+            {
+              "track": 24,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 24)",
+              "duration_ms": 110680
+            },
+            {
+              "track": 25,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 25)",
+              "duration_ms": 114067
+            },
+            {
+              "track": 26,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 26)",
+              "duration_ms": 106307
+            },
+            {
+              "track": 27,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 27)",
+              "duration_ms": 110907
+            },
+            {
+              "track": 28,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 28)",
+              "duration_ms": 113227
+            },
+            {
+              "track": 29,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 29)",
+              "duration_ms": 108867
+            },
+            {
+              "track": 30,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 30)",
+              "duration_ms": 111693
+            },
+            {
+              "track": 31,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 31)",
+              "duration_ms": 115613
+            },
+            {
+              "track": 32,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 32)",
+              "duration_ms": 105973
+            },
+            {
+              "track": 33,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 33)",
+              "duration_ms": 108133
+            },
+            {
+              "track": 34,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 34)",
+              "duration_ms": 114880
+            },
+            {
+              "track": 35,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 35)",
+              "duration_ms": 111387
+            },
+            {
+              "track": 36,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 36)",
+              "duration_ms": 109387
+            },
+            {
+              "track": 37,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 37)",
+              "duration_ms": 108067
+            },
+            {
+              "track": 38,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 38)",
+              "duration_ms": 114413
+            },
+            {
+              "track": 39,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 39)",
+              "duration_ms": 110067
+            },
+            {
+              "track": 40,
+              "disc": 1,
+              "title": "016 - Total verknallt! (Teil 40)",
+              "duration_ms": 110027
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/49/90/89/49908945-cfef-64c5-e8ac-ed3c6fa21fd1/886445750362.jpg/100x100bb.jpg",
           "apple_music_id": 1092511006,
           "status": "active",
@@ -180304,7 +181509,74 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi Blocksberg Lied",
+              "duration_ms": 89142
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 1: Die Besen müssen mit",
+              "duration_ms": 172173
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 2: Hubertus und Mathilda Drösel",
+              "duration_ms": 163853
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 3: Endlich im Hotel",
+              "duration_ms": 390867
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 4: Hexerei beim Abendessen",
+              "duration_ms": 244520
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 5: Hilfe für Eugen",
+              "duration_ms": 154787
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 6: Der Zaun muß weg!",
+              "duration_ms": 289787
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 7: Bibis Plan geht auf",
+              "duration_ms": 285640
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 8: Was für ein Ferienspaß!",
+              "duration_ms": 165147
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 9: Das große Lampionfest",
+              "duration_ms": 167693
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 5 - Kapitel 10: Rettung in letzter Sekunde",
+              "duration_ms": 331720
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e6/5c/bd/e65cbd05-2521-57f7-d74d-2e7233145873/825646437290.jpg/100x100bb.jpg",
           "apple_music_id": 1069133821,
           "status": "active",
@@ -180318,7 +181590,68 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi Blocksberg Lied",
+              "duration_ms": 89142
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 1: Eis für alle!",
+              "duration_ms": 302520
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 2: Die Oberhexe Walpurgia",
+              "duration_ms": 256080
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 3: Der Hexenrat tagt",
+              "duration_ms": 351053
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 4: Der Beschluss",
+              "duration_ms": 193867
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 5: Unter Walpurgias Aufsicht",
+              "duration_ms": 411787
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 6: Nur fort von hier!",
+              "duration_ms": 243520
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 7: Fluchtversuch",
+              "duration_ms": 257547
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 8: Die geheime Botschaft",
+              "duration_ms": 202467
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 77 - Kapitel 9: Barbara greift ein",
+              "duration_ms": 464333
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/8e/0a/35/8e0a3579-58c9-abe3-298d-cd7bb5bb74c6/825646395767.jpg/100x100bb.jpg",
           "apple_music_id": 1069223798,
           "status": "active",
@@ -356060,7 +357393,56 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 4 - Kapitel 1: Snoopys Rettung",
+              "duration_ms": 415680
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 4 - Kapitel 2: Zirkus Rondelli",
+              "duration_ms": 226120
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 4 - Kapitel 3: Ärger mit dem Zirkuspony",
+              "duration_ms": 294200
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 4 - Kapitel 4: Snoopy wird entführt",
+              "duration_ms": 423947
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 4 - Kapitel 5: Auf der Suche",
+              "duration_ms": 148093
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 4 - Kapitel 6: Rondelli lügt!",
+              "duration_ms": 310453
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 4 - Kapitel 7: Die Wahrheit kommt raus",
+              "duration_ms": 435947
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e2/6b/ab/e26bab21-3ba2-1737-7bc8-1633924564af/825646436972.jpg/100x100bb.jpg",
           "apple_music_id": 1069167455,
           "status": "active",
@@ -356074,7 +357456,86 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78467
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 1: Schnitzeljagdfieber",
+              "duration_ms": 206680
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 2: Irrwege legen",
+              "duration_ms": 222168
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 3: Ein kleiner Streit",
+              "duration_ms": 168587
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 4: Tina wird entführt",
+              "duration_ms": 185378
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 5: Diebe unter sich",
+              "duration_ms": 233314
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 6: Freddy unter Verdacht",
+              "duration_ms": 278639
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 7: Bösewichte unter sich",
+              "duration_ms": 170699
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 8: In Gefangenschaft",
+              "duration_ms": 134535
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 9: Tinas Trick",
+              "duration_ms": 237741
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 10: In großer Gefahr!",
+              "duration_ms": 123437
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 11: Freddy hilft",
+              "duration_ms": 232875
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 7 - Kapitel 12: Ende gut alles gut",
+              "duration_ms": 127035
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4d/d6/49/4dd649fe-fa64-68dd-9cc6-b970af517527/825646085088.jpg/100x100bb.jpg",
           "apple_music_id": 1069153188,
           "status": "active",
@@ -356195,7 +357656,86 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78467
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 1: Ein Brief von Papi",
+              "duration_ms": 259599
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 2: Hilfegesuch an den Grafen",
+              "duration_ms": 165605
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 3: Die Entdeckung",
+              "duration_ms": 243159
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 4: Auf nach Ungarn!",
+              "duration_ms": 290010
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 5: Ein kurzer Streit",
+              "duration_ms": 294869
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 6: Mikosch, der junge Reiter",
+              "duration_ms": 182139
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 7: Baboschko",
+              "duration_ms": 154076
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 8: Bibi und Mikosch",
+              "duration_ms": 290300
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 9: Überraschung im Zug",
+              "duration_ms": 178754
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 10: Bibi greift ein",
+              "duration_ms": 109517
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 11: Noch eine Hexerei",
+              "duration_ms": 204353
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 13 - Kapitel 12: Rückkehr nach Falkenstein",
+              "duration_ms": 175240
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/64/32/f6/6432f6ee-18d2-666d-fafe-45e0ff6eeef3/825646202447.jpg/100x100bb.jpg",
           "apple_music_id": 1069119301,
           "status": "active",
@@ -356209,7 +357749,86 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78467
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 1: Wildpferde in Falkenstein",
+              "duration_ms": 144976
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 2: Auf der Koppel",
+              "duration_ms": 181751
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 3: Jungenfreundschaft",
+              "duration_ms": 197654
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 4: Mädchengespräch",
+              "duration_ms": 120703
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 5: Wo ist Mikosch?",
+              "duration_ms": 295935
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 6: Baboschko am Steinbruch",
+              "duration_ms": 139083
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 7: Ausgebüxte Pferde!",
+              "duration_ms": 145452
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 8: Wieder auf der Koppel",
+              "duration_ms": 236863
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 9: Zukunftspläne",
+              "duration_ms": 285473
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 10: Freiheit und Freunde",
+              "duration_ms": 303662
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 11: Abschied am Bahnhof",
+              "duration_ms": 276694
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 14 - Kapitel 12: Eine Ehrenrunde für Mikosch",
+              "duration_ms": 145189
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5b/aa/bd/5baabd16-94c8-752b-6c81-6a56b5048654/825646202256.jpg/100x100bb.jpg",
           "apple_music_id": 1069224667,
           "status": "active",
@@ -356223,7 +357842,86 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78467
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 1: Ganz offiziell gehext",
+              "duration_ms": 275958
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 2: Unfall im Wald",
+              "duration_ms": 261619
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 3: Bibi spielt erkältet",
+              "duration_ms": 154553
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 4: Ach du dickes Bein!",
+              "duration_ms": 164116
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 5: Freddy kommt vorbei",
+              "duration_ms": 191130
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 6: Training mit Gipsbein",
+              "duration_ms": 210732
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 7: Zurück zum Martinshof",
+              "duration_ms": 206409
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 8: Mamis Kräuterkur",
+              "duration_ms": 183874
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 9: Geduld und Hexerei",
+              "duration_ms": 218075
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 10: Zurück auf die Liste",
+              "duration_ms": 180075
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 11: Das Herbst-Turnier",
+              "duration_ms": 168608
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 17 - Kapitel 12: Überraschung auf dem Podest",
+              "duration_ms": 147381
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/33/06/bc/3306bcf2-96f8-8f83-6124-d154fe27b150/825646231881.jpg/100x100bb.jpg",
           "apple_music_id": 1069131770,
           "status": "active",
@@ -356312,7 +358010,68 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 1: Stehreiten",
+              "duration_ms": 146280
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 2: Archibald von Wetterstein",
+              "duration_ms": 177187
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 3: Hochmut kommt vor dem Fall",
+              "duration_ms": 325667
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 4: Hexenpost",
+              "duration_ms": 357560
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 5: Warten auf Mikosch",
+              "duration_ms": 173453
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 6: Fröhliches Wiedersehen",
+              "duration_ms": 206293
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 7: Eine zweifelhafte Spritztour",
+              "duration_ms": 372773
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 8: Der Steckbrief",
+              "duration_ms": 356213
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 22 - Kapitel 9: Archie wird überführt",
+              "duration_ms": 294707
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/20/d8/31/20d8318c-8af1-8839-e3c3-30f5ba2b4b41/825646373345.jpg/100x100bb.jpg",
           "apple_music_id": 1069156543,
           "status": "active",
@@ -356326,7 +358085,68 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78467
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 1: Wettreiten mit fliegendem Wechsel",
+              "duration_ms": 165493
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 2: Frau Martin hat Ärger",
+              "duration_ms": 180027
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 3: Buddy und Holly",
+              "duration_ms": 238627
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 4: Janosch ist weg",
+              "duration_ms": 177093
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 5: Freddy kommt",
+              "duration_ms": 171293
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 6: Die wilde Meute",
+              "duration_ms": 244600
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 7: Eene meene immer nasser",
+              "duration_ms": 276360
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 8: Der geklaute Ponywagen",
+              "duration_ms": 220027
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 28 - Kapitel 9: Böse Buben im Heuhaufen",
+              "duration_ms": 416707
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/cf/67/57/cf6757ee-e202-d498-a05d-c7318e004404/825646370191.jpg/100x100bb.jpg",
           "apple_music_id": 1069214824,
           "status": "active",
@@ -356340,7 +358160,74 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 1: Vorsicht, Pferdediebe",
+              "duration_ms": 66360
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 2: Ein sprechendes Pferd",
+              "duration_ms": 328147
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 3: Der neue Stallbursche",
+              "duration_ms": 220973
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 4: Beppos Koffer",
+              "duration_ms": 167707
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 5: Die Geheimsprache",
+              "duration_ms": 285587
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 6: Eine gelungene Vorstellung",
+              "duration_ms": 240827
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 7: Ein interessierter Beobachter",
+              "duration_ms": 269040
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 8: Miraculus ist weg",
+              "duration_ms": 162053
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 9: Auf der Suche nach dem Dieb",
+              "duration_ms": 237747
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 29 - Kapitel 10: Die Falle schnappt zu",
+              "duration_ms": 385307
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d6/cb/f6/d6cbf694-a90f-bceb-9e82-a991dcdd2fbb/825646436941.jpg/100x100bb.jpg",
           "apple_music_id": 1069236089,
           "status": "active",
@@ -356429,7 +358316,74 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 1: Der fremde Hund",
+              "duration_ms": 237062
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 2: Unser Schnuffel",
+              "duration_ms": 209867
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 3: Wo ist Robert?",
+              "duration_ms": 168680
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 4: Zank mit der neuen Tierärztin",
+              "duration_ms": 187187
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 5: Der Maulkorb",
+              "duration_ms": 215920
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 6: Besuch beim Mühlenhofbauern",
+              "duration_ms": 220360
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 7: Kyra von Ortelsburg",
+              "duration_ms": 202093
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 8: Pluspunkte für Frau Doktor",
+              "duration_ms": 245720
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 9: Ein neues Zuhause",
+              "duration_ms": 230480
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 31 - Kapitel 10: Das kranke Reh",
+              "duration_ms": 410267
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e5/7e/6d/e57e6d34-ef17-6b4c-0195-a0fadfed0828/825646436934.jpg/100x100bb.jpg",
           "apple_music_id": 1069092479,
           "status": "active",
@@ -356443,7 +358397,74 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 1: Das Pony am Tor",
+              "duration_ms": 286093
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 2: Viele Fragen",
+              "duration_ms": 167960
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 3: Schmusen mit Felix",
+              "duration_ms": 259480
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 4: Frau Kolumna ist da!",
+              "duration_ms": 216253
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 5: Schmusy mag Anja!",
+              "duration_ms": 253533
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 6: Wahrheit ans Licht!",
+              "duration_ms": 227813
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 7: Frau Martin blickt durch",
+              "duration_ms": 192467
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 8: Zur alten Mühle",
+              "duration_ms": 229787
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 9: Vier-Augen-Gespräch",
+              "duration_ms": 301440
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 32 - Kapitel 10: Gastpferd Shetty",
+              "duration_ms": 169427
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/94/8c/9f/948c9fd9-29ca-0ad0-adbc-f508e731dcfe/825646436927.jpg/100x100bb.jpg",
           "apple_music_id": 1069126559,
           "status": "active",
@@ -356457,7 +358478,74 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 1: Alex hat Probleme",
+              "duration_ms": 229440
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 2: Eine böse Überraschung",
+              "duration_ms": 217960
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 3: Neuigkeiten für Bibi und Tina",
+              "duration_ms": 228467
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 4: Gespräch mit dem Grafen",
+              "duration_ms": 315333
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 5: Abschied von Alex",
+              "duration_ms": 149827
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 6: Treffen im Eiscafe",
+              "duration_ms": 160787
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 7: Sorge um Maharadscha",
+              "duration_ms": 200013
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 8: Die falsche Patentante",
+              "duration_ms": 277480
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 9: Noch eine Überraschung",
+              "duration_ms": 221720
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 33 - Kapitel 10: Frau Martin erinnert sich",
+              "duration_ms": 303520
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4a/0a/07/4a0a0718-9b58-cccf-33b6-6bdc68479c55/825646436910.jpg/100x100bb.jpg",
           "apple_music_id": 1069165784,
           "status": "active",
@@ -356471,7 +358559,80 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 1: Das ist ja Alex!",
+              "duration_ms": 98893
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 2: Conny stellt sich vor",
+              "duration_ms": 167640
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 3: Bibi hext",
+              "duration_ms": 265147
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 4: Im Schloss",
+              "duration_ms": 344000
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 5: Ein kleiner Zwist",
+              "duration_ms": 187893
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 6: Hexereien für Conny",
+              "duration_ms": 164547
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 7: Conny trifft den Grafen",
+              "duration_ms": 190520
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 8: Heimlichkeiten",
+              "duration_ms": 127733
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 9: Mikosch ist da!",
+              "duration_ms": 190053
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 10: Alex kommt zurück",
+              "duration_ms": 322307
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 35 - Kapitel 11: Wahrheit und Reue",
+              "duration_ms": 354027
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/38/78/e5/3878e55f-380e-edf1-03b7-8751cbf3543d/825646436873.jpg/100x100bb.jpg",
           "apple_music_id": 1069228233,
           "status": "active",
@@ -356485,7 +358646,68 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78467
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 1: Neue Gäste",
+              "duration_ms": 149827
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 2: Höchst sonderbar",
+              "duration_ms": 226773
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 3: Ein pechschwarzes Fohlen",
+              "duration_ms": 261600
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 4: Bitte kümmert euch um Blacky",
+              "duration_ms": 172040
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 5: Niemand Zuhause",
+              "duration_ms": 186693
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 6: Alex denkt nach",
+              "duration_ms": 340213
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 7: Kevin bleibt stur",
+              "duration_ms": 225027
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 8: Nichts als die Wahrheit",
+              "duration_ms": 322413
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 39 - Kapitel 9: Sieg der Vernunft",
+              "duration_ms": 271707
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/39/2e/68/392e684a-6489-556d-b90b-37d8cdc240b6/825646370115.jpg/100x100bb.jpg",
           "apple_music_id": 1069224346,
           "status": "active",
@@ -356499,7 +358721,74 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 1: Gehexte Stallarbeit",
+              "duration_ms": 73164
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 2: Wettreiten mit Max und Moritz",
+              "duration_ms": 211400
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 3: Freddy spitzt die Ohren",
+              "duration_ms": 302107
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 4: Der Pferde-Abschleppdienst",
+              "duration_ms": 163827
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 5: Vier Pferdefüsse",
+              "duration_ms": 259427
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 6: Geheimer Ausritt",
+              "duration_ms": 221013
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 7: Pferd gegen Motorrad",
+              "duration_ms": 346280
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 8: Festvorbereitungen",
+              "duration_ms": 314853
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 9: Zuckerponys",
+              "duration_ms": 217173
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 42 - Kapitel 10: Wilde Pusztareiter",
+              "duration_ms": 200507
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/67/5b/3d/675b3d22-5d86-2eed-576b-2fb6cd3d980d/825646436859.jpg/100x100bb.jpg",
           "apple_music_id": 1069160024,
           "status": "active",
@@ -356513,7 +358802,74 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78462
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 1: Wettreiten mit Böllerschuss",
+              "duration_ms": 247107
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 2: Dagoberts Trimmprogramm",
+              "duration_ms": 230840
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 3: Das Klassentreffen",
+              "duration_ms": 196693
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 4:  Spurenlegen",
+              "duration_ms": 298187
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 5: Die Pferde sind gesattelt",
+              "duration_ms": 201320
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 6: Es geht los",
+              "duration_ms": 341213
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 7: Der Graf wird entführt",
+              "duration_ms": 260720
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 8: Kein Schnitzeljagdscherz",
+              "duration_ms": 306853
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 9: Verbotene Sprüche",
+              "duration_ms": 223387
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 47 - Kapitel 10: Alte Freunde",
+              "duration_ms": 363880
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/67/9b/3f/679b3ff2-5762-507f-9cff-140a07bf55d3/825646395590.jpg/100x100bb.jpg",
           "apple_music_id": 1069139844,
           "status": "active",
@@ -356527,7 +358883,86 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Bibi und Tina Lied",
+              "duration_ms": 78467
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 1 : Rowdies in der Falle",
+              "duration_ms": 179960
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 2 : Rettung in letzter Sekunde",
+              "duration_ms": 169267
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 3 : Kitz in Not",
+              "duration_ms": 99333
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 4 : Besserwisser Leo",
+              "duration_ms": 205573
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 5 : Auto-Camping im Wald",
+              "duration_ms": 109587
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 6 : Mit Vollgas ins Heu",
+              "duration_ms": 200653
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 7 : Neue Aushilfskräfte",
+              "duration_ms": 240467
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 8 : Wirbel um \"Pünktchen\"",
+              "duration_ms": 86573
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 9 : Die Suche",
+              "duration_ms": 245200
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 10 : Eine große Aufgabe",
+              "duration_ms": 184893
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 11 : Frau Martin greift ein",
+              "duration_ms": 200707
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Folge 59 - Kapitel 12 : Friede, Freude, Butterkuchen",
+              "duration_ms": 98400
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d4/04/ff/d404ffc5-b024-5fba-18c7-f691c3eb489c/825646253371.jpg/100x100bb.jpg",
           "apple_music_id": 1069129624,
           "status": "active",
@@ -506210,7 +508645,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 1",
+              "duration_ms": 71712
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 2",
+              "duration_ms": 49562
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 3",
+              "duration_ms": 216721
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 4",
+              "duration_ms": 121752
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 5",
+              "duration_ms": 141864
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 6",
+              "duration_ms": 136158
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 7",
+              "duration_ms": 136821
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 8",
+              "duration_ms": 335584
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 9",
+              "duration_ms": 201242
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 10",
+              "duration_ms": 265021
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 11",
+              "duration_ms": 96038
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 12",
+              "duration_ms": 207036
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 13",
+              "duration_ms": 102558
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 14",
+              "duration_ms": 215694
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 15",
+              "duration_ms": 321954
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 16",
+              "duration_ms": 136955
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 17",
+              "duration_ms": 112817
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 18",
+              "duration_ms": 127358
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 19",
+              "duration_ms": 73704
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze, Kapitel 20",
+              "duration_ms": 314927
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/7b/a2/a4/7ba2a44e-e80b-8665-bf8a-1ec9c8baf01f/9783838780115_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1068552011,
           "status": "active",
@@ -506224,7 +508780,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 1",
+              "duration_ms": 72106
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 2",
+              "duration_ms": 372577
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 3",
+              "duration_ms": 214021
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 4",
+              "duration_ms": 216235
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 5",
+              "duration_ms": 184186
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 6",
+              "duration_ms": 224000
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 7",
+              "duration_ms": 188127
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 8",
+              "duration_ms": 94227
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 9",
+              "duration_ms": 61335
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 10",
+              "duration_ms": 221367
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 11",
+              "duration_ms": 237987
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 12",
+              "duration_ms": 251055
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 13",
+              "duration_ms": 97019
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 14",
+              "duration_ms": 87628
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 15",
+              "duration_ms": 226239
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 16",
+              "duration_ms": 78668
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 17",
+              "duration_ms": 151562
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 18",
+              "duration_ms": 183930
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 19",
+              "duration_ms": 66727
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 12: Augen des Grauens, Kapitel 20",
+              "duration_ms": 344343
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/be/b9/db/beb9db16-8bd8-333d-104f-fdc3c0f7d33a/9783838780122_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1068553216,
           "status": "active",
@@ -506238,7 +508915,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 1",
+              "duration_ms": 73330
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 2",
+              "duration_ms": 295158
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 3",
+              "duration_ms": 231572
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 4",
+              "duration_ms": 229287
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 5",
+              "duration_ms": 224297
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 6",
+              "duration_ms": 166111
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 7",
+              "duration_ms": 87124
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 8",
+              "duration_ms": 269797
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 9",
+              "duration_ms": 108541
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 10",
+              "duration_ms": 87816
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 11",
+              "duration_ms": 71205
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 12",
+              "duration_ms": 258283
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 13",
+              "duration_ms": 160769
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 14",
+              "duration_ms": 43281
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 15",
+              "duration_ms": 384891
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 16",
+              "duration_ms": 172991
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 17",
+              "duration_ms": 111891
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 18",
+              "duration_ms": 65545
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 19",
+              "duration_ms": 154640
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast, Kapitel 20",
+              "duration_ms": 102772
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/da/40/b5/da40b557-af1a-592a-d604-84df1f8720c8/9783838780139_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1077131754,
           "status": "active",
@@ -506252,7 +509050,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 1",
+              "duration_ms": 72354
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 2",
+              "duration_ms": 50535
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 3",
+              "duration_ms": 130724
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 4",
+              "duration_ms": 282677
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 5",
+              "duration_ms": 200625
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 6",
+              "duration_ms": 194282
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 7",
+              "duration_ms": 232540
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 8",
+              "duration_ms": 341273
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 9",
+              "duration_ms": 398124
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 10",
+              "duration_ms": 161403
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 11",
+              "duration_ms": 67264
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 12",
+              "duration_ms": 203204
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 13",
+              "duration_ms": 187406
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 14",
+              "duration_ms": 244494
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 15",
+              "duration_ms": 151181
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 16",
+              "duration_ms": 50975
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 17",
+              "duration_ms": 278195
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 18",
+              "duration_ms": 65004
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 19",
+              "duration_ms": 37311
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume, Kapitel 20",
+              "duration_ms": 226444
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/db/e5/64/dbe564cb-4573-24e8-4d08-b0fbfe92e4f3/9783838780146_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1076353291,
           "status": "active",
@@ -506266,7 +509185,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 1",
+              "duration_ms": 75683
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 2",
+              "duration_ms": 199606
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 3",
+              "duration_ms": 245798
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 4",
+              "duration_ms": 180106
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 5",
+              "duration_ms": 132163
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 6",
+              "duration_ms": 242745
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 7",
+              "duration_ms": 172559
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 8",
+              "duration_ms": 86110
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 9",
+              "duration_ms": 69633
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 10",
+              "duration_ms": 219295
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 11",
+              "duration_ms": 110344
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 12",
+              "duration_ms": 229723
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 13",
+              "duration_ms": 63037
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 14",
+              "duration_ms": 68534
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 15",
+              "duration_ms": 203174
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 16",
+              "duration_ms": 124134
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 17",
+              "duration_ms": 193879
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 18",
+              "duration_ms": 396534
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 19",
+              "duration_ms": 111434
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2, Kapitel 20",
+              "duration_ms": 294244
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/c7/c2/4c/c7c24c73-1807-85aa-54e2-33d9bc12e0d6/9783838780153_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1076355552,
           "status": "active",
@@ -508170,7 +511210,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 1",
+              "duration_ms": 72471
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 2",
+              "duration_ms": 28829
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 3",
+              "duration_ms": 139881
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 4",
+              "duration_ms": 160577
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 5",
+              "duration_ms": 112784
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 6",
+              "duration_ms": 216591
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 7",
+              "duration_ms": 184638
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 8",
+              "duration_ms": 92143
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 9",
+              "duration_ms": 82605
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 10",
+              "duration_ms": 100466
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 11",
+              "duration_ms": 240854
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 12",
+              "duration_ms": 138825
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 13",
+              "duration_ms": 183624
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 14",
+              "duration_ms": 199074
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 15",
+              "duration_ms": 364703
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 16",
+              "duration_ms": 138930
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 17",
+              "duration_ms": 87812
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 18",
+              "duration_ms": 223970
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 19",
+              "duration_ms": 226369
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2, Kapitel 20",
+              "duration_ms": 83439
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d6/36/83/d6368316-f301-fbb4-b3c4-14c6e7a48fa4/9783838780306_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069860424,
           "status": "active",
@@ -508184,7 +511345,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 1",
+              "duration_ms": 72081
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 2",
+              "duration_ms": 40585
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 3",
+              "duration_ms": 46485
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 4",
+              "duration_ms": 264422
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 5",
+              "duration_ms": 138213
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 6",
+              "duration_ms": 154577
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 7",
+              "duration_ms": 42686
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 8",
+              "duration_ms": 148195
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 9",
+              "duration_ms": 299225
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 10",
+              "duration_ms": 352225
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 11",
+              "duration_ms": 96772
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 12",
+              "duration_ms": 184198
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 13",
+              "duration_ms": 58757
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 14",
+              "duration_ms": 142753
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 15",
+              "duration_ms": 147516
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 16",
+              "duration_ms": 169901
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 17",
+              "duration_ms": 30401
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 18",
+              "duration_ms": 49508
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 19",
+              "duration_ms": 256896
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls, Kapitel 20",
+              "duration_ms": 204671
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/0a/7b/e3/0a7be3fd-e194-f8df-5d8d-e593d7de758a/9783838780313_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1068472302,
           "status": "active",
@@ -508198,7 +511480,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 1",
+              "duration_ms": 71842
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 2",
+              "duration_ms": 54174
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 3",
+              "duration_ms": 179150
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 4",
+              "duration_ms": 264539
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 5",
+              "duration_ms": 185519
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 6",
+              "duration_ms": 381440
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 7",
+              "duration_ms": 137382
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 8",
+              "duration_ms": 151143
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 9",
+              "duration_ms": 336331
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 10",
+              "duration_ms": 184697
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 11",
+              "duration_ms": 28431
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 12",
+              "duration_ms": 132464
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 13",
+              "duration_ms": 56350
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 14",
+              "duration_ms": 48338
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 15",
+              "duration_ms": 113534
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 16",
+              "duration_ms": 215656
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 17",
+              "duration_ms": 49122
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 18",
+              "duration_ms": 117572
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 19",
+              "duration_ms": 271285
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\", Kapitel 20",
+              "duration_ms": 492765
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/86/93/8c/86938cf0-3359-19f7-1018-3f041ca163d0/9783838780320_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1068237619,
           "status": "active",
@@ -508212,7 +511615,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 1",
+              "duration_ms": 70280
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 2",
+              "duration_ms": 184586
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 3",
+              "duration_ms": 72484
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 4",
+              "duration_ms": 184127
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 5",
+              "duration_ms": 212491
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 6",
+              "duration_ms": 126259
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 7",
+              "duration_ms": 145588
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 8",
+              "duration_ms": 121266
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 9",
+              "duration_ms": 139676
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 10",
+              "duration_ms": 108985
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 11",
+              "duration_ms": 103505
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 12",
+              "duration_ms": 204269
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 13",
+              "duration_ms": 234834
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 14",
+              "duration_ms": 287427
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 15",
+              "duration_ms": 88680
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 16",
+              "duration_ms": 65649
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 17",
+              "duration_ms": 269310
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 18",
+              "duration_ms": 94529
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 19",
+              "duration_ms": 231530
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 33: Die Blutorgel, Kapitel 20",
+              "duration_ms": 111539
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/74/f4/81/74f481ab-5877-bf2e-c7eb-552c40b9ca30/9783838780337_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1068237886,
           "status": "active",
@@ -508226,7 +511750,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 1",
+              "duration_ms": 76542
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 2",
+              "duration_ms": 211141
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 3",
+              "duration_ms": 133131
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 4",
+              "duration_ms": 51084
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 5",
+              "duration_ms": 189393
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 6",
+              "duration_ms": 221648
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 7",
+              "duration_ms": 74123
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 8",
+              "duration_ms": 146544
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 9",
+              "duration_ms": 244946
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 10",
+              "duration_ms": 141206
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 11",
+              "duration_ms": 93070
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 12",
+              "duration_ms": 125689
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 13",
+              "duration_ms": 112943
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 14",
+              "duration_ms": 354288
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 15",
+              "duration_ms": 55075
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 16",
+              "duration_ms": 173230
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 17",
+              "duration_ms": 162208
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 18",
+              "duration_ms": 640046
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 19",
+              "duration_ms": 52027
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben, Kapitel 20",
+              "duration_ms": 219589
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9e/41/3f/9e413f89-7b58-e48c-c20f-a97f05d63fe3/9783838780344_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1068238412,
           "status": "active",
@@ -508240,7 +511885,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 1",
+              "duration_ms": 77087
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 2",
+              "duration_ms": 159881
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 3",
+              "duration_ms": 348800
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 4",
+              "duration_ms": 318927
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 5",
+              "duration_ms": 101849
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 6",
+              "duration_ms": 103346
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 7",
+              "duration_ms": 230716
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 8",
+              "duration_ms": 153059
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 9",
+              "duration_ms": 114356
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 10",
+              "duration_ms": 162358
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 11",
+              "duration_ms": 463169
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 12",
+              "duration_ms": 128330
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 13",
+              "duration_ms": 140267
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 14",
+              "duration_ms": 117379
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 15",
+              "duration_ms": 76706
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 16",
+              "duration_ms": 67331
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 17",
+              "duration_ms": 28816
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 18",
+              "duration_ms": 52409
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 19",
+              "duration_ms": 82005
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung, Kapitel 20",
+              "duration_ms": 104788
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/d2/71/cc/d271cc4b-87bd-21f1-98f9-06b4beb63d3b/9783838780351_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1068239203,
           "status": "active",
@@ -508254,7 +512020,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 1",
+              "duration_ms": 78056
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 2",
+              "duration_ms": 320113
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 3",
+              "duration_ms": 195561
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 4",
+              "duration_ms": 235261
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 5",
+              "duration_ms": 206575
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 6",
+              "duration_ms": 216004
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 7",
+              "duration_ms": 86030
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 8",
+              "duration_ms": 153994
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 9",
+              "duration_ms": 260757
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 10",
+              "duration_ms": 189494
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 11",
+              "duration_ms": 120813
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 12",
+              "duration_ms": 313434
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 13",
+              "duration_ms": 179360
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 14",
+              "duration_ms": 81976
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 15",
+              "duration_ms": 125442
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 16",
+              "duration_ms": 129131
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 17",
+              "duration_ms": 47147
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 18",
+              "duration_ms": 61046
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 19",
+              "duration_ms": 50598
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2, Kapitel 20",
+              "duration_ms": 288806
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/be/0a/d5be0a9a-b24c-515f-f590-7089a23a135a/9783838780368_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1068239269,
           "status": "active",
@@ -508268,7 +512155,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 1",
+              "duration_ms": 79729
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 2",
+              "duration_ms": 238955
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 3",
+              "duration_ms": 189829
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 4",
+              "duration_ms": 201099
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 5",
+              "duration_ms": 78240
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 6",
+              "duration_ms": 182110
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 7",
+              "duration_ms": 105354
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 8",
+              "duration_ms": 104591
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 9",
+              "duration_ms": 141529
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 10",
+              "duration_ms": 234632
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 11",
+              "duration_ms": 261700
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 12",
+              "duration_ms": 265428
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 13",
+              "duration_ms": 85091
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 14",
+              "duration_ms": 123576
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 15",
+              "duration_ms": 60606
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 16",
+              "duration_ms": 82416
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 17",
+              "duration_ms": 52857
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 18",
+              "duration_ms": 139621
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 19",
+              "duration_ms": 129504
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2, Kapitel 20",
+              "duration_ms": 116595
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/85/32/0e/85320e88-2206-7430-47e2-fca08250cb6b/9783838780375_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069832969,
           "status": "active",
@@ -508282,7 +512290,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 1",
+              "duration_ms": 71222
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 2",
+              "duration_ms": 322952
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 3",
+              "duration_ms": 289704
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 4",
+              "duration_ms": 175083
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 5",
+              "duration_ms": 206654
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 6",
+              "duration_ms": 269293
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 7",
+              "duration_ms": 435903
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 8",
+              "duration_ms": 311963
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 9",
+              "duration_ms": 227966
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 10",
+              "duration_ms": 296450
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 11",
+              "duration_ms": 258103
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 12",
+              "duration_ms": 150313
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 13",
+              "duration_ms": 140485
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 14",
+              "duration_ms": 83745
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 15",
+              "duration_ms": 140582
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 16",
+              "duration_ms": 69301
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 17",
+              "duration_ms": 197913
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 18",
+              "duration_ms": 443111
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 19",
+              "duration_ms": 346754
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers, Kapitel 20",
+              "duration_ms": 162924
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/62/8b/d6/628bd6dc-e9c3-59a8-bec0-242b6a4dad78/9783838780382_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069833286,
           "status": "active",
@@ -508296,7 +512425,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 1",
+              "duration_ms": 69448
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 2",
+              "duration_ms": 43902
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 3",
+              "duration_ms": 176102
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 4",
+              "duration_ms": 42338
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 5",
+              "duration_ms": 258254
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 6",
+              "duration_ms": 52761
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 7",
+              "duration_ms": 252040
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 8",
+              "duration_ms": 133269
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 9",
+              "duration_ms": 62886
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 10",
+              "duration_ms": 223664
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 11",
+              "duration_ms": 91338
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 12",
+              "duration_ms": 59461
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 13",
+              "duration_ms": 359202
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 14",
+              "duration_ms": 209120
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 15",
+              "duration_ms": 88911
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 16",
+              "duration_ms": 91460
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 17",
+              "duration_ms": 300169
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 18",
+              "duration_ms": 268581
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 19",
+              "duration_ms": 414604
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich, Kapitel 20",
+              "duration_ms": 366309
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/a4/cf/76/a4cf7686-8644-8f7f-7581-1452014aab81/9783838780399_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069834134,
           "status": "active",
@@ -508310,7 +512560,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 1",
+              "duration_ms": 70182
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 2",
+              "duration_ms": 234201
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 3",
+              "duration_ms": 225618
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 4",
+              "duration_ms": 75205
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 5",
+              "duration_ms": 222759
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 6",
+              "duration_ms": 149231
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 7",
+              "duration_ms": 171545
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 8",
+              "duration_ms": 316076
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 9",
+              "duration_ms": 57012
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 10",
+              "duration_ms": 129970
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 11",
+              "duration_ms": 189188
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 12",
+              "duration_ms": 144439
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 13",
+              "duration_ms": 257340
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 14",
+              "duration_ms": 102713
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 15",
+              "duration_ms": 55126
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 16",
+              "duration_ms": 417883
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 17",
+              "duration_ms": 74953
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 18",
+              "duration_ms": 490195
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 19",
+              "duration_ms": 177930
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 40: Dr. Satanos, Kapitel 20",
+              "duration_ms": 40091
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/20/17/59/2017594f-efe3-24c1-ca16-06bf02fd7e2a/9783838780405_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069834798,
           "status": "active",
@@ -508324,7 +512695,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 1",
+              "duration_ms": 71268
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 2",
+              "duration_ms": 186278
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 3",
+              "duration_ms": 331899
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 4",
+              "duration_ms": 241471
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 5",
+              "duration_ms": 286948
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 6",
+              "duration_ms": 249806
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 7",
+              "duration_ms": 138024
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 8",
+              "duration_ms": 90931
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 9",
+              "duration_ms": 265357
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 10",
+              "duration_ms": 131018
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 11",
+              "duration_ms": 224050
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 12",
+              "duration_ms": 189913
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 13",
+              "duration_ms": 413481
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 14",
+              "duration_ms": 156178
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 15",
+              "duration_ms": 118725
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 16",
+              "duration_ms": 54694
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 17",
+              "duration_ms": 111228
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 18",
+              "duration_ms": 150828
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 19",
+              "duration_ms": 224897
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L, Kapitel 20",
+              "duration_ms": 83037
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/fd/52/53/fd5253ef-faff-9dc1-c406-bd7bc8a0f73d/dj.ioegfcnp.jpg/100x100bb.jpg",
           "apple_music_id": 1069834921,
           "status": "active",
@@ -508338,7 +512830,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 1",
+              "duration_ms": 72496
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 2",
+              "duration_ms": 158203
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 3",
+              "duration_ms": 178467
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 4",
+              "duration_ms": 168748
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 5",
+              "duration_ms": 150288
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 6",
+              "duration_ms": 138288
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 7",
+              "duration_ms": 267470
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 8",
+              "duration_ms": 390350
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 9",
+              "duration_ms": 71762
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 10",
+              "duration_ms": 139185
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 11",
+              "duration_ms": 117014
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 12",
+              "duration_ms": 314990
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 13",
+              "duration_ms": 138133
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 14",
+              "duration_ms": 118037
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 15",
+              "duration_ms": 52086
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 16",
+              "duration_ms": 119488
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 17",
+              "duration_ms": 128720
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 18",
+              "duration_ms": 285603
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 19",
+              "duration_ms": 304441
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon, Kapitel 20",
+              "duration_ms": 255353
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/75/a5/b2/75a5b20f-fa5f-ae25-dfaa-19804c7973b0/9783838780429_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069835311,
           "status": "active",
@@ -508352,7 +512965,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 1",
+              "duration_ms": 69364
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 2",
+              "duration_ms": 201573
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 3",
+              "duration_ms": 323904
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 4",
+              "duration_ms": 232876
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 5",
+              "duration_ms": 216105
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 6",
+              "duration_ms": 125991
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 7",
+              "duration_ms": 126557
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 8",
+              "duration_ms": 241144
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 9",
+              "duration_ms": 189955
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 10",
+              "duration_ms": 93476
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 11",
+              "duration_ms": 105338
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 12",
+              "duration_ms": 350523
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 13",
+              "duration_ms": 182475
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 14",
+              "duration_ms": 84005
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 15",
+              "duration_ms": 172052
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 16",
+              "duration_ms": 113400
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 17",
+              "duration_ms": 165646
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 18",
+              "duration_ms": 175704
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 19",
+              "duration_ms": 377457
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle, Kapitel 20",
+              "duration_ms": 48086
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9a/ad/8c/9aad8cc0-39c2-3987-a9d0-e2af5e953cf9/9783838780436_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069836327,
           "status": "active",
@@ -508366,7 +513100,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 1",
+              "duration_ms": 72173
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 2",
+              "duration_ms": 427753
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 3",
+              "duration_ms": 191598
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 4",
+              "duration_ms": 164149
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 5",
+              "duration_ms": 125324
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 6",
+              "duration_ms": 195112
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 7",
+              "duration_ms": 275092
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 8",
+              "duration_ms": 289855
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 9",
+              "duration_ms": 201690
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 10",
+              "duration_ms": 304495
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 11",
+              "duration_ms": 200500
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 12",
+              "duration_ms": 56627
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 13",
+              "duration_ms": 150929
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 14",
+              "duration_ms": 42296
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 15",
+              "duration_ms": 236645
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 16",
+              "duration_ms": 56635
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 17",
+              "duration_ms": 129278
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 18",
+              "duration_ms": 191917
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 19",
+              "duration_ms": 70442
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge, Kapitel 20",
+              "duration_ms": 276694
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f5/5b/a4/f55ba499-6888-3978-11d4-6f48a3b26353/9783838780443_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069836083,
           "status": "active",
@@ -508380,7 +513235,128 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 1",
+              "duration_ms": 71762
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 2",
+              "duration_ms": 358690
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 3",
+              "duration_ms": 118297
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 4",
+              "duration_ms": 85271
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 5",
+              "duration_ms": 283884
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 6",
+              "duration_ms": 223476
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 7",
+              "duration_ms": 400362
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 8",
+              "duration_ms": 58421
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 9",
+              "duration_ms": 108784
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 10",
+              "duration_ms": 135437
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 11",
+              "duration_ms": 171427
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 12",
+              "duration_ms": 112214
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 13",
+              "duration_ms": 90910
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 14",
+              "duration_ms": 129161
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 15",
+              "duration_ms": 118251
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 16",
+              "duration_ms": 206491
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 17",
+              "duration_ms": 281792
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 18",
+              "duration_ms": 103627
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 19",
+              "duration_ms": 238594
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire, Kapitel 20",
+              "duration_ms": 101598
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9a/0e/13/9a0e13e1-aeb8-4f6e-9cb4-abd8f4b088bd/9783838780450_1448.jpg/100x100bb.jpg",
           "apple_music_id": 1069837171,
           "status": "active",

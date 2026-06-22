@@ -1641,7 +1641,86 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 1 : Zeltlager bei der Alten Mühle",
+          "duration_ms": 164627
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 2 : Der Martinshof hilft mit",
+          "duration_ms": 178973
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 3 : Zwei Quatschköpfe",
+          "duration_ms": 162293
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 4 : Ein schwarzer Ritter",
+          "duration_ms": 167080
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 5 : Geisterstunde",
+          "duration_ms": 192560
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 6 : Die verschwundenen Brötchen",
+          "duration_ms": 183427
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 7 : Gefunden!",
+          "duration_ms": 134080
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 8 : Das Geständnis",
+          "duration_ms": 147440
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 9 : Hinkie und Pinkie auf Achse",
+          "duration_ms": 292720
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 10 : Nächtliche Wanderung",
+          "duration_ms": 280493
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 11 : Missglückte Überraschung",
+          "duration_ms": 219293
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Folge 10 - Kapitel 12 : Herr Pingel entschuldigt sich",
+          "duration_ms": 90867
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/64/53/7f6453d4-e381-d16d-a6ed-cd6c363bef7a/825646253432.jpg/100x100bb.jpg",
       "apple_music_id": 1038147867,
       "status": "active",
@@ -2474,7 +2553,68 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 1: Schummeln für Felix",
+          "duration_ms": 111760
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 2: Freddy, das Finanzgenie",
+          "duration_ms": 190333
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 3: Die kleine Ausreißerin",
+          "duration_ms": 139600
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 4: Ein Job für den Sheriff",
+          "duration_ms": 344120
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 5: Nächtliche Sehnsucht",
+          "duration_ms": 308293
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 6: Der Geheimplan",
+          "duration_ms": 218467
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 7: Kuhhandel",
+          "duration_ms": 361120
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 8: Käte darf bleiben",
+          "duration_ms": 338320
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 21 - Kapitel 9: Ein glückliches Pärchen",
+          "duration_ms": 268680
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6e/c1/5f/6ec15f27-79e7-bd6a-5aaf-8b6df8d5a340/825646373352.jpg/100x100bb.jpg",
       "apple_music_id": 1038226558,
       "status": "active",
@@ -3499,7 +3639,68 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 1: Wettreiten mit Felix",
+          "duration_ms": 217933
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 2: Ankunft von Fatima",
+          "duration_ms": 287027
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 3: Bibis und Tinas Idee",
+          "duration_ms": 153613
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 4: Der gestrenge Herr Graf",
+          "duration_ms": 175640
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 5: Fatima soll weg",
+          "duration_ms": 328720
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 6: Informationen von Jakob",
+          "duration_ms": 404387
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 7: Bibi und Tina greifen ein",
+          "duration_ms": 296640
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 8: Alex hilft",
+          "duration_ms": 182253
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 30 - Kapitel 9: Happy End!",
+          "duration_ms": 178133
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3a/00/0e/3a000efb-4496-ee4e-97a9-f26cdac78282/825646370153.jpg/100x100bb.jpg",
       "apple_music_id": 1038175501,
       "status": "active",
@@ -6517,7 +6718,62 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 67 - Kapitel 1: Besuch bei Dr. Eichhorn",
+          "duration_ms": 468813
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 67 - Kapitel 2: Untersuchungen",
+          "duration_ms": 220600
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 67 - Kapitel 3: Erste Patienten",
+          "duration_ms": 304040
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 67 - Kapitel 4: Am nächsten Tag",
+          "duration_ms": 403013
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 67 - Kapitel 5: Maharadscha ist krank",
+          "duration_ms": 258680
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 67 - Kapitel 6: Auf nach Rotenbrunn!",
+          "duration_ms": 244013
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 67 - Kapitel 7: Überraschungen",
+          "duration_ms": 311760
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 67 - Kapitel 8: Alles wird gut",
+          "duration_ms": 163360
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/07/77/3707771d-3a72-1433-8d73-dd81c8cb3bcc/825646053292.jpg/100x100bb.jpg",
       "apple_music_id": 1006689529,
       "status": "active",

@@ -443,7 +443,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 1",
+          "duration_ms": 72355
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 2",
+          "duration_ms": 352919
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 3",
+          "duration_ms": 305384
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 4",
+          "duration_ms": 177888
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 5",
+          "duration_ms": 138665
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 6",
+          "duration_ms": 196781
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 7",
+          "duration_ms": 227815
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 8",
+          "duration_ms": 227278
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 9",
+          "duration_ms": 194659
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 10",
+          "duration_ms": 74714
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 11",
+          "duration_ms": 70744
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 12",
+          "duration_ms": 148946
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 13",
+          "duration_ms": 173306
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 14",
+          "duration_ms": 227106
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 15",
+          "duration_ms": 202768
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 16",
+          "duration_ms": 158761
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 17",
+          "duration_ms": 106403
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 18",
+          "duration_ms": 124062
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 19",
+          "duration_ms": 460192
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart, Kapitel 20",
+          "duration_ms": 56611
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/55/56/72/5556727a-68aa-4660-dfc6-9bd9a785d467/mzm.jnduncof.jpg/100x100bb.jpg",
       "apple_music_id": 1053136971,
       "status": "active",
@@ -677,7 +798,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 1",
+          "duration_ms": 70635
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 2",
+          "duration_ms": 320043
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 3",
+          "duration_ms": 344450
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 4",
+          "duration_ms": 102719
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 5",
+          "duration_ms": 146694
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 6",
+          "duration_ms": 189498
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 7",
+          "duration_ms": 164140
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 8",
+          "duration_ms": 381604
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 9",
+          "duration_ms": 86797
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 10",
+          "duration_ms": 69046
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 11",
+          "duration_ms": 107641
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 12",
+          "duration_ms": 91034
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 13",
+          "duration_ms": 116063
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 14",
+          "duration_ms": 147986
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 15",
+          "duration_ms": 176773
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 16",
+          "duration_ms": 223899
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 17",
+          "duration_ms": 116788
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 18",
+          "duration_ms": 285683
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 19",
+          "duration_ms": 380690
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 2: Der schwarze Henker, Kapitel 20",
+          "duration_ms": 76035
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/fc/bf/84/fcbf84fc-e108-2ef5-a704-003e1c69c7ff/mzm.xpftfwcr.jpg/100x100bb.jpg",
       "apple_music_id": 1053137417,
       "status": "active",
@@ -903,7 +1145,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 1",
+          "duration_ms": 72534
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 2",
+          "duration_ms": 168555
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 3",
+          "duration_ms": 233475
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 4",
+          "duration_ms": 223964
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 5",
+          "duration_ms": 180221
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 6",
+          "duration_ms": 361302
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 7",
+          "duration_ms": 90642
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 8",
+          "duration_ms": 151508
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 9",
+          "duration_ms": 97791
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 10",
+          "duration_ms": 203891
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 11",
+          "duration_ms": 116155
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 12",
+          "duration_ms": 155130
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 13",
+          "duration_ms": 154069
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 14",
+          "duration_ms": 80056
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 15",
+          "duration_ms": 228029
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 16",
+          "duration_ms": 135064
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 17",
+          "duration_ms": 100323
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 18",
+          "duration_ms": 199112
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 19",
+          "duration_ms": 472338
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York, Kapitel 20",
+          "duration_ms": 125224
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ab/cb/16/abcb16b7-a488-9177-9bf0-be46938209c1/mzm.ddyvlsxg.jpg/100x100bb.jpg",
       "apple_music_id": 1053138261,
       "status": "active",
@@ -1124,7 +1487,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 1",
+          "duration_ms": 71758
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 2",
+          "duration_ms": 238674
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 3",
+          "duration_ms": 231685
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 4",
+          "duration_ms": 155386
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 5",
+          "duration_ms": 117299
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 6",
+          "duration_ms": 194424
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 7",
+          "duration_ms": 235882
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 8",
+          "duration_ms": 409288
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 9",
+          "duration_ms": 236406
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 10",
+          "duration_ms": 252145
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 11",
+          "duration_ms": 138967
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 12",
+          "duration_ms": 242905
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 13",
+          "duration_ms": 138431
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 14",
+          "duration_ms": 89275
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 15",
+          "duration_ms": 94944
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 16",
+          "duration_ms": 184425
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 17",
+          "duration_ms": 130381
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 18",
+          "duration_ms": 181310
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 19",
+          "duration_ms": 154979
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3, Kapitel 20",
+          "duration_ms": 225685
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3e/e6/ec/3ee6ec4b-6ba9-2dad-a2ad-56349ac9695e/mzm.lniicrkq.jpg/100x100bb.jpg",
       "apple_music_id": 1053846275,
       "status": "active",
@@ -1370,7 +1854,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 1",
+          "duration_ms": 73624
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 2",
+          "duration_ms": 341953
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 3",
+          "duration_ms": 146539
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 4",
+          "duration_ms": 351139
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 5",
+          "duration_ms": 108759
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 6",
+          "duration_ms": 101757
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 7",
+          "duration_ms": 267172
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 8",
+          "duration_ms": 124423
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 9",
+          "duration_ms": 216147
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 10",
+          "duration_ms": 112549
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 11",
+          "duration_ms": 161155
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 12",
+          "duration_ms": 128511
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 13",
+          "duration_ms": 79867
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 14",
+          "duration_ms": 224088
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 15",
+          "duration_ms": 148443
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 16",
+          "duration_ms": 366845
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 17",
+          "duration_ms": 74448
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 18",
+          "duration_ms": 209118
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 19",
+          "duration_ms": 282916
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3, Kapitel 20",
+          "duration_ms": 92219
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/6f/73/4f/6f734f9e-b952-30f0-14ec-6751bb2b4253/9783838780054_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1063647218,
       "status": "active",
@@ -1634,7 +2239,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 1",
+          "duration_ms": 73699
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 2",
+          "duration_ms": 208629
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 3",
+          "duration_ms": 201837
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 4",
+          "duration_ms": 122616
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 5",
+          "duration_ms": 125001
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 6",
+          "duration_ms": 135311
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 7",
+          "duration_ms": 66622
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 8",
+          "duration_ms": 129513
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 9",
+          "duration_ms": 158556
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 10",
+          "duration_ms": 130288
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 11",
+          "duration_ms": 215115
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 12",
+          "duration_ms": 82923
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 13",
+          "duration_ms": 127945
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 14",
+          "duration_ms": 167843
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 15",
+          "duration_ms": 301099
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 16",
+          "duration_ms": 93330
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 17",
+          "duration_ms": 281985
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 18",
+          "duration_ms": 124163
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 19",
+          "duration_ms": 282601
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3, Kapitel 20",
+          "duration_ms": 345483
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/19/b7/35/19b73562-0336-c116-9cb4-4803a8fd2d44/9783838780061_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1063647211,
       "status": "active",
@@ -1752,7 +2478,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 1",
+          "duration_ms": 71209
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 2",
+          "duration_ms": 272124
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 3",
+          "duration_ms": 200588
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 4",
+          "duration_ms": 163071
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 5",
+          "duration_ms": 156824
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 6",
+          "duration_ms": 147261
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 7",
+          "duration_ms": 77620
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 8",
+          "duration_ms": 347366
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 9",
+          "duration_ms": 186282
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 10",
+          "duration_ms": 317862
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 11",
+          "duration_ms": 117660
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 12",
+          "duration_ms": 116553
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 13",
+          "duration_ms": 123765
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 14",
+          "duration_ms": 267348
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 15",
+          "duration_ms": 76232
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 16",
+          "duration_ms": 113232
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 17",
+          "duration_ms": 63067
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 18",
+          "duration_ms": 109623
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 19",
+          "duration_ms": 146237
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter, Kapitel 20",
+          "duration_ms": 97074
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/09/7a/77/097a770b-575d-3ea8-1080-67551860200b/9783838780078_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1062903854,
       "status": "active",
@@ -1870,7 +2717,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 1",
+          "duration_ms": 72484
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 2",
+          "duration_ms": 197091
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 3",
+          "duration_ms": 105153
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 4",
+          "duration_ms": 177364
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 5",
+          "duration_ms": 403448
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 6",
+          "duration_ms": 130641
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 7",
+          "duration_ms": 238758
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 8",
+          "duration_ms": 191188
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 9",
+          "duration_ms": 54128
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 10",
+          "duration_ms": 212931
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 11",
+          "duration_ms": 403280
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 12",
+          "duration_ms": 155378
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 13",
+          "duration_ms": 120792
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 14",
+          "duration_ms": 106633
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 15",
+          "duration_ms": 96483
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 16",
+          "duration_ms": 110792
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 17",
+          "duration_ms": 63578
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 18",
+          "duration_ms": 117333
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 19",
+          "duration_ms": 297666
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer, Kapitel 20",
+          "duration_ms": 116415
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/1b/14/be/1b14beb8-16b2-7b6b-16e1-68f7c640a922/9783838780085_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1062908368,
       "status": "active",
@@ -1983,7 +2951,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 1",
+          "duration_ms": 72572
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 2",
+          "duration_ms": 76961
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 3",
+          "duration_ms": 238775
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 4",
+          "duration_ms": 257571
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 5",
+          "duration_ms": 247072
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 6",
+          "duration_ms": 192730
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 7",
+          "duration_ms": 126381
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 8",
+          "duration_ms": 59243
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 9",
+          "duration_ms": 132565
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 10",
+          "duration_ms": 195967
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 11",
+          "duration_ms": 68547
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 12",
+          "duration_ms": 102663
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 13",
+          "duration_ms": 137261
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 14",
+          "duration_ms": 97661
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 15",
+          "duration_ms": 356435
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 16",
+          "duration_ms": 43193
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 17",
+          "duration_ms": 280324
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 18",
+          "duration_ms": 333039
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 19",
+          "duration_ms": 299527
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2, Kapitel 20",
+          "duration_ms": 111501
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/00/fe/d2/00fed2d0-c78d-fb25-7318-d0f4135c2b4e/9783838780092_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1062911842,
       "status": "active",
@@ -2101,7 +3190,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 1",
+          "duration_ms": 77448
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 2",
+          "duration_ms": 125773
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 3",
+          "duration_ms": 252695
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 4",
+          "duration_ms": 235647
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 5",
+          "duration_ms": 165469
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 6",
+          "duration_ms": 173465
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 7",
+          "duration_ms": 305795
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 8",
+          "duration_ms": 144112
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 9",
+          "duration_ms": 57264
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 10",
+          "duration_ms": 185410
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 11",
+          "duration_ms": 182509
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 12",
+          "duration_ms": 92034
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 13",
+          "duration_ms": 197204
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 14",
+          "duration_ms": 190890
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 15",
+          "duration_ms": 87883
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 16",
+          "duration_ms": 227576
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 17",
+          "duration_ms": 145437
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 18",
+          "duration_ms": 148472
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 19",
+          "duration_ms": 161478
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2, Kapitel 20",
+          "duration_ms": 180450
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/cb/da/a8/cbdaa81a-7651-0524-c7bc-429abae74efa/9783838780108_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1065018499,
       "status": "active",
@@ -2443,7 +3653,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 1",
+          "duration_ms": 75284
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 2",
+          "duration_ms": 300173
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 3",
+          "duration_ms": 137135
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 4",
+          "duration_ms": 86932
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 5",
+          "duration_ms": 86475
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 6",
+          "duration_ms": 184840
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 7",
+          "duration_ms": 45168
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 8",
+          "duration_ms": 135131
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 9",
+          "duration_ms": 199753
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 10",
+          "duration_ms": 330981
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 11",
+          "duration_ms": 52019
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 12",
+          "duration_ms": 120675
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 13",
+          "duration_ms": 123974
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 14",
+          "duration_ms": 228008
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 15",
+          "duration_ms": 87477
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 16",
+          "duration_ms": 198005
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 17",
+          "duration_ms": 171918
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 18",
+          "duration_ms": 198856
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 19",
+          "duration_ms": 223735
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2, Kapitel 20",
+          "duration_ms": 221589
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/5f/22/54/5f2254ec-32c6-de1e-7ac2-78b97e0e49fb/9783838780160_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068229472,
       "status": "active",
@@ -2471,7 +3802,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 1",
+          "duration_ms": 86454
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 2",
+          "duration_ms": 56614
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 3",
+          "duration_ms": 135085
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 4",
+          "duration_ms": 222046
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 5",
+          "duration_ms": 257952
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 6",
+          "duration_ms": 176106
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 7",
+          "duration_ms": 203187
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 8",
+          "duration_ms": 133165
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 9",
+          "duration_ms": 277675
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 10",
+          "duration_ms": 284341
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 11",
+          "duration_ms": 255843
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 12",
+          "duration_ms": 166182
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 13",
+          "duration_ms": 49822
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 14",
+          "duration_ms": 223119
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 15",
+          "duration_ms": 285804
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 16",
+          "duration_ms": 252078
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 17",
+          "duration_ms": 176698
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 18",
+          "duration_ms": 176635
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 19",
+          "duration_ms": 170052
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3, Kapitel 20",
+          "duration_ms": 65867
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/54/15/b5/5415b528-434e-4f89-658b-48f52cdad3aa/9783838780177_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068231380,
       "status": "active",
@@ -2499,7 +3951,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 1",
+          "duration_ms": 91368
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 2",
+          "duration_ms": 63264
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 3",
+          "duration_ms": 90890
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 4",
+          "duration_ms": 431136
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 5",
+          "duration_ms": 228415
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 6",
+          "duration_ms": 211560
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 7",
+          "duration_ms": 152615
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 8",
+          "duration_ms": 101355
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 9",
+          "duration_ms": 194294
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 10",
+          "duration_ms": 279796
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 11",
+          "duration_ms": 100189
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 12",
+          "duration_ms": 165771
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 13",
+          "duration_ms": 231249
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 14",
+          "duration_ms": 172190
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 15",
+          "duration_ms": 40975
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 16",
+          "duration_ms": 83645
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 17",
+          "duration_ms": 210130
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 18",
+          "duration_ms": 104017
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 19",
+          "duration_ms": 489401
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3, Kapitel 20",
+          "duration_ms": 61873
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/f0/94/36/f094369d-5e04-7f2f-08b4-c36dc7b7678d/9783838780184_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068231705,
       "status": "active",
@@ -2527,7 +4100,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 1",
+          "duration_ms": 93669
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 2",
+          "duration_ms": 123748
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 3",
+          "duration_ms": 307581
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 4",
+          "duration_ms": 220029
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 5",
+          "duration_ms": 93246
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 6",
+          "duration_ms": 245001
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 7",
+          "duration_ms": 144338
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 8",
+          "duration_ms": 139915
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 9",
+          "duration_ms": 104071
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 10",
+          "duration_ms": 164530
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 11",
+          "duration_ms": 197560
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 12",
+          "duration_ms": 192588
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 13",
+          "duration_ms": 189292
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 14",
+          "duration_ms": 149231
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 15",
+          "duration_ms": 209958
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 16",
+          "duration_ms": 327540
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 17",
+          "duration_ms": 164529
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 18",
+          "duration_ms": 62467
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 19",
+          "duration_ms": 278656
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3, Kapitel 20",
+          "duration_ms": 131978
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/21/b3/b3/21b3b373-1d34-d25a-6c72-92204a0eded0/9783838780191_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068231980,
       "status": "active",
@@ -2555,7 +4249,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 1",
+          "duration_ms": 72383
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 2",
+          "duration_ms": 171205
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 3",
+          "duration_ms": 301183
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 4",
+          "duration_ms": 58149
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 5",
+          "duration_ms": 243223
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 6",
+          "duration_ms": 197934
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 7",
+          "duration_ms": 202550
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 8",
+          "duration_ms": 110189
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 9",
+          "duration_ms": 84450
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 10",
+          "duration_ms": 201917
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 11",
+          "duration_ms": 298382
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 12",
+          "duration_ms": 42925
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 13",
+          "duration_ms": 181486
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 14",
+          "duration_ms": 247231
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 15",
+          "duration_ms": 176505
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 16",
+          "duration_ms": 80219
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 17",
+          "duration_ms": 271000
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 18",
+          "duration_ms": 88625
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 19",
+          "duration_ms": 181968
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel, Kapitel 20",
+          "duration_ms": 68559
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/84/22/03/84220381-0760-c148-2966-118f23a110f2/9783838780207_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068232502,
       "status": "active",
@@ -2583,7 +4398,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 1",
+          "duration_ms": 70555
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 2",
+          "duration_ms": 269507
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 3",
+          "duration_ms": 238737
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 4",
+          "duration_ms": 159210
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 5",
+          "duration_ms": 127718
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 6",
+          "duration_ms": 363223
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 7",
+          "duration_ms": 392027
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 8",
+          "duration_ms": 557081
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 9",
+          "duration_ms": 243466
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 10",
+          "duration_ms": 94286
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 11",
+          "duration_ms": 232951
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 12",
+          "duration_ms": 80546
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 13",
+          "duration_ms": 55361
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 14",
+          "duration_ms": 283943
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 15",
+          "duration_ms": 194735
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 16",
+          "duration_ms": 88596
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 17",
+          "duration_ms": 233001
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 18",
+          "duration_ms": 336981
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 19",
+          "duration_ms": 348427
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten, Kapitel 20",
+          "duration_ms": 137018
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/40/0a/d5400a05-2ca0-b8de-1015-46a5c334e7a1/9783838780214_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068232718,
       "status": "active",
@@ -2726,7 +4662,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 1",
+          "duration_ms": 78202
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 2",
+          "duration_ms": 174928
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 3",
+          "duration_ms": 279222
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 4",
+          "duration_ms": 149156
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 5",
+          "duration_ms": 180865
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 6",
+          "duration_ms": 155013
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 7",
+          "duration_ms": 190483
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 8",
+          "duration_ms": 84051
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 9",
+          "duration_ms": 44631
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 10",
+          "duration_ms": 323929
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 11",
+          "duration_ms": 196449
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 12",
+          "duration_ms": 116914
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 13",
+          "duration_ms": 169587
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 14",
+          "duration_ms": 193825
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 15",
+          "duration_ms": 102206
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 16",
+          "duration_ms": 250548
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 17",
+          "duration_ms": 42309
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 18",
+          "duration_ms": 78215
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 19",
+          "duration_ms": 60010
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils, Kapitel 20",
+          "duration_ms": 238808
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/20/bb/eb/20bbebbe-3758-3548-e38e-834d7f777e19/9783838780221_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068233609,
       "status": "active",
@@ -2754,7 +4811,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 1",
+          "duration_ms": 65989
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 2",
+          "duration_ms": 371101
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 3",
+          "duration_ms": 32456
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 4",
+          "duration_ms": 132272
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 5",
+          "duration_ms": 214285
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 6",
+          "duration_ms": 121366
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 7",
+          "duration_ms": 170916
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 8",
+          "duration_ms": 75196
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 9",
+          "duration_ms": 120947
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 10",
+          "duration_ms": 142024
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 11",
+          "duration_ms": 392069
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 12",
+          "duration_ms": 230867
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 13",
+          "duration_ms": 398727
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 14",
+          "duration_ms": 169652
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 15",
+          "duration_ms": 160155
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 16",
+          "duration_ms": 132200
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 17",
+          "duration_ms": 183227
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 18",
+          "duration_ms": 105693
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 19",
+          "duration_ms": 79661
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen, Kapitel 20",
+          "duration_ms": 241970
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/89/9e/0f/899e0fa3-63c5-5508-f0db-ec2349b022b2/9783838780238_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068234427,
       "status": "active",
@@ -2897,7 +5075,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 1",
+          "duration_ms": 77431
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 2",
+          "duration_ms": 256334
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 3",
+          "duration_ms": 129756
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 4",
+          "duration_ms": 138565
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 5",
+          "duration_ms": 78584
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 6",
+          "duration_ms": 149382
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 7",
+          "duration_ms": 351504
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 8",
+          "duration_ms": 223266
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 9",
+          "duration_ms": 175586
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 10",
+          "duration_ms": 132758
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 11",
+          "duration_ms": 101698
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 12",
+          "duration_ms": 28175
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 13",
+          "duration_ms": 280794
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 14",
+          "duration_ms": 128569
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 15",
+          "duration_ms": 62782
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 16",
+          "duration_ms": 149701
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 17",
+          "duration_ms": 309652
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 18",
+          "duration_ms": 369160
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 19",
+          "duration_ms": 101774
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3, Kapitel 20",
+          "duration_ms": 128775
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/58/f8/14/58f81424-20af-e6d3-fdb9-5043740f35f0/9783838780245_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068234879,
       "status": "active",
@@ -3039,7 +5338,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 1",
+          "duration_ms": 77485
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 2",
+          "duration_ms": 262535
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 3",
+          "duration_ms": 286609
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 4",
+          "duration_ms": 173423
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 5",
+          "duration_ms": 239613
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 6",
+          "duration_ms": 230486
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 7",
+          "duration_ms": 135458
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 8",
+          "duration_ms": 174148
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 9",
+          "duration_ms": 75083
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 10",
+          "duration_ms": 119178
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 11",
+          "duration_ms": 251785
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 12",
+          "duration_ms": 233811
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 13",
+          "duration_ms": 192785
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 14",
+          "duration_ms": 151839
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 15",
+          "duration_ms": 113253
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 16",
+          "duration_ms": 78219
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 17",
+          "duration_ms": 191389
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 18",
+          "duration_ms": 69557
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 19",
+          "duration_ms": 229735
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3, Kapitel 20",
+          "duration_ms": 11161
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/38/5e/56/385e5658-43cd-bd2e-787f-07ff8651fb2b/9783838780252_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068235042,
       "status": "active",
@@ -3182,7 +5602,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 1",
+          "duration_ms": 77913
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 2",
+          "duration_ms": 106868
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 3",
+          "duration_ms": 254837
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 4",
+          "duration_ms": 97082
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 5",
+          "duration_ms": 359059
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 6",
+          "duration_ms": 112100
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 7",
+          "duration_ms": 267977
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 8",
+          "duration_ms": 198869
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 9",
+          "duration_ms": 249143
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 10",
+          "duration_ms": 60170
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 11",
+          "duration_ms": 324616
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 12",
+          "duration_ms": 126947
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 13",
+          "duration_ms": 28334
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 14",
+          "duration_ms": 189900
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 15",
+          "duration_ms": 69201
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 16",
+          "duration_ms": 70316
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 17",
+          "duration_ms": 272970
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 18",
+          "duration_ms": 117987
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 19",
+          "duration_ms": 240552
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3, Kapitel 20",
+          "duration_ms": 133496
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d8/c6/5a/d8c65af9-1119-cf6c-f7dc-064936021bb3/9783838780269_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068235661,
       "status": "active",
@@ -3233,7 +5774,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 1",
+          "duration_ms": 70836
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 2",
+          "duration_ms": 249558
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 3",
+          "duration_ms": 130884
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 4",
+          "duration_ms": 331933
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 5",
+          "duration_ms": 62597
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 6",
+          "duration_ms": 74534
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 7",
+          "duration_ms": 121593
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 8",
+          "duration_ms": 475378
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 9",
+          "duration_ms": 338817
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 10",
+          "duration_ms": 112700
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 11",
+          "duration_ms": 573412
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 12",
+          "duration_ms": 60979
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 13",
+          "duration_ms": 154765
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 14",
+          "duration_ms": 51386
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 15",
+          "duration_ms": 161222
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 16",
+          "duration_ms": 194080
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 17",
+          "duration_ms": 56312
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 18",
+          "duration_ms": 209807
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 19",
+          "duration_ms": 236045
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr, Kapitel 20",
+          "duration_ms": 157067
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ac/6c/dd/ac6cdd64-4a17-32ac-497b-8f75f5a4e744/9783838780276_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068236040,
       "status": "active",
@@ -3285,7 +5947,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 1",
+          "duration_ms": 72962
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 2",
+          "duration_ms": 115836
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 3",
+          "duration_ms": 235940
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 4",
+          "duration_ms": 196223
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 5",
+          "duration_ms": 74924
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 6",
+          "duration_ms": 82324
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 7",
+          "duration_ms": 109237
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 8",
+          "duration_ms": 345400
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 9",
+          "duration_ms": 254728
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 10",
+          "duration_ms": 224322
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 11",
+          "duration_ms": 67197
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 12",
+          "duration_ms": 193514
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 13",
+          "duration_ms": 132716
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 14",
+          "duration_ms": 231547
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 15",
+          "duration_ms": 85582
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 16",
+          "duration_ms": 115358
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 17",
+          "duration_ms": 170102
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 18",
+          "duration_ms": 87791
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 19",
+          "duration_ms": 173666
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park, Kapitel 20",
+          "duration_ms": 110230
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/05/58/81/055881ad-81e3-518c-d587-7a4dd53bd6d0/9783838780283_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068235882,
       "status": "active",
@@ -3337,7 +6120,128 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 1",
+          "duration_ms": 68224
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 2",
+          "duration_ms": 302064
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 3",
+          "duration_ms": 280257
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 4",
+          "duration_ms": 266484
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 5",
+          "duration_ms": 251793
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 6",
+          "duration_ms": 203040
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 7",
+          "duration_ms": 92026
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 8",
+          "duration_ms": 294525
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 9",
+          "duration_ms": 236896
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 10",
+          "duration_ms": 79464
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 11",
+          "duration_ms": 97749
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 12",
+          "duration_ms": 46627
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 13",
+          "duration_ms": 116842
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 14",
+          "duration_ms": 165319
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 15",
+          "duration_ms": 79821
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 16",
+          "duration_ms": 47621
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 17",
+          "duration_ms": 406827
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 18",
+          "duration_ms": 174257
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 19",
+          "duration_ms": 124289
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2, Kapitel 20",
+          "duration_ms": 47780
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/b9/bf/8e/b9bf8e0e-212f-769e-a8ec-76882da53260/9783838780290_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068236613,
       "status": "active",

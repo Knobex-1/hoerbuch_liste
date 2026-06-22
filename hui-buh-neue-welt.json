@@ -19,7 +19,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 01)",
+          "duration_ms": 96320
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 02)",
+          "duration_ms": 90560
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 03)",
+          "duration_ms": 96533
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 04)",
+          "duration_ms": 94907
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 05)",
+          "duration_ms": 90573
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 06)",
+          "duration_ms": 97427
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 07)",
+          "duration_ms": 95627
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 08)",
+          "duration_ms": 92880
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 09)",
+          "duration_ms": 95400
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 10)",
+          "duration_ms": 94307
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 11)",
+          "duration_ms": 93187
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 12)",
+          "duration_ms": 95507
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 13)",
+          "duration_ms": 94280
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 14)",
+          "duration_ms": 94867
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 15)",
+          "duration_ms": 93907
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 16)",
+          "duration_ms": 92560
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 17)",
+          "duration_ms": 96067
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 18)",
+          "duration_ms": 94453
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 19)",
+          "duration_ms": 95307
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 20)",
+          "duration_ms": 94280
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 21)",
+          "duration_ms": 92960
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 22)",
+          "duration_ms": 96280
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 23)",
+          "duration_ms": 93453
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 24)",
+          "duration_ms": 94027
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 25)",
+          "duration_ms": 94987
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 26)",
+          "duration_ms": 97467
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 27)",
+          "duration_ms": 89360
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 28)",
+          "duration_ms": 95120
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 29)",
+          "duration_ms": 95547
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 30)",
+          "duration_ms": 93720
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 31)",
+          "duration_ms": 94493
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 32)",
+          "duration_ms": 96733
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 33)",
+          "duration_ms": 93880
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 34)",
+          "duration_ms": 93160
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 35)",
+          "duration_ms": 95280
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 36)",
+          "duration_ms": 93947
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 37)",
+          "duration_ms": 92800
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 38)",
+          "duration_ms": 96213
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 39)",
+          "duration_ms": 93973
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "03 - Das mysteriöse Geisterbuch (Teil 40)",
+          "duration_ms": 94413
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/3e/9c/54/3e9c548f-f24c-447c-46c1-ef54ae12af61/886445284027.jpg/100x100bb.jpg",
       "apple_music_id": 1034539732,
       "status": "active",
@@ -47,7 +288,80 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Folge 7: Das unheimliche Internat (Teil 1)",
+          "duration_ms": 1063787
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 7: Das unheimliche Internat (Teil 2)",
+          "duration_ms": 971187
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 7: Das unheimliche Internat (Teil 3)",
+          "duration_ms": 750040
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 7: Das unheimliche Internat (Teil 4)",
+          "duration_ms": 1237333
+        },
+        {
+          "track": 1,
+          "disc": 2,
+          "title": "Folge 8: Im Bann des Schwarzspukers (Teil 1)",
+          "duration_ms": 922867
+        },
+        {
+          "track": 2,
+          "disc": 2,
+          "title": "Folge 8: Im Bann des Schwarzspukers (Teil 2)",
+          "duration_ms": 974480
+        },
+        {
+          "track": 3,
+          "disc": 2,
+          "title": "Folge 8: Im Bann des Schwarzspukers (Teil 3)",
+          "duration_ms": 660120
+        },
+        {
+          "track": 4,
+          "disc": 2,
+          "title": "Folge 8: Im Bann des Schwarzspukers (Teil 4)",
+          "duration_ms": 1202653
+        },
+        {
+          "track": 1,
+          "disc": 3,
+          "title": "Folge 9: Adolars Rückkehr (Teil 1)",
+          "duration_ms": 967080
+        },
+        {
+          "track": 2,
+          "disc": 3,
+          "title": "Folge 9: Adolars Rückkehr (Teil 2)",
+          "duration_ms": 1126573
+        },
+        {
+          "track": 3,
+          "disc": 3,
+          "title": "Folge 9: Adolars Rückkehr (Teil 3)",
+          "duration_ms": 1055560
+        },
+        {
+          "track": 4,
+          "disc": 3,
+          "title": "Folge 9: Adolars Rückkehr (Teil 4)",
+          "duration_ms": 915347
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8e/7d/ad/8e7dad18-0501-f2eb-5af7-9573d1d4167f/884977759624.jpg/100x100bb.jpg",
       "apple_music_id": 408637261,
       "status": "active",

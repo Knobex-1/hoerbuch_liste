@@ -29898,7 +29898,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 01)",
+          "duration_ms": 82307
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 02)",
+          "duration_ms": 86840
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 03)",
+          "duration_ms": 80693
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 04)",
+          "duration_ms": 82760
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 05)",
+          "duration_ms": 81227
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 06)",
+          "duration_ms": 82893
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 07)",
+          "duration_ms": 81813
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 08)",
+          "duration_ms": 83160
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 09)",
+          "duration_ms": 83760
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 10)",
+          "duration_ms": 82667
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 11)",
+          "duration_ms": 85387
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 12)",
+          "duration_ms": 84267
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 13)",
+          "duration_ms": 81413
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 14)",
+          "duration_ms": 81200
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 15)",
+          "duration_ms": 83507
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 16)",
+          "duration_ms": 83840
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 17)",
+          "duration_ms": 82987
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 18)",
+          "duration_ms": 82693
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 19)",
+          "duration_ms": 83027
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 20)",
+          "duration_ms": 84307
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 21)",
+          "duration_ms": 83320
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 22)",
+          "duration_ms": 82773
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 23)",
+          "duration_ms": 80267
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 24)",
+          "duration_ms": 84400
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 25)",
+          "duration_ms": 83573
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 26)",
+          "duration_ms": 84427
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 27)",
+          "duration_ms": 80373
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 28)",
+          "duration_ms": 83293
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 29)",
+          "duration_ms": 82880
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 30)",
+          "duration_ms": 83840
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 31)",
+          "duration_ms": 82440
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 32)",
+          "duration_ms": 84333
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 33)",
+          "duration_ms": 81120
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 34)",
+          "duration_ms": 82227
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 35)",
+          "duration_ms": 81307
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 36)",
+          "duration_ms": 84600
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 37)",
+          "duration_ms": 84467
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 38)",
+          "duration_ms": 82040
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 39)",
+          "duration_ms": 83920
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "092 - auf der Insel der Seeräuber (Teil 40)",
+          "duration_ms": 82987
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/b8/87/f4/b887f4b2-edfe-0f98-ac2a-3298150dc5a8/886445158960.jpg/100x100bb.jpg",
       "apple_music_id": 1002458852,
       "status": "active",
@@ -33007,7 +33248,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 01)",
+          "duration_ms": 89187
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 02)",
+          "duration_ms": 91987
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 03)",
+          "duration_ms": 96667
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 04)",
+          "duration_ms": 92613
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 05)",
+          "duration_ms": 92907
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 06)",
+          "duration_ms": 92320
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 07)",
+          "duration_ms": 92613
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 08)",
+          "duration_ms": 91427
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 09)",
+          "duration_ms": 93467
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 10)",
+          "duration_ms": 93253
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 11)",
+          "duration_ms": 91853
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 12)",
+          "duration_ms": 89733
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 13)",
+          "duration_ms": 96120
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 14)",
+          "duration_ms": 93533
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 15)",
+          "duration_ms": 92187
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 16)",
+          "duration_ms": 91773
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 17)",
+          "duration_ms": 92520
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 18)",
+          "duration_ms": 91840
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 19)",
+          "duration_ms": 92640
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 20)",
+          "duration_ms": 92080
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 21)",
+          "duration_ms": 92253
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 22)",
+          "duration_ms": 93080
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 23)",
+          "duration_ms": 93493
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 24)",
+          "duration_ms": 94480
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 25)",
+          "duration_ms": 90520
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 26)",
+          "duration_ms": 92067
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 27)",
+          "duration_ms": 95640
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 28)",
+          "duration_ms": 89760
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 29)",
+          "duration_ms": 93867
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 30)",
+          "duration_ms": 92507
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 31)",
+          "duration_ms": 95280
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 32)",
+          "duration_ms": 91453
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 33)",
+          "duration_ms": 90560
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 34)",
+          "duration_ms": 92400
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 35)",
+          "duration_ms": 89587
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 36)",
+          "duration_ms": 96773
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 37)",
+          "duration_ms": 95613
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 38)",
+          "duration_ms": 90213
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 39)",
+          "duration_ms": 91627
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "103 - und die giftigen Feuerquallen (Teil 40)",
+          "duration_ms": 92613
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/9c/e6/82/9ce6824f-12a9-ad44-f3b2-31fea025a28a/886445160710.jpg/100x100bb.jpg",
       "apple_music_id": 1002495973,
       "status": "active",

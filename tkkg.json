@@ -1916,7 +1916,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
       "apple_music_id": 490742749,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741597",
       "extra": {
@@ -1926,7 +1926,8 @@
         "platforms": {
           "appleMusic": "490742749"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8929",
@@ -19635,7 +19636,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/e9/50/d4e9506a-da66-4d72-b098-f7f7efd24432/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1596940691,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740979",
       "extra": {
@@ -19645,7 +19646,8 @@
         "platforms": {
           "appleMusic": "1596940691"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "1442271614",
@@ -28681,7 +28683,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/b2/53/45/b25345c6-6e91-6193-9c05-1105fe5a7114/886446327099.jpg/600x600bb.jpg",
       "apple_music_id": 1195632440,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740584",
       "extra": {
@@ -28691,7 +28693,8 @@
         "platforms": {
           "appleMusic": "1195632440"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-7277",
@@ -29296,7 +29299,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/4f/7b/b04f7bcc-8446-81de-17ac-3d410150ecef/886446327143.jpg/600x600bb.jpg",
       "apple_music_id": 1195630985,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740585",
       "extra": {
@@ -29306,7 +29309,8 @@
         "platforms": {
           "appleMusic": "1195630985"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8051",
@@ -46247,7 +46251,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/f3/80/9d/f3809d98-1df2-0a8e-c27b-5b63a5ccef66/886445640656.jpg/600x600bb.jpg",
       "apple_music_id": 1087325856,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740581",
       "extra": {
@@ -46257,7 +46261,8 @@
         "platforms": {
           "appleMusic": "1087325856"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-9187",
@@ -48115,7 +48120,14 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "TKKG 164 - Operation Hexen-Graffiti",
+          "duration_ms": 3086000
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/3b/f1/31/mzi.anxiotce.jpg/100x100bb.jpg",
       "apple_music_id": 314343718,
       "status": "active",
@@ -53735,7 +53747,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/09/98/9a/09989aa9-1a60-6cb0-1dab-776c2c54831f/886445640946.jpg/600x600bb.jpg",
       "apple_music_id": 1087327153,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740580",
       "extra": {
@@ -53745,7 +53757,8 @@
         "platforms": {
           "appleMusic": "1087327153"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-2498",
@@ -54350,7 +54363,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/48/9b/37/489b37be-99b4-021c-e601-05811374a233/886445640960.jpg/600x600bb.jpg",
       "apple_music_id": 1087321041,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740582",
       "extra": {
@@ -54360,7 +54373,8 @@
         "platforms": {
           "appleMusic": "1087321041"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-6971",
@@ -57431,7 +57445,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/0c/f8/cf/0cf8cfa2-2a1d-61de-6a70-88fbdc32d1c0/886445641073.jpg/600x600bb.jpg",
       "apple_music_id": 1087309130,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740583",
       "extra": {
@@ -57441,7 +57455,8 @@
         "platforms": {
           "appleMusic": "1087309130"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-8992",
@@ -59277,7 +59292,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/5a/b3/225ab391-4b5a-e0d8-7ed6-04dcfc719f73/886446167053.jpg/600x600bb.jpg",
       "apple_music_id": 1208973032,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740586",
       "extra": {
@@ -59287,7 +59302,8 @@
         "platforms": {
           "appleMusic": "1208973032"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-1606",
@@ -60956,7 +60972,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cb/0e/3c/cb0e3cc9-d74f-d043-0fb5-aea9d7092691/886446809564.jpg/600x600bb.jpg",
       "apple_music_id": 1345999553,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740587",
       "extra": {
@@ -60966,7 +60982,8 @@
         "platforms": {
           "appleMusic": "1345999553"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "ep_2058dc9910ac",
@@ -63872,7 +63889,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/32/d6213230-354c-2704-34e8-cb6e43b3cb40/886448767053.jpg/600x600bb.jpg",
       "apple_music_id": 1536103570,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740578",
       "extra": {
@@ -63882,7 +63899,8 @@
         "platforms": {
           "appleMusic": "1536103570"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-2404",
@@ -64703,7 +64721,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/5c/d4/6c5cd47d-0299-9277-d76a-f23d647ed65a/886449034147.jpg/600x600bb.jpg",
       "apple_music_id": 1560974913,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740588",
       "extra": {
@@ -64713,7 +64731,8 @@
         "platforms": {
           "appleMusic": "1560974913"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-220",
@@ -64954,7 +64973,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/8f/c9/8a8fc9dd-3039-5c67-8f82-14cf40121728/886449503797.jpg/600x600bb.jpg",
       "apple_music_id": 1580961248,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740590",
       "extra": {
@@ -64964,7 +64983,8 @@
         "platforms": {
           "appleMusic": "1580961248"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-1548",
@@ -70140,7 +70160,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/96/f7/4b96f7b7-8f4e-401d-b241-f34c64df2d82/196872271317.jpg/600x600bb.jpg",
       "apple_music_id": 1794142382,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740579",
       "extra": {
@@ -70150,7 +70170,8 @@
         "platforms": {
           "appleMusic": "1794142382"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-9287",
@@ -74380,7 +74401,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/7b/1c/527b1c1b-59ae-13a4-6688-681f47f6ee44/886447651599.jpg/600x600bb.jpg",
       "apple_music_id": 1463157148,
       "status": "active",
-      "sub_franchise_id": null,
+      "sub_franchise_id": 12,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740574",
       "extra": {
@@ -74390,7 +74411,8 @@
         "platforms": {
           "appleMusic": "1463157148"
         }
-      }
+      },
+      "sub_franchise": "TKKG"
     }
   ],
   "episode_count": 292

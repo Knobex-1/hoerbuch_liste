@@ -19,7 +19,62 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi Blocksberg Lied",
+          "duration_ms": 89142
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 1 - Kapitel 1: Hexen gibt es doch",
+          "duration_ms": 323800
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 1 - Kapitel 2: Ärger mit den Nachbarn",
+          "duration_ms": 201107
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 1 - Kapitel 3: Herr Müllers Schweinebraten",
+          "duration_ms": 242347
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 1 - Kapitel 4: Die Mieterversammlung",
+          "duration_ms": 98587
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 1 - Kapitel 5: Besuch von der Polizei",
+          "duration_ms": 251160
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 1 - Kapitel 6: Es brennt!",
+          "duration_ms": 194440
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 1 - Kapitel 7: Hilfe naht",
+          "duration_ms": 354480
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 1 - Kapitel 8: Friede, Freude, Eierkuchen",
+          "duration_ms": 271307
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/07/ca/ab07cad4-65cf-ebdc-1703-aad302be7bdd/825646394982.jpg/100x100bb.jpg",
       "apple_music_id": 1038165554,
       "status": "active",
@@ -497,7 +552,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi Blocksberg Lied",
+          "duration_ms": 89142
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 1: Sorge um Boris",
+          "duration_ms": 278360
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 2: Lügt der Bürgermeister?",
+          "duration_ms": 183053
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 3: Bibi wird aktiv!",
+          "duration_ms": 311440
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 4: Die Zauberlimonade",
+          "duration_ms": 303787
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 5: Chaos auf den Straßen",
+          "duration_ms": 146067
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 6: Die Limonade wirkt!",
+          "duration_ms": 292453
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 7: Gegenmittel verzweifelt gesucht!",
+          "duration_ms": 231733
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 8: Bibi im Rathaus",
+          "duration_ms": 215507
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 9: Der Bürgermeister gesteht",
+          "duration_ms": 339453
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 3 - Kapitel 10: Viele neue Fahrradwege",
+          "duration_ms": 172053
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/c0/59/abc05989-69c9-9b02-4453-2d236f805c43/825646437344.jpg/100x100bb.jpg",
       "apple_music_id": 1038190000,
       "status": "active",
@@ -6008,7 +6130,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi Blocksberg Lied",
+          "duration_ms": 89142
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 1: Reisevorbereitungen",
+          "duration_ms": 256573
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 2: Auf gute Nachbarschaft!",
+          "duration_ms": 393080
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 3: Auf Kräutersuche",
+          "duration_ms": 274973
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 4: Ravioli und Eis",
+          "duration_ms": 263333
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 5: Stühle und Matratzen",
+          "duration_ms": 243227
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 6: Im Wasser",
+          "duration_ms": 201933
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 7: Elixir und Erdbeersaft",
+          "duration_ms": 230893
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 8: Auf Sternschnuppenfang",
+          "duration_ms": 237053
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 108 - Kapitel 9: Schwebende Männer",
+          "duration_ms": 314240
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Bonus: Hexenkräuter",
+          "duration_ms": 73576
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/2f/fc/3c/2ffc3cf9-1273-0b33-9153-f895fb01aba2/825646373147.jpg/100x100bb.jpg",
       "apple_music_id": 1038229201,
       "status": "active",
@@ -18493,7 +18682,122 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi Blocksberg Lied",
+          "duration_ms": 89142
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 1: Die Besen müssen mit",
+          "duration_ms": 172173
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 2: Hubertus und Mathilda Drösel",
+          "duration_ms": 163853
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 3: Endlich im Hotel",
+          "duration_ms": 390867
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 4: Hexerei beim Abendessen",
+          "duration_ms": 244520
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 5: Hilfe für Eugen",
+          "duration_ms": 154787
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 6: Der Zaun muß weg!",
+          "duration_ms": 289787
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 7: Bibis Plan geht auf",
+          "duration_ms": 285640
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 8: Was für ein Ferienspaß!",
+          "duration_ms": 165147
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 9: Das große Lampionfest",
+          "duration_ms": 167693
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 10: Rettung in letzter Sekunde",
+          "duration_ms": 331720
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Folge 23 - Kapitel 1: Dicke Luft auf der Autobahn",
+          "duration_ms": 258520
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Folge 23 - Kapitel 2: Die Kinder büchsen aus",
+          "duration_ms": 254573
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Folge 23 - Kapitel 3: Die Eltern wundern sich",
+          "duration_ms": 343093
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Folge 23 - Kapitel 4: Verblüffte Polizisten",
+          "duration_ms": 354067
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Folge 23 - Kapitel 5: Stuhltanz statt Stau",
+          "duration_ms": 245547
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Folge 23 - Kapitel 6: Amtsperson in Nöten",
+          "duration_ms": 526387
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Folge 23 - Kapitel 7: Fliegen statt fahren",
+          "duration_ms": 551040
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Hexenferien",
+          "duration_ms": 224040
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/16/f4/01/16f401c7-a287-c592-c38b-c0a994f1a7a2/825646573424.jpg/100x100bb.jpg",
       "apple_music_id": 537028827,
       "status": "active",

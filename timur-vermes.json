@@ -19,7 +19,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 1",
+          "duration_ms": 168133
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 2",
+          "duration_ms": 189812
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 3",
+          "duration_ms": 153895
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 4",
+          "duration_ms": 181472
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 5",
+          "duration_ms": 150088
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 6",
+          "duration_ms": 198959
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 7",
+          "duration_ms": 155918
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 8",
+          "duration_ms": 161128
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 9",
+          "duration_ms": 99023
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 10",
+          "duration_ms": 139187
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 11",
+          "duration_ms": 160195
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 12",
+          "duration_ms": 164539
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 13",
+          "duration_ms": 164653
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 14",
+          "duration_ms": 171964
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 15",
+          "duration_ms": 92585
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 16",
+          "duration_ms": 117024
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 17",
+          "duration_ms": 123023
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 18",
+          "duration_ms": 145195
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 19",
+          "duration_ms": 131203
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 20",
+          "duration_ms": 161172
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 21",
+          "duration_ms": 150325
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 22",
+          "duration_ms": 166185
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 23",
+          "duration_ms": 167749
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 24",
+          "duration_ms": 143125
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 25",
+          "duration_ms": 178626
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 26",
+          "duration_ms": 144326
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 27",
+          "duration_ms": 166589
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 28",
+          "duration_ms": 158826
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 29",
+          "duration_ms": 143538
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 30",
+          "duration_ms": 163078
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 31",
+          "duration_ms": 157778
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 32",
+          "duration_ms": 126193
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 33",
+          "duration_ms": 169767
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 34",
+          "duration_ms": 172152
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 35",
+          "duration_ms": 124922
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 36",
+          "duration_ms": 155286
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 37",
+          "duration_ms": 165183
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 38",
+          "duration_ms": 230877
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 39",
+          "duration_ms": 143418
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "Er ist wieder da - Das Hörspiel zum Kinofilm, Kapitel 40",
+          "duration_ms": 187575
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/04/72/f80472f8-c0ef-60ef-e690-2c7e16d983f3/9783838777146_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1045015245,
       "status": "active",

@@ -19,7 +19,308 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 1",
+          "duration_ms": 27690
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 2",
+          "duration_ms": 230191
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 3",
+          "duration_ms": 360882
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 4",
+          "duration_ms": 363807
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 5",
+          "duration_ms": 244872
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 6",
+          "duration_ms": 143047
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 7",
+          "duration_ms": 376424
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 8",
+          "duration_ms": 264986
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 9",
+          "duration_ms": 195657
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 10",
+          "duration_ms": 286929
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 11",
+          "duration_ms": 483082
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 12",
+          "duration_ms": 492983
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 13",
+          "duration_ms": 305450
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 14",
+          "duration_ms": 125780
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 15",
+          "duration_ms": 485433
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 16",
+          "duration_ms": 193045
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 17",
+          "duration_ms": 389930
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 18",
+          "duration_ms": 73482
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 19",
+          "duration_ms": 121287
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 20",
+          "duration_ms": 465659
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 21",
+          "duration_ms": 175047
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 22",
+          "duration_ms": 186331
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 23",
+          "duration_ms": 250175
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 24",
+          "duration_ms": 435487
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 25",
+          "duration_ms": 130429
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 26",
+          "duration_ms": 530573
+        },
+        {
+          "track": 1,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 27",
+          "duration_ms": 162247
+        },
+        {
+          "track": 2,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 28",
+          "duration_ms": 443768
+        },
+        {
+          "track": 3,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 29",
+          "duration_ms": 177450
+        },
+        {
+          "track": 4,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 30",
+          "duration_ms": 199393
+        },
+        {
+          "track": 5,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 31",
+          "duration_ms": 443298
+        },
+        {
+          "track": 6,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 32",
+          "duration_ms": 267677
+        },
+        {
+          "track": 7,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 33",
+          "duration_ms": 123429
+        },
+        {
+          "track": 8,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 34",
+          "duration_ms": 334890
+        },
+        {
+          "track": 9,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 35",
+          "duration_ms": 282201
+        },
+        {
+          "track": 10,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 36",
+          "duration_ms": 155638
+        },
+        {
+          "track": 11,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 37",
+          "duration_ms": 321933
+        },
+        {
+          "track": 12,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 38",
+          "duration_ms": 355135
+        },
+        {
+          "track": 13,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 39",
+          "duration_ms": 130534
+        },
+        {
+          "track": 14,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 40",
+          "duration_ms": 425273
+        },
+        {
+          "track": 15,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 41",
+          "duration_ms": 529502
+        },
+        {
+          "track": 16,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 42",
+          "duration_ms": 96470
+        },
+        {
+          "track": 17,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 43",
+          "duration_ms": 394423
+        },
+        {
+          "track": 18,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 44",
+          "duration_ms": 219429
+        },
+        {
+          "track": 19,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 45",
+          "duration_ms": 297639
+        },
+        {
+          "track": 20,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 46",
+          "duration_ms": 424255
+        },
+        {
+          "track": 21,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 47",
+          "duration_ms": 173087
+        },
+        {
+          "track": 22,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 48",
+          "duration_ms": 337607
+        },
+        {
+          "track": 23,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 49",
+          "duration_ms": 380291
+        },
+        {
+          "track": 24,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch, Teil 50",
+          "duration_ms": 81737
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/09/d9/e9/09d9e99f-951b-1a7f-fc86-a1c161fca3fc/9783844510218_1448.jpg/100x100bb.jpg",
       "apple_music_id": 929578066,
       "status": "active",
@@ -47,7 +348,296 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 1",
+          "duration_ms": 17560
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 2",
+          "duration_ms": 296306
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 3",
+          "duration_ms": 446106
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 4",
+          "duration_ms": 336840
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 5",
+          "duration_ms": 376626
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 6",
+          "duration_ms": 531986
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 7",
+          "duration_ms": 337920
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 8",
+          "duration_ms": 326557
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 9",
+          "duration_ms": 213186
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 10",
+          "duration_ms": 639773
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 11",
+          "duration_ms": 537413
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 12",
+          "duration_ms": 397760
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 13",
+          "duration_ms": 392426
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 14",
+          "duration_ms": 278480
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 15",
+          "duration_ms": 215589
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 16",
+          "duration_ms": 224373
+        },
+        {
+          "track": 1,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 17",
+          "duration_ms": 292106
+        },
+        {
+          "track": 2,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 18",
+          "duration_ms": 153466
+        },
+        {
+          "track": 3,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 19",
+          "duration_ms": 466733
+        },
+        {
+          "track": 4,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 20",
+          "duration_ms": 440213
+        },
+        {
+          "track": 5,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 21",
+          "duration_ms": 150786
+        },
+        {
+          "track": 6,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 22",
+          "duration_ms": 618280
+        },
+        {
+          "track": 7,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 23",
+          "duration_ms": 196733
+        },
+        {
+          "track": 8,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 24",
+          "duration_ms": 414866
+        },
+        {
+          "track": 9,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 25",
+          "duration_ms": 366916
+        },
+        {
+          "track": 10,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 26",
+          "duration_ms": 316120
+        },
+        {
+          "track": 11,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 27",
+          "duration_ms": 643053
+        },
+        {
+          "track": 12,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 28",
+          "duration_ms": 445160
+        },
+        {
+          "track": 13,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 29",
+          "duration_ms": 218440
+        },
+        {
+          "track": 14,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 30",
+          "duration_ms": 196293
+        },
+        {
+          "track": 15,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 31",
+          "duration_ms": 534586
+        },
+        {
+          "track": 16,
+          "disc": 2,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 32",
+          "duration_ms": 383765
+        },
+        {
+          "track": 1,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 33",
+          "duration_ms": 196706
+        },
+        {
+          "track": 2,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 34",
+          "duration_ms": 261000
+        },
+        {
+          "track": 3,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 35",
+          "duration_ms": 537320
+        },
+        {
+          "track": 4,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 36",
+          "duration_ms": 345400
+        },
+        {
+          "track": 5,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 37",
+          "duration_ms": 384826
+        },
+        {
+          "track": 6,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 38",
+          "duration_ms": 141346
+        },
+        {
+          "track": 7,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 39",
+          "duration_ms": 321920
+        },
+        {
+          "track": 8,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 40",
+          "duration_ms": 513724
+        },
+        {
+          "track": 9,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 41",
+          "duration_ms": 415506
+        },
+        {
+          "track": 10,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 42",
+          "duration_ms": 510746
+        },
+        {
+          "track": 11,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 43",
+          "duration_ms": 140666
+        },
+        {
+          "track": 12,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 44",
+          "duration_ms": 280106
+        },
+        {
+          "track": 13,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 45",
+          "duration_ms": 535320
+        },
+        {
+          "track": 14,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 46",
+          "duration_ms": 536226
+        },
+        {
+          "track": 15,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 47",
+          "duration_ms": 701640
+        },
+        {
+          "track": 16,
+          "disc": 3,
+          "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums, Teil 48",
+          "duration_ms": 249887
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/97/b8/4d/97b84d77-5d3e-028f-38bf-3fd18c5276c9/9783844505627_1448.jpg/100x100bb.jpg",
       "apple_music_id": 929614203,
       "status": "active",
