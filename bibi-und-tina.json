@@ -736,7 +736,56 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 4 - Kapitel 1: Snoopys Rettung",
+          "duration_ms": 415680
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 4 - Kapitel 2: Zirkus Rondelli",
+          "duration_ms": 226120
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 4 - Kapitel 3: Ärger mit dem Zirkuspony",
+          "duration_ms": 294200
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 4 - Kapitel 4: Snoopy wird entführt",
+          "duration_ms": 423947
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 4 - Kapitel 5: Auf der Suche",
+          "duration_ms": 148093
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 4 - Kapitel 6: Rondelli lügt!",
+          "duration_ms": 310453
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 4 - Kapitel 7: Die Wahrheit kommt raus",
+          "duration_ms": 435947
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e2/6b/ab/e26bab21-3ba2-1737-7bc8-1633924564af/825646436972.jpg/100x100bb.jpg",
       "apple_music_id": 1069167455,
       "status": "active",
@@ -1299,7 +1348,86 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 1: Schnitzeljagdfieber",
+          "duration_ms": 206680
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 2: Irrwege legen",
+          "duration_ms": 222168
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 3: Ein kleiner Streit",
+          "duration_ms": 168587
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 4: Tina wird entführt",
+          "duration_ms": 185378
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 5: Diebe unter sich",
+          "duration_ms": 233314
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 6: Freddy unter Verdacht",
+          "duration_ms": 278639
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 7: Bösewichte unter sich",
+          "duration_ms": 170699
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 8: In Gefangenschaft",
+          "duration_ms": 134535
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 9: Tinas Trick",
+          "duration_ms": 237741
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 10: In großer Gefahr!",
+          "duration_ms": 123437
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 11: Freddy hilft",
+          "duration_ms": 232875
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Folge 7 - Kapitel 12: Ende gut alles gut",
+          "duration_ms": 127035
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4d/d6/49/4dd649fe-fa64-68dd-9cc6-b970af517527/825646085088.jpg/100x100bb.jpg",
       "apple_music_id": 1069153188,
       "status": "active",
@@ -1920,7 +2048,86 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 1: Ein Brief von Papi",
+          "duration_ms": 259599
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 2: Hilfegesuch an den Grafen",
+          "duration_ms": 165605
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 3: Die Entdeckung",
+          "duration_ms": 243159
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 4: Auf nach Ungarn!",
+          "duration_ms": 290010
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 5: Ein kurzer Streit",
+          "duration_ms": 294869
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 6: Mikosch, der junge Reiter",
+          "duration_ms": 182139
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 7: Baboschko",
+          "duration_ms": 154076
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 8: Bibi und Mikosch",
+          "duration_ms": 290300
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 9: Überraschung im Zug",
+          "duration_ms": 178754
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 10: Bibi greift ein",
+          "duration_ms": 109517
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 11: Noch eine Hexerei",
+          "duration_ms": 204353
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Folge 13 - Kapitel 12: Rückkehr nach Falkenstein",
+          "duration_ms": 175240
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/64/32/f6/6432f6ee-18d2-666d-fafe-45e0ff6eeef3/825646202447.jpg/100x100bb.jpg",
       "apple_music_id": 1069119301,
       "status": "active",
@@ -1974,7 +2181,86 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 1: Wildpferde in Falkenstein",
+          "duration_ms": 144976
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 2: Auf der Koppel",
+          "duration_ms": 181751
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 3: Jungenfreundschaft",
+          "duration_ms": 197654
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 4: Mädchengespräch",
+          "duration_ms": 120703
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 5: Wo ist Mikosch?",
+          "duration_ms": 295935
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 6: Baboschko am Steinbruch",
+          "duration_ms": 139083
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 7: Ausgebüxte Pferde!",
+          "duration_ms": 145452
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 8: Wieder auf der Koppel",
+          "duration_ms": 236863
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 9: Zukunftspläne",
+          "duration_ms": 285473
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 10: Freiheit und Freunde",
+          "duration_ms": 303662
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 11: Abschied am Bahnhof",
+          "duration_ms": 276694
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Folge 14 - Kapitel 12: Eine Ehrenrunde für Mikosch",
+          "duration_ms": 145189
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5b/aa/bd/5baabd16-94c8-752b-6c81-6a56b5048654/825646202256.jpg/100x100bb.jpg",
       "apple_music_id": 1069224667,
       "status": "active",
@@ -2078,7 +2364,86 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 1: Ganz offiziell gehext",
+          "duration_ms": 275958
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 2: Unfall im Wald",
+          "duration_ms": 261619
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 3: Bibi spielt erkältet",
+          "duration_ms": 154553
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 4: Ach du dickes Bein!",
+          "duration_ms": 164116
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 5: Freddy kommt vorbei",
+          "duration_ms": 191130
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 6: Training mit Gipsbein",
+          "duration_ms": 210732
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 7: Zurück zum Martinshof",
+          "duration_ms": 206409
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 8: Mamis Kräuterkur",
+          "duration_ms": 183874
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 9: Geduld und Hexerei",
+          "duration_ms": 218075
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 10: Zurück auf die Liste",
+          "duration_ms": 180075
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 11: Das Herbst-Turnier",
+          "duration_ms": 168608
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Folge 17 - Kapitel 12: Überraschung auf dem Podest",
+          "duration_ms": 147381
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/33/06/bc/3306bcf2-96f8-8f83-6124-d154fe27b150/825646231881.jpg/100x100bb.jpg",
       "apple_music_id": 1069131770,
       "status": "active",
@@ -2667,7 +3032,68 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 1: Stehreiten",
+          "duration_ms": 146280
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 2: Archibald von Wetterstein",
+          "duration_ms": 177187
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 3: Hochmut kommt vor dem Fall",
+          "duration_ms": 325667
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 4: Hexenpost",
+          "duration_ms": 357560
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 5: Warten auf Mikosch",
+          "duration_ms": 173453
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 6: Fröhliches Wiedersehen",
+          "duration_ms": 206293
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 7: Eine zweifelhafte Spritztour",
+          "duration_ms": 372773
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 8: Der Steckbrief",
+          "duration_ms": 356213
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 22 - Kapitel 9: Archie wird überführt",
+          "duration_ms": 294707
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/20/d8/31/20d8318c-8af1-8839-e3c3-30f5ba2b4b41/825646373345.jpg/100x100bb.jpg",
       "apple_music_id": 1069156543,
       "status": "active",
@@ -3532,7 +3958,68 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 1: Wettreiten mit fliegendem Wechsel",
+          "duration_ms": 165493
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 2: Frau Martin hat Ärger",
+          "duration_ms": 180027
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 3: Buddy und Holly",
+          "duration_ms": 238627
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 4: Janosch ist weg",
+          "duration_ms": 177093
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 5: Freddy kommt",
+          "duration_ms": 171293
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 6: Die wilde Meute",
+          "duration_ms": 244600
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 7: Eene meene immer nasser",
+          "duration_ms": 276360
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 8: Der geklaute Ponywagen",
+          "duration_ms": 220027
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 28 - Kapitel 9: Böse Buben im Heuhaufen",
+          "duration_ms": 416707
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/cf/67/57/cf6757ee-e202-d498-a05d-c7318e004404/825646370191.jpg/100x100bb.jpg",
       "apple_music_id": 1069214824,
       "status": "active",
@@ -3585,7 +4072,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 1: Vorsicht, Pferdediebe",
+          "duration_ms": 66360
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 2: Ein sprechendes Pferd",
+          "duration_ms": 328147
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 3: Der neue Stallbursche",
+          "duration_ms": 220973
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 4: Beppos Koffer",
+          "duration_ms": 167707
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 5: Die Geheimsprache",
+          "duration_ms": 285587
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 6: Eine gelungene Vorstellung",
+          "duration_ms": 240827
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 7: Ein interessierter Beobachter",
+          "duration_ms": 269040
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 8: Miraculus ist weg",
+          "duration_ms": 162053
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 9: Auf der Suche nach dem Dieb",
+          "duration_ms": 237747
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 29 - Kapitel 10: Die Falle schnappt zu",
+          "duration_ms": 385307
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d6/cb/f6/d6cbf694-a90f-bceb-9e82-a991dcdd2fbb/825646436941.jpg/100x100bb.jpg",
       "apple_music_id": 1069236089,
       "status": "active",
@@ -3753,7 +4307,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 1: Der fremde Hund",
+          "duration_ms": 237062
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 2: Unser Schnuffel",
+          "duration_ms": 209867
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 3: Wo ist Robert?",
+          "duration_ms": 168680
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 4: Zank mit der neuen Tierärztin",
+          "duration_ms": 187187
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 5: Der Maulkorb",
+          "duration_ms": 215920
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 6: Besuch beim Mühlenhofbauern",
+          "duration_ms": 220360
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 7: Kyra von Ortelsburg",
+          "duration_ms": 202093
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 8: Pluspunkte für Frau Doktor",
+          "duration_ms": 245720
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 9: Ein neues Zuhause",
+          "duration_ms": 230480
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 31 - Kapitel 10: Das kranke Reh",
+          "duration_ms": 410267
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e5/7e/6d/e57e6d34-ef17-6b4c-0195-a0fadfed0828/825646436934.jpg/100x100bb.jpg",
       "apple_music_id": 1069092479,
       "status": "active",
@@ -3806,7 +4427,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 1: Das Pony am Tor",
+          "duration_ms": 286093
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 2: Viele Fragen",
+          "duration_ms": 167960
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 3: Schmusen mit Felix",
+          "duration_ms": 259480
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 4: Frau Kolumna ist da!",
+          "duration_ms": 216253
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 5: Schmusy mag Anja!",
+          "duration_ms": 253533
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 6: Wahrheit ans Licht!",
+          "duration_ms": 227813
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 7: Frau Martin blickt durch",
+          "duration_ms": 192467
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 8: Zur alten Mühle",
+          "duration_ms": 229787
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 9: Vier-Augen-Gespräch",
+          "duration_ms": 301440
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 32 - Kapitel 10: Gastpferd Shetty",
+          "duration_ms": 169427
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/94/8c/9f/948c9fd9-29ca-0ad0-adbc-f508e731dcfe/825646436927.jpg/100x100bb.jpg",
       "apple_music_id": 1069126559,
       "status": "active",
@@ -3859,7 +4547,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 1: Alex hat Probleme",
+          "duration_ms": 229440
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 2: Eine böse Überraschung",
+          "duration_ms": 217960
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 3: Neuigkeiten für Bibi und Tina",
+          "duration_ms": 228467
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 4: Gespräch mit dem Grafen",
+          "duration_ms": 315333
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 5: Abschied von Alex",
+          "duration_ms": 149827
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 6: Treffen im Eiscafe",
+          "duration_ms": 160787
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 7: Sorge um Maharadscha",
+          "duration_ms": 200013
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 8: Die falsche Patentante",
+          "duration_ms": 277480
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 9: Noch eine Überraschung",
+          "duration_ms": 221720
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 33 - Kapitel 10: Frau Martin erinnert sich",
+          "duration_ms": 303520
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4a/0a/07/4a0a0718-9b58-cccf-33b6-6bdc68479c55/825646436910.jpg/100x100bb.jpg",
       "apple_music_id": 1069165784,
       "status": "active",
@@ -3939,7 +4694,80 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 1: Das ist ja Alex!",
+          "duration_ms": 98893
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 2: Conny stellt sich vor",
+          "duration_ms": 167640
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 3: Bibi hext",
+          "duration_ms": 265147
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 4: Im Schloss",
+          "duration_ms": 344000
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 5: Ein kleiner Zwist",
+          "duration_ms": 187893
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 6: Hexereien für Conny",
+          "duration_ms": 164547
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 7: Conny trifft den Grafen",
+          "duration_ms": 190520
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 8: Heimlichkeiten",
+          "duration_ms": 127733
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 9: Mikosch ist da!",
+          "duration_ms": 190053
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 10: Alex kommt zurück",
+          "duration_ms": 322307
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Folge 35 - Kapitel 11: Wahrheit und Reue",
+          "duration_ms": 354027
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/38/78/e5/3878e55f-380e-edf1-03b7-8751cbf3543d/825646436873.jpg/100x100bb.jpg",
       "apple_music_id": 1069228233,
       "status": "active",
@@ -4363,7 +5191,68 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 1: Neue Gäste",
+          "duration_ms": 149827
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 2: Höchst sonderbar",
+          "duration_ms": 226773
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 3: Ein pechschwarzes Fohlen",
+          "duration_ms": 261600
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 4: Bitte kümmert euch um Blacky",
+          "duration_ms": 172040
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 5: Niemand Zuhause",
+          "duration_ms": 186693
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 6: Alex denkt nach",
+          "duration_ms": 340213
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 7: Kevin bleibt stur",
+          "duration_ms": 225027
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 8: Nichts als die Wahrheit",
+          "duration_ms": 322413
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 39 - Kapitel 9: Sieg der Vernunft",
+          "duration_ms": 271707
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/39/2e/68/392e684a-6489-556d-b90b-37d8cdc240b6/825646370115.jpg/100x100bb.jpg",
       "apple_music_id": 1069224346,
       "status": "active",
@@ -4692,7 +5581,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 1: Gehexte Stallarbeit",
+          "duration_ms": 73164
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 2: Wettreiten mit Max und Moritz",
+          "duration_ms": 211400
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 3: Freddy spitzt die Ohren",
+          "duration_ms": 302107
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 4: Der Pferde-Abschleppdienst",
+          "duration_ms": 163827
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 5: Vier Pferdefüsse",
+          "duration_ms": 259427
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 6: Geheimer Ausritt",
+          "duration_ms": 221013
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 7: Pferd gegen Motorrad",
+          "duration_ms": 346280
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 8: Festvorbereitungen",
+          "duration_ms": 314853
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 9: Zuckerponys",
+          "duration_ms": 217173
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 42 - Kapitel 10: Wilde Pusztareiter",
+          "duration_ms": 200507
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/67/5b/3d/675b3d22-5d86-2eed-576b-2fb6cd3d980d/825646436859.jpg/100x100bb.jpg",
       "apple_music_id": 1069160024,
       "status": "active",
@@ -5256,7 +6212,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78462
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 1: Wettreiten mit Böllerschuss",
+          "duration_ms": 247107
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 2: Dagoberts Trimmprogramm",
+          "duration_ms": 230840
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 3: Das Klassentreffen",
+          "duration_ms": 196693
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 4:  Spurenlegen",
+          "duration_ms": 298187
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 5: Die Pferde sind gesattelt",
+          "duration_ms": 201320
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 6: Es geht los",
+          "duration_ms": 341213
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 7: Der Graf wird entführt",
+          "duration_ms": 260720
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 8: Kein Schnitzeljagdscherz",
+          "duration_ms": 306853
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 9: Verbotene Sprüche",
+          "duration_ms": 223387
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 47 - Kapitel 10: Alte Freunde",
+          "duration_ms": 363880
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/67/9b/3f/679b3ff2-5762-507f-9cff-140a07bf55d3/825646395590.jpg/100x100bb.jpg",
       "apple_music_id": 1069139844,
       "status": "active",
@@ -6275,7 +7298,86 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi und Tina Lied",
+          "duration_ms": 78467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 1 : Rowdies in der Falle",
+          "duration_ms": 179960
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 2 : Rettung in letzter Sekunde",
+          "duration_ms": 169267
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 3 : Kitz in Not",
+          "duration_ms": 99333
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 4 : Besserwisser Leo",
+          "duration_ms": 205573
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 5 : Auto-Camping im Wald",
+          "duration_ms": 109587
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 6 : Mit Vollgas ins Heu",
+          "duration_ms": 200653
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 7 : Neue Aushilfskräfte",
+          "duration_ms": 240467
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 8 : Wirbel um \"Pünktchen\"",
+          "duration_ms": 86573
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 9 : Die Suche",
+          "duration_ms": 245200
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 10 : Eine große Aufgabe",
+          "duration_ms": 184893
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 11 : Frau Martin greift ein",
+          "duration_ms": 200707
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "Folge 59 - Kapitel 12 : Friede, Freude, Butterkuchen",
+          "duration_ms": 98400
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d4/04/ff/d404ffc5-b024-5fba-18c7-f691c3eb489c/825646253371.jpg/100x100bb.jpg",
       "apple_music_id": 1069129624,
       "status": "active",

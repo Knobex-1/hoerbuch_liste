@@ -1653,7 +1653,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 01)",
+          "duration_ms": 100280
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 02)",
+          "duration_ms": 104293
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 03)",
+          "duration_ms": 95413
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 04)",
+          "duration_ms": 96987
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 05)",
+          "duration_ms": 102533
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 06)",
+          "duration_ms": 97587
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 07)",
+          "duration_ms": 106373
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 08)",
+          "duration_ms": 94893
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 09)",
+          "duration_ms": 100227
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 10)",
+          "duration_ms": 100293
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 11)",
+          "duration_ms": 98813
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 12)",
+          "duration_ms": 103093
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 13)",
+          "duration_ms": 96373
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 14)",
+          "duration_ms": 100013
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 15)",
+          "duration_ms": 103867
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 16)",
+          "duration_ms": 98573
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 17)",
+          "duration_ms": 96013
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 18)",
+          "duration_ms": 102093
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 19)",
+          "duration_ms": 105347
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 20)",
+          "duration_ms": 93653
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 21)",
+          "duration_ms": 100187
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 22)",
+          "duration_ms": 101587
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 23)",
+          "duration_ms": 99720
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 24)",
+          "duration_ms": 102107
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 25)",
+          "duration_ms": 99787
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 26)",
+          "duration_ms": 97520
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 27)",
+          "duration_ms": 96613
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 28)",
+          "duration_ms": 104827
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 29)",
+          "duration_ms": 98987
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 30)",
+          "duration_ms": 99360
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 31)",
+          "duration_ms": 100573
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 32)",
+          "duration_ms": 100093
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 33)",
+          "duration_ms": 99507
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 34)",
+          "duration_ms": 96600
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 35)",
+          "duration_ms": 105613
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 36)",
+          "duration_ms": 97373
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 37)",
+          "duration_ms": 97653
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 38)",
+          "duration_ms": 99987
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 39)",
+          "duration_ms": 100253
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "001 - Die Handy-Falle (Teil 40)",
+          "duration_ms": 99880
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/95/94/28/95942811-a08c-53d6-acb5-e74ebba4badc/886445747584.jpg/100x100bb.jpg",
       "apple_music_id": 1092514327,
       "status": "active",
@@ -3064,7 +3305,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 01)",
+          "duration_ms": 95747
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 02)",
+          "duration_ms": 92493
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 03)",
+          "duration_ms": 92733
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 04)",
+          "duration_ms": 92373
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 05)",
+          "duration_ms": 97667
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 06)",
+          "duration_ms": 90640
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 07)",
+          "duration_ms": 93920
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 08)",
+          "duration_ms": 91573
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 09)",
+          "duration_ms": 96160
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 10)",
+          "duration_ms": 89027
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 11)",
+          "duration_ms": 95733
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 12)",
+          "duration_ms": 93787
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 13)",
+          "duration_ms": 99360
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 14)",
+          "duration_ms": 87453
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 15)",
+          "duration_ms": 98680
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 16)",
+          "duration_ms": 93107
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 17)",
+          "duration_ms": 95293
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 18)",
+          "duration_ms": 89107
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 19)",
+          "duration_ms": 92880
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 20)",
+          "duration_ms": 95320
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 21)",
+          "duration_ms": 92667
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 22)",
+          "duration_ms": 95640
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 23)",
+          "duration_ms": 95933
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 24)",
+          "duration_ms": 95333
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 25)",
+          "duration_ms": 89427
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 26)",
+          "duration_ms": 93400
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 27)",
+          "duration_ms": 93587
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 28)",
+          "duration_ms": 93667
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 29)",
+          "duration_ms": 90760
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 30)",
+          "duration_ms": 95187
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 31)",
+          "duration_ms": 97400
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 32)",
+          "duration_ms": 88573
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 33)",
+          "duration_ms": 96907
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 34)",
+          "duration_ms": 93893
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 35)",
+          "duration_ms": 90987
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 36)",
+          "duration_ms": 99080
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 37)",
+          "duration_ms": 90707
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 38)",
+          "duration_ms": 91667
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 39)",
+          "duration_ms": 95080
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "02 - Betrug beim Casting (Teil 40)",
+          "duration_ms": 93160
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/02/99/7f/02997f12-9de6-e1f1-21c7-f4d4becd93e0/886445747669.jpg/100x100bb.jpg",
       "apple_music_id": 1092515740,
       "status": "active",
@@ -9306,7 +9788,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 01)",
+          "duration_ms": 102973
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 02)",
+          "duration_ms": 102773
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 03)",
+          "duration_ms": 101547
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 04)",
+          "duration_ms": 99880
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 05)",
+          "duration_ms": 102120
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 06)",
+          "duration_ms": 103653
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 07)",
+          "duration_ms": 106080
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 08)",
+          "duration_ms": 102560
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 09)",
+          "duration_ms": 97227
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 10)",
+          "duration_ms": 108120
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 11)",
+          "duration_ms": 99600
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 12)",
+          "duration_ms": 101267
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 13)",
+          "duration_ms": 100973
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 14)",
+          "duration_ms": 108027
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 15)",
+          "duration_ms": 99093
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 16)",
+          "duration_ms": 101800
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 17)",
+          "duration_ms": 102333
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 18)",
+          "duration_ms": 103973
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 19)",
+          "duration_ms": 99000
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 20)",
+          "duration_ms": 105280
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 21)",
+          "duration_ms": 105493
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 22)",
+          "duration_ms": 99520
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 23)",
+          "duration_ms": 102933
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 24)",
+          "duration_ms": 102493
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 25)",
+          "duration_ms": 99493
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 26)",
+          "duration_ms": 103613
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 27)",
+          "duration_ms": 104280
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 28)",
+          "duration_ms": 96920
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 29)",
+          "duration_ms": 103787
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 30)",
+          "duration_ms": 104827
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 31)",
+          "duration_ms": 100707
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 32)",
+          "duration_ms": 103200
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 33)",
+          "duration_ms": 101867
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 34)",
+          "duration_ms": 103493
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 35)",
+          "duration_ms": 104440
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 36)",
+          "duration_ms": 99080
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 37)",
+          "duration_ms": 102973
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 38)",
+          "duration_ms": 101053
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 39)",
+          "duration_ms": 107733
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "004 - Gefahr im Fitness-Studio (Teil 40)",
+          "duration_ms": 99160
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/dd/30/96/dd30968d-2de0-de43-99b6-82fbca9acb0b/886445747843.jpg/100x100bb.jpg",
       "apple_music_id": 1092511873,
       "status": "active",
@@ -11542,7 +12265,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 01)",
+          "duration_ms": 110333
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 02)",
+          "duration_ms": 106093
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 03)",
+          "duration_ms": 105880
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 04)",
+          "duration_ms": 103387
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 05)",
+          "duration_ms": 108707
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 06)",
+          "duration_ms": 105947
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 07)",
+          "duration_ms": 110240
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 08)",
+          "duration_ms": 106387
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 09)",
+          "duration_ms": 108107
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 10)",
+          "duration_ms": 106133
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 11)",
+          "duration_ms": 104307
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 12)",
+          "duration_ms": 110093
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 13)",
+          "duration_ms": 107827
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 14)",
+          "duration_ms": 104107
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 15)",
+          "duration_ms": 106333
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 16)",
+          "duration_ms": 111573
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 17)",
+          "duration_ms": 105933
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 18)",
+          "duration_ms": 106293
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 19)",
+          "duration_ms": 107200
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 20)",
+          "duration_ms": 109133
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 21)",
+          "duration_ms": 107360
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 22)",
+          "duration_ms": 103480
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 23)",
+          "duration_ms": 107187
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 24)",
+          "duration_ms": 106720
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 25)",
+          "duration_ms": 106093
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 26)",
+          "duration_ms": 110773
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 27)",
+          "duration_ms": 105587
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 28)",
+          "duration_ms": 110560
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 29)",
+          "duration_ms": 107240
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 30)",
+          "duration_ms": 106440
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 31)",
+          "duration_ms": 104760
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 32)",
+          "duration_ms": 104987
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 33)",
+          "duration_ms": 112120
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 34)",
+          "duration_ms": 104387
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 35)",
+          "duration_ms": 105827
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 36)",
+          "duration_ms": 111120
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 37)",
+          "duration_ms": 106467
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 38)",
+          "duration_ms": 104333
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 39)",
+          "duration_ms": 109093
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "005 - Tatort Paris (Teil 40)",
+          "duration_ms": 106320
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2a/a4/01/2aa40111-f8dd-9899-3c41-f47be05704f2/886445747911.jpg/100x100bb.jpg",
       "apple_music_id": 1092511008,
       "status": "active",
@@ -17787,7 +18751,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 01)",
+          "duration_ms": 110480
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 02)",
+          "duration_ms": 110813
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 03)",
+          "duration_ms": 108280
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 04)",
+          "duration_ms": 121493
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 05)",
+          "duration_ms": 112400
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 06)",
+          "duration_ms": 117080
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 07)",
+          "duration_ms": 110453
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 08)",
+          "duration_ms": 132027
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 09)",
+          "duration_ms": 88853
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 10)",
+          "duration_ms": 116920
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 11)",
+          "duration_ms": 109560
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 12)",
+          "duration_ms": 132747
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 13)",
+          "duration_ms": 103907
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 14)",
+          "duration_ms": 109453
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 15)",
+          "duration_ms": 115627
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 16)",
+          "duration_ms": 111933
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 17)",
+          "duration_ms": 107080
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 18)",
+          "duration_ms": 113720
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 19)",
+          "duration_ms": 109507
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 20)",
+          "duration_ms": 121933
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 21)",
+          "duration_ms": 108853
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 22)",
+          "duration_ms": 112680
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 23)",
+          "duration_ms": 113920
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 24)",
+          "duration_ms": 115253
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 25)",
+          "duration_ms": 114800
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 26)",
+          "duration_ms": 105427
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 27)",
+          "duration_ms": 112587
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 28)",
+          "duration_ms": 119960
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 29)",
+          "duration_ms": 107960
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 30)",
+          "duration_ms": 111800
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 31)",
+          "duration_ms": 116320
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 32)",
+          "duration_ms": 107240
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 33)",
+          "duration_ms": 114627
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 34)",
+          "duration_ms": 114360
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 35)",
+          "duration_ms": 117120
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 36)",
+          "duration_ms": 99840
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 37)",
+          "duration_ms": 120813
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 38)",
+          "duration_ms": 113707
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 39)",
+          "duration_ms": 115667
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "008 - Vorsicht Strandhaie! (Teil 40)",
+          "duration_ms": 118653
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4e/5e/27/4e5e27de-a390-f602-5072-ab44a843f85c/886445748192.jpg/100x100bb.jpg",
       "apple_music_id": 1092513609,
       "status": "active",
@@ -22455,7 +23660,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 01)",
+          "duration_ms": 100747
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 02)",
+          "duration_ms": 97813
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 03)",
+          "duration_ms": 100427
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 04)",
+          "duration_ms": 99413
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 05)",
+          "duration_ms": 100173
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 06)",
+          "duration_ms": 99547
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 07)",
+          "duration_ms": 97120
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 08)",
+          "duration_ms": 104827
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 09)",
+          "duration_ms": 96147
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 10)",
+          "duration_ms": 97107
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 11)",
+          "duration_ms": 101560
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 12)",
+          "duration_ms": 97787
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 13)",
+          "duration_ms": 95467
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 14)",
+          "duration_ms": 102307
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 15)",
+          "duration_ms": 103480
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 16)",
+          "duration_ms": 99067
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 17)",
+          "duration_ms": 100800
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 18)",
+          "duration_ms": 99467
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 19)",
+          "duration_ms": 96600
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 20)",
+          "duration_ms": 98400
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 21)",
+          "duration_ms": 97893
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 22)",
+          "duration_ms": 106187
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 23)",
+          "duration_ms": 95413
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 24)",
+          "duration_ms": 99093
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 25)",
+          "duration_ms": 100600
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 26)",
+          "duration_ms": 99333
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 27)",
+          "duration_ms": 100373
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 28)",
+          "duration_ms": 97427
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 29)",
+          "duration_ms": 102133
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 30)",
+          "duration_ms": 97627
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 31)",
+          "duration_ms": 99600
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 32)",
+          "duration_ms": 99587
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 33)",
+          "duration_ms": 99027
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 34)",
+          "duration_ms": 101667
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 35)",
+          "duration_ms": 100373
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 36)",
+          "duration_ms": 98560
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 37)",
+          "duration_ms": 101293
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 38)",
+          "duration_ms": 99200
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 39)",
+          "duration_ms": 98160
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "011 - Kuss-Alarm! (Teil 40)",
+          "duration_ms": 98893
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/0f/2a/7c/0f2a7c92-4aa3-33a9-bf4b-c4088b9f86ba/886445749564.jpg/100x100bb.jpg",
       "apple_music_id": 1092514591,
       "status": "active",
@@ -26630,7 +28076,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 01)",
+          "duration_ms": 111467
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 02)",
+          "duration_ms": 110547
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 03)",
+          "duration_ms": 108587
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 04)",
+          "duration_ms": 112187
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 05)",
+          "duration_ms": 107867
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 06)",
+          "duration_ms": 114400
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 07)",
+          "duration_ms": 109107
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 08)",
+          "duration_ms": 114587
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 09)",
+          "duration_ms": 109413
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 10)",
+          "duration_ms": 109920
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 11)",
+          "duration_ms": 111067
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 12)",
+          "duration_ms": 110387
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 13)",
+          "duration_ms": 110680
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 14)",
+          "duration_ms": 110907
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 15)",
+          "duration_ms": 111827
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 16)",
+          "duration_ms": 108347
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 17)",
+          "duration_ms": 106880
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 18)",
+          "duration_ms": 115840
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 19)",
+          "duration_ms": 105307
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 20)",
+          "duration_ms": 115813
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 21)",
+          "duration_ms": 113987
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 22)",
+          "duration_ms": 110387
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 23)",
+          "duration_ms": 108573
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 24)",
+          "duration_ms": 110680
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 25)",
+          "duration_ms": 114067
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 26)",
+          "duration_ms": 106307
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 27)",
+          "duration_ms": 110907
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 28)",
+          "duration_ms": 113227
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 29)",
+          "duration_ms": 108867
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 30)",
+          "duration_ms": 111693
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 31)",
+          "duration_ms": 115613
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 32)",
+          "duration_ms": 105973
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 33)",
+          "duration_ms": 108133
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 34)",
+          "duration_ms": 114880
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 35)",
+          "duration_ms": 111387
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 36)",
+          "duration_ms": 109387
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 37)",
+          "duration_ms": 108067
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 38)",
+          "duration_ms": 114413
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 39)",
+          "duration_ms": 110067
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "016 - Total verknallt! (Teil 40)",
+          "duration_ms": 110027
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/49/90/89/49908945-cfef-64c5-e8ac-ed3c6fa21fd1/886445750362.jpg/100x100bb.jpg",
       "apple_music_id": 1092511006,
       "status": "active",
@@ -27887,7 +29574,248 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 01)",
+          "duration_ms": 104600
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 02)",
+          "duration_ms": 100387
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 03)",
+          "duration_ms": 103093
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 04)",
+          "duration_ms": 102800
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 05)",
+          "duration_ms": 106107
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 06)",
+          "duration_ms": 104293
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 07)",
+          "duration_ms": 99960
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 08)",
+          "duration_ms": 106667
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 09)",
+          "duration_ms": 101293
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 10)",
+          "duration_ms": 104520
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 11)",
+          "duration_ms": 100893
+        },
+        {
+          "track": 12,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 12)",
+          "duration_ms": 103280
+        },
+        {
+          "track": 13,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 13)",
+          "duration_ms": 104853
+        },
+        {
+          "track": 14,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 14)",
+          "duration_ms": 100227
+        },
+        {
+          "track": 15,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 15)",
+          "duration_ms": 105373
+        },
+        {
+          "track": 16,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 16)",
+          "duration_ms": 101013
+        },
+        {
+          "track": 17,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 17)",
+          "duration_ms": 108120
+        },
+        {
+          "track": 18,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 18)",
+          "duration_ms": 101680
+        },
+        {
+          "track": 19,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 19)",
+          "duration_ms": 99973
+        },
+        {
+          "track": 20,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 20)",
+          "duration_ms": 106240
+        },
+        {
+          "track": 21,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 21)",
+          "duration_ms": 104427
+        },
+        {
+          "track": 22,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 22)",
+          "duration_ms": 98587
+        },
+        {
+          "track": 23,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 23)",
+          "duration_ms": 106480
+        },
+        {
+          "track": 24,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 24)",
+          "duration_ms": 102947
+        },
+        {
+          "track": 25,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 25)",
+          "duration_ms": 101693
+        },
+        {
+          "track": 26,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 26)",
+          "duration_ms": 105133
+        },
+        {
+          "track": 27,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 27)",
+          "duration_ms": 104307
+        },
+        {
+          "track": 28,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 28)",
+          "duration_ms": 101533
+        },
+        {
+          "track": 29,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 29)",
+          "duration_ms": 102040
+        },
+        {
+          "track": 30,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 30)",
+          "duration_ms": 107987
+        },
+        {
+          "track": 31,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 31)",
+          "duration_ms": 103813
+        },
+        {
+          "track": 32,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 32)",
+          "duration_ms": 100773
+        },
+        {
+          "track": 33,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 33)",
+          "duration_ms": 100533
+        },
+        {
+          "track": 34,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 34)",
+          "duration_ms": 103000
+        },
+        {
+          "track": 35,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 35)",
+          "duration_ms": 110320
+        },
+        {
+          "track": 36,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 36)",
+          "duration_ms": 97760
+        },
+        {
+          "track": 37,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 37)",
+          "duration_ms": 103653
+        },
+        {
+          "track": 38,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 38)",
+          "duration_ms": 103040
+        },
+        {
+          "track": 39,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 39)",
+          "duration_ms": 105733
+        },
+        {
+          "track": 40,
+          "disc": 1,
+          "title": "018 - VIP-Alarm (Teil 40)",
+          "duration_ms": 100547
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/69/73/1c/69731ceb-f5e3-4ac7-7fd3-7bb0ce8ec0bc/886445750485.jpg/100x100bb.jpg",
       "apple_music_id": 1092517089,
       "status": "active",

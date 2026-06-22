@@ -793,7 +793,74 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi Blocksberg Lied",
+          "duration_ms": 89142
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 1: Die Besen müssen mit",
+          "duration_ms": 172173
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 2: Hubertus und Mathilda Drösel",
+          "duration_ms": 163853
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 3: Endlich im Hotel",
+          "duration_ms": 390867
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 4: Hexerei beim Abendessen",
+          "duration_ms": 244520
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 5: Hilfe für Eugen",
+          "duration_ms": 154787
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 6: Der Zaun muß weg!",
+          "duration_ms": 289787
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 7: Bibis Plan geht auf",
+          "duration_ms": 285640
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 8: Was für ein Ferienspaß!",
+          "duration_ms": 165147
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 9: Das große Lampionfest",
+          "duration_ms": 167693
+        },
+        {
+          "track": 11,
+          "disc": 1,
+          "title": "Folge 5 - Kapitel 10: Rettung in letzter Sekunde",
+          "duration_ms": 331720
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e6/5c/bd/e65cbd05-2521-57f7-d74d-2e7233145873/825646437290.jpg/100x100bb.jpg",
       "apple_music_id": 1069133821,
       "status": "active",
@@ -5349,7 +5416,68 @@
       "genres": [
         "Hörspiele"
       ],
-      "chapters": [],
+      "chapters": [
+        {
+          "track": 1,
+          "disc": 1,
+          "title": "Bibi Blocksberg Lied",
+          "duration_ms": 89142
+        },
+        {
+          "track": 2,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 1: Eis für alle!",
+          "duration_ms": 302520
+        },
+        {
+          "track": 3,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 2: Die Oberhexe Walpurgia",
+          "duration_ms": 256080
+        },
+        {
+          "track": 4,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 3: Der Hexenrat tagt",
+          "duration_ms": 351053
+        },
+        {
+          "track": 5,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 4: Der Beschluss",
+          "duration_ms": 193867
+        },
+        {
+          "track": 6,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 5: Unter Walpurgias Aufsicht",
+          "duration_ms": 411787
+        },
+        {
+          "track": 7,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 6: Nur fort von hier!",
+          "duration_ms": 243520
+        },
+        {
+          "track": 8,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 7: Fluchtversuch",
+          "duration_ms": 257547
+        },
+        {
+          "track": 9,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 8: Die geheime Botschaft",
+          "duration_ms": 202467
+        },
+        {
+          "track": 10,
+          "disc": 1,
+          "title": "Folge 77 - Kapitel 9: Barbara greift ein",
+          "duration_ms": 464333
+        }
+      ],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/8e/0a/35/8e0a3579-58c9-abe3-298d-cd7bb5bb74c6/825646395767.jpg/100x100bb.jpg",
       "apple_music_id": 1069223798,
       "status": "active",
