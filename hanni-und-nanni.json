@@ -1,0 +1,72 @@
+{
+  "name": "Hanni und Nanni",
+  "slug": "hanni-und-nanni",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/c7/2c/bac72c22-26ab-8907-bf8b-e6db81320a99/196873150307.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 36,
+      "name": "Hanni und Nanni",
+      "slug": "hanni-und-nanni-hanni-und-nanni"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_29c6388780fa",
+      "title": "Folge 3: Ein heimlicher Gast auf Lindenhof (Neue Abenteuer)",
+      "author": "Hanni und Nanni",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/c7/2c/bac72c22-26ab-8907-bf8b-e6db81320a99/196873150307.jpg/100x100bb.jpg",
+      "apple_music_id": 1844309469,
+      "status": "active",
+      "sub_franchise_id": 36,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 411,
+        "discovery_run_id": 4,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.5714285714285714,
+          "franchise": "Hanni und Nanni",
+          "sub_franchise": "Hanni und Nanni"
+        }
+      },
+      "sub_franchise": "Hanni und Nanni"
+    },
+    {
+      "id": "ep_e5234f04e2ac",
+      "title": "Mehr als beste Freunde - Das Original-Hörspiel zum Kinofilm",
+      "author": "Hanni und Nanni",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/a2/07/5ca2077c-c4ae-3bda-4ee2-c02d4922038b/886446367941.jpg/100x100bb.jpg",
+      "apple_music_id": 1227729328,
+      "status": "active",
+      "sub_franchise_id": 36,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:28",
+      "extra": {
+        "discovery_candidate_id": 1555,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Hanni und Nanni",
+          "sub_franchise": "Hanni und Nanni"
+        }
+      },
+      "sub_franchise": "Hanni und Nanni"
+    }
+  ],
+  "episode_count": 2
+}

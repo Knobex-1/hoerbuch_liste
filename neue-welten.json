@@ -1,0 +1,77 @@
+{
+  "name": "Neue Welten",
+  "slug": "neue-welten",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/b9/9a/24b99a24-6bf7-9a89-42cd-5f38fb6892ba/cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 37,
+      "name": "Midnight Tales",
+      "slug": "neue-welten-midnight-tales"
+    },
+    {
+      "id": 35,
+      "name": "Neue Welten",
+      "slug": "neue-welten-neue-welten"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_4eacb2cf650c",
+      "title": "Folge 3: Der Roboterkrieg",
+      "author": "Neue Welten",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/b9/9a/24b99a24-6bf7-9a89-42cd-5f38fb6892ba/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1685300871,
+      "status": "active",
+      "sub_franchise_id": 35,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 410,
+        "discovery_run_id": 4,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.6428571428571429,
+          "franchise": "Neue Welten",
+          "sub_franchise": "Neue Welten"
+        }
+      },
+      "sub_franchise": "Neue Welten"
+    },
+    {
+      "id": "ep_ca01ef33fc6c",
+      "title": "Folge 27: Tote neue Welt 3",
+      "author": "Midnight Tales",
+      "episode_number": 27,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/a6/8d/6ba68dfc-2348-d7dd-09bb-040fb3217a2e/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1685292531,
+      "status": "active",
+      "sub_franchise_id": 37,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 412,
+        "discovery_run_id": 4,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.72,
+          "franchise": "Neue Welten",
+          "sub_franchise": "Midnight Tales"
+        }
+      },
+      "sub_franchise": "Midnight Tales"
+    }
+  ],
+  "episode_count": 2
+}

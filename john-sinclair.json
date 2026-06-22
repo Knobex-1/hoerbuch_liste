@@ -3,7 +3,13 @@
   "slug": "john-sinclair",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [],
+  "sub_franchises": [
+    {
+      "id": 139,
+      "name": "John Sinclair",
+      "slug": "john-sinclair-john-sinclair"
+    }
+  ],
   "episodes": [
     {
       "id": "356472016",
@@ -402,6 +408,62 @@
       }
     },
     {
+      "id": "ep_f1d1bd1340cd",
+      "title": "Tonstudio Braun - Klänge des Schreckens - Was damals im Studio geschah, Teil 1",
+      "author": "John Sinclair",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/74/2a/55/742a55c5-d477-9c5b-12b2-756a71b1b6c3/9783838789217_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1382753983,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1720,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_97b8ba9dccae",
+      "title": "Tonstudio Braun, Folge 1: Das Horror-Schloß im Spessart",
+      "author": "John Sinclair",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/55/56/72/5556727a-68aa-4660-dfc6-9bd9a785d467/mzm.jnduncof.jpg/100x100bb.jpg",
+      "apple_music_id": 1053136971,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1713,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "357774896",
       "title": "John Sinclair, Classics Folge 2: Mörder aus dem Totenreich",
       "author": "John Sinclair",
@@ -608,6 +670,34 @@
       }
     },
     {
+      "id": "ep_a555a3296cb1",
+      "title": "Tonstudio Braun, Folge 2: Der schwarze Henker",
+      "author": "John Sinclair",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/fc/bf/84/fcbf84fc-e108-2ef5-a704-003e1c69c7ff/mzm.xpftfwcr.jpg/100x100bb.jpg",
+      "apple_music_id": 1053137417,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1714,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "371219234",
       "title": "John Sinclair, Classics Folge 3: Dr. Satanos",
       "author": "John Sinclair",
@@ -806,6 +896,34 @@
       }
     },
     {
+      "id": "ep_afdf01b0da3c",
+      "title": "Tonstudio Braun, Folge 3: Das Horror-Taxi von New York",
+      "author": "John Sinclair",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ab/cb/16/abcb16b7-a488-9177-9bf0-be46938209c1/mzm.ddyvlsxg.jpg/100x100bb.jpg",
+      "apple_music_id": 1053138261,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1716,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "386719338",
       "title": "John Sinclair Classics, Folge 4: Das Leichenhaus der Lady L.",
       "author": "John Sinclair",
@@ -997,6 +1115,34 @@
           "appleMusic": "327305262"
         }
       }
+    },
+    {
+      "id": "ep_aed5c38f8fb2",
+      "title": "Tonstudio Braun, Folge 4: Der Pfähler. Teil 1 von 3",
+      "author": "John Sinclair",
+      "episode_number": 4,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3e/e6/ec/3ee6ec4b-6ba9-2dad-a2ad-56349ac9695e/mzm.lniicrkq.jpg/100x100bb.jpg",
+      "apple_music_id": 1053846275,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1717,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "327299068",
@@ -1215,6 +1361,34 @@
           "appleMusic": "402447168"
         }
       }
+    },
+    {
+      "id": "ep_e0eb73bada92",
+      "title": "Tonstudio Braun, Folge 5: Dracula gibt sich die Ehre. Teil 2 von 3",
+      "author": "John Sinclair",
+      "episode_number": 5,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/6f/73/4f/6f734f9e-b952-30f0-14ec-6751bb2b4253/9783838780054_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1063647218,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1719,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "418709399",
@@ -1453,6 +1627,34 @@
       }
     },
     {
+      "id": "ep_c186592a7edf",
+      "title": "Tonstudio Braun, Folge 6: Die Vampirfalle. Teil 3 von 3",
+      "author": "John Sinclair",
+      "episode_number": 6,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/19/b7/35/19b73562-0336-c116-9cb4-4803a8fd2d44/9783838780061_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1063647211,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1725,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "444178625",
       "title": "Classics Folge 7: Die Töchter der Hölle",
       "author": "John Sinclair",
@@ -1541,6 +1743,34 @@
           "appleMusic": "444178625"
         }
       }
+    },
+    {
+      "id": "ep_de51dd996225",
+      "title": "Tonstudio Braun, Folge 7: Die Horror-Reiter",
+      "author": "John Sinclair",
+      "episode_number": 7,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/09/7a/77/097a770b-575d-3ea8-1080-67551860200b/9783838780078_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1062903854,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1732,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "453536817",
@@ -1633,6 +1863,34 @@
       }
     },
     {
+      "id": "ep_c182db2555b9",
+      "title": "Tonstudio Braun, Folge 8: Der Totenbeschwörer",
+      "author": "John Sinclair",
+      "episode_number": 8,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/1b/14/be/1b14beb8-16b2-7b6b-16e1-68f7c640a922/9783838780085_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1062908368,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1706,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "470491866",
       "title": "Classics Folge 9: Die Nacht des schwarzen Drachen",
       "author": "John Sinclair",
@@ -1716,6 +1974,34 @@
           "appleMusic": "470491866"
         }
       }
+    },
+    {
+      "id": "ep_103ced9030a8",
+      "title": "Tonstudio Braun, Folge 9: Der Gelbe Satan. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 9,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/00/fe/d2/00fed2d0-c78d-fb25-7318-d0f4135c2b4e/9783838780092_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1062911842,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1711,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "498475675",
@@ -1808,6 +2094,34 @@
       }
     },
     {
+      "id": "ep_c290f7909909",
+      "title": "Tonstudio Braun, Folge 10: Horror-Kreuzfahrt. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 10,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/cb/da/a8/cbdaa81a-7651-0524-c7bc-429abae74efa/9783838780108_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1065018499,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1738,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "537591474",
       "title": "John Sinclair, Classics Folge 11: Der Blutgraf",
       "author": "John Sinclair",
@@ -1890,6 +2204,62 @@
           "appleMusic": "537591474"
         }
       }
+    },
+    {
+      "id": "ep_827c694ee35a",
+      "title": "Tonstudio Braun, Folge 11: Der unheimliche Bogenschütze",
+      "author": "John Sinclair",
+      "episode_number": 11,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/7b/a2/a4/7ba2a44e-e80b-8665-bf8a-1ec9c8baf01f/9783838780115_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068552011,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1715,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_28897fe3cf56",
+      "title": "Tonstudio Braun, Folge 12: Augen des Grauens",
+      "author": "John Sinclair",
+      "episode_number": 12,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/be/b9/db/beb9db16-8bd8-333d-104f-fdc3c0f7d33a/9783838780122_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068553216,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1743,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "580463366",
@@ -1980,6 +2350,258 @@
           "appleMusic": "580463366"
         }
       }
+    },
+    {
+      "id": "ep_70bbe4a028b2",
+      "title": "Tonstudio Braun, Folge 13: Der Sensenmann als Hochzeitsgast",
+      "author": "John Sinclair",
+      "episode_number": 13,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/da/40/b5/da40b557-af1a-592a-d604-84df1f8720c8/9783838780139_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1077131754,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1745,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_062b02c06a1d",
+      "title": "Tonstudio Braun, Folge 14: Das Buch der grausamen Träume",
+      "author": "John Sinclair",
+      "episode_number": 14,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/db/e5/64/dbe564cb-4573-24e8-4d08-b0fbfe92e4f3/9783838780146_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1076353291,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1723,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_d8f34a8209d1",
+      "title": "Tonstudio Braun, Folge 15: Die Höllenkutsche. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 15,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/c7/c2/4c/c7c24c73-1807-85aa-54e2-33d9bc12e0d6/9783838780153_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1076355552,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1712,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_2564d4c2eff4",
+      "title": "Tonstudio Braun, Folge 16: Asmodinas Reich. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 16,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/5f/22/54/5f2254ec-32c6-de1e-7ac2-78b97e0e49fb/9783838780160_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068229472,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1794,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_ffb6cbcad089",
+      "title": "Tonstudio Braun, Folge 17: Die Drohung. Teil 1 von 3",
+      "author": "John Sinclair",
+      "episode_number": 17,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/54/15/b5/5415b528-434e-4f89-658b-48f52cdad3aa/9783838780177_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068231380,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1728,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_60d4c09efa6f",
+      "title": "Tonstudio Braun, Folge 18: Ein Friedhof am Ende der Welt. Teil 2 von 3",
+      "author": "John Sinclair",
+      "episode_number": 18,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/f0/94/36/f094369d-5e04-7f2f-08b4-c36dc7b7678d/9783838780184_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068231705,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1776,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_eebf9b923dae",
+      "title": "Tonstudio Braun, Folge 19: Das letzte Duell. Teil 3 von 3",
+      "author": "John Sinclair",
+      "episode_number": 19,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/21/b3/b3/21b3b373-1d34-d25a-6c72-92204a0eded0/9783838780191_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068231980,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1786,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_ed874c8ec426",
+      "title": "Tonstudio Braun, Folge 20: Asmodinas Todesengel",
+      "author": "John Sinclair",
+      "episode_number": 20,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/84/22/03/84220381-0760-c148-2966-118f23a110f2/9783838780207_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068232502,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1790,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_1cbceef4814c",
+      "title": "Tonstudio Braun, Folge 21: Hügel der Gehenkten",
+      "author": "John Sinclair",
+      "episode_number": 21,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/40/0a/d5400a05-2ca0-b8de-1015-46a5c334e7a1/9783838780214_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068232718,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1746,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "983241687",
@@ -2097,6 +2719,62 @@
       }
     },
     {
+      "id": "ep_15d51d63d591",
+      "title": "Tonstudio Braun, Folge 22: Der Würfel des Unheils",
+      "author": "John Sinclair",
+      "episode_number": 22,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/20/bb/eb/20bbebbe-3758-3548-e38e-834d7f777e19/9783838780221_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068233609,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1761,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_28ccd7ffacea",
+      "title": "Tonstudio Braun, Folge 23: Der Leichenbrunnen",
+      "author": "John Sinclair",
+      "episode_number": 23,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/89/9e/0f/899e0fa3-63c5-5508-f0db-ec2349b022b2/9783838780238_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068234427,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1755,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "986900232",
       "title": "Classics, Folge 24: Hochzeit der Vampire",
       "author": "John Sinclair",
@@ -2212,6 +2890,34 @@
       }
     },
     {
+      "id": "ep_6443629c0e0e",
+      "title": "Tonstudio Braun, Folge 24: Im Land des Vampirs. Teil 1 von 3",
+      "author": "John Sinclair",
+      "episode_number": 24,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/58/f8/14/58f81424-20af-e6d3-fdb9-5043740f35f0/9783838780245_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068234879,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1718,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1058883665",
       "title": "Classics, Folge 25: Dr. Tods Höllenfahrt",
       "author": "John Sinclair",
@@ -2324,6 +3030,34 @@
           "appleMusic": "1058883665"
         }
       }
+    },
+    {
+      "id": "ep_c72ade466bb9",
+      "title": "Tonstudio Braun, Folge 25: Schreie in der Horror-Gruft. Teil 2 von 3",
+      "author": "John Sinclair",
+      "episode_number": 25,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/38/5e/56/385e5658-43cd-bd2e-787f-07ff8651fb2b/9783838780252_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068235042,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1770,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1058882914",
@@ -2441,6 +3175,34 @@
       }
     },
     {
+      "id": "ep_584312781713",
+      "title": "Tonstudio Braun, Folge 26: Mein Todesurteil. Teil 3 von 3",
+      "author": "John Sinclair",
+      "episode_number": 26,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d8/c6/5a/d8c65af9-1119-cf6c-f7dc-064936021bb3/9783838780269_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068235661,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1792,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1112100940",
       "title": "Classics, Folge 27: Wenn der Werwolf heult",
       "author": "John Sinclair",
@@ -2462,6 +3224,34 @@
           "appleMusic": "1112100940"
         }
       }
+    },
+    {
+      "id": "ep_5f8aed5f02db",
+      "title": "Tonstudio Braun, Folge 27: Die Teufelsuhr",
+      "author": "John Sinclair",
+      "episode_number": 27,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ac/6c/dd/ac6cdd64-4a17-32ac-497b-8f75f5a4e744/9783838780276_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068236040,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1740,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1112139963",
@@ -2488,6 +3278,34 @@
       }
     },
     {
+      "id": "ep_46460d696355",
+      "title": "Tonstudio Braun, Folge 28: Die Hexe vom Hyde Park",
+      "author": "John Sinclair",
+      "episode_number": 28,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/05/58/81/055881ad-81e3-518c-d587-7a4dd53bd6d0/9783838780283_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068235882,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1773,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1119170879",
       "title": "Classics, Folge 29: Der Hexenclub",
       "author": "John Sinclair",
@@ -2512,6 +3330,34 @@
       }
     },
     {
+      "id": "ep_9c6fae5d3303",
+      "title": "Tonstudio Braun, Folge 29: Die Werwolf-Sippe. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 29,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/b9/bf/8e/b9bf8e0e-212f-769e-a8ec-76882da53260/9783838780290_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068236613,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1781,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1193209827",
       "title": "Classics, Folge 30: Das Phantom von Soho",
       "author": "John Sinclair",
@@ -2533,6 +3379,34 @@
           "appleMusic": "1193209827"
         }
       }
+    },
+    {
+      "id": "ep_9f3db167d833",
+      "title": "Tonstudio Braun, Folge 30: Lupinas Todfeind. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 30,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d6/36/83/d6368316-f301-fbb4-b3c4-14c6e7a48fa4/9783838780306_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069860424,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1801,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1236847654",
@@ -2559,6 +3433,62 @@
       }
     },
     {
+      "id": "ep_d874c7526965",
+      "title": "Tonstudio Braun, Folge 31: Totenchor der Ghouls",
+      "author": "John Sinclair",
+      "episode_number": 31,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/0a/7b/e3/0a7be3fd-e194-f8df-5d8d-e593d7de758a/9783838780313_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068472302,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1764,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_adb218365e84",
+      "title": "Tonstudio Braun, Folge 32: Ich jagte \"Jack the Ripper\"",
+      "author": "John Sinclair",
+      "episode_number": 32,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/86/93/8c/86938cf0-3359-19f7-1018-3f041ca163d0/9783838780320_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068237619,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1769,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1369226177",
       "title": "Classics, Folge 33: Irrfahrt ins Jenseits",
       "author": "John Sinclair",
@@ -2582,6 +3512,34 @@
       }
     },
     {
+      "id": "ep_682298b21c69",
+      "title": "Tonstudio Braun, Folge 33: Die Blutorgel",
+      "author": "John Sinclair",
+      "episode_number": 33,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/74/f4/81/74f481ab-5877-bf2e-c7eb-552c40b9ca30/9783838780337_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068237886,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1768,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1409844360",
       "title": "Classics, Folge 34: Die Todesgondel",
       "author": "John Sinclair",
@@ -2603,6 +3561,34 @@
           "appleMusic": "1409844360"
         }
       }
+    },
+    {
+      "id": "ep_34c088eaeace",
+      "title": "Tonstudio Braun, Folge 34: Ein schwarzer Tag in meinem Leben",
+      "author": "John Sinclair",
+      "episode_number": 34,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9e/41/3f/9e413f89-7b58-e48c-c20f-a97f05d63fe3/9783838780344_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068238412,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1797,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1453987198",
@@ -2629,6 +3615,34 @@
       }
     },
     {
+      "id": "ep_34bc60b34a0c",
+      "title": "Tonstudio Braun, Folge 35: Ein schaurige Warnung",
+      "author": "John Sinclair",
+      "episode_number": 35,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/d2/71/cc/d271cc4b-87bd-21f1-98f9-06b4beb63d3b/9783838780351_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068239203,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1762,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1580549902",
       "title": "Classics, Folge 36: Die Rache der roten Hexe",
       "author": "John Sinclair",
@@ -2651,6 +3665,34 @@
           "appleMusic": "1580549902"
         }
       }
+    },
+    {
+      "id": "ep_2ebb7e7ee77b",
+      "title": "Tonstudio Braun, Folge 36: Der Ripper kehrt zurück. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 36,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/be/0a/d5be0a9a-b24c-515f-f590-7089a23a135a/9783838780368_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1068239269,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1782,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1561139523",
@@ -2676,6 +3718,34 @@
       }
     },
     {
+      "id": "ep_5285211e3a53",
+      "title": "Tonstudio Braun, Folge 37: Die Hexeninsel. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 37,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/85/32/0e/85320e88-2206-7430-47e2-fca08250cb6b/9783838780375_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069832969,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1811,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1561139447",
       "title": "Classics, Folge 38: Die Totenkopf-Gang",
       "author": "John Sinclair",
@@ -2697,6 +3767,62 @@
           "appleMusic": "1561139447"
         }
       }
+    },
+    {
+      "id": "ep_6258ca57fdd0",
+      "title": "Tonstudio Braun, Folge 38: Die Nacht des Hexers",
+      "author": "John Sinclair",
+      "episode_number": 38,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/62/8b/d6/628bd6dc-e9c3-59a8-bec0-242b6a4dad78/9783838780382_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069833286,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1730,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_3a801f540c9e",
+      "title": "Tonstudio Braun, Folge 39: Mörder aus dem Totenreich",
+      "author": "John Sinclair",
+      "episode_number": 39,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/a4/cf/76/a4cf7686-8644-8f7f-7581-1452014aab81/9783838780399_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069834134,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1774,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1595830049",
@@ -2722,6 +3848,62 @@
       }
     },
     {
+      "id": "ep_4282ccf4bc24",
+      "title": "Tonstudio Braun, Folge 40: Dr. Satanos",
+      "author": "John Sinclair",
+      "episode_number": 40,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/20/17/59/2017594f-efe3-24c1-ca16-06bf02fd7e2a/9783838780405_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069834798,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1731,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_65270cafde7e",
+      "title": "Tonstudio Braun, Folge 41: Das Leichenhaus der Lady L",
+      "author": "John Sinclair",
+      "episode_number": 41,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/fd/52/53/fd5253ef-faff-9dc1-c406-bd7bc8a0f73d/dj.ioegfcnp.jpg/100x100bb.jpg",
+      "apple_music_id": 1069834921,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1736,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1561145780",
       "title": "Classics, Folge 42: Das Hochhaus der Dämonen",
       "author": "John Sinclair",
@@ -2743,6 +3925,62 @@
           "appleMusic": "1561145780"
         }
       }
+    },
+    {
+      "id": "ep_9bf3eebb662f",
+      "title": "Tonstudio Braun, Folge 42: Sakuro, der Dämon",
+      "author": "John Sinclair",
+      "episode_number": 42,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/75/a5/b2/75a5b20f-fa5f-ae25-dfaa-19804c7973b0/9783838780429_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069835311,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1810,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_d15591711829",
+      "title": "Tonstudio Braun, Folge 43: Die Töchter der Hölle",
+      "author": "John Sinclair",
+      "episode_number": 43,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9a/ad/8c/9aad8cc0-39c2-3987-a9d0-e2af5e953cf9/9783838780436_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069836327,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1752,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1582446310",
@@ -2768,6 +4006,34 @@
       }
     },
     {
+      "id": "ep_3131fe58147b",
+      "title": "Tonstudio Braun, Folge 44: Das Rätsel der gläsernen Särge",
+      "author": "John Sinclair",
+      "episode_number": 44,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f5/5b/a4/f55ba499-6888-3978-11d4-6f48a3b26353/9783838780443_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069836083,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1789,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1604567143",
       "title": "Classics, Folge 45: Das Todeskarussell",
       "author": "John Sinclair",
@@ -2789,6 +4055,118 @@
           "appleMusic": "1604567143"
         }
       }
+    },
+    {
+      "id": "ep_e28374d51af5",
+      "title": "Tonstudio Braun, Folge 45: Hochzeit der Vampire",
+      "author": "John Sinclair",
+      "episode_number": 45,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9a/0e/13/9a0e13e1-aeb8-4f6e-9cb4-abd8f4b088bd/9783838780450_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1069837171,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1785,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_e9dc664faa78",
+      "title": "Tonstudio Braun, Folge 46: Die Nacht des Schwarzen Drachen",
+      "author": "John Sinclair",
+      "episode_number": 46,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/ba/ab/71/baab7146-86c9-4f62-200b-06f4631abae0/9783838780467_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1145281099,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1793,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_7a2efb489946",
+      "title": "Tonstudio Braun, Folge 47: Disco Dracula",
+      "author": "John Sinclair",
+      "episode_number": 47,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ef/64/56/ef6456a7-238d-4b66-5d94-e1ad4beb2cfc/9783838780474_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1158872541,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1734,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_51fb4238f196",
+      "title": "Tonstudio Braun, Folge 48: Ewige Schreie",
+      "author": "John Sinclair",
+      "episode_number": 48,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/31/6b/6a/316b6afc-4f11-adbc-176f-2720039ae254/9783838780481_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1161756024,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1795,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1670096143",
@@ -2922,6 +4300,34 @@
           "appleMusic": "310881940"
         }
       }
+    },
+    {
+      "id": "ep_c00d8e01792a",
+      "title": "Tonstudio Braun, Folge 49: Der lächelnde Henker",
+      "author": "John Sinclair",
+      "episode_number": 49,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/e5/9d/10/e59d10cc-db76-7e43-f57a-9c47f2d933d7/9783838780498_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1152985376,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1796,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1680860045",
@@ -3087,6 +4493,34 @@
       }
     },
     {
+      "id": "ep_e877de678c1d",
+      "title": "Tonstudio Braun, Folge 50: Blutiger Halloween",
+      "author": "John Sinclair",
+      "episode_number": 50,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/62/f7/a5/62f7a55d-b78f-d586-fc9e-291219b2e76d/9783838780504_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1164965153,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1803,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "324276149",
       "title": "John Sinclair,  Folge 51: Mannequins mit Mörderaugen",
       "author": "John Sinclair",
@@ -3217,6 +4651,34 @@
           "appleMusic": "324276149"
         }
       }
+    },
+    {
+      "id": "ep_7acb69274676",
+      "title": "Tonstudio Braun, Folge 51: Einsatz der Todesrocker",
+      "author": "John Sinclair",
+      "episode_number": 51,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c7/bb/3a/c7bb3a27-c34b-d689-6f67-6cc653923151/9783838780511_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1164983738,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1757,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "324275565",
@@ -3351,6 +4813,34 @@
       }
     },
     {
+      "id": "ep_4d9e45a320aa",
+      "title": "Tonstudio Braun, Folge 52: Die Schöne aus dem Totenreich",
+      "author": "John Sinclair",
+      "episode_number": 52,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/60/d0/67/60d06753-c701-7ed9-456f-8990d3d78489/9783838780528_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1170629571,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1802,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "327483755",
       "title": "John Sinclair, Folge 53: Dämonen im Raketencamp",
       "author": "John Sinclair",
@@ -3477,6 +4967,62 @@
       }
     },
     {
+      "id": "ep_14dda155ac3f",
+      "title": "Tonstudio Braun, Folge 53: Liebe, die der Teufel schenkt",
+      "author": "John Sinclair",
+      "episode_number": 53,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ab/ca/2b/abca2b6b-e478-79f6-058d-e39a3b17a442/9783838780535_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1170629804,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1771,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_2e9c54a7fa5b",
+      "title": "Tonstudio Braun, Folge 54: Angst über London",
+      "author": "John Sinclair",
+      "episode_number": 54,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/35/dc/92/35dc923c-ae92-2d9b-ab34-c97c37920eb2/9783838780542_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1170606477,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1788,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "356571065",
       "title": "John Sinclair, Folge 55: Fenris, der Götterwolf",
       "author": "John Sinclair",
@@ -3598,6 +5144,34 @@
       }
     },
     {
+      "id": "ep_e0c1325c91c5",
+      "title": "Tonstudio Braun, Folge 55: Judys Spinnenfluch",
+      "author": "John Sinclair",
+      "episode_number": 55,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/1f/14/11/1f14111b-d480-1237-c6b7-4452844cf8cd/9783838780559_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171081975,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1791,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "356610081",
       "title": "John Sinclair, Folge 56: Eine schaurige Warnung",
       "author": "John Sinclair",
@@ -3706,6 +5280,34 @@
       }
     },
     {
+      "id": "ep_16a2d7cab35f",
+      "title": "Tonstudio Braun, Folge 56: Die Rache der Horror-Reiter",
+      "author": "John Sinclair",
+      "episode_number": 56,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/df/ee/e2/dfeee2d4-23a4-0ebd-ca66-0fe1b2e30a2c/9783838780566_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171082174,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1812,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "378824710",
       "title": "John Sinclair, Folge 57: Im Jenseits verurteilt",
       "author": "John Sinclair",
@@ -3794,6 +5396,34 @@
           "appleMusic": "378824710"
         }
       }
+    },
+    {
+      "id": "ep_df8af4755247",
+      "title": "Tonstudio Braun, Folge 57: Ghouls in Manhattan",
+      "author": "John Sinclair",
+      "episode_number": 57,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/0c/81/38/0c813840-ea17-db01-3474-b2e83aaf5e5c/9783838780573_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171082177,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1763,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "381704062",
@@ -3885,6 +5515,34 @@
           "appleMusic": "381704062"
         }
       }
+    },
+    {
+      "id": "ep_aed0dd1c486f",
+      "title": "Tonstudio Braun, Folge 58: Geheimbund der Vampire",
+      "author": "John Sinclair",
+      "episode_number": 58,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/bd/99/00/bd990008-2fde-99be-19ad-b355b97155e9/9783838780580_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171083019,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1744,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "392283108",
@@ -3981,6 +5639,34 @@
           "appleMusic": "392283108"
         }
       }
+    },
+    {
+      "id": "ep_50e94d227745",
+      "title": "Tonstudio Braun, Folge 59: Luzifers Festung",
+      "author": "John Sinclair",
+      "episode_number": 59,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ed/d7/ce/edd7ce0c-c11d-909d-9f00-9d434f451c38/9783838780597_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171083422,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1727,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "396107978",
@@ -4080,6 +5766,34 @@
       }
     },
     {
+      "id": "ep_389114e19f43",
+      "title": "Tonstudio Braun, Folge 60: Alptraum in Atlantis",
+      "author": "John Sinclair",
+      "episode_number": 60,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/b9/5f/28/b95f2844-9b5f-0278-2d32-d06130245f98/9783838780603_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171083547,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1778,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "402446668",
       "title": "John Sinclair, Folge 61: Im Zentrum des Schreckens (II/III)",
       "author": "John Sinclair",
@@ -4170,6 +5884,34 @@
       }
     },
     {
+      "id": "ep_b821be7bc5cc",
+      "title": "Tonstudio Braun, Folge 61: Sieben Siegel der Magie. Teil 1 von 3",
+      "author": "John Sinclair",
+      "episode_number": 61,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ca/f3/07/caf30763-2cd6-7a2b-f05c-6e50d4e9add5/9783838780610_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171084517,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1784,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "403746153",
       "title": "John Sinclair, Folge 62: Bring mir den Kopf von Asmodina (III/III)",
       "author": "John Sinclair",
@@ -4258,6 +6000,34 @@
           "appleMusic": "403746153"
         }
       }
+    },
+    {
+      "id": "ep_32a0b7f978ae",
+      "title": "Tonstudio Braun, Folge 62: Allein in der Drachenhöhle. Teil 2 von 3",
+      "author": "John Sinclair",
+      "episode_number": 62,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e6/0a/a1/e60aa13f-6cee-dca9-425e-23afc009b8e6/9783838780627_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171084422,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1809,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "412855445",
@@ -4362,6 +6132,34 @@
       }
     },
     {
+      "id": "ep_64b1d0efc0c3",
+      "title": "Tonstudio Braun, Folge 63: Macht und Mythos. Folge 3 von 3",
+      "author": "John Sinclair",
+      "episode_number": 63,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/6a/a9/2d/6aa92d5a-1991-9839-5cb8-aba9de74a362/9783838780634_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171084550,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1808,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "425336465",
       "title": "John Sinclair, Folge 64: Um Mitternacht am Galgenberg",
       "author": "John Sinclair",
@@ -4444,6 +6242,34 @@
           "appleMusic": "425336465"
         }
       }
+    },
+    {
+      "id": "ep_8659bcfd5054",
+      "title": "Tonstudio Braun, Folge 64: Die grausamen Ritter. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 64,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d9/48/59/d94859a4-a8c4-4810-500e-fd95400bcfc7/9783838780641_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171085161,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1751,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "431079949",
@@ -4536,6 +6362,34 @@
       }
     },
     {
+      "id": "ep_383406332060",
+      "title": "Tonstudio Braun, Folge 65: Die Drachensaat. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 65,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ab/d9/fa/abd9fa8e-e4e8-c59a-e813-e749001cc2e8/9783838780658_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171085291,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1813,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "436337105",
       "title": "John Sinclair, Folge 66: Hexenwahn",
       "author": "John Sinclair",
@@ -4619,6 +6473,34 @@
           "appleMusic": "436337105"
         }
       }
+    },
+    {
+      "id": "ep_e54a826c1668",
+      "title": "Tonstudio Braun, Folge 66: Turm der weißen Vampire",
+      "author": "John Sinclair",
+      "episode_number": 66,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f1/53/fc/f153fca0-8282-b47b-d96d-7a6964e9ca6e/9783838780665_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171085098,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1741,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "449150577",
@@ -4711,6 +6593,34 @@
       }
     },
     {
+      "id": "ep_5441a0b37cec",
+      "title": "Tonstudio Braun, Folge 67: Tal der vergessenen Toten",
+      "author": "John Sinclair",
+      "episode_number": 67,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/5f/8b/c0/5f8bc01d-5596-a8d8-6824-53428f84763a/9783838780672_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171085455,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1758,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "465049804",
       "title": "Folge 68: Die Leichenkutsche von London",
       "author": "John Sinclair",
@@ -4794,6 +6704,62 @@
           "appleMusic": "465049804"
         }
       }
+    },
+    {
+      "id": "ep_763c24fb748b",
+      "title": "Tonstudio Braun, Folge 68: Zombies auf dem Roten Platz",
+      "author": "John Sinclair",
+      "episode_number": 68,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f7/07/39/f70739b6-f2a7-0987-7afe-8506b5361dd0/9783838780689_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171085509,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1760,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_9a5dbf97b433",
+      "title": "Tonstudio Braun, Folge 69: Ich stieß das Tor zur Hölle auf. Teil 1 von 3",
+      "author": "John Sinclair",
+      "episode_number": 69,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/29/65/f6/2965f6d5-082d-514e-f0a8-1eefcbbee10d/9783838780696_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171085415,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1777,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "479568458",
@@ -4881,6 +6847,34 @@
       }
     },
     {
+      "id": "ep_910f38d2be61",
+      "title": "Tonstudio Braun, Folge 70: Im Zentrum des Schreckens. Teil 2 von 3",
+      "author": "John Sinclair",
+      "episode_number": 70,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c3/99/d8/c399d8bc-5552-9147-8bbf-2933208de71e/9783838780702_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171085904,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1804,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "493272604",
       "title": "Folge 71: Der Mann, der nicht sterben konnte",
       "author": "John Sinclair",
@@ -4965,6 +6959,62 @@
       }
     },
     {
+      "id": "ep_e797cabc94b5",
+      "title": "Tonstudio Braun, Folge 71: Bring mir den Kopf von Asmodina. Teil 3 von 3",
+      "author": "John Sinclair",
+      "episode_number": 71,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/68/be/0e/68be0e44-7b91-3bdf-7bdc-f55c8494e9b5/9783838780719_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171086166,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1806,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_4893229fcd80",
+      "title": "Tonstudio Braun, Folge 72: Doktor Tod",
+      "author": "John Sinclair",
+      "episode_number": 72,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/04/bf/d3/04bfd361-d978-0bbd-ba38-9d961b927f22/9783838780726_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1171085973,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1775,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "514759783",
       "title": "Folge 73: Die Werwolf-Elite",
       "author": "John Sinclair",
@@ -5047,6 +7097,62 @@
           "appleMusic": "514759783"
         }
       }
+    },
+    {
+      "id": "ep_78f71af3f0e2",
+      "title": "Tonstudio Braun, Folge 73: Bruderschaft des Satans",
+      "author": "John Sinclair",
+      "episode_number": 73,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/a8/20/67/a82067f0-8d87-4e1c-5598-33cfe1689078/4251234326411_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214907652,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1742,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_68a14dd5c147",
+      "title": "Tonstudio Braun, Folge 74: In Satans Diensten",
+      "author": "John Sinclair",
+      "episode_number": 74,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/fc/a0/87/fca0870b-4c04-2db7-c019-2970fdd1d2cb/4251234326497_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214907613,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1747,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "545608305",
@@ -5140,6 +7246,34 @@
       }
     },
     {
+      "id": "ep_49830916fc38",
+      "title": "Tonstudio Braun, Folge 75: Doktor Tods Höllenfahrt",
+      "author": "John Sinclair",
+      "episode_number": 75,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/11/b3/dc/11b3dc4e-d7f0-7daf-2c9b-411879135d77/4251234326480_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214909493,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1766,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "554174497",
       "title": "Folge 76: Herrin der Dunkelwelt",
       "author": "John Sinclair",
@@ -5229,6 +7363,34 @@
           "appleMusic": "554174497"
         }
       }
+    },
+    {
+      "id": "ep_7a7582a5b7be",
+      "title": "Tonstudio Braun, Folge 76: Der Irre mit der Teufelsgeige. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 76,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/88/49/a1884977-4a34-4467-3281-97ccd72347b0/4251234326428_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214909489,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1748,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "567092015",
@@ -5333,6 +7495,34 @@
       }
     },
     {
+      "id": "ep_6c8eb48fa4df",
+      "title": "Tonstudio Braun, Folge 77: Lebendig begraben. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 77,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/01/9f/c7/019fc7a6-b43a-161a-53b3-5508669c7b5d/4251234326510_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214946359,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1798,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "570751019",
       "title": "Folge 78: Die Todesgöttin",
       "author": "John Sinclair",
@@ -5430,6 +7620,62 @@
       }
     },
     {
+      "id": "ep_d82a85cebbed",
+      "title": "Tonstudio Braun, Folge 78: Das Mädchen von Atlantis. Teil 1 von 3",
+      "author": "John Sinclair",
+      "episode_number": 78,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/7c/d5/c8/7cd5c845-f519-2c56-38c4-ebec72566452/4251234326596_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214946166,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1787,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_992f1dd9728f",
+      "title": "Tonstudio Braun, Folge 79: Das Dämonenauge. Teil 2 von 3",
+      "author": "John Sinclair",
+      "episode_number": 79,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/74/aa/c674aaad-a634-9cf6-753e-1a36e3687759/4251234326589_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214946332,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1807,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "608279663",
       "title": "Folge 80: Sieben Siegel der Magie - Kreuz-Trilogie, Teil 1",
       "author": "John Sinclair",
@@ -5513,6 +7759,34 @@
           "appleMusic": "608279663"
         }
       }
+    },
+    {
+      "id": "ep_90065350c786",
+      "title": "Tonstudio Braun, Folge 80: Die Hexenmühle. Teil 3 von 3",
+      "author": "John Sinclair",
+      "episode_number": 80,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/db/09/8c/db098ce6-e3f5-a61c-447f-80bb5ba02358/4251234326565_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214947729,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1800,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "608280636",
@@ -5617,6 +7891,34 @@
           "appleMusic": "608280636"
         }
       }
+    },
+    {
+      "id": "ep_6bfe7497cfdf",
+      "title": "Tonstudio Braun, Folge 81: Der unheimliche Mönch",
+      "author": "John Sinclair",
+      "episode_number": 81,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/f8/aa/85/f8aa85c4-86b7-57cc-87c9-482901e7f21a/4251234326572_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214947748,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1707,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "606997602",
@@ -5731,6 +8033,34 @@
           "appleMusic": "606997602"
         }
       }
+    },
+    {
+      "id": "ep_2b1efa3aeafe",
+      "title": "Tonstudio Braun, Folge 82: Ein Totenopfer für Clarissa",
+      "author": "John Sinclair",
+      "episode_number": 82,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/31/d9/08/31d908c0-7c9c-b797-3184-ad002cc7faea/4251234326558_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214948876,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1772,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "634857916",
@@ -5853,6 +8183,34 @@
       }
     },
     {
+      "id": "ep_b9781530863d",
+      "title": "Tonstudio Braun, Folge 83: Maringo, der Höllenreiter",
+      "author": "John Sinclair",
+      "episode_number": 83,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/dd/51/60dd519a-8c88-d965-0c30-25d023a9b132/4251234326541_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214949695,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1759,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "660880978",
       "title": "Folge 84: Ewige Schreie",
       "author": "John Sinclair",
@@ -5955,6 +8313,90 @@
       }
     },
     {
+      "id": "ep_43ff7931973d",
+      "title": "Tonstudio Braun, Folge 84: Das Ungeheuer von Loch Morar. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 84,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/04/ca/06/04ca069d-3937-67c7-5137-44fc64b93495/4251234326527_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214951613,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1754,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_6bb983a5c936",
+      "title": "Tonstudio Braun, Folge 85: Die Zombies. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 85,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/f2/e5/16/f2e51608-454e-db9a-a8a3-30afe26f192c/4251234326534_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214954501,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1799,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_a4c165333ed2",
+      "title": "Tonstudio Braun, Folge 86: Sandra und ihr zweites Ich",
+      "author": "John Sinclair",
+      "episode_number": 86,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fa/b5/ff/fab5ffeb-5710-fcec-e192-2d828d789655/4251234326664_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214956729,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1756,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "702942325",
       "title": "Folge 87: Schlucht der stummen Götter",
       "author": "John Sinclair",
@@ -6049,6 +8491,34 @@
           "appleMusic": "702942325"
         }
       }
+    },
+    {
+      "id": "ep_16cf28652fb6",
+      "title": "Tonstudio Braun, Folge 87: Die Teufelssekte",
+      "author": "John Sinclair",
+      "episode_number": 87,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/1e/13/bd/1e13bd9e-580f-5225-2a0d-c84504926cce/4251234326640_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214958516,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1737,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "762808016",
@@ -6164,6 +8634,34 @@
           "appleMusic": "762808016"
         }
       }
+    },
+    {
+      "id": "ep_d15257910ae3",
+      "title": "Tonstudio Braun, Folge 88: Die Geier und der Wertiger",
+      "author": "John Sinclair",
+      "episode_number": 88,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/95/f8/fa/95f8facd-209a-26c2-d068-e8937c8090ab/4251234337417_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1265807968,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1780,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "779458288",
@@ -6282,6 +8780,34 @@
       }
     },
     {
+      "id": "ep_f6c333f3eaf9",
+      "title": "Tonstudio Braun, Folge 89: Das Todeskabinett",
+      "author": "John Sinclair",
+      "episode_number": 89,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/a4/0c/d7a40ce1-8995-9b59-e8f6-b21d2a3fcbae/4251234326633_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214958497,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1735,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "796926574",
       "title": "Folge 90: Belphégors Rückkehr",
       "author": "John Sinclair",
@@ -6396,6 +8922,34 @@
       }
     },
     {
+      "id": "ep_3770156b2bdb",
+      "title": "Tonstudio Braun, Folge 90: Der Unheimliche von Dartmoor",
+      "author": "John Sinclair",
+      "episode_number": 90,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/8a/2d/c5/8a2dc53a-a023-34f9-4b4e-a6234596d59d/4251234326626_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214955224,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1729,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "834316835",
       "title": "Folge 91: Der Höllenwurm",
       "author": "John Sinclair",
@@ -6508,6 +9062,90 @@
           "appleMusic": "834316835"
         }
       }
+    },
+    {
+      "id": "ep_469d92155894",
+      "title": "Tonstudio Braun, Folge 91: Der Vulkanteufel von Hawaii",
+      "author": "John Sinclair",
+      "episode_number": 91,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/99/1f/e9/991fe9a1-068e-5ccd-d938-d5e4198b2d4a/4251234326619_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214955253,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1733,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_ce1f3b40237a",
+      "title": "Tonstudio Braun, Folge 92: Der siebenarmige Tod",
+      "author": "John Sinclair",
+      "episode_number": 92,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/1b/a7/f8/1ba7f8f3-c4e3-0004-33df-ee2178bbf0c9/4251234326602_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214956753,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1726,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_5c939fab6028",
+      "title": "Tonstudio Braun, Folge 93: Im Landhaus der Schrecken",
+      "author": "John Sinclair",
+      "episode_number": 93,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/60/a3/51/60a35100-5223-647c-f51d-e9178d2f0278/4251234326473_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214909618,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1753,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "858549973",
@@ -6625,6 +9263,62 @@
       }
     },
     {
+      "id": "ep_38062be9fad3",
+      "title": "Tonstudio Braun, Folge 94: Anruf aus dem Jenseits",
+      "author": "John Sinclair",
+      "episode_number": 94,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/25/97/29/259729d5-eb9a-80cc-3a00-83f19af7f0ef/4251234326503_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214956831,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1749,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_9563a4d5977b",
+      "title": "Tonstudio Braun, Folge 95: Insel der Seelenlosen",
+      "author": "John Sinclair",
+      "episode_number": 95,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/e1/46/59/e146599f-e456-011a-d2e1-f7c6a4d7e1aa/4251234326466_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214911032,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1708,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "910994433",
       "title": "Folge 96: Pandoras Botschaft",
       "author": "John Sinclair",
@@ -6737,6 +9431,62 @@
           "appleMusic": "910994433"
         }
       }
+    },
+    {
+      "id": "ep_dede97aeb5a6",
+      "title": "Tonstudio Braun, Folge 96: Tigerfrauen greifen an!",
+      "author": "John Sinclair",
+      "episode_number": 96,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/7f/17/c8/7f17c89f-bd32-7f17-81b3-979bb6fa58f9/4251234326442_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214910245,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1767,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_ac1b89129846",
+      "title": "Tonstudio Braun, Folge 97: Asmodinas Höllenschlange",
+      "author": "John Sinclair",
+      "episode_number": 97,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/9d/52/3f9d5200-583a-41d0-226a-db4fc912032f/4251234326459_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214911586,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1765,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "910994230",
@@ -6854,6 +9604,34 @@
       }
     },
     {
+      "id": "ep_9fc00490ce86",
+      "title": "Tonstudio Braun, Folge 98: Dr. Tods Monsterhöhle",
+      "author": "John Sinclair",
+      "episode_number": 98,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/56/0e/da/560eda1a-9d63-3884-7e0b-8efe616b6ed0/4251234326435_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1214912330,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1779,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "949585255",
       "title": "Folge 99: Das gläserne Grauen",
       "author": "John Sinclair",
@@ -6966,6 +9744,34 @@
           "appleMusic": "949585255"
         }
       }
+    },
+    {
+      "id": "ep_1e35a9b6cc25",
+      "title": "Tonstudio Braun, Folge 99: Voodoo-Land. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 99,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ad/d4/b6/add4b6a0-bd0c-00fc-ba65-87f6d03adc64/9783838780993_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1289276105,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1750,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "957426097",
@@ -7172,6 +9978,34 @@
       }
     },
     {
+      "id": "ep_01f014d22930",
+      "title": "Tonstudio Braun, Folge 100: Voodoo-Land. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 100,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/94/78/b19478a3-4b31-55a9-4727-263523f1d7af/9783838781006_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1291976491,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1814,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "973020839",
       "title": "Folge 101: Der Hexenwürger von Blackmoore, Teil 1",
       "author": "John Sinclair",
@@ -7284,6 +10118,62 @@
           "appleMusic": "973020839"
         }
       }
+    },
+    {
+      "id": "ep_f7b4bdaaa029",
+      "title": "Tonstudio Braun, Folge 101: Mr. Mondos Monster. Teil 1 von 2",
+      "author": "John Sinclair",
+      "episode_number": 101,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/2d/fe/97/2dfe9741-2e99-ffd2-85c9-2f84ae91197b/9783838781013_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1295817039,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:35",
+      "extra": {
+        "discovery_candidate_id": 1783,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
+      "id": "ep_52e6c15b9715",
+      "title": "Tonstudio Braun, Folge 102: Königin der Wölfe. Teil 2 von 2",
+      "author": "John Sinclair",
+      "episode_number": 102,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d4/c6/0e/d4c60e8d-dbf6-2a03-2b71-c15adf1279f1/9783838781020_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1299726277,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:36",
+      "extra": {
+        "discovery_candidate_id": 1805,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "986927635",
@@ -7400,6 +10290,34 @@
       }
     },
     {
+      "id": "ep_4b65b385773a",
+      "title": "Tonstudio Braun, Folge 103: Der Todesnebel",
+      "author": "John Sinclair",
+      "episode_number": 103,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/78/93/17/789317f3-00aa-e0b4-a9eb-1208a4808c04/9783838781037_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1300198376,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1722,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "986931860",
       "title": "Folge 104: Die magische Bombe",
       "author": "John Sinclair",
@@ -7512,6 +10430,34 @@
           "appleMusic": "986931860"
         }
       }
+    },
+    {
+      "id": "ep_0d172e9fda89",
+      "title": "Tonstudio Braun, Folge 104: Dr. Tods Horror-Insel",
+      "author": "John Sinclair",
+      "episode_number": 104,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a0/bc/d7/a0bcd772-7ffe-6c44-0ee1-1f4715d71228/9783838781044_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1300329718,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1724,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "986945730",
@@ -7629,6 +10575,34 @@
       }
     },
     {
+      "id": "ep_67aaa9ee2e2b",
+      "title": "Tonstudio Braun, Folge 105: Flucht in die Schädelwelt",
+      "author": "John Sinclair",
+      "episode_number": 105,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6a/c4/46/6ac44681-14d4-cf3b-ae8d-3c6ba7fec435/9783838781051_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1307120194,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1709,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "986946738",
       "title": "Folge 106: Xorrons Totenheer (Teil 2 von 3)",
       "author": "John Sinclair",
@@ -7741,6 +10715,34 @@
           "appleMusic": "986946738"
         }
       }
+    },
+    {
+      "id": "ep_d17f90190229",
+      "title": "Tonstudio Braun, Folge 106: Tokatas Erbe",
+      "author": "John Sinclair",
+      "episode_number": 106,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/c8/e7/eac8e7b2-3037-d590-d9e6-f599d0e37476/9783838781068_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1312925831,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:34",
+      "extra": {
+        "discovery_candidate_id": 1739,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1058879868",
@@ -7857,6 +10859,34 @@
       }
     },
     {
+      "id": "ep_f7e9639c77ea",
+      "title": "Tonstudio Braun, Folge 107: Herrin der Dunkelwelt",
+      "author": "John Sinclair",
+      "episode_number": 107,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5f/cf/67/5fcf67c4-cde6-fcc8-bb6c-5864519e45ed/9783838781075_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1317036624,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1721,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
+    },
+    {
       "id": "1058880201",
       "title": "Folge 108: Satans Knochenuhr",
       "author": "John Sinclair",
@@ -7970,6 +11000,34 @@
           "appleMusic": "1058880201"
         }
       }
+    },
+    {
+      "id": "ep_f3f93e10ee0d",
+      "title": "Tonstudio Braun - Folge 108: Dr. Tods Rache",
+      "author": "John Sinclair",
+      "episode_number": 108,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9b/f4/c8/9bf4c80a-79de-1df1-fc79-592b448f0ac7/9783838789255_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1555714163,
+      "status": "active",
+      "sub_franchise_id": 139,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1710,
+        "discovery_run_id": 32,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "John Sinclair",
+          "sub_franchise": "John Sinclair"
+        }
+      },
+      "sub_franchise": "John Sinclair"
     },
     {
       "id": "1058879871",
@@ -9797,5 +12855,5 @@
       }
     }
   ],
-  "episode_count": 154
+  "episode_count": 263
 }

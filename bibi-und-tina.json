@@ -3,7 +3,13 @@
   "slug": "bibi-und-tina",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [],
+  "sub_franchises": [
+    {
+      "id": 31,
+      "name": "Bibi und Tina",
+      "slug": "bibi-und-tina-bibi-und-tina"
+    }
+  ],
   "episodes": [
     {
       "id": "bibi-folg-8897",
@@ -723,6 +729,34 @@
       }
     },
     {
+      "id": "ep_02a5deddeb5b",
+      "title": "Folge 04 - Das Zirkuspony",
+      "author": "Bibi und Tina",
+      "episode_number": 4,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/e2/6b/ab/e26bab21-3ba2-1737-7bc8-1633924564af/825646436972.jpg/100x100bb.jpg",
+      "apple_music_id": 1069167455,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2025,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-7685",
       "title": "Folge 4: Das Zirkuspony",
       "author": "Bibi und Tina",
@@ -1258,6 +1292,62 @@
       }
     },
     {
+      "id": "ep_68195752e523",
+      "title": "Folge 7 - Tina in Gefahr",
+      "author": "Bibi und Tina",
+      "episode_number": 7,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4d/d6/49/4dd649fe-fa64-68dd-9cc6-b970af517527/825646085088.jpg/100x100bb.jpg",
+      "apple_music_id": 1069153188,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2012,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
+      "id": "ep_0d0282ecc66a",
+      "title": "Folge 7: Tina in Gefahr",
+      "author": "Bibi und Tina",
+      "episode_number": 7,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/99/8a/f7998adf-40a1-1454-93c3-438d57c35fc2/190295911270.jpg/100x100bb.jpg",
+      "apple_music_id": 1148122350,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:20",
+      "extra": {
+        "discovery_candidate_id": 1929,
+        "discovery_run_id": 56,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-0317",
       "title": "Folge 8 - Der Hufschmied",
       "author": "Bibi und Tina",
@@ -1544,6 +1634,34 @@
       }
     },
     {
+      "id": "ep_3db855bbbf40",
+      "title": "Folge 10 - Das Zeltlager",
+      "author": "Bibi und Tina",
+      "episode_number": 10,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/7f/64/53/7f6453d4-e381-d16d-a6ed-cd6c363bef7a/825646253432.jpg/100x100bb.jpg",
+      "apple_music_id": 1038147867,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2008,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-8278",
       "title": "Folge 10: Das Zeltlager",
       "author": "Bibi und Tina",
@@ -1716,6 +1834,34 @@
       }
     },
     {
+      "id": "ep_7e5d29ebb277",
+      "title": "Folge 13 - Die Wildpferde Teil 1",
+      "author": "Bibi und Tina",
+      "episode_number": 13,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/64/32/f6/6432f6ee-18d2-666d-fafe-45e0ff6eeef3/825646202447.jpg/100x100bb.jpg",
+      "apple_music_id": 1069119301,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2018,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-7985",
       "title": "Folge 13: Die Wildpferde - Teil 1",
       "author": "Bibi und Tina",
@@ -1740,6 +1886,34 @@
           "appleMusic": "1148117985"
         }
       }
+    },
+    {
+      "id": "ep_30f9f9ebee19",
+      "title": "Folge 14 - Die Wildpferde Teil 2",
+      "author": "Bibi und Tina",
+      "episode_number": 14,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5b/aa/bd/5baabd16-94c8-752b-6c81-6a56b5048654/825646202256.jpg/100x100bb.jpg",
+      "apple_music_id": 1069224667,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2021,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-7307",
@@ -1816,6 +1990,34 @@
           "appleMusic": "1148120347"
         }
       }
+    },
+    {
+      "id": "ep_fa22cb5507c0",
+      "title": "Folge 17 - Das Herbst-Turnier",
+      "author": "Bibi und Tina",
+      "episode_number": 17,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/33/06/bc/3306bcf2-96f8-8f83-6124-d154fe27b150/825646231881.jpg/100x100bb.jpg",
+      "apple_music_id": 1069131770,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2006,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-9630",
@@ -2265,6 +2467,34 @@
       }
     },
     {
+      "id": "ep_875bdcd64db5",
+      "title": "Folge 21 - Felix reißt aus",
+      "author": "Bibi und Tina",
+      "episode_number": 21,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/6e/c1/5f/6ec15f27-79e7-bd6a-5aaf-8b6df8d5a340/825646373352.jpg/100x100bb.jpg",
+      "apple_music_id": 1038226558,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2023,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-5789",
       "title": "Folge 21: Felix reißt aus",
       "author": "Bibi und Tina",
@@ -2288,6 +2518,34 @@
           "appleMusic": "1148115789"
         }
       }
+    },
+    {
+      "id": "ep_756fe6c61641",
+      "title": "Folge 22 - Mikosch kehrt zurück",
+      "author": "Bibi und Tina",
+      "episode_number": 22,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/20/d8/31/20d8318c-8af1-8839-e3c3-30f5ba2b4b41/825646373345.jpg/100x100bb.jpg",
+      "apple_music_id": 1069156543,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2022,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-8238",
@@ -3127,6 +3385,34 @@
       }
     },
     {
+      "id": "ep_4d5dcfdd89e7",
+      "title": "Folge 28 - Die wilde Meute",
+      "author": "Bibi und Tina",
+      "episode_number": 28,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/cf/67/57/cf6757ee-e202-d498-a05d-c7318e004404/825646370191.jpg/100x100bb.jpg",
+      "apple_music_id": 1069214824,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2014,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-4221",
       "title": "Folge 28: Die wilde Meute",
       "author": "Bibi und Tina",
@@ -3150,6 +3436,34 @@
           "appleMusic": "1148114221"
         }
       }
+    },
+    {
+      "id": "ep_0fd8afd5a01b",
+      "title": "Folge 29 - Das sprechende Pferd",
+      "author": "Bibi und Tina",
+      "episode_number": 29,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d6/cb/f6/d6cbf694-a90f-bceb-9e82-a991dcdd2fbb/825646436941.jpg/100x100bb.jpg",
+      "apple_music_id": 1069236089,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2017,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-3316",
@@ -3178,6 +3492,34 @@
       }
     },
     {
+      "id": "ep_1bec1034accd",
+      "title": "Folge 30 - Eine Freundin für Felix",
+      "author": "Bibi und Tina",
+      "episode_number": 30,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3a/00/0e/3a000efb-4496-ee4e-97a9-f26cdac78282/825646370153.jpg/100x100bb.jpg",
+      "apple_music_id": 1038175501,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2015,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-6559",
       "title": "Folge 30: Eine Freundin für Felix",
       "author": "Bibi und Tina",
@@ -3201,6 +3543,34 @@
           "appleMusic": "1148116559"
         }
       }
+    },
+    {
+      "id": "ep_c0a744ee81c3",
+      "title": "Folge 31 - Die Tierärztin",
+      "author": "Bibi und Tina",
+      "episode_number": 31,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e5/7e/6d/e57e6d34-ef17-6b4c-0195-a0fadfed0828/825646436934.jpg/100x100bb.jpg",
+      "apple_music_id": 1069092479,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2007,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-6786",
@@ -3228,6 +3598,34 @@
       }
     },
     {
+      "id": "ep_300169a07865",
+      "title": "Folge 32 - Das Schmusepony",
+      "author": "Bibi und Tina",
+      "episode_number": 32,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/94/8c/9f/948c9fd9-29ca-0ad0-adbc-f508e731dcfe/825646436927.jpg/100x100bb.jpg",
+      "apple_music_id": 1069126559,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2026,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-9252",
       "title": "Folge 32: Das Schmusepony",
       "author": "Bibi und Tina",
@@ -3251,6 +3649,34 @@
           "appleMusic": "1148109252"
         }
       }
+    },
+    {
+      "id": "ep_886802f0ecd6",
+      "title": "Folge 33 - Alex und das Internat",
+      "author": "Bibi und Tina",
+      "episode_number": 33,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4a/0a/07/4a0a0718-9b58-cccf-33b6-6bdc68479c55/825646436910.jpg/100x100bb.jpg",
+      "apple_music_id": 1069165784,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2019,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-6268",
@@ -3303,6 +3729,34 @@
           "appleMusic": "1148112347"
         }
       }
+    },
+    {
+      "id": "ep_b3665a15d23b",
+      "title": "Folge 35 - Die falsche Freundin",
+      "author": "Bibi und Tina",
+      "episode_number": 35,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/38/78/e5/3878e55f-380e-edf1-03b7-8751cbf3543d/825646436873.jpg/100x100bb.jpg",
+      "apple_music_id": 1069228233,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2011,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-0747",
@@ -3701,6 +4155,34 @@
       }
     },
     {
+      "id": "ep_5513d3781f9c",
+      "title": "Folge 39 - Das Findel-Fohlen",
+      "author": "Bibi und Tina",
+      "episode_number": 39,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/39/2e/68/392e684a-6489-556d-b90b-37d8cdc240b6/825646370115.jpg/100x100bb.jpg",
+      "apple_music_id": 1069224346,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2024,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-3391",
       "title": "Folge 39: Das Findel-Fohlen",
       "author": "Bibi und Tina",
@@ -4000,6 +4482,34 @@
           "appleMusic": "1148094247"
         }
       }
+    },
+    {
+      "id": "ep_232bcc3f5a42",
+      "title": "Folge 42 - Die Superponys",
+      "author": "Bibi und Tina",
+      "episode_number": 42,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/67/5b/3d/675b3d22-5d86-2eed-576b-2fb6cd3d980d/825646436859.jpg/100x100bb.jpg",
+      "apple_music_id": 1069160024,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:24",
+      "extra": {
+        "discovery_candidate_id": 2020,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-2874",
@@ -4536,6 +5046,34 @@
           "appleMusic": "1148099186"
         }
       }
+    },
+    {
+      "id": "ep_0368e6e0011f",
+      "title": "Folge 47 - Die Schnitzeljagd-Falle",
+      "author": "Bibi und Tina",
+      "episode_number": 47,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/67/9b/3f/679b3ff2-5762-507f-9cff-140a07bf55d3/825646395590.jpg/100x100bb.jpg",
+      "apple_music_id": 1069139844,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2013,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-1712",
@@ -5529,6 +6067,34 @@
       }
     },
     {
+      "id": "ep_09d93d4c2bae",
+      "title": "Folge 59 - Das kleine Rehkitz",
+      "author": "Bibi und Tina",
+      "episode_number": 59,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d4/04/ff/d404ffc5-b024-5fba-18c7-f691c3eb489c/825646253371.jpg/100x100bb.jpg",
+      "apple_music_id": 1069129624,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2010,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-6672",
       "title": "Folge 59: Das kleine Rehkitz",
       "author": "Bibi und Tina",
@@ -5944,6 +6510,34 @@
       }
     },
     {
+      "id": "ep_9c4717d4efdf",
+      "title": "Folge 67 - Bibi und Tina: Das Tierarztpraktikum",
+      "author": "Bibi und Tina",
+      "episode_number": 67,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/07/77/3707771d-3a72-1433-8d73-dd81c8cb3bcc/825646053292.jpg/100x100bb.jpg",
+      "apple_music_id": 1006689529,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:23",
+      "extra": {
+        "discovery_candidate_id": 2009,
+        "discovery_run_id": 57,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
+    },
+    {
       "id": "bibi-folg-5798",
       "title": "Folge 67: Das Tierarztpraktikum",
       "author": "Bibi und Tina",
@@ -6043,6 +6637,34 @@
           "appleMusic": "1149444700"
         }
       }
+    },
+    {
+      "id": "ep_8f392d800d74",
+      "title": "Folge 71: Falsches Spiel mit Alex",
+      "author": "Bibi und Tina",
+      "episode_number": 71,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/22/2a/15/222a15e3-cce1-13d2-6674-b09430482a84/190295908201.jpg/100x100bb.jpg",
+      "apple_music_id": 1149443362,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:20",
+      "extra": {
+        "discovery_candidate_id": 1853,
+        "discovery_run_id": 56,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-4309",
@@ -9145,6 +9767,34 @@
           "appleMusic": "1581612928"
         }
       }
+    },
+    {
+      "id": "ep_d160983e924f",
+      "title": "Folge 103: Die Schlossrenovierung",
+      "author": "Bibi und Tina",
+      "episode_number": 103,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/2c/fc/592cfc5b-bef8-11d3-5d30-f35480f7475c/190296432309.jpg/100x100bb.jpg",
+      "apple_music_id": 1587025830,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 806,
+        "discovery_run_id": 10,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-folg-2595",
@@ -14795,6 +15445,34 @@
           "appleMusic": "1886730484"
         }
       }
+    },
+    {
+      "id": "ep_4639008855c2",
+      "title": "Folge 125: Im ungarischen Wald",
+      "author": "Bibi und Tina",
+      "episode_number": 125,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/7c/8c/017c8c19-a12e-f91b-2275-3c011cb04dcc/4033694521250.jpg/100x100bb.jpg",
+      "apple_music_id": 6772257590,
+      "status": "active",
+      "sub_franchise_id": 31,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:21",
+      "extra": {
+        "discovery_candidate_id": 1952,
+        "discovery_run_id": 56,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi und Tina",
+          "sub_franchise": "Bibi und Tina"
+        }
+      },
+      "sub_franchise": "Bibi und Tina"
     },
     {
       "id": "bibi-aben-6951",
@@ -21258,5 +21936,5 @@
       }
     }
   ],
-  "episode_count": 181
+  "episode_count": 205
 }

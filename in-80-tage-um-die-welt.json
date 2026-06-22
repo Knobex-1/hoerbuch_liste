@@ -1,0 +1,44 @@
+{
+  "name": "In 80 Tage um die Welt",
+  "slug": "in-80-tage-um-die-welt",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/c6/6c/5bc66c98-ce59-ea5b-f95f-79b8293f417d/cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 119,
+      "name": "In 80 Tage um die Welt",
+      "slug": "in-tage-um-die-welt-in-tage-um-die-welt"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_56d832423859",
+      "title": "In 80 Tagen um die Welt (Das Original-Hörspiel zum Kinofilm)",
+      "author": "In 80 Tage um die Welt",
+      "episode_number": 80,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/c6/6c/5bc66c98-ce59-ea5b-f95f-79b8293f417d/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1590546761,
+      "status": "active",
+      "sub_franchise_id": 119,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:32",
+      "extra": {
+        "discovery_candidate_id": 1674,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.6,
+          "franchise": "In 80 Tage um die Welt",
+          "sub_franchise": "In 80 Tage um die Welt"
+        }
+      },
+      "sub_franchise": "In 80 Tage um die Welt"
+    }
+  ],
+  "episode_count": 1
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Janosch",
+  "slug": "janosch",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/56/16/a7/5616a750-e478-900c-8493-0b9382da6ff0/cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 108,
+      "name": "Janosch",
+      "slug": "janosch-janosch"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_a45250752f14",
+      "title": "Komm, wir finden einen Schatz (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Janosch",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2a/5a/59/2a5a59ef-9f9f-af03-e1b3-4efda3e642c3/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1561985267,
+      "status": "active",
+      "sub_franchise_id": 108,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:32",
+      "extra": {
+        "discovery_candidate_id": 1668,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Janosch",
+          "sub_franchise": "Janosch"
+        }
+      },
+      "sub_franchise": "Janosch"
+    },
+    {
+      "id": "ep_166a81a57387",
+      "title": "Oh, wie schön ist Panama (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Janosch",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/56/16/a7/5616a750-e478-900c-8493-0b9382da6ff0/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1554100644,
+      "status": "active",
+      "sub_franchise_id": 108,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1649,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.5106382978723404,
+          "franchise": "Janosch",
+          "sub_franchise": "Janosch"
+        }
+      },
+      "sub_franchise": "Janosch"
+    }
+  ],
+  "episode_count": 2
+}

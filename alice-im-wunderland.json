@@ -1,0 +1,72 @@
+{
+  "name": "Alice im Wunderland",
+  "slug": "alice-im-wunderland",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/67/73/cc67736f-42b2-1729-e83b-a8710a02eb41/4066339483590.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 64,
+      "name": "Alice im Wunderland",
+      "slug": "alice-im-wunderland-alice-im-wunderland"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_bf25810079f4",
+      "title": "Alice im Wunderland (Das Original-Hörspiel zum Disney Real-Kinofilm)",
+      "author": "Alice im Wunderland",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/67/73/cc67736f-42b2-1729-e83b-a8710a02eb41/4066339483590.jpg/100x100bb.jpg",
+      "apple_music_id": 1686161967,
+      "status": "active",
+      "sub_franchise_id": 64,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:28",
+      "extra": {
+        "discovery_candidate_id": 1559,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.4888888888888889,
+          "franchise": "Alice im Wunderland",
+          "sub_franchise": "Alice im Wunderland"
+        }
+      },
+      "sub_franchise": "Alice im Wunderland"
+    },
+    {
+      "id": "ep_19997392e47d",
+      "title": "Alice im Wunderland - Hinter den Spiegeln (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Alice im Wunderland",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/b3/d3/6bb3d3a2-928e-2936-7dbb-23b15ccb2b6a/4066339483637.jpg/100x100bb.jpg",
+      "apple_music_id": 1686191372,
+      "status": "active",
+      "sub_franchise_id": 64,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1635,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Alice im Wunderland",
+          "sub_franchise": "Alice im Wunderland"
+        }
+      },
+      "sub_franchise": "Alice im Wunderland"
+    }
+  ],
+  "episode_count": 2
+}

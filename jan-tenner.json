@@ -1,0 +1,77 @@
+{
+  "name": "Jan Tenner",
+  "slug": "jan-tenner",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b0/54/5eb05458-4924-4372-e886-45205519a86f/190295345563.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 41,
+      "name": "Hörspielkammer des Schreckens",
+      "slug": "jan-tenner-hörspielkammer-des-schreckens"
+    },
+    {
+      "id": 38,
+      "name": "Jan Tenner",
+      "slug": "jan-tenner-jan-tenner"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_324398a361f6",
+      "title": "Der neue Superheld - Folge 3: Das Hirn des Bösen",
+      "author": "Jan Tenner",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b0/54/5eb05458-4924-4372-e886-45205519a86f/190295345563.jpg/100x100bb.jpg",
+      "apple_music_id": 1480729345,
+      "status": "active",
+      "sub_franchise_id": 38,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 413,
+        "discovery_run_id": 4,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.4827586206896552,
+          "franchise": "Jan Tenner",
+          "sub_franchise": "Jan Tenner"
+        }
+      },
+      "sub_franchise": "Jan Tenner"
+    },
+    {
+      "id": "ep_5d05efe0ead0",
+      "title": "Folge 59: Jan Tenner - Der neue Superheld 3 - Das Hirn des Bösen",
+      "author": "Hörspielkammer des Schreckens",
+      "episode_number": 59,
+      "genres": [
+        "Comedy"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/09/39/d909395b-a537-23be-2637-d2da2aa97385/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1596941953,
+      "status": "active",
+      "sub_franchise_id": 41,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 417,
+        "discovery_run_id": 4,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Jan Tenner",
+          "sub_franchise": "Hörspielkammer des Schreckens"
+        }
+      },
+      "sub_franchise": "Hörspielkammer des Schreckens"
+    }
+  ],
+  "episode_count": 2
+}

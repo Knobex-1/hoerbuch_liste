@@ -1,0 +1,105 @@
+{
+  "name": "100% Wolf",
+  "slug": "100-wolf",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/2f/8c/812f8c93-806c-72af-d7cc-67d7604ccfd8/886448842729.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 48,
+      "name": "100% Wolf",
+      "slug": "wolf-wolf"
+    },
+    {
+      "id": 90,
+      "name": "Otfried Preußler, Anna Thalbach & Wolfgang Hess",
+      "slug": "wolf-otfried-preußler-anna-thalbach-und-wolfgang-hess"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_8361e6bac44c",
+      "title": "200% Wolf (Das Hörspiel zum Kinofilm)",
+      "author": "100% Wolf",
+      "episode_number": 200,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/96/3b/d6963b37-a553-25d5-b3d2-c6e5c223b690/196872211542.jpg/100x100bb.jpg",
+      "apple_music_id": 1759530072,
+      "status": "active",
+      "sub_franchise_id": 48,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:32",
+      "extra": {
+        "discovery_candidate_id": 1671,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "100% Wolf",
+          "sub_franchise": "100% Wolf"
+        }
+      },
+      "sub_franchise": "100% Wolf"
+    },
+    {
+      "id": "ep_8efac38c3cbf",
+      "title": "Das Original Hörspiel zum Kinofilm",
+      "author": "100% Wolf",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/2f/8c/812f8c93-806c-72af-d7cc-67d7604ccfd8/886448842729.jpg/100x100bb.jpg",
+      "apple_music_id": 1571309483,
+      "status": "active",
+      "sub_franchise_id": 48,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 1529,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.4444444444444444,
+          "franchise": "100% Wolf",
+          "sub_franchise": "100% Wolf"
+        }
+      },
+      "sub_franchise": "100% Wolf"
+    },
+    {
+      "id": "ep_9a22d247c1bd",
+      "title": "Das kleine Gespenst - Das Hörspiel zum Kinofilm",
+      "author": "Otfried Preußler, Anna Thalbach & Wolfgang Hess",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ff/58/16/ff5816c8-b33c-a5e9-15bf-d8658967947b/4057664535771_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1460369563,
+      "status": "active",
+      "sub_franchise_id": 90,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:30",
+      "extra": {
+        "discovery_candidate_id": 1606,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "100% Wolf",
+          "sub_franchise": "Otfried Preußler, Anna Thalbach & Wolfgang Hess"
+        }
+      },
+      "sub_franchise": "Otfried Preußler, Anna Thalbach & Wolfgang Hess"
+    }
+  ],
+  "episode_count": 3
+}

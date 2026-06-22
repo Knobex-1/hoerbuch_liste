@@ -1,0 +1,72 @@
+{
+  "name": "Niko Hörspiel",
+  "slug": "niko-h-rspiel",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/ad/40/41ad406f-d35d-a1e0-a5bc-8c9995e8d10e/4099995714968_cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 133,
+      "name": "Niko Hörspiel",
+      "slug": "niko-hörspiel-niko-hörspiel"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_55eb868354d3",
+      "title": "Niko - Ein Rentier hebt ab (Original-Hörspiel zum Kinofilm 1)",
+      "author": "Niko Hörspiel",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/51/93/865193f0-d972-cec4-bccf-581c96c1ba7b/4099995582017_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1756746030,
+      "status": "active",
+      "sub_franchise_id": 133,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1695,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Niko Hörspiel",
+          "sub_franchise": "Niko Hörspiel"
+        }
+      },
+      "sub_franchise": "Niko Hörspiel"
+    },
+    {
+      "id": "ep_356994c41978",
+      "title": "Niko - Reise zu den Polarlichtern (Original-Hörspiel zum Kinofilm 3)",
+      "author": "Niko Hörspiel",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/ad/40/41ad406f-d35d-a1e0-a5bc-8c9995e8d10e/4099995714968_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1765333036,
+      "status": "active",
+      "sub_franchise_id": 133,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1691,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.7142857142857143,
+          "franchise": "Niko Hörspiel",
+          "sub_franchise": "Niko Hörspiel"
+        }
+      },
+      "sub_franchise": "Niko Hörspiel"
+    }
+  ],
+  "episode_count": 2
+}

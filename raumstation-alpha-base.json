@@ -3,7 +3,266 @@
   "slug": "raumstation-alpha-base",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [],
-  "episodes": [],
-  "episode_count": 0
+  "sub_franchises": [
+    {
+      "id": 29,
+      "name": "Raumstation Alpha-Base",
+      "slug": "raumstation-alpha-base-raumstation-alpha-base"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_9cd4b37376ab",
+      "title": "Folge 01: Sprung durch den Sektor",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/c7/05/ec/c705ec7b-0bf6-3231-a5f7-4eee8f479915/4250064604645_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 845368698,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1816,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    },
+    {
+      "id": "ep_2102980fbe5e",
+      "title": "Folge 04: Kontakt",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 4,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d2/61/67/d26167e3-73ad-cd7c-4523-539619106263/4250064604928_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 845186324,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1815,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    },
+    {
+      "id": "ep_8d544efa55ce",
+      "title": "Folge 05: Das letzte Lebenszeichen",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 5,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/0d/0b/34/0d0b34de-019c-f010-4aee-523d1f6ab89e/4250064604935_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 845199610,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1819,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    },
+    {
+      "id": "ep_a3648fb79609",
+      "title": "Folge 06: Die Romani",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 6,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/82/26/a5/8226a50a-1ca1-1f76-b953-fa673615bf3d/4250064605161_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 845227479,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1820,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    },
+    {
+      "id": "ep_e3147a2a905f",
+      "title": "Folge 07: Der Untergang der Alpha-Base",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 7,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/8e/da/cf/8edacf75-fe31-f463-7d14-c4d0b0634349/4250064605178_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 845242481,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1817,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    },
+    {
+      "id": "ep_0b916aea4c6f",
+      "title": "Folge 08: Feind",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 8,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1f/cf/bc/1fcfbc8a-a565-d9e2-1054-abe8e0c74242/4250064605376_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 848317908,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1823,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    },
+    {
+      "id": "ep_0a8f131ac734",
+      "title": "Folge 09: Attentäter",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 9,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/30/94/52/30945289-db64-f7fe-a918-d2298e9058fa/4250064605499_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 845263483,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1821,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    },
+    {
+      "id": "ep_cabcdb9735a7",
+      "title": "Folge 10.1: Kampf um Zulu",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 10,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/10/f4/6b/10f46bc5-1269-0a2b-7dc2-2291e79326af/4250064605505_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 845268697,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1822,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    },
+    {
+      "id": "ep_74a6f10f41b7",
+      "title": "Folge 10.2: Kampf um Zulu",
+      "author": "Raumstation Alpha-Base",
+      "episode_number": 10,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1e/7f/9c/1e7f9cda-599a-8af7-a2cd-3973bee53720/4250064605765_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 845277091,
+      "status": "active",
+      "sub_franchise_id": 29,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:51",
+      "extra": {
+        "discovery_candidate_id": 1818,
+        "discovery_run_id": 38,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Raumstation Alpha-Base",
+          "sub_franchise": "Raumstation Alpha-Base"
+        }
+      },
+      "sub_franchise": "Raumstation Alpha-Base"
+    }
+  ],
+  "episode_count": 9
 }

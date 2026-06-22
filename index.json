@@ -3,32 +3,32 @@
     {
       "name": "Die drei ???",
       "slug": "die-drei-???",
-      "episode_count": 438,
-      "sub_franchise_count": 0
+      "episode_count": 478,
+      "sub_franchise_count": 2
     },
     {
       "name": "TKKG",
       "slug": "tkkg",
-      "episode_count": 281,
-      "sub_franchise_count": 0
+      "episode_count": 292,
+      "sub_franchise_count": 1
     },
     {
       "name": "Bibi Blocksberg",
       "slug": "bibi-blocksberg",
-      "episode_count": 233,
-      "sub_franchise_count": 0
+      "episode_count": 241,
+      "sub_franchise_count": 1
     },
     {
       "name": "Sherlock Holmes",
       "slug": "sherlock-holmes",
-      "episode_count": 143,
-      "sub_franchise_count": 0
+      "episode_count": 378,
+      "sub_franchise_count": 12
     },
     {
       "name": "Fünf Freunde",
       "slug": "fuenf-freunde",
-      "episode_count": 191,
-      "sub_franchise_count": 0
+      "episode_count": 209,
+      "sub_franchise_count": 3
     },
     {
       "name": "Krimis von der Küste",
@@ -39,7 +39,7 @@
     {
       "name": "Mark Brandis",
       "slug": "mark-brandis",
-      "episode_count": 45,
+      "episode_count": 54,
       "sub_franchise_count": 2
     },
     {
@@ -69,8 +69,8 @@
     {
       "name": "Raumstation Alpha-Base",
       "slug": "raumstation-alpha-base",
-      "episode_count": 0,
-      "sub_franchise_count": 0
+      "episode_count": 9,
+      "sub_franchise_count": 1
     },
     {
       "name": "Die großen Meister des Horrors",
@@ -81,8 +81,8 @@
     {
       "name": "Per Anhalter durch die Galaxis",
       "slug": "per-anhalter-durch-die-galaxis",
-      "episode_count": 0,
-      "sub_franchise_count": 0
+      "episode_count": 2,
+      "sub_franchise_count": 1
     },
     {
       "name": "Alfred Hitchcock präsentiert",
@@ -105,8 +105,8 @@
     {
       "name": "Bibi und Tina",
       "slug": "bibi-und-tina",
-      "episode_count": 181,
-      "sub_franchise_count": 0
+      "episode_count": 205,
+      "sub_franchise_count": 1
     },
     {
       "name": "Die Eiskönigin",
@@ -117,8 +117,8 @@
     {
       "name": "Spidey Hörspiel",
       "slug": "spidey-hoerspiel",
-      "episode_count": 2,
-      "sub_franchise_count": 0
+      "episode_count": 23,
+      "sub_franchise_count": 1
     },
     {
       "name": "Torsten Sträter",
@@ -219,8 +219,8 @@
     {
       "name": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
       "slug": "michelle-madow,-fantasy-hoerbuecher-&-hoerbuch-bestseller",
-      "episode_count": 3,
-      "sub_franchise_count": 0
+      "episode_count": 6,
+      "sub_franchise_count": 1
     },
     {
       "name": "Kai Magnus Sting",
@@ -243,8 +243,8 @@
     {
       "name": "John Sinclair",
       "slug": "john-sinclair",
-      "episode_count": 154,
-      "sub_franchise_count": 0
+      "episode_count": 263,
+      "sub_franchise_count": 1
     },
     {
       "name": "Weitere Titel",
@@ -257,8 +257,596 @@
       "slug": "fraktal",
       "episode_count": 8,
       "sub_franchise_count": 1
+    },
+    {
+      "name": "Alvin und die Chipmunks",
+      "slug": "alvin-und-die-chipmunks",
+      "episode_count": 4,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Jurassic World - Neue Abenteuer",
+      "slug": "jurassic-world-neue-abenteuer",
+      "episode_count": 7,
+      "sub_franchise_count": 2
+    },
+    {
+      "name": "Hui Buh neue Welt",
+      "slug": "hui-buh-neue-welt",
+      "episode_count": 5,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Neue Welten",
+      "slug": "neue-welten",
+      "episode_count": 2,
+      "sub_franchise_count": 2
+    },
+    {
+      "name": "Hanni und Nanni",
+      "slug": "hanni-und-nanni",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Jan Tenner",
+      "slug": "jan-tenner",
+      "episode_count": 2,
+      "sub_franchise_count": 2
+    },
+    {
+      "name": "Truschel der kleine Geisterhund",
+      "slug": "truschel-der-kleine-geisterhund",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Husch-Puscheli",
+      "slug": "husch-puscheli",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Beliebte Märchen",
+      "slug": "beliebte-m-rchen",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "The Dreamer",
+      "slug": "the-dreamer",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Tommy und seine Freunde",
+      "slug": "tommy-und-seine-freunde",
+      "episode_count": 2,
+      "sub_franchise_count": 2
+    },
+    {
+      "name": "Captain Blitz und seine Freunde",
+      "slug": "captain-blitz-und-seine-freunde",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Freunde WG",
+      "slug": "freunde-wg",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Der tierische Kindergarten",
+      "slug": "der-tierische-kindergarten",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "100% Wolf",
+      "slug": "100-wolf",
+      "episode_count": 3,
+      "sub_franchise_count": 2
+    },
+    {
+      "name": "Pets",
+      "slug": "pets",
+      "episode_count": 3,
+      "sub_franchise_count": 2
+    },
+    {
+      "name": "Michael Ende",
+      "slug": "michael-ende",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Hotel Transsilvanien",
+      "slug": "hotel-transsilvanien",
+      "episode_count": 3,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Ich - Einfach unverbesserlich",
+      "slug": "ich-einfach-unverbesserlich",
+      "episode_count": 4,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Sing",
+      "slug": "sing",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Madagascar",
+      "slug": "madagascar",
+      "episode_count": 4,
+      "sub_franchise_count": 2
+    },
+    {
+      "name": "Minions",
+      "slug": "minions",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Drachenzähmen leicht gemacht",
+      "slug": "drachenz-hmen-leicht-gemacht",
+      "episode_count": 3,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Die Schule der magischen Tiere",
+      "slug": "die-schule-der-magischen-tiere",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Trolls",
+      "slug": "trolls",
+      "episode_count": 3,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Aladdin",
+      "slug": "aladdin",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Kung Fu Panda",
+      "slug": "kung-fu-panda",
+      "episode_count": 4,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "High School Musical",
+      "slug": "high-school-musical",
+      "episode_count": 3,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Wendy",
+      "slug": "wendy",
+      "episode_count": 3,
+      "sub_franchise_count": 2
+    },
+    {
+      "name": "Alice im Wunderland",
+      "slug": "alice-im-wunderland",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Shaun das Schaf",
+      "slug": "shaun-das-schaf",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Lauras Stern",
+      "slug": "lauras-stern",
+      "episode_count": 4,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Otfried Preußler, Ursula Illert & Der Räuber Hotzenplotz - Hörspiele",
+      "slug": "otfried-preu-ler-ursula-illert-der-r-uber-hotzenplotz-h-rspiele",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Die Schlümpfe",
+      "slug": "die-schl-mpfe",
+      "episode_count": 4,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Angry Birds",
+      "slug": "angry-birds",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Die Schöne und das Biest",
+      "slug": "die-sch-ne-und-das-biest",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Feuerwehrmann Sam",
+      "slug": "feuerwehrmann-sam",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Mia and Me",
+      "slug": "mia-and-me",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Der König der Löwen",
+      "slug": "der-k-nig-der-l-wen",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Woodwalkers",
+      "slug": "woodwalkers",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Jim Knopf Und Lukas Der Lokomotivführer",
+      "slug": "jim-knopf-und-lukas-der-lokomotivf-hrer",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Prinzessin Lillifee",
+      "slug": "prinzessin-lillifee",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Ekkehardt \"Ekki\" Belle & Die Olchis",
+      "slug": "ekkehardt-ekki-belle-die-olchis",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Cinderella",
+      "slug": "cinderella",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Timur Vermes",
+      "slug": "timur-vermes",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Ritter Rost",
+      "slug": "ritter-rost",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Shrek",
+      "slug": "shrek",
+      "episode_count": 4,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Spirit",
+      "slug": "spirit",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Boss Baby",
+      "slug": "boss-baby",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "bayala",
+      "slug": "bayala",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Barbie",
+      "slug": "barbie",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Käpt'n Sharky",
+      "slug": "k-pt-n-sharky",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Die wilden Kerle",
+      "slug": "die-wilden-kerle",
+      "episode_count": 6,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Pirates of the Caribbean",
+      "slug": "pirates-of-the-caribbean",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Die Biene Maja",
+      "slug": "die-biene-maja",
+      "episode_count": 3,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Mary Poppins Hörspiel",
+      "slug": "mary-poppins-h-rspiel",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Tabaluga",
+      "slug": "tabaluga",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Peter Kaempfe & Der kleine Vampir",
+      "slug": "peter-kaempfe-der-kleine-vampir",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Hüter des Lichts",
+      "slug": "h-ter-des-lichts",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Bora Dagtekin",
+      "slug": "bora-dagtekin",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Hannah Montana Hörspiel",
+      "slug": "hannah-montana-h-rspiel",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Peter Weis, Noah Levi & Senta Berger",
+      "slug": "peter-weis-noah-levi-senta-berger",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Der Gestiefelte Kater",
+      "slug": "der-gestiefelte-kater",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Lilo & Stitch",
+      "slug": "lilo-stitch",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Arielle die Meerjungfrau",
+      "slug": "arielle-die-meerjungfrau",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Cruella",
+      "slug": "cruella",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Mulan",
+      "slug": "mulan",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Peterchens Mondfahrt",
+      "slug": "peterchens-mondfahrt",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Paddington",
+      "slug": "paddington",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Pumuckl",
+      "slug": "pumuckl",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Janosch",
+      "slug": "janosch",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Willi wills wissen",
+      "slug": "willi-wills-wissen",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "David Safier",
+      "slug": "david-safier",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Everest",
+      "slug": "everest",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Dumbo",
+      "slug": "dumbo",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Home - Ein Smektakulärer Trip",
+      "slug": "home-ein-smektakul-rer-trip",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "TRON",
+      "slug": "tron",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Elliot, der Drache",
+      "slug": "elliot-der-drache",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Die Heinzels",
+      "slug": "die-heinzels",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Bo und der Weihnachtsstern",
+      "slug": "bo-und-der-weihnachtsstern",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Die Gangster Gang",
+      "slug": "die-gangster-gang",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "In 80 Tage um die Welt",
+      "slug": "in-80-tage-um-die-welt",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Der wilde Roboter",
+      "slug": "der-wilde-roboter",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Hape Kerkeling & Horst Schlämmer",
+      "slug": "hape-kerkeling-horst-schl-mmer",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Camp Rock",
+      "slug": "camp-rock",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Das Duell der Magier",
+      "slug": "das-duell-der-magier",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Gabby's Dollhouse",
+      "slug": "gabby-s-dollhouse",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Sandra Keck, Hedda Erlebach & Michael Mittermeier",
+      "slug": "sandra-keck-hedda-erlebach-michael-mittermeier",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Ooops",
+      "slug": "ooops",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Prince Of Persia - Der Sand der Zeit",
+      "slug": "prince-of-persia-der-sand-der-zeit",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Felix-Ein Hase auf Weltreise",
+      "slug": "felix-ein-hase-auf-weltreise",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Latte Igel",
+      "slug": "latte-igel",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Niko Hörspiel",
+      "slug": "niko-h-rspiel",
+      "episode_count": 2,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Maurice der Kater",
+      "slug": "maurice-der-kater",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Teen Beach Movie Hörspiel",
+      "slug": "teen-beach-movie-h-rspiel",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Robbi & Tobbi und das Fliewatüüt",
+      "slug": "robbi-tobbi-und-das-fliewat-t",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Die fantastische Welt von Oz",
+      "slug": "die-fantastische-welt-von-oz",
+      "episode_count": 1,
+      "sub_franchise_count": 1
+    },
+    {
+      "name": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort",
+      "slug": "leonie-beckenbach-tim-oliver-schultz-luise-befort",
+      "episode_count": 1,
+      "sub_franchise_count": 1
     }
   ],
-  "total_franchises": 43,
-  "total_episodes": 2896
+  "total_franchises": 141,
+  "total_episodes": 3555
 }

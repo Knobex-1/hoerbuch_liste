@@ -1,0 +1,105 @@
+{
+  "name": "Wendy",
+  "slug": "wendy",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/85/87/598587b6-9111-a90d-4a21-87105233e18c/4057664364562.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 121,
+      "name": "Peter Pan",
+      "slug": "wendy-peter-pan"
+    },
+    {
+      "id": 63,
+      "name": "Wendy",
+      "slug": "wendy-wendy"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_1ac91f25b1a1",
+      "title": "Wendy 2 (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Wendy",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/85/87/598587b6-9111-a90d-4a21-87105233e18c/4057664364562.jpg/100x100bb.jpg",
+      "apple_music_id": 1686023135,
+      "status": "active",
+      "sub_franchise_id": 63,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:28",
+      "extra": {
+        "discovery_candidate_id": 1557,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.4,
+          "franchise": "Wendy",
+          "sub_franchise": "Wendy"
+        }
+      },
+      "sub_franchise": "Wendy"
+    },
+    {
+      "id": "ep_6b3589bb37c6",
+      "title": "Peter Pan & Wendy (Hörspiel zum Disney Real-Kinofilm)",
+      "author": "Peter Pan",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/f8/81/86f881fb-d9af-0234-1692-dfe322e887c0/4066339743526.jpg/100x100bb.jpg",
+      "apple_music_id": 1686453218,
+      "status": "active",
+      "sub_franchise_id": 121,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:32",
+      "extra": {
+        "discovery_candidate_id": 1676,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Wendy",
+          "sub_franchise": "Peter Pan"
+        }
+      },
+      "sub_franchise": "Peter Pan"
+    },
+    {
+      "id": "ep_eb32953cefab",
+      "title": "Wendy (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Wendy",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/61/2f/06612f3a-ef0f-a7cb-d6f7-e65a7a97c8d5/4057664078926.jpg/100x100bb.jpg",
+      "apple_music_id": 1686026362,
+      "status": "active",
+      "sub_franchise_id": 63,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1585,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Wendy",
+          "sub_franchise": "Wendy"
+        }
+      },
+      "sub_franchise": "Wendy"
+    }
+  ],
+  "episode_count": 3
+}

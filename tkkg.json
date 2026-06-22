@@ -3,7 +3,13 @@
   "slug": "tkkg",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [],
+  "sub_franchises": [
+    {
+      "id": 12,
+      "name": "TKKG",
+      "slug": "tkkg-tkkg"
+    }
+  ],
   "episodes": [
     {
       "id": "tkkg-folg-8273",
@@ -48102,6 +48108,34 @@
       }
     },
     {
+      "id": "ep_ddf4871c3940",
+      "title": "TKKG 164 - Operation Hexen-Graffiti",
+      "author": "TKKG",
+      "episode_number": 164,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/3b/f1/31/mzi.anxiotce.jpg/100x100bb.jpg",
+      "apple_music_id": 314343718,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:22",
+      "extra": {
+        "discovery_candidate_id": 594,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
       "id": "tkkg-folg-6810",
       "title": "Folge 165: Advent mit Knall-Effekt",
       "author": "Stefan Wolf",
@@ -57718,6 +57752,34 @@
       }
     },
     {
+      "id": "ep_f1700d968194",
+      "title": "Folge 196: Tatort Wagenburg",
+      "author": "TKKG",
+      "episode_number": 196,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/e1/8c/90/e18c90cc-95c4-80f2-1ea4-6387b2f7c283/886446058658.jpg/100x100bb.jpg",
+      "apple_music_id": 1148959439,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 442,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
       "id": "tkkg-folg-1615",
       "title": "Folge 197: Bei Anpfiff Übergabe",
       "author": "Stefan Wolf",
@@ -60907,6 +60969,34 @@
       }
     },
     {
+      "id": "ep_2058dc9910ac",
+      "title": "Folge 206: Achtung, UFO-Kult!",
+      "author": "TKKG",
+      "episode_number": 206,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b2/13/a0/b213a01f-850e-6436-9dd7-c6854ea05019/886446920689.jpg/100x100bb.jpg",
+      "apple_music_id": 1371388955,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 479,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
       "id": "tkkg-folg-1082",
       "title": "Folge 207: Doppelte Entführung",
       "author": "Stefan Wolf",
@@ -61828,6 +61918,34 @@
           "appleMusic": "1449473902"
         }
       }
+    },
+    {
+      "id": "ep_4221b5cae45b",
+      "title": "Folge 210: Raubzug im Casino",
+      "author": "TKKG",
+      "episode_number": 210,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/da/2c/8cda2ccc-622f-59b6-2bbe-afc8047b72e8/886447380130.jpg/100x100bb.jpg",
+      "apple_music_id": 1454389428,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 456,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-folg-9029",
@@ -71734,6 +71852,34 @@
       }
     },
     {
+      "id": "ep_66e54a092c4d",
+      "title": "Folge 242: Verbrechen live im Radio",
+      "author": "TKKG",
+      "episode_number": 242,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/d8/86/92d886a9-ce19-1463-c5a9-33df177cacba/196873691923.jpg/100x100bb.jpg",
+      "apple_music_id": 6768256832,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 424,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
       "id": "1438615063",
       "title": "001/Scary Sleepover",
       "author": "Stefan Wolf",
@@ -73435,6 +73581,62 @@
       }
     },
     {
+      "id": "ep_fca117fcb698",
+      "title": "Auch Gauner feiern Weihnachten (Adventskalender)",
+      "author": "TKKG",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/9e/79/619e798f-9225-9546-c6e8-d37d1416bd64/196872196528.jpg/100x100bb.jpg",
+      "apple_music_id": 1751888366,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:23",
+      "extra": {
+        "discovery_candidate_id": 595,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
+      "id": "ep_17bde6852e78",
+      "title": "Das Geheimnis um TKKG (Neuaufnahme)",
+      "author": "TKKG",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/94/b5/5894b57e-2e1f-de5b-7c59-45303d30280d/886447519189.jpg/100x100bb.jpg",
+      "apple_music_id": 1450498987,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 439,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
       "id": "1734654620",
       "title": "Die Fußball-Lüge",
       "author": "Stefan Wolf",
@@ -73589,6 +73791,62 @@
       }
     },
     {
+      "id": "ep_89ac8d93775e",
+      "title": "Die Weihnachtsgeiseln (Adventskalender)",
+      "author": "TKKG",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/9e/63/769e63a5-94e3-9e91-a98a-41b218c0edf2/196873459561.jpg/100x100bb.jpg",
+      "apple_music_id": 1841358699,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 471,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
+      "id": "ep_0a560a207da5",
+      "title": "Ein fast perfektes Weihnachtsmenü",
+      "author": "TKKG",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e9/4e/43/e94e432f-96cd-aa8b-8ed5-532c4ba3167c/886446992037.jpg/100x100bb.jpg",
+      "apple_music_id": 1434672470,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 466,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
       "id": "tkkg-krim-5860",
       "title": "Krimi-Box 15 (Folgen 126,136,169)",
       "author": "Stefan Wolf",
@@ -73700,6 +73958,62 @@
           "appleMusic": "971755860"
         }
       }
+    },
+    {
+      "id": "ep_24897846247e",
+      "title": "Morgen kommt das Weihnachtsgrauen (Adventskalender)",
+      "author": "TKKG",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/89/e0/7889e001-8248-ac91-c626-f7a884c61187/886449128891.jpg/100x100bb.jpg",
+      "apple_music_id": 1559714078,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 455,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
+    },
+    {
+      "id": "ep_eda28247d227",
+      "title": "Schreckliche Weihnacht überall (Adventskalender)",
+      "author": "TKKG",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/c4/20/33c420d2-6881-c0cc-2456-676d659dd693/886449404261.jpg/100x100bb.jpg",
+      "apple_music_id": 1590344047,
+      "status": "active",
+      "sub_franchise_id": 12,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:21",
+      "extra": {
+        "discovery_candidate_id": 444,
+        "discovery_run_id": 6,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "TKKG",
+          "sub_franchise": "TKKG"
+        }
+      },
+      "sub_franchise": "TKKG"
     },
     {
       "id": "tkkg-kino1",
@@ -74079,5 +74393,5 @@
       }
     }
   ],
-  "episode_count": 281
+  "episode_count": 292
 }

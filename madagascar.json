@@ -1,0 +1,133 @@
+{
+  "name": "Madagascar",
+  "slug": "madagascar",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/87/8f/4e878fd6-692e-587d-dfc8-f69783528a49/cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 71,
+      "name": "Die Pinguine aus Madagascar",
+      "slug": "madagascar-die-pinguine-aus-madagascar"
+    },
+    {
+      "id": 54,
+      "name": "Madagascar",
+      "slug": "madagascar-madagascar"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_5f39d3878279",
+      "title": "Madagascar 2 (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Madagascar 2",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f0/84/c1f084cc-be08-68c7-dce4-4b0706f6d453/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1475823251,
+      "status": "active",
+      "sub_franchise_id": 54,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1574,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Madagascar",
+          "sub_franchise": "Madagascar"
+        }
+      },
+      "sub_franchise": "Madagascar"
+    },
+    {
+      "id": "ep_d7bb9b163351",
+      "title": "Die Pinguine aus Madagascar (Das Original Hörspiel zum Kinofilm)",
+      "author": "Die Pinguine aus Madagascar",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/6d/d4/8a6dd445-98eb-c970-d79b-bd45614d4418/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1553499150,
+      "status": "active",
+      "sub_franchise_id": 71,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1577,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Madagascar",
+          "sub_franchise": "Die Pinguine aus Madagascar"
+        }
+      },
+      "sub_franchise": "Die Pinguine aus Madagascar"
+    },
+    {
+      "id": "ep_762b225c3605",
+      "title": "Flucht durch Europa (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Madagascar",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/56/60/1a/56601a61-6b16-a880-f9fd-eb00e69076ee/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1554128063,
+      "status": "active",
+      "sub_franchise_id": 54,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:30",
+      "extra": {
+        "discovery_candidate_id": 1613,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Madagascar",
+          "sub_franchise": "Madagascar"
+        }
+      },
+      "sub_franchise": "Madagascar"
+    },
+    {
+      "id": "ep_a57e0987adf4",
+      "title": "Madagascar (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Madagascar",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/87/8f/4e878fd6-692e-587d-dfc8-f69783528a49/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1477954934,
+      "status": "active",
+      "sub_franchise_id": 54,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:28",
+      "extra": {
+        "discovery_candidate_id": 1538,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.45161290322580644,
+          "franchise": "Madagascar",
+          "sub_franchise": "Madagascar"
+        }
+      },
+      "sub_franchise": "Madagascar"
+    }
+  ],
+  "episode_count": 4
+}

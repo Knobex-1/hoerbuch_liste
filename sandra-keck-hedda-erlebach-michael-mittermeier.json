@@ -1,0 +1,44 @@
+{
+  "name": "Sandra Keck, Hedda Erlebach & Michael Mittermeier",
+  "slug": "sandra-keck-hedda-erlebach-michael-mittermeier",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/2d/d0/f72dd0b9-0fb2-538e-eeb0-5c2f8dcd1bd4/4057664535788_cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 127,
+      "name": "Sandra Keck, Hedda Erlebach & Michael Mittermeier",
+      "slug": "sandra-keck-hedda-erlebach-und-michael-mittermeier-sandra-keck-hedda-erlebach-und-michael-mittermeier"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_f8855b615e8c",
+      "title": "Hexe Lilli rettet Weihnachten - Das Hörspiel zum Kinofilm",
+      "author": "Sandra Keck, Hedda Erlebach & Michael Mittermeier",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/2d/d0/f72dd0b9-0fb2-538e-eeb0-5c2f8dcd1bd4/4057664535788_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1460376601,
+      "status": "active",
+      "sub_franchise_id": 127,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:32",
+      "extra": {
+        "discovery_candidate_id": 1682,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.42857142857142855,
+          "franchise": "Sandra Keck, Hedda Erlebach & Michael Mittermeier",
+          "sub_franchise": "Sandra Keck, Hedda Erlebach & Michael Mittermeier"
+        }
+      },
+      "sub_franchise": "Sandra Keck, Hedda Erlebach & Michael Mittermeier"
+    }
+  ],
+  "episode_count": 1
+}

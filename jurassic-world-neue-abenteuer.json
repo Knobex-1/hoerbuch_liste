@@ -1,0 +1,217 @@
+{
+  "name": "Jurassic World - Neue Abenteuer",
+  "slug": "jurassic-world-neue-abenteuer",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/a4/a3/79a4a307-b933-43af-50ba-2ca714e03c85/cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 60,
+      "name": "Jurassic World",
+      "slug": "jurassic-world-neue-abenteuer-jurassic-world"
+    },
+    {
+      "id": 33,
+      "name": "Jurassic World - Neue Abenteuer",
+      "slug": "jurassic-world-neue-abenteuer-jurassic-world-neue-abenteuer"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_e9847146f258",
+      "title": "Jurassic World 2 - Das gefallene Königreich (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Jurassic World",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/8f/f6/588ff6ac-11d9-c5a6-2a67-10f189149c12/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1472016186,
+      "status": "active",
+      "sub_franchise_id": 60,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:28",
+      "extra": {
+        "discovery_candidate_id": 1568,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Jurassic World - Neue Abenteuer",
+          "sub_franchise": "Jurassic World"
+        }
+      },
+      "sub_franchise": "Jurassic World"
+    },
+    {
+      "id": "ep_9ef4ade9bbfd",
+      "title": "Jurassic World: Die Wiedergeburt (Das Original-Hörspiel zum 4. Kinofilm)",
+      "author": "Jurassic World",
+      "episode_number": 4,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/f0/e9/91f0e966-5088-aac9-c6ea-8375cd4046ca/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1829954322,
+      "status": "active",
+      "sub_franchise_id": 60,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:30",
+      "extra": {
+        "discovery_candidate_id": 1631,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Jurassic World - Neue Abenteuer",
+          "sub_franchise": "Jurassic World"
+        }
+      },
+      "sub_franchise": "Jurassic World"
+    },
+    {
+      "id": "ep_f1986f066d25",
+      "title": "Folge 24: Das letzte Gefecht / Die glorreichen Sechs (Das Original Hörspiel zur TV-Serie)",
+      "author": "Jurassic World - Neue Abenteuer",
+      "episode_number": 24,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/a4/a3/79a4a307-b933-43af-50ba-2ca714e03c85/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1640899733,
+      "status": "active",
+      "sub_franchise_id": 33,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 405,
+        "discovery_run_id": 4,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.45714285714285713,
+          "franchise": "Jurassic World - Neue Abenteuer",
+          "sub_franchise": "Jurassic World - Neue Abenteuer"
+        }
+      },
+      "sub_franchise": "Jurassic World - Neue Abenteuer"
+    },
+    {
+      "id": "ep_53437223d428",
+      "title": "Ein neues Zeitalter (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Jurassic World",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/10/ca/c610caba-ec55-8ef9-fe01-7b72b185d0dd/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1634785923,
+      "status": "active",
+      "sub_franchise_id": 60,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1590,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Jurassic World - Neue Abenteuer",
+          "sub_franchise": "Jurassic World"
+        }
+      },
+      "sub_franchise": "Jurassic World"
+    },
+    {
+      "id": "ep_62ccd49b8b39",
+      "title": "Jurassic Park (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Jurassic World",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/70/0f/47/700f47f3-d1f1-f2c7-1e63-36ab66005e0d/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1628674319,
+      "status": "active",
+      "sub_franchise_id": 60,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1576,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Jurassic World - Neue Abenteuer",
+          "sub_franchise": "Jurassic World"
+        }
+      },
+      "sub_franchise": "Jurassic World"
+    },
+    {
+      "id": "ep_03ce091d0ad6",
+      "title": "Jurassic Park - Vergessene Welt (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Jurassic World",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/62/72/c66272c4-5b06-ccb0-80da-d34bf78270ff/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1628776428,
+      "status": "active",
+      "sub_franchise_id": 60,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1634,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Jurassic World - Neue Abenteuer",
+          "sub_franchise": "Jurassic World"
+        }
+      },
+      "sub_franchise": "Jurassic World"
+    },
+    {
+      "id": "ep_a9502eb90b84",
+      "title": "Jurassic World (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Jurassic World",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/a9/d3/3ea9d3b5-a38a-9be1-60b5-6e84c930ae80/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1555486652,
+      "status": "active",
+      "sub_franchise_id": 60,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:28",
+      "extra": {
+        "discovery_candidate_id": 1553,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Jurassic World - Neue Abenteuer",
+          "sub_franchise": "Jurassic World"
+        }
+      },
+      "sub_franchise": "Jurassic World"
+    }
+  ],
+  "episode_count": 7
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Truschel der kleine Geisterhund",
+  "slug": "truschel-der-kleine-geisterhund",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/98/6f/33986f20-6fe8-0fdc-ba69-0caa6d653e92/4260507174048_3000.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 39,
+      "name": "Truschel der kleine Geisterhund",
+      "slug": "truschel-der-kleine-geisterhund-truschel-der-kleine-geisterhund"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_dce32d4e7a23",
+      "title": "Folge 3: Alte Geister und neue Freunde",
+      "author": "Truschel der kleine Geisterhund",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/98/6f/33986f20-6fe8-0fdc-ba69-0caa6d653e92/4260507174048_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1623129809,
+      "status": "active",
+      "sub_franchise_id": 39,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 415,
+        "discovery_run_id": 4,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.48,
+          "franchise": "Truschel der kleine Geisterhund",
+          "sub_franchise": "Truschel der kleine Geisterhund"
+        }
+      },
+      "sub_franchise": "Truschel der kleine Geisterhund"
+    }
+  ],
+  "episode_count": 1
+}

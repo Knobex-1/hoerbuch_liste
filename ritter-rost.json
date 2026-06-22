@@ -1,0 +1,72 @@
+{
+  "name": "Ritter Rost",
+  "slug": "ritter-rost",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/c4/3c/46/c43c4646-200c-f6a5-e292-7dc0a51d70e2/886446238852.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 81,
+      "name": "Ritter Rost",
+      "slug": "ritter-rost-ritter-rost"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_83577228a5c9",
+      "title": "Das Original-Hörspiel zum Kinofilm 2: Das Schrottkomplott",
+      "author": "Ritter Rost",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/c4/3c/46/c43c4646-200c-f6a5-e292-7dc0a51d70e2/886446238852.jpg/100x100bb.jpg",
+      "apple_music_id": 1193158413,
+      "status": "active",
+      "sub_franchise_id": 81,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1591,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.5,
+          "franchise": "Ritter Rost",
+          "sub_franchise": "Ritter Rost"
+        }
+      },
+      "sub_franchise": "Ritter Rost"
+    },
+    {
+      "id": "ep_47980cfe72e6",
+      "title": "Das Original-Hörspiel zum Kinofilm",
+      "author": "Ritter Rost",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/bd/2f/95bd2faf-bb42-98dc-eef4-13b80c4b369d/886445578379.jpg/100x100bb.jpg",
+      "apple_music_id": 1116206226,
+      "status": "active",
+      "sub_franchise_id": 81,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1646,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Ritter Rost",
+          "sub_franchise": "Ritter Rost"
+        }
+      },
+      "sub_franchise": "Ritter Rost"
+    }
+  ],
+  "episode_count": 2
+}

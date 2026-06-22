@@ -1,0 +1,44 @@
+{
+  "name": "Die Schöne und das Biest",
+  "slug": "die-sch-ne-und-das-biest",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/8c/b2/f18cb220-913d-98a9-5c7d-0cb829240936/4066339467989.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 70,
+      "name": "Die Schöne und das Biest",
+      "slug": "die-schöne-und-das-biest-die-schöne-und-das-biest"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_1c71ab8357c0",
+      "title": "Die Schöne und das Biest (Hörspiel zum Disney Real-Kinofilm)",
+      "author": "Die Schöne und das Biest",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/8c/b2/f18cb220-913d-98a9-5c7d-0cb829240936/4066339467989.jpg/100x100bb.jpg",
+      "apple_music_id": 1686163046,
+      "status": "active",
+      "sub_franchise_id": 70,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1573,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.5128205128205128,
+          "franchise": "Die Schöne und das Biest",
+          "sub_franchise": "Die Schöne und das Biest"
+        }
+      },
+      "sub_franchise": "Die Schöne und das Biest"
+    }
+  ],
+  "episode_count": 1
+}

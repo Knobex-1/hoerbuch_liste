@@ -1,0 +1,72 @@
+{
+  "name": "Die Gangster Gang",
+  "slug": "die-gangster-gang",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/bd/da/ffbdda4c-08ac-a535-40c6-23527869dcbb/cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 118,
+      "name": "Die Gangster Gang",
+      "slug": "die-gangster-gang-die-gangster-gang"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_10ddf545b305",
+      "title": "Die Gangster-Gang 2 (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Die Gangster Gang",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/bd/da/ffbdda4c-08ac-a535-40c6-23527869dcbb/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1882979663,
+      "status": "active",
+      "sub_franchise_id": 118,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:32",
+      "extra": {
+        "discovery_candidate_id": 1673,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.46808510638297873,
+          "franchise": "Die Gangster Gang",
+          "sub_franchise": "Die Gangster Gang"
+        }
+      },
+      "sub_franchise": "Die Gangster Gang"
+    },
+    {
+      "id": "ep_06038a7b20f0",
+      "title": "Die Gangster Gang (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Die Gangster Gang",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/ca/9810cab6-8c84-c866-df99-f833c6e7a3a4/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1877189748,
+      "status": "active",
+      "sub_franchise_id": 118,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:32",
+      "extra": {
+        "discovery_candidate_id": 1686,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Die Gangster Gang",
+          "sub_franchise": "Die Gangster Gang"
+        }
+      },
+      "sub_franchise": "Die Gangster Gang"
+    }
+  ],
+  "episode_count": 2
+}

@@ -3,7 +3,70 @@
   "slug": "per-anhalter-durch-die-galaxis",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [],
-  "episodes": [],
-  "episode_count": 0
+  "sub_franchises": [
+    {
+      "id": 30,
+      "name": "Per Anhalter durch die Galaxis",
+      "slug": "per-anhalter-durch-die-galaxis-per-anhalter-durch-die-galaxis"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_897538820e04",
+      "title": "Per Anhalter durch die Galaxis 2 - Das Leben, das Universum und der ganze Rest / Mach's gut und danke für den Fisch",
+      "author": "Per Anhalter durch die Galaxis",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/09/d9/e9/09d9e99f-951b-1a7f-fc86-a1c161fca3fc/9783844510218_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 929578066,
+      "status": "active",
+      "sub_franchise_id": 30,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:02",
+      "extra": {
+        "discovery_candidate_id": 1825,
+        "discovery_run_id": 44,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Per Anhalter durch die Galaxis",
+          "sub_franchise": "Per Anhalter durch die Galaxis"
+        }
+      },
+      "sub_franchise": "Per Anhalter durch die Galaxis"
+    },
+    {
+      "id": "ep_3b914e389378",
+      "title": "Per Anhalter durch die Galaxis. Das Restaurant am Ende des Universums",
+      "author": "Per Anhalter durch die Galaxis",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/97/b8/4d/97b84d77-5d3e-028f-38bf-3fd18c5276c9/9783844505627_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 929614203,
+      "status": "active",
+      "sub_franchise_id": 30,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:02",
+      "extra": {
+        "discovery_candidate_id": 1824,
+        "discovery_run_id": 44,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Per Anhalter durch die Galaxis",
+          "sub_franchise": "Per Anhalter durch die Galaxis"
+        }
+      },
+      "sub_franchise": "Per Anhalter durch die Galaxis"
+    }
+  ],
+  "episode_count": 2
 }

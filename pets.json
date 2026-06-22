@@ -1,0 +1,105 @@
+{
+  "name": "Pets",
+  "slug": "pets",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/0a/59/400a594e-f140-33b1-0518-2c7af45acf0d/4057664206077.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 132,
+      "name": "Die Muppets",
+      "slug": "pets-die-muppets"
+    },
+    {
+      "id": 49,
+      "name": "Pets",
+      "slug": "pets-pets"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_0af969d6efa0",
+      "title": "Pets 2 - Das Original-Hörspiel zum Kinofilm",
+      "author": "Pets",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/9b/0a/fb9b0afd-e597-07ff-356a-88cfa93c4f66/4057664660947.jpg/100x100bb.jpg",
+      "apple_music_id": 1686043027,
+      "status": "active",
+      "sub_franchise_id": 49,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:28",
+      "extra": {
+        "discovery_candidate_id": 1558,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Pets",
+          "sub_franchise": "Pets"
+        }
+      },
+      "sub_franchise": "Pets"
+    },
+    {
+      "id": "ep_c436b946901f",
+      "title": "Muppets Most Wanted (Hörspiel zum Kinofilm)",
+      "author": "Die Muppets",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/5a/65/615a6577-3256-3b90-2549-f7db3b3de8e7/4066339483217.jpg/100x100bb.jpg",
+      "apple_music_id": 1685996277,
+      "status": "active",
+      "sub_franchise_id": 132,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1689,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Pets",
+          "sub_franchise": "Die Muppets"
+        }
+      },
+      "sub_franchise": "Die Muppets"
+    },
+    {
+      "id": "ep_4338139211aa",
+      "title": "Pets (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Pets",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/0a/59/400a594e-f140-33b1-0518-2c7af45acf0d/4057664206077.jpg/100x100bb.jpg",
+      "apple_music_id": 1686013818,
+      "status": "active",
+      "sub_franchise_id": 49,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:27",
+      "extra": {
+        "discovery_candidate_id": 1530,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.4,
+          "franchise": "Pets",
+          "sub_franchise": "Pets"
+        }
+      },
+      "sub_franchise": "Pets"
+    }
+  ],
+  "episode_count": 3
+}

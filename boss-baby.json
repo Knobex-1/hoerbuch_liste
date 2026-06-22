@@ -1,0 +1,72 @@
+{
+  "name": "Boss Baby",
+  "slug": "boss-baby",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/31/7d/da/317ddadd-e4f1-1e2d-cdba-661b70d23bb3/cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 85,
+      "name": "Boss Baby",
+      "slug": "boss-baby-boss-baby"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_ef94e0ed2dc9",
+      "title": "Boss Baby 2 - Schluss mit Kindergarten (Das Original Hörspiel zum Kinofilm)",
+      "author": "Boss Baby",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c0/6f/b0/c06fb0b7-9136-724c-a109-571c51dd22b4/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1588694719,
+      "status": "active",
+      "sub_franchise_id": 85,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:30",
+      "extra": {
+        "discovery_candidate_id": 1609,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Boss Baby",
+          "sub_franchise": "Boss Baby"
+        }
+      },
+      "sub_franchise": "Boss Baby"
+    },
+    {
+      "id": "ep_e6b96bbb7a3a",
+      "title": "Boss Baby (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Boss Baby",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/31/7d/da/317ddadd-e4f1-1e2d-cdba-661b70d23bb3/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1556718859,
+      "status": "active",
+      "sub_franchise_id": 85,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1598,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.3333333333333333,
+          "franchise": "Boss Baby",
+          "sub_franchise": "Boss Baby"
+        }
+      },
+      "sub_franchise": "Boss Baby"
+    }
+  ],
+  "episode_count": 2
+}

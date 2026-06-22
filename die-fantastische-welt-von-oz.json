@@ -1,0 +1,44 @@
+{
+  "name": "Die fantastische Welt von Oz",
+  "slug": "die-fantastische-welt-von-oz",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/f4/df/83f4dfc6-1f67-75dd-6c99-5ed71992a606/4066339483316.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 137,
+      "name": "Die fantastische Welt von Oz",
+      "slug": "die-fantastische-welt-von-oz-die-fantastische-welt-von-oz"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_8c668fcd3770",
+      "title": "Die fantastische Welt von Oz (Das Original-Hörspiel zum Kinofilm)",
+      "author": "Die fantastische Welt von Oz",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/f4/df/83f4dfc6-1f67-75dd-6c99-5ed71992a606/4066339483316.jpg/100x100bb.jpg",
+      "apple_music_id": 1686161027,
+      "status": "active",
+      "sub_franchise_id": 137,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1697,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.4888888888888889,
+          "franchise": "Die fantastische Welt von Oz",
+          "sub_franchise": "Die fantastische Welt von Oz"
+        }
+      },
+      "sub_franchise": "Die fantastische Welt von Oz"
+    }
+  ],
+  "episode_count": 1
+}

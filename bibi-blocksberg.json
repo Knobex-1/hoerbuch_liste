@@ -3,8 +3,42 @@
   "slug": "bibi-blocksberg",
   "description": "Test",
   "cover_url": "",
-  "sub_franchises": [],
+  "sub_franchises": [
+    {
+      "id": 13,
+      "name": "Bibi Blocksberg",
+      "slug": "bibi-blocksberg-bibi-blocksberg"
+    }
+  ],
   "episodes": [
+    {
+      "id": "ep_2b6505e8a90b",
+      "title": "Folge 1 - Hexen gibt es doch",
+      "author": "Bibi Blocksberg",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/07/ca/ab07cad4-65cf-ebdc-1703-aad302be7bdd/825646394982.jpg/100x100bb.jpg",
+      "apple_music_id": 1038165554,
+      "status": "active",
+      "sub_franchise_id": 13,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:31",
+      "extra": {
+        "discovery_candidate_id": 803,
+        "discovery_run_id": 10,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi Blocksberg",
+          "sub_franchise": "Bibi Blocksberg"
+        }
+      },
+      "sub_franchise": "Bibi Blocksberg"
+    },
     {
       "id": "bibi-folg-9999",
       "title": "Folge 1: Hexen gibt es doch",
@@ -456,6 +490,34 @@
       }
     },
     {
+      "id": "ep_44a4240ba4db",
+      "title": "Folge 3 - Die Zauberlimonade",
+      "author": "Bibi Blocksberg",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/c0/59/abc05989-69c9-9b02-4453-2d236f805c43/825646437344.jpg/100x100bb.jpg",
+      "apple_music_id": 1038190000,
+      "status": "active",
+      "sub_franchise_id": 13,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:31",
+      "extra": {
+        "discovery_candidate_id": 811,
+        "discovery_run_id": 10,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi Blocksberg",
+          "sub_franchise": "Bibi Blocksberg"
+        }
+      },
+      "sub_franchise": "Bibi Blocksberg"
+    },
+    {
       "id": "bibi-engl-4208",
       "title": "Englisch lernen mit Bibi Blocksberg - Folge 4 - Verhexte Feste",
       "author": "Elfie Donnelly",
@@ -600,6 +662,34 @@
           "appleMusic": "1143560812"
         }
       }
+    },
+    {
+      "id": "ep_f2537d1b1835",
+      "title": "Folge 5 - Ein verhexter Urlaub",
+      "author": "Bibi Blocksberg",
+      "episode_number": 5,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e6/5c/bd/e65cbd05-2521-57f7-d74d-2e7233145873/825646437290.jpg/100x100bb.jpg",
+      "apple_music_id": 1069133821,
+      "status": "active",
+      "sub_franchise_id": 13,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:31",
+      "extra": {
+        "discovery_candidate_id": 797,
+        "discovery_run_id": 10,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi Blocksberg",
+          "sub_franchise": "Bibi Blocksberg"
+        }
+      },
+      "sub_franchise": "Bibi Blocksberg"
     },
     {
       "id": "bibi-folg-3702",
@@ -5130,6 +5220,34 @@
       }
     },
     {
+      "id": "ep_d870c1de3c82",
+      "title": "Folge 77 - Bibi Blocksberg im Hexeninternat",
+      "author": "Bibi Blocksberg",
+      "episode_number": 77,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/8e/0a/35/8e0a3579-58c9-abe3-298d-cd7bb5bb74c6/825646395767.jpg/100x100bb.jpg",
+      "apple_music_id": 1069223798,
+      "status": "active",
+      "sub_franchise_id": 13,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:31",
+      "extra": {
+        "discovery_candidate_id": 809,
+        "discovery_run_id": 10,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi Blocksberg",
+          "sub_franchise": "Bibi Blocksberg"
+        }
+      },
+      "sub_franchise": "Bibi Blocksberg"
+    },
+    {
       "id": "bibi-folg-6547",
       "title": "Folge 78: und Elea Eluanda",
       "author": "Elfie Donnelly",
@@ -5883,6 +6001,34 @@
       }
     },
     {
+      "id": "ep_6fdc701ccf08",
+      "title": "Folge 108 - Der Familienausflug (inkl. Bonustrack)",
+      "author": "Bibi Blocksberg",
+      "episode_number": 108,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/2f/fc/3c/2ffc3cf9-1273-0b33-9153-f895fb01aba2/825646373147.jpg/100x100bb.jpg",
+      "apple_music_id": 1038229201,
+      "status": "active",
+      "sub_franchise_id": 13,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:31",
+      "extra": {
+        "discovery_candidate_id": 796,
+        "discovery_run_id": 10,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi Blocksberg",
+          "sub_franchise": "Bibi Blocksberg"
+        }
+      },
+      "sub_franchise": "Bibi Blocksberg"
+    },
+    {
       "id": "bibi-folg-2687",
       "title": "Folge 108: Der Familienausflug",
       "author": "Elfie Donnelly",
@@ -6463,6 +6609,34 @@
           "appleMusic": "1209996974"
         }
       }
+    },
+    {
+      "id": "ep_7d1533684977",
+      "title": "Folge 121: Der neue Schulgarten",
+      "author": "Bibi Blocksberg",
+      "episode_number": 121,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/c5/8f/f3c58fd6-9313-495f-d6f8-099aab948f46/190295581954.jpg/100x100bb.jpg",
+      "apple_music_id": 1408763839,
+      "status": "active",
+      "sub_franchise_id": 13,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:27",
+      "extra": {
+        "discovery_candidate_id": 760,
+        "discovery_run_id": 9,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi Blocksberg",
+          "sub_franchise": "Bibi Blocksberg"
+        }
+      },
+      "sub_franchise": "Bibi Blocksberg"
     },
     {
       "id": "bibi-folg-9747",
@@ -16373,6 +16547,34 @@
       }
     },
     {
+      "id": "ep_df4ab1840fc9",
+      "title": "Folge 165: Die doppelte Klassenfahrt",
+      "author": "Bibi Blocksberg",
+      "episode_number": 165,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/33/71/f433712d-8232-506e-3113-1148fb313982/4033694556658.jpg/100x100bb.jpg",
+      "apple_music_id": 6772208931,
+      "status": "active",
+      "sub_franchise_id": 13,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:26",
+      "extra": {
+        "discovery_candidate_id": 621,
+        "discovery_run_id": 9,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi Blocksberg",
+          "sub_franchise": "Bibi Blocksberg"
+        }
+      },
+      "sub_franchise": "Bibi Blocksberg"
+    },
+    {
       "id": "bibi-adve-6434",
       "title": "Adventskalender: Die leuchtenden Hexsterne",
       "author": "Elfie Donnelly",
@@ -18282,6 +18484,34 @@
           "appleMusic": "1069195838"
         }
       }
+    },
+    {
+      "id": "ep_1063505fa9c4",
+      "title": "Ferienspaß mit Bibi (inkl. dem Lied \"Hexenferien\")",
+      "author": "Bibi Blocksberg",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/16/f4/01/16f401c7-a287-c592-c38b-c0a994f1a7a2/825646573424.jpg/100x100bb.jpg",
+      "apple_music_id": 537028827,
+      "status": "active",
+      "sub_franchise_id": 13,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:34",
+      "extra": {
+        "discovery_candidate_id": 812,
+        "discovery_run_id": 11,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Bibi Blocksberg",
+          "sub_franchise": "Bibi Blocksberg"
+        }
+      },
+      "sub_franchise": "Bibi Blocksberg"
     },
     {
       "id": "bibi-hrsp-8853",
@@ -26966,5 +27196,5 @@
       }
     }
   ],
-  "episode_count": 233
+  "episode_count": 241
 }

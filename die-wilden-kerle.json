@@ -1,0 +1,184 @@
+{
+  "name": "Die wilden Kerle",
+  "slug": "die-wilden-kerle",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/59/f1/8859f143-af3f-7da2-37b4-cf29ec8dbd07/4066338327239_cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 89,
+      "name": "Die wilden Kerle",
+      "slug": "die-wilden-kerle-die-wilden-kerle"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_75dcb856da52",
+      "title": "Die wilden Kerle 1 - Das Hörspiel zum Kinofilm",
+      "author": "Die wilden Kerle",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/59/f1/8859f143-af3f-7da2-37b4-cf29ec8dbd07/4066338327239_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1589989284,
+      "status": "active",
+      "sub_franchise_id": 89,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:30",
+      "extra": {
+        "discovery_candidate_id": 1605,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.4782608695652174,
+          "franchise": "Die wilden Kerle",
+          "sub_franchise": "Die wilden Kerle"
+        }
+      },
+      "sub_franchise": "Die wilden Kerle"
+    },
+    {
+      "id": "ep_47f170fa4d6b",
+      "title": "Die wilden Kerle 2 - Das Hörspiel zum Kinofilm",
+      "author": "Die wilden Kerle",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/2c/6d/8f2c6dc2-6446-e7b6-005d-74f5d56b843b/4066338327321_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1589989824,
+      "status": "active",
+      "sub_franchise_id": 89,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1636,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Die wilden Kerle",
+          "sub_franchise": "Die wilden Kerle"
+        }
+      },
+      "sub_franchise": "Die wilden Kerle"
+    },
+    {
+      "id": "ep_8b9a3191cbef",
+      "title": "Die wilden Kerle 3 - Das Hörspiel zum Kinofilm",
+      "author": "Die wilden Kerle",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/19/ff/fa19ff61-c0ad-f6fb-1d0f-a4a71ddac2b6/4066338327345_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1589991136,
+      "status": "active",
+      "sub_franchise_id": 89,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1637,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Die wilden Kerle",
+          "sub_franchise": "Die wilden Kerle"
+        }
+      },
+      "sub_franchise": "Die wilden Kerle"
+    },
+    {
+      "id": "ep_cfdd0e77f2fa",
+      "title": "Die wilden Kerle 4 - Das Hörspiel zum Kinofilm",
+      "author": "Die wilden Kerle",
+      "episode_number": 4,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/06/54/6d/06546d20-8411-3347-3c3e-1d34d48b763f/4066338327451_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1589982198,
+      "status": "active",
+      "sub_franchise_id": 89,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1656,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Die wilden Kerle",
+          "sub_franchise": "Die wilden Kerle"
+        }
+      },
+      "sub_franchise": "Die wilden Kerle"
+    },
+    {
+      "id": "ep_5642f0405023",
+      "title": "Die wilden Kerle 5 - Das Hörspiel zum Kinofilm",
+      "author": "Die wilden Kerle",
+      "episode_number": 5,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/fa/a3/a1faa321-78b8-1dee-da32-fcd75db7d9a2/4066338327505_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1589988986,
+      "status": "active",
+      "sub_franchise_id": 89,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1655,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Die wilden Kerle",
+          "sub_franchise": "Die wilden Kerle"
+        }
+      },
+      "sub_franchise": "Die wilden Kerle"
+    },
+    {
+      "id": "ep_4cc4e184552a",
+      "title": "Die wilden Kerle 6 - Die Legende lebt - Das Hörspiel zum Kinofilm",
+      "author": "Die wilden Kerle",
+      "episode_number": 6,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/dd/64/c3dd640f-2b6d-ba18-33a3-20da17790c41/4066338327512_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1589996688,
+      "status": "active",
+      "sub_franchise_id": 89,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:33",
+      "extra": {
+        "discovery_candidate_id": 1688,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Die wilden Kerle",
+          "sub_franchise": "Die wilden Kerle"
+        }
+      },
+      "sub_franchise": "Die wilden Kerle"
+    }
+  ],
+  "episode_count": 6
+}

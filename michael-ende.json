@@ -1,0 +1,44 @@
+{
+  "name": "Michael Ende",
+  "slug": "michael-ende",
+  "description": "",
+  "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a1/b0/ada1b06d-fce1-745a-de93-63fe7c0cabeb/4069828712973_cover.jpg/100x100bb.jpg",
+  "sub_franchises": [
+    {
+      "id": 50,
+      "name": "Michael Ende",
+      "slug": "michael-ende-michael-ende"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ep_7097fdab7d04",
+      "title": "Momo – Das Hörspiel zum Kinofilm (Das Hörspiel zum Film)",
+      "author": "Michael Ende",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a1/b0/ada1b06d-fce1-745a-de93-63fe7c0cabeb/4069828712973_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1837244852,
+      "status": "active",
+      "sub_franchise_id": 50,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:28",
+      "extra": {
+        "discovery_candidate_id": 1531,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "created",
+          "confidence": 0.5217391304347826,
+          "franchise": "Michael Ende",
+          "sub_franchise": "Michael Ende"
+        }
+      },
+      "sub_franchise": "Michael Ende"
+    }
+  ],
+  "episode_count": 1
+}

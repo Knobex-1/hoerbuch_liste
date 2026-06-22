@@ -3,7 +3,23 @@
   "slug": "fuenf-freunde",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [],
+  "sub_franchises": [
+    {
+      "id": 26,
+      "name": "Fünf Freunde",
+      "slug": "fünf-freunde-fünf-freunde"
+    },
+    {
+      "id": 27,
+      "name": "Fünf Freunde Junior",
+      "slug": "fünf-freunde-fünf-freunde-junior"
+    },
+    {
+      "id": 28,
+      "name": "Gigantosaurus",
+      "slug": "fünf-freunde-gigantosaurus"
+    }
+  ],
   "episodes": [
     {
       "id": "fnff-folg-1782",
@@ -2965,6 +2981,34 @@
       }
     },
     {
+      "id": "ep_8a8756b3fe73",
+      "title": "Folge 3: Timmy, der Meisterdetektiv/Der vermisste Hund",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/b1/33/b6b133a8-3fb3-423f-2538-325e3d3edc46/196871326681.jpg/100x100bb.jpg",
+      "apple_music_id": 1719276554,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1408,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
       "id": "fnff-folg-9163",
       "title": "Folge 3: und das Burgverlies",
       "author": "Enid Blyton",
@@ -3581,6 +3625,34 @@
       }
     },
     {
+      "id": "ep_e7b50c4472d3",
+      "title": "Folge 4: Das geheimnisvolle Geräusch/Der verlorene Schatz",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 4,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/72/81/ba72815b-7b13-5ee4-07d5-556dd9a5bd0a/196871556460.jpg/100x100bb.jpg",
+      "apple_music_id": 1727725801,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1409,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
       "id": "fnff-folg-4334",
       "title": "Folge 4: als Retter in der Not",
       "author": "Enid Blyton",
@@ -3887,6 +3959,34 @@
           "appleMusic": "1002464334"
         }
       }
+    },
+    {
+      "id": "ep_48887c092a0c",
+      "title": "Folge 5: Das Geburtstags-Abenteuer/Gefahr auf den Klippen",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 5,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/62/20/8e622012-6ff0-5ab2-23e4-670800ad2302/196871673549.jpg/100x100bb.jpg",
+      "apple_music_id": 1738037766,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1413,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
     },
     {
       "id": "fnff-folg-6878",
@@ -4198,6 +4298,34 @@
       }
     },
     {
+      "id": "ep_6219b6d6ed61",
+      "title": "Folge 6: Die Suche nach dem Rennpferd/Der verschwundene Preis",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 6,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/15/a2/2c15a224-2fe8-0bb7-aa98-39816c1aa83a/196872195590.jpg/100x100bb.jpg",
+      "apple_music_id": 1751497267,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1411,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
       "id": "fnff-folg-2476",
       "title": "Folge 6: helfen ihrem Kameraden",
       "author": "Enid Blyton",
@@ -4504,6 +4632,90 @@
           "appleMusic": "1002512476"
         }
       }
+    },
+    {
+      "id": "ep_a370990beb2a",
+      "title": "Folge 7: Das Ungeheuer von Lorness/Die entführten Tierbabys",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 7,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/a4/33/b5a433b6-b0c8-cb79-a28d-d356c14b3033/196872211856.jpg/100x100bb.jpg",
+      "apple_music_id": 1758927712,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1412,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
+      "id": "ep_9d2f5a8c68af",
+      "title": "Folge 8: Die verschwundenen Weihnachtspäckchen/Das Geheimnis der alten Villa",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 8,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/d7/45/cdd745d0-6575-a45f-9f99-8307a6d1a98c/196872211870.jpg/100x100bb.jpg",
+      "apple_music_id": 1773272793,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1415,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
+      "id": "ep_eec4e07bbbcf",
+      "title": "Folge 9: Rettung für Timmy/Sternenfreunde mit Spürnase",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 9,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/a6/9e/d9a69ee4-a7c8-cd05-9304-1fdd67fbf8b9/196872390827.jpg/100x100bb.jpg",
+      "apple_music_id": 1785836494,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1416,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
     },
     {
       "id": "fnff-folg-0083",
@@ -4814,6 +5026,90 @@
       }
     },
     {
+      "id": "ep_86d88dfc486e",
+      "title": "Folge 10: Ein aufregender Waldausflug/Die gestohlene Buchseite",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 10,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/84/65/8084652f-11b7-099c-c3d2-e7cae5043552/196872543933.jpg/100x100bb.jpg",
+      "apple_music_id": 1794748725,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1414,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
+      "id": "ep_924de5cbce0c",
+      "title": "Folge 11: Die fünf Freunde (Das Original-Hörspiel zur TV-Serie)",
+      "author": "Gigantosaurus",
+      "episode_number": 11,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/f4/91/81f49102-01a5-7f4b-3f04-2cec15cbad01/cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1628651489,
+      "status": "active",
+      "sub_franchise_id": 28,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1422,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Gigantosaurus"
+        }
+      },
+      "sub_franchise": "Gigantosaurus"
+    },
+    {
+      "id": "ep_029781a86da0",
+      "title": "Folge 11: Die geraubte Rose/Die verdächtigen Vogelzähler",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 11,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/4b/94/fb4b9426-da46-30d9-2d53-849188ccaee2/196872731781.jpg/100x100bb.jpg",
+      "apple_music_id": 1807058489,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1418,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
       "id": "fnff-folg-7473",
       "title": "Folge 11: geraten in Schwierigkeiten",
       "author": "Enid Blyton",
@@ -5120,6 +5416,34 @@
           "appleMusic": "1002557473"
         }
       }
+    },
+    {
+      "id": "ep_88938c16bdda",
+      "title": "Folge 12: Die große Schatzsuche/Die rätselhaften Futterdiebe",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 12,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/e6/0a/91e60ad1-cbcf-5755-62cf-997d3eeece27/196872872132.jpg/100x100bb.jpg",
+      "apple_music_id": 1825352536,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1419,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
     },
     {
       "id": "fnff-folg-4694",
@@ -5430,6 +5754,34 @@
       }
     },
     {
+      "id": "ep_79af8d19d93e",
+      "title": "Folge 13: Der Schneemann-Wettbewerb/Wal in Not",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 13,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/b1/9a/dbb19acd-fb56-6e49-6e02-19000161eec5/196872985504.jpg/100x100bb.jpg",
+      "apple_music_id": 1827912581,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1417,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
       "id": "fnff-folg-4222",
       "title": "Folge 13: jagen die Entführer",
       "author": "Enid Blyton",
@@ -5738,6 +6090,34 @@
       }
     },
     {
+      "id": "ep_0eb1215a46d3",
+      "title": "Folge 14: Der Dinosaurierknochen/Das Hundeturnier",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 14,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/43/f9/9943f99d-23cf-5687-4ddc-a7ba95f3e6b0/196873236698.jpg/100x100bb.jpg",
+      "apple_music_id": 1841619646,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1420,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
+    },
+    {
       "id": "fnff-folg-6979",
       "title": "Folge 14: machen eine Entdeckung",
       "author": "Enid Blyton",
@@ -6044,6 +6424,34 @@
           "appleMusic": "1002566979"
         }
       }
+    },
+    {
+      "id": "ep_01fa02b43e01",
+      "title": "Folge 15: Das Fußball-Kidnapping/Die mysteriöse Nagelspur",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 15,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/1d/b8/4b1db8ad-8a7b-4c1e-08e3-d3f0f8c4c469/196873391250.jpg/100x100bb.jpg",
+      "apple_music_id": 1853834316,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1421,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
     },
     {
       "id": "fnff-folg-2920",
@@ -6660,6 +7068,34 @@
           "appleMusic": "1002543718"
         }
       }
+    },
+    {
+      "id": "ep_2347949ffa0f",
+      "title": "Folge 16: Ärger auf der Farm/Das Gemälde-Rätsel",
+      "author": "Fünf Freunde Junior",
+      "episode_number": 16,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/c8/3c/28c83cb3-8c22-5d72-2d4a-de45bb0fe14b/196873860756.jpg/100x100bb.jpg",
+      "apple_music_id": 1875255857,
+      "status": "active",
+      "sub_franchise_id": 27,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:59",
+      "extra": {
+        "discovery_candidate_id": 1423,
+        "discovery_run_id": 16,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde Junior"
+        }
+      },
+      "sub_franchise": "Fünf Freunde Junior"
     },
     {
       "id": "fnff-folg-7875",
@@ -29455,6 +29891,34 @@
       }
     },
     {
+      "id": "ep_ae12b8c43abb",
+      "title": "Folge 92: auf der Insel der Seeräuber",
+      "author": "Fünf Freunde",
+      "episode_number": 92,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/b8/87/f4/b887f4b2-edfe-0f98-ac2a-3298150dc5a8/886445158960.jpg/100x100bb.jpg",
+      "apple_music_id": 1002458852,
+      "status": "active",
+      "sub_franchise_id": 26,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:56",
+      "extra": {
+        "discovery_candidate_id": 1328,
+        "discovery_run_id": 15,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde"
+        }
+      },
+      "sub_franchise": "Fünf Freunde"
+    },
+    {
       "id": "fnff-folg-3832",
       "title": "Folge 93: und das Geheimnis des Winterwaldes",
       "author": "Enid Blyton",
@@ -32534,6 +32998,34 @@
           "appleMusic": "1002491981"
         }
       }
+    },
+    {
+      "id": "ep_3d3d9bc51d24",
+      "title": "Folge 103: und die giftigen Feuerquallen",
+      "author": "Fünf Freunde",
+      "episode_number": 103,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/9c/e6/82/9ce6824f-12a9-ad44-f3b2-31fea025a28a/886445160710.jpg/100x100bb.jpg",
+      "apple_music_id": 1002495973,
+      "status": "active",
+      "sub_franchise_id": 26,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:55",
+      "extra": {
+        "discovery_candidate_id": 1255,
+        "discovery_run_id": 15,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde"
+        }
+      },
+      "sub_franchise": "Fünf Freunde"
     },
     {
       "id": "fnff-folg-0785",
@@ -48317,6 +48809,34 @@
       }
     },
     {
+      "id": "ep_34ee10ef147c",
+      "title": "Folge 162: und die Legende vom versteckten Sohn",
+      "author": "Fünf Freunde",
+      "episode_number": 162,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/10/c2/f310c2bd-42c3-9e80-2f1b-efb71cba66f4/196872211900.jpg/100x100bb.jpg",
+      "apple_music_id": 1761129434,
+      "status": "active",
+      "sub_franchise_id": 26,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:13:55",
+      "extra": {
+        "discovery_candidate_id": 1283,
+        "discovery_run_id": 15,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Fünf Freunde",
+          "sub_franchise": "Fünf Freunde"
+        }
+      },
+      "sub_franchise": "Fünf Freunde"
+    },
+    {
       "id": "fnff-folg-5550",
       "title": "Folge 163: und das Rätsel um das Ufo",
       "author": "Enid Blyton",
@@ -53486,5 +54006,5 @@
       }
     }
   ],
-  "episode_count": 191
+  "episode_count": 209
 }

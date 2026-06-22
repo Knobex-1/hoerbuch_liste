@@ -661,6 +661,34 @@
       "sub_franchise": "Mark Brandis"
     },
     {
+      "id": "ep_aea5cd788c70",
+      "title": "Hörspielbox 1 - Bürgerkrieg und Aufbruch (Folgen 01-12)",
+      "author": "Mark Brandis",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/73/a1/2c73a1fa-c6e9-ac44-f212-86ee96aaa1d3/4066338330215.jpg/100x100bb.jpg",
+      "apple_music_id": 1686166424,
+      "status": "active",
+      "sub_franchise_id": 6,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1488,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis"
+        }
+      },
+      "sub_franchise": "Mark Brandis"
+    },
+    {
       "id": "mark-02ve-5905",
       "title": "02: Verloren im All",
       "author": "Mark Brandis",
@@ -1305,6 +1333,34 @@
       "sub_franchise": "Mark Brandis"
     },
     {
+      "id": "ep_5f67da496e50",
+      "title": "Hörspielbox, Vol. 2 - Über Grenzen",
+      "author": "Mark Brandis - Raumkadett",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c9/40/56/c9405647-fc6a-1f99-f446-b30ae0a44576/4057664893147.jpg/100x100bb.jpg",
+      "apple_music_id": 1685832113,
+      "status": "active",
+      "sub_franchise_id": 5,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1489,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.85,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis Raumkadett"
+        }
+      },
+      "sub_franchise": "Mark Brandis Raumkadett"
+    },
+    {
       "id": "mark-03ta-7126",
       "title": "03: Tatort Astronautenschule",
       "author": "Mark Brandis",
@@ -1931,6 +1987,34 @@
         "narrator": "Various",
         "platforms": {
           "appleMusic": "1686251357"
+        }
+      },
+      "sub_franchise": "Mark Brandis"
+    },
+    {
+      "id": "ep_e4b280d094e9",
+      "title": "Hörspielbox 3 - Raumnotretter im Einsatz (Folgen 24 - 32)",
+      "author": "Mark Brandis",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/64/ad/55/64ad55b2-83da-fd4a-6d4e-43090d8220ff/4066338330222.jpg/100x100bb.jpg",
+      "apple_music_id": 1686165986,
+      "status": "active",
+      "sub_franchise_id": 6,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1487,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis"
         }
       },
       "sub_franchise": "Mark Brandis"
@@ -4827,6 +4911,34 @@
       "sub_franchise": "Mark Brandis"
     },
     {
+      "id": "ep_fd0ba7f4a9cc",
+      "title": "09 + 10: Raumsonde Epsilon",
+      "author": "Mark Brandis",
+      "episode_number": 9,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/23/d6/b923d66d-452f-4766-9947-96f4f23c7502/4057664049711.jpg/100x100bb.jpg",
+      "apple_music_id": 1685874404,
+      "status": "active",
+      "sub_franchise_id": 6,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1483,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis"
+        }
+      },
+      "sub_franchise": "Mark Brandis"
+    },
+    {
       "id": "mark-09en-8483",
       "title": "09: Endstation Pallas",
       "author": "Mark Brandis",
@@ -5991,6 +6103,34 @@
         "narrator": "Various",
         "platforms": {
           "appleMusic": "1686299409"
+        }
+      },
+      "sub_franchise": "Mark Brandis"
+    },
+    {
+      "id": "ep_ca80a6b6e893",
+      "title": "11 + 12: Die Vollstrecker",
+      "author": "Mark Brandis",
+      "episode_number": 11,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/59/09/3c5909a3-cfab-dae1-073a-ec3c16252a49/4057664055491.jpg/100x100bb.jpg",
+      "apple_music_id": 1685894776,
+      "status": "active",
+      "sub_franchise_id": 6,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1485,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis"
         }
       },
       "sub_franchise": "Mark Brandis"
@@ -8340,6 +8480,34 @@
       "sub_franchise": "Mark Brandis"
     },
     {
+      "id": "ep_3e7448f1bc8a",
+      "title": "17 + 18: Alarm für die Erde",
+      "author": "Mark Brandis",
+      "episode_number": 17,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/23/8e/d2238e24-4ace-f79d-0fe0-320730f98b6f/4057664049476.jpg/100x100bb.jpg",
+      "apple_music_id": 1685862128,
+      "status": "active",
+      "sub_franchise_id": 6,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1481,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis"
+        }
+      },
+      "sub_franchise": "Mark Brandis"
+    },
+    {
       "id": "mark-17al-0493",
       "title": "17: Alarm für die Erde 1",
       "author": "Mark Brandis",
@@ -8900,6 +9068,34 @@
       "sub_franchise": "Mark Brandis"
     },
     {
+      "id": "ep_e144c3ce114e",
+      "title": "19 + 20: Sirius-Patrouille",
+      "author": "Mark Brandis",
+      "episode_number": 19,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/98/9b/25989be8-fd46-dd41-5792-52eda561546e/4057664049797.jpg/100x100bb.jpg",
+      "apple_music_id": 1685875983,
+      "status": "active",
+      "sub_franchise_id": 6,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1484,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis"
+        }
+      },
+      "sub_franchise": "Mark Brandis"
+    },
+    {
       "id": "mark-19si-7004",
       "title": "19: Sirius-Patrouille 1",
       "author": "Mark Brandis",
@@ -9441,6 +9637,34 @@
         "narrator": "Various",
         "platforms": {
           "appleMusic": "1686249720"
+        }
+      },
+      "sub_franchise": "Mark Brandis"
+    },
+    {
+      "id": "ep_6aa5578b1b5e",
+      "title": "21 + 22: Lautlose Bombe",
+      "author": "Mark Brandis",
+      "episode_number": 21,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/06/80/fe/0680fe72-0557-ce61-adc8-7da79774a7ae/4057664049216.jpg/100x100bb.jpg",
+      "apple_music_id": 1685900788,
+      "status": "active",
+      "sub_franchise_id": 6,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1486,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 1.0,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis"
         }
       },
       "sub_franchise": "Mark Brandis"
@@ -13501,7 +13725,35 @@
         }
       },
       "sub_franchise": "Mark Brandis"
+    },
+    {
+      "id": "ep_4449e180ffb5",
+      "title": "Die komplette Hörspielserie",
+      "author": "Mark Brandis - Raumkadett",
+      "episode_number": null,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/a9/1d/bda91d62-9bfd-0a56-711a-3af915122837/4066338330260.jpg/100x100bb.jpg",
+      "apple_music_id": 1686274764,
+      "status": "active",
+      "sub_franchise_id": 5,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:14:16",
+      "extra": {
+        "discovery_candidate_id": 1490,
+        "discovery_run_id": 21,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.85,
+          "franchise": "Mark Brandis",
+          "sub_franchise": "Mark Brandis Raumkadett"
+        }
+      },
+      "sub_franchise": "Mark Brandis Raumkadett"
     }
   ],
-  "episode_count": 45
+  "episode_count": 54
 }

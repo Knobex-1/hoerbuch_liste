@@ -3,8 +3,98 @@
   "slug": "michelle-madow,-fantasy-hoerbuecher-&-hoerbuch-bestseller",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [],
+  "sub_franchises": [
+    {
+      "id": 82,
+      "name": "Michel",
+      "slug": "michelle-madow-fantasy-hörbücher-und-hörbuch-bestseller-michel"
+    }
+  ],
   "episodes": [
+    {
+      "id": "ep_fdbb455185db",
+      "title": "Michel in der Suppenschüssel (Hörspiel zum 1. Kinofilm)",
+      "author": "Michel",
+      "episode_number": 1,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8b/7b/96/8b7b96fb-2c8d-1d60-a572-5c90540ef99f/886447615461.jpg/100x100bb.jpg",
+      "apple_music_id": 1471612318,
+      "status": "active",
+      "sub_franchise_id": 82,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:29",
+      "extra": {
+        "discovery_candidate_id": 1592,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+          "sub_franchise": "Michel"
+        }
+      },
+      "sub_franchise": "Michel"
+    },
+    {
+      "id": "ep_15a90a1135dd",
+      "title": "Michel muss mehr Männchen machen (Hörspiel zum 2. Kinofilm)",
+      "author": "Michel",
+      "episode_number": 2,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ec/0a/bb/ec0abbc0-a6e4-8df4-47a4-2bd8d55f6b02/886447615478.jpg/100x100bb.jpg",
+      "apple_music_id": 1471614198,
+      "status": "active",
+      "sub_franchise_id": 82,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1660,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+          "sub_franchise": "Michel"
+        }
+      },
+      "sub_franchise": "Michel"
+    },
+    {
+      "id": "ep_29b16f8ec0fb",
+      "title": "Michel bringt die Welt in Ordnung (Hörspiel zum 3. Kinofilm)",
+      "author": "Michel",
+      "episode_number": 3,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/44/ca/60/44ca60ca-7d98-9ac6-3abd-d841d507b797/886447615485.jpg/100x100bb.jpg",
+      "apple_music_id": 1471614556,
+      "status": "active",
+      "sub_franchise_id": 82,
+      "last_validated": null,
+      "updated_at": "2026-06-22T19:15:31",
+      "extra": {
+        "discovery_candidate_id": 1640,
+        "discovery_run_id": 28,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+          "sub_franchise": "Michel"
+        }
+      },
+      "sub_franchise": "Michel"
+    },
     {
       "id": "mich-blaz-3195",
       "title": "Blazing Sun - Die Stadt der Vampire 4 - Hörspiel",
@@ -76,5 +166,5 @@
       }
     }
   ],
-  "episode_count": 3
+  "episode_count": 6
 }
