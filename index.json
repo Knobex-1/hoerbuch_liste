@@ -45,8 +45,8 @@
     {
       "name": "Star Wars",
       "slug": "star-wars",
-      "episode_count": 41,
-      "sub_franchise_count": 4
+      "episode_count": 42,
+      "sub_franchise_count": 5
     },
     {
       "name": "Marco Göllner",
@@ -254,5 +254,5 @@
     }
   ],
   "total_franchises": 42,
-  "total_episodes": 2887
+  "total_episodes": 2888
 }

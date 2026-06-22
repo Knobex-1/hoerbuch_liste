@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-21T22:00:01.216762+00:00",
+  "exported_at": "2026-06-22T07:30:21.839357+00:00",
   "franchises": [
     {
       "name": "Die drei ???",
@@ -283033,6 +283033,12 @@
           "slug": "star-wars-star-wars",
           "description": "",
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/37/ba/e437bab5-4629-a13f-84ff-5a4a19f607a5/4064066834883_cover.jpg/100x100bb.jpg"
+        },
+        {
+          "name": "Star Wars: The Clone Wars",
+          "slug": "star-wars-the-clone-wars",
+          "description": "",
+          "cover_url": ""
         }
       ],
       "episodes": [
@@ -289576,6 +289582,20 @@
           "apple_music_id": 1685930131,
           "status": "active",
           "sub_franchise": "Star Wars"
+        },
+        {
+          "id": "ep_9792d7a81704",
+          "title": "Folge 12: Der Holocron-Raub / Schicksalhafte Ladung",
+          "author": "The Clone Wars",
+          "episode_number": 12,
+          "genres": [
+            "Hörspiele"
+          ],
+          "chapters": [],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/0e/35/eb0e354c-c424-a84b-1e95-e40f3a9d11bb/4066339395848.jpg/100x100bb.jpg",
+          "apple_music_id": 1686046994,
+          "status": "active",
+          "sub_franchise": "Star Wars: The Clone Wars"
         }
       ]
     },

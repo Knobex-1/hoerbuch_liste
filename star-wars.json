@@ -20,6 +20,11 @@
       "slug": "star-wars-star-wars"
     },
     {
+      "id": 7,
+      "name": "Star Wars: The Clone Wars",
+      "slug": "star-wars-the-clone-wars"
+    },
+    {
       "id": 2,
       "name": "TV-Serien",
       "slug": "tv-serien"
@@ -5115,6 +5120,34 @@
       "sub_franchise": "Star Wars"
     },
     {
+      "id": "ep_9792d7a81704",
+      "title": "Folge 12: Der Holocron-Raub / Schicksalhafte Ladung",
+      "author": "The Clone Wars",
+      "episode_number": 12,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/0e/35/eb0e354c-c424-a84b-1e95-e40f3a9d11bb/4066339395848.jpg/100x100bb.jpg",
+      "apple_music_id": 1686046994,
+      "status": "active",
+      "sub_franchise_id": 7,
+      "last_validated": null,
+      "updated_at": "2026-06-22T05:02:18",
+      "extra": {
+        "discovery_candidate_id": 22,
+        "discovery_run_id": 1,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.9,
+          "franchise": "Star Wars",
+          "sub_franchise": "Star Wars: The Clone Wars"
+        }
+      },
+      "sub_franchise": "Star Wars: The Clone Wars"
+    },
+    {
       "id": "star-13de-9464",
       "title": "13: Der Beschützer von Concord Dawn / Die Legenden der Lasat (Das Original-Hörspiel zur Star Wars-TV-Serie)",
       "author": "Star Wars",
@@ -7008,5 +7041,5 @@
       "sub_franchise": "Star Wars"
     }
   ],
-  "episode_count": 41
+  "episode_count": 42
 }
