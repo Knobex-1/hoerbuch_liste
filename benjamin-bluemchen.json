@@ -1833,6 +1833,264 @@
       }
     },
     {
+      "id": "1458751755",
+      "title": "Gute-Nacht-Geschichten - Folge 7: A,B,C-Geschichten / 1,2,3-Geschichten",
+      "author": "Benjamin Blümchen",
+      "episode_number": 7,
+      "genres": [
+        "Kinder & Jugend",
+        "Hörspiel",
+        "Komödie"
+      ],
+      "chapters": [
+        {
+          "id": "1458751755-t01",
+          "title": "Schlafliedchen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 53.859
+        },
+        {
+          "id": "1458751755-t02",
+          "title": "Kapitel 01: Die Zooschule (GNG Folge 07)",
+          "index": 1,
+          "startTime": 53.859,
+          "duration": 91.347
+        },
+        {
+          "id": "1458751755-t03",
+          "title": "Kapitel 02: Die Zooschule (GNG Folge 07)",
+          "index": 2,
+          "startTime": 145.206,
+          "duration": 90.462
+        },
+        {
+          "id": "1458751755-t04",
+          "title": "Kapitel 03: Die Zooschule (GNG Folge 07)",
+          "index": 3,
+          "startTime": 235.668,
+          "duration": 118.341
+        },
+        {
+          "id": "1458751755-t05",
+          "title": "Schlafliedchen: Geschichte 02",
+          "index": 4,
+          "startTime": 354.009,
+          "duration": 53.859
+        },
+        {
+          "id": "1458751755-t06",
+          "title": "Kapitel 01: Das Tier-ABC (GNG Folge 07)",
+          "index": 5,
+          "startTime": 407.868,
+          "duration": 90.0
+        },
+        {
+          "id": "1458751755-t07",
+          "title": "Kapitel 02: Das Tier-ABC (GNG Folge 07)",
+          "index": 6,
+          "startTime": 497.868,
+          "duration": 95.079
+        },
+        {
+          "id": "1458751755-t08",
+          "title": "Kapitel 03: Das Tier-ABC (GNG Folge 07)",
+          "index": 7,
+          "startTime": 592.947,
+          "duration": 104.911
+        },
+        {
+          "id": "1458751755-t09",
+          "title": "Schlafliedchen: Geschichte 03",
+          "index": 8,
+          "startTime": 697.858,
+          "duration": 52.291
+        },
+        {
+          "id": "1458751755-t10",
+          "title": "Kapitel 01: Ein kunterbuntes Plakat (GNG Folge 07)",
+          "index": 9,
+          "startTime": 750.149,
+          "duration": 90.616
+        },
+        {
+          "id": "1458751755-t11",
+          "title": "Kapitel 02: Ein kunterbuntes Plakat (GNG Folge 07)",
+          "index": 10,
+          "startTime": 840.765,
+          "duration": 87.165
+        },
+        {
+          "id": "1458751755-t12",
+          "title": "Kapitel 03: Ein kunterbuntes Plakat (GNG Folge 07)",
+          "index": 11,
+          "startTime": 927.93,
+          "duration": 124.177
+        },
+        {
+          "id": "1458751755-t13",
+          "title": "Schlafliedchen: Geschichte 04",
+          "index": 12,
+          "startTime": 1052.107,
+          "duration": 53.859
+        },
+        {
+          "id": "1458751755-t14",
+          "title": "Kapitel 01: Tiere lernen zählen (GNG Folge 07)",
+          "index": 13,
+          "startTime": 1105.966,
+          "duration": 90.385
+        },
+        {
+          "id": "1458751755-t15",
+          "title": "Kapitel 02: Tiere lernen zählen (GNG Folge 07)",
+          "index": 14,
+          "startTime": 1196.351,
+          "duration": 90.616
+        },
+        {
+          "id": "1458751755-t16",
+          "title": "Kapitel 03: Tiere lernen zählen (GNG Folge 07)",
+          "index": 15,
+          "startTime": 1286.967,
+          "duration": 99.678
+        },
+        {
+          "id": "1458751755-t17",
+          "title": "Schlafliedchen: Geschichte 05",
+          "index": 16,
+          "startTime": 1386.645,
+          "duration": 53.859
+        },
+        {
+          "id": "1458751755-t18",
+          "title": "Kapitel 01: Eine Zooführung für Stella (GNG Folge 07)",
+          "index": 17,
+          "startTime": 1440.504,
+          "duration": 89.275
+        },
+        {
+          "id": "1458751755-t19",
+          "title": "Kapitel 02: Eine Zooführung für Stella (GNG Folge 07)",
+          "index": 18,
+          "startTime": 1529.779,
+          "duration": 89.801
+        },
+        {
+          "id": "1458751755-t20",
+          "title": "Kapitel 03: Eine Zooführung für Stella (GNG Folge 07)",
+          "index": 19,
+          "startTime": 1619.58,
+          "duration": 108.221
+        },
+        {
+          "id": "1458751755-t21",
+          "title": "Schlafliedchen: Geschichte 06",
+          "index": 20,
+          "startTime": 1727.801,
+          "duration": 53.859
+        },
+        {
+          "id": "1458751755-t22",
+          "title": "Kapitel 01: Die Spaß-Mach-Stunde (GNG Folge 07)",
+          "index": 21,
+          "startTime": 1781.66,
+          "duration": 90.808
+        },
+        {
+          "id": "1458751755-t23",
+          "title": "Kapitel 02: Die Spaß-Mach-Stunde (GNG Folge 07)",
+          "index": 22,
+          "startTime": 1872.468,
+          "duration": 94.964
+        },
+        {
+          "id": "1458751755-t24",
+          "title": "Kapitel 03: Die Spaß-Mach-Stunde (GNG Folge 07)",
+          "index": 23,
+          "startTime": 1967.432,
+          "duration": 111.838
+        },
+        {
+          "id": "1458751755-t25",
+          "title": "Schlafliedchen: Geschichte 07",
+          "index": 24,
+          "startTime": 2079.27,
+          "duration": 53.859
+        },
+        {
+          "id": "1458751755-t26",
+          "title": "Kapitel 01: Das Zoo-Orchester (GNG Folge 07)",
+          "index": 25,
+          "startTime": 2133.129,
+          "duration": 97.406
+        },
+        {
+          "id": "1458751755-t27",
+          "title": "Kapitel 02: Das Zoo-Orchester (GNG Folge 07)",
+          "index": 26,
+          "startTime": 2230.535,
+          "duration": 93.955
+        },
+        {
+          "id": "1458751755-t28",
+          "title": "Kapitel 03: Das Zoo-Orchester (GNG Folge 07)",
+          "index": 27,
+          "startTime": 2324.49,
+          "duration": 101.627
+        },
+        {
+          "id": "1458751755-t29",
+          "title": "Schlafliedchen: Geschichte 08",
+          "index": 28,
+          "startTime": 2426.117,
+          "duration": 52.291
+        },
+        {
+          "id": "1458751755-t30",
+          "title": "Kapitel 01: Ein Poesiealbum für Otto (GNG Folge 07)",
+          "index": 29,
+          "startTime": 2478.408,
+          "duration": 91.154
+        },
+        {
+          "id": "1458751755-t31",
+          "title": "Kapitel 02: Ein Poesiealbum für Otto (GNG Folge 07)",
+          "index": 30,
+          "startTime": 2569.562,
+          "duration": 89.846
+        },
+        {
+          "id": "1458751755-t32",
+          "title": "Kapitel 03: Ein Poesiealbum für Otto (GNG Folge 07)",
+          "index": 31,
+          "startTime": 2659.408,
+          "duration": 130.27
+        },
+        {
+          "id": "1458751755-t33",
+          "title": "Schlafliedchen: Ende",
+          "index": 32,
+          "startTime": 2789.678,
+          "duration": 54.01
+        }
+      ],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/e1/78/26e17878-e313-cdf8-f2e9-9f69eddd306d/190295446703.jpg/100x100bb.jpg",
+      "apple_music_id": 1458751755,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.743004",
+      "extra": {
+        "description": "Dieses Album enthält Hörspiel-Tracks mit Benjamin Blümchen, die typisch für deutsche Kinderhörspiele sind.",
+        "total_duration": 2843.688,
+        "release_date": "2007-09-03",
+        "platforms": {
+          "appleMusic": "1458751755"
+        }
+      }
+    },
+    {
       "id": "benj-folg-9951",
       "title": "Folge 8: auf dem Baum",
       "author": "Benjamin Blümchen",
@@ -8097,6 +8355,29 @@
         "narrator": "Stefan Wolf",
         "platforms": {
           "appleMusic": "1139310787"
+        }
+      }
+    },
+    {
+      "id": "1139301535",
+      "title": "Folge 84: Der kleine Ausreißer",
+      "author": "Benjamin Blümchen",
+      "episode_number": 84,
+      "genres": [
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/d4/7f/c4/d47fc4f2-d03d-7189-90fc-7b10f062f4ac/190295921606.jpg/100x100bb.jpg",
+      "apple_music_id": 1139301535,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.743251",
+      "extra": {
+        "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'Folge 84: Der kleine AusreiÖrer' von Benjamin Blülchen. Es besteht aus 39 Tracks und ist im Genre 'Hßrspiele' klassifiziert.",
+        "release_date": "1997-01-01",
+        "platforms": {
+          "appleMusic": "1139301535"
         }
       }
     },
@@ -17949,6 +18230,292 @@
       }
     },
     {
+      "id": "1069064094",
+      "title": "Gute Besserung (Benjamin Blümchen als Tierarzt & Otto ist krank & Benjamin Blümchen im Krankenhaus)",
+      "author": "Benjamin Blümchen",
+      "episode_number": null,
+      "genres": [
+        "Kinder & Jugend",
+        "Hörspiel",
+        "Komödie"
+      ],
+      "chapters": [
+        {
+          "id": "1069064094-t01",
+          "title": "Benjamin Blümchen Lied",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 49.4
+        },
+        {
+          "id": "1069064094-t02",
+          "title": "Folge 85 - Kapitel 1: Gogo verletzt sich",
+          "index": 1,
+          "startTime": 49.4,
+          "duration": 203.08
+        },
+        {
+          "id": "1069064094-t03",
+          "title": "Folge 85 - Kapitel 2: Dr. Hilfreich fällt aus",
+          "index": 2,
+          "startTime": 252.48,
+          "duration": 263.413
+        },
+        {
+          "id": "1069064094-t04",
+          "title": "Folge 85 - Kapitel 3: Ein neuer Zoobewohner",
+          "index": 3,
+          "startTime": 515.893,
+          "duration": 183.827
+        },
+        {
+          "id": "1069064094-t05",
+          "title": "Folge 85 - Kapitel 4: Ein neuer Tierarzt",
+          "index": 4,
+          "startTime": 699.72,
+          "duration": 259.787
+        },
+        {
+          "id": "1069064094-t06",
+          "title": "Folge 85 - Kapitel 5: Armes Herzilein",
+          "index": 5,
+          "startTime": 959.507,
+          "duration": 250.933
+        },
+        {
+          "id": "1069064094-t07",
+          "title": "Folge 85 - Kapitel 6: Überall Hickserei",
+          "index": 6,
+          "startTime": 1210.44,
+          "duration": 151.547
+        },
+        {
+          "id": "1069064094-t08",
+          "title": "Folge 85 - Kapitel 7: Die afrikanische Schluckauf-Krankheit",
+          "index": 7,
+          "startTime": 1361.987,
+          "duration": 199.56
+        },
+        {
+          "id": "1069064094-t09",
+          "title": "Folge 85 - Kapitel 8: Freiheit für Herzilein",
+          "index": 8,
+          "startTime": 1561.547,
+          "duration": 212.16
+        },
+        {
+          "id": "1069064094-t10",
+          "title": "Folge 85 - Kapitel 9: Hausmittel",
+          "index": 9,
+          "startTime": 1773.707,
+          "duration": 113.987
+        },
+        {
+          "id": "1069064094-t11",
+          "title": "Folge 85 - Kapitel 10: Ottos Heilung",
+          "index": 10,
+          "startTime": 1887.694,
+          "duration": 167.773
+        },
+        {
+          "id": "1069064094-t12",
+          "title": "Folge 85 - Kapitel 11: Allgemeines Erschrecken",
+          "index": 11,
+          "startTime": 2055.467,
+          "duration": 122.16
+        },
+        {
+          "id": "1069064094-t13",
+          "title": "Folge 85 - Kapitel 12: Friede-Freude-Eierkuchen",
+          "index": 12,
+          "startTime": 2177.627,
+          "duration": 219.56
+        },
+        {
+          "id": "1069064094-t14",
+          "title": "Folge 61 - Kapitel 1 : Benjamin macht sich Sorgen",
+          "index": 13,
+          "startTime": 2397.187,
+          "duration": 215.253
+        },
+        {
+          "id": "1069064094-t15",
+          "title": "Folge 61 - Kapitel 2 : Besuch ist da!",
+          "index": 14,
+          "startTime": 2612.44,
+          "duration": 228.667
+        },
+        {
+          "id": "1069064094-t16",
+          "title": "Folge 61 - Kapitel 3 : Lied vom Kranksein",
+          "index": 15,
+          "startTime": 2841.107,
+          "duration": 215.0
+        },
+        {
+          "id": "1069064094-t17",
+          "title": "Folge 61 - Kapitel 4 : Lügengeschichten",
+          "index": 16,
+          "startTime": 3056.107,
+          "duration": 245.347
+        },
+        {
+          "id": "1069064094-t18",
+          "title": "Folge 61 - Kapitel 5 : Der Arzt kommt zu Besuch",
+          "index": 17,
+          "startTime": 3301.454,
+          "duration": 234.307
+        },
+        {
+          "id": "1069064094-t19",
+          "title": "Folge 61 - Kapitel 6 : Der Krankenelefant",
+          "index": 18,
+          "startTime": 3535.761,
+          "duration": 297.293
+        },
+        {
+          "id": "1069064094-t20",
+          "title": "Folge 61 - Kapitel 7 : Tiefsinniges Gespräch",
+          "index": 19,
+          "startTime": 3833.054,
+          "duration": 227.173
+        },
+        {
+          "id": "1069064094-t21",
+          "title": "Folge 61 - Kapitel 8 : Noch mehr Besuch",
+          "index": 20,
+          "startTime": 4060.227,
+          "duration": 203.867
+        },
+        {
+          "id": "1069064094-t22",
+          "title": "Folge 61 - Kapitel 9 : Scherzkeks Karla",
+          "index": 21,
+          "startTime": 4264.094,
+          "duration": 221.933
+        },
+        {
+          "id": "1069064094-t23",
+          "title": "Folge 61 - Kapitel 10 : Krankenbetreuung",
+          "index": 22,
+          "startTime": 4486.027,
+          "duration": 219.68
+        },
+        {
+          "id": "1069064094-t24",
+          "title": "Folge 61 - Kapitel 11 : Wieder gesund!",
+          "index": 23,
+          "startTime": 4705.707,
+          "duration": 145.413
+        },
+        {
+          "id": "1069064094-t25",
+          "title": "Folge 61 - Kapitel 12 : Lied vom Gesundsein",
+          "index": 24,
+          "startTime": 4851.12,
+          "duration": 184.253
+        },
+        {
+          "id": "1069064094-t26",
+          "title": "Folge 13 - Kapitel 1 : Rüsselbruch",
+          "index": 25,
+          "startTime": 5035.373,
+          "duration": 167.853
+        },
+        {
+          "id": "1069064094-t27",
+          "title": "Folge 13 - Kapitel 2 : Im Krankenhaus",
+          "index": 26,
+          "startTime": 5203.226,
+          "duration": 287.72
+        },
+        {
+          "id": "1069064094-t28",
+          "title": "Folge 13 - Kapitel 3 : Oberschwester Jutta",
+          "index": 27,
+          "startTime": 5490.946,
+          "duration": 297.493
+        },
+        {
+          "id": "1069064094-t29",
+          "title": "Folge 13 - Kapitel 4 : Otto spielt krank",
+          "index": 28,
+          "startTime": 5788.439,
+          "duration": 299.093
+        },
+        {
+          "id": "1069064094-t30",
+          "title": "Folge 13 - Kapitel 5 : Ein Neuzugang",
+          "index": 29,
+          "startTime": 6087.532,
+          "duration": 215.067
+        },
+        {
+          "id": "1069064094-t31",
+          "title": "Folge 13 - Kapitel 6 : Traurige Patienten",
+          "index": 30,
+          "startTime": 6302.599,
+          "duration": 256.24
+        },
+        {
+          "id": "1069064094-t32",
+          "title": "Folge 13 - Kapitel 7 : Große Langeweile",
+          "index": 31,
+          "startTime": 6558.839,
+          "duration": 278.36
+        },
+        {
+          "id": "1069064094-t33",
+          "title": "Folge 13 - Kapitel 8 : Geheimes Treffen",
+          "index": 32,
+          "startTime": 6837.199,
+          "duration": 298.187
+        },
+        {
+          "id": "1069064094-t34",
+          "title": "Folge 13 - Kapitel 9 : Zirkus im Krankenhaus",
+          "index": 33,
+          "startTime": 7135.386,
+          "duration": 116.653
+        },
+        {
+          "id": "1069064094-t35",
+          "title": "Folge 13 - Kapitel 10 : Alles gelingt",
+          "index": 34,
+          "startTime": 7252.039,
+          "duration": 189.853
+        },
+        {
+          "id": "1069064094-t36",
+          "title": "Folge 13 - Kapitel 11 : Vorzeitige Entlassung",
+          "index": 35,
+          "startTime": 7441.892,
+          "duration": 163.32
+        },
+        {
+          "id": "1069064094-t37",
+          "title": "Folge 13 - Kapitel 12 : Weg mit dem Gips!",
+          "index": 36,
+          "startTime": 7605.212,
+          "duration": 99.44
+        }
+      ],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/1e/6f/d51e6f2f-27fb-38b2-cde3-50475d7e7887/825646243471.jpg/100x100bb.jpg",
+      "apple_music_id": 1069064094,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.743003",
+      "extra": {
+        "description": "Das Album enthält Hörspiele basierend auf bekannten Kinderbüchern von Benjamin Blümchen, die oft für Kinder geeignet sind.",
+        "total_duration": 7704.652,
+        "release_date": "2014-06-27",
+        "platforms": {
+          "appleMusic": "1069064094"
+        }
+      }
+    },
+    {
       "id": "benj-alsa-5408",
       "title": "als Apotheker (Sonderedition)",
       "author": "Benjamin Blümchen",
@@ -18278,5 +18845,5 @@
       }
     }
   ],
-  "episode_count": 200
+  "episode_count": 203
 }

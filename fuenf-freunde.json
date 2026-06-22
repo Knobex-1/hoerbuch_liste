@@ -4506,314 +4506,6 @@
       }
     },
     {
-      "id": "fnff-folg-0124",
-      "title": "Folge 7: verfolgen die Strandräuber",
-      "author": "Enid Blyton",
-      "episode_number": 7,
-      "genres": [
-        "Hörspiel",
-        "Abenteuer",
-        "Kinder & Jugend",
-        "Krimi"
-      ],
-      "chapters": [
-        {
-          "id": "fnff-folg-0124-t01",
-          "title": "007 - verfolgen die Strandräuber (Teil 01)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 108.587
-        },
-        {
-          "id": "fnff-folg-0124-t02",
-          "title": "007 - verfolgen die Strandräuber (Teil 02)",
-          "index": 1,
-          "startTime": 108.587,
-          "duration": 66.32
-        },
-        {
-          "id": "fnff-folg-0124-t03",
-          "title": "007 - verfolgen die Strandräuber (Teil 03)",
-          "index": 2,
-          "startTime": 174.907,
-          "duration": 61.813
-        },
-        {
-          "id": "fnff-folg-0124-t04",
-          "title": "007 - verfolgen die Strandräuber (Teil 04)",
-          "index": 3,
-          "startTime": 236.72,
-          "duration": 69.347
-        },
-        {
-          "id": "fnff-folg-0124-t05",
-          "title": "007 - verfolgen die Strandräuber (Teil 05)",
-          "index": 4,
-          "startTime": 306.067,
-          "duration": 64.827
-        },
-        {
-          "id": "fnff-folg-0124-t06",
-          "title": "007 - verfolgen die Strandräuber (Teil 06)",
-          "index": 5,
-          "startTime": 370.894,
-          "duration": 68.72
-        },
-        {
-          "id": "fnff-folg-0124-t07",
-          "title": "007 - verfolgen die Strandräuber (Teil 07)",
-          "index": 6,
-          "startTime": 439.614,
-          "duration": 65.467
-        },
-        {
-          "id": "fnff-folg-0124-t08",
-          "title": "007 - verfolgen die Strandräuber (Teil 08)",
-          "index": 7,
-          "startTime": 505.081,
-          "duration": 66.613
-        },
-        {
-          "id": "fnff-folg-0124-t09",
-          "title": "007 - verfolgen die Strandräuber (Teil 09)",
-          "index": 8,
-          "startTime": 571.694,
-          "duration": 68.133
-        },
-        {
-          "id": "fnff-folg-0124-t10",
-          "title": "007 - verfolgen die Strandräuber (Teil 10)",
-          "index": 9,
-          "startTime": 639.827,
-          "duration": 64.507
-        },
-        {
-          "id": "fnff-folg-0124-t11",
-          "title": "007 - verfolgen die Strandräuber (Teil 11)",
-          "index": 10,
-          "startTime": 704.334,
-          "duration": 66.36
-        },
-        {
-          "id": "fnff-folg-0124-t12",
-          "title": "007 - verfolgen die Strandräuber (Teil 12)",
-          "index": 11,
-          "startTime": 770.694,
-          "duration": 66.973
-        },
-        {
-          "id": "fnff-folg-0124-t13",
-          "title": "007 - verfolgen die Strandräuber (Teil 13)",
-          "index": 12,
-          "startTime": 837.667,
-          "duration": 64.68
-        },
-        {
-          "id": "fnff-folg-0124-t14",
-          "title": "007 - verfolgen die Strandräuber (Teil 14)",
-          "index": 13,
-          "startTime": 902.347,
-          "duration": 68.733
-        },
-        {
-          "id": "fnff-folg-0124-t15",
-          "title": "007 - verfolgen die Strandräuber (Teil 15)",
-          "index": 14,
-          "startTime": 971.08,
-          "duration": 65.48
-        },
-        {
-          "id": "fnff-folg-0124-t16",
-          "title": "007 - verfolgen die Strandräuber (Teil 16)",
-          "index": 15,
-          "startTime": 1036.56,
-          "duration": 65.293
-        },
-        {
-          "id": "fnff-folg-0124-t17",
-          "title": "007 - verfolgen die Strandräuber (Teil 17)",
-          "index": 16,
-          "startTime": 1101.853,
-          "duration": 67.107
-        },
-        {
-          "id": "fnff-folg-0124-t18",
-          "title": "007 - verfolgen die Strandräuber (Teil 18)",
-          "index": 17,
-          "startTime": 1168.96,
-          "duration": 65.213
-        },
-        {
-          "id": "fnff-folg-0124-t19",
-          "title": "007 - verfolgen die Strandräuber (Teil 19)",
-          "index": 18,
-          "startTime": 1234.173,
-          "duration": 66.827
-        },
-        {
-          "id": "fnff-folg-0124-t20",
-          "title": "007 - verfolgen die Strandräuber (Teil 20)",
-          "index": 19,
-          "startTime": 1301.0,
-          "duration": 64.493
-        },
-        {
-          "id": "fnff-folg-0124-t21",
-          "title": "007 - verfolgen die Strandräuber (Teil 21)",
-          "index": 20,
-          "startTime": 1365.493,
-          "duration": 66.56
-        },
-        {
-          "id": "fnff-folg-0124-t22",
-          "title": "007 - verfolgen die Strandräuber (Teil 22)",
-          "index": 21,
-          "startTime": 1432.053,
-          "duration": 66.24
-        },
-        {
-          "id": "fnff-folg-0124-t23",
-          "title": "007 - verfolgen die Strandräuber (Teil 23)",
-          "index": 22,
-          "startTime": 1498.293,
-          "duration": 67.613
-        },
-        {
-          "id": "fnff-folg-0124-t24",
-          "title": "007 - verfolgen die Strandräuber (Teil 24)",
-          "index": 23,
-          "startTime": 1565.906,
-          "duration": 70.813
-        },
-        {
-          "id": "fnff-folg-0124-t25",
-          "title": "007 - verfolgen die Strandräuber (Teil 25)",
-          "index": 24,
-          "startTime": 1636.719,
-          "duration": 62.68
-        },
-        {
-          "id": "fnff-folg-0124-t26",
-          "title": "007 - verfolgen die Strandräuber (Teil 26)",
-          "index": 25,
-          "startTime": 1699.399,
-          "duration": 64.947
-        },
-        {
-          "id": "fnff-folg-0124-t27",
-          "title": "007 - verfolgen die Strandräuber (Teil 27)",
-          "index": 26,
-          "startTime": 1764.346,
-          "duration": 68.52
-        },
-        {
-          "id": "fnff-folg-0124-t28",
-          "title": "007 - verfolgen die Strandräuber (Teil 28)",
-          "index": 27,
-          "startTime": 1832.866,
-          "duration": 64.613
-        },
-        {
-          "id": "fnff-folg-0124-t29",
-          "title": "007 - verfolgen die Strandräuber (Teil 29)",
-          "index": 28,
-          "startTime": 1897.479,
-          "duration": 65.333
-        },
-        {
-          "id": "fnff-folg-0124-t30",
-          "title": "007 - verfolgen die Strandräuber (Teil 30)",
-          "index": 29,
-          "startTime": 1962.812,
-          "duration": 65.88
-        },
-        {
-          "id": "fnff-folg-0124-t31",
-          "title": "007 - verfolgen die Strandräuber (Teil 31)",
-          "index": 30,
-          "startTime": 2028.692,
-          "duration": 66.307
-        },
-        {
-          "id": "fnff-folg-0124-t32",
-          "title": "007 - verfolgen die Strandräuber (Teil 32)",
-          "index": 31,
-          "startTime": 2094.999,
-          "duration": 68.613
-        },
-        {
-          "id": "fnff-folg-0124-t33",
-          "title": "007 - verfolgen die Strandräuber (Teil 33)",
-          "index": 32,
-          "startTime": 2163.612,
-          "duration": 66.307
-        },
-        {
-          "id": "fnff-folg-0124-t34",
-          "title": "007 - verfolgen die Strandräuber (Teil 34)",
-          "index": 33,
-          "startTime": 2229.919,
-          "duration": 65.4
-        },
-        {
-          "id": "fnff-folg-0124-t35",
-          "title": "007 - verfolgen die Strandräuber (Teil 35)",
-          "index": 34,
-          "startTime": 2295.319,
-          "duration": 70.707
-        },
-        {
-          "id": "fnff-folg-0124-t36",
-          "title": "007 - verfolgen die Strandräuber (Teil 36)",
-          "index": 35,
-          "startTime": 2366.026,
-          "duration": 62.027
-        },
-        {
-          "id": "fnff-folg-0124-t37",
-          "title": "007 - verfolgen die Strandräuber (Teil 37)",
-          "index": 36,
-          "startTime": 2428.053,
-          "duration": 66.36
-        },
-        {
-          "id": "fnff-folg-0124-t38",
-          "title": "007 - verfolgen die Strandräuber (Teil 38)",
-          "index": 37,
-          "startTime": 2494.413,
-          "duration": 64.347
-        },
-        {
-          "id": "fnff-folg-0124-t39",
-          "title": "007 - verfolgen die Strandräuber (Teil 39)",
-          "index": 38,
-          "startTime": 2558.76,
-          "duration": 66.24
-        },
-        {
-          "id": "fnff-folg-0124-t40",
-          "title": "007 - verfolgen die Strandräuber (Teil 40)",
-          "index": 39,
-          "startTime": 2625.0,
-          "duration": 69.013
-        }
-      ],
-      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ee/fc/ac/eefcacbc-0fff-84a4-fc8a-8e74c74c2cba/886445130379.jpg/100x100bb.jpg",
-      "apple_music_id": 1002490124,
-      "status": "active",
-      "sub_franchise_id": null,
-      "last_validated": null,
-      "updated_at": "2026-06-06T20:14:39.741990",
-      "extra": {
-        "description": "Dieses Album ist ein Hörspiel der Reihe 'Fünf Freunde', das die Geschichte von 'Folge 7: Verfolgen die Strandräuber' erzählt. Es ist Teil einer beliebten Hörspielserie für Kinder und Jugendliche.",
-        "total_duration": 2694.013,
-        "narrator": "Verschiedene Sprecher",
-        "platforms": {
-          "appleMusic": "1002490124"
-        }
-      }
-    },
-    {
       "id": "fnff-folg-0083",
       "title": "Folge 9: im alten Turm",
       "author": "Enid Blyton",
@@ -24523,314 +24215,6 @@
       }
     },
     {
-      "id": "fnff-folg-0357",
-      "title": "Folge 74: verfolgen den Wilderer",
-      "author": "Enid Blyton",
-      "episode_number": 74,
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer",
-        "Krimi"
-      ],
-      "chapters": [
-        {
-          "id": "fnff-folg-0357-t01",
-          "title": "074 - verfolgen den Wilderer (Teil 01)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 75.64
-        },
-        {
-          "id": "fnff-folg-0357-t02",
-          "title": "074 - verfolgen den Wilderer (Teil 02)",
-          "index": 1,
-          "startTime": 75.64,
-          "duration": 84.467
-        },
-        {
-          "id": "fnff-folg-0357-t03",
-          "title": "074 - verfolgen den Wilderer (Teil 03)",
-          "index": 2,
-          "startTime": 160.107,
-          "duration": 78.04
-        },
-        {
-          "id": "fnff-folg-0357-t04",
-          "title": "074 - verfolgen den Wilderer (Teil 04)",
-          "index": 3,
-          "startTime": 238.147,
-          "duration": 83.48
-        },
-        {
-          "id": "fnff-folg-0357-t05",
-          "title": "074 - verfolgen den Wilderer (Teil 05)",
-          "index": 4,
-          "startTime": 321.627,
-          "duration": 76.933
-        },
-        {
-          "id": "fnff-folg-0357-t06",
-          "title": "074 - verfolgen den Wilderer (Teil 06)",
-          "index": 5,
-          "startTime": 398.56,
-          "duration": 83.253
-        },
-        {
-          "id": "fnff-folg-0357-t07",
-          "title": "074 - verfolgen den Wilderer (Teil 07)",
-          "index": 6,
-          "startTime": 481.813,
-          "duration": 80.627
-        },
-        {
-          "id": "fnff-folg-0357-t08",
-          "title": "074 - verfolgen den Wilderer (Teil 08)",
-          "index": 7,
-          "startTime": 562.44,
-          "duration": 78.893
-        },
-        {
-          "id": "fnff-folg-0357-t09",
-          "title": "074 - verfolgen den Wilderer (Teil 09)",
-          "index": 8,
-          "startTime": 641.333,
-          "duration": 80.24
-        },
-        {
-          "id": "fnff-folg-0357-t10",
-          "title": "074 - verfolgen den Wilderer (Teil 10)",
-          "index": 9,
-          "startTime": 721.573,
-          "duration": 82.8
-        },
-        {
-          "id": "fnff-folg-0357-t11",
-          "title": "074 - verfolgen den Wilderer (Teil 11)",
-          "index": 10,
-          "startTime": 804.373,
-          "duration": 77.693
-        },
-        {
-          "id": "fnff-folg-0357-t12",
-          "title": "074 - verfolgen den Wilderer (Teil 12)",
-          "index": 11,
-          "startTime": 882.066,
-          "duration": 79.413
-        },
-        {
-          "id": "fnff-folg-0357-t13",
-          "title": "074 - verfolgen den Wilderer (Teil 13)",
-          "index": 12,
-          "startTime": 961.479,
-          "duration": 80.36
-        },
-        {
-          "id": "fnff-folg-0357-t14",
-          "title": "074 - verfolgen den Wilderer (Teil 14)",
-          "index": 13,
-          "startTime": 1041.839,
-          "duration": 79.0
-        },
-        {
-          "id": "fnff-folg-0357-t15",
-          "title": "074 - verfolgen den Wilderer (Teil 15)",
-          "index": 14,
-          "startTime": 1120.839,
-          "duration": 80.053
-        },
-        {
-          "id": "fnff-folg-0357-t16",
-          "title": "074 - verfolgen den Wilderer (Teil 16)",
-          "index": 15,
-          "startTime": 1200.892,
-          "duration": 83.173
-        },
-        {
-          "id": "fnff-folg-0357-t17",
-          "title": "074 - verfolgen den Wilderer (Teil 17)",
-          "index": 16,
-          "startTime": 1284.065,
-          "duration": 78.347
-        },
-        {
-          "id": "fnff-folg-0357-t18",
-          "title": "074 - verfolgen den Wilderer (Teil 18)",
-          "index": 17,
-          "startTime": 1362.412,
-          "duration": 78.44
-        },
-        {
-          "id": "fnff-folg-0357-t19",
-          "title": "074 - verfolgen den Wilderer (Teil 19)",
-          "index": 18,
-          "startTime": 1440.852,
-          "duration": 79.76
-        },
-        {
-          "id": "fnff-folg-0357-t20",
-          "title": "074 - verfolgen den Wilderer (Teil 20)",
-          "index": 19,
-          "startTime": 1520.612,
-          "duration": 82.493
-        },
-        {
-          "id": "fnff-folg-0357-t21",
-          "title": "074 - verfolgen den Wilderer (Teil 21)",
-          "index": 20,
-          "startTime": 1603.105,
-          "duration": 80.853
-        },
-        {
-          "id": "fnff-folg-0357-t22",
-          "title": "074 - verfolgen den Wilderer (Teil 22)",
-          "index": 21,
-          "startTime": 1683.958,
-          "duration": 77.8
-        },
-        {
-          "id": "fnff-folg-0357-t23",
-          "title": "074 - verfolgen den Wilderer (Teil 23)",
-          "index": 22,
-          "startTime": 1761.758,
-          "duration": 78.867
-        },
-        {
-          "id": "fnff-folg-0357-t24",
-          "title": "074 - verfolgen den Wilderer (Teil 24)",
-          "index": 23,
-          "startTime": 1840.625,
-          "duration": 82.0
-        },
-        {
-          "id": "fnff-folg-0357-t25",
-          "title": "074 - verfolgen den Wilderer (Teil 25)",
-          "index": 24,
-          "startTime": 1922.625,
-          "duration": 81.96
-        },
-        {
-          "id": "fnff-folg-0357-t26",
-          "title": "074 - verfolgen den Wilderer (Teil 26)",
-          "index": 25,
-          "startTime": 2004.585,
-          "duration": 76.72
-        },
-        {
-          "id": "fnff-folg-0357-t27",
-          "title": "074 - verfolgen den Wilderer (Teil 27)",
-          "index": 26,
-          "startTime": 2081.305,
-          "duration": 83.147
-        },
-        {
-          "id": "fnff-folg-0357-t28",
-          "title": "074 - verfolgen den Wilderer (Teil 28)",
-          "index": 27,
-          "startTime": 2164.452,
-          "duration": 80.573
-        },
-        {
-          "id": "fnff-folg-0357-t29",
-          "title": "074 - verfolgen den Wilderer (Teil 29)",
-          "index": 28,
-          "startTime": 2245.025,
-          "duration": 79.667
-        },
-        {
-          "id": "fnff-folg-0357-t30",
-          "title": "074 - verfolgen den Wilderer (Teil 30)",
-          "index": 29,
-          "startTime": 2324.692,
-          "duration": 80.933
-        },
-        {
-          "id": "fnff-folg-0357-t31",
-          "title": "074 - verfolgen den Wilderer (Teil 31)",
-          "index": 30,
-          "startTime": 2405.625,
-          "duration": 80.947
-        },
-        {
-          "id": "fnff-folg-0357-t32",
-          "title": "074 - verfolgen den Wilderer (Teil 32)",
-          "index": 31,
-          "startTime": 2486.572,
-          "duration": 78.867
-        },
-        {
-          "id": "fnff-folg-0357-t33",
-          "title": "074 - verfolgen den Wilderer (Teil 33)",
-          "index": 32,
-          "startTime": 2565.439,
-          "duration": 80.133
-        },
-        {
-          "id": "fnff-folg-0357-t34",
-          "title": "074 - verfolgen den Wilderer (Teil 34)",
-          "index": 33,
-          "startTime": 2645.572,
-          "duration": 80.013
-        },
-        {
-          "id": "fnff-folg-0357-t35",
-          "title": "074 - verfolgen den Wilderer (Teil 35)",
-          "index": 34,
-          "startTime": 2725.585,
-          "duration": 78.24
-        },
-        {
-          "id": "fnff-folg-0357-t36",
-          "title": "074 - verfolgen den Wilderer (Teil 36)",
-          "index": 35,
-          "startTime": 2803.825,
-          "duration": 79.667
-        },
-        {
-          "id": "fnff-folg-0357-t37",
-          "title": "074 - verfolgen den Wilderer (Teil 37)",
-          "index": 36,
-          "startTime": 2883.492,
-          "duration": 82.947
-        },
-        {
-          "id": "fnff-folg-0357-t38",
-          "title": "074 - verfolgen den Wilderer (Teil 38)",
-          "index": 37,
-          "startTime": 2966.439,
-          "duration": 81.067
-        },
-        {
-          "id": "fnff-folg-0357-t39",
-          "title": "074 - verfolgen den Wilderer (Teil 39)",
-          "index": 38,
-          "startTime": 3047.506,
-          "duration": 78.027
-        },
-        {
-          "id": "fnff-folg-0357-t40",
-          "title": "074 - verfolgen den Wilderer (Teil 40)",
-          "index": 39,
-          "startTime": 3125.533,
-          "duration": 80.147
-        }
-      ],
-      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/f4/14/65/f41465f1-f0a5-26ef-3117-180c30fb232d/886445151466.jpg/100x100bb.jpg",
-      "apple_music_id": 1002500357,
-      "status": "active",
-      "sub_franchise_id": null,
-      "last_validated": null,
-      "updated_at": "2026-06-06T20:14:39.742139",
-      "extra": {
-        "description": "Ein Album mit dem Titel 'Folge 74: verfolgen den Wilderer' von 'Fünf Freunde', das dem Genre Hörspiele zugeordnet ist. Es enthält 40 Tracks und scheint sich auf ein spannendes Hörspiel-Abenteuer zu konzentrieren.",
-        "total_duration": 3205.68,
-        "narrator": "Verschiedene Sprecher",
-        "platforms": {
-          "appleMusic": "1002500357"
-        }
-      }
-    },
-    {
       "id": "fnff-folg-5677",
       "title": "Folge 75: und das unheimliche Hexenhaus",
       "author": "Enid Blyton",
@@ -41539,314 +40923,6 @@
       }
     },
     {
-      "id": "fnff-folg-2331",
-      "title": "Folge 131: verfolgen die Fahrraddiebe",
-      "author": "Enid Blyton",
-      "episode_number": 131,
-      "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
-        "Abenteuer"
-      ],
-      "chapters": [
-        {
-          "id": "fnff-folg-2331-t01",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 01)",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 80.04
-        },
-        {
-          "id": "fnff-folg-2331-t02",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 02)",
-          "index": 1,
-          "startTime": 80.04,
-          "duration": 88.96
-        },
-        {
-          "id": "fnff-folg-2331-t03",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 03)",
-          "index": 2,
-          "startTime": 169.0,
-          "duration": 75.027
-        },
-        {
-          "id": "fnff-folg-2331-t04",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 04)",
-          "index": 3,
-          "startTime": 244.027,
-          "duration": 89.12
-        },
-        {
-          "id": "fnff-folg-2331-t05",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 05)",
-          "index": 4,
-          "startTime": 333.147,
-          "duration": 85.667
-        },
-        {
-          "id": "fnff-folg-2331-t06",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 06)",
-          "index": 5,
-          "startTime": 418.814,
-          "duration": 76.107
-        },
-        {
-          "id": "fnff-folg-2331-t07",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 07)",
-          "index": 6,
-          "startTime": 494.921,
-          "duration": 86.04
-        },
-        {
-          "id": "fnff-folg-2331-t08",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 08)",
-          "index": 7,
-          "startTime": 580.961,
-          "duration": 86.227
-        },
-        {
-          "id": "fnff-folg-2331-t09",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 09)",
-          "index": 8,
-          "startTime": 667.188,
-          "duration": 79.773
-        },
-        {
-          "id": "fnff-folg-2331-t10",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 10)",
-          "index": 9,
-          "startTime": 746.961,
-          "duration": 80.093
-        },
-        {
-          "id": "fnff-folg-2331-t11",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 11)",
-          "index": 10,
-          "startTime": 827.054,
-          "duration": 82.133
-        },
-        {
-          "id": "fnff-folg-2331-t12",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 12)",
-          "index": 11,
-          "startTime": 909.187,
-          "duration": 82.187
-        },
-        {
-          "id": "fnff-folg-2331-t13",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 13)",
-          "index": 12,
-          "startTime": 991.374,
-          "duration": 90.933
-        },
-        {
-          "id": "fnff-folg-2331-t14",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 14)",
-          "index": 13,
-          "startTime": 1082.307,
-          "duration": 80.56
-        },
-        {
-          "id": "fnff-folg-2331-t15",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 15)",
-          "index": 14,
-          "startTime": 1162.867,
-          "duration": 75.973
-        },
-        {
-          "id": "fnff-folg-2331-t16",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 16)",
-          "index": 15,
-          "startTime": 1238.84,
-          "duration": 92.52
-        },
-        {
-          "id": "fnff-folg-2331-t17",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 17)",
-          "index": 16,
-          "startTime": 1331.36,
-          "duration": 79.427
-        },
-        {
-          "id": "fnff-folg-2331-t18",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 18)",
-          "index": 17,
-          "startTime": 1410.787,
-          "duration": 92.307
-        },
-        {
-          "id": "fnff-folg-2331-t19",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 19)",
-          "index": 18,
-          "startTime": 1503.094,
-          "duration": 73.907
-        },
-        {
-          "id": "fnff-folg-2331-t20",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 20)",
-          "index": 19,
-          "startTime": 1577.001,
-          "duration": 80.92
-        },
-        {
-          "id": "fnff-folg-2331-t21",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 21)",
-          "index": 20,
-          "startTime": 1657.921,
-          "duration": 83.013
-        },
-        {
-          "id": "fnff-folg-2331-t22",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 22)",
-          "index": 21,
-          "startTime": 1740.934,
-          "duration": 83.6
-        },
-        {
-          "id": "fnff-folg-2331-t23",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 23)",
-          "index": 22,
-          "startTime": 1824.534,
-          "duration": 84.133
-        },
-        {
-          "id": "fnff-folg-2331-t24",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 24)",
-          "index": 23,
-          "startTime": 1908.667,
-          "duration": 79.933
-        },
-        {
-          "id": "fnff-folg-2331-t25",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 25)",
-          "index": 24,
-          "startTime": 1988.6,
-          "duration": 81.28
-        },
-        {
-          "id": "fnff-folg-2331-t26",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 26)",
-          "index": 25,
-          "startTime": 2069.88,
-          "duration": 87.147
-        },
-        {
-          "id": "fnff-folg-2331-t27",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 27)",
-          "index": 26,
-          "startTime": 2157.027,
-          "duration": 81.32
-        },
-        {
-          "id": "fnff-folg-2331-t28",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 28)",
-          "index": 27,
-          "startTime": 2238.347,
-          "duration": 84.12
-        },
-        {
-          "id": "fnff-folg-2331-t29",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 29)",
-          "index": 28,
-          "startTime": 2322.467,
-          "duration": 84.533
-        },
-        {
-          "id": "fnff-folg-2331-t30",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 30)",
-          "index": 29,
-          "startTime": 2407.0,
-          "duration": 79.387
-        },
-        {
-          "id": "fnff-folg-2331-t31",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 31)",
-          "index": 30,
-          "startTime": 2486.387,
-          "duration": 86.08
-        },
-        {
-          "id": "fnff-folg-2331-t32",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 32)",
-          "index": 31,
-          "startTime": 2572.467,
-          "duration": 84.28
-        },
-        {
-          "id": "fnff-folg-2331-t33",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 33)",
-          "index": 32,
-          "startTime": 2656.747,
-          "duration": 85.653
-        },
-        {
-          "id": "fnff-folg-2331-t34",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 34)",
-          "index": 33,
-          "startTime": 2742.4,
-          "duration": 75.56
-        },
-        {
-          "id": "fnff-folg-2331-t35",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 35)",
-          "index": 34,
-          "startTime": 2817.96,
-          "duration": 87.04
-        },
-        {
-          "id": "fnff-folg-2331-t36",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 36)",
-          "index": 35,
-          "startTime": 2905.0,
-          "duration": 77.573
-        },
-        {
-          "id": "fnff-folg-2331-t37",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 37)",
-          "index": 36,
-          "startTime": 2982.573,
-          "duration": 82.853
-        },
-        {
-          "id": "fnff-folg-2331-t38",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 38)",
-          "index": 37,
-          "startTime": 3065.426,
-          "duration": 90.213
-        },
-        {
-          "id": "fnff-folg-2331-t39",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 39)",
-          "index": 38,
-          "startTime": 3155.639,
-          "duration": 83.307
-        },
-        {
-          "id": "fnff-folg-2331-t40",
-          "title": "131 - verfolgen die Fahrraddiebe (Teil 40)",
-          "index": 39,
-          "startTime": 3238.946,
-          "duration": 62.013
-        }
-      ],
-      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/61/0b/69610b79-53f9-b765-b2ac-753fb4de7b25/886447439845.jpg/100x100bb.jpg",
-      "apple_music_id": 1456262331,
-      "status": "active",
-      "sub_franchise_id": null,
-      "last_validated": null,
-      "updated_at": "2026-06-06T20:14:39.742035",
-      "extra": {
-        "description": "Ein spannendes Hörspiel über die Jagd auf Fahrraddiebe.",
-        "total_duration": 3300.959,
-        "narrator": "Verschiedene Sprecher",
-        "platforms": {
-          "appleMusic": "1456262331"
-        }
-      }
-    },
-    {
       "id": "fnff-folg-0896",
       "title": "Folge 132: und das Rätsel um den Stromausfall",
       "author": "Enid Blyton",
@@ -54031,7 +53107,384 @@
           "appleMusic": "1594162214"
         }
       }
+    },
+    {
+      "id": "ff-dino",
+      "title": "Fünf Freunde und das Tal der Dinosaurier",
+      "author": "Enid Blyton",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Abenteuer",
+        "Kinder & Jugend"
+      ],
+      "chapters": [
+        {
+          "id": "ff-dino-t01",
+          "title": "Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t02",
+          "title": "Teil 2",
+          "index": 1,
+          "startTime": 98,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t03",
+          "title": "Teil 3",
+          "index": 2,
+          "startTime": 196,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t04",
+          "title": "Teil 4",
+          "index": 3,
+          "startTime": 293,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t05",
+          "title": "Teil 5",
+          "index": 4,
+          "startTime": 391,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t06",
+          "title": "Teil 6",
+          "index": 5,
+          "startTime": 489,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t07",
+          "title": "Teil 7",
+          "index": 6,
+          "startTime": 587,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t08",
+          "title": "Teil 8",
+          "index": 7,
+          "startTime": 684,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t09",
+          "title": "Teil 9",
+          "index": 8,
+          "startTime": 782,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t10",
+          "title": "Teil 10",
+          "index": 9,
+          "startTime": 880,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t11",
+          "title": "Teil 11",
+          "index": 10,
+          "startTime": 978,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t12",
+          "title": "Teil 12",
+          "index": 11,
+          "startTime": 1075,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t13",
+          "title": "Teil 13",
+          "index": 12,
+          "startTime": 1173,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t14",
+          "title": "Teil 14",
+          "index": 13,
+          "startTime": 1271,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t15",
+          "title": "Teil 15",
+          "index": 14,
+          "startTime": 1369,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t16",
+          "title": "Teil 16",
+          "index": 15,
+          "startTime": 1466,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t17",
+          "title": "Teil 17",
+          "index": 16,
+          "startTime": 1564,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t18",
+          "title": "Teil 18",
+          "index": 17,
+          "startTime": 1662,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t19",
+          "title": "Teil 19",
+          "index": 18,
+          "startTime": 1760,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t20",
+          "title": "Teil 20",
+          "index": 19,
+          "startTime": 1857,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t21",
+          "title": "Teil 21",
+          "index": 20,
+          "startTime": 1955,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t22",
+          "title": "Teil 22",
+          "index": 21,
+          "startTime": 2053,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t23",
+          "title": "Teil 23",
+          "index": 22,
+          "startTime": 2151,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t24",
+          "title": "Teil 24",
+          "index": 23,
+          "startTime": 2248,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t25",
+          "title": "Teil 25",
+          "index": 24,
+          "startTime": 2346,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t26",
+          "title": "Teil 26",
+          "index": 25,
+          "startTime": 2444,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t27",
+          "title": "Teil 27",
+          "index": 26,
+          "startTime": 2542,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t28",
+          "title": "Teil 28",
+          "index": 27,
+          "startTime": 2640,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t29",
+          "title": "Teil 29",
+          "index": 28,
+          "startTime": 2737,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t30",
+          "title": "Teil 30",
+          "index": 29,
+          "startTime": 2835,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t31",
+          "title": "Teil 31",
+          "index": 30,
+          "startTime": 2933,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t32",
+          "title": "Teil 32",
+          "index": 31,
+          "startTime": 3031,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t33",
+          "title": "Teil 33",
+          "index": 32,
+          "startTime": 3128,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t34",
+          "title": "Teil 34",
+          "index": 33,
+          "startTime": 3226,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t35",
+          "title": "Teil 35",
+          "index": 34,
+          "startTime": 3324,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t36",
+          "title": "Teil 36",
+          "index": 35,
+          "startTime": 3422,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t37",
+          "title": "Teil 37",
+          "index": 36,
+          "startTime": 3519,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t38",
+          "title": "Teil 38",
+          "index": 37,
+          "startTime": 3617,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t39",
+          "title": "Teil 39",
+          "index": 38,
+          "startTime": 3715,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t40",
+          "title": "Teil 40",
+          "index": 39,
+          "startTime": 3813,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t41",
+          "title": "Teil 41",
+          "index": 40,
+          "startTime": 3910,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t42",
+          "title": "Teil 42",
+          "index": 41,
+          "startTime": 4008,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t43",
+          "title": "Teil 43",
+          "index": 42,
+          "startTime": 4106,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t44",
+          "title": "Teil 44",
+          "index": 43,
+          "startTime": 4204,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t45",
+          "title": "Teil 45",
+          "index": 44,
+          "startTime": 4301,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t46",
+          "title": "Teil 46",
+          "index": 45,
+          "startTime": 4399,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t47",
+          "title": "Teil 47",
+          "index": 46,
+          "startTime": 4497,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t48",
+          "title": "Teil 48",
+          "index": 47,
+          "startTime": 4595,
+          "duration": 97
+        },
+        {
+          "id": "ff-dino-t49",
+          "title": "Teil 49",
+          "index": 48,
+          "startTime": 4692,
+          "duration": 98
+        },
+        {
+          "id": "ff-dino-t50",
+          "title": "Teil 50",
+          "index": 49,
+          "startTime": 4790,
+          "duration": 98
+        }
+      ],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a5/c4/11/a5c411d4-ae57-2f33-08bc-e20c696a6835/886446839158.jpg/600x600bb.jpg",
+      "apple_music_id": 1349181673,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.740597",
+      "extra": {
+        "description": "4 Belege. Inhaltsverzeichnis umschalten. Fünf Freunde und das Tal der Dinosaurier.Er basiert, wie die vorherigen Teile, auf der Kinderbuchserie Fünf Freunde von Enid Blyton, folgt jedoch keiner Handlung der von ihr veröffentlichten Bücher.",
+        "total_duration": 4888,
+        "narrator": "Verschiedene Sprecher",
+        "platforms": {
+          "appleMusic": "1349181673"
+        }
+      }
     }
   ],
-  "episode_count": 193
+  "episode_count": 191
 }

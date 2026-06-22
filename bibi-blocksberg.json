@@ -5234,32 +5234,6 @@
       }
     },
     {
-      "id": "bibi-folg-4382",
-      "title": "Folge 82: Hexspruch mit Folgen",
-      "author": "Elfie Donnelly",
-      "episode_number": 82,
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
-        "Abenteuer"
-      ],
-      "chapters": [],
-      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/63/65/68/6365685e-632b-37e4-3bbf-9c948b6ee1e1/190295916206.jpg/100x100bb.jpg",
-      "apple_music_id": 1143574382,
-      "status": "active",
-      "sub_franchise_id": null,
-      "last_validated": null,
-      "updated_at": "2026-06-06T20:14:39.741915",
-      "extra": {
-        "description": "Das Album umfasst 26 Hörspiel-Tracks von Bibi Blocksberg, die im Format 'Folge 82: Hexspruch mit Folgen' erscheinen. Es handelt sich um ein Hörspielalbum auf Apple Music.",
-        "narrator": "Susanne Pätzold",
-        "platforms": {
-          "appleMusic": "1143574382"
-        }
-      }
-    },
-    {
       "id": "bibi-folg-3251",
       "title": "Folge 83: Die Klassenreise",
       "author": "Elfie Donnelly",
@@ -26992,5 +26966,5 @@
       }
     }
   ],
-  "episode_count": 234
+  "episode_count": 233
 }

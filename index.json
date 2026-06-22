@@ -3,7 +3,7 @@
     {
       "name": "Die drei ???",
       "slug": "die-drei-???",
-      "episode_count": 440,
+      "episode_count": 438,
       "sub_franchise_count": 0
     },
     {
@@ -15,25 +15,25 @@
     {
       "name": "Bibi Blocksberg",
       "slug": "bibi-blocksberg",
-      "episode_count": 234,
+      "episode_count": 233,
       "sub_franchise_count": 0
     },
     {
       "name": "Sherlock Holmes",
       "slug": "sherlock-holmes",
-      "episode_count": 80,
+      "episode_count": 143,
       "sub_franchise_count": 0
     },
     {
       "name": "Fünf Freunde",
       "slug": "fuenf-freunde",
-      "episode_count": 193,
+      "episode_count": 191,
       "sub_franchise_count": 0
     },
     {
       "name": "Krimis von der Küste",
       "slug": "krimis-von-der-kueste",
-      "episode_count": 50,
+      "episode_count": 49,
       "sub_franchise_count": 0
     },
     {
@@ -45,13 +45,13 @@
     {
       "name": "Star Wars",
       "slug": "star-wars",
-      "episode_count": 42,
-      "sub_franchise_count": 6
+      "episode_count": 62,
+      "sub_franchise_count": 5
     },
     {
       "name": "Marco Göllner",
       "slug": "marco-goellner",
-      "episode_count": 5,
+      "episode_count": 9,
       "sub_franchise_count": 0
     },
     {
@@ -111,7 +111,7 @@
     {
       "name": "Die Eiskönigin",
       "slug": "die-eiskoenigin",
-      "episode_count": 26,
+      "episode_count": 28,
       "sub_franchise_count": 0
     },
     {
@@ -123,7 +123,7 @@
     {
       "name": "Torsten Sträter",
       "slug": "torsten-straeter",
-      "episode_count": 23,
+      "episode_count": 3,
       "sub_franchise_count": 0
     },
     {
@@ -141,25 +141,25 @@
     {
       "name": "Conni",
       "slug": "conni",
-      "episode_count": 101,
+      "episode_count": 97,
       "sub_franchise_count": 0
     },
     {
       "name": "Meine Freundin Conni",
       "slug": "meine-freundin-conni",
-      "episode_count": 2,
+      "episode_count": 9,
       "sub_franchise_count": 0
     },
     {
       "name": "Benjamin Blümchen",
       "slug": "benjamin-bluemchen",
-      "episode_count": 200,
+      "episode_count": 203,
       "sub_franchise_count": 0
     },
     {
       "name": "Sherlock Holmes - Die neuen Fälle",
       "slug": "sherlock-holmes---die-neuen-faelle",
-      "episode_count": 0,
+      "episode_count": 4,
       "sub_franchise_count": 0
     },
     {
@@ -207,19 +207,19 @@
     {
       "name": "Traumreisen für Erwachsene und Kinder",
       "slug": "traumreisen-fuer-erwachsene-und-kinder",
-      "episode_count": 20,
+      "episode_count": 9,
       "sub_franchise_count": 0
     },
     {
       "name": "Traumreisen für Kinder und Erwachsene",
       "slug": "traumreisen-fuer-kinder-und-erwachsene",
-      "episode_count": 0,
+      "episode_count": 11,
       "sub_franchise_count": 0
     },
     {
       "name": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
       "slug": "michelle-madow,-fantasy-hoerbuecher-&-hoerbuch-bestseller",
-      "episode_count": 0,
+      "episode_count": 3,
       "sub_franchise_count": 0
     },
     {
@@ -231,28 +231,34 @@
     {
       "name": "Folge",
       "slug": "folge",
-      "episode_count": 1,
+      "episode_count": 12,
       "sub_franchise_count": 0
     },
     {
       "name": "Jason Dark & John Sinclair",
       "slug": "jason-dark-&-john-sinclair",
-      "episode_count": 2,
+      "episode_count": 41,
       "sub_franchise_count": 0
     },
     {
       "name": "John Sinclair",
       "slug": "john-sinclair",
-      "episode_count": 193,
+      "episode_count": 154,
       "sub_franchise_count": 0
     },
     {
       "name": "Weitere Titel",
       "slug": "weitere-titel",
-      "episode_count": 269,
+      "episode_count": 182,
       "sub_franchise_count": 0
+    },
+    {
+      "name": "Fraktal",
+      "slug": "fraktal",
+      "episode_count": 8,
+      "sub_franchise_count": 1
     }
   ],
-  "total_franchises": 42,
-  "total_episodes": 2888
+  "total_franchises": 43,
+  "total_episodes": 2896
 }

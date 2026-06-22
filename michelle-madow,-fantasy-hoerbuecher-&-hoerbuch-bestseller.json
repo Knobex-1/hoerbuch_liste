@@ -4,6 +4,77 @@
   "description": "",
   "cover_url": "",
   "sub_franchises": [],
-  "episodes": [],
-  "episode_count": 0
+  "episodes": [
+    {
+      "id": "mich-blaz-3195",
+      "title": "Blazing Sun - Die Stadt der Vampire 4 - Hörspiel",
+      "author": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+      "episode_number": null,
+      "genres": [
+        "Fantasy",
+        "Abenteuer",
+        "Hörspiel"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fb/b1/28fbb19f-8167-6d9f-d574-cc78a6dbfd4a/4069829541695_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1875323195,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742978",
+      "extra": {
+        "description": "Ein Hörspiel, das sich mit Vampiren und einer fiktiven Stadt befasst. Es könnte Elemente von Fantasy und Abenteuer enthalten.",
+        "platforms": {
+          "appleMusic": "1875323195"
+        }
+      }
+    },
+    {
+      "id": "mich-fadi-5411",
+      "title": "Fading Sun - Die Stadt der Vampire 3 - Hörspiel",
+      "author": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/37/96/2d379630-76c4-9dd3-691b-fb2f7ce8073e/4069829312042_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1862535411,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742977",
+      "extra": {
+        "description": "Ein Album mit dem Titel 'Fading Sun - Die Stadt der Vampire 3' von Michelle Madow, das im Genre Hörspiele angesiedelt ist. Es könnte sich um ein Hörspiel oder Hörbuch handeln.",
+        "platforms": {
+          "appleMusic": "1862535411"
+        }
+      }
+    },
+    {
+      "id": "mich-posi-0372",
+      "title": "Posion Sun - Die Stadt der Vampire 2 - Hörspiel",
+      "author": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+      "episode_number": null,
+      "genres": [
+        "Hörspiel",
+        "Fantasy"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/98/c9/5c98c99f-9c7e-e564-0e03-8233e8ff7ee0/4069829238106_cover.jpg/100x100bb.jpg",
+      "apple_music_id": 1860060372,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.742976",
+      "extra": {
+        "description": "Ein Album, das als Hörspiel mit Fantasy-Themen beschrieben wird, ist typischerweise ein deutsches Hörspiel oder Hörbuch.",
+        "platforms": {
+          "appleMusic": "1860060372"
+        }
+      }
+    }
+  ],
+  "episode_count": 3
 }
