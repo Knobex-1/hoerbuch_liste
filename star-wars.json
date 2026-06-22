@@ -28,6 +28,11 @@
       "id": 2,
       "name": "TV-Serien",
       "slug": "tv-serien"
+    },
+    {
+      "id": 8,
+      "name": "The Clone Wars",
+      "slug": "star-wars-the-clone-wars-2"
     }
   ],
   "episodes": [

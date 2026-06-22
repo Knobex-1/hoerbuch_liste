@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-22T11:58:41.175425+00:00",
+  "exported_at": "2026-06-22T12:31:22.876936+00:00",
   "franchises": [
     {
       "name": "Die drei ???",
@@ -282378,6 +282378,12 @@
           "slug": "star-wars-the-clone-wars",
           "description": "",
           "cover_url": ""
+        },
+        {
+          "name": "The Clone Wars",
+          "slug": "star-wars-the-clone-wars-2",
+          "description": "",
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/0e/35/eb0e354c-c424-a84b-1e95-e40f3a9d11bb/4066339395848.jpg/100x100bb.jpg"
         }
       ],
       "episodes": [
