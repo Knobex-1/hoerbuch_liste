@@ -87,7 +87,7 @@
     {
       "name": "Alfred Hitchcock präsentiert",
       "slug": "alfred-hitchcock-praesentiert",
-      "episode_count": 3,
+      "episode_count": 2,
       "sub_franchise_count": 0
     },
     {
@@ -111,7 +111,7 @@
     {
       "name": "Die Eiskönigin",
       "slug": "die-eiskoenigin",
-      "episode_count": 28,
+      "episode_count": 8,
       "sub_franchise_count": 0
     },
     {
@@ -255,7 +255,7 @@
     {
       "name": "Fraktal",
       "slug": "fraktal",
-      "episode_count": 8,
+      "episode_count": 17,
       "sub_franchise_count": 1
     },
     {
@@ -848,5 +848,5 @@
     }
   ],
   "total_franchises": 141,
-  "total_episodes": 3555
+  "total_episodes": 3543
 }

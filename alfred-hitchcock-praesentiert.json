@@ -6,109 +6,6 @@
   "sub_franchises": [],
   "episodes": [
     {
-      "id": "frak-folg-0542",
-      "title": "Folge 01: Verloren im Mikrokosmos",
-      "author": "Alfred Hitchcock präsentiert",
-      "episode_number": 1,
-      "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
-      ],
-      "chapters": [
-        {
-          "id": "frak-folg-0542-t01",
-          "title": "Verloren im Mikrokosmos, Teil 1",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 14.307
-        },
-        {
-          "id": "frak-folg-0542-t02",
-          "title": "Verloren im Mikrokosmos, Teil 2",
-          "index": 1,
-          "startTime": 14.307,
-          "duration": 230.787
-        },
-        {
-          "id": "frak-folg-0542-t03",
-          "title": "Verloren im Mikrokosmos, Teil 3",
-          "index": 2,
-          "startTime": 245.094,
-          "duration": 787.333
-        },
-        {
-          "id": "frak-folg-0542-t04",
-          "title": "Verloren im Mikrokosmos, Teil 4",
-          "index": 3,
-          "startTime": 1032.427,
-          "duration": 744.893
-        },
-        {
-          "id": "frak-folg-0542-t05",
-          "title": "Verloren im Mikrokosmos, Teil 5",
-          "index": 4,
-          "startTime": 1777.32,
-          "duration": 382.04
-        },
-        {
-          "id": "frak-folg-0542-t06",
-          "title": "Verloren im Mikrokosmos, Teil 6",
-          "index": 5,
-          "startTime": 2159.36,
-          "duration": 745.613
-        },
-        {
-          "id": "frak-folg-0542-t07",
-          "title": "Verloren im Mikrokosmos, Teil 7",
-          "index": 6,
-          "startTime": 2904.973,
-          "duration": 382.373
-        },
-        {
-          "id": "frak-folg-0542-t08",
-          "title": "Verloren im Mikrokosmos, Teil 8",
-          "index": 7,
-          "startTime": 3287.346,
-          "duration": 453.333
-        },
-        {
-          "id": "frak-folg-0542-t09",
-          "title": "Verloren im Mikrokosmos, Teil 9",
-          "index": 8,
-          "startTime": 3740.679,
-          "duration": 168.187
-        },
-        {
-          "id": "frak-folg-0542-t10",
-          "title": "Verloren im Mikrokosmos, Teil 10",
-          "index": 9,
-          "startTime": 3908.866,
-          "duration": 196.213
-        },
-        {
-          "id": "frak-folg-0542-t11",
-          "title": "Verloren im Mikrokosmos, Teil 11",
-          "index": 10,
-          "startTime": 4105.079,
-          "duration": 137.747
-        }
-      ],
-      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/83/6c/b1/836cb149-4c1a-ab5f-abea-81fa7d2dc6e0/4260147772901_1448.jpg/100x100bb.jpg",
-      "apple_music_id": 880970542,
-      "status": "active",
-      "sub_franchise_id": null,
-      "last_validated": null,
-      "updated_at": "2026-06-06T20:14:39.741380",
-      "extra": {
-        "description": "Ein Album mit Hörspiel-Titel und -Genre, das auf Apple Music verfügbar ist.",
-        "total_duration": 4242.826,
-        "platforms": {
-          "appleMusic": "880970542"
-        }
-      }
-    },
-    {
       "id": "kste-folg-1420",
       "title": "Folge 1: Das Haus am Abgrund Teil 1",
       "author": "Alfred Hitchcock präsentiert",
@@ -752,5 +649,5 @@
       }
     }
   ],
-  "episode_count": 3
+  "episode_count": 2
 }
