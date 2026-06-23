@@ -12603,6 +12603,34 @@
       "sub_franchise": "Sherlock Holmes & Co"
     },
     {
+      "id": "ep_e95c2783e009",
+      "title": "Folge 16: Die Unbekannte aus der Themse",
+      "author": "Sherlock Holmes Chronicles",
+      "episode_number": 16,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/42/2e/dd422e86-96ad-7d4b-fe8a-d2c1805d59ad/4260507147660_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1451511285,
+      "status": "active",
+      "sub_franchise_id": 21,
+      "last_validated": null,
+      "updated_at": "2026-06-23T20:59:57",
+      "extra": {
+        "discovery_candidate_id": 2074,
+        "discovery_run_id": 75,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Sherlock Holmes",
+          "sub_franchise": "Sherlock Holmes Chronicles"
+        }
+      },
+      "sub_franchise": "Sherlock Holmes Chronicles"
+    },
+    {
       "id": "ep_f54fe937074c",
       "title": "Folge 17: Das Verlangen zu töten",
       "author": "Sherlock Holmes & Co",
@@ -12965,6 +12993,34 @@
         }
       },
       "sub_franchise": "Sherlock Holmes & Co"
+    },
+    {
+      "id": "ep_e856afd07166",
+      "title": "Fall 23: Der Flottenvertrag (Die alten Fälle) [Reloaded]",
+      "author": "Sherlock Holmes - Die alten Fälle (Reloaded)",
+      "episode_number": 23,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/7e/de/7c7ede8c-6768-63a6-032a-69702e0a1654/4260507152930_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1474634316,
+      "status": "active",
+      "sub_franchise_id": 16,
+      "last_validated": null,
+      "updated_at": "2026-06-23T20:59:54",
+      "extra": {
+        "discovery_candidate_id": 2070,
+        "discovery_run_id": 74,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Sherlock Holmes",
+          "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
+        }
+      },
+      "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
     },
     {
       "id": "ep_7a74e25bf093",
@@ -13861,6 +13917,34 @@
         }
       },
       "sub_franchise": "Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs"
+    },
+    {
+      "id": "ep_8f8baf717466",
+      "title": "Fall 38: Das gesprenkelte Band (Die alten Fälle) [Reloaded]",
+      "author": "Sherlock Holmes - Die alten Fälle (Reloaded)",
+      "episode_number": 38,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/1c/ff/061cff4e-8425-930b-8166-527aa788dd9c/4260507153081_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1474642852,
+      "status": "active",
+      "sub_franchise_id": 16,
+      "last_validated": null,
+      "updated_at": "2026-06-23T20:59:55",
+      "extra": {
+        "discovery_candidate_id": 2071,
+        "discovery_run_id": 74,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Sherlock Holmes",
+          "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
+        }
+      },
+      "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
     },
     {
       "id": "ep_75f482658e85",
@@ -50984,5 +51068,5 @@
       }
     }
   ],
-  "episode_count": 378
+  "episode_count": 381
 }

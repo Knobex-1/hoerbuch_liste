@@ -3,7 +3,7 @@
     {
       "name": "Die drei ???",
       "slug": "die-drei-???",
-      "episode_count": 478,
+      "episode_count": 480,
       "sub_franchise_count": 2
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "Sherlock Holmes",
       "slug": "sherlock-holmes",
-      "episode_count": 378,
+      "episode_count": 381,
       "sub_franchise_count": 12
     },
     {
@@ -848,5 +848,5 @@
     }
   ],
   "total_franchises": 141,
-  "total_episodes": 3543
+  "total_episodes": 3548
 }

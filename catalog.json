@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-23T16:11:13.348404+00:00",
+  "exported_at": "2026-06-23T21:08:07.609470+00:00",
   "franchises": [
     {
       "name": "100% Wolf",
@@ -79728,6 +79728,20 @@
           "sub_franchise": "Die drei !!!"
         },
         {
+          "id": "ep_ee00595582e4",
+          "title": "Folge 17: Gefährliche Fracht",
+          "author": "Die drei !!!",
+          "episode_number": null,
+          "genres": [
+            "Hörspiele"
+          ],
+          "chapters": [],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2a/50/65/2a5065d8-7b57-27a4-9bac-2c5ffb2178b5/886445750430.jpg/100x100bb.jpg",
+          "apple_music_id": 1092513350,
+          "status": "active",
+          "sub_franchise": "Die drei !!!"
+        },
+        {
           "id": "ep_d123fc64c803",
           "title": "Toteninsel (Das Original-Hörspiel zum Kinofilm)",
           "author": "Die drei ???",
@@ -81988,6 +82002,20 @@
           "chapters": [],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/2f/45/e22f45fa-dfae-7d52-e115-d8544c920d17/886446606873.jpg/100x100bb.jpg",
           "apple_music_id": 1406273103,
+          "status": "active",
+          "sub_franchise": "Die drei !!!"
+        },
+        {
+          "id": "ep_81e394a48f4f",
+          "title": "Folge 58: Gorilla in Not",
+          "author": "Die drei !!!",
+          "episode_number": 58,
+          "genres": [
+            "Hörspiele"
+          ],
+          "chapters": [],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e4/ad/2e/e4ad2ee9-3038-436d-b328-7f879dd06d01/886446606880.jpg/100x100bb.jpg",
+          "apple_music_id": 1436947816,
           "status": "active",
           "sub_franchise": "Die drei !!!"
         },
@@ -228358,6 +228386,20 @@
           "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
         },
         {
+          "id": "ep_e856afd07166",
+          "title": "Fall 23: Der Flottenvertrag (Die alten Fälle) [Reloaded]",
+          "author": "Sherlock Holmes - Die alten Fälle (Reloaded)",
+          "episode_number": 23,
+          "genres": [
+            "Hörspiele"
+          ],
+          "chapters": [],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/7e/de/7c7ede8c-6768-63a6-032a-69702e0a1654/4260507152930_3000.jpg/100x100bb.jpg",
+          "apple_music_id": 1474634316,
+          "status": "active",
+          "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
+        },
+        {
           "id": "ep_80d812484fbc",
           "title": "Fall 24: Im Zeichen der Vier (Die alten Fälle) [Reloaded]",
           "author": "Sherlock Holmes - Die alten Fälle (Reloaded)",
@@ -228466,6 +228508,20 @@
           "chapters": [],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c2/01/df/c201df48-0729-312a-e49f-399311726643/4260507153067_3000.jpg/100x100bb.jpg",
           "apple_music_id": 1474640019,
+          "status": "active",
+          "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
+        },
+        {
+          "id": "ep_8f8baf717466",
+          "title": "Fall 38: Das gesprenkelte Band (Die alten Fälle) [Reloaded]",
+          "author": "Sherlock Holmes - Die alten Fälle (Reloaded)",
+          "episode_number": 38,
+          "genres": [
+            "Hörspiele"
+          ],
+          "chapters": [],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/1c/ff/061cff4e-8425-930b-8166-527aa788dd9c/4260507153081_3000.jpg/100x100bb.jpg",
+          "apple_music_id": 1474642852,
           "status": "active",
           "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
         },
@@ -229306,6 +229362,20 @@
           "chapters": [],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2d/91/11/2d911156-5165-fb6d-cc86-443228456442/4260507158109_3000.jpg/100x100bb.jpg",
           "apple_music_id": 1508619981,
+          "status": "active",
+          "sub_franchise": "Sherlock Holmes Chronicles"
+        },
+        {
+          "id": "ep_e95c2783e009",
+          "title": "Folge 16: Die Unbekannte aus der Themse",
+          "author": "Sherlock Holmes Chronicles",
+          "episode_number": 16,
+          "genres": [
+            "Hörspiele"
+          ],
+          "chapters": [],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/42/2e/dd422e86-96ad-7d4b-fe8a-d2c1805d59ad/4260507147660_3000.jpg/100x100bb.jpg",
+          "apple_music_id": 1451511285,
           "status": "active",
           "sub_franchise": "Sherlock Holmes Chronicles"
         },
