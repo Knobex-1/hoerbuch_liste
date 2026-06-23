@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-23T21:08:14.269464+00:00",
+  "exported_at": "2026-06-23T21:08:32.812486+00:00",
   "franchises": [
     {
       "name": "100% Wolf",
@@ -79735,7 +79735,248 @@
           "genres": [
             "Hörspiele"
           ],
-          "chapters": [],
+          "chapters": [
+            {
+              "track": 1,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 01)",
+              "duration_ms": 96600
+            },
+            {
+              "track": 2,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 02)",
+              "duration_ms": 99267
+            },
+            {
+              "track": 3,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 03)",
+              "duration_ms": 95893
+            },
+            {
+              "track": 4,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 04)",
+              "duration_ms": 97867
+            },
+            {
+              "track": 5,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 05)",
+              "duration_ms": 98400
+            },
+            {
+              "track": 6,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 06)",
+              "duration_ms": 97707
+            },
+            {
+              "track": 7,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 07)",
+              "duration_ms": 98107
+            },
+            {
+              "track": 8,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 08)",
+              "duration_ms": 95000
+            },
+            {
+              "track": 9,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 09)",
+              "duration_ms": 95680
+            },
+            {
+              "track": 10,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 10)",
+              "duration_ms": 95507
+            },
+            {
+              "track": 11,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 11)",
+              "duration_ms": 100653
+            },
+            {
+              "track": 12,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 12)",
+              "duration_ms": 96000
+            },
+            {
+              "track": 13,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 13)",
+              "duration_ms": 98227
+            },
+            {
+              "track": 14,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 14)",
+              "duration_ms": 99747
+            },
+            {
+              "track": 15,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 15)",
+              "duration_ms": 95880
+            },
+            {
+              "track": 16,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 16)",
+              "duration_ms": 99293
+            },
+            {
+              "track": 17,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 17)",
+              "duration_ms": 94973
+            },
+            {
+              "track": 18,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 18)",
+              "duration_ms": 101533
+            },
+            {
+              "track": 19,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 19)",
+              "duration_ms": 91960
+            },
+            {
+              "track": 20,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 20)",
+              "duration_ms": 98400
+            },
+            {
+              "track": 21,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 21)",
+              "duration_ms": 95360
+            },
+            {
+              "track": 22,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 22)",
+              "duration_ms": 98120
+            },
+            {
+              "track": 23,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 23)",
+              "duration_ms": 96240
+            },
+            {
+              "track": 24,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 24)",
+              "duration_ms": 99760
+            },
+            {
+              "track": 25,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 25)",
+              "duration_ms": 95200
+            },
+            {
+              "track": 26,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 26)",
+              "duration_ms": 98653
+            },
+            {
+              "track": 27,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 27)",
+              "duration_ms": 98040
+            },
+            {
+              "track": 28,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 28)",
+              "duration_ms": 97640
+            },
+            {
+              "track": 29,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 29)",
+              "duration_ms": 98133
+            },
+            {
+              "track": 30,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 30)",
+              "duration_ms": 92813
+            },
+            {
+              "track": 31,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 31)",
+              "duration_ms": 100493
+            },
+            {
+              "track": 32,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 32)",
+              "duration_ms": 99200
+            },
+            {
+              "track": 33,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 33)",
+              "duration_ms": 96093
+            },
+            {
+              "track": 34,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 34)",
+              "duration_ms": 97027
+            },
+            {
+              "track": 35,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 35)",
+              "duration_ms": 97027
+            },
+            {
+              "track": 36,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 36)",
+              "duration_ms": 96707
+            },
+            {
+              "track": 37,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 37)",
+              "duration_ms": 98307
+            },
+            {
+              "track": 38,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 38)",
+              "duration_ms": 98240
+            },
+            {
+              "track": 39,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 39)",
+              "duration_ms": 95587
+            },
+            {
+              "track": 40,
+              "disc": 1,
+              "title": "017 - Gefährliche Fracht (Teil 40)",
+              "duration_ms": 98533
+            }
+          ],
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2a/50/65/2a5065d8-7b57-27a4-9bac-2c5ffb2178b5/886445750430.jpg/100x100bb.jpg",
           "apple_music_id": 1092513350,
           "status": "active",
