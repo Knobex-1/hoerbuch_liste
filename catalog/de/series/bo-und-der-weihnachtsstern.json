@@ -1,0 +1,26 @@
+{
+  "seriesId": "bo-und-der-weihnachtsstern",
+  "title": "Bo und der Weihnachtsstern",
+  "language": "de",
+  "author": "Bo und der Weihnachtsstern",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1318363467",
+      "title": "Bo und der Weihnachtsstern (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7b/9b/3b/7b9b3bba-d87d-1820-0702-e1f325646e24/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1318363467"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.386451+00:00"
+}

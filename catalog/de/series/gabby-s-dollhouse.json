@@ -1,0 +1,26 @@
+{
+  "seriesId": "gabby-s-dollhouse",
+  "title": "Gabby's Dollhouse",
+  "language": "de",
+  "author": "Gabby's Dollhouse",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1856575004",
+      "title": "Gabby's Dollhouse - Der Film (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/d7/ce/8fd7ce72-4b1f-00ad-a6c3-d213ad3b6df5/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1856575004"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.501925+00:00"
+}

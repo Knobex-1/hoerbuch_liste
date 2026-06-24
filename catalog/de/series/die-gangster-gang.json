@@ -1,0 +1,39 @@
+{
+  "seriesId": "die-gangster-gang",
+  "title": "Die Gangster Gang",
+  "language": "de",
+  "author": "Die Gangster Gang",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1882979663",
+      "title": "Die Gangster-Gang 2 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/bd/da/ffbdda4c-08ac-a535-40c6-23527869dcbb/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1882979663"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1877189748",
+      "title": "Die Gangster Gang (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/ca/9810cab6-8c84-c866-df99-f833c6e7a3a4/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1877189748"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.389374+00:00"
+}

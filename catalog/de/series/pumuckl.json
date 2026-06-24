@@ -1,0 +1,26 @@
+{
+  "seriesId": "pumuckl",
+  "title": "Pumuckl",
+  "language": "de",
+  "author": "Pumuckl",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1847324343",
+      "title": "Pumuckl und das große Missverständnis (Das Original-Hörspiel zum Kinofilm) (Neue Geschichten vom Pumuckl)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/c6/6f/6cc66f0b-f632-5595-d44b-fbd998c613b5/4069829029339.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1847324343"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.512207+00:00"
+}

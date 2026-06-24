@@ -1,0 +1,65 @@
+{
+  "seriesId": "kung-fu-panda",
+  "title": "Kung Fu Panda",
+  "language": "de",
+  "author": "Kung Fu Panda",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1478405889",
+      "title": "Kung Fu Panda 2 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/14/81/0f/14810f7b-1112-290f-2695-5135f3d556fb/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1478405889"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1555487922",
+      "title": "Kung Fu Panda 3 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/04/27/55/04275589-c475-9a1e-7db7-f263f0137fac/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555487922"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1749249913",
+      "title": "Kung Fu Panda 4 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/55/01/125501b3-f447-58e3-c7ff-fc139c9d0725/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1749249913"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1555487834",
+      "title": "Kung Fu Panda (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/cf/01/c2cf01d5-eae1-fadb-ba95-049fbc21356a/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555487834"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.506746+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "seriesId": "die-heinzels",
+  "title": "Die Heinzels",
+  "language": "de",
+  "author": "Die Heinzels",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1782303901",
+      "title": "Die Heinzels - Neue Mützen neue Mission (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/56/3d/11563d70-ac1b-a4bc-3aa1-29daa2dc2272/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1782303901"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1495464572",
+      "title": "Die Heinzels - Rückkehr der Heinzelmännchen (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/76/c7/e976c788-f8a5-23d3-2d8b-3708d73fbd63/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1495464572"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.389539+00:00"
+}

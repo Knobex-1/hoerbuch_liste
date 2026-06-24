@@ -1,0 +1,26 @@
+{
+  "seriesId": "camp-rock",
+  "title": "Camp Rock",
+  "language": "de",
+  "author": "Camp Rock",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1686013372",
+      "title": "Camp Rock (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/c9/3d/3bc93d30-efd9-6d15-9350-9a1965872675/4066339609518.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686013372"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.387093+00:00"
+}

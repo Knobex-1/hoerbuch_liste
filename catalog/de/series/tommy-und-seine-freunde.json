@@ -1,0 +1,39 @@
+{
+  "seriesId": "tommy-und-seine-freunde",
+  "title": "Tommy und seine Freunde",
+  "language": "de",
+  "author": "Tommy und seine Freunde",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1450402990",
+      "title": "Folge 5: Die verräterische Spur / Die Wilddiebe",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/48/c7/f648c739-d24b-7f16-a362-ac11f72732a1/4260507147189_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1450402990"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1896352875",
+      "title": "Große Welt! Große Abenteuer! (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/5d/dc/fa5ddc37-4c2f-3d86-c802-2b1eeff84a48/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1896352875"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.516123+00:00"
+}

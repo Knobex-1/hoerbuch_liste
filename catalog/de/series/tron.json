@@ -1,0 +1,26 @@
+{
+  "seriesId": "tron",
+  "title": "TRON",
+  "language": "de",
+  "author": "TRON",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1685843211",
+      "title": "TRON - Legacy (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/b5/bd/c3b5bd3b-552d-641c-ddc4-6b8a3c500763/4066339483675.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685843211"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.513949+00:00"
+}

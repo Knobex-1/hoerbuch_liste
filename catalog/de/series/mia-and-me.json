@@ -1,0 +1,26 @@
+{
+  "seriesId": "mia-and-me",
+  "title": "Mia and Me",
+  "language": "de",
+  "author": "Mia and Me",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1624446231",
+      "title": "Das Geheimnis von Centopia (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a9/04/c1/a904c1cd-15d3-0bc0-90bc-d7b050a5e686/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1624446231"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.508456+00:00"
+}

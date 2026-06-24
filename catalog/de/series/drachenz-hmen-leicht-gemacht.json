@@ -1,0 +1,52 @@
+{
+  "seriesId": "drachenz-hmen-leicht-gemacht",
+  "title": "Drachenzähmen leicht gemacht",
+  "language": "de",
+  "author": "Drachenzähmen leicht gemacht",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1372059217",
+      "title": "Drachenzähmen leicht gemacht 2 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/7a/d4/2e7ad43d-bdb4-21c7-b905-e7ed96fe78cd/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1372059217"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1450046028",
+      "title": "Drachenzähmen leicht gemacht 3 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/24/51/32245157-1eaf-e999-8518-1369a3728edb/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1450046028"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1372053940",
+      "title": "Drachenzähmen leicht gemacht (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/ba/38/5cba384c-1a1f-403e-845f-4adf305114ad/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1372053940"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.495812+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "seriesId": "jim-knopf-und-lukas-der-lokomotivf-hrer",
+  "title": "Jim Knopf Und Lukas Der Lokomotivführer",
+  "language": "de",
+  "author": "Jim Knopf Und Lukas Der Lokomotivführer",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1686137706",
+      "title": "Jim Knopf und die Wilde 13 (Hörspiel zum Kinofilm)",
+      "episodeNumber": 13,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/36/5f/b1365f0b-fee0-70e3-cfbf-abe1238f61f5/4064066721879.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686137706"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686206879",
+      "title": "Jim Knopf und Lukas der Lokomotivführer (Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/a4/de/58a4de6a-b3a0-eb48-03d2-91e82dacf486/4057664396273.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686206879"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.505824+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "seriesId": "wendy",
+  "title": "Wendy",
+  "language": "de",
+  "author": "Wendy",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1686023135",
+      "title": "Wendy 2 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/85/87/598587b6-9111-a90d-4a21-87105233e18c/4057664364562.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686023135"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686453218",
+      "title": "Peter Pan & Wendy (Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/f8/81/86f881fb-d9af-0234-1692-dfe322e887c0/4066339743526.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686453218"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686026362",
+      "title": "Wendy (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/06/61/2f/06612f3a-ef0f-a7cb-d6f7-e65a7a97c8d5/4057664078926.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686026362"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.516851+00:00"
+}

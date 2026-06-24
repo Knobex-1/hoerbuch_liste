@@ -1,0 +1,302 @@
+{
+  "seriesId": "traumreisen-f-r-erwachsene-und-kinder",
+  "title": "Traumreisen für Erwachsene und Kinder",
+  "language": "de",
+  "author": "Traumreisen für Erwachsene und Kinder",
+  "narrator": "",
+  "genres": [
+    "Hörspiel",
+    "Kinder & Jugend",
+    "Entspannung"
+  ],
+  "albums": [
+    {
+      "id": "1784374396",
+      "title": "Folge 1: Ein Sommertag auf der Blumenwiese - Single",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/ae/90/fdae9096-3296-ef29-35db-e5cab04e86ef/4066004810973_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 540.0,
+      "platforms": {
+        "appleMusic": "1784374396"
+      },
+      "chapters": [
+        {
+          "id": "trau-folg-4396-t01",
+          "title": "Kapitel 1 - Folge 1: Ein Sommertag auf der Blumenwiese",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-4396-t02",
+          "title": "Kapitel 2 - Folge 1: Ein Sommertag auf der Blumenwiese",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 359.99
+        }
+      ]
+    },
+    {
+      "id": "1784374270",
+      "title": "Folge 2: Eine Wanderung im Wald - Single",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/90/9d/b3909d50-c43e-de12-3b8a-328b3a8395cb/4066004810980_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 540.0,
+      "platforms": {
+        "appleMusic": "1784374270"
+      },
+      "chapters": [
+        {
+          "id": "trau-folg-4270-t01",
+          "title": "Kapitel 1 - Folge 2: Eine Wanderung im Wald",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-4270-t02",
+          "title": "Kapitel 2 - Folge 2: Eine Wanderung im Wald",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 359.99
+        }
+      ]
+    },
+    {
+      "id": "1784374665",
+      "title": "Folge 3: Eine Wanderung in den Bergen - Single",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/a6/b2/54a6b2c5-d601-aaac-712c-07832981d787/4066004810997_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 540.0,
+      "platforms": {
+        "appleMusic": "1784374665"
+      },
+      "chapters": [
+        {
+          "id": "trau-folg-4665-t01",
+          "title": "Kapitel 1 - Folge 3: Eine Wanderung in den Bergen",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-4665-t02",
+          "title": "Kapitel 2 - Folge 3: Eine Wanderung in den Bergen",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 359.99
+        }
+      ]
+    },
+    {
+      "id": "1784374483",
+      "title": "Folge 4: Eine Übernachtung in der Almhütte - Single",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/04/bc/1e04bce7-a570-b99b-82cd-27bbca6d7ada/4066004811000_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 540.0,
+      "platforms": {
+        "appleMusic": "1784374483"
+      },
+      "chapters": [
+        {
+          "id": "trau-folg-4483-t01",
+          "title": "Kapitel 1 - Folge 4: Eine Übernachtung in der Almhütte",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-4483-t02",
+          "title": "Kapitel 2 - Folge 4: Eine Übernachtung in der Almhütte",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 359.99
+        }
+      ]
+    },
+    {
+      "id": "1791589816",
+      "title": "Folge 5: Eine magische Safari - Single",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/27/c1/e327c1c5-10f4-2572-19e2-5f3f2d861968/4066004811017_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 542.0,
+      "platforms": {
+        "appleMusic": "1791589816"
+      },
+      "chapters": [
+        {
+          "id": "trau-folg-9816-t01",
+          "title": "Kapitel 1 - Folge 5: Eine magische Safari",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-9816-t02",
+          "title": "Kapitel 2 - Folge 5: Eine magische Safari",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-9816-t03",
+          "title": "Kapitel 3 - Folge 5: Eine magische Safari",
+          "index": 2,
+          "startTime": 360.02,
+          "duration": 181.98
+        }
+      ]
+    },
+    {
+      "id": "1791590163",
+      "title": "Folge 6: Das magische Korallenriff - Single",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/53/94/1f539496-8a12-a48b-8a63-a53afa3301d7/4066004811024_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 542.0,
+      "platforms": {
+        "appleMusic": "1791590163"
+      },
+      "chapters": [
+        {
+          "id": "trau-folg-0163-t01",
+          "title": "Kapitel 1 - Folge 6: Das magische Korallenriff",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-0163-t02",
+          "title": "Kapitel 2 - Folge 6: Das magische Korallenriff",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-0163-t03",
+          "title": "Kapitel 3 - Folge 6: Das magische Korallenriff",
+          "index": 2,
+          "startTime": 360.02,
+          "duration": 181.98
+        }
+      ]
+    },
+    {
+      "id": "1791590887",
+      "title": "Folge 7: Das chinesische Feuerwerk - Single",
+      "episodeNumber": 7,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/d4/87/c6d4878c-275c-063b-520d-6c588fdac921/4066004811031_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 542.0,
+      "platforms": {
+        "appleMusic": "1791590887"
+      },
+      "chapters": [
+        {
+          "id": "trau-folg-0887-t01",
+          "title": "Kapitel 1 - Folge 7: Das chinesische Feuerwerk",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-0887-t02",
+          "title": "Kapitel 2 - Folge 7: Das chinesische Feuerwerk",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-0887-t03",
+          "title": "Kapitel 3 - Folge 7: Das chinesische Feuerwerk",
+          "index": 2,
+          "startTime": 360.02,
+          "duration": 181.98
+        }
+      ]
+    },
+    {
+      "id": "1791593229",
+      "title": "Folge 8: Ein Flug im Heissluftballon - Single",
+      "episodeNumber": 8,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/1b/28/d51b2875-593d-2b33-dbce-22a1f73011ad/4066004811048_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 542.0,
+      "platforms": {
+        "appleMusic": "1791593229"
+      },
+      "chapters": [
+        {
+          "id": "trau-folg-3229-t01",
+          "title": "Kapitel 1 - Folge 8: Ein Flug im Heissluftballon",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-3229-t02",
+          "title": "Kapitel 2 - Folge 8: Ein Flug im Heissluftballon",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-folg-3229-t03",
+          "title": "Kapitel 3 - Folge 8: Ein Flug im Heissluftballon",
+          "index": 2,
+          "startTime": 360.02,
+          "duration": 181.98
+        }
+      ]
+    },
+    {
+      "id": "1851297535",
+      "title": "Die Traumreise zum Sternenhimmel - Single",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/53/38/7b533880-8641-17cf-12ea-cb77c24a8285/4066004865942_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 602.0,
+      "platforms": {
+        "appleMusic": "1851297535"
+      },
+      "chapters": [
+        {
+          "id": "trau-diet-7535-t01",
+          "title": "Kapitel 1 - Die Traumreise zum Sternenhimmel",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-diet-7535-t02",
+          "title": "Kapitel 2 - Die Traumreise zum Sternenhimmel",
+          "index": 1,
+          "startTime": 180.01,
+          "duration": 180.01
+        },
+        {
+          "id": "trau-diet-7535-t03",
+          "title": "Kapitel 3 - Die Traumreise zum Sternenhimmel",
+          "index": 2,
+          "startTime": 360.02,
+          "duration": 241.98
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:31.327198+00:00"
+}

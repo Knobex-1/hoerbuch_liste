@@ -1,0 +1,26 @@
+{
+  "seriesId": "cinderella",
+  "title": "Cinderella",
+  "language": "de",
+  "author": "Cinderella",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1686030237",
+      "title": "Cinderella (Das Original-Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/1e/79/9d1e795e-3447-7dab-0b1c-c1f40e988411/4066339502369.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686030237"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.387466+00:00"
+}

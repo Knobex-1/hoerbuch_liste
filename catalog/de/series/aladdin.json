@@ -1,0 +1,26 @@
+{
+  "seriesId": "aladdin",
+  "title": "Aladdin",
+  "language": "de",
+  "author": "Aladdin",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1685940073",
+      "title": "Aladdin (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/67/cb/6167cb66-0fde-7ac0-a371-7a6cd96028b0/4066339450073.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685940073"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.385060+00:00"
+}

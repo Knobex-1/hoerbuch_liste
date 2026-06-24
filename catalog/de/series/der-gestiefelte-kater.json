@@ -1,0 +1,39 @@
+{
+  "seriesId": "der-gestiefelte-kater",
+  "title": "Der Gestiefelte Kater",
+  "language": "de",
+  "author": "Der Gestiefelte Kater",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1127889811",
+      "title": "Der gestiefelte Kater - Schnurr um Gnade (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/eb/db/b1/ebdbb1b7-626b-a22f-d0c4-c02ffa4091c4/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1127889811"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1673717787",
+      "title": "Der gestiefelte Kater: Der letzte Wunsch (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/79/a5/1779a5d3-027a-095a-ccef-e961e326c933/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1673717787"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.388257+00:00"
+}

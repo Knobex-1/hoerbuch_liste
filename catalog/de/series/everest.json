@@ -1,0 +1,26 @@
+{
+  "seriesId": "everest",
+  "title": "Everest",
+  "language": "de",
+  "author": "Everest",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1480209887",
+      "title": "Everest - Ein Yeti will hoch hinaus (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/7f/e4/a17fe420-c317-88c4-115c-87fbf610ea31/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1480209887"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.496543+00:00"
+}

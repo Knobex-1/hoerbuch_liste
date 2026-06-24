@@ -1,0 +1,93 @@
+{
+  "seriesId": "michelle-madow-fantasy-h-rb-cher-h-rbuch-bestseller",
+  "title": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+  "language": "de",
+  "author": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+  "narrator": "",
+  "genres": [
+    "Abenteuer",
+    "Fantasy",
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1471612318",
+      "title": "Michel in der Suppenschüssel (Hörspiel zum 1. Kinofilm)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8b/7b/96/8b7b96fb-2c8d-1d60-a572-5c90540ef99f/886447615461.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1471612318"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1471614198",
+      "title": "Michel muss mehr Männchen machen (Hörspiel zum 2. Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ec/0a/bb/ec0abbc0-a6e4-8df4-47a4-2bd8d55f6b02/886447615478.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1471614198"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1471614556",
+      "title": "Michel bringt die Welt in Ordnung (Hörspiel zum 3. Kinofilm)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/44/ca/60/44ca60ca-7d98-9ac6-3abd-d841d507b797/886447615485.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1471614556"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1875323195",
+      "title": "Blazing Sun - Die Stadt der Vampire 4 - Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fb/b1/28fbb19f-8167-6d9f-d574-cc78a6dbfd4a/4069829541695_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1875323195"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1862535411",
+      "title": "Fading Sun - Die Stadt der Vampire 3 - Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/37/96/2d379630-76c4-9dd3-691b-fb2f7ce8073e/4069829312042_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1862535411"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1860060372",
+      "title": "Posion Sun - Die Stadt der Vampire 2 - Hörspiel",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/98/c9/5c98c99f-9c7e-e564-0e03-8233e8ff7ee0/4069829238106_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1860060372"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:10.031621+00:00"
+}

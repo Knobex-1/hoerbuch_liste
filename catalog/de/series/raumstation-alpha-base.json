@@ -1,0 +1,1644 @@
+{
+  "seriesId": "raumstation-alpha-base",
+  "title": "Raumstation Alpha-Base",
+  "language": "de",
+  "author": "Raumstation Alpha-Base",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "845368698",
+      "title": "Folge 01: Sprung durch den Sektor",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/c7/05/ec/c705ec7b-0bf6-3231-a5f7-4eee8f479915/4250064604645_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "845368698"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-845368698-t01",
+          "title": "Sprung durch den Sektor, Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t02",
+          "title": "Sprung durch den Sektor, Teil 2",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t03",
+          "title": "Sprung durch den Sektor, Teil 3",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t04",
+          "title": "Sprung durch den Sektor, Teil 4",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t05",
+          "title": "Sprung durch den Sektor, Teil 5",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t06",
+          "title": "Sprung durch den Sektor, Teil 6",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t07",
+          "title": "Sprung durch den Sektor, Teil 7",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t08",
+          "title": "Sprung durch den Sektor, Teil 8",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t09",
+          "title": "Sprung durch den Sektor, Teil 9",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t10",
+          "title": "Sprung durch den Sektor, Teil 10",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t11",
+          "title": "Sprung durch den Sektor, Teil 11",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t12",
+          "title": "Sprung durch den Sektor, Teil 12",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t13",
+          "title": "Sprung durch den Sektor, Teil 13",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t14",
+          "title": "Sprung durch den Sektor, Teil 14",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t15",
+          "title": "Sprung durch den Sektor, Teil 15",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t16",
+          "title": "Sprung durch den Sektor, Teil 16",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t17",
+          "title": "Sprung durch den Sektor, Teil 17",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t18",
+          "title": "Sprung durch den Sektor, Teil 18",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t19",
+          "title": "Sprung durch den Sektor, Teil 19",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t20",
+          "title": "Sprung durch den Sektor, Teil 20",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t21",
+          "title": "Sprung durch den Sektor, Teil 21",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845368698-t22",
+          "title": "Sprung durch den Sektor, Teil 22",
+          "index": 21,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "845186324",
+      "title": "Folge 04: Kontakt",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d2/61/67/d26167e3-73ad-cd7c-4523-539619106263/4250064604928_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "845186324"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-845186324-t01",
+          "title": "Kontakt, Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t02",
+          "title": "Kontakt, Teil 2",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t03",
+          "title": "Kontakt, Teil 3",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t04",
+          "title": "Kontakt, Teil 4",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t05",
+          "title": "Kontakt, Teil 5",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t06",
+          "title": "Kontakt, Teil 6",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t07",
+          "title": "Kontakt, Teil 7",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t08",
+          "title": "Kontakt, Teil 8",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t09",
+          "title": "Kontakt, Teil 9",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t10",
+          "title": "Kontakt, Teil 10",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t11",
+          "title": "Kontakt, Teil 11",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t12",
+          "title": "Kontakt, Teil 12",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t13",
+          "title": "Kontakt, Teil 13",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t14",
+          "title": "Kontakt, Teil 14",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t15",
+          "title": "Kontakt, Teil 15",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t16",
+          "title": "Kontakt, Teil 16",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t17",
+          "title": "Kontakt, Teil 17",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t18",
+          "title": "Kontakt, Teil 18",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t19",
+          "title": "Kontakt, Teil 19",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845186324-t20",
+          "title": "Kontakt, Teil 20",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "845199610",
+      "title": "Folge 05: Das letzte Lebenszeichen",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/0d/0b/34/0d0b34de-019c-f010-4aee-523d1f6ab89e/4250064604935_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "845199610"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-845199610-t01",
+          "title": "Das letzte Lebenszeichen, Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t02",
+          "title": "Das letzte Lebenszeichen, Teil 2",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t03",
+          "title": "Das letzte Lebenszeichen, Teil 3",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t04",
+          "title": "Das letzte Lebenszeichen, Teil 4",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t05",
+          "title": "Das letzte Lebenszeichen, Teil 5",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t06",
+          "title": "Das letzte Lebenszeichen, Teil 6",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t07",
+          "title": "Das letzte Lebenszeichen, Teil 7",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t08",
+          "title": "Das letzte Lebenszeichen, Teil 8",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t09",
+          "title": "Das letzte Lebenszeichen, Teil 9",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t10",
+          "title": "Das letzte Lebenszeichen, Teil 10",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t11",
+          "title": "Das letzte Lebenszeichen, Teil 11",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t12",
+          "title": "Das letzte Lebenszeichen, Teil 12",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t13",
+          "title": "Das letzte Lebenszeichen, Teil 13",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t14",
+          "title": "Das letzte Lebenszeichen, Teil 14",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t15",
+          "title": "Das letzte Lebenszeichen, Teil 15",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t16",
+          "title": "Das letzte Lebenszeichen, Teil 16",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t17",
+          "title": "Das letzte Lebenszeichen, Teil 17",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t18",
+          "title": "Das letzte Lebenszeichen, Teil 18",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845199610-t19",
+          "title": "Das letzte Lebenszeichen, Teil 19",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "845227479",
+      "title": "Folge 06: Die Romani",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/82/26/a5/8226a50a-1ca1-1f76-b953-fa673615bf3d/4250064605161_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "845227479"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-845227479-t01",
+          "title": "Die Romani, Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t02",
+          "title": "Die Romani, Teil 2",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t03",
+          "title": "Die Romani, Teil 3",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t04",
+          "title": "Die Romani, Teil 4",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t05",
+          "title": "Die Romani, Teil 5",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t06",
+          "title": "Die Romani, Teil 6",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t07",
+          "title": "Die Romani, Teil 7",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t08",
+          "title": "Die Romani, Teil 8",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t09",
+          "title": "Die Romani, Teil 9",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t10",
+          "title": "Die Romani, Teil 10",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t11",
+          "title": "Die Romani, Teil 11",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t12",
+          "title": "Die Romani, Teil 12",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t13",
+          "title": "Die Romani, Teil 13",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t14",
+          "title": "Die Romani, Teil 14",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t15",
+          "title": "Die Romani, Teil 15",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t16",
+          "title": "Die Romani, Teil 16",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t17",
+          "title": "Die Romani, Teil 17",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t18",
+          "title": "Die Romani, Teil 18",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t19",
+          "title": "Die Romani, Teil 19",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t20",
+          "title": "Die Romani, Teil 20",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t21",
+          "title": "Die Romani, Teil 21",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t22",
+          "title": "Die Romani, Teil 22",
+          "index": 21,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t23",
+          "title": "Die Romani, Teil 23",
+          "index": 22,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t24",
+          "title": "Die Romani, Teil 24",
+          "index": 23,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t25",
+          "title": "Die Romani, Teil 25",
+          "index": 24,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t26",
+          "title": "Die Romani, Teil 26",
+          "index": 25,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t27",
+          "title": "Die Romani, Teil 27",
+          "index": 26,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t28",
+          "title": "Die Romani, Teil 28",
+          "index": 27,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t29",
+          "title": "Die Romani, Teil 29",
+          "index": 28,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t30",
+          "title": "Die Romani, Teil 30",
+          "index": 29,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845227479-t31",
+          "title": "Die Romani, Teil 31",
+          "index": 30,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "845242481",
+      "title": "Folge 07: Der Untergang der Alpha-Base",
+      "episodeNumber": 7,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/8e/da/cf/8edacf75-fe31-f463-7d14-c4d0b0634349/4250064605178_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "845242481"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-845242481-t01",
+          "title": "Der Untergang der Alpha-Base, Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t02",
+          "title": "Der Untergang der Alpha-Base, Teil 2",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t03",
+          "title": "Der Untergang der Alpha-Base, Teil 3",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t04",
+          "title": "Der Untergang der Alpha-Base, Teil 4",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t05",
+          "title": "Der Untergang der Alpha-Base, Teil 5",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t06",
+          "title": "Der Untergang der Alpha-Base, Teil 6",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t07",
+          "title": "Der Untergang der Alpha-Base, Teil 7",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t08",
+          "title": "Der Untergang der Alpha-Base, Teil 8",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t09",
+          "title": "Der Untergang der Alpha-Base, Teil 9",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t10",
+          "title": "Der Untergang der Alpha-Base, Teil 10",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t11",
+          "title": "Der Untergang der Alpha-Base, Teil 11",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t12",
+          "title": "Der Untergang der Alpha-Base, Teil 12",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t13",
+          "title": "Der Untergang der Alpha-Base, Teil 13",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t14",
+          "title": "Der Untergang der Alpha-Base, Teil 14",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t15",
+          "title": "Der Untergang der Alpha-Base, Teil 15",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t16",
+          "title": "Der Untergang der Alpha-Base, Teil 16",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t17",
+          "title": "Der Untergang der Alpha-Base, Teil 17",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t18",
+          "title": "Der Untergang der Alpha-Base, Teil 18",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t19",
+          "title": "Der Untergang der Alpha-Base, Teil 19",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t20",
+          "title": "Der Untergang der Alpha-Base, Teil 20",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845242481-t21",
+          "title": "Der Untergang der Alpha-Base, Teil 21",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "848317908",
+      "title": "Folge 08: Feind",
+      "episodeNumber": 8,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/1f/cf/bc/1fcfbc8a-a565-d9e2-1054-abe8e0c74242/4250064605376_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "848317908"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-848317908-t01",
+          "title": "Feind, Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t02",
+          "title": "Feind, Teil 2",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t03",
+          "title": "Feind, Teil 3",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t04",
+          "title": "Feind, Teil 4",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t05",
+          "title": "Feind, Teil 5",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t06",
+          "title": "Feind, Teil 6",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t07",
+          "title": "Feind, Teil 7",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t08",
+          "title": "Feind, Teil 8",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t09",
+          "title": "Feind, Teil 9",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t10",
+          "title": "Feind, Teil 10",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t11",
+          "title": "Feind, Teil 11",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t12",
+          "title": "Feind, Teil 12",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t13",
+          "title": "Feind, Teil 13",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t14",
+          "title": "Feind, Teil 14",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t15",
+          "title": "Feind, Teil 15",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t16",
+          "title": "Feind, Teil 16",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t17",
+          "title": "Feind, Teil 17",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t18",
+          "title": "Feind, Teil 18",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t19",
+          "title": "Feind, Teil 19",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t20",
+          "title": "Feind, Teil 20",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t21",
+          "title": "Feind, Teil 21",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t22",
+          "title": "Feind, Teil 22",
+          "index": 21,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t23",
+          "title": "Feind, Teil 23",
+          "index": 22,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t24",
+          "title": "Feind, Teil 24",
+          "index": 23,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t25",
+          "title": "Feind, Teil 25",
+          "index": 24,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t26",
+          "title": "Feind, Teil 26",
+          "index": 25,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t27",
+          "title": "Feind, Teil 27",
+          "index": 26,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-848317908-t28",
+          "title": "Feind, Teil 28",
+          "index": 27,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "845263483",
+      "title": "Folge 09: Attentäter",
+      "episodeNumber": 9,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/30/94/52/30945289-db64-f7fe-a918-d2298e9058fa/4250064605499_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "845263483"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-845263483-t01",
+          "title": "Attentäter, Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t02",
+          "title": "Attentäter, Teil 2",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t03",
+          "title": "Attentäter, Teil 3",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t04",
+          "title": "Attentäter, Teil 4",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t05",
+          "title": "Attentäter, Teil 5",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t06",
+          "title": "Attentäter, Teil 6",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t07",
+          "title": "Attentäter, Teil 7",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t08",
+          "title": "Attentäter, Teil 8",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t09",
+          "title": "Attentäter, Teil 9",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t10",
+          "title": "Attentäter, Teil 10",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t11",
+          "title": "Attentäter, Teil 11",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t12",
+          "title": "Attentäter, Teil 12",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t13",
+          "title": "Attentäter, Teil 13",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t14",
+          "title": "Attentäter, Teil 14",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t15",
+          "title": "Attentäter, Teil 15",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t16",
+          "title": "Attentäter, Teil 16",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t17",
+          "title": "Attentäter, Teil 17",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t18",
+          "title": "Attentäter, Teil 18",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t19",
+          "title": "Attentäter, Teil 19",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t20",
+          "title": "Attentäter, Teil 20",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t21",
+          "title": "Attentäter, Teil 21",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t22",
+          "title": "Attentäter, Teil 22",
+          "index": 21,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845263483-t23",
+          "title": "Attentäter, Teil 23",
+          "index": 22,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "845268697",
+      "title": "Folge 10.1: Kampf um Zulu",
+      "episodeNumber": 10,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/10/f4/6b/10f46bc5-1269-0a2b-7dc2-2291e79326af/4250064605505_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "845268697"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-845268697-t01",
+          "title": "Kampf um Zulu, Teil 1",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t02",
+          "title": "Kampf um Zulu, Teil 2",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t03",
+          "title": "Kampf um Zulu, Teil 3",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t04",
+          "title": "Kampf um Zulu, Teil 4",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t05",
+          "title": "Kampf um Zulu, Teil 5",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t06",
+          "title": "Kampf um Zulu, Teil 6",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t07",
+          "title": "Kampf um Zulu, Teil 7",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t08",
+          "title": "Kampf um Zulu, Teil 8",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t09",
+          "title": "Kampf um Zulu, Teil 9",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t10",
+          "title": "Kampf um Zulu, Teil 10",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t11",
+          "title": "Kampf um Zulu, Teil 11",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t12",
+          "title": "Kampf um Zulu, Teil 12",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t13",
+          "title": "Kampf um Zulu, Teil 13",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t14",
+          "title": "Kampf um Zulu, Teil 14",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t15",
+          "title": "Kampf um Zulu, Teil 15",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t16",
+          "title": "Kampf um Zulu, Teil 16",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t17",
+          "title": "Kampf um Zulu, Teil 17",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t18",
+          "title": "Kampf um Zulu, Teil 18",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t19",
+          "title": "Kampf um Zulu, Teil 19",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t20",
+          "title": "Kampf um Zulu, Teil 20",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t21",
+          "title": "Kampf um Zulu, Teil 21",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t22",
+          "title": "Kampf um Zulu, Teil 22",
+          "index": 21,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t23",
+          "title": "Kampf um Zulu, Teil 23",
+          "index": 22,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t24",
+          "title": "Kampf um Zulu, Teil 24",
+          "index": 23,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t25",
+          "title": "Kampf um Zulu, Teil 25",
+          "index": 24,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t26",
+          "title": "Kampf um Zulu, Teil 26",
+          "index": 25,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t27",
+          "title": "Kampf um Zulu, Teil 27",
+          "index": 26,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845268697-t28",
+          "title": "Kampf um Zulu, Teil 28",
+          "index": 27,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "845277091",
+      "title": "Folge 10.2: Kampf um Zulu",
+      "episodeNumber": 10,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/1e/7f/9c/1e7f9cda-599a-8af7-a2cd-3973bee53720/4250064605765_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "845277091"
+      },
+      "chapters": [
+        {
+          "id": "raumstation-alpha-base-845277091-t01",
+          "title": "Kampf um Zulu, Teil 29",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t02",
+          "title": "Kampf um Zulu, Teil 30",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t03",
+          "title": "Kampf um Zulu, Teil 31",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t04",
+          "title": "Kampf um Zulu, Teil 32",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t05",
+          "title": "Kampf um Zulu, Teil 33",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t06",
+          "title": "Kampf um Zulu, Teil 34",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t07",
+          "title": "Kampf um Zulu, Teil 35",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t08",
+          "title": "Kampf um Zulu, Teil 36",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t09",
+          "title": "Kampf um Zulu, Teil 37",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t10",
+          "title": "Kampf um Zulu, Teil 38",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t11",
+          "title": "Kampf um Zulu, Teil 39",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t12",
+          "title": "Kampf um Zulu, Teil 40",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t13",
+          "title": "Kampf um Zulu, Teil 41",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t14",
+          "title": "Kampf um Zulu, Teil 42",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t15",
+          "title": "Kampf um Zulu, Teil 43",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t16",
+          "title": "Kampf um Zulu, Teil 44",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t17",
+          "title": "Kampf um Zulu, Teil 45",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t18",
+          "title": "Kampf um Zulu, Teil 46",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t19",
+          "title": "Kampf um Zulu, Teil 47",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t20",
+          "title": "Kampf um Zulu, Teil 48",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t21",
+          "title": "Kampf um Zulu, Teil 49",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t22",
+          "title": "Kampf um Zulu, Teil 50",
+          "index": 21,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "raumstation-alpha-base-845277091-t23",
+          "title": "Kampf um Zulu, Teil 51",
+          "index": 22,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.847299+00:00"
+}

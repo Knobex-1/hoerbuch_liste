@@ -1,0 +1,52 @@
+{
+  "seriesId": "die-biene-maja",
+  "title": "Die Biene Maja",
+  "language": "de",
+  "author": "Die Biene Maja",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1468870701",
+      "title": "Die Biene Maja 2 - Original-Hörspiel zum Kinofilm",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d9/ed/dc/d9eddc83-c756-c881-f421-a98fbe2e83f0/886447613054.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1468870701"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1468865303",
+      "title": "Das Hörspiel zum 3D-Kinofilm",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/51/f7/44/51f744b3-7140-ca70-328d-2d7d0a9c8c03/886447613047.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1468865303"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1682052899",
+      "title": "Das geheime Königreich (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/81/fb/5481fbcf-7d1e-b72e-f416-f79ebc8a50c1/886448905127.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1682052899"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.389123+00:00"
+}

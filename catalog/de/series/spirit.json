@@ -1,0 +1,26 @@
+{
+  "seriesId": "spirit",
+  "title": "Spirit",
+  "language": "de",
+  "author": "Spirit",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1569206580",
+      "title": "Frei und ungezähmt (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/6c/62/f86c62c3-9338-2e52-3111-7cdf7140a53f/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1569206580"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.513763+00:00"
+}

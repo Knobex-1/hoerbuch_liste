@@ -1,0 +1,26 @@
+{
+  "seriesId": "mulan",
+  "title": "Mulan",
+  "language": "de",
+  "author": "Mulan",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1685956753",
+      "title": "Mulan (Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/5d/ae/265daeba-9af8-fbad-beb4-0cbee91d8027/4066339450233.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685956753"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.509008+00:00"
+}

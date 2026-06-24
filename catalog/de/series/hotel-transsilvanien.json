@@ -1,0 +1,52 @@
+{
+  "seriesId": "hotel-transsilvanien",
+  "title": "Hotel Transsilvanien",
+  "language": "de",
+  "author": "Hotel Transsilvanien",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1424950902",
+      "title": "Hotel Transsilvanien 2 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/18/da/e418dac2-bff9-ecfd-cfc6-e773a0b76ca8/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1424950902"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1410686770",
+      "title": "Hotel Transsilvanien 3 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/b4/78/7cb47886-a9c0-20ce-8b5d-b134a2e5755b/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1410686770"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1424950882",
+      "title": "Hotel Transsilvanien (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/a3/de/dca3deb4-30f4-32bc-660a-59bff58d86d2/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1424950882"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.502984+00:00"
+}

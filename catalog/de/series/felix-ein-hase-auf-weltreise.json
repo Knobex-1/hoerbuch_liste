@@ -1,0 +1,26 @@
+{
+  "seriesId": "felix-ein-hase-auf-weltreise",
+  "title": "Felix-Ein Hase auf Weltreise",
+  "language": "de",
+  "author": "Felix-Ein Hase auf Weltreise",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1597150867",
+      "title": "Ein Hase auf Weltreise (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/93/ab/c693abb7-94bf-dfcd-efef-24a05ab88361/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1597150867"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.496731+00:00"
+}

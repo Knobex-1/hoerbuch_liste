@@ -1,0 +1,26 @@
+{
+  "seriesId": "dumbo",
+  "title": "Dumbo",
+  "language": "de",
+  "author": "Dumbo",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1685959169",
+      "title": "Dumbo (Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/48/f0/f248f078-b810-84cf-f607-fb6cd77ea6c3/4066339450196.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685959169"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.495997+00:00"
+}

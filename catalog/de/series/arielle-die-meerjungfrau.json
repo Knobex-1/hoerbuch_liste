@@ -1,0 +1,26 @@
+{
+  "seriesId": "arielle-die-meerjungfrau",
+  "title": "Arielle die Meerjungfrau",
+  "language": "de",
+  "author": "Arielle die Meerjungfrau",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1691125767",
+      "title": "Arielle, die Meerjungfrau (Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/62/0b/ed620ba3-1b56-e38b-2bd8-c357ae44d271/4066339796096.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1691125767"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.385780+00:00"
+}

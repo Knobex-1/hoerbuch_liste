@@ -1,0 +1,52 @@
+{
+  "seriesId": "trolls",
+  "title": "Trolls",
+  "language": "de",
+  "author": "Trolls",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1506968249",
+      "title": "Trolls World Tour (Das Original-Hörspiel zum 2. Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/8a/30/9e8a3080-63a1-678d-7df4-329fcc6eb123/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1506968249"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1555511119",
+      "title": "Trolls (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/d8/b1/dcd8b141-b0d8-d76b-b068-3f33fae9a660/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555511119"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1719269592",
+      "title": "Trolls - Gemeinsam stark (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/e1/bd/f5e1bd16-a43d-0bd4-ef28-222715982c6c/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1719269592"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.516381+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "seriesId": "sandra-keck-hedda-erlebach-michael-mittermeier",
+  "title": "Sandra Keck, Hedda Erlebach & Michael Mittermeier",
+  "language": "de",
+  "author": "Sandra Keck, Hedda Erlebach & Michael Mittermeier",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1460376601",
+      "title": "Hexe Lilli rettet Weihnachten - Das Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/2d/d0/f72dd0b9-0fb2-538e-eeb0-5c2f8dcd1bd4/4057664535788_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1460376601"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.512777+00:00"
+}

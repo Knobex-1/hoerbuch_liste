@@ -1,0 +1,26 @@
+{
+  "seriesId": "peter-weis-noah-levi-senta-berger",
+  "title": "Peter Weis, Noah Levi & Senta Berger",
+  "language": "de",
+  "author": "Peter Weis, Noah Levi & Senta Berger",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1460366745",
+      "title": "Die Häschenschule: Jagd nach dem goldenen Ei (Das Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/91/53/9e/91539eed-7b24-258a-8dd0-ffcdcba8cfcb/4057664535542_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1460366745"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.510602+00:00"
+}

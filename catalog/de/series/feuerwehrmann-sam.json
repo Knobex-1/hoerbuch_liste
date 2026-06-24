@@ -1,0 +1,26 @@
+{
+  "seriesId": "feuerwehrmann-sam",
+  "title": "Feuerwehrmann Sam",
+  "language": "de",
+  "author": "Feuerwehrmann Sam",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "6772233140",
+      "title": "Helden fallen nicht vom Himmel (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/bd/8c/d2bd8ce5-68f8-c3fa-a4d7-35337d780110/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "6772233140"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.496919+00:00"
+}

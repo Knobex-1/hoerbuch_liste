@@ -1,0 +1,39 @@
+{
+  "seriesId": "niko-h-rspiel",
+  "title": "Niko Hörspiel",
+  "language": "de",
+  "author": "Niko Hörspiel",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1756746030",
+      "title": "Niko - Ein Rentier hebt ab (Original-Hörspiel zum Kinofilm 1)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/51/93/865193f0-d972-cec4-bccf-581c96c1ba7b/4099995582017_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1756746030"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1765333036",
+      "title": "Niko - Reise zu den Polarlichtern (Original-Hörspiel zum Kinofilm 3)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/ad/40/41ad406f-d35d-a1e0-a5bc-8c9995e8d10e/4099995714968_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1765333036"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:37:09.509441+00:00"
+}
