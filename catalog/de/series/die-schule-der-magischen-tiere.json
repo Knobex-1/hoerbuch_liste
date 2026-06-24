@@ -1,0 +1,39 @@
+{
+  "seriesId": "die-schule-der-magischen-tiere",
+  "title": "Die Schule der magischen Tiere",
+  "language": "de",
+  "author": "Die Schule der magischen Tiere",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1769665977",
+      "title": "Die Schule der magischen Tiere 3 - Hörspiel zum Kinofilm",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/95/08/9995089b-7489-5103-287f-06575fbbe435/4099995853629_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1769665977"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1841820000",
+      "title": "Die Schule der magischen Tiere 4 - Hörspiel zum Kinofilm",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/3c/19/963c1926-d96a-ee09-c098-dec95da5609f/4069828936478_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1841820000"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.681225+00:00"
+}

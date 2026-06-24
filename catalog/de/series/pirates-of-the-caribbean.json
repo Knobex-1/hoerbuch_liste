@@ -1,0 +1,39 @@
+{
+  "seriesId": "pirates-of-the-caribbean",
+  "title": "Pirates of the Caribbean",
+  "language": "de",
+  "author": "Pirates of the Caribbean",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686001172",
+      "title": "Pirates of the Caribbean - Am Ende der Welt (Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/6f/4b/f16f4bac-d24f-d882-0ab9-13e6afa8ec9a/4066339483644.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686001172"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686030540",
+      "title": "Pirates of the Caribbean - Salazars Rache (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/2d/6d/5c2d6d21-55fa-7614-3660-3785c295673f/4066339502352.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686030540"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.795944+00:00"
+}

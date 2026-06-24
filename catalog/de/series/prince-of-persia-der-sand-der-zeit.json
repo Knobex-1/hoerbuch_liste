@@ -1,0 +1,26 @@
+{
+  "seriesId": "prince-of-persia-der-sand-der-zeit",
+  "title": "Prince Of Persia - Der Sand der Zeit",
+  "language": "de",
+  "author": "Prince Of Persia - Der Sand der Zeit",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1685999547",
+      "title": "Prince Of Persia - Der Sand der Zeit (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/23/7f/8c237f77-6646-c506-d0c4-07730922a8ba/4066339483750.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685999547"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.796077+00:00"
+}

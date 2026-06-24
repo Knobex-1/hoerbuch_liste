@@ -1,0 +1,26 @@
+{
+  "seriesId": "hape-kerkeling-horst-schl-mmer",
+  "title": "Hape Kerkeling & Horst Schlämmer",
+  "language": "de",
+  "author": "Hape Kerkeling & Horst Schlämmer",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1882996718",
+      "title": "Horst Schlämmer sucht das Glück (Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/bf/da/49bfdaca-bd16-4f59-7d7b-6128716deac8/4069829638074_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1882996718"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.790274+00:00"
+}

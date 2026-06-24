@@ -1,0 +1,26 @@
+{
+  "seriesId": "leonie-beckenbach-tim-oliver-schultz-luise-befort",
+  "title": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort",
+  "language": "de",
+  "author": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1460000330",
+      "title": "Club der roten Bänder (Das Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/28/12/542812e6-ccf3-32f3-34a6-c35a4ff16df5/4057664534255_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1460000330"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.793622+00:00"
+}

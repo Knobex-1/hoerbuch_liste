@@ -1,0 +1,39 @@
+{
+  "seriesId": "der-k-nig-der-l-wen",
+  "title": "Der König der Löwen",
+  "language": "de",
+  "author": "Der König der Löwen",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1685940521",
+      "title": "Der König der Löwen (Das Original-Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/85/d1/fd85d13d-0838-8048-e317-59d0b2d3fbbe/4066339450080.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685940521"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1790249317",
+      "title": "Mufasa: Der König der Löwen (Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/f9/4a/c6f94abe-95f2-86fa-a97b-cbae62d09e60/4069828068582.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1790249317"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.680309+00:00"
+}

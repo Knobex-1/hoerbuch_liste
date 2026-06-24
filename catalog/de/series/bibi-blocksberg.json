@@ -3,20 +3,98 @@
   "title": "Bibi Blocksberg",
   "language": "de",
   "author": "Elfie Donnelly",
-  "narrator": "Susanne Pätzold",
+  "narrator": "",
   "genres": [
-    "Hörspiel",
     "Kinder & Jugend",
-    "Fantasy"
+    "Hörspiel",
+    "Fantasy",
+    "Abenteuer"
   ],
   "albums": [
+    {
+      "id": "1038165554",
+      "title": "Folge 1 - Hexen gibt es doch",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/07/ca/ab07cad4-65cf-ebdc-1703-aad302be7bdd/825646394982.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1038165554"
+      },
+      "chapters": [
+        {
+          "id": "bibi-blocksberg-1038165554-t01",
+          "title": "Bibi Blocksberg Lied",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038165554-t02",
+          "title": "Folge 1 - Kapitel 1: Hexen gibt es doch",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038165554-t03",
+          "title": "Folge 1 - Kapitel 2: Ärger mit den Nachbarn",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038165554-t04",
+          "title": "Folge 1 - Kapitel 3: Herr Müllers Schweinebraten",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038165554-t05",
+          "title": "Folge 1 - Kapitel 4: Die Mieterversammlung",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038165554-t06",
+          "title": "Folge 1 - Kapitel 5: Besuch von der Polizei",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038165554-t07",
+          "title": "Folge 1 - Kapitel 6: Es brennt!",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038165554-t08",
+          "title": "Folge 1 - Kapitel 7: Hilfe naht",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038165554-t09",
+          "title": "Folge 1 - Kapitel 8: Friede, Freude, Eierkuchen",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
     {
       "id": "1143559999",
       "title": "Folge 1: Hexen gibt es doch",
       "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/4e/85/78/4e85786e-35fd-2470-7217-134fd4e4cb48/190295919139.jpg/100x100bb.jpg",
-      "description": "Das Album \"Folge 1: Hexen gibt es doch\" von Bibi Blocksberg enthält Hörspiel-Tracks, die typisch für deutsche Hörspiele sind.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143559999"
@@ -29,7 +107,7 @@
       "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/b3/c0/c5b3c0ab-fca2-0094-3cd3-f582096843a8/4033694414019.jpg/100x100bb.jpg",
-      "description": "Das Album 'Kampf um Kartoffelbrei (Special) - Teil 1: Malicias Rache' ist ein Hörspiel von Bibi Blocksberg. Es handelt sich um ein Kinder-Hörspiel mit humorvollen und fantasievollen Elementen, die typisch für Bibi Blocksberg sind.",
+      "description": "",
       "totalDuration": 689.848,
       "platforms": {
         "appleMusic": "1786569919"
@@ -99,7 +177,7 @@
       "episodeNumber": 2,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/d6/fd/95d6fd95-ece6-5375-9117-cd889aa279d7/190295918705.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 2: Hexerei in der Schule' von Bibi Blocksberg gehört zu einer bekannten deutschen Hörspielreihe für Kinder. Die Geschichten sind oft fantasievoll und abenteuerlich, mit magischen Elementen.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1155741831"
@@ -112,7 +190,7 @@
       "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/15/40/76/154076a4-0b52-6241-d903-37a165cfcc66/190295918675.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg. Titel. Folge 3 Die Zauberlimonade. Label.Darum will Bibi den Bürgermeister verhexen. Und schon nimmt sie sich das alte Hexenbuch ihrer Mutter. Elfie Donnelly ist die Erfinderin von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 3690,
       "platforms": {
         "appleMusic": "1143558808"
@@ -408,17 +486,95 @@
       ]
     },
     {
-      "id": "1143560812",
-      "title": "Folge 4: Der Bankräuber",
-      "episodeNumber": 4,
+      "id": "1038190000",
+      "title": "Folge 3 - Die Zauberlimonade",
+      "episodeNumber": 3,
       "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/95/98/88/95988826-a8c6-d3cc-9973-9516a52c5907/190295918484.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält den Titel 'Folge 4: Der Bankräuber' und gehört zur Hörspielgenre, was darauf hindeutet, dass es sich um ein Hörspiel handelt.",
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/c0/59/abc05989-69c9-9b02-4453-2d236f805c43/825646437344.jpg/100x100bb.jpg",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
-        "appleMusic": "1143560812"
+        "appleMusic": "1038190000"
       },
-      "chapters": []
+      "chapters": [
+        {
+          "id": "bibi-blocksberg-1038190000-t01",
+          "title": "Bibi Blocksberg Lied",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t02",
+          "title": "Folge 3 - Kapitel 1: Sorge um Boris",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t03",
+          "title": "Folge 3 - Kapitel 2: Lügt der Bürgermeister?",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t04",
+          "title": "Folge 3 - Kapitel 3: Bibi wird aktiv!",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t05",
+          "title": "Folge 3 - Kapitel 4: Die Zauberlimonade",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t06",
+          "title": "Folge 3 - Kapitel 5: Chaos auf den Straßen",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t07",
+          "title": "Folge 3 - Kapitel 6: Die Limonade wirkt!",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t08",
+          "title": "Folge 3 - Kapitel 7: Gegenmittel verzweifelt gesucht!",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t09",
+          "title": "Folge 3 - Kapitel 8: Bibi im Rathaus",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t10",
+          "title": "Folge 3 - Kapitel 9: Der Bürgermeister gesteht",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038190000-t11",
+          "title": "Folge 3 - Kapitel 10: Viele neue Fahrradwege",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
     },
     {
       "id": "847534208",
@@ -426,8 +582,8 @@
       "episodeNumber": 4,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/d7/3f/5c/d73f5cb5-ef67-6793-4365-c61b98694519/825646293896.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum für Kinder, das Bibi Blocksberg begleitet und Verhexte Feste thematisiert.",
-      "totalDuration": 2523.115,
+      "description": "",
+      "totalDuration": 2523.1150000000002,
       "platforms": {
         "appleMusic": "847534208"
       },
@@ -526,12 +682,116 @@
       ]
     },
     {
+      "id": "1143560812",
+      "title": "Folge 4: Der Bankräuber",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/95/98/88/95988826-a8c6-d3cc-9973-9516a52c5907/190295918484.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1143560812"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1069133821",
+      "title": "Folge 5 - Ein verhexter Urlaub",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e6/5c/bd/e65cbd05-2521-57f7-d74d-2e7233145873/825646437290.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069133821"
+      },
+      "chapters": [
+        {
+          "id": "bibi-blocksberg-1069133821-t01",
+          "title": "Bibi Blocksberg Lied",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t02",
+          "title": "Folge 5 - Kapitel 1: Die Besen müssen mit",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t03",
+          "title": "Folge 5 - Kapitel 2: Hubertus und Mathilda Drösel",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t04",
+          "title": "Folge 5 - Kapitel 3: Endlich im Hotel",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t05",
+          "title": "Folge 5 - Kapitel 4: Hexerei beim Abendessen",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t06",
+          "title": "Folge 5 - Kapitel 5: Hilfe für Eugen",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t07",
+          "title": "Folge 5 - Kapitel 6: Der Zaun muß weg!",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t08",
+          "title": "Folge 5 - Kapitel 7: Bibis Plan geht auf",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t09",
+          "title": "Folge 5 - Kapitel 8: Was für ein Ferienspaß!",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t10",
+          "title": "Folge 5 - Kapitel 9: Das große Lampionfest",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069133821-t11",
+          "title": "Folge 5 - Kapitel 10: Rettung in letzter Sekunde",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
       "id": "1143583702",
       "title": "Folge 5: Ein verhexter Urlaub",
       "episodeNumber": 5,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/fa/dc/c4/fadcc4e2-ad92-71e8-1656-b0d184e0f6c5/190295918477.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das von Bibi Blocksberg produziert wurde und sich auf ein Abenteuer und eine Hexerei im Urlaub konzentriert.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143583702"
@@ -544,7 +804,7 @@
       "episodeNumber": 6,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/1a/cf/f51acf94-6f95-c265-8f9e-9e133676f4eb/190295918453.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Hörspiel, das von Bibi Blocksberg produziert wurde und den Titel \"Folge 6: Die Kuh im Schlafzimmer\" trägt. Es handelt sich um ein Hörspielalbum, das auf einem Streaming-Dienst wie Apple Music verfügbar ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143573489"
@@ -557,7 +817,7 @@
       "episodeNumber": 7,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3b/16/1a/3b161ae6-a067-473f-85b4-798f8ad0503a/190295918446.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album von Bibi Blocksberg, das die Handlung der Serie 'Folge 7: heilt den Bürgermeister' enthält. Es handelt sich um ein Kinderhörspiel.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143572177"
@@ -570,7 +830,7 @@
       "episodeNumber": 8,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b7/47/74/b7477411-1f30-a535-cf21-b7c8d68e1ab0/190295918422.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das als Folge 8 der Serie 'Bibi Blocksberg' erscheint. Es bietet spannende Geschichten und Abenteuer, die typisch für Hörspiele sind.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143583025"
@@ -583,7 +843,7 @@
       "episodeNumber": 9,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/f5/47/3b/f5473bc7-bdee-4952-7f66-3f4dea42377f/190295918408.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das auf Spannung und Unterhaltung abzielt, typisch für deutsche Hörspiele.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143572708"
@@ -596,7 +856,7 @@
       "episodeNumber": 10,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/65/36/81/6536810d-05a9-b8ff-4952-3a7f9c4c6060/190295918361.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Tracks aus der Serie 'Bibi Blocksberg', die in Deutschland beliebt sind.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143582073"
@@ -609,7 +869,7 @@
       "episodeNumber": 11,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/24/a7/6d24a7bd-f140-725c-6b12-e7fad957f3f5/190295918347.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 11: Der Schulausflug' von Bibi Blocksberg ist ein Hörspiel für Kinder, das auf der Serie basiert.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143582616"
@@ -622,7 +882,7 @@
       "episodeNumber": 12,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/a1/a7/2ea1a725-2b4b-a5e3-12ec-7ba754c00dc7/190295918309.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx, die 1980 von Elfie Donnelly ins Leben gerufen wurde. Hauptfigur ist das Mädchen Bibi Blocksberg, eine Hexe. Der Vorname Bibi ist eine Abkürzung für Brigitte. Bisher sind 164 Folgen erschienen. Die Hörspielserie hieß ursprünglich Eene meene Hexerei.",
+      "description": "",
       "totalDuration": 3690,
       "platforms": {
         "appleMusic": "1143581597"
@@ -923,7 +1183,7 @@
       "episodeNumber": 13,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/88/e0/44/88e04495-6ffe-bc50-26d5-04cb9256f918/190295918415.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx , die 1980 von Elfie Donnelly ins Leben gerufen wurde.",
+      "description": "",
       "totalDuration": 3600,
       "platforms": {
         "appleMusic": "1143593231"
@@ -1217,7 +1477,7 @@
       "episodeNumber": 14,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/4b/7c/2a/4b7c2af3-6163-edd9-a021-677b718b435c/190295918392.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 14: in Amerika' von Bibi Blocksberg, das Hörspiele umfasst, ist eindeutig als Hörspiel zu klassifizieren.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143558745"
@@ -1230,7 +1490,7 @@
       "episodeNumber": 15,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/a3/84/44/a38444a2-3e82-697b-a0a3-f0740d47c76c/190295918385.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält die Folge 15 des beliebten Hörspiels 'Die schwarzen Vier' von Bibi Blocksberg. Es handelt sich um ein spannendes Abenteuer mit kriminaler Handlung, das vor allem Kinder und Jugendliche anspricht.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143592791"
@@ -1243,7 +1503,7 @@
       "episodeNumber": 16,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/6b/f9/60/6bf960b4-e848-7342-dad2-b4d45f2fe167/190295918248.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält die erste Folge eines Hörspiels mit Bibi Blocksberg über ein Schulfest, geeignet für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143570487"
@@ -1256,7 +1516,7 @@
       "episodeNumber": 17,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/82/9d/70/829d70d9-b4a7-5804-4440-a500e487a155/190295918231.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält die erste Folge von 'Der kleine Hexer', einem Hörspiel von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143580952"
@@ -1269,7 +1529,7 @@
       "episodeNumber": 18,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/d7/1b/ea/d71bea82-a616-9f00-6b5d-3694e42df2bf/190295918262.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 18: Auf dem Hexenberg' von Bibi Blocksberg, das sich auf Hörspiele spezialisiert hat.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143569490"
@@ -1282,7 +1542,7 @@
       "episodeNumber": 19,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/d4/d5/04/d4d50467-e474-5741-f02a-8c4469e903a1/190295918224.jpg/100x100bb.jpg",
-      "description": "Das Album enthält Folgen von 'Bibi Blocksberg', einem beliebten Kinderhörspiel-Format.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143603603"
@@ -1295,7 +1555,7 @@
       "episodeNumber": 20,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/af/f8/e1/aff8e19e-70f8-4a11-7c1e-632807d5a896/190295918187.jpg/600x600bb.jpg",
-      "description": "Vater Blocksberg ist weg. Es hatte Krach gegeben, weil er die Krötenbeinsuppe nicht essen wollte. Zunächst tut Mutter Blocksberg so, als wäre es ihr egal, dass Bernhard nicht da ist, doch dann bricht sie in Tränen aus. Auch Bibi will ihren Papa wiederhaben.",
+      "description": "",
       "totalDuration": 3690,
       "platforms": {
         "appleMusic": "1143591387"
@@ -1596,7 +1856,7 @@
       "episodeNumber": 21,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/df/31/00/df3100da-d71d-a286-c26d-e4b094c1440a/190295918163.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx , die 1980 von Elfie Donnelly ins Leben gerufen wurde.",
+      "description": "",
       "totalDuration": 3780,
       "platforms": {
         "appleMusic": "1143604635"
@@ -1904,7 +2164,7 @@
       "episodeNumber": 22,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/e4/8e/bd/e48ebd74-aa58-b2a6-eca4-c5c41053b53f/190295918156.jpg/100x100bb.jpg",
-      "description": "Das Album enthält den Titel 'Folge 22: 3x schwarzer Kater', was darauf hindeutet, dass es sich um ein Hörspiel handelt, typischerweise für deutsche Hörspielserien.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143571663"
@@ -1917,7 +2177,7 @@
       "episodeNumber": 23,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/d6/9e/76d69efd-5e44-99f0-a40a-0bdd5405c88f/190295914165.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält vierundzwanzig Hörspiel-Tracks, die von Bibi Blocksberg präsentiert werden. Es handelt sich um ein Hörspiel-Album, das auf Apple Music verfügbar ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143584128"
@@ -1930,7 +2190,7 @@
       "episodeNumber": 24,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/bc/c1/9a/bcc19a73-7915-ead3-ff1b-b251163f5610/190295914080.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg, Folge 23: Bibi und der Autostau. Elfie Donnelly. 5,99 €. Bibi Blocksberg, Folge 24: Der Supermarkt.",
+      "description": "",
       "totalDuration": 4410,
       "platforms": {
         "appleMusic": "1143594401"
@@ -2287,7 +2547,7 @@
       "episodeNumber": 25,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/55/64/7c/55647c53-95b2-f919-6b1f-37ab7becf6b0/190295914028.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum der Bibi Blocksberg-Reihe, das Abenteuer und Humor für Kinder bietet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143584160"
@@ -2300,7 +2560,7 @@
       "episodeNumber": 26,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/0f/04/19/0f04193f-4967-4c13-2603-9aec3b45408b/190295913977.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel für Kinder über eine Schnitzeljagd, verfasst von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143587626"
@@ -2313,7 +2573,7 @@
       "episodeNumber": 27,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/8c/92/8d/8c928df7-1534-88f6-ed2c-c64708a7565d/190295913045.jpg/100x100bb.jpg",
-      "description": "Das Album enthält Hörspiel-Tracks und passt somit gut zu Hörspielen.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143585817"
@@ -2326,7 +2586,7 @@
       "episodeNumber": 28,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/9a/02/e1/9a02e1d8-0e0e-e10b-437f-b950c8705c93/190295918132.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album unter dem Titel 'Folge 28: im Dschungel' von Bibi Blocksberg, das auf iTunes verfügbar ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143591846"
@@ -2339,7 +2599,7 @@
       "episodeNumber": 29,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/be/fd/ce/befdce72-4f92-1f83-8807-0b90f57d2c46/190295918125.jpg/100x100bb.jpg",
-      "description": "Ein deutscher Hörspiel-Album über Bibi Blocksberg, das sich auf Abenteuer und Fantasy im Jugendalter konzentriert.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143578604"
@@ -2352,7 +2612,7 @@
       "episodeNumber": 30,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/eb/8b/ec/eb8bec7d-2227-db25-582c-355e33945c83/190295917692.jpg/100x100bb.jpg",
-      "description": "Das Album handelt von einer spannenden Ritterzeit-Folge aus der Bibi Blocksberg Hörspielreihe, die vor allem bei Kindern beliebt ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143602350"
@@ -2365,7 +2625,7 @@
       "episodeNumber": 31,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/6f/4d/b0/6f4db0b0-3a76-6725-4bc3-8acaf26d1fe4/190295917722.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum von Bibi Blocksberg, das auf der Märcheninsel spielt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143590298"
@@ -2378,7 +2638,7 @@
       "episodeNumber": 32,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/7e/22/7c/7e227ca3-c848-1d02-1700-f73c06e9669e/190295917777.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 32: als Prinzessin' von Bibi Blocksberg enthält Hörspiel-Episoden und ist daher ein deutscher Hörspiel-Album.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143580200"
@@ -2391,7 +2651,7 @@
       "episodeNumber": 33,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c3/3a/0d/c33a0d1a-a92f-9ae4-195e-185debf80787/190295917784.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel von Bibi Blocksberg, das als Folge 33 bekannt ist und sich um das Thema Babysitting dreht. Es richtet sich an ein junges Publikum und passt somit perfekt in den Kinder- und Jugendgenre.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143580814"
@@ -2404,7 +2664,7 @@
       "episodeNumber": 34,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/52/7f/b7/527fb7be-8170-5145-f0ff-8dbf2840b2dc/190295917814.jpg/600x600bb.jpg",
-      "description": "CD * bibi blocksberg - hörspiel 034 - darf nicht hexen # neu OVP kx. Einloggen und zur Kasse gehen.Erscheinungsjahr 2007. Buchtitel Folge 034: Darf Nicht Hexen. Besonderheiten Audio-CD.",
+      "description": "",
       "totalDuration": 2520,
       "platforms": {
         "appleMusic": "1143590958"
@@ -2614,7 +2874,7 @@
       "episodeNumber": 35,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/5a/b1/87/5ab187f3-5d3c-6575-6731-566fec4b0fe3/190295917838.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 35: Der Hexenfluch' von Bibi Blocksberg. Es enthält 29 Tracks und gehört zum Genre Hörspiel.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143568902"
@@ -2627,7 +2887,7 @@
       "episodeNumber": 36,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/47/20/ef/4720ef1e-40ba-1c28-25eb-7405a5021c30/190295917937.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum von Bibi Blocksberg mit dem Titel \"Folge 36: Die weißen Enten\"",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143602374"
@@ -2640,7 +2900,7 @@
       "episodeNumber": 37,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/10/c1/08/10c10870-1734-4dd2-b94d-aa652ded9f6e/190295917975.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel von Bibi Blocksberg, das Teil einer Serie ist. Es enthält 29 Folgen und ist im Genre Kinder & Jugend angesiedelt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143570255"
@@ -2653,7 +2913,7 @@
       "episodeNumber": 38,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/9c/72/6e/9c726e5b-f24f-896f-c876-d623f6f04b94/190295917982.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die traditionell in Deutschland produziert werden.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143592297"
@@ -2666,7 +2926,7 @@
       "episodeNumber": 39,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/69/b8/35/69b835ee-5ae1-7c50-0760-3b63856bb2c8/190295913014.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 39: Unverhofftes Wiedersehen' von Bibi Blocksberg im Genre Hörspiele. Es enthält 27 Tracks und ist eindeutig als Hörspiel konzipiert.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143574459"
@@ -2679,7 +2939,7 @@
       "episodeNumber": 40,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/2c/af/a0/2cafa00d-8eaa-bc7b-bd8a-f15553ad9f12/190295918002.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel, das spannende Vampire-Geschichten erzählt, ideal für Fans des Genres Fantasy und Abenteuer.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143603179"
@@ -2692,7 +2952,7 @@
       "episodeNumber": 41,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/8b/b9/91/8bb991cb-6003-157f-73b3-6641d1b13939/190295917685.jpg/600x600bb.jpg",
-      "description": "CD * BIBI BLOCKSBERG - HÖRSPIEL 041 - OHNE MAMI GEHT ES NICHT # NEU OVP KX - Bild 1 von 1.Produkt Hauptmerkmale. VerlagKiddinx Entertainment Gmb. BuchtitelBibi Blocksberg 041. ohne Mami Geht Es Nicht. Erscheinungsjahr2007.",
+      "description": "",
       "totalDuration": 2610,
       "platforms": {
         "appleMusic": "1143590604"
@@ -2909,7 +3169,7 @@
       "episodeNumber": 42,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ca/37/34/ca3734ac-1c08-56ba-fe23-60b473ad1665/190295917678.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspielalbum, das Teil einer Serie ist, basierend auf dem Charakter Bibi Blocksberg. Es enthält insgesamt 29 Tracks, die sich in diesem speziellen Hörspiel abspielen.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143567926"
@@ -2922,7 +3182,7 @@
       "episodeNumber": 43,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/6b/01/65/6b016588-b074-09a0-7a62-a34a128bf350/190295917654.jpg/100x100bb.jpg",
-      "description": "Ein deutscher Hörspiel-Album über 'Der Reiterhof' von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143589970"
@@ -2935,7 +3195,7 @@
       "episodeNumber": 44,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/79/22/01/79220149-e9f1-8127-ea1d-1bc162b1c0f7/190295917623.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspiel-Content, das Teil einer Hörspielreihe ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143567467"
@@ -2948,7 +3208,7 @@
       "episodeNumber": 45,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/87/db/2b87db26-73ac-12bd-fad0-29bf40c0d6e7/190295917616.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel aus der Serie 'Bibi Blocksberg', das sich auf spannende Abenteuer konzentriert.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143589467"
@@ -2961,7 +3221,7 @@
       "episodeNumber": 46,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/78/f9/cc/78f9cc4a-9cf2-7b7c-d1c9-cb5b3c61b139/190295917531.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil einer Hörspielserie mit dem Titel 'Bibi Blocksberg'. Es enthält insgesamt 24 Folgen und ist somit ein Hörspiel oder Hörbuch.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143567045"
@@ -2974,7 +3234,7 @@
       "episodeNumber": 47,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/73/7d/e7/737de77c-a79b-cc6c-27d1-30b160b0c16d/190295917524.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel aus der Serie 'Bibi Blocksberg', das auf der Plattform Apple Music verfügbar ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143576168"
@@ -2987,7 +3247,7 @@
       "episodeNumber": 48,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/bf/b0/9d/bfb09d69-029b-929f-c92a-6797096021ae/190295917296.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg Ist Krank. Track 01. Audioplayer schliessen. Folge 048:...ist krank. Aus der Reihe Bibi Blocksberg Band 48. Gesprochen von.",
+      "description": "",
       "totalDuration": 2430,
       "platforms": {
         "appleMusic": "1143600310"
@@ -3190,7 +3450,7 @@
       "episodeNumber": 49,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/1e/35/49/1e3549bc-643c-2b06-0e28-fdafb69244af/190295917289.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit dem Titel 'Folge 49: Der Hexengeburtstag' von Bibi Blocksberg. Enthält 28 Tracks im Genre Hörspiel.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143576708"
@@ -3203,7 +3463,7 @@
       "episodeNumber": 50,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/2e/d3/5f/2ed35f58-2dd9-e329-bc16-d40bf1597d4d/190295917272.jpg/100x100bb.jpg",
-      "description": "Ein Album mit 25 Hörspiel-Tracks, das Teil einer Serie ist. Es könnte ein spannendes Abenteuer für Kinder sein.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143589289"
@@ -3216,7 +3476,7 @@
       "episodeNumber": 51,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/49/65/a3/4965a3bf-722e-75ce-7193-21614a1c43a2/190295917265.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspielalbum von Bibi Blocksberg, das Spannung und Unterhaltung bietet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143576428"
@@ -3229,7 +3489,7 @@
       "episodeNumber": 52,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/20/42/4b/20424b0d-0c9f-fd43-567e-98c49aa666d9/190295917258.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Folgen eines populären Kinderhörspiels, das sich um Bibi Blocksberg und ihre Abenteuer dreht.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143577200"
@@ -3242,7 +3502,7 @@
       "episodeNumber": 53,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/bd/73/8a/bd738a17-8a70-703a-d693-68764565e0eb/190295917241.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 53: Der Superhexspruch' von Bibi Blocksberg. Es umfasst insgesamt 28 Hörspieltracks und gehört zur Kategorie Hörspiele.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143601605"
@@ -3255,7 +3515,7 @@
       "episodeNumber": 54,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/a9/d7/39/a9d73954-06e6-406b-c559-10ca2a0bdf98/190295917234.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit dem Titel 'Folge 54: Die Computerhexe' von Bibi Blocksberg. Es besteht aus 26 Tracks und gehört zum Genre Hörspiele.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143601916"
@@ -3268,7 +3528,7 @@
       "episodeNumber": 55,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/5c/ef/8d/5cef8d49-de5a-7e3b-f1b6-4e4e0a503a1e/190295917203.jpg/100x100bb.jpg",
-      "description": "Ein Kinderhörspiel, das auf dem Buch von Bibi Blocksberg basiert, erzählt Geschichten rund um das Thema Geburtstage.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143579774"
@@ -3281,7 +3541,7 @@
       "episodeNumber": 56,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/be/73/f6/be73f652-f4fe-3376-c2bd-7053fed48617/190295917166.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das Teil einer Serie ist und von der bekannten Figur Bibi Blocksberg erzählt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143601031"
@@ -3294,7 +3554,7 @@
       "episodeNumber": 57,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/01/9c/0e/019c0e6a-b3ea-8121-3a65-c0d41b1d1bfa/190295917098.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel aus der Reihe 'Bibi Blocksberg', bekannt für seine Abenteuer in deutscher Sprache.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143587663"
@@ -3307,7 +3567,7 @@
       "episodeNumber": 58,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/92/d9/7d/92d97dfa-43ca-fc25-3e53-9d26e360f539/190295917135.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspielalbum der Bibi Blocksberg Reihe, das auf der Buchreihe basiert.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143588447"
@@ -3320,7 +3580,7 @@
       "episodeNumber": 59,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/23/ba/63/23ba6387-26e6-7b4a-9f3a-4f6f11166560/190295917067.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Episoden von 'Bibi Blocksberg', einem beliebten deutschen Kinderprogramm.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143598828"
@@ -3333,7 +3593,7 @@
       "episodeNumber": 60,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/31/cb/d7/31cbd713-835e-d5f9-2063-ecc2b76f7a4c/190295916930.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album mit dem Titel 'Folge 60: Der Geisterkater' von Bibi Blocksberg, bestehend aus 26 Episoden.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143589742"
@@ -3346,7 +3606,7 @@
       "episodeNumber": 61,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/d0/6d/ad/d06dad28-6043-e7c2-ffab-7eae05d76012/190295916886.jpg/100x100bb.jpg",
-      "description": "Ein Album, das sich auf das Hörspiel 'Folge 61: Der Flaschengeist' von Bibi Blocksberg konzentriert und 29 Tracks umfasst, ist eindeutig ein Hörspiel, das auf einem deutschen Markt wie Apple Music verfügbar ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143597516"
@@ -3359,7 +3619,7 @@
       "episodeNumber": 63,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/0b/2a/8f/0b2a8f6e-83c3-55a9-07ab-612a98f23bad/190295916770.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 63: Die Wahrsagerin' von Bibi Blocksberg ist ein Hörspiel, das sich in der Fantasy- und Kinder- und Jugendkategorie bewegt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143598388"
@@ -3372,7 +3632,7 @@
       "episodeNumber": 64,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/8b/76/71/8b76717d-cf62-3317-90d6-0594755800c6/190295916763.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum der Bibi Blocksberg-Reihe mit 26 Folgen, das in Deutschland veröffentlicht wurde.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143566236"
@@ -3385,7 +3645,7 @@
       "episodeNumber": 65,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/f5/1d/75/f51d7592-015b-62d7-98a6-3ae03a504427/190295917197.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält die Folge 65 von Bibi Blocksberg Hörspielen, die sich an ein junges Publikum richten und Abenteuer und Fantasie beinhalten.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144974502"
@@ -3398,7 +3658,7 @@
       "episodeNumber": 66,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3b/95/75/3b95753b-dc03-0240-b416-46b6aa438593/190295917173.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel von Bibi Blocksberg über das verhexte Osterei, geeignet für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143577553"
@@ -3411,7 +3671,7 @@
       "episodeNumber": 67,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/23/ae/8a/23ae8a1f-9fa2-d116-5e17-efcbd9a9a2d6/190295917128.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele von Bibi Blocksberg, die sich oft an ein junges Publikum richten und spannende Geschichten erzählen.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143599151"
@@ -3424,7 +3684,7 @@
       "episodeNumber": 68,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/c1/3e/a8/c13ea883-1acf-01d1-5808-8c6e75fd0cfa/190295916756.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein deutsches Hörspiel aus der Serie 'Bibi Blocksberg', die Kinder und Jugendliche anspricht.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143588962"
@@ -3437,7 +3697,7 @@
       "episodeNumber": 69,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/a2/91/1f/a2911f08-1c8e-f826-f1d1-438c50cf6ff5/190295916732.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das auf deutsche Erzählformate und Themen zugeschnitten ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143575835"
@@ -3450,7 +3710,7 @@
       "episodeNumber": 70,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/f2/75/70/f27570aa-6281-44e4-332a-334e22ee882c/190295916619.jpg/100x100bb.jpg",
-      "description": "Das Album enthält die Folge 70 aus der Bibi Blocksberg Hörspielreihe. Es handelt sich um ein spannendes Abenteuer rund um das Thema Hexenkraut.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143598061"
@@ -3463,7 +3723,7 @@
       "episodeNumber": 71,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/17/25/3d/17253d9d-ee7a-04e4-6e30-10f20cf8cf6e/190295916596.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über die Abenteuer von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143577531"
@@ -3476,7 +3736,7 @@
       "episodeNumber": 72,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c9/bd/fc/c9bdfca1-2ac8-2ae7-6c17-c64142632e5a/190295916589.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die auf deutsche Geschichten basieren und oft Kinderunterhaltung bieten.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143599462"
@@ -3489,7 +3749,7 @@
       "episodeNumber": 73,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bd/57/20/bd572078-edff-251d-61fb-5de4b100413b/190295916565.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit 26 Folgen von Bibi Blocksberg, in diesem Fall mit dem Titel 'Folge 73: Freitag, der 13.', das typischerweise für Kinder oder Jugendliche geeignet ist.",
+      "description": "",
       "totalDuration": 2424.141,
       "platforms": {
         "appleMusic": "1658877624"
@@ -3685,7 +3945,7 @@
       "episodeNumber": 74,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3a/f9/45/3af94531-55e8-cd37-3514-a58fbeae1636/190295916558.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel mit Bibi Blocksberg produziert wurde, ist typischerweise für Kinder geeignet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143564648"
@@ -3698,7 +3958,7 @@
       "episodeNumber": 75,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f4/fa/18/f4fa181d-5f48-790f-5863-1df4d594570e/190295916541.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx, die 1980 von Elfie Donnelly ins Leben gerufen wurde. Hauptfigur ist das Mädchen Bibi Blocksberg, eine Hexe. Der Vorname Bibi ist eine Abkürzung für Brigitte. Bisher sind 164 Folgen erschienen. Die Hörspielserie hieß ursprünglich Eene meene Hexerei.",
+      "description": "",
       "totalDuration": 2160,
       "platforms": {
         "appleMusic": "1143565837"
@@ -3880,7 +4140,7 @@
       "episodeNumber": 76,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/31/72/fb/3172fb51-49a2-b2ac-8179-822e0b62705d/190295916503.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das Geschichten in Form von Audio bietet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143595328"
@@ -3893,7 +4153,7 @@
       "episodeNumber": 77,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ff/33/b9/ff33b98e-e720-a1d6-18bd-8f38bec34e55/190295916480.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx, die 1980 von Elfie Donnelly ins Leben gerufen wurde. Hauptfigur ist das Mädchen Bibi Blocksberg, eine Hexe. Der Vorname Bibi ist eine Abkürzung für Brigitte. Bisher sind 164 Folgen erschienen. Die Hörspielserie hieß ursprünglich Eene meene Hexerei.",
+      "description": "",
       "totalDuration": 2700,
       "platforms": {
         "appleMusic": "1143597279"
@@ -4112,12 +4372,96 @@
       ]
     },
     {
+      "id": "1069223798",
+      "title": "Folge 77 - Bibi Blocksberg im Hexeninternat",
+      "episodeNumber": 77,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/8e/0a/35/8e0a3579-58c9-abe3-298d-cd7bb5bb74c6/825646395767.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1069223798"
+      },
+      "chapters": [
+        {
+          "id": "bibi-blocksberg-1069223798-t01",
+          "title": "Bibi Blocksberg Lied",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t02",
+          "title": "Folge 77 - Kapitel 1: Eis für alle!",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t03",
+          "title": "Folge 77 - Kapitel 2: Die Oberhexe Walpurgia",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t04",
+          "title": "Folge 77 - Kapitel 3: Der Hexenrat tagt",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t05",
+          "title": "Folge 77 - Kapitel 4: Der Beschluss",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t06",
+          "title": "Folge 77 - Kapitel 5: Unter Walpurgias Aufsicht",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t07",
+          "title": "Folge 77 - Kapitel 6: Nur fort von hier!",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t08",
+          "title": "Folge 77 - Kapitel 7: Fluchtversuch",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t09",
+          "title": "Folge 77 - Kapitel 8: Die geheime Botschaft",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1069223798-t10",
+          "title": "Folge 77 - Kapitel 9: Barbara greift ein",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
       "id": "1143566547",
       "title": "Folge 78: und Elea Eluanda",
       "episodeNumber": 78,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/53/2a/9e/532a9e5b-6a80-a429-0866-5bb34216105a/190295916466.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel der Bibi Blocksberg Serie, bekannt für ihre Abenteuer und fantasievolle Geschichten für Kinder.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143566547"
@@ -4130,7 +4474,7 @@
       "episodeNumber": 79,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/eb/50/e1/eb50e1f0-f3d7-ff12-949e-c3d3cd3043a2/190295916176.jpg/100x100bb.jpg",
-      "description": "Das Album beinhaltet Hörspiele, die oft für Kinder geeignet sind.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143578913"
@@ -4143,7 +4487,7 @@
       "episodeNumber": 80,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/47/5b/43/475b4343-2bec-c87d-c044-a1a5991e96d3/190295916442.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel basierend auf der Figur Bibi Blocksberg, bekannt für kinderfreundliche Inhalte.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143594548"
@@ -4156,23 +4500,10 @@
       "episodeNumber": 81,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/09/e8/50/09e85004-3ce5-5e37-8e39-ae75ae67b69f/190295916435.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 81: Mami in Not' von Bibi Blocksberg, das sich auf ein Hörspiel spezialisiert. Es ist Teil eines Hörspiel-Albums mit insgesamt 29 Tracks.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143587005"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1143574382",
-      "title": "Folge 82: Hexspruch mit Folgen",
-      "episodeNumber": 82,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/63/65/68/6365685e-632b-37e4-3bbf-9c948b6ee1e1/190295916206.jpg/100x100bb.jpg",
-      "description": "Das Album umfasst 26 Hörspiel-Tracks von Bibi Blocksberg, die im Format 'Folge 82: Hexspruch mit Folgen' erscheinen. Es handelt sich um ein Hörspielalbum auf Apple Music.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1143574382"
       },
       "chapters": []
     },
@@ -4182,7 +4513,7 @@
       "episodeNumber": 83,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3c/a2/40/3ca24090-1b24-469c-3bcd-cb3aeb117918/190295916190.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 83: Die Klassenreise' von Bibi Blocksberg, das im Genre Hörspiele eingestuft ist. Der Inhalt könnte sich auf ein Jugend-Hörspiel beziehen.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143563251"
@@ -4195,7 +4526,7 @@
       "episodeNumber": 84,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b0/c5/07/b0c507af-9967-9971-f1c2-ec0cc9d454ad/190295916183.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum über eine junge Heldin, die sich mit Hexen und Magie auseinandersetzt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143565140"
@@ -4208,7 +4539,7 @@
       "episodeNumber": 85,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/03/af/75/03af750a-d762-2b2f-4ee2-079c5040ac2e/190295916152.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel der Reihe 'Bibi Blocksberg', das sich an Kinder richtet und spannende Abenteuer bietet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143561920"
@@ -4221,7 +4552,7 @@
       "episodeNumber": 86,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/ee/2e/36/ee2e3674-abf9-3006-346b-ceeaed7d2aa0/190295916107.jpg/100x100bb.jpg",
-      "description": "Ein Album einer beliebten Hörspielserie für Kinder, die oft auf Audiostreaming-Plattformen verfügbar ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143562467"
@@ -4234,7 +4565,7 @@
       "episodeNumber": 87,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/6f/d4/e3/6fd4e3f6-933c-2e04-9f46-66dcfb03c338/190295916091.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel der Serie 'Bibi Blocksberg' mit dem Titel 'Folge 87: Die vertauschte Hexenkugel'.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143574041"
@@ -4247,7 +4578,7 @@
       "episodeNumber": 88,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/9e/a7/da/9ea7da47-489f-c059-a7b4-229a6afda4cf/190295916022.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das Teil einer Serie ist, das sich um ein Thema wie Hunde oder Fantasy dreht.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143584898"
@@ -4260,7 +4591,7 @@
       "episodeNumber": 89,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/5a/7d/40/5a7d401b-5d3f-f8eb-08be-0915138e9caa/190295915841.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil der Hörspielserie 'Bibi Blocksberg', die für Kinder gedacht ist und Abenteuer und Fantasy beinhaltet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143585653"
@@ -4273,7 +4604,7 @@
       "episodeNumber": 90,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/57/81/3d/57813d1d-2945-dede-d7d6-1c9beaf7a427/190295914783.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält die Folge 90 des Hörspiels 'Bibi Blocksberg', das sich um das Abenteuer einer jungen Detektivin handelt. Es richtet sich hauptsächlich an ein junges Publikum.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143593750"
@@ -4286,7 +4617,7 @@
       "episodeNumber": 91,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ba/0d/e1/ba0de151-441f-19fd-8c90-f325e4d340f9/190295912819.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum für Kinder über das Geheimnis von Marita.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143563895"
@@ -4299,7 +4630,7 @@
       "episodeNumber": 92,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/43/44/fa/4344fae2-73fc-df56-ed38-ecc079b05577/190295914691.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das Teil einer Serie ist und von Bibi Blocksberg produziert wird. Es richtet sich an ein junges Publikum und kombiniert Spannung und Unterhaltung.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143561290"
@@ -4312,7 +4643,7 @@
       "episodeNumber": 93,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/cc/e2/86/cce2866b-4c57-cf70-3be6-a469b6644f2f/190295914653.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum für Kinder, basierend auf einer beliebten Figur aus Deutschland.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144135664"
@@ -4325,7 +4656,7 @@
       "episodeNumber": 94,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/72/52/53/725253c8-a0cb-f7ce-8f6b-fab8fef37daf/190295914622.jpg/100x100bb.jpg",
-      "description": "Ein Kinderhörspiel mit Fantasy-Elementen, das eine Zeitreise in eine verhexte Welt beinhaltet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144140707"
@@ -4338,7 +4669,7 @@
       "episodeNumber": 95,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/9a/f9/c9/9af9c9fe-485c-7818-b421-a4116d3708aa/190295914608.jpg/100x100bb.jpg",
-      "description": "Ein spannender Hörspiel-Album über eine verbotene Hexeninsel für Kinder.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144137599"
@@ -4351,7 +4682,7 @@
       "episodeNumber": 96,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/43/a6/29/43a6297d-712c-42e9-e0ef-addf36197fa6/190295914592.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das Teil einer Serie ist und von einer bekannten deutschen Autorin stammt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144134842"
@@ -4364,7 +4695,7 @@
       "episodeNumber": 97,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/70/80/0f/70800f4c-ab0e-b77c-6c7b-722929cf2a08/190295914561.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum für Kinder mit dem Titel 'Folge 97: Überraschung für Mami' von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144136677"
@@ -4377,7 +4708,7 @@
       "episodeNumber": 98,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/91/36/f3/9136f382-9421-6c6a-d0b4-ec8b892dab01/190295914523.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum über Prinzessinnen in einer fernen Welt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144139238"
@@ -4390,7 +4721,7 @@
       "episodeNumber": 99,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/23/60/6b/23606b13-2512-399f-c62c-82b2b89429db/190295914509.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil eines Hörspiel-Universums, das von der Figur Bibi Blocksberg erzählt wird. Es handelt sich um ein spannendes Abenteuer für Kinder.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144134293"
@@ -4403,7 +4734,7 @@
       "episodeNumber": 100,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/70/52/d2/7052d216-7c09-fe56-bd3a-02579a57cef4/190295914486.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 100: Die große Hexenparty' von Bibi Blocksberg im Genre Hörspiel. Das Album enthält 51 Tracks.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144142594"
@@ -4416,7 +4747,7 @@
       "episodeNumber": 101,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/19/c0/4a/19c04a49-426b-d14d-2874-9ede274c0951/190295913892.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 101: und Piraten-Lilly' von Bibi Blocksberg enthält Hörspiel-Tracks und ist typisch für deutsche Hörspiel-Produktionen.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144135336"
@@ -4429,7 +4760,7 @@
       "episodeNumber": 102,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/57/1e/99/571e99bd-69de-4789-aae2-32857bc09c9c/190295913878.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil einer Hörspielreihe, die von der bekannten Figur Bibi Blocksberg erzählt wird. Es handelt sich um ein abenteuerliches Hörspiel für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144134001"
@@ -4442,7 +4773,7 @@
       "episodeNumber": 103,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ba/71/7a/ba717ac1-530b-8281-115f-8536b39bbb2c/190295913847.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel-Album, das sich um eine spannende Geschichte im Fantasy-Genre dreht.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144141141"
@@ -4455,7 +4786,7 @@
       "episodeNumber": 104,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/ad/e3/4e/ade34e92-915e-d371-8efb-5c8c61610d5f/190295913809.jpg/100x100bb.jpg",
-      "description": "Ein Album des Hörspiel-Formats, das das Abenteuer um einen verhexten Bürgermeister erzählt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144271014"
@@ -4468,7 +4799,7 @@
       "episodeNumber": 105,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/3c/47/ba/3c47baf9-97c3-7c17-45f7-a1b872558ae5/190295907303.jpg/100x100bb.jpg",
-      "description": "Das Album beinhaltet Hörspiele und passt somit zu diesem Genre.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144975506"
@@ -4481,7 +4812,7 @@
       "episodeNumber": 106,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/20/d1/cf/20d1cf1b-8c67-fe75-fd2a-bcf7c36ec65e/190295913793.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil der Hörspielreihe von Bibi Blocksberg und umfasst 26 Folgen, die sich um das Thema 'Der verrückte Staubsauger' drehen. Es richtet sich hauptsächlich an Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144136089"
@@ -4494,7 +4825,7 @@
       "episodeNumber": 107,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/a6/8a/72/a68a7255-4396-1be2-a47a-8acfca941f1f/190295912703.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 107: Die Geheimsprache' von Bibi Blocksberg gehört zur Hörspiel-Reihe und richtet sich an ein junges Publikum.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144138108"
@@ -4502,12 +4833,103 @@
       "chapters": []
     },
     {
+      "id": "1038229201",
+      "title": "Folge 108 - Der Familienausflug (inkl. Bonustrack)",
+      "episodeNumber": 108,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/2f/fc/3c/2ffc3cf9-1273-0b33-9153-f895fb01aba2/825646373147.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1038229201"
+      },
+      "chapters": [
+        {
+          "id": "bibi-blocksberg-1038229201-t01",
+          "title": "Bibi Blocksberg Lied",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t02",
+          "title": "Folge 108 - Kapitel 1: Reisevorbereitungen",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t03",
+          "title": "Folge 108 - Kapitel 2: Auf gute Nachbarschaft!",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t04",
+          "title": "Folge 108 - Kapitel 3: Auf Kräutersuche",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t05",
+          "title": "Folge 108 - Kapitel 4: Ravioli und Eis",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t06",
+          "title": "Folge 108 - Kapitel 5: Stühle und Matratzen",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t07",
+          "title": "Folge 108 - Kapitel 6: Im Wasser",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t08",
+          "title": "Folge 108 - Kapitel 7: Elixir und Erdbeersaft",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t09",
+          "title": "Folge 108 - Kapitel 8: Auf Sternschnuppenfang",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t10",
+          "title": "Folge 108 - Kapitel 9: Schwebende Männer",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-1038229201-t11",
+          "title": "Bonus: Hexenkräuter",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
       "id": "1144142687",
       "title": "Folge 108: Der Familienausflug",
       "episodeNumber": 108,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/83/4c/33/834c33f6-c211-97cc-eccb-a4c62981cbaa/190295912666.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum über den Familienausflug der Bibi Blocksberg Familie.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144142687"
@@ -4520,7 +4942,7 @@
       "episodeNumber": 109,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/1a/9a/4d1a9a49-326a-c26f-84bd-23e4625f04bd/190295913786.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 109: Der Hexenball' von Bibi Blocksberg, das sich in einem Fantasy-Setting abspielt und für Kinder und Jugendliche geeignet ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144560681"
@@ -4533,7 +4955,7 @@
       "episodeNumber": 110,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/72/2a/64/722a6447-a60a-71cb-f742-2c3a2247cbe8/190295913489.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum für Kinder, basierend auf der beliebten Figur Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144138355"
@@ -4546,7 +4968,7 @@
       "episodeNumber": 111,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c1/a1/5b/c1a15b3e-ea93-b0ca-ccf6-5925c80776a4/190295913458.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Tracks aus der Serie 'Bibi Blocksberg' und ist somit ein Hörspiel-Album.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144133509"
@@ -4559,7 +4981,7 @@
       "episodeNumber": 112,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/86/18/da86185a-723b-cdff-dce6-11598d66d031/190295913434.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 112: Das TV-Hex-Duell' von Bibi Blocksberg umfasst 30 Hörspiel-Tracks und ist somit ein Hörspiel auf iTunes.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144137196"
@@ -4572,7 +4994,7 @@
       "episodeNumber": 113,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/16/57/03/1657032b-b9d7-776b-0b83-b76cf050a080/190295913311.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 113: Die Hexprüfung' von Bibi Blocksberg ist ein Hörspiel, das auf Apple Music verfügbar ist. Es passt zu den Genres Hörspiel, Krimi und Abenteuer.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144141584"
@@ -4585,7 +5007,7 @@
       "episodeNumber": 114,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/c9/c6/f8c9c674-4b31-3aee-fb95-c06831a21173/190295913298.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 114: Der verhexte Wandertag' von Bibi Blocksberg mit 29 Tracks. Es handelt sich um ein Hörspiel, das auf einer deutschen Plattform verfügbar ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144139051"
@@ -4598,7 +5020,7 @@
       "episodeNumber": 115,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/a0/52/7c/a0527cdb-4319-bb2f-55c1-febece5c438a/190295913274.jpg/600x600bb.jpg",
-      "description": "CD * BIBI BLOCKSBERG - HÖRSPIEL 115 - URLAUB IN DER HEXENPENSION # NEU OVP KX - Bild 1 von 1.VerlagKiddinx Entertainment Gmb. BuchtitelBibi Blocksberg 115. Urlaub in der Hexenpension. Erscheinungsjahr2015.",
+      "description": "",
       "totalDuration": 2790,
       "platforms": {
         "appleMusic": "1144140082"
@@ -4829,7 +5251,7 @@
       "episodeNumber": 116,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/d3/e8/da/d3e8dadc-52e8-ea7d-45b3-5959df098e5f/190295913250.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum der Bibi Blocksberg Serie, das im Wald der Hexenbesen spielt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144561532"
@@ -4842,7 +5264,7 @@
       "episodeNumber": 117,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/4d/75/75/4d75758e-23e4-df19-77b6-3fd2d0e4ab14/190295913236.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 117: Die Besenflugprüfung' von Bibi Blocksberg ist ein Hörspiel im Genre Kinder & Jugend.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1144560975"
@@ -4855,7 +5277,7 @@
       "episodeNumber": 118,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f5/3a/06/f53a064b-3421-10ee-b834-c043a94454d7/190295882129.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum über die Abenteuer einer Austauschschülerin, von Bibi Blocksberg gelesen.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1166646205"
@@ -4868,7 +5290,7 @@
       "episodeNumber": 119,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/04/46/17/044617b2-bcfc-cba8-6eb7-d3b5788b6948/190295861216.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das die Geschichte von Bibi Blocksberg und ihren Abenteuern mit dem Feuerdrachen erzählt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1183937226"
@@ -4881,7 +5303,7 @@
       "episodeNumber": 120,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c9/0c/44/c90c446e-2b91-b9ea-2b25-7b325b8aa580/dj.cvvrnjci.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel aus der Bibi Blocksberg Reihe, bekannt für seine Kinderbücher und Geschichten.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1162802815"
@@ -4894,10 +5316,23 @@
       "episodeNumber": 121,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/64/a5/4c64a57d-6598-b0bc-e4fe-89c47523e9fc/190295831257.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das Teil einer Serie ist, mit Fokus auf unterhaltsame Themen für Kinder.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1209996974"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1408763839",
+      "title": "Folge 121: Der neue Schulgarten",
+      "episodeNumber": 121,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/c5/8f/f3c58fd6-9313-495f-d6f8-099aab948f46/190295581954.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1408763839"
       },
       "chapters": []
     },
@@ -4907,7 +5342,7 @@
       "episodeNumber": 122,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b1/0f/42/b10f42ad-421f-673f-b574-a309e0d517ea/190295779467.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel aus der Serie 'Bibi Blocksberg' über das Hexeninternat mit 28 Folgen.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1274549747"
@@ -4920,7 +5355,7 @@
       "episodeNumber": 123,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/59/b9/c6/59b9c6f8-60bc-8134-8b42-fa3b76b7b1c1/190295709327.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über das Abenteuer von Oma Grete.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1327902661"
@@ -4933,7 +5368,7 @@
       "episodeNumber": 124,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e7/02/88/e70288f0-c87c-8c7d-93e4-c3f24289e84b/190295659240.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 124: Das verrückte Huhn' von Bibi Blocksberg mit 28 Folgen. Es richtet sich an ein junges Publikum und ist typisch für deutsche Hörspielserien.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1364556567"
@@ -4946,7 +5381,7 @@
       "episodeNumber": 125,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/c6/ae/2ec6ae08-f021-326c-2f4b-c9e8186cb8b2/190295642976.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx , die 1980 von Elfie Donnelly ins Leben gerufen wurde.",
+      "description": "",
       "totalDuration": 2880,
       "platforms": {
         "appleMusic": "1401395782"
@@ -5184,7 +5619,7 @@
       "episodeNumber": 126,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4c/3e/94/4c3e9440-a4e8-9c07-c840-72453898bd74/190295555870.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel mit dem Titel 'Folge 126: Das wilde Schlittenrennen' von Bibi Blocksberg bietet spannende Abenteuer für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1438643095"
@@ -5197,7 +5632,7 @@
       "episodeNumber": 127,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2d/e4/55/2de45501-f81a-8747-f19d-8445cc054288/190295520892.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum von Bibi Blocksberg, das auf Abenteuer im Stil der Kinderbuchserie basiert.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1446051751"
@@ -5210,7 +5645,7 @@
       "episodeNumber": 128,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ba/a4/8a/baa48aac-85e0-520d-2654-34b7220a43c1/190295472771.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Episoden des beliebten Hörspiels 'Bibi Blocksberg', das sich an Kinder und Jugendliche richtet.",
+      "description": "",
       "totalDuration": 2706.622,
       "platforms": {
         "appleMusic": "1452609095"
@@ -5427,7 +5862,7 @@
       "episodeNumber": 129,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/22/f6/d6/22f6d67c-dee7-15f5-7fcb-0ded58177111/190295404536.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil der Hörspielreihe um Bibi Blocksberg, die auf spannende Abenteuer für Kinder basiert.",
+      "description": "",
       "totalDuration": 2857.816,
       "platforms": {
         "appleMusic": "1468137425"
@@ -5658,7 +6093,7 @@
       "episodeNumber": 130,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c2/fb/4d/c2fb4df6-7998-40a2-dbde-87dcfc17b8f8/190295334901.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspiel-Titel und dem Genre Hörspiele.",
+      "description": "",
       "totalDuration": 2752.976,
       "platforms": {
         "appleMusic": "1481632854"
@@ -5882,7 +6317,7 @@
       "episodeNumber": 131,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/38/b5/8a/38b58a18-5859-b1b7-39eb-6be377bcc15b/190295298753.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album mit 29 Folgen, das von der Künstlerin Bibi Blocksberg produziert wurde.",
+      "description": "",
       "totalDuration": 2549.3,
       "platforms": {
         "appleMusic": "1491075084"
@@ -6099,7 +6534,7 @@
       "episodeNumber": 132,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/98/ef/f9/98eff98e-75d1-ae2f-a4bf-daba527e0feb/190295262679.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 132: Die Walpurgisnacht' von Bibi Blocksberg ist ein Hörspiel, das auf der Plattform Apple Music verfügbar ist und von Hörspiel als Genre gekennzeichnet ist.",
+      "description": "",
       "totalDuration": 4644.309,
       "platforms": {
         "appleMusic": "1498234055"
@@ -6449,7 +6884,7 @@
       "episodeNumber": 133,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c8/ab/90/c8ab9023-0458-529a-f630-9bb06ed4c709/190295251017.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 133: im Modeatelier' von Bibi Blocksberg, das sich auf Hörspiele spezialisiert, deutet eindeutig auf ein deutsches Hörspiel/Hörbuch hin.",
+      "description": "",
       "totalDuration": 2888.232,
       "platforms": {
         "appleMusic": "1501373996"
@@ -6680,7 +7115,7 @@
       "episodeNumber": 134,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/09/fa/58/09fa5818-bc89-f558-a78c-aa16a9f84a89/190295193669.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel von Bibi Blocksberg über Hexen und Verdacht, ideal für Fantasy-Fans.",
+      "description": "",
       "totalDuration": 2672.154,
       "platforms": {
         "appleMusic": "1518816090"
@@ -6897,7 +7332,7 @@
       "episodeNumber": 135,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/f7/42/3cf7424d-e95c-c9c2-956c-c8f7ab021bb2/190295167073.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel mit dem Titel 'Folge 135: Freunde in Gefahr' von Bibi Blocksberg veröffentlicht wurde, enthält 26 Tracks im Genre Hörspiele.",
+      "description": "",
       "totalDuration": 2442.071,
       "platforms": {
         "appleMusic": "1526145514"
@@ -7093,7 +7528,7 @@
       "episodeNumber": 136,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/59/e8/a7/59e8a7ad-3266-784d-e943-ea751e04e9a8/190295088361.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 136: Im verhexten Winterwald' von Bibi Blocksberg im Genre Hörspiele, das auf iTunes verfügbar ist.",
+      "description": "",
       "totalDuration": 2924.69,
       "platforms": {
         "appleMusic": "1538441660"
@@ -7324,7 +7759,7 @@
       "episodeNumber": 137,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5a/44/35/5a44359f-bea9-caf5-88b2-78f6f67459dc/190295025687.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 137: Ein verrückter Ausflug' von Bibi Blocksberg. Es umfasst 31 Tracks und gehört zum Genre der Hörspiele.",
+      "description": "",
       "totalDuration": 2906.756,
       "platforms": {
         "appleMusic": "1548517211"
@@ -7555,7 +7990,7 @@
       "episodeNumber": 138,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/ef/17/54ef1717-064a-5666-be95-baa5a2d5ca7f/190296697708.jpg/100x100bb.jpg",
-      "description": "Ein Album aus dem Bereich Hörspiele, das von Bibi Blocksberg produziert wird und sich auf unterhaltsame Geschichten für Kinder konzentriert.",
+      "description": "",
       "totalDuration": 3584.403,
       "platforms": {
         "appleMusic": "1563761713"
@@ -7842,7 +8277,7 @@
       "episodeNumber": 139,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/66/8e/02668e7a-3e5e-b9a5-1890-6688e0e302d4/190296519413.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil einer Hörspielreihe von Bibi Blocksberg und spielt an einem Flughafen während eines Chaos. Es richtet sich an ein junges Publikum.",
+      "description": "",
       "totalDuration": 3093.298,
       "platforms": {
         "appleMusic": "1580082004"
@@ -8080,7 +8515,7 @@
       "episodeNumber": 140,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cd/34/1c/cd341c2e-a4ef-188d-e6c0-14f165f02e25/190296410543.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel mit Bibi Blocksberg, das im Genre Fantasy und Kinder & Jugend angesiedelt ist.",
+      "description": "",
       "totalDuration": 2885.405,
       "platforms": {
         "appleMusic": "1589450853"
@@ -8311,7 +8746,7 @@
       "episodeNumber": 141,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/dd/67/e4dd67c5-eb7a-effd-68bc-c4a631466645/190296310638.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das auf der beliebten Figur Bibi Blocksberg basiert und auf Deutsch produziert wurde.",
+      "description": "",
       "totalDuration": 2856.51,
       "platforms": {
         "appleMusic": "1600059108"
@@ -8535,7 +8970,7 @@
       "episodeNumber": 142,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/e1/29/60e129b0-1d47-43f0-c22b-57901fa03b7d/190296218507.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Hörspiel mit dem Titel 'Folge 142: UFOs über Neustadt' von Bibi Blocksberg, das sich im Genre der Science-Fiction bewegt.",
+      "description": "",
       "totalDuration": 3164.576,
       "platforms": {
         "appleMusic": "1611219867"
@@ -8787,7 +9222,7 @@
       "episodeNumber": 143,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/60/14/53/601453c9-4114-0c47-b099-57812d363729/5054197151330.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel der Serie Bibi Blocksberg, die oft in Deutschland ausgestrahlt wird.",
+      "description": "",
       "totalDuration": 3042.432,
       "platforms": {
         "appleMusic": "1619310319"
@@ -9025,7 +9460,7 @@
       "episodeNumber": 144,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5a/ee/38/5aee38ee-6654-d293-79ba-6d533498b8fc/5054197329814.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über den Klimawettbewerb, geeignet für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 3113.143,
       "platforms": {
         "appleMusic": "1641711597"
@@ -9270,7 +9705,7 @@
       "episodeNumber": 145,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/54/66/05/54660587-99b7-035c-c4ab-f4d6a5a3210a/5054197400506.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Hörspiel der Serie 'Bibi Blocksberg', das sich auf weihnachtliche Abenteuer und Geschichten konzentriert.",
+      "description": "",
       "totalDuration": 3182.495,
       "platforms": {
         "appleMusic": "1649355498"
@@ -9515,7 +9950,7 @@
       "episodeNumber": 146,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8a/91/bd/8a91bd4e-ea6f-217a-9486-930a062ca001/5054197470608.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album von Bibi Blocksberg, das sich auf ein Abenteuer mit Hexen und Besen konzentriert.",
+      "description": "",
       "totalDuration": 3432.027,
       "platforms": {
         "appleMusic": "1656693811"
@@ -9781,7 +10216,7 @@
       "episodeNumber": 147,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/ef/5c/fbef5c68-d2eb-d394-4c6c-bf63f213f40b/5054197557392.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über Bibi Blocksberg, das auf der Junghexeninsel Abenteuer erlebt.",
+      "description": "",
       "totalDuration": 2801.291,
       "platforms": {
         "appleMusic": "1672654364"
@@ -10005,7 +10440,7 @@
       "episodeNumber": 148,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/f9/ff/37f9ff13-32e8-8021-0807-6b0790b4ecd9/5054197701627.jpg/100x100bb.jpg",
-      "description": "Das Album enthält 30 Folgen des Hörspiels 'Bibi Blocksberg', ein beliebtes Kinderprogramm.",
+      "description": "",
       "totalDuration": 2832.324,
       "platforms": {
         "appleMusic": "1691321985"
@@ -10229,7 +10664,7 @@
       "episodeNumber": 149,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/76/a3/b276a3be-b6e7-9ee7-8726-032db9937d02/5054197769405.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil der Hörspielreihe um Bibi Blocksberg und bietet spannende Abenteuer für Kinder.",
+      "description": "",
       "totalDuration": 2956.103,
       "platforms": {
         "appleMusic": "1700250406"
@@ -10467,7 +10902,7 @@
       "episodeNumber": 150,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/a7/59/eaa7598c-2aa5-dce6-89a2-8dc3b5a4e4b8/5054197921339.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil einer Hörspielreihe, die auf deutschen Audiostreaming-Plattformen verfügbar ist.",
+      "description": "",
       "totalDuration": 4653.038,
       "platforms": {
         "appleMusic": "1718226673"
@@ -10824,7 +11259,7 @@
       "episodeNumber": 151,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/52/51/15525126-1752-5e89-e312-e44800efd35c/5054197954047.jpg/100x100bb.jpg",
-      "description": "Ein Kinderhörspiel über eine Gruppe, die ein Hexenfest rettet.",
+      "description": "",
       "totalDuration": 2801.591,
       "platforms": {
         "appleMusic": "1724963746"
@@ -11048,7 +11483,7 @@
       "episodeNumber": 152,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/6e/45/da6e4521-89fd-8113-0d3a-88f39e9847ee/4033694556528.jpg/100x100bb.jpg",
-      "description": "Ein spannender Hörspiel-Album über eine verrückte Autofahrt, interpretiert von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 2803.967,
       "platforms": {
         "appleMusic": "1742802135"
@@ -11272,7 +11707,7 @@
       "episodeNumber": 153,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/81/fe/1781fe9b-46bb-0b4e-2241-05468fb7d5c8/4033694556535.jpg/100x100bb.jpg",
-      "description": "Ein deutscher Hörspiel-Album mit der Serie 'Bibi Blocksberg'.",
+      "description": "",
       "totalDuration": 2778.942,
       "platforms": {
         "appleMusic": "1751609402"
@@ -11496,7 +11931,7 @@
       "episodeNumber": 154,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/32/8c/2e328c5d-bc63-1f22-ae17-51d1f03c7d65/4033694556542.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum von Bibi Blocksberg über einen Besuch in London.",
+      "description": "",
       "totalDuration": 3324.652,
       "platforms": {
         "appleMusic": "1761068321"
@@ -11762,7 +12197,7 @@
       "episodeNumber": 155,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/df/9c/b5df9c93-c139-565b-8983-0d4458ba77de/4033694556559.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 155: Die Hexenbürgermeisterin' von Bibi Blocksberg enthält 37 Hörspiel-Episoden, die vermutlich eine spannende Geschichte mit Fantasy-Elementen bieten. Die Verbindung von 'Hörspiele' und dem Titel deutet auf eine fiktive und oft humorvolle Erzählung hin.",
+      "description": "",
       "totalDuration": 3400.401,
       "platforms": {
         "appleMusic": "1770991259"
@@ -12035,7 +12470,7 @@
       "episodeNumber": 156,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/b4/dd/dab4ddeb-dd6b-4d53-42d6-45bec21ad4e7/4033694556566.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum von Bibi Blocksberg, das auf Spannung und Fantasie für Kinder abzielt.",
+      "description": "",
       "totalDuration": 2761.793,
       "platforms": {
         "appleMusic": "1782003126"
@@ -12266,7 +12701,7 @@
       "episodeNumber": 157,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/e8/bb/d9e8bbcf-da03-587c-35e2-e6ac8fdf53d0/4033694556573.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält die Folge 157 des beliebten Hörspiel-Abenteuers 'Bibi Blocksberg'.",
+      "description": "",
       "totalDuration": 2764.757,
       "platforms": {
         "appleMusic": "1790624984"
@@ -12490,7 +12925,7 @@
       "episodeNumber": 158,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/80/a1/cb80a1d1-f813-37bb-1cd5-7ed0496d9adc/4033694556580.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel über den fliegenden Bürgermeister, das ab dem 13. Lebensjahr empfohlen wird.",
+      "description": "",
       "totalDuration": 3488.271,
       "platforms": {
         "appleMusic": "1798510171"
@@ -12770,7 +13205,7 @@
       "episodeNumber": 159,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/1c/b4/9b1cb498-d260-0db7-daaf-1c919d3966b1/4033694556597.jpg/100x100bb.jpg",
-      "description": "Ein spannender Hörspiel-Album über Bibi Blocksberg mit vielen spannenden Folgen.",
+      "description": "",
       "totalDuration": 3052.855,
       "platforms": {
         "appleMusic": "1811116780"
@@ -13022,7 +13457,7 @@
       "episodeNumber": 160,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/92/6a/cb926a93-afad-b019-d7cd-189de3b78215/4033694556603.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das von der Autorin Bibi Blocksberg produziert wurde. Es handelt sich um eine Fortsetzung einer bekannten Hörspielreihe mit dem Titel 'Spuk auf Schloss Thunderstorm'.",
+      "description": "",
       "totalDuration": 2909.631,
       "platforms": {
         "appleMusic": "1824733724"
@@ -13260,7 +13695,7 @@
       "episodeNumber": 161,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/16/84/f4168494-7f49-e5b0-a923-efdc6d753e51/4033694556610.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel formatiert ist, beinhaltet Geschichten, die meist in Form von gesprochenem Wort konsumiert werden. Diese Art von Inhalten wird häufig für Unterhaltung oder Bildung genutzt.",
+      "description": "",
       "totalDuration": 2956.19,
       "platforms": {
         "appleMusic": "1836984225"
@@ -13505,8 +13940,8 @@
       "episodeNumber": 162,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/e0/4e/2ce04e77-c579-b367-d2c5-64ec12229114/4033694556627.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel aus der Serie 'Bibi Blocksberg', das spannende Abenteuer und Magie beinhaltet.",
-      "totalDuration": 3074.99,
+      "description": "",
+      "totalDuration": 3074.9900000000002,
       "platforms": {
         "appleMusic": "1859988247"
       },
@@ -13750,7 +14185,7 @@
       "episodeNumber": 163,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/cc/0b/2fcc0b55-0cd8-cb43-d13c-ce8549709084/4033694556634.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel-Album mit 30 Folgen, basierend auf einer bekannten Kinderbuchreihe.",
+      "description": "",
       "totalDuration": 2685.849,
       "platforms": {
         "appleMusic": "1872675303"
@@ -13974,7 +14409,7 @@
       "episodeNumber": 164,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/1a/f7/d81af762-d640-31c0-14df-b3aeaa203011/4033694556641.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über Hexerei im Cluburlaub mit Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 2971.731,
       "platforms": {
         "appleMusic": "1886730705"
@@ -14214,12 +14649,25 @@
       ]
     },
     {
+      "id": "6772208931",
+      "title": "Folge 165: Die doppelte Klassenfahrt",
+      "episodeNumber": 165,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/33/71/f433712d-8232-506e-3113-1148fb313982/4033694556658.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "6772208931"
+      },
+      "chapters": []
+    },
+    {
       "id": "1713516434",
       "title": "Adventskalender: Die leuchtenden Hexsterne",
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/8d/29/e58d29b8-9eaa-2d3d-155b-81aa297287d8/5054197887666.jpg/100x100bb.jpg",
-      "description": "Ein Adventskalender-Album von Bibi Blocksberg, das Hörspiele umfasst und sich an ein junges Publikum richtet.",
+      "description": "",
       "totalDuration": 7668.66,
       "platforms": {
         "appleMusic": "1713516434"
@@ -14408,7 +14856,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/0e/f8/bb0ef83b-1d26-8081-2ca5-eaa9a23b6091/4033694563984.jpg/600x600bb.jpg",
-      "description": "Bibi Blocksberg ist der Name einer Kinder hörspielserie des Labels Kiddinx , die 1980 von Elfie Donnelly ins Leben gerufen wurde.",
+      "description": "",
       "totalDuration": 4685,
       "platforms": {
         "appleMusic": "1851429423"
@@ -14786,7 +15234,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bd/4e/29/bd4e29e2-16ce-bb35-db21-f4ddea639be2/190295275884.jpg/100x100bb.jpg",
-      "description": "Ein Kurzhörspiel von Bibi Blocksberg über die beste Freundin der Welt.",
+      "description": "",
       "totalDuration": 930.619,
       "platforms": {
         "appleMusic": "1496023731"
@@ -14842,7 +15290,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/77/52/11/775211a6-753e-90f7-5507-a544e5e81355/190295364489.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Geschichten von Bibi Blocksberg, die oft Kinderinhalte abdecken.",
+      "description": "",
       "totalDuration": 2802.295,
       "platforms": {
         "appleMusic": "1476061825"
@@ -15059,7 +15507,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/d7/48/73d74864-40dd-7d70-de67-e3b7ba42ee89/4033694554210.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele von Bibi Blocksberg über Verkehrserziehungsgeschichten für Kinder.",
+      "description": "",
       "totalDuration": 2919.828,
       "platforms": {
         "appleMusic": "1827427597"
@@ -15290,8 +15738,8 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/74/ad/80/74ad80f9-d756-14c2-e9bf-b5547cf19ae0/190295366735.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum von Bibi Blocksberg mit 32 Weihnachtsgeschichten für Kinder.",
-      "totalDuration": 3026.999,
+      "description": "",
+      "totalDuration": 3026.9990000000003,
       "platforms": {
         "appleMusic": "1477113585"
       },
@@ -15528,7 +15976,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/5a/6f/a8/5a6fa82d-e8d0-d50c-a9eb-b364b825f73e/190295808921.jpg/100x100bb.jpg",
-      "description": "Das Album enthält das Original-Hörspiel zum Kinofilm von Bibi Blocksberg mit 45 Tracks im Genre Hörspiel.",
+      "description": "",
       "totalDuration": 4006.271,
       "platforms": {
         "appleMusic": "1228734010"
@@ -15857,7 +16305,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/5c/a5/36/5ca53693-4f0b-46ad-56d2-81c178ef85e4/825646200627.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele von Bibi Blocksberg mit Geschichten wie 'Die Schlossgespenster' und 'Der kleine Hexer'.",
+      "description": "",
       "totalDuration": 4692.331,
       "platforms": {
         "appleMusic": "1069195838"
@@ -16013,12 +16461,159 @@
       ]
     },
     {
+      "id": "537028827",
+      "title": "Ferienspaß mit Bibi (inkl. dem Lied \"Hexenferien\")",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/16/f4/01/16f401c7-a287-c592-c38b-c0a994f1a7a2/825646573424.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "537028827"
+      },
+      "chapters": [
+        {
+          "id": "bibi-blocksberg-537028827-t01",
+          "title": "Bibi Blocksberg Lied",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t02",
+          "title": "Folge 5 - Kapitel 1: Die Besen müssen mit",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t03",
+          "title": "Folge 5 - Kapitel 2: Hubertus und Mathilda Drösel",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t04",
+          "title": "Folge 5 - Kapitel 3: Endlich im Hotel",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t05",
+          "title": "Folge 5 - Kapitel 4: Hexerei beim Abendessen",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t06",
+          "title": "Folge 5 - Kapitel 5: Hilfe für Eugen",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t07",
+          "title": "Folge 5 - Kapitel 6: Der Zaun muß weg!",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t08",
+          "title": "Folge 5 - Kapitel 7: Bibis Plan geht auf",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t09",
+          "title": "Folge 5 - Kapitel 8: Was für ein Ferienspaß!",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t10",
+          "title": "Folge 5 - Kapitel 9: Das große Lampionfest",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t11",
+          "title": "Folge 5 - Kapitel 10: Rettung in letzter Sekunde",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t12",
+          "title": "Folge 23 - Kapitel 1: Dicke Luft auf der Autobahn",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t13",
+          "title": "Folge 23 - Kapitel 2: Die Kinder büchsen aus",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t14",
+          "title": "Folge 23 - Kapitel 3: Die Eltern wundern sich",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t15",
+          "title": "Folge 23 - Kapitel 4: Verblüffte Polizisten",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t16",
+          "title": "Folge 23 - Kapitel 5: Stuhltanz statt Stau",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t17",
+          "title": "Folge 23 - Kapitel 6: Amtsperson in Nöten",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t18",
+          "title": "Folge 23 - Kapitel 7: Fliegen statt fahren",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "bibi-blocksberg-537028827-t19",
+          "title": "Hexenferien",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
       "id": "1228748853",
       "title": "Hörspiel zum 2. Kinofilm: und das Geheimnis der blauen Eulen",
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/3e/01/56/3e015669-1c5c-6005-0085-563f69261b5d/190295808822.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel zum 2. Kinofilm mit dem Titel 'und das Geheimnis der blauen Eulen' von Bibi Blocksberg. Es umfasst 47 Tracks und gehört zur Kategorie Hörspiele.",
+      "description": "",
       "totalDuration": 4209.13,
       "platforms": {
         "appleMusic": "1228748853"
@@ -16361,7 +16956,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/00/1e/f0001e52-2416-26aa-d1b7-c1e8dac205d1/4033694428634.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Tracks von Bibi Blocksberg, die in einem Kinder- und Jugendkontext angesiedelt sind.",
+      "description": "",
       "totalDuration": 4635.976,
       "platforms": {
         "appleMusic": "1810660072"
@@ -16725,7 +17320,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/74/1a/25741a06-7e37-85af-23f6-925de84fb366/190295140472.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält 14 Tracks des Künstlers Bibi Blocksberg im Genre Hörspiele. Es handelt sich um ein ASMR-Album, das Klangwelten am Meeresstrand vermittelt.",
+      "description": "",
       "totalDuration": 1296.058,
       "platforms": {
         "appleMusic": "1531497579"
@@ -16837,7 +17432,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/86/b4/2186b446-f110-c9ba-09ab-bd29c31032c1/190295950590.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die auf unterhaltsame Weise Abenteuer und Fantasie thematisieren.",
+      "description": "",
       "totalDuration": 1080.075,
       "platforms": {
         "appleMusic": "1110926254"
@@ -16893,7 +17488,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/ff/0e/26ff0e27-eb5b-7bb8-81c8-d64a47461f78/825646015658.jpg/100x100bb.jpg",
-      "description": "Ein Album von Bibi Blocksberg, das sich auf Hörspiele spezialisiert hat. Die EP 'Das Baumhaus' ist Teil ihrer Kurzhörspielreihe.",
+      "description": "",
       "totalDuration": 1002.0,
       "platforms": {
         "appleMusic": "1069183164"
@@ -16949,7 +17544,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/49/0c/58/490c580a-e8ac-7bc7-2967-38254c7ed095/825646966950.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit Geschichten von Bibi Blocksberg, ideal für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 1024.585,
       "platforms": {
         "appleMusic": "1069140412"
@@ -17005,7 +17600,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e4/0f/62/e40f6243-e9f7-fdc9-4ee4-02ab61ddce55/825646967018.jpg/100x100bb.jpg",
-      "description": "Dieses Album umfasst Hörspiel-Episoden, die von Bibi Blocksberg präsentiert werden. Es passt somit perfekt zu einem Hörspiel-Format.",
+      "description": "",
       "totalDuration": 1153.954,
       "platforms": {
         "appleMusic": "1069137492"
@@ -17061,7 +17656,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c5/23/82/c5238287-57bb-70e6-db7b-67899bb6cffe/825646015610.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die von Bibi Blocksberg erzählt werden. Es handelt sich um ein unterhaltsames und kindgerechtes Hörspiel-Projekt.",
+      "description": "",
       "totalDuration": 1006.447,
       "platforms": {
         "appleMusic": "1069184675"
@@ -17117,7 +17712,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/33/52/35/335235de-9f54-ba96-b229-1e58e0a056a7/190295950620.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist eine EP mit Hörspielen, die von Bibi Blocksberg erzählt werden. Es handelt sich um ein kurzes Hörspiel mit dem Titel 'Gruselnacht im Hexenhaus'.",
+      "description": "",
       "totalDuration": 1030.394,
       "platforms": {
         "appleMusic": "1110925999"
@@ -17173,7 +17768,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bd/4f/6c/bd4f6c3f-5423-7237-f95e-892a44941219/825646967230.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele der Figur Bibi Blocksberg, bekannt aus deutschen Kinderbüchern und Hörspielen.",
+      "description": "",
       "totalDuration": 988.937,
       "platforms": {
         "appleMusic": "1069144373"
@@ -17229,7 +17824,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/39/38/47/39384700-4bf3-3457-8fbc-744d713b7477/825646015566.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Episoden unter der Regie von Bibi Blocksberg, die auf Spannung und Unterhaltung abzielen, typisch für deutsche Hörspiele.",
+      "description": "",
       "totalDuration": 1121.329,
       "platforms": {
         "appleMusic": "1069146436"
@@ -17285,7 +17880,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/db/a2/2b/dba22b6c-234f-dc68-c807-86c1d85f13d5/190295561482.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele aus dem Kinder- und Jugendbereich, basierend auf dem Titel und dem Genre Hörspiele.",
+      "description": "",
       "totalDuration": 1008.14,
       "platforms": {
         "appleMusic": "1434079778"
@@ -17341,7 +17936,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d0/da/a8/d0daa8d7-2e01-72a8-0ddc-7a0543853bfd/190295367046.jpg/100x100bb.jpg",
-      "description": "Dieses Album beinhaltet Hörspiele mit dem Titel 'Kurzhörspiel - Bibi erzählt: Bürogeschichten', präsentiert von Bibi Blocksberg. Es umfasst insgesamt 31 Tracks im Hörspielgenre, was auf ein interaktives Hörerlebnis für Kinder hinweist.",
+      "description": "",
       "totalDuration": 2944.409,
       "platforms": {
         "appleMusic": "1477114049"
@@ -17572,7 +18167,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ef/0f/3f/ef0f3f74-0e53-05eb-9718-1382c220150a/190295561499.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspielen von Bibi Blocksberg, das Geschichten für Kinder und Jugendliche erzählt.",
+      "description": "",
       "totalDuration": 1053.288,
       "platforms": {
         "appleMusic": "1434079826"
@@ -17628,7 +18223,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ce/27/8d/ce278dbe-96fa-ff1d-c0de-c4fb246ee8f4/190295656171.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das Bibi Blocksberg erzählt, und ist Teil eines Kinderprogramms, das auf iTunes als Hörspiel verfügbar ist.",
+      "description": "",
       "totalDuration": 1001.154,
       "platforms": {
         "appleMusic": "1357164368"
@@ -17684,7 +18279,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bf/c1/40/bfc14051-d157-e4cf-a8b5-a1a022ecbae2/190296726682.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele von Bibi Blocksberg, bekannt für ihre Kinderhörspiele.",
+      "description": "",
       "totalDuration": 994.309,
       "platforms": {
         "appleMusic": "1560191290"
@@ -17740,7 +18335,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/57/5c/2a/575c2a65-c3a8-c73c-eaa7-9d51fd9c7a71/190295832131.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die von Bibi Blocksberg erzählt werden. Es ist Teil der Hörspiel-EP 'Der Traumberuf'.",
+      "description": "",
       "totalDuration": 1153.132,
       "platforms": {
         "appleMusic": "1210002392"
@@ -17796,7 +18391,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b2/b8/18/b2b8183a-0d56-bf72-37c5-c5c579b37d39/190295713836.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Kurzhörspielen, das von Bibi Blocksberg erzählt wird.",
+      "description": "",
       "totalDuration": 1014.658,
       "platforms": {
         "appleMusic": "1305450771"
@@ -17852,7 +18447,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c1/da/e5/c1dae5f1-ca10-a698-7c0b-edae30b987e0/190295132521.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die von Bibi Blocksberg erzählt werden und sich um eine Erdbeer-Sensation drehen. Es ist ein unterhaltsames Hörspiel für Kinder.",
+      "description": "",
       "totalDuration": 1208.414,
       "platforms": {
         "appleMusic": "1532937298"
@@ -17908,7 +18503,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ff/df/40/ffdf4039-2c87-1e80-695d-239aa0ba219a/190295276003.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum über die Abenteuer und Erlebnisse von Bibi Blocksberg, das sich mit Themen wie Freundschaft auseinandersetzt.",
+      "description": "",
       "totalDuration": 999.533,
       "platforms": {
         "appleMusic": "1496023293"
@@ -17964,7 +18559,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0d/83/e4/0d83e43c-d607-bbec-c1b7-5be1c0bdf2b4/190296465277.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel-EP für Kinder konzipiert ist, mit Bibi Blocksberg als Erzählerin.",
+      "description": "",
       "totalDuration": 1100.952,
       "platforms": {
         "appleMusic": "1584989066"
@@ -18020,7 +18615,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/76/97/e9/7697e92d-8bae-ed11-b4fd-97cbace9c347/190295713829.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die auf spannende und unterhaltsame Weise erzählt werden. Es richtet sich hauptsächlich an ein junges Publikum und bietet eine Vielzahl von Geschichten in verschiedenen Genres.",
+      "description": "",
       "totalDuration": 1094.892,
       "platforms": {
         "appleMusic": "1305450915"
@@ -18076,7 +18671,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3c/bb/d7/3cbbd73e-9b79-8463-f7c4-fadaa6fc1896/190295409944.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Episoden von 'Bibi Blocksberg' über eine verrückte Radwanderung, geeignet für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 902.429,
       "platforms": {
         "appleMusic": "1465958681"
@@ -18132,7 +18727,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9d/54/9d/9d549dfa-a3ad-ee5f-6f2e-eee0fc841658/190295656188.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspielen von Bibi Blocksberg, das speziell für Kinder konzipiert ist.",
+      "description": "",
       "totalDuration": 1044.818,
       "platforms": {
         "appleMusic": "1356161936"
@@ -18188,7 +18783,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/0d/44/1b0d44de-1f32-2d95-8410-25d644e87ce9/190296726668.jpg/100x100bb.jpg",
-      "description": "Ein Album, das sich auf ein Hörspiel von Bibi Blocksberg konzentriert, mit Geschichten, die typischerweise für Kinder gedacht sind.",
+      "description": "",
       "totalDuration": 1074.424,
       "platforms": {
         "appleMusic": "1560190386"
@@ -18244,7 +18839,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a3/45/c3/a345c3f1-7eed-c3be-84d0-a1282977aa1a/190295713812.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, speziell Geschichten für Kinder. Es handelt sich um ein Musikalbum mit Hörspiel-Inhalten, das auf Apple Music verfügbar ist.",
+      "description": "",
       "totalDuration": 1045.167,
       "platforms": {
         "appleMusic": "1305450320"
@@ -18300,7 +18895,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/59/19/7d/59197dae-025a-b282-19ea-379a11c93355/190295831998.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album, das Geschichten für Kinder erzählt, basierend auf der Figur Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 1287.505,
       "platforms": {
         "appleMusic": "1209998741"
@@ -18356,7 +18951,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a9/e0/4e/a9e04e6f-3bab-1873-035d-9dc8a45e1309/190295132590.jpg/100x100bb.jpg",
-      "description": "Ein Kurzhörspiel mit Bibi Blocksberg, das spannende Abenteuer für Kinder bietet.",
+      "description": "",
       "totalDuration": 963.025,
       "platforms": {
         "appleMusic": "1532937245"
@@ -18412,7 +19007,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/66/08/02/660802d9-5afb-de65-8ad8-4f18ee7e1c9f/190295364502.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Episoden, die von Bibi Blocksberg erzählt werden. Es handelt sich um eine Serie mit sechs Episoden, die im Genre Kinder & Jugend angesiedelt sind.",
+      "description": "",
       "totalDuration": 940.48,
       "platforms": {
         "appleMusic": "1477494720"
@@ -18468,7 +19063,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4c/5f/48/4c5f48b8-c583-9012-2fc9-3cfd51be1183/190295275945.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele des Künstlers Bibi Blocksberg. Es handelt sich um ein spezielles Hörspiel-Projekt mit dem Titel 'Eine für alle, alle für eine'.",
+      "description": "",
       "totalDuration": 955.72,
       "platforms": {
         "appleMusic": "1496023900"
@@ -18524,8 +19119,8 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/44/48/e3/4448e312-7b0a-49d9-5c9f-24648ba646e0/190295367107.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspielen über Familiengeschichten, gestaltet von Bibi Blocksberg, das auf iTunes verfügbar ist.",
-      "totalDuration": 3001.876,
+      "description": "",
+      "totalDuration": 3001.8759999999997,
       "platforms": {
         "appleMusic": "1476558897"
       },
@@ -18755,7 +19350,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1e/34/2c/1e342c35-09bd-f723-6770-6173595e656d/190295409951.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die auf deutschen Geschichten basieren, wie z.B. 'Bibi Blocksberg - Ferien auf dem Bauernhof'.",
+      "description": "",
       "totalDuration": 963.4,
       "platforms": {
         "appleMusic": "1465959055"
@@ -18811,7 +19406,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/cf/63/5ccf63e0-eda0-949b-61ed-1b2767b1e59a/190295409623.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Kurzhörspiele mit Bibi Blocksberg, die auf spannende Feriengeschichten eingehen.",
+      "description": "",
       "totalDuration": 2791.332,
       "platforms": {
         "appleMusic": "1465951895"
@@ -19028,8 +19623,8 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/be/cb/44/becb44ec-654a-1770-41ec-a9ebaad05405/190295561512.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album mit Geschichten von Bibi Blocksberg, die sich auf magische und fantasievolle Abenteuer konzentrieren.",
-      "totalDuration": 1009.94,
+      "description": "",
+      "totalDuration": 1009.9399999999999,
       "platforms": {
         "appleMusic": "1434080141"
       },
@@ -19084,7 +19679,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/37/bc/1f/37bc1fc7-addf-7abf-bcea-8beb0ecff553/190295410001.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Kurzhörspiele des Bibi Blocksberg-Universums, die speziell für Hörspielgenuss konzipiert sind.",
+      "description": "",
       "totalDuration": 1052.87,
       "platforms": {
         "appleMusic": "1465958975"
@@ -19140,7 +19735,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/cb/10/efcb10d9-177a-1135-90ac-87dec3ed0e3c/190295366971.jpg/100x100bb.jpg",
-      "description": "Ein Album, das Hörspiele umfasst, ist typisch für deutsche Hörspiel-Produktionen. Bibi Blocksberg ist bekannt für Kinderhörspiele.",
+      "description": "",
       "totalDuration": 2905.991,
       "platforms": {
         "appleMusic": "1476559558"
@@ -19364,7 +19959,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/9d/1f/02/9d1f0294-ae26-3d9d-1ede-38c889a30fab/190295656195.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspielen von Bibi Blocksberg über Katzensitting, geeignet für Kinder.",
+      "description": "",
       "totalDuration": 956.742,
       "platforms": {
         "appleMusic": "1356163769"
@@ -19420,7 +20015,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cb/86/2b/cb862b16-05ad-a7ee-8aae-f7384bdacb17/190296465246.jpg/100x100bb.jpg",
-      "description": "Das Album enthält Hörspiele und ist Teil der Sammlung von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 1068.27,
       "platforms": {
         "appleMusic": "1584989150"
@@ -19476,7 +20071,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/77/aa/96/77aa96b8-2b55-c836-4f6d-67ba453de74e/190295364496.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist eine EP von Bibi Blocksberg, die Hörspiel-Episoden umfasst und sich auf Kinderinhalte konzentriert.",
+      "description": "",
       "totalDuration": 1004.76,
       "platforms": {
         "appleMusic": "1477255445"
@@ -19532,7 +20127,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b1/c3/79/b1c379e3-4706-9832-47cf-ae07461bfd95/190295366803.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Kurzhörspiele von Bibi Blocksberg, die sich auf Rathausgeschichten konzentrieren und somit vor allem Kindern und Jugendlichen empfohlen werden.",
+      "description": "",
       "totalDuration": 3358.198,
       "platforms": {
         "appleMusic": "1477114243"
@@ -19791,8 +20386,8 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/8c/e9/938ce996-cbb5-e535-cc80-db42699ef17f/190296465260.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum für Kinder, das spannende Abenteuer mit Bibi Blocksberg und Hexenbesen beinhaltet.",
-      "totalDuration": 950.777,
+      "description": "",
+      "totalDuration": 950.7769999999999,
       "platforms": {
         "appleMusic": "1584989119"
       },
@@ -19847,7 +20442,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/03/d8/28/03d82889-2846-63fa-91e2-0025dbb0bad9/190295366827.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspielen, speziell für Kinder, basierend auf der bekannten Figur Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 3040.889,
       "platforms": {
         "appleMusic": "1476559211"
@@ -20085,7 +20680,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/e4/87/7ce48727-41ed-761c-3241-477fcbdf1648/190295132583.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album, das die Geschichte von Bibi Blocksberg erzählt und sich auf spannende Abenteuer für Kinder konzentriert.",
+      "description": "",
       "totalDuration": 1151.507,
       "platforms": {
         "appleMusic": "1532936957"
@@ -20141,7 +20736,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c2/56/56/c25656aa-9a68-73a1-3eca-7b5ef4789482/190295951221.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit Geschichten von Bibi Blocksberg, die Sternschnuppenwünsche erzählt.",
+      "description": "",
       "totalDuration": 923.105,
       "platforms": {
         "appleMusic": "1110925952"
@@ -20197,7 +20792,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a6/1f/74/a61f749f-99ed-314d-f1c9-e494c9fa0f93/190295366711.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das Tiergeschichten von Bibi Blocksberg erzählt. Enthält 30 Tracks.",
+      "description": "",
       "totalDuration": 2875.314,
       "platforms": {
         "appleMusic": "1477114620"
@@ -20421,7 +21016,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b6/ec/d7/b6ecd77f-016d-8a72-4585-eb8f99aa31ea/190296726651.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album von Bibi Blocksberg über Verhexte Hexenbesen.",
+      "description": "",
       "totalDuration": 1020.677,
       "platforms": {
         "appleMusic": "1560190575"
@@ -20477,7 +21072,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bb/cf/53/bbcf53f1-228d-9b1d-ec5d-e587ee2ada39/190295832001.jpg/100x100bb.jpg",
-      "description": "Ein Kinderhörspiel von Bibi Blocksberg, das spannende Geschichten für junge Zuhörer erzählt.",
+      "description": "",
       "totalDuration": 1045.045,
       "platforms": {
         "appleMusic": "1209997061"
@@ -20533,7 +21128,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/f8/a0/a8f8a054-87b3-5c6b-7afa-6a398bc0d497/5021732272317.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Kurzhörspiele mit Geschichten von Bibi Blocksberg, die speziell für das Format des Hörspiels produziert wurden.",
+      "description": "",
       "totalDuration": 3228.601,
       "platforms": {
         "appleMusic": "1739367063"
@@ -20785,7 +21380,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/01/73/1b/01731b87-bcdd-847c-e3fc-e110ca0ccc5a/190295276508.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele unter der Regie von Bibi Blocksberg, die sich auf unterhaltsame Geschichten für Kinder konzentrieren.",
+      "description": "",
       "totalDuration": 2758.993,
       "platforms": {
         "appleMusic": "1495409525"
@@ -21009,8 +21604,8 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/db/52/52db527c-5ce1-9c9f-7e05-be0fef907d7e/5054197809705.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält 29 Kurzhörspiele von Bibi Blocksberg mit dem Titel 'Halloweengeschichten'.",
-      "totalDuration": 3036.586,
+      "description": "",
+      "totalDuration": 3036.5860000000002,
       "platforms": {
         "appleMusic": "1706870843"
       },
@@ -21226,7 +21821,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/53/4f/f6534f98-8097-a623-f368-d2c53d891002/190296728389.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Kurzhörspiele von Bibi Blocksberg, die sich auf spannende und unterhaltsame Geschichten für Kinder konzentrieren.",
+      "description": "",
       "totalDuration": 2962.215,
       "platforms": {
         "appleMusic": "1560190831"
@@ -21457,7 +22052,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/c3/64/99c3641f-a7f9-fe7f-cff9-c553ce5d2518/5054197550041.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält 30 Kurzhörspiele, die von Bibi Blocksberg erzählt werden. Sie drehen sich um spannende Geschichten mit Hexen und Magie, die typisch für deutsche Kinder- und Jugendhörspiele sind.",
+      "description": "",
       "totalDuration": 3011.616,
       "platforms": {
         "appleMusic": "1672655932"
@@ -21681,7 +22276,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/69/7a/43697a85-9557-b223-41b8-a6a2210ac7e5/190296192968.jpg/100x100bb.jpg",
-      "description": "Ein Album mit 31 Kurzhörspielen von Bibi Blocksberg, die Hexen- und Abenteuergeschichten erzählt.",
+      "description": "",
       "totalDuration": 4224.698,
       "platforms": {
         "appleMusic": "1613760880"
@@ -21912,7 +22507,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/0a/1c/a20a1c2e-fcb8-6fe3-0417-b3b88bf5373d/4033694554197.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält 32 Kurzhörspiele von Bibi Blocksberg mit Irlandgeschichten. Es handelt sich um ein Hörspiel-Album.",
+      "description": "",
       "totalDuration": 3077.746,
       "platforms": {
         "appleMusic": "1770238628"
@@ -22150,7 +22745,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/b5/fe/e2b5fe8c-1cab-c67c-c6f0-86d44e93c2aa/4033694554227.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Kurzhörspiele, speziell Geschichten von Bibi Blocksberg, die an die Neustadtgeschichten angelehnt sind, was auf einen jugendlichen und unterhaltsamen Inhalt hinweist.",
+      "description": "",
       "totalDuration": 2960.917,
       "platforms": {
         "appleMusic": "1873129555"
@@ -22381,7 +22976,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/33/1c/cf331c7f-86cb-6cc8-ae17-d58fa7b6c4d3/4033694554203.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Kurzhörspielen, das Ostergeschichten von Bibi Blocksberg erzählt.",
+      "description": "",
       "totalDuration": 2901.972,
       "platforms": {
         "appleMusic": "1798506107"
@@ -22605,7 +23200,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/73/12/0c/73120cda-d6e4-2fb5-c1d5-1f6695daba18/5054197224416.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die Geschichten von Bibi Blocksberg erzählen, insbesondere unter dem Titel 'Reisegeschichten'.",
+      "description": "",
       "totalDuration": 3281.161,
       "platforms": {
         "appleMusic": "1632615598"
@@ -22850,7 +23445,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/67/aa/3367aa92-c019-a07c-b821-e3206bbcdbc1/190296467455.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält 31 Kurzhörspiele, die von Bibi Blocksberg erzählt werden. Es handelt sich um Schneegeschichten.",
+      "description": "",
       "totalDuration": 2993.726,
       "platforms": {
         "appleMusic": "1584989504"
@@ -23081,7 +23676,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/87/76/2b/87762b15-13ba-4b4e-fbe9-437ae32e369d/190295132620.jpg/100x100bb.jpg",
-      "description": "Das Album 'Kurzhörspiele - Bibi erzählt: Sensationsgeschichten' umfasst 33 Hörspiel-Stücke unter der Regie von Bibi Blocksberg.",
+      "description": "",
       "totalDuration": 3196.191,
       "platforms": {
         "appleMusic": "1532939500"
@@ -23326,7 +23921,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/00/ec/5400ec60-4384-b200-1f42-1187eca71dc8/4033694441336.jpg/100x100bb.jpg",
-      "description": "Das Album \"Mein verhextes Halloween\" von Bibi Blocksberg enthält 34 Hörspiel-Stücke und ist im Genre \"Hörspiele\" klassifiziert.",
+      "description": "",
       "totalDuration": 3284.089,
       "platforms": {
         "appleMusic": "1771056773"
@@ -23578,7 +24173,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/99/87/a7/9987a741-082e-a919-93e2-04c56a800579/825646221806.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum für Kinder, das unterhaltsame Geschichten für die jüngeren Zuhörer bietet.",
+      "description": "",
       "totalDuration": 7217.89,
       "platforms": {
         "appleMusic": "1069226142"
@@ -23839,5 +24434,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T21:41:22Z"
+  "updatedAt": "2026-06-24T20:01:30.898176+00:00"
 }

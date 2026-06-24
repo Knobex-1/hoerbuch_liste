@@ -1,0 +1,26 @@
+{
+  "seriesId": "der-wilde-roboter",
+  "title": "Der wilde Roboter",
+  "language": "de",
+  "author": "Der wilde Roboter",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1788949444",
+      "title": "Der wilde Roboter (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/5c/d7/785cd73d-5e37-24d1-a39d-773a1989e924/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1788949444"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.680538+00:00"
+}

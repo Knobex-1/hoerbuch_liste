@@ -1,0 +1,39 @@
+{
+  "seriesId": "ritter-rost",
+  "title": "Ritter Rost",
+  "language": "de",
+  "author": "Ritter Rost",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1193158413",
+      "title": "Das Original-Hörspiel zum Kinofilm 2: Das Schrottkomplott",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/c4/3c/46/c43c4646-200c-f6a5-e292-7dc0a51d70e2/886446238852.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1193158413"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1116206226",
+      "title": "Das Original-Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/bd/2f/95bd2faf-bb42-98dc-eef4-13b80c4b369d/886445578379.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1116206226"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.796418+00:00"
+}

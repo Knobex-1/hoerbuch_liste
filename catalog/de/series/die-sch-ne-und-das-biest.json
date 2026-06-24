@@ -1,0 +1,26 @@
+{
+  "seriesId": "die-sch-ne-und-das-biest",
+  "title": "Die Schöne und das Biest",
+  "language": "de",
+  "author": "Die Schöne und das Biest",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686163046",
+      "title": "Die Schöne und das Biest (Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/8c/b2/f18cb220-913d-98a9-5c7d-0cb829240936/4066339467989.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686163046"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.681349+00:00"
+}

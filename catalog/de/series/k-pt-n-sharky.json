@@ -1,0 +1,26 @@
+{
+  "seriesId": "k-pt-n-sharky",
+  "title": "Käpt'n Sharky",
+  "language": "de",
+  "author": "Käpt'n Sharky",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1406380972",
+      "title": "Käpt'n Sharky (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/28/96/67289659-efea-0f21-1ab5-c032a17b75d4/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1406380972"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.793219+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "seriesId": "maurice-der-kater",
+  "title": "Maurice der Kater",
+  "language": "de",
+  "author": "Maurice der Kater",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1660230266",
+      "title": "Maurice der Kater (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/21/d1/d521d115-9998-e630-09d9-dbbd130c3333/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1660230266"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.794164+00:00"
+}

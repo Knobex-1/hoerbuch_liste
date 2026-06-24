@@ -1,0 +1,65 @@
+{
+  "seriesId": "ich-einfach-unverbesserlich",
+  "title": "Ich - Einfach unverbesserlich",
+  "language": "de",
+  "author": "Ich - Einfach unverbesserlich",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686237982",
+      "title": "Ich - Einfach unverbesserlich 2 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/09/a3/1609a359-5a41-1a0d-ae66-a120a62cc1a5/4057664206091.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686237982"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686249432",
+      "title": "Ich - Einfach unverbesserlich 3 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/d6/fe/44d6fe11-c644-32fd-d0f0-28a434e2fc7c/4057664206053.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686249432"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1773307456",
+      "title": "Ich - Einfach unverbesserlich 4 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/2d/52/762d5237-318d-1a7f-aee9-6ff24c2d58e9/4099995916881.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1773307456"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686247262",
+      "title": "Ich - Einfach unverbesserlich (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/a2/d5/eda2d5de-6d5c-8417-9df9-24271b2b5786/4057664206060.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686247262"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.791700+00:00"
+}

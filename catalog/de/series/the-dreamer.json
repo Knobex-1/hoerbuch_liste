@@ -1,0 +1,76 @@
+{
+  "seriesId": "the-dreamer",
+  "title": "The Dreamer",
+  "language": "de",
+  "author": "The Dreamer",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "408927916",
+      "title": "Die Bibel Folge 3: Das neue Testament",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/2b/f6/mzi.gmmfubxd.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "408927916"
+      },
+      "chapters": [
+        {
+          "id": "the-dreamer-408927916-t01",
+          "title": "Das Wirken Jesu (Johannes 3)",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "the-dreamer-408927916-t02",
+          "title": "Das Wirken Jesu (Johannes 4)",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "the-dreamer-408927916-t03",
+          "title": "Das Wirken Jesu (Johannes 7)",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "the-dreamer-408927916-t04",
+          "title": "Das Wirken Jesu (Johannes 8)",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "the-dreamer-408927916-t05",
+          "title": "Das Wirken Jesu (Johannes 11)",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "the-dreamer-408927916-t06",
+          "title": "Das Wirken Jesu (Matthäus 20)",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "the-dreamer-408927916-t07",
+          "title": "Das Wirken Jesu (Matthäus 21)",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.797678+00:00"
+}

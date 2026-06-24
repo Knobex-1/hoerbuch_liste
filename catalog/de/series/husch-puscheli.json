@@ -1,0 +1,26 @@
+{
+  "seriesId": "husch-puscheli",
+  "title": "Husch-Puscheli",
+  "language": "de",
+  "author": "Husch-Puscheli",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1670101707",
+      "title": "Folge 3: Neue Abenteuer im Urwald",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/26/ec/a426ec3f-d486-7ca3-0673-5b6da8721230/4260507179821_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1670101707"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.791450+00:00"
+}

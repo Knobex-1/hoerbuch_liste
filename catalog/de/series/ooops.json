@@ -1,0 +1,26 @@
+{
+  "seriesId": "ooops",
+  "title": "Ooops",
+  "language": "de",
+  "author": "Ooops",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1529632104",
+      "title": "Land in Sicht (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/e0/e1/e3e0e1a4-7ecc-f90c-2f09-2e96aeca591f/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1529632104"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.794989+00:00"
+}

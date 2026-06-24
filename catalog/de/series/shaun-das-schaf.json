@@ -1,0 +1,26 @@
+{
+  "seriesId": "shaun-das-schaf",
+  "title": "Shaun das Schaf",
+  "language": "de",
+  "author": "Shaun das Schaf",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1480209564",
+      "title": "Shaun das Schaf - Ufo-Alarm (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4e/4d/be4e4d67-905c-5149-e08c-c32153df242d/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1480209564"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.796772+00:00"
+}

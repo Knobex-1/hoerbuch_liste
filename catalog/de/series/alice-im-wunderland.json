@@ -1,0 +1,39 @@
+{
+  "seriesId": "alice-im-wunderland",
+  "title": "Alice im Wunderland",
+  "language": "de",
+  "author": "Alice im Wunderland",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686161967",
+      "title": "Alice im Wunderland (Das Original-Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/67/73/cc67736f-42b2-1729-e83b-a8710a02eb41/4066339483590.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686161967"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686191372",
+      "title": "Alice im Wunderland - Hinter den Spiegeln (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6b/b3/d3/6bb3d3a2-928e-2936-7dbb-23b15ccb2b6a/4066339483637.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686191372"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.678274+00:00"
+}

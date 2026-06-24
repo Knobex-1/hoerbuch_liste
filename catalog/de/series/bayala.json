@@ -1,0 +1,26 @@
+{
+  "seriesId": "bayala",
+  "title": "bayala",
+  "language": "de",
+  "author": "bayala",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1480653412",
+      "title": "bayala - Das magische Elfenabenteuer - Das Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/f5/e1/2bf5e143-249a-1683-55bd-88d7f9836a28/4057664892423_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1480653412"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.799335+00:00"
+}

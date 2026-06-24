@@ -1,0 +1,26 @@
+{
+  "seriesId": "elliot-der-drache",
+  "title": "Elliot, der Drache",
+  "language": "de",
+  "author": "Elliot, der Drache",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686356853",
+      "title": "Elliot, der Drache (Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/8c/20/eb8c2026-6916-a4d8-4239-9ddbc1f48160/4066339484023.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686356853"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.785794+00:00"
+}

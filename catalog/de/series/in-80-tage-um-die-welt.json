@@ -1,0 +1,26 @@
+{
+  "seriesId": "in-80-tage-um-die-welt",
+  "title": "In 80 Tage um die Welt",
+  "language": "de",
+  "author": "In 80 Tage um die Welt",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1590546761",
+      "title": "In 80 Tagen um die Welt (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 80,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/c6/6c/5bc66c98-ce59-ea5b-f95f-79b8293f417d/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1590546761"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.791855+00:00"
+}

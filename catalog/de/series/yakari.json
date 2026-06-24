@@ -2,10 +2,12 @@
   "seriesId": "yakari",
   "title": "Yakari",
   "language": "de",
-  "author": "",
+  "author": "Yakari",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Abenteuer",
+    "Hörspiel",
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -14,7 +16,7 @@
       "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/4a/44/c44a44f8-6f69-8c92-82c2-6165cdebc32f/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Yakari', das typischerweise für Kinder gedacht ist und Abenteuer als Hauptgenre hat.",
+      "description": "",
       "totalDuration": 2648.95,
       "platforms": {
         "appleMusic": "1562324264"
@@ -126,7 +128,7 @@
       "episodeNumber": 2,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d4/74/80/d47480ec-a674-dc54-d883-165b203e3059/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie Yakari, das sich an ein junges Publikum richtet.",
+      "description": "",
       "totalDuration": 3012.535,
       "platforms": {
         "appleMusic": "1562425059"
@@ -252,7 +254,7 @@
       "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/46/72/ab/4672ab25-b27a-7b94-e538-110bff440f9a/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Yakari', das typischerweise in Hörspiel-Form präsentiert wird.",
+      "description": "",
       "totalDuration": 2969.533,
       "platforms": {
         "appleMusic": "1562969184"
@@ -378,7 +380,7 @@
       "episodeNumber": 4,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/0e/c0/430ec075-1b64-c241-8190-ba3a4d68a4ed/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Hörspiel zur TV-Serie 'Yakari', Teil der Serie 'Folge 4: Kleiner Dachs läuft davon'.",
+      "description": "",
       "totalDuration": 2999.838,
       "platforms": {
         "appleMusic": "1562998566"
@@ -504,7 +506,7 @@
       "episodeNumber": 5,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1e/a8/45/1ea845be-1a96-e2ae-ed95-4979e4afb0f6/cover.jpg/100x100bb.jpg",
-      "description": "Ein Original-Hörspiel zur TV-Serie mit 15 Tracks, das auf dem Album veröffentlicht wurde.",
+      "description": "",
       "totalDuration": 2890.678,
       "platforms": {
         "appleMusic": "1562992672"
@@ -623,7 +625,7 @@
       "episodeNumber": 6,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/97/26/bf972642-8259-519d-cde3-a98ccc071c95/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Yakari, das sich auf Abenteuer im indigenen Kulturkontext konzentriert.",
+      "description": "",
       "totalDuration": 2696.754,
       "platforms": {
         "appleMusic": "1562998232"
@@ -735,7 +737,7 @@
       "episodeNumber": 7,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/8c/d5/f08cd564-4bd8-7c7f-fca7-263ab03f529b/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 7: Schneeball in Gefahr', das das Original-Hörspiel zur TV-Serie ist.",
+      "description": "",
       "totalDuration": 2798.543,
       "platforms": {
         "appleMusic": "1562992626"
@@ -854,7 +856,7 @@
       "episodeNumber": 8,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/18/0e/27180ec4-07ed-7046-02c6-c1719c1d61b0/cover.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel zur TV-Serie erscheint, passt in die Kategorie des Hörspiels.",
+      "description": "",
       "totalDuration": 2914.128,
       "platforms": {
         "appleMusic": "1562992142"
@@ -973,7 +975,7 @@
       "episodeNumber": 9,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c7/29/b6/c729b612-92cc-ba4f-358a-c179399e2cc4/cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel zur TV-Serie Yakari, das auf Musikplattformen wie Apple Music verfügbar ist.",
+      "description": "",
       "totalDuration": 2771.804,
       "platforms": {
         "appleMusic": "1562998377"
@@ -1078,7 +1080,7 @@
       "episodeNumber": 10,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ba/3a/10/ba3a104a-68ca-a5f2-7dcc-557dda57fc1c/cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum basierend auf einer TV-Serie, das Spannung und Spannung bietet.",
+      "description": "",
       "totalDuration": 2691.902,
       "platforms": {
         "appleMusic": "1562326166"
@@ -1176,7 +1178,7 @@
       "episodeNumber": 11,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/24/23/77242377-44e9-b689-408e-289581d60c1d/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Yakari' und gehört zur Kategorie Hörspiele.",
+      "description": "",
       "totalDuration": 2651.633,
       "platforms": {
         "appleMusic": "1562666354"
@@ -1281,7 +1283,7 @@
       "episodeNumber": 12,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/c1/74/61c17411-06c1-08c1-d749-367daf3b0759/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Yakari', die auf deutschen Märkten populär war. Es passt somit perfekt zur Kategorie Hörspiel.",
+      "description": "",
       "totalDuration": 2641.84,
       "platforms": {
         "appleMusic": "1562326658"
@@ -1386,7 +1388,7 @@
       "episodeNumber": 13,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/ef/07/f1ef07df-6e8e-28e3-c6f8-1ae00b699794/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie Yakari, das speziell für Hörer konzipiert ist.",
+      "description": "",
       "totalDuration": 3131.957,
       "platforms": {
         "appleMusic": "1191533901"
@@ -1519,7 +1521,7 @@
       "episodeNumber": 14,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/32/90/0d329037-7b88-30bc-5215-72f0215d4ee5/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Yakari', das auf iTunes verfügbar ist.",
+      "description": "",
       "totalDuration": 2896.562,
       "platforms": {
         "appleMusic": "1562326730"
@@ -1631,7 +1633,7 @@
       "episodeNumber": 15,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/72/5b/b1/725bb1ec-c8c9-5bf0-767c-400babc47c64/cover.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 15: Die große Dürre' deutet eindeutig auf ein Hörspiel hin, das mit der TV-Serie verknüpft ist. Es ist ein Original-Hörspiel von Yakari, das 16 Tracks umfasst.",
+      "description": "",
       "totalDuration": 3341.323,
       "platforms": {
         "appleMusic": "1568729554"
@@ -1757,7 +1759,7 @@
       "episodeNumber": 16,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/43/5b/be/435bbe08-4010-881a-ea96-78fe26ab131a/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Original-Hörspiel zur TV-Serie 'Yakari', das sich an ein junges Publikum richtet.",
+      "description": "",
       "totalDuration": 3249.213,
       "platforms": {
         "appleMusic": "1568729771"
@@ -1883,7 +1885,7 @@
       "episodeNumber": 17,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/b7/e0/4bb7e0fc-7b69-9b80-25b2-2f4b512eb619/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie, das auf deutsche Hörspieltradition basiert.",
+      "description": "",
       "totalDuration": 3135.855,
       "platforms": {
         "appleMusic": "1562969611"
@@ -2002,8 +2004,8 @@
       "episodeNumber": 18,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/6f/ba/ae6fbaa4-d822-ea9e-5595-611f78eb9092/cover.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel für die TV-Serie 'Yakari' konzipiert ist, zeigt deutliche Merkmale eines deutschen Hörspiels.",
-      "totalDuration": 2878.327,
+      "description": "",
+      "totalDuration": 2878.3269999999998,
       "platforms": {
         "appleMusic": "1562969770"
       },
@@ -2107,7 +2109,7 @@
       "episodeNumber": 19,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cf/da/75/cfda755a-0485-895d-ba3a-2d39f9d69bf5/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Yakari' und gehört zum Genre Hörspiele.",
+      "description": "",
       "totalDuration": 2009.61,
       "platforms": {
         "appleMusic": "1191533859"
@@ -2205,7 +2207,7 @@
       "episodeNumber": 20,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e8/fd/11/e8fd11be-4b73-efaf-34fb-9c8d6827d0ff/cover.jpg/100x100bb.jpg",
-      "description": "Ein Original-Hörspiel zur TV-Serie, das auf 12 Tracks verteilt ist.",
+      "description": "",
       "totalDuration": 2097.054,
       "platforms": {
         "appleMusic": "1191533558"
@@ -2303,7 +2305,7 @@
       "episodeNumber": 21,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/5e/2e/615e2ed3-0e09-5efb-0197-e13056286302/cover.jpg/100x100bb.jpg",
-      "description": "Dies ist ein Hörspielalbum mit dem Titel 'Folge 21: Die sieben Feuer' von Yakari, das als Original-Hörspiel zur TV-Serie dient.",
+      "description": "",
       "totalDuration": 3227.824,
       "platforms": {
         "appleMusic": "1562666401"
@@ -2415,7 +2417,7 @@
       "episodeNumber": 22,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/bd/25/c2bd256d-96da-1966-9c00-29576bd7952a/cover.jpg/100x100bb.jpg",
-      "description": "Das Album enthält das Original-Hörspiel zur TV-Serie 'Yakari', das sich an ein junges Publikum richtet und Abenteuer beinhaltet.",
+      "description": "",
       "totalDuration": 2982.423,
       "platforms": {
         "appleMusic": "1562691611"
@@ -2527,7 +2529,7 @@
       "episodeNumber": 23,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/79/e7/3679e7ca-75f4-6bda-15da-513f461f1630/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Yakari' und enthält insgesamt 16 Tracks.",
+      "description": "",
       "totalDuration": 2886.207,
       "platforms": {
         "appleMusic": "1191521562"
@@ -2653,8 +2655,8 @@
       "episodeNumber": 24,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/73/7e/44737e3e-dfba-c14c-8edb-3a8730f182a4/cover.jpg/100x100bb.jpg",
-      "description": "Ein Album aus dem Genre Hörspiel mit dem Titel 'Folge 24: Der Wächter des Felsens' von Yakari.",
-      "totalDuration": 3043.075,
+      "description": "",
+      "totalDuration": 3043.0750000000003,
       "platforms": {
         "appleMusic": "1191534513"
       },
@@ -2779,7 +2781,7 @@
       "episodeNumber": 25,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/45/3e/83453ee6-6b7a-dde2-0c42-de6364695e64/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Yakari', was auf ein Hörspiel spezialisiert ist.",
+      "description": "",
       "totalDuration": 3728.885,
       "platforms": {
         "appleMusic": "1191513740"
@@ -2933,8 +2935,8 @@
       "episodeNumber": 26,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/fa/93/f4fa93da-6e47-7c84-f21b-c55b9d777d6c/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Yakari, das sich um ein Abenteuer in der Prärie dreht.",
-      "totalDuration": 4030.211,
+      "description": "",
+      "totalDuration": 4030.2110000000002,
       "platforms": {
         "appleMusic": "1191513865"
       },
@@ -3108,7 +3110,7 @@
       "episodeNumber": 27,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/a8/b2/04a8b2f5-1031-d99c-c25a-e1ce83167918/cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum zur TV-Serie, das das Abenteuer um das blaue Pferd erzählt.",
+      "description": "",
       "totalDuration": 4267.228,
       "platforms": {
         "appleMusic": "1191824251"
@@ -3262,7 +3264,7 @@
       "episodeNumber": 28,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8b/cb/21/8bcb2163-c475-29e4-3bdb-f79983c75783/cover.jpg/100x100bb.jpg",
-      "description": "Ein Album mit dem Titel 'Folge 28: Yakari und Großer Grauer' deutet eindeutig auf ein Hörspiel hin, das die TV-Serie 'Yakari' begleitet. Es ist kein Musikalbum oder Soundtrack.",
+      "description": "",
       "totalDuration": 3123.301,
       "platforms": {
         "appleMusic": "1236145671"
@@ -3388,7 +3390,7 @@
       "episodeNumber": 29,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/a3/7d/60a37de6-245d-a4d3-8fee-10235e3c7460/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Yakari', das sich an ein junges Publikum richtet.",
+      "description": "",
       "totalDuration": 3431.689,
       "platforms": {
         "appleMusic": "1252620174"
@@ -3577,7 +3579,7 @@
       "episodeNumber": 30,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4f/82/cb/4f82cb39-c001-6de6-a7dd-f6b00fa915b0/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie Yakari, das 25 Geschichten umfasst.",
+      "description": "",
       "totalDuration": 3528.677,
       "platforms": {
         "appleMusic": "1273268082"
@@ -3766,7 +3768,7 @@
       "episodeNumber": 31,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/fc/48/54fc4858-94c1-dd19-36f2-94340e92f4e1/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Weiße Pfote', das typisch für deutsche Hörspiele ist.",
+      "description": "",
       "totalDuration": 3650.908,
       "platforms": {
         "appleMusic": "1300214700"
@@ -3976,7 +3978,7 @@
       "episodeNumber": 32,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/a2/75/1ba275f9-0b41-be1b-d7bf-eff3a4148679/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Yakari'. Es enthält 40 Tracks im Genre Hörspiel.",
+      "description": "",
       "totalDuration": 4968.668,
       "platforms": {
         "appleMusic": "1337634384"
@@ -4270,7 +4272,7 @@
       "episodeNumber": 33,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/65/e0/75/65e075d2-005e-c2bf-894f-a7d556e097ca/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie Yakari und Silberfell, das typisch für deutsche Hörspiele ist.",
+      "description": "",
       "totalDuration": 3531.603,
       "platforms": {
         "appleMusic": "1382297805"
@@ -4466,7 +4468,7 @@
       "episodeNumber": 34,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/84/51/84845188-eca9-8d00-9552-989e8de457ff/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Hörspiel 'Fliegender Fuß', das als Original-Hörspiel zur TV-Serie erscheint. Es enthält 29 Tracks und gehört zum Genre Hörspiele.",
+      "description": "",
       "totalDuration": 3398.026,
       "platforms": {
         "appleMusic": "1435474655"
@@ -4683,7 +4685,7 @@
       "episodeNumber": 35,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9a/ec/64/9aec64cc-644a-1624-83b2-625bc5f6554c/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Das Wolfsjunge', das zu den Genres Abenteuer und Kinder & Jugend gehört.",
+      "description": "",
       "totalDuration": 4537.823,
       "platforms": {
         "appleMusic": "1439904053"
@@ -4963,7 +4965,7 @@
       "episodeNumber": 36,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/f8/f9/58f8f9f1-9821-1f2a-1e31-f18f57041f60/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Yakari', ein Hörspiel, das auf einer deutschen Serie basiert.",
+      "description": "",
       "totalDuration": 2959.722,
       "platforms": {
         "appleMusic": "1461459549"
@@ -5173,7 +5175,7 @@
       "episodeNumber": 37,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/12/ee/3712ee59-8540-420b-0da2-476b4f23b051/cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit 25 Tracks, das das Original-Hörspiel zur TV-Serie 'Zwei ganz verschiedene Freunde' von Yakari enthält.",
+      "description": "",
       "totalDuration": 3102.241,
       "platforms": {
         "appleMusic": "1469885658"
@@ -5362,7 +5364,7 @@
       "episodeNumber": 38,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/c0/fc/60c0fc98-3d0b-78ee-0321-5809d16236d1/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie, was auf einen Hörspiel-Inhalt hindeutet.",
+      "description": "",
       "totalDuration": 4234.279,
       "platforms": {
         "appleMusic": "1485030503"
@@ -5677,7 +5679,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/63/7c/ff637ce6-c808-bbc9-3869-dd8dd6af5665/4013575911134.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Yakari - Das Hörspiel zum Film', das auf Audiostreaming-Plattformen verfügbar ist.",
+      "description": "",
       "totalDuration": 3956.579,
       "platforms": {
         "appleMusic": "1530905341"
@@ -5896,5 +5898,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T18:32:41Z"
+  "updatedAt": "2026-06-24T20:01:31.319970+00:00"
 }

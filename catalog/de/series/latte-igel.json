@@ -1,0 +1,26 @@
+{
+  "seriesId": "latte-igel",
+  "title": "Latte Igel",
+  "language": "de",
+  "author": "Latte Igel",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1489224699",
+      "title": "Latte Igel und der magische Wasserstein (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/46/16/e14616a1-454b-bd80-a1d5-d5acbd0d829d/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1489224699"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.793335+00:00"
+}

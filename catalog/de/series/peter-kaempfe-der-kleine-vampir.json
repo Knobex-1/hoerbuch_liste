@@ -1,0 +1,26 @@
+{
+  "seriesId": "peter-kaempfe-der-kleine-vampir",
+  "title": "Peter Kaempfe & Der kleine Vampir",
+  "language": "de",
+  "author": "Peter Kaempfe & Der kleine Vampir",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1460371074",
+      "title": "Der kleine Vampir (Das Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e6/41/fc/e641fc95-e77b-a5cd-c3ca-8f1614cc6fa3/4057664535795_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1460371074"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.795362+00:00"
+}

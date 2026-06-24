@@ -1,0 +1,65 @@
+{
+  "seriesId": "alvin-und-die-chipmunks",
+  "title": "Alvin und die Chipmunks",
+  "language": "de",
+  "author": "Alvin und die Chipmunks",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1473154533",
+      "title": "Folge 1 (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/d8/f0/94d8f025-93c4-064a-ac73-45bc9d941bfe/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1473154533"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1473151739",
+      "title": "Folge 3 (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/c9/ba/30c9ba7c-c3f4-f96a-936a-85e5d0520492/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1473151739"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1473592785",
+      "title": "Folge 9 (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": 9,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/e4/29/c6e42957-2a0f-b8ff-4656-a9a108848fa4/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1473592785"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1760380756",
+      "title": "Folge 14 (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": 14,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ed/16/8ded1607-4dbb-a1d8-cbab-0a8d26225fcf/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1760380756"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.678430+00:00"
+}

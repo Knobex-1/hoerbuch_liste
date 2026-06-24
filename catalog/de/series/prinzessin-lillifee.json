@@ -1,0 +1,26 @@
+{
+  "seriesId": "prinzessin-lillifee",
+  "title": "Prinzessin Lillifee",
+  "language": "de",
+  "author": "Prinzessin Lillifee",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1358385651",
+      "title": "Das kleine Einhorn (Original Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/87/86/5987869d-453b-2573-afc6-0a9b2f168716/886446914046.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1358385651"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.796189+00:00"
+}

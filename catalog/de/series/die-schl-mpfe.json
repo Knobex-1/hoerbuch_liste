@@ -1,0 +1,65 @@
+{
+  "seriesId": "die-schl-mpfe",
+  "title": "Die Schlümpfe",
+  "language": "de",
+  "author": "Die Schlümpfe",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1515707905",
+      "title": "Die Schlümpfe 2 (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/50/56/92/505692b4-483d-26c3-6ba5-7e7c071e6705/886448482932.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515707905"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1610550228",
+      "title": "Das verlorene Dorf - Hörspiel zum Kinofilm 3",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/e4/6c/b9e46cec-5b5a-92f6-70a9-5380f52cbbc8/886448482949.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1610550228"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1516517072",
+      "title": "Das verlorene Dorf (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/61/4e/90/614e90f1-b41a-4d3f-88c3-a72b78f20e13/886448482949.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1516517072"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515694665",
+      "title": "Die Schlümpfe (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/39/6d/ab/396dab22-bc29-2dc2-7838-f452480df167/886448482925.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515694665"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.681070+00:00"
+}

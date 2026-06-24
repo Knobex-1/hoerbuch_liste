@@ -1,0 +1,26 @@
+{
+  "seriesId": "david-safier",
+  "title": "David Safier",
+  "language": "de",
+  "author": "David Safier",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1246701333",
+      "title": "Happy Family - Das Originalhörspiel zum Kinofilm (Hörspiel)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/25/7e/f4/257ef45c-b4b9-6cda-f790-780a7e0edf65/9783732441341_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1246701333"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.680068+00:00"
+}

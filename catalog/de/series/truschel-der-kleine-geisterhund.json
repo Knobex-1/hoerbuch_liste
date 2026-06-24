@@ -1,0 +1,26 @@
+{
+  "seriesId": "truschel-der-kleine-geisterhund",
+  "title": "Truschel der kleine Geisterhund",
+  "language": "de",
+  "author": "Truschel der kleine Geisterhund",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1623129809",
+      "title": "Folge 3: Alte Geister und neue Freunde",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/98/6f/33986f20-6fe8-0fdc-ba69-0caa6d653e92/4260507174048_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1623129809"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.798794+00:00"
+}

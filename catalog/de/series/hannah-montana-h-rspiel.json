@@ -1,0 +1,26 @@
+{
+  "seriesId": "hannah-montana-h-rspiel",
+  "title": "Hannah Montana Hörspiel",
+  "language": "de",
+  "author": "Hannah Montana Hörspiel",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686161108",
+      "title": "Hannah Montana - Der Film (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/ff/57/ffff5743-7aa0-5206-28a0-3ef087b14ba3/4066339483576.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686161108"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.790017+00:00"
+}

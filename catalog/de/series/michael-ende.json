@@ -1,0 +1,26 @@
+{
+  "seriesId": "michael-ende",
+  "title": "Michael Ende",
+  "language": "de",
+  "author": "Michael Ende",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1837244852",
+      "title": "Momo – Das Hörspiel zum Kinofilm (Das Hörspiel zum Film)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a1/b0/ada1b06d-fce1-745a-de93-63fe7c0cabeb/4069828712973_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1837244852"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.794384+00:00"
+}

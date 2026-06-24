@@ -1,0 +1,26 @@
+{
+  "seriesId": "minions",
+  "title": "Minions",
+  "language": "de",
+  "author": "Minions",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686022333",
+      "title": "Minions (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/50/78/d250787e-a8e5-f40e-a65f-06f1022ea44d/4057664206084.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686022333"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.794497+00:00"
+}

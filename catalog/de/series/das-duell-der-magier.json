@@ -1,0 +1,26 @@
+{
+  "seriesId": "das-duell-der-magier",
+  "title": "Das Duell der Magier",
+  "language": "de",
+  "author": "Das Duell der Magier",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686010449",
+      "title": "Das Duell der Magier (Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/84/f1/ed84f124-4c6e-f9b3-37f8-4898b54bcb1a/4066339483897.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686010449"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.679955+00:00"
+}

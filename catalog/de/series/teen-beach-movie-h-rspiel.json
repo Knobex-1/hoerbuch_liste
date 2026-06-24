@@ -1,0 +1,26 @@
+{
+  "seriesId": "teen-beach-movie-h-rspiel",
+  "title": "Teen Beach Movie Hörspiel",
+  "language": "de",
+  "author": "Teen Beach Movie Hörspiel",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686160091",
+      "title": "Teen Beach Movie (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/6c/ad/f06cadd3-4bde-1861-f322-f1363faad62f/4066339483484.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686160091"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.797540+00:00"
+}

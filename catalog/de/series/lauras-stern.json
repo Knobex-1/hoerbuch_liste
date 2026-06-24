@@ -1,0 +1,65 @@
+{
+  "seriesId": "lauras-stern",
+  "title": "Lauras Stern",
+  "language": "de",
+  "author": "Lauras Stern",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1294740041",
+      "title": "Lauras Stern (Das Original Hörspiel zum 1. Kinofilm)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/8e/d1/9d8ed10d-728b-063b-a31f-9c1dff36a8dd/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1294740041"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1539904377",
+      "title": "Das Original Hörspiel zum neuen Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/bc/d8/60bcd8f9-d105-66ee-f9c4-3b1cc274384d/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1539904377"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1555481231",
+      "title": "Lauras Stern und der geheinmisvolle Drache Nian (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/b4/13/59b41396-5071-0ebc-060a-467b03052149/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555481231"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1555481196",
+      "title": "Lauras Stern und die Traummonster (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/06/e4/7806e40b-8cd7-d327-b8d2-d47b8f63b748/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555481196"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.793469+00:00"
+}

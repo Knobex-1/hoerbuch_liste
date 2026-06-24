@@ -1,0 +1,26 @@
+{
+  "seriesId": "h-ter-des-lichts",
+  "title": "Hüter des Lichts",
+  "language": "de",
+  "author": "Hüter des Lichts",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1553493679",
+      "title": "Die Hüter des Lichts (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c3/21/c5/c321c515-f36d-3d04-dcdf-535e9adba568/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1553493679"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.791567+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "seriesId": "sing",
+  "title": "Sing",
+  "language": "de",
+  "author": "Sing",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1593424576",
+      "title": "Sing (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f8/13/62/f81362dd-d032-2423-08e7-f0c695be48b7/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1593424576"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1606407137",
+      "title": "Sing - Die Show deines Lebens (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/f6/34/42f63436-f844-ef01-63b2-b506083f43e0/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1606407137"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.797065+00:00"
+}

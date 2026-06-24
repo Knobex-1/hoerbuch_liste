@@ -1,0 +1,26 @@
+{
+  "seriesId": "peterchens-mondfahrt",
+  "title": "Peterchens Mondfahrt",
+  "language": "de",
+  "author": "Peterchens Mondfahrt",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1471613738",
+      "title": "Peterchens Mondfahrt (Das Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/fa/3e/7ffa3e4a-cbf6-c138-a1d9-bd82d4d4c1a2/886447621103.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1471613738"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.795663+00:00"
+}

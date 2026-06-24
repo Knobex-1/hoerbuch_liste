@@ -1,0 +1,52 @@
+{
+  "seriesId": "pets",
+  "title": "Pets",
+  "language": "de",
+  "author": "Pets",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686043027",
+      "title": "Pets 2 - Das Original-Hörspiel zum Kinofilm",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/9b/0a/fb9b0afd-e597-07ff-356a-88cfa93c4f66/4057664660947.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686043027"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685996277",
+      "title": "Muppets Most Wanted (Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/5a/65/615a6577-3256-3b90-2549-f7db3b3de8e7/4066339483217.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685996277"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1686013818",
+      "title": "Pets (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/0a/59/400a594e-f140-33b1-0518-2c7af45acf0d/4057664206077.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686013818"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.795791+00:00"
+}

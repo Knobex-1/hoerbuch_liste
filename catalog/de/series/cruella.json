@@ -1,0 +1,26 @@
+{
+  "seriesId": "cruella",
+  "title": "Cruella",
+  "language": "de",
+  "author": "Cruella",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686157849",
+      "title": "Cruella (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/4e/a3/3c4ea34b-8273-5ff1-f25e-8ea209c0d6d2/4066339450295.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686157849"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.679814+00:00"
+}

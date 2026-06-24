@@ -2,10 +2,13 @@
   "seriesId": "die-playmos",
   "title": "Die Playmos",
   "language": "de",
-  "author": "",
+  "author": "Die Playmos",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel",
+    "Kinder & Jugend",
+    "Abenteuer",
+    "Comedy"
   ],
   "albums": [
     {
@@ -14,7 +17,7 @@
       "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d7/e7/de/d7e7de86-79e0-20db-efe4-a71ff889cfc2/4260229665336_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album, das Teil der Playmobil Hörspiele Reihe ist. Es erzählt die Geschichte des Schatzes der Teufelsinsel.",
+      "description": "",
       "totalDuration": 3179.623,
       "platforms": {
         "appleMusic": "1670126483"
@@ -259,7 +262,7 @@
       "episodeNumber": 2,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fd/ae/f0/fdaef0ac-c349-9f2c-cd47-e714b4aa28ac/4260229664100_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel mit dem Titel 'Folge 2: Angriff der Drachenritter', das auf Hörspielgenres abzielt.",
+      "description": "",
       "totalDuration": 3234.0,
       "platforms": {
         "appleMusic": "1521455022"
@@ -504,7 +507,7 @@
       "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/17/4d/ff/174dfff9-ca03-c02f-e02b-47f43963a783/4260229662748_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel, das die Geschichte 'Folge 3: Die Dinos kommen' enthält und ist für Kinder geeignet.",
+      "description": "",
       "totalDuration": 3045.497,
       "platforms": {
         "appleMusic": "1471399524"
@@ -735,7 +738,7 @@
       "episodeNumber": 4,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/52/dc/f752dc18-4cd4-093f-1751-e2a991f58879/4260229662755_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspielalbum mit dem Titel 'Folge 4: Chaos in der Herrmannstrasse', das von 'Die Playmos' produziert wurde und als Hörspielformat veröffentlicht ist.",
+      "description": "",
       "totalDuration": 3077.455,
       "platforms": {
         "appleMusic": "1471400627"
@@ -961,257 +964,12 @@
       ]
     },
     {
-      "id": "1471401556",
-      "title": "Folge 5: Gefahr für Rom (Das Original Playmobil Hörspiel)",
-      "episodeNumber": 5,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b6/d5/b9/b6d5b972-a75e-f2d8-7e62-a0a4eadfa9b0/4260229662762_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel, das Spannung und Abenteuer für Kinder bietet.",
-      "totalDuration": 3216.347,
-      "platforms": {
-        "appleMusic": "1471401556"
-      },
-      "chapters": [
-        {
-          "id": "diep-folg-1556-t01",
-          "title": "Folge 5: Gefahr für Rom, Teil 1",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 92.757
-        },
-        {
-          "id": "diep-folg-1556-t02",
-          "title": "Folge 5: Gefahr für Rom, Teil 2",
-          "index": 1,
-          "startTime": 92.757,
-          "duration": 93.74
-        },
-        {
-          "id": "diep-folg-1556-t03",
-          "title": "Folge 5: Gefahr für Rom, Teil 3",
-          "index": 2,
-          "startTime": 186.497,
-          "duration": 94.658
-        },
-        {
-          "id": "diep-folg-1556-t04",
-          "title": "Folge 5: Gefahr für Rom, Teil 4",
-          "index": 3,
-          "startTime": 281.155,
-          "duration": 103.934
-        },
-        {
-          "id": "diep-folg-1556-t05",
-          "title": "Folge 5: Gefahr für Rom, Teil 5",
-          "index": 4,
-          "startTime": 385.089,
-          "duration": 92.593
-        },
-        {
-          "id": "diep-folg-1556-t06",
-          "title": "Folge 5: Gefahr für Rom, Teil 6",
-          "index": 5,
-          "startTime": 477.682,
-          "duration": 96.133
-        },
-        {
-          "id": "diep-folg-1556-t07",
-          "title": "Folge 5: Gefahr für Rom, Teil 7",
-          "index": 6,
-          "startTime": 573.815,
-          "duration": 94.248
-        },
-        {
-          "id": "diep-folg-1556-t08",
-          "title": "Folge 5: Gefahr für Rom, Teil 8",
-          "index": 7,
-          "startTime": 668.063,
-          "duration": 92.609
-        },
-        {
-          "id": "diep-folg-1556-t09",
-          "title": "Folge 5: Gefahr für Rom, Teil 9",
-          "index": 8,
-          "startTime": 760.672,
-          "duration": 92.331
-        },
-        {
-          "id": "diep-folg-1556-t10",
-          "title": "Folge 5: Gefahr für Rom, Teil 10",
-          "index": 9,
-          "startTime": 853.003,
-          "duration": 93.232
-        },
-        {
-          "id": "diep-folg-1556-t11",
-          "title": "Folge 5: Gefahr für Rom, Teil 11",
-          "index": 10,
-          "startTime": 946.235,
-          "duration": 93.33
-        },
-        {
-          "id": "diep-folg-1556-t12",
-          "title": "Folge 5: Gefahr für Rom, Teil 12",
-          "index": 11,
-          "startTime": 1039.565,
-          "duration": 93.593
-        },
-        {
-          "id": "diep-folg-1556-t13",
-          "title": "Folge 5: Gefahr für Rom, Teil 13",
-          "index": 12,
-          "startTime": 1133.158,
-          "duration": 97.837
-        },
-        {
-          "id": "diep-folg-1556-t14",
-          "title": "Folge 5: Gefahr für Rom, Teil 14",
-          "index": 13,
-          "startTime": 1230.995,
-          "duration": 92.822
-        },
-        {
-          "id": "diep-folg-1556-t15",
-          "title": "Folge 5: Gefahr für Rom, Teil 15",
-          "index": 14,
-          "startTime": 1323.817,
-          "duration": 101.852
-        },
-        {
-          "id": "diep-folg-1556-t16",
-          "title": "Folge 5: Gefahr für Rom, Teil 16",
-          "index": 15,
-          "startTime": 1425.669,
-          "duration": 92.183
-        },
-        {
-          "id": "diep-folg-1556-t17",
-          "title": "Folge 5: Gefahr für Rom, Teil 17",
-          "index": 16,
-          "startTime": 1517.852,
-          "duration": 94.347
-        },
-        {
-          "id": "diep-folg-1556-t18",
-          "title": "Folge 5: Gefahr für Rom, Teil 18",
-          "index": 17,
-          "startTime": 1612.199,
-          "duration": 91.675
-        },
-        {
-          "id": "diep-folg-1556-t19",
-          "title": "Folge 5: Gefahr für Rom, Teil 19",
-          "index": 18,
-          "startTime": 1703.874,
-          "duration": 94.609
-        },
-        {
-          "id": "diep-folg-1556-t20",
-          "title": "Folge 5: Gefahr für Rom, Teil 20",
-          "index": 19,
-          "startTime": 1798.483,
-          "duration": 93.642
-        },
-        {
-          "id": "diep-folg-1556-t21",
-          "title": "Folge 5: Gefahr für Rom, Teil 21",
-          "index": 20,
-          "startTime": 1892.125,
-          "duration": 92.265
-        },
-        {
-          "id": "diep-folg-1556-t22",
-          "title": "Folge 5: Gefahr für Rom, Teil 22",
-          "index": 21,
-          "startTime": 1984.39,
-          "duration": 94.33
-        },
-        {
-          "id": "diep-folg-1556-t23",
-          "title": "Folge 5: Gefahr für Rom, Teil 23",
-          "index": 22,
-          "startTime": 2078.72,
-          "duration": 95.461
-        },
-        {
-          "id": "diep-folg-1556-t24",
-          "title": "Folge 5: Gefahr für Rom, Teil 24",
-          "index": 23,
-          "startTime": 2174.181,
-          "duration": 92.118
-        },
-        {
-          "id": "diep-folg-1556-t25",
-          "title": "Folge 5: Gefahr für Rom, Teil 25",
-          "index": 24,
-          "startTime": 2266.299,
-          "duration": 92.314
-        },
-        {
-          "id": "diep-folg-1556-t26",
-          "title": "Folge 5: Gefahr für Rom, Teil 26",
-          "index": 25,
-          "startTime": 2358.613,
-          "duration": 91.757
-        },
-        {
-          "id": "diep-folg-1556-t27",
-          "title": "Folge 5: Gefahr für Rom, Teil 27",
-          "index": 26,
-          "startTime": 2450.37,
-          "duration": 95.1
-        },
-        {
-          "id": "diep-folg-1556-t28",
-          "title": "Folge 5: Gefahr für Rom, Teil 28",
-          "index": 27,
-          "startTime": 2545.47,
-          "duration": 95.313
-        },
-        {
-          "id": "diep-folg-1556-t29",
-          "title": "Folge 5: Gefahr für Rom, Teil 29",
-          "index": 28,
-          "startTime": 2640.783,
-          "duration": 93.298
-        },
-        {
-          "id": "diep-folg-1556-t30",
-          "title": "Folge 5: Gefahr für Rom, Teil 30",
-          "index": 29,
-          "startTime": 2734.081,
-          "duration": 94.986
-        },
-        {
-          "id": "diep-folg-1556-t31",
-          "title": "Folge 5: Gefahr für Rom, Teil 31",
-          "index": 30,
-          "startTime": 2829.067,
-          "duration": 96.198
-        },
-        {
-          "id": "diep-folg-1556-t32",
-          "title": "Folge 5: Gefahr für Rom, Teil 32",
-          "index": 31,
-          "startTime": 2925.265,
-          "duration": 105.507
-        },
-        {
-          "id": "diep-folg-1556-t33",
-          "title": "Folge 5: Gefahr für Rom, Teil 33",
-          "index": 32,
-          "startTime": 3030.772,
-          "duration": 185.575
-        }
-      ]
-    },
-    {
       "id": "1471402801",
       "title": "Die große Römer- und Ägypterbox, Folge 5, 18, 52: Gefahr für Rom / Der Schatz des Archimedes / Der Schatz der Pyramide (Das Original Playmobil Hörspiel)",
       "episodeNumber": 5,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/73/b6/dc/73b6dc31-a231-b2ec-bb21-ff0101a1f0bf/4260229663387_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album von Playmobil, das Abenteuer und historische Themen wie Römer und Ägypter beinhaltet.",
+      "description": "",
       "totalDuration": 4825.215,
       "platforms": {
         "appleMusic": "1471402801"
@@ -1570,12 +1328,257 @@
       ]
     },
     {
+      "id": "1471401556",
+      "title": "Folge 5: Gefahr für Rom (Das Original Playmobil Hörspiel)",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b6/d5/b9/b6d5b972-a75e-f2d8-7e62-a0a4eadfa9b0/4260229662762_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 3216.3469999999998,
+      "platforms": {
+        "appleMusic": "1471401556"
+      },
+      "chapters": [
+        {
+          "id": "diep-folg-1556-t01",
+          "title": "Folge 5: Gefahr für Rom, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 92.757
+        },
+        {
+          "id": "diep-folg-1556-t02",
+          "title": "Folge 5: Gefahr für Rom, Teil 2",
+          "index": 1,
+          "startTime": 92.757,
+          "duration": 93.74
+        },
+        {
+          "id": "diep-folg-1556-t03",
+          "title": "Folge 5: Gefahr für Rom, Teil 3",
+          "index": 2,
+          "startTime": 186.497,
+          "duration": 94.658
+        },
+        {
+          "id": "diep-folg-1556-t04",
+          "title": "Folge 5: Gefahr für Rom, Teil 4",
+          "index": 3,
+          "startTime": 281.155,
+          "duration": 103.934
+        },
+        {
+          "id": "diep-folg-1556-t05",
+          "title": "Folge 5: Gefahr für Rom, Teil 5",
+          "index": 4,
+          "startTime": 385.089,
+          "duration": 92.593
+        },
+        {
+          "id": "diep-folg-1556-t06",
+          "title": "Folge 5: Gefahr für Rom, Teil 6",
+          "index": 5,
+          "startTime": 477.682,
+          "duration": 96.133
+        },
+        {
+          "id": "diep-folg-1556-t07",
+          "title": "Folge 5: Gefahr für Rom, Teil 7",
+          "index": 6,
+          "startTime": 573.815,
+          "duration": 94.248
+        },
+        {
+          "id": "diep-folg-1556-t08",
+          "title": "Folge 5: Gefahr für Rom, Teil 8",
+          "index": 7,
+          "startTime": 668.063,
+          "duration": 92.609
+        },
+        {
+          "id": "diep-folg-1556-t09",
+          "title": "Folge 5: Gefahr für Rom, Teil 9",
+          "index": 8,
+          "startTime": 760.672,
+          "duration": 92.331
+        },
+        {
+          "id": "diep-folg-1556-t10",
+          "title": "Folge 5: Gefahr für Rom, Teil 10",
+          "index": 9,
+          "startTime": 853.003,
+          "duration": 93.232
+        },
+        {
+          "id": "diep-folg-1556-t11",
+          "title": "Folge 5: Gefahr für Rom, Teil 11",
+          "index": 10,
+          "startTime": 946.235,
+          "duration": 93.33
+        },
+        {
+          "id": "diep-folg-1556-t12",
+          "title": "Folge 5: Gefahr für Rom, Teil 12",
+          "index": 11,
+          "startTime": 1039.565,
+          "duration": 93.593
+        },
+        {
+          "id": "diep-folg-1556-t13",
+          "title": "Folge 5: Gefahr für Rom, Teil 13",
+          "index": 12,
+          "startTime": 1133.158,
+          "duration": 97.837
+        },
+        {
+          "id": "diep-folg-1556-t14",
+          "title": "Folge 5: Gefahr für Rom, Teil 14",
+          "index": 13,
+          "startTime": 1230.995,
+          "duration": 92.822
+        },
+        {
+          "id": "diep-folg-1556-t15",
+          "title": "Folge 5: Gefahr für Rom, Teil 15",
+          "index": 14,
+          "startTime": 1323.817,
+          "duration": 101.852
+        },
+        {
+          "id": "diep-folg-1556-t16",
+          "title": "Folge 5: Gefahr für Rom, Teil 16",
+          "index": 15,
+          "startTime": 1425.669,
+          "duration": 92.183
+        },
+        {
+          "id": "diep-folg-1556-t17",
+          "title": "Folge 5: Gefahr für Rom, Teil 17",
+          "index": 16,
+          "startTime": 1517.852,
+          "duration": 94.347
+        },
+        {
+          "id": "diep-folg-1556-t18",
+          "title": "Folge 5: Gefahr für Rom, Teil 18",
+          "index": 17,
+          "startTime": 1612.199,
+          "duration": 91.675
+        },
+        {
+          "id": "diep-folg-1556-t19",
+          "title": "Folge 5: Gefahr für Rom, Teil 19",
+          "index": 18,
+          "startTime": 1703.874,
+          "duration": 94.609
+        },
+        {
+          "id": "diep-folg-1556-t20",
+          "title": "Folge 5: Gefahr für Rom, Teil 20",
+          "index": 19,
+          "startTime": 1798.483,
+          "duration": 93.642
+        },
+        {
+          "id": "diep-folg-1556-t21",
+          "title": "Folge 5: Gefahr für Rom, Teil 21",
+          "index": 20,
+          "startTime": 1892.125,
+          "duration": 92.265
+        },
+        {
+          "id": "diep-folg-1556-t22",
+          "title": "Folge 5: Gefahr für Rom, Teil 22",
+          "index": 21,
+          "startTime": 1984.39,
+          "duration": 94.33
+        },
+        {
+          "id": "diep-folg-1556-t23",
+          "title": "Folge 5: Gefahr für Rom, Teil 23",
+          "index": 22,
+          "startTime": 2078.72,
+          "duration": 95.461
+        },
+        {
+          "id": "diep-folg-1556-t24",
+          "title": "Folge 5: Gefahr für Rom, Teil 24",
+          "index": 23,
+          "startTime": 2174.181,
+          "duration": 92.118
+        },
+        {
+          "id": "diep-folg-1556-t25",
+          "title": "Folge 5: Gefahr für Rom, Teil 25",
+          "index": 24,
+          "startTime": 2266.299,
+          "duration": 92.314
+        },
+        {
+          "id": "diep-folg-1556-t26",
+          "title": "Folge 5: Gefahr für Rom, Teil 26",
+          "index": 25,
+          "startTime": 2358.613,
+          "duration": 91.757
+        },
+        {
+          "id": "diep-folg-1556-t27",
+          "title": "Folge 5: Gefahr für Rom, Teil 27",
+          "index": 26,
+          "startTime": 2450.37,
+          "duration": 95.1
+        },
+        {
+          "id": "diep-folg-1556-t28",
+          "title": "Folge 5: Gefahr für Rom, Teil 28",
+          "index": 27,
+          "startTime": 2545.47,
+          "duration": 95.313
+        },
+        {
+          "id": "diep-folg-1556-t29",
+          "title": "Folge 5: Gefahr für Rom, Teil 29",
+          "index": 28,
+          "startTime": 2640.783,
+          "duration": 93.298
+        },
+        {
+          "id": "diep-folg-1556-t30",
+          "title": "Folge 5: Gefahr für Rom, Teil 30",
+          "index": 29,
+          "startTime": 2734.081,
+          "duration": 94.986
+        },
+        {
+          "id": "diep-folg-1556-t31",
+          "title": "Folge 5: Gefahr für Rom, Teil 31",
+          "index": 30,
+          "startTime": 2829.067,
+          "duration": 96.198
+        },
+        {
+          "id": "diep-folg-1556-t32",
+          "title": "Folge 5: Gefahr für Rom, Teil 32",
+          "index": 31,
+          "startTime": 2925.265,
+          "duration": 105.507
+        },
+        {
+          "id": "diep-folg-1556-t33",
+          "title": "Folge 5: Gefahr für Rom, Teil 33",
+          "index": 32,
+          "startTime": 3030.772,
+          "duration": 185.575
+        }
+      ]
+    },
+    {
       "id": "1471402166",
       "title": "Folge 6: Abenteuer auf dem Eichenhof (Das Original Playmobil Hörspiel)",
       "episodeNumber": 6,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fc/d0/02/fcd00239-60a8-4429-2119-bdee1b82b3dc/4260229662779_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel über Abenteuer auf dem Eichenhof.",
+      "description": "",
       "totalDuration": 3357.013,
       "platforms": {
         "appleMusic": "1471402166"
@@ -1827,7 +1830,7 @@
       "episodeNumber": 7,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ff/2e/b5/ff2eb5dc-f32b-9f1e-e99b-30148a1e030c/4260229662786_3000.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 7: Das große Spiel' ist ein Original Playmobil Hörspiel, das von 'Die Playmos' interpretiert wird und 32 Tracks umfasst.",
+      "description": "",
       "totalDuration": 3229.997,
       "platforms": {
         "appleMusic": "1471402499"
@@ -2072,7 +2075,7 @@
       "episodeNumber": 8,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7c/e2/8a/7ce28aa7-55d8-8fd1-1005-d73f561361a8/4260229662793_3000.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 8: Das Turnier auf der Königsritterburg (Das Original Playmobil Hörspiel)' ist ein Hörspiel, das Teil einer Playmobil Hörspielreihe ist. Es richtet sich an Kinder und Jugendliche und beinhaltet spannende Abenteuer in einer fantasievollen Welt.",
+      "description": "",
       "totalDuration": 3542.001,
       "platforms": {
         "appleMusic": "1471402428"
@@ -2338,7 +2341,7 @@
       "episodeNumber": 9,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ee/93/a2/ee93a21a-a737-296f-79e8-3477e7034443/4260229662809_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 9: Manege frei für die Playmos' von den Playmos, das auf 35 Tracks verteilt ist und dem Genre Hörspiel zugeordnet ist.",
+      "description": "",
       "totalDuration": 3438.0,
       "platforms": {
         "appleMusic": "1471403849"
@@ -2597,7 +2600,7 @@
       "episodeNumber": 10,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/48/04/a8/4804a8c9-dfa7-803a-9bbd-983e0821eabb/4260229662816_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel der Playmobil Reihe, das auf das Original von Playmobil basiert und spannende Abenteuer und Geheimnisse um die Sphinx enthält.",
+      "description": "",
       "totalDuration": 3464.004,
       "platforms": {
         "appleMusic": "1471404878"
@@ -2863,7 +2866,7 @@
       "episodeNumber": 11,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/53/e3/f753e395-aa66-c5d0-814f-c2cb61c6dc71/4260229662823_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil des Playmobil Hörspiels 'Folge 11: Alarm im Hafen', das als Hörspiel produziert wurde.",
+      "description": "",
       "totalDuration": 3178.998,
       "platforms": {
         "appleMusic": "1471411684"
@@ -3101,7 +3104,7 @@
       "episodeNumber": 12,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/17/9a/dd/179add68-40c5-e05f-ad75-1499fe8522aa/4260229662830_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspielalbum für Kinder, das im Fantasy-Genre angesiedelt ist.",
+      "description": "",
       "totalDuration": 3447.993,
       "platforms": {
         "appleMusic": "1471406779"
@@ -3360,7 +3363,7 @@
       "episodeNumber": 13,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0f/99/a7/0f99a71f-adcc-41a6-735b-9bb347f67d26/4260229662847_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel aus dem Playmobil Universum, das auf spannende Abenteuer im Drachenland eingeht.",
+      "description": "",
       "totalDuration": 3548.995,
       "platforms": {
         "appleMusic": "1471407896"
@@ -3612,7 +3615,7 @@
       "episodeNumber": 14,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4c/a6/e1/4ca6e13f-6daf-1c38-a6de-84cf1944e0f1/4260229662854_3000.jpg/100x100bb.jpg",
-      "description": "Das Album umfasst 33 Tracks des Playmobil Hörspiels 'Folge 14: Gefahr für den König der Tiere' von Die Playmos.",
+      "description": "",
       "totalDuration": 3226.001,
       "platforms": {
         "appleMusic": "1471408010"
@@ -3857,7 +3860,7 @@
       "episodeNumber": 15,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/85/80/3f/85803f8f-c511-919d-346f-f98ae1b940bd/4260229662861_3000.jpg/100x100bb.jpg",
-      "description": "Ein deutsches Hörspielalbum mit dem Titel 'Folge 15: Der Schatz im Dschungeltempel' von Playmobil. Es enthält insgesamt 37 Tracks im Genre Hörspiel.",
+      "description": "",
       "totalDuration": 3564.969,
       "platforms": {
         "appleMusic": "1471408524"
@@ -4130,7 +4133,7 @@
       "episodeNumber": 16,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4e/c1/3b/4ec13b5b-579a-dc1a-f281-1dff85f26a9e/4260229662878_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das Teil der Playmobil Hörspielreihe ist und sich um Piraten abspielt.",
+      "description": "",
       "totalDuration": 3476.997,
       "platforms": {
         "appleMusic": "1471409697"
@@ -4396,7 +4399,7 @@
       "episodeNumber": 17,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/a3/80/21a380f9-a087-590b-98f4-11ccc0f74733/4260229662885_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Hörspiel 'Folge 17: Rettet den Dinopark! (Das Original Playmobil Hörspiel)' von Die Playmos, das für Kinder geeignet ist.",
+      "description": "",
       "totalDuration": 3449.003,
       "platforms": {
         "appleMusic": "1471410426"
@@ -4655,7 +4658,7 @@
       "episodeNumber": 18,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/49/8b/aa/498baacc-d3e6-a468-a423-6b33570c9a8d/4260229662892_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original Playmobil Hörspiel, das sich auf Abenteuer mit Archimedes konzentriert, typisch für deutsche Kinderinhalte.",
+      "description": "",
       "totalDuration": 3588.998,
       "platforms": {
         "appleMusic": "1471368631"
@@ -4935,7 +4938,7 @@
       "episodeNumber": 19,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3c/6f/48/3c6f487c-330a-caf7-bc39-d8136f08bec8/4260229662908_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 19: Jagd auf Dr. Devil' von Die Playmos, das in der Kategorie Hörspiele klassifiziert ist.",
+      "description": "",
       "totalDuration": 3403.0,
       "platforms": {
         "appleMusic": "1471410315"
@@ -5194,7 +5197,7 @@
       "episodeNumber": 20,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/60/7e/b1/607eb191-2397-e134-90b2-f670ac12c498/4260229662915_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das Teil einer Playmobil-Reihe ist und sich auf eine fiktive Schlacht von Löwenrittern konzentriert. Es ist ein unterhaltsames Hörerlebnis für Kinder und Fans von Fantasy-Geschichten.",
+      "description": "",
       "totalDuration": 3756.0,
       "platforms": {
         "appleMusic": "1462641122"
@@ -5474,7 +5477,7 @@
       "episodeNumber": 21,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/28/cd/98/28cd9804-5b4e-6448-f510-b971609abc6c/4260229662922_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel-Album aus dem Playmobil Universum, das eine Geschichte um Häuptling Schlanker Bär erzählt.",
+      "description": "",
       "totalDuration": 3543.998,
       "platforms": {
         "appleMusic": "1462641565"
@@ -5747,7 +5750,7 @@
       "episodeNumber": 22,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/74/3b/74/743b7448-ad59-2982-6d42-ab1c1d8d2f8f/4260229662939_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das als Teil der Playmobil Hörspielreihe erscheint und sich auf gruselige Geisterpiraten konzentriert.",
+      "description": "",
       "totalDuration": 3596.001,
       "platforms": {
         "appleMusic": "1462641965"
@@ -6015,25 +6018,12 @@
       ]
     },
     {
-      "id": "1462642499",
-      "title": "Folge 23: Die Playmos in geheimer Mission (Das Original Playmobil Hörspiel)",
-      "episodeNumber": 23,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/08/62/00/08620037-7125-8d7d-aaf4-313cbd1d8ce1/4260229662946_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album, das 'Hörspiele' als Genre hat und 'Playmobil' erwähnt, ist typisch für deutsche Hörspiele oder Hörbücher, die auf Apple Music verfügbar sind.",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1462642499"
-      },
-      "chapters": []
-    },
-    {
       "id": "1462642720",
       "title": "Folge 24: Die Ritter sind los! (Das Original Playmobil Hörspiel)",
       "episodeNumber": 24,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/35/76/67/3576672c-c079-844b-20c0-5a7a50225dbf/4260229662953_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspielalbum mit 36 Folgen, das Kinder unterhaltsam unterhält.",
+      "description": "",
       "totalDuration": 3514.0,
       "platforms": {
         "appleMusic": "1462642720"
@@ -6299,7 +6289,7 @@
       "episodeNumber": 25,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/04/27/6b04275b-79d4-958d-6e01-df6db3c39190/4260229662960_3000.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 25: Gefahr im Weltall (Das Original Playmobil Hörspiel)' ist ein Hörspiel, das im Stil von Science-Fiction angesiedelt ist. Es handelt sich um ein interaktives Erlebnis für Kinder, das auf dem Playmobil Universum basiert.",
+      "description": "",
       "totalDuration": 3419.001,
       "platforms": {
         "appleMusic": "1462642636"
@@ -6558,7 +6548,7 @@
       "episodeNumber": 26,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/47/28/6f/47286f95-8491-6b37-04cd-d210a6d340c0/4260229662977_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel aus der Playmobil Reihe, das Wettrennen um die Schatzinsel thematisiert. Es richtet sich an ein junges Publikum und enthält spannende Abenteuer.",
+      "description": "",
       "totalDuration": 4028.001,
       "platforms": {
         "appleMusic": "1462642955"
@@ -6852,7 +6842,7 @@
       "episodeNumber": 27,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1e/7a/51/1e7a51c3-001a-93b0-6cd1-b77a3fc41989/4260229662984_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel, das auf einer Reise in die Steinzeit folgt. Es richtet sich an ein junges Publikum und kombiniert Unterhaltung mit Bildung.",
+      "description": "",
       "totalDuration": 3619.0,
       "platforms": {
         "appleMusic": "1462643021"
@@ -7125,7 +7115,7 @@
       "episodeNumber": 28,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ed/95/4a/ed954a6c-483d-dbbc-30a0-e79a2a02c379/4260229662991_3000.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 28: Den Bankräubern auf der Spur' ist ein Hörspiel der Playmos und gehört zur Kategorie 'Hörspiele'.",
+      "description": "",
       "totalDuration": 3350.997,
       "platforms": {
         "appleMusic": "1462643195"
@@ -7377,7 +7367,7 @@
       "episodeNumber": 29,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/76/1a/c0761a63-4b3f-ba1f-7df0-599ad6ee6298/4260229663547_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel mit 32 Folgen, das die Geschichte um Planet Zentauri erzählt.",
+      "description": "",
       "totalDuration": 3200.0,
       "platforms": {
         "appleMusic": "1462643145"
@@ -7615,7 +7605,7 @@
       "episodeNumber": 30,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/44/68/99/446899cd-fe36-cfb6-82a8-d994800db289/4260229663004_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel aus der Playmobil Reihe mit Dinosauriern, ideal für Kinder.",
+      "description": "",
       "totalDuration": 3238.004,
       "platforms": {
         "appleMusic": "1462643683"
@@ -7853,7 +7843,7 @@
       "episodeNumber": 31,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b2/ad/73/b2ad7383-cf52-6b48-229b-8f04a97de36f/4260229663011_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein deutsches Hörspiel, das Teil des Playmobil Hörspiel-Universums ist und Spannung und Abenteuer bietet.",
+      "description": "",
       "totalDuration": 3255.002,
       "platforms": {
         "appleMusic": "1462643906"
@@ -8098,7 +8088,7 @@
       "episodeNumber": 32,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ec/32/39/ec3239b1-aeb0-f028-ec45-a09244b07354/4260229663028_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das Teil der Playmobil Hörspiel-Reihe ist und sich um einen Überfall auf einen Goldtransport handelt.",
+      "description": "",
       "totalDuration": 3492.0,
       "platforms": {
         "appleMusic": "1462644035"
@@ -8364,7 +8354,7 @@
       "episodeNumber": 33,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d0/c3/e2/d0c3e226-25f2-dea8-8c5c-fb31603f8841/4260229663035_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über Piraten auf hoher See, veröffentlicht von Playmobil.",
+      "description": "",
       "totalDuration": 3893.002,
       "platforms": {
         "appleMusic": "1462644510"
@@ -8658,7 +8648,7 @@
       "episodeNumber": 34,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/a1/34/3fa13453-8482-a3ed-9ff8-c5307e49988b/4260229663042_3000.jpg/100x100bb.jpg",
-      "description": "Das Album enthält die Episode 'Folge 34: Der Ball im Prinzessinnen-Schloss', ein Hörspiel von Playmobil.",
+      "description": "",
       "totalDuration": 3626.0,
       "platforms": {
         "appleMusic": "1462644552"
@@ -8931,7 +8921,7 @@
       "episodeNumber": 35,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/97/25/e9/9725e991-a747-d910-8870-cbca2482e5f1/4260229663059_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel aus der Playmobil Reihe, das spannende Abenteuer im Wilden Westen bietet.",
+      "description": "",
       "totalDuration": 3720.0,
       "platforms": {
         "appleMusic": "1462644723"
@@ -9204,7 +9194,7 @@
       "episodeNumber": 36,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f9/53/00/f95300d4-0e48-3c02-b780-bb4034735ae1/4260229663066_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über Playmobil-Abenteuer im Bann eines Kometen.",
+      "description": "",
       "totalDuration": 3606.001,
       "platforms": {
         "appleMusic": "1462644955"
@@ -9470,7 +9460,7 @@
       "episodeNumber": 37,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/57/4e/54574e3d-5820-5a66-1e7c-d3ada7cc34b2/4260229663073_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Folge 37: Die Entführung der Einh\"orner', veröffentlicht von 'Die Playmos' und gehört zur Kategorie 'H\"orspiele' auf Apple Music.",
+      "description": "",
       "totalDuration": 3583.0,
       "platforms": {
         "appleMusic": "1462645233"
@@ -9736,7 +9726,7 @@
       "episodeNumber": 38,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/34/11/64/341164a7-966f-2be9-5637-bf3f5f7a2bae/4260229663080_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel über das Geheimnis des Drachenfeuers für Kinder.",
+      "description": "",
       "totalDuration": 3710.999,
       "platforms": {
         "appleMusic": "1462645237"
@@ -10009,7 +9999,7 @@
       "episodeNumber": 39,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9e/2c/6c/9e2c6cc0-de41-1723-41d6-65bbbfdec061/4260229663097_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel von Playmobil, das auf Verbrechen im Zusammenhang mit der Küstenwache fokussiert ist. Es richtet sich an ein junges Publikum.",
+      "description": "",
       "totalDuration": 3270.0,
       "platforms": {
         "appleMusic": "1462645094"
@@ -10254,7 +10244,7 @@
       "episodeNumber": 40,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/b2/e3/08b2e315-fe84-2f7a-0ec5-cdb8f3efe719/4260229663103_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel, das auf der Jagd nach einem goldenen Schlüssel ist.",
+      "description": "",
       "totalDuration": 3805.0,
       "platforms": {
         "appleMusic": "1462645528"
@@ -10541,7 +10531,7 @@
       "episodeNumber": 41,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9f/1c/1c/9f1c1ca3-37a0-a2cd-3b39-80b5ffe5cef8/4260229663110_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil-Hörspiel, das speziell für Kinder produziert wurde.",
+      "description": "",
       "totalDuration": 3381.001,
       "platforms": {
         "appleMusic": "1471411040"
@@ -10786,7 +10776,7 @@
       "episodeNumber": 42,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/89/25/34/89253468-c95a-4d2e-8128-e45d5597170c/4260229663127_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über einen Großbrand in einer Feuerwache.",
+      "description": "",
       "totalDuration": 3495.001,
       "platforms": {
         "appleMusic": "1471411287"
@@ -11052,7 +11042,7 @@
       "episodeNumber": 43,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/08/ec/9c/08ec9c63-bdb2-df13-2815-e297511867a7/4260229663134_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original Playmobil Hörspiel, das die Geschichte der Folge 43 'Wirbel um den Weihnachtsmann' umfasst. Es gehört zur Kategorie Hörspiele und ist auf Apple Music verfügbar.",
+      "description": "",
       "totalDuration": 3482.001,
       "platforms": {
         "appleMusic": "1471412151"
@@ -11318,7 +11308,7 @@
       "episodeNumber": 44,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/27/f0/c9/27f0c98e-7227-60fb-d628-3a9acce6c033/4260229663141_3000.jpg/100x100bb.jpg",
-      "description": "Ein deutsches Hörspiel, das Teil der Playmobil Hörspielreihe ist und sich um ein Abenteuer im Freizeitpark dreht.",
+      "description": "",
       "totalDuration": 3292.0,
       "platforms": {
         "appleMusic": "1471413092"
@@ -11570,7 +11560,7 @@
       "episodeNumber": 45,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7c/23/47/7c23470e-1fc7-223a-72b2-86075920e859/4260229663158_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das Teil der Playmobil Hörspiel-Reihe ist und sich auf Ritter und Band im Stil von Playmobil konzentriert.",
+      "description": "",
       "totalDuration": 3482.003,
       "platforms": {
         "appleMusic": "1471413980"
@@ -11836,7 +11826,7 @@
       "episodeNumber": 46,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f5/9b/97/f59b9735-f608-f3aa-34e8-82810d1dce4c/4260229663165_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel der Playmos, das spannende Geschichten für Kinder bietet.",
+      "description": "",
       "totalDuration": 3446.0,
       "platforms": {
         "appleMusic": "1471413731"
@@ -12095,7 +12085,7 @@
       "episodeNumber": 47,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/03/cb/bf/03cbbf00-91d8-b1a5-b4fd-b894fe7ca5ee/4260229663172_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel von Playmobil, das eine spannende Flucht vor Piraten erzählt.",
+      "description": "",
       "totalDuration": 3662.999,
       "platforms": {
         "appleMusic": "1471398240"
@@ -12368,7 +12358,7 @@
       "episodeNumber": 48,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/65/d7/6b/65d76b48-2e22-6610-428c-bd3ccbac8f4a/4260229663189_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel, das Raketenstarts ins All thematisiert.",
+      "description": "",
       "totalDuration": 3192.0,
       "platforms": {
         "appleMusic": "1471399367"
@@ -12613,7 +12603,7 @@
       "episodeNumber": 49,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a6/ad/ab/a6adab2a-d75b-a9d6-9352-b509dbcb134e/4260229663196_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 49: Sabotage auf dem Reiterhof (Das Original Playmobil Hörspiel)' von den Playmos. Es ist Teil einer Serie von Hörspielen, die in Deutschland produziert wurden.",
+      "description": "",
       "totalDuration": 3377.999,
       "platforms": {
         "appleMusic": "1471397097"
@@ -12865,7 +12855,7 @@
       "episodeNumber": 50,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e5/c6/e4/e5c6e470-fcd7-521b-a214-00ffea5233c4/4260229663202_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel aus der Playmobil Reihe, das Abenteuer und Fantasie thematisiert.",
+      "description": "",
       "totalDuration": 3268.999,
       "platforms": {
         "appleMusic": "1471397348"
@@ -13110,7 +13100,7 @@
       "episodeNumber": 51,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bb/71/21/bb7121f7-b51a-ff09-56a7-8d1cf60e62e4/4260229663219_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel der Serie Playmobil und handelt von Fußballfieber.",
+      "description": "",
       "totalDuration": 3377.001,
       "platforms": {
         "appleMusic": "1471395705"
@@ -13369,7 +13359,7 @@
       "episodeNumber": 52,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9e/7f/28/9e7f289d-d0a0-5e6a-fbff-b11ca9ca8967/4260229663226_3000.jpg/100x100bb.jpg",
-      "description": "Ein deutsches Hörspielalbum von Playmobil über einen Schatz in der Pyramide für Kinder.",
+      "description": "",
       "totalDuration": 3242.997,
       "platforms": {
         "appleMusic": "1471394407"
@@ -13614,7 +13604,7 @@
       "episodeNumber": 53,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/eb/f7/aa/ebf7aad5-9275-7778-301f-03c9ff2bc711/4260229663233_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel-Album, das ein interaktives Hörspiel-Erlebnis bietet, bei dem die Zuhörer an einer Schatzsuche auf einer Galeere teilnehmen können.",
+      "description": "",
       "totalDuration": 3447.0,
       "platforms": {
         "appleMusic": "1471393174"
@@ -13880,7 +13870,7 @@
       "episodeNumber": 54,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9f/5b/ac/9f5bac24-b393-7857-27aa-0b92985bb7bb/4260229663240_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel-Album über Eispiraten, verfilmt von Playmobil.",
+      "description": "",
       "totalDuration": 3268.002,
       "platforms": {
         "appleMusic": "1471390328"
@@ -14125,7 +14115,7 @@
       "episodeNumber": 55,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/22/01/90/22019032-2d3f-7470-75c0-6bba39d9da1c/4260229663257_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel über die Belagerung einer Burg von Löwenrittern.",
+      "description": "",
       "totalDuration": 3399.998,
       "platforms": {
         "appleMusic": "1471391702"
@@ -14384,7 +14374,7 @@
       "episodeNumber": 56,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0f/b8/ff/0fb8ff0c-f066-3e17-f0e5-35bd5d800617/4260229663264_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel, das auf eine spannende Flucht vor dem T-Rex basiert.",
+      "description": "",
       "totalDuration": 3600.0,
       "platforms": {
         "appleMusic": "1471388114"
@@ -14657,7 +14647,7 @@
       "episodeNumber": 57,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/11/68/63/11686378-5617-e170-29db-477acb783985/4260229663271_3000.jpg/100x100bb.jpg",
-      "description": "Das Album enthält das Hörspiel 'Wasser Marsch bei der Feuerwehr' von Playmobil, einem Kinderspielzeugunternehmen, das oft Hörspiele für Kinder produziert.",
+      "description": "",
       "totalDuration": 2970.003,
       "platforms": {
         "appleMusic": "1471388447"
@@ -14881,7 +14871,7 @@
       "episodeNumber": 58,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4c/23/18/4c231826-f36f-f244-6361-447727b60ff3/4260229663288_3000.jpg/100x100bb.jpg",
-      "description": "Das Album enthält die Folge 58 des Playmobil Hörspiels 'Wettkampf der Drachenreiter', ein Hörspiel für Kinder.",
+      "description": "",
       "totalDuration": 3183.001,
       "platforms": {
         "appleMusic": "1471385794"
@@ -15119,7 +15109,7 @@
       "episodeNumber": 59,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0f/44/dd/0f44ddbf-773f-fbb8-6e9e-3917f38bed29/4260229663295_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel der Playmobil Serie, das spannende Geschichten für Kinder bietet.",
+      "description": "",
       "totalDuration": 2979.004,
       "platforms": {
         "appleMusic": "1471383478"
@@ -15343,7 +15333,7 @@
       "episodeNumber": 60,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/10/24/af/1024af23-3022-76d8-ff84-441254ff9122/4260229662304_1448.jpg/100x100bb.jpg",
-      "description": "Das Album beinhaltet eine Serie von Hörspielen mit dem Titel 'Folge 60: Die magische Fußballweltmeisterschaft' von Die Playmos.",
+      "description": "",
       "totalDuration": 3298.0,
       "platforms": {
         "appleMusic": "1337817987"
@@ -15574,7 +15564,7 @@
       "episodeNumber": 61,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6b/9c/b9/6b9cb965-8fd6-5382-0d77-5105b5364aa0/4260229662373_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele mit dem Titel 'Folge 61: Aufregende Abenteuer mit den Explorers' von den Künstlern Die Playmos. Es ist Teil einer Hörspielserie, die auf Spannung und Unterhaltung abzielt.",
+      "description": "",
       "totalDuration": 3100.5,
       "platforms": {
         "appleMusic": "1382203368"
@@ -15812,7 +15802,7 @@
       "episodeNumber": 62,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f7/a3/62/f7a362d8-e379-bfd6-e53e-353587e22414/4260229662540_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 62: Der falsche Feuerwehrmann' von Die Playmos. Es ist Teil einer Reihe von Playmobil Hörspielen.",
+      "description": "",
       "totalDuration": 3053.0,
       "platforms": {
         "appleMusic": "1435900182"
@@ -16043,7 +16033,7 @@
       "episodeNumber": 63,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/57/84/a9/5784a9d3-a000-d945-dab3-9434ad57ba6a/4260229662557_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Hörspiel, das der Reihe 'Die Playmos' gehört und sich um den 'Verschwundenen Kristall' dreht.",
+      "description": "",
       "totalDuration": 3141.0,
       "platforms": {
         "appleMusic": "1435880987"
@@ -16288,7 +16278,7 @@
       "episodeNumber": 64,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/86/e6/44/86e6440d-9952-60db-62d4-b918131809b2/4260229662564_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über das Leben auf dem Mars mit 30 Folgen von Die Playmos.",
+      "description": "",
       "totalDuration": 2884.0,
       "platforms": {
         "appleMusic": "1438509162"
@@ -16512,7 +16502,7 @@
       "episodeNumber": 65,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/c4/ee/76c4eeaf-769e-db82-416b-a14174d3477b/4260229662618_3000.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel über Agenten auf hoher See.",
+      "description": "",
       "totalDuration": 3163.0,
       "platforms": {
         "appleMusic": "1451716679"
@@ -16771,7 +16761,7 @@
       "episodeNumber": 66,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c7/3e/84/c73e8432-cb81-f3b0-d3b4-62242626d2b4/4260229662625_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein deutscher Hörspiel-Titel aus der Serie 'Das Original Playmobil Hörspiel', der bei iTunes zum Streamen verfügbar ist.",
+      "description": "",
       "totalDuration": 3624.999,
       "platforms": {
         "appleMusic": "1457810846"
@@ -17044,7 +17034,7 @@
       "episodeNumber": 67,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/49/15/2c/49152c0d-1d6a-7f67-e85e-c8385f9649f6/4260229662649_3000.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel über Piraten und eine Schatzkarte, geeignet für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 3522.996,
       "platforms": {
         "appleMusic": "1464514586"
@@ -17317,7 +17307,7 @@
       "episodeNumber": 68,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/29/7c/a2/297ca2ee-ce26-af8a-ee69-e714a24e33a6/4260229663615_3000.jpg/100x100bb.jpg",
-      "description": "Das Album enthält das Hörspiel 'Folge 68: Ein Fall für das Sondereinsatzkommando', das von den Playmos produziert wurde. Es handelt sich um ein Kinderhörspiel mit Elementen des Krimi-Genres.",
+      "description": "",
       "totalDuration": 3285.0,
       "platforms": {
         "appleMusic": "1473456902"
@@ -17562,7 +17552,7 @@
       "episodeNumber": 69,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2c/bd/75/2cbd75d2-046c-99b0-2475-50ac9106b01d/4260229663622_3000.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 69: Die Macht der Kürbislaterne (Das original Playmobil-Hörspiel)' ist ein Hörspiel, das Teil der Playmobil-Hörspielreihe ist und auf Apple Music verfügbar ist.",
+      "description": "",
       "totalDuration": 3633.997,
       "platforms": {
         "appleMusic": "1482394231"
@@ -17835,8 +17825,8 @@
       "episodeNumber": 70,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cb/80/1d/cb801da8-c3e7-0c24-0349-0b7056c9aea9/4260229664223_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel, das Teil einer Playmobil Serie ist, basierend auf dem Albumtitel und dem Genre Hörspiel.",
-      "totalDuration": 4830.337,
+      "description": "",
+      "totalDuration": 4830.3369999999995,
       "platforms": {
         "appleMusic": "1503134373"
       },
@@ -18199,7 +18189,7 @@
       "episodeNumber": 71,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/80/ba/b3/80bab374-cea3-7fd0-9830-7b6d28abb1e9/4260229663905_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album im Bereich Hörspiele, das Playmobil-Themen umfasst.",
+      "description": "",
       "totalDuration": 3469.003,
       "platforms": {
         "appleMusic": "1508127813"
@@ -18465,8 +18455,8 @@
       "episodeNumber": 72,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/6a/ed/7d6aed0c-e4dd-e09e-ac58-c45eac8e301e/4260229664155_3000.jpg/100x100bb.jpg",
-      "description": "Das Album enthält das Hörspiel 'Folge 72: Ein Geheimcode für die Galaxy Police' von Playmobil, das typischerweise Hörspiele für Kinder umfasst.",
-      "totalDuration": 3492.999,
+      "description": "",
+      "totalDuration": 3492.9990000000003,
       "platforms": {
         "appleMusic": "1529226985"
       },
@@ -18724,7 +18714,7 @@
       "episodeNumber": 73,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/69/ff/7b69ffd1-5057-ef79-a2af-e695f8207746/4260229664162_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über eine Spurensuche im Zoo, erschienen bei Playmobil.",
+      "description": "",
       "totalDuration": 3156.0,
       "platforms": {
         "appleMusic": "1535463850"
@@ -18955,7 +18945,7 @@
       "episodeNumber": 74,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/29/2d/ee292d9b-5046-87ed-9cad-6ad1002bb732/4260229664360_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil des Playmobil Hörspiels und enthält Geschichten für Kinder. Es handelt sich um ein Hörspiel, das auf Audio-Plattformen verfügbar sein könnte.",
+      "description": "",
       "totalDuration": 3299.998,
       "platforms": {
         "appleMusic": "1553066906"
@@ -19207,7 +19197,7 @@
       "episodeNumber": 75,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d8/0e/c7/d80ec7bd-6d64-86cb-7682-dd0aeec7a6c9/4066004219387_3000.jpg/100x100bb.jpg",
-      "description": "Ein deutscher Hörspiel-Album mit dem Titel 'Folge 75: Dem Betrüger auf der Spur', produziert von Die Playmos und Teil der Playmobil Hörspiel-Reihe.",
+      "description": "",
       "totalDuration": 3353.001,
       "platforms": {
         "appleMusic": "1568279735"
@@ -19466,7 +19456,7 @@
       "episodeNumber": 76,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/f1/ca/8af1cae5-4a85-9b5d-3a02-ed434dd5f43e/4260229664636_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original Playmobil Hörspiel mit 36 Folgen, das auf ein Unterhaltungskonzept zugeschnitten ist, typisch für deutsche Hörspiele.",
+      "description": "",
       "totalDuration": 3462.997,
       "platforms": {
         "appleMusic": "1581088953"
@@ -19732,7 +19722,7 @@
       "episodeNumber": 77,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/91/7d/e7917d8d-03c4-366c-4725-44fd0f2e1666/4260229664650_3000.jpg/100x100bb.jpg",
-      "description": "Das Album enthält Hörspieltracks mit dem Titel 'Folge 77: Schmuggler im Hafen' von Die Playmos.",
+      "description": "",
       "totalDuration": 3385.978,
       "platforms": {
         "appleMusic": "1590151789"
@@ -19991,7 +19981,7 @@
       "episodeNumber": 78,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/11/f3/7511f303-e3df-6fcc-8ab8-3ccb75c5609c/4260229664827_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel mit der Folge 'Auf Mission mit dem SWAT-Team' und gehört zur Hörspiel-Kategorie.",
+      "description": "",
       "totalDuration": 3592.0,
       "platforms": {
         "appleMusic": "1610365395"
@@ -20271,7 +20261,7 @@
       "episodeNumber": 79,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a2/ff/04/a2ff0440-5616-a415-1907-4a0115fecb4b/4260229664834_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel, das ein spannendes Abenteuer um eine Stunt-Show erzählt.",
+      "description": "",
       "totalDuration": 3496.002,
       "platforms": {
         "appleMusic": "1628384681"
@@ -20544,8 +20534,8 @@
       "episodeNumber": 80,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/07/b9/6b/07b96b1b-67a0-8b0b-9be6-0ccb1d09766c/4260229664926_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil-Hörspiel über den verschwundenen Hengst, ideal für Kinder.",
-      "totalDuration": 3378.001,
+      "description": "",
+      "totalDuration": 3378.0009999999997,
       "platforms": {
         "appleMusic": "1638691206"
       },
@@ -20803,7 +20793,7 @@
       "episodeNumber": 81,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/ea/b3/4eeab3e1-7f55-130d-8de9-9142cfd6c5bb/4260229664940_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel, das auf Abenteuer und Fantasy im Kontext von Prinzessinnen und Notfällen abzielt, typisch für Kinderinhalte.",
+      "description": "",
       "totalDuration": 3573.003,
       "platforms": {
         "appleMusic": "1652660134"
@@ -21083,7 +21073,7 @@
       "episodeNumber": 82,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/aa/7b/2daa7bfe-8cff-514b-d380-3b4fe9307cf4/4260229665145_3000.jpg/100x100bb.jpg",
-      "description": "Das Album 'Folge 82: Drei Rettungseinsätze und ein Dieb (Das Original Playmobil Hörspiel)' ist ein Hörspiel, das von Die Playmos produziert wurde und sich auf 38 Tracks erstreckt. Es handelt sich um ein Originalhörspiel aus dem Genre Playmobil Hörspiel.",
+      "description": "",
       "totalDuration": 3611.999,
       "platforms": {
         "appleMusic": "1670066325"
@@ -21363,7 +21353,7 @@
       "episodeNumber": 83,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/85/a8/2285a8d5-5f62-96ec-1f79-e39511c933b6/4260229665176_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Playmobil Hörspiel 'Folge 83: Von Doppelgängern und Agenten', ein Hörspiel der Serie von Die Playmos.",
+      "description": "",
       "totalDuration": 3856.0,
       "platforms": {
         "appleMusic": "1682868680"
@@ -21657,7 +21647,7 @@
       "episodeNumber": 84,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/06/31/7306314e-b11c-d134-37a9-1295245daca1/4260229665343_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel mit der Folge 'Das seltsame Haus'.",
+      "description": "",
       "totalDuration": 3682.999,
       "platforms": {
         "appleMusic": "1699569374"
@@ -21944,7 +21934,7 @@
       "episodeNumber": 85,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/21/01/222101c6-7562-a690-1e62-bc5227daae3e/4260229665367_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Playmobil-Hörspiel mit 38 Folgen, das sich um die Abenteuer von Dreiste Dieben und SWAT-Team handelt.",
+      "description": "",
       "totalDuration": 3647.212,
       "platforms": {
         "appleMusic": "1707807638"
@@ -22224,7 +22214,7 @@
       "episodeNumber": 86,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cf/a6/05/cfa6052b-62b6-b489-5e09-0a0ddb2809e7/4260229665442_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel mit dem Titel 'Folge 86: Red Firestar, Superheld'.",
+      "description": "",
       "totalDuration": 3472.181,
       "platforms": {
         "appleMusic": "1726544192"
@@ -22490,7 +22480,7 @@
       "episodeNumber": 87,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d6/18/da/d618dabf-ddea-9790-be7e-19f702266605/4260229665466_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil-Hörspiel über eine Verschwörung in Olymp, geeignet für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 3986.999,
       "platforms": {
         "appleMusic": "1734190168"
@@ -22798,7 +22788,7 @@
       "episodeNumber": 88,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/06/1d/87061d25-389b-9d6f-1f2d-b1968fc2a651/4260229665527_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel, das im Genre Hörspiel untergebracht ist. Es handelt sich um ein interaktives Hörspiel-Erlebnis mit 40 Folgen, das auf der Geschichte von Stürmer Leon Blitz basiert.",
+      "description": "",
       "totalDuration": 3815.999,
       "platforms": {
         "appleMusic": "1743750906"
@@ -23092,7 +23082,7 @@
       "episodeNumber": 89,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/78/d9/8078d905-a5b6-0fb1-971d-662fed5add67/4260229665619_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über einen Ninja und einen goldenen Drachen, mit 40 Folgen. Die Playmos sind die Künstlerinnen hinter diesem Album.",
+      "description": "",
       "totalDuration": 3808.376,
       "platforms": {
         "appleMusic": "1755599945"
@@ -23386,7 +23376,7 @@
       "episodeNumber": 90,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/75/91/71759134-fe8a-23b0-632c-ba61bbd1c323/4260229665633_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel über rätselhafte Einbrüche.",
+      "description": "",
       "totalDuration": 3509.104,
       "platforms": {
         "appleMusic": "1767339581"
@@ -23659,8 +23649,8 @@
       "episodeNumber": 91,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/f9/46/fbf9469c-9b54-6411-8d23-5130867ef1bf/4260229665657_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel der Playmos, das sich um einen Fall von Mato Meisterdetektiv dreht.",
-      "totalDuration": 3534.289,
+      "description": "",
+      "totalDuration": 3534.2889999999998,
       "platforms": {
         "appleMusic": "1779075716"
       },
@@ -23932,7 +23922,7 @@
       "episodeNumber": 92,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/4a/1a/d94a1af7-6fa3-2c3d-b1d7-8f62ceed44e0/4260229665787_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel mit dem Titel 'Folge 92: Im geheimen Tal der Dinosaurier', produziert von Die Playmos und gehört zum Genre Hörspiele.",
+      "description": "",
       "totalDuration": 3504.0,
       "platforms": {
         "appleMusic": "1791565612"
@@ -24205,7 +24195,7 @@
       "episodeNumber": 93,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/43/24/0d43242c-53a0-aaff-7256-6b798d841635/4260229665800_3000.jpg/100x100bb.jpg",
-      "description": "Ein spannendes Hörspiel über den verschwundenen Kommissar mit humorvollen Elementen von Playmobil.",
+      "description": "",
       "totalDuration": 3775.432,
       "platforms": {
         "appleMusic": "1801169150"
@@ -24492,7 +24482,7 @@
       "episodeNumber": 94,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/a6/d0/54a6d006-4f4d-6cc4-6a01-a6fa7d2cfb55/4260229665824_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält ein Playmobil-Hörspiel, das Captain Tolle in eine Rettungsmission einbezieht. Es ist ein unterhaltsames Abenteuer für Kinder, das auf Audiostreaming-Plattformen verfügbar ist.",
+      "description": "",
       "totalDuration": 3559.216,
       "platforms": {
         "appleMusic": "1813834167"
@@ -24765,7 +24755,7 @@
       "episodeNumber": 95,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/48/c5/5648c507-d59f-ef91-b72e-7fff9daba6c7/4260229665886_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil Hörspiel um Perlenraub im Strandhotel, ideal für Kinder und Fans des Spiels.",
+      "description": "",
       "totalDuration": 3721.456,
       "platforms": {
         "appleMusic": "1823630106"
@@ -25052,7 +25042,7 @@
       "episodeNumber": 96,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/7a/f7/2e7af75d-1749-1f8f-23a3-343f6efb1b06/4260229665909_3000.jpg/100x100bb.jpg",
-      "description": "Das Album enthält eine Folge eines Playmobil Hörspiels, das auf Unterhaltung für Kinder abzielt.",
+      "description": "",
       "totalDuration": 3851.371,
       "platforms": {
         "appleMusic": "1834618344"
@@ -25346,7 +25336,7 @@
       "episodeNumber": 97,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/e1/b3/7fe1b373-b1a2-3855-0210-100e1e57774c/4260229665923_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original Playmobil Hörspiel, das Teil einer Hörspielreihe ist. Es enthält Dialoge und Geschichten, die typisch für Hörspiele sind.",
+      "description": "",
       "totalDuration": 3738.033,
       "platforms": {
         "appleMusic": "1845883374"
@@ -25640,7 +25630,7 @@
       "episodeNumber": 98,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/3f/29/0c3f297e-3526-0dc2-dc5d-50eba0203da5/4260229665985_3000.jpg/100x100bb.jpg",
-      "description": "Ein deutscher Hörspiel-Album mit Playmobil-Themen, das auf Apple Music verfügbar ist.",
+      "description": "",
       "totalDuration": 3617.262,
       "platforms": {
         "appleMusic": "1866892221"
@@ -25920,7 +25910,7 @@
       "episodeNumber": 99,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/62/54/10625499-9f9f-1abf-6c2e-af7ef170e646/4260229666005_3000.jpg/100x100bb.jpg",
-      "description": "Ein Playmobil-Hörspiel mit 39 Folgen über ein spannendes Duell zwischen den Pfosten.",
+      "description": "",
       "totalDuration": 3655.448,
       "platforms": {
         "appleMusic": "1881915429"
@@ -26202,152 +26192,12 @@
       ]
     },
     {
-      "id": "1886133182",
-      "title": "Folge 100: Der magische Ring - Episode 1",
-      "episodeNumber": 100,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/bf/31/5ebf3128-ebd5-5b49-88b7-044fdb8c161b/4260229666043_3000.jpg/100x100bb.jpg",
-      "description": "Das Album enthält die Episode 1 von Folge 100: Der magische Ring, ein Hörspiel von Die Playmos.",
-      "totalDuration": 1598.0,
-      "platforms": {
-        "appleMusic": "1886133182"
-      },
-      "chapters": [
-        {
-          "id": "diep-folg-3182-t01",
-          "title": "Kapitel 1 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 64.964
-        },
-        {
-          "id": "diep-folg-3182-t02",
-          "title": "Kapitel 2 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 1,
-          "startTime": 64.964,
-          "duration": 91.519
-        },
-        {
-          "id": "diep-folg-3182-t03",
-          "title": "Kapitel 3 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 2,
-          "startTime": 156.483,
-          "duration": 91.739
-        },
-        {
-          "id": "diep-folg-3182-t04",
-          "title": "Kapitel 4 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 3,
-          "startTime": 248.222,
-          "duration": 93.251
-        },
-        {
-          "id": "diep-folg-3182-t05",
-          "title": "Kapitel 5 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 4,
-          "startTime": 341.473,
-          "duration": 92.201
-        },
-        {
-          "id": "diep-folg-3182-t06",
-          "title": "Kapitel 6 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 5,
-          "startTime": 433.674,
-          "duration": 91.469
-        },
-        {
-          "id": "diep-folg-3182-t07",
-          "title": "Kapitel 7 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 6,
-          "startTime": 525.143,
-          "duration": 91.092
-        },
-        {
-          "id": "diep-folg-3182-t08",
-          "title": "Kapitel 8 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 7,
-          "startTime": 616.235,
-          "duration": 91.394
-        },
-        {
-          "id": "diep-folg-3182-t09",
-          "title": "Kapitel 9 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 8,
-          "startTime": 707.629,
-          "duration": 91.289
-        },
-        {
-          "id": "diep-folg-3182-t10",
-          "title": "Kapitel 10 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 9,
-          "startTime": 798.918,
-          "duration": 91.237
-        },
-        {
-          "id": "diep-folg-3182-t11",
-          "title": "Kapitel 11 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 10,
-          "startTime": 890.155,
-          "duration": 91.045
-        },
-        {
-          "id": "diep-folg-3182-t12",
-          "title": "Kapitel 12 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 11,
-          "startTime": 981.2,
-          "duration": 91.452
-        },
-        {
-          "id": "diep-folg-3182-t13",
-          "title": "Kapitel 13 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 12,
-          "startTime": 1072.652,
-          "duration": 91.022
-        },
-        {
-          "id": "diep-folg-3182-t14",
-          "title": "Kapitel 14 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 13,
-          "startTime": 1163.674,
-          "duration": 90.567
-        },
-        {
-          "id": "diep-folg-3182-t15",
-          "title": "Kapitel 15 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 14,
-          "startTime": 1254.241,
-          "duration": 91.231
-        },
-        {
-          "id": "diep-folg-3182-t16",
-          "title": "Kapitel 16 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 15,
-          "startTime": 1345.472,
-          "duration": 93.504
-        },
-        {
-          "id": "diep-folg-3182-t17",
-          "title": "Kapitel 17 - Folge 100/1 - Der magische Ring: Wie alles begann",
-          "index": 16,
-          "startTime": 1438.976,
-          "duration": 117.748
-        },
-        {
-          "id": "diep-folg-3182-t18",
-          "title": "Freunde (Titelsong)",
-          "index": 17,
-          "startTime": 1556.724,
-          "duration": 41.276
-        }
-      ]
-    },
-    {
       "id": "6768373658",
       "title": "Folge 100: Der magische Ring",
       "episodeNumber": 100,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/b8/c9/ddb8c954-4d44-eb82-7076-302ea4c43f91/4260229666029_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit 108 Tracks über den Titel 'Folge 100: Der magische Ring' von den Playmos, das auf dem Genre Hörspiel basiert.",
+      "description": "",
       "totalDuration": 4580.186,
       "platforms": {
         "appleMusic": "6768373658"
@@ -26706,204 +26556,141 @@
       ]
     },
     {
-      "id": "1892312149",
-      "title": "Folge 100: Der magische Ring - Episode 9",
+      "id": "1886133182",
+      "title": "Folge 100: Der magische Ring - Episode 1",
       "episodeNumber": 100,
       "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/cd/ab/b1cdabfd-def4-5571-4b3a-d4d661ada5a3/4260229666203_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum über die magische Ring-Episode, das von den Playmos produziert wurde.",
-      "totalDuration": 1321.565,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/bf/31/5ebf3128-ebd5-5b49-88b7-044fdb8c161b/4260229666043_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 1598.0,
       "platforms": {
-        "appleMusic": "1892312149"
+        "appleMusic": "1886133182"
       },
       "chapters": [
         {
-          "id": "diep-folg-2149-t01",
-          "title": "Kapitel 1 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t01",
+          "title": "Kapitel 1 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 0,
           "startTime": 0.0,
-          "duration": 64.582
+          "duration": 64.964
         },
         {
-          "id": "diep-folg-2149-t02",
-          "title": "Kapitel 2 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t02",
+          "title": "Kapitel 2 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 1,
-          "startTime": 64.582,
-          "duration": 91.864
+          "startTime": 64.964,
+          "duration": 91.519
         },
         {
-          "id": "diep-folg-2149-t03",
-          "title": "Kapitel 3 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t03",
+          "title": "Kapitel 3 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 2,
-          "startTime": 156.446,
-          "duration": 91.41
+          "startTime": 156.483,
+          "duration": 91.739
         },
         {
-          "id": "diep-folg-2149-t04",
-          "title": "Kapitel 4 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t04",
+          "title": "Kapitel 4 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 3,
-          "startTime": 247.856,
-          "duration": 92.786
+          "startTime": 248.222,
+          "duration": 93.251
         },
         {
-          "id": "diep-folg-2149-t05",
-          "title": "Kapitel 5 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t05",
+          "title": "Kapitel 5 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 4,
-          "startTime": 340.642,
-          "duration": 91.025
+          "startTime": 341.473,
+          "duration": 92.201
         },
         {
-          "id": "diep-folg-2149-t06",
-          "title": "Kapitel 6 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t06",
+          "title": "Kapitel 6 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 5,
-          "startTime": 431.667,
-          "duration": 91.438
+          "startTime": 433.674,
+          "duration": 91.469
         },
         {
-          "id": "diep-folg-2149-t07",
-          "title": "Kapitel 7 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t07",
+          "title": "Kapitel 7 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 6,
-          "startTime": 523.105,
-          "duration": 91.878
+          "startTime": 525.143,
+          "duration": 91.092
         },
         {
-          "id": "diep-folg-2149-t08",
-          "title": "Kapitel 8 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t08",
+          "title": "Kapitel 8 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 7,
-          "startTime": 614.983,
-          "duration": 92.029
+          "startTime": 616.235,
+          "duration": 91.394
         },
         {
-          "id": "diep-folg-2149-t09",
-          "title": "Kapitel 9 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t09",
+          "title": "Kapitel 9 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 8,
-          "startTime": 707.012,
-          "duration": 91.782
+          "startTime": 707.629,
+          "duration": 91.289
         },
         {
-          "id": "diep-folg-2149-t10",
-          "title": "Kapitel 10 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t10",
+          "title": "Kapitel 10 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 9,
-          "startTime": 798.794,
-          "duration": 103.449
+          "startTime": 798.918,
+          "duration": 91.237
         },
         {
-          "id": "diep-folg-2149-t11",
-          "title": "Kapitel 11 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t11",
+          "title": "Kapitel 11 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 10,
-          "startTime": 902.243,
-          "duration": 124.471
+          "startTime": 890.155,
+          "duration": 91.045
         },
         {
-          "id": "diep-folg-2149-t12",
-          "title": "Freunde (Titelsong)",
+          "id": "diep-folg-3182-t12",
+          "title": "Kapitel 12 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 11,
-          "startTime": 1026.714,
-          "duration": 186.078
+          "startTime": 981.2,
+          "duration": 91.452
         },
         {
-          "id": "diep-folg-2149-t13",
-          "title": "Kapitel 12 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "id": "diep-folg-3182-t13",
+          "title": "Kapitel 13 - Folge 100/1 - Der magische Ring: Wie alles begann",
           "index": 12,
-          "startTime": 1212.792,
-          "duration": 108.773
-        }
-      ]
-    },
-    {
-      "id": "1886280912",
-      "title": "Folge 100: Der magische Ring - Episode 5",
-      "episodeNumber": 100,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/f2/a9/fdf2a906-741a-307f-8404-5fc1403aa887/4260229666128_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum, das Teil einer Serie ist und im Genre Abenteuer und Fantasy angesiedelt ist.",
-      "totalDuration": 1064.9,
-      "platforms": {
-        "appleMusic": "1886280912"
-      },
-      "chapters": [
-        {
-          "id": "diep-folg-0912-t01",
-          "title": "Kapitel 1 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 64.393
+          "startTime": 1072.652,
+          "duration": 91.022
         },
         {
-          "id": "diep-folg-0912-t02",
-          "title": "Kapitel 2 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 1,
-          "startTime": 64.393,
-          "duration": 92.094
+          "id": "diep-folg-3182-t14",
+          "title": "Kapitel 14 - Folge 100/1 - Der magische Ring: Wie alles begann",
+          "index": 13,
+          "startTime": 1163.674,
+          "duration": 90.567
         },
         {
-          "id": "diep-folg-0912-t03",
-          "title": "Kapitel 3 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 2,
-          "startTime": 156.487,
-          "duration": 91.513
+          "id": "diep-folg-3182-t15",
+          "title": "Kapitel 15 - Folge 100/1 - Der magische Ring: Wie alles begann",
+          "index": 14,
+          "startTime": 1254.241,
+          "duration": 91.231
         },
         {
-          "id": "diep-folg-0912-t04",
-          "title": "Kapitel 4 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 3,
-          "startTime": 248.0,
-          "duration": 92.38
+          "id": "diep-folg-3182-t16",
+          "title": "Kapitel 16 - Folge 100/1 - Der magische Ring: Wie alles begann",
+          "index": 15,
+          "startTime": 1345.472,
+          "duration": 93.504
         },
         {
-          "id": "diep-folg-0912-t05",
-          "title": "Kapitel 5 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 4,
-          "startTime": 340.38,
-          "duration": 91.417
+          "id": "diep-folg-3182-t17",
+          "title": "Kapitel 17 - Folge 100/1 - Der magische Ring: Wie alles begann",
+          "index": 16,
+          "startTime": 1438.976,
+          "duration": 117.748
         },
         {
-          "id": "diep-folg-0912-t06",
-          "title": "Kapitel 6 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 5,
-          "startTime": 431.797,
-          "duration": 92.139
-        },
-        {
-          "id": "diep-folg-0912-t07",
-          "title": "Kapitel 7 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 6,
-          "startTime": 523.936,
-          "duration": 91.073
-        },
-        {
-          "id": "diep-folg-0912-t08",
-          "title": "Kapitel 8 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 7,
-          "startTime": 615.009,
-          "duration": 93.591
-        },
-        {
-          "id": "diep-folg-0912-t09",
-          "title": "Kapitel 9 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 8,
-          "startTime": 708.6,
-          "duration": 113.54
-        },
-        {
-          "id": "diep-folg-0912-t10",
-          "title": "Kapitel 10 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 9,
-          "startTime": 822.14,
-          "duration": 105.169
-        },
-        {
-          "id": "diep-folg-0912-t11",
-          "title": "Kapitel 11 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
-          "index": 10,
-          "startTime": 927.309,
-          "duration": 96.315
-        },
-        {
-          "id": "diep-folg-0912-t12",
+          "id": "diep-folg-3182-t18",
           "title": "Freunde (Titelsong)",
-          "index": 11,
-          "startTime": 1023.624,
+          "index": 17,
+          "startTime": 1556.724,
           "duration": 41.276
         }
       ]
@@ -26914,7 +26701,7 @@
       "episodeNumber": 100,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/af/ba/15afbac2-2d25-fd49-9c26-fd85d13c87be/4260229666067_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit 13 Folgen, das auf einer Fantasy-Geschichte basiert, typisch für Kinder- und Jugendhörspiele.",
+      "description": "",
       "totalDuration": 1110.278,
       "platforms": {
         "appleMusic": "1886134485"
@@ -27014,222 +26801,12 @@
       ]
     },
     {
-      "id": "1891337424",
-      "title": "Folge 100: Der magische Ring - Episode 8",
-      "episodeNumber": 100,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/c9/35/b1c93513-77e4-3bb4-1014-24193b703230/4260229666180_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel mit dem Titel \"Folge 100: Der magische Ring - Episode 8\", das von \"Die Playmos\" produziert wurde und 12 Tracks umfasst.",
-      "totalDuration": 1036.105,
-      "platforms": {
-        "appleMusic": "1891337424"
-      },
-      "chapters": [
-        {
-          "id": "diep-folg-7424-t01",
-          "title": "Kapitel 1 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 64.189
-        },
-        {
-          "id": "diep-folg-7424-t02",
-          "title": "Kapitel 2 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 1,
-          "startTime": 64.189,
-          "duration": 91.053
-        },
-        {
-          "id": "diep-folg-7424-t03",
-          "title": "Kapitel 3 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 2,
-          "startTime": 155.242,
-          "duration": 91.135
-        },
-        {
-          "id": "diep-folg-7424-t04",
-          "title": "Kapitel 4 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 3,
-          "startTime": 246.377,
-          "duration": 96.721
-        },
-        {
-          "id": "diep-folg-7424-t05",
-          "title": "Kapitel 5 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 4,
-          "startTime": 343.098,
-          "duration": 92.724
-        },
-        {
-          "id": "diep-folg-7424-t06",
-          "title": "Kapitel 6 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 5,
-          "startTime": 435.822,
-          "duration": 94.066
-        },
-        {
-          "id": "diep-folg-7424-t07",
-          "title": "Kapitel 7 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 6,
-          "startTime": 529.888,
-          "duration": 91.396
-        },
-        {
-          "id": "diep-folg-7424-t08",
-          "title": "Kapitel 8 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 7,
-          "startTime": 621.284,
-          "duration": 93.749
-        },
-        {
-          "id": "diep-folg-7424-t09",
-          "title": "Kapitel 9 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 8,
-          "startTime": 715.033,
-          "duration": 91.534
-        },
-        {
-          "id": "diep-folg-7424-t10",
-          "title": "Kapitel 10 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 9,
-          "startTime": 806.567,
-          "duration": 95.758
-        },
-        {
-          "id": "diep-folg-7424-t11",
-          "title": "Kapitel 11 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
-          "index": 10,
-          "startTime": 902.325,
-          "duration": 92.504
-        },
-        {
-          "id": "diep-folg-7424-t12",
-          "title": "Freunde (Titelsong)",
-          "index": 11,
-          "startTime": 994.829,
-          "duration": 41.276
-        }
-      ]
-    },
-    {
-      "id": "1888429198",
-      "title": "Folge 100: Der magische Ring - Episode 7",
-      "episodeNumber": 100,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/89/d9/ca89d932-addf-0c1e-f010-6e6797a4556e/4260229666166_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel veröffentlicht wurde, unter dem Titel 'Folge 100: Der magische Ring - Episode 7' von den Playmos, enthält 14 Hörspiel-Tracks.",
-      "totalDuration": 1211.144,
-      "platforms": {
-        "appleMusic": "1888429198"
-      },
-      "chapters": [
-        {
-          "id": "diep-folg-9198-t01",
-          "title": "Kapitel 1 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 64.43
-        },
-        {
-          "id": "diep-folg-9198-t02",
-          "title": "Kapitel 2 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 1,
-          "startTime": 64.43,
-          "duration": 91.864
-        },
-        {
-          "id": "diep-folg-9198-t03",
-          "title": "Kapitel 3 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 2,
-          "startTime": 156.294,
-          "duration": 91.19
-        },
-        {
-          "id": "diep-folg-9198-t04",
-          "title": "Kapitel 4 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 3,
-          "startTime": 247.484,
-          "duration": 91.176
-        },
-        {
-          "id": "diep-folg-9198-t05",
-          "title": "Kapitel 5 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 4,
-          "startTime": 338.66,
-          "duration": 91.135
-        },
-        {
-          "id": "diep-folg-9198-t06",
-          "title": "Kapitel 6 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 5,
-          "startTime": 429.795,
-          "duration": 92.002
-        },
-        {
-          "id": "diep-folg-9198-t07",
-          "title": "Kapitel 7 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 6,
-          "startTime": 521.797,
-          "duration": 93.68
-        },
-        {
-          "id": "diep-folg-9198-t08",
-          "title": "Kapitel 8 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 7,
-          "startTime": 615.477,
-          "duration": 91.259
-        },
-        {
-          "id": "diep-folg-9198-t09",
-          "title": "Kapitel 9 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 8,
-          "startTime": 706.736,
-          "duration": 91.63
-        },
-        {
-          "id": "diep-folg-9198-t10",
-          "title": "Kapitel 10 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 9,
-          "startTime": 798.366,
-          "duration": 91.314
-        },
-        {
-          "id": "diep-folg-9198-t11",
-          "title": "Kapitel 11 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 10,
-          "startTime": 889.68,
-          "duration": 92.105
-        },
-        {
-          "id": "diep-folg-9198-t12",
-          "title": "Kapitel 12 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 11,
-          "startTime": 981.785,
-          "duration": 91.252
-        },
-        {
-          "id": "diep-folg-9198-t13",
-          "title": "Kapitel 13 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
-          "index": 12,
-          "startTime": 1073.037,
-          "duration": 96.831
-        },
-        {
-          "id": "diep-folg-9198-t14",
-          "title": "Freunde (Titelsong)",
-          "index": 13,
-          "startTime": 1169.868,
-          "duration": 41.276
-        }
-      ]
-    },
-    {
       "id": "1886137458",
       "title": "Folge 100: Der magische Ring - Episode 3",
       "episodeNumber": 100,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/c7/97/9ac797f8-033c-7d65-0e46-83831b2e7fb2/4260229666081_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum über eine magische Entdeckung in Folge 100 der Serie 'Die Playmos'.",
+      "description": "",
       "totalDuration": 1197.064,
       "platforms": {
         "appleMusic": "1886137458"
@@ -27329,124 +26906,12 @@
       ]
     },
     {
-      "id": "1886673424",
-      "title": "Folge 100: Der magische Ring - Episode 6",
-      "episodeNumber": 100,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/91/30/119130dc-0321-ee94-56db-315c2bb136dd/4260229666142_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über eine magische Reise mit der Nummer 100, basierend auf der Serie 'Die Playmos'.",
-      "totalDuration": 1246.064,
-      "platforms": {
-        "appleMusic": "1886673424"
-      },
-      "chapters": [
-        {
-          "id": "diep-folg-3424-t01",
-          "title": "Kapitel 1 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 63.508
-        },
-        {
-          "id": "diep-folg-3424-t02",
-          "title": "Kapitel 2 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 1,
-          "startTime": 63.508,
-          "duration": 91.658
-        },
-        {
-          "id": "diep-folg-3424-t03",
-          "title": "Kapitel 3 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 2,
-          "startTime": 155.166,
-          "duration": 91.348
-        },
-        {
-          "id": "diep-folg-3424-t04",
-          "title": "Kapitel 4 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 3,
-          "startTime": 246.514,
-          "duration": 91.08
-        },
-        {
-          "id": "diep-folg-3424-t05",
-          "title": "Kapitel 5 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 4,
-          "startTime": 337.594,
-          "duration": 92.896
-        },
-        {
-          "id": "diep-folg-3424-t06",
-          "title": "Kapitel 6 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 5,
-          "startTime": 430.49,
-          "duration": 92.016
-        },
-        {
-          "id": "diep-folg-3424-t07",
-          "title": "Kapitel 7 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 6,
-          "startTime": 522.506,
-          "duration": 91.28
-        },
-        {
-          "id": "diep-folg-3424-t08",
-          "title": "Kapitel 8 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 7,
-          "startTime": 613.786,
-          "duration": 95.834
-        },
-        {
-          "id": "diep-folg-3424-t09",
-          "title": "Kapitel 9 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 8,
-          "startTime": 709.62,
-          "duration": 95.668
-        },
-        {
-          "id": "diep-folg-3424-t10",
-          "title": "Kapitel 10 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 9,
-          "startTime": 805.288,
-          "duration": 95.042
-        },
-        {
-          "id": "diep-folg-3424-t11",
-          "title": "Kapitel 11 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 10,
-          "startTime": 900.33,
-          "duration": 98.62
-        },
-        {
-          "id": "diep-folg-3424-t12",
-          "title": "Kapitel 12 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 11,
-          "startTime": 998.95,
-          "duration": 111.841
-        },
-        {
-          "id": "diep-folg-3424-t13",
-          "title": "Kapitel 13 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
-          "index": 12,
-          "startTime": 1110.791,
-          "duration": 93.997
-        },
-        {
-          "id": "diep-folg-3424-t14",
-          "title": "Freunde (Titelsong)",
-          "index": 13,
-          "startTime": 1204.788,
-          "duration": 41.276
-        }
-      ]
-    },
-    {
       "id": "1886137627",
       "title": "Folge 100: Der magische Ring - Episode 4",
       "episodeNumber": 100,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/94/3a/f9943aa9-1a46-9e84-da91-d77cc7aa0368/4260229666104_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist Teil einer Hörspiel-Reihe, die das Hörerlebnis in eine fiktive Welt versetzt, typisch für Abenteuer und Fantasy-Geschichten.",
+      "description": "",
       "totalDuration": 1246.275,
       "platforms": {
         "appleMusic": "1886137627"
@@ -27553,12 +27018,537 @@
       ]
     },
     {
+      "id": "1886280912",
+      "title": "Folge 100: Der magische Ring - Episode 5",
+      "episodeNumber": 100,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/f2/a9/fdf2a906-741a-307f-8404-5fc1403aa887/4260229666128_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 1064.9,
+      "platforms": {
+        "appleMusic": "1886280912"
+      },
+      "chapters": [
+        {
+          "id": "diep-folg-0912-t01",
+          "title": "Kapitel 1 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 64.393
+        },
+        {
+          "id": "diep-folg-0912-t02",
+          "title": "Kapitel 2 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 1,
+          "startTime": 64.393,
+          "duration": 92.094
+        },
+        {
+          "id": "diep-folg-0912-t03",
+          "title": "Kapitel 3 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 2,
+          "startTime": 156.487,
+          "duration": 91.513
+        },
+        {
+          "id": "diep-folg-0912-t04",
+          "title": "Kapitel 4 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 3,
+          "startTime": 248.0,
+          "duration": 92.38
+        },
+        {
+          "id": "diep-folg-0912-t05",
+          "title": "Kapitel 5 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 4,
+          "startTime": 340.38,
+          "duration": 91.417
+        },
+        {
+          "id": "diep-folg-0912-t06",
+          "title": "Kapitel 6 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 5,
+          "startTime": 431.797,
+          "duration": 92.139
+        },
+        {
+          "id": "diep-folg-0912-t07",
+          "title": "Kapitel 7 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 6,
+          "startTime": 523.936,
+          "duration": 91.073
+        },
+        {
+          "id": "diep-folg-0912-t08",
+          "title": "Kapitel 8 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 7,
+          "startTime": 615.009,
+          "duration": 93.591
+        },
+        {
+          "id": "diep-folg-0912-t09",
+          "title": "Kapitel 9 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 8,
+          "startTime": 708.6,
+          "duration": 113.54
+        },
+        {
+          "id": "diep-folg-0912-t10",
+          "title": "Kapitel 10 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 9,
+          "startTime": 822.14,
+          "duration": 105.169
+        },
+        {
+          "id": "diep-folg-0912-t11",
+          "title": "Kapitel 11 - Folge 100/5 - Der magische Ring: Brand im Dachstuhl",
+          "index": 10,
+          "startTime": 927.309,
+          "duration": 96.315
+        },
+        {
+          "id": "diep-folg-0912-t12",
+          "title": "Freunde (Titelsong)",
+          "index": 11,
+          "startTime": 1023.624,
+          "duration": 41.276
+        }
+      ]
+    },
+    {
+      "id": "1886673424",
+      "title": "Folge 100: Der magische Ring - Episode 6",
+      "episodeNumber": 100,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/91/30/119130dc-0321-ee94-56db-315c2bb136dd/4260229666142_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 1246.064,
+      "platforms": {
+        "appleMusic": "1886673424"
+      },
+      "chapters": [
+        {
+          "id": "diep-folg-3424-t01",
+          "title": "Kapitel 1 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 63.508
+        },
+        {
+          "id": "diep-folg-3424-t02",
+          "title": "Kapitel 2 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 1,
+          "startTime": 63.508,
+          "duration": 91.658
+        },
+        {
+          "id": "diep-folg-3424-t03",
+          "title": "Kapitel 3 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 2,
+          "startTime": 155.166,
+          "duration": 91.348
+        },
+        {
+          "id": "diep-folg-3424-t04",
+          "title": "Kapitel 4 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 3,
+          "startTime": 246.514,
+          "duration": 91.08
+        },
+        {
+          "id": "diep-folg-3424-t05",
+          "title": "Kapitel 5 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 4,
+          "startTime": 337.594,
+          "duration": 92.896
+        },
+        {
+          "id": "diep-folg-3424-t06",
+          "title": "Kapitel 6 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 5,
+          "startTime": 430.49,
+          "duration": 92.016
+        },
+        {
+          "id": "diep-folg-3424-t07",
+          "title": "Kapitel 7 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 6,
+          "startTime": 522.506,
+          "duration": 91.28
+        },
+        {
+          "id": "diep-folg-3424-t08",
+          "title": "Kapitel 8 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 7,
+          "startTime": 613.786,
+          "duration": 95.834
+        },
+        {
+          "id": "diep-folg-3424-t09",
+          "title": "Kapitel 9 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 8,
+          "startTime": 709.62,
+          "duration": 95.668
+        },
+        {
+          "id": "diep-folg-3424-t10",
+          "title": "Kapitel 10 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 9,
+          "startTime": 805.288,
+          "duration": 95.042
+        },
+        {
+          "id": "diep-folg-3424-t11",
+          "title": "Kapitel 11 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 10,
+          "startTime": 900.33,
+          "duration": 98.62
+        },
+        {
+          "id": "diep-folg-3424-t12",
+          "title": "Kapitel 12 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 11,
+          "startTime": 998.95,
+          "duration": 111.841
+        },
+        {
+          "id": "diep-folg-3424-t13",
+          "title": "Kapitel 13 - Folge 100/6 - Der magische Ring: Das finale Wikingerspiel",
+          "index": 12,
+          "startTime": 1110.791,
+          "duration": 93.997
+        },
+        {
+          "id": "diep-folg-3424-t14",
+          "title": "Freunde (Titelsong)",
+          "index": 13,
+          "startTime": 1204.788,
+          "duration": 41.276
+        }
+      ]
+    },
+    {
+      "id": "1888429198",
+      "title": "Folge 100: Der magische Ring - Episode 7",
+      "episodeNumber": 100,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/89/d9/ca89d932-addf-0c1e-f010-6e6797a4556e/4260229666166_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 1211.144,
+      "platforms": {
+        "appleMusic": "1888429198"
+      },
+      "chapters": [
+        {
+          "id": "diep-folg-9198-t01",
+          "title": "Kapitel 1 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 64.43
+        },
+        {
+          "id": "diep-folg-9198-t02",
+          "title": "Kapitel 2 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 1,
+          "startTime": 64.43,
+          "duration": 91.864
+        },
+        {
+          "id": "diep-folg-9198-t03",
+          "title": "Kapitel 3 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 2,
+          "startTime": 156.294,
+          "duration": 91.19
+        },
+        {
+          "id": "diep-folg-9198-t04",
+          "title": "Kapitel 4 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 3,
+          "startTime": 247.484,
+          "duration": 91.176
+        },
+        {
+          "id": "diep-folg-9198-t05",
+          "title": "Kapitel 5 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 4,
+          "startTime": 338.66,
+          "duration": 91.135
+        },
+        {
+          "id": "diep-folg-9198-t06",
+          "title": "Kapitel 6 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 5,
+          "startTime": 429.795,
+          "duration": 92.002
+        },
+        {
+          "id": "diep-folg-9198-t07",
+          "title": "Kapitel 7 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 6,
+          "startTime": 521.797,
+          "duration": 93.68
+        },
+        {
+          "id": "diep-folg-9198-t08",
+          "title": "Kapitel 8 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 7,
+          "startTime": 615.477,
+          "duration": 91.259
+        },
+        {
+          "id": "diep-folg-9198-t09",
+          "title": "Kapitel 9 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 8,
+          "startTime": 706.736,
+          "duration": 91.63
+        },
+        {
+          "id": "diep-folg-9198-t10",
+          "title": "Kapitel 10 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 9,
+          "startTime": 798.366,
+          "duration": 91.314
+        },
+        {
+          "id": "diep-folg-9198-t11",
+          "title": "Kapitel 11 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 10,
+          "startTime": 889.68,
+          "duration": 92.105
+        },
+        {
+          "id": "diep-folg-9198-t12",
+          "title": "Kapitel 12 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 11,
+          "startTime": 981.785,
+          "duration": 91.252
+        },
+        {
+          "id": "diep-folg-9198-t13",
+          "title": "Kapitel 13 - Folge 100/7 - Der magische Ring: Die große Schatzsuche",
+          "index": 12,
+          "startTime": 1073.037,
+          "duration": 96.831
+        },
+        {
+          "id": "diep-folg-9198-t14",
+          "title": "Freunde (Titelsong)",
+          "index": 13,
+          "startTime": 1169.868,
+          "duration": 41.276
+        }
+      ]
+    },
+    {
+      "id": "1891337424",
+      "title": "Folge 100: Der magische Ring - Episode 8",
+      "episodeNumber": 100,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/c9/35/b1c93513-77e4-3bb4-1014-24193b703230/4260229666180_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 1036.105,
+      "platforms": {
+        "appleMusic": "1891337424"
+      },
+      "chapters": [
+        {
+          "id": "diep-folg-7424-t01",
+          "title": "Kapitel 1 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 64.189
+        },
+        {
+          "id": "diep-folg-7424-t02",
+          "title": "Kapitel 2 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 1,
+          "startTime": 64.189,
+          "duration": 91.053
+        },
+        {
+          "id": "diep-folg-7424-t03",
+          "title": "Kapitel 3 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 2,
+          "startTime": 155.242,
+          "duration": 91.135
+        },
+        {
+          "id": "diep-folg-7424-t04",
+          "title": "Kapitel 4 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 3,
+          "startTime": 246.377,
+          "duration": 96.721
+        },
+        {
+          "id": "diep-folg-7424-t05",
+          "title": "Kapitel 5 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 4,
+          "startTime": 343.098,
+          "duration": 92.724
+        },
+        {
+          "id": "diep-folg-7424-t06",
+          "title": "Kapitel 6 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 5,
+          "startTime": 435.822,
+          "duration": 94.066
+        },
+        {
+          "id": "diep-folg-7424-t07",
+          "title": "Kapitel 7 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 6,
+          "startTime": 529.888,
+          "duration": 91.396
+        },
+        {
+          "id": "diep-folg-7424-t08",
+          "title": "Kapitel 8 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 7,
+          "startTime": 621.284,
+          "duration": 93.749
+        },
+        {
+          "id": "diep-folg-7424-t09",
+          "title": "Kapitel 9 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 8,
+          "startTime": 715.033,
+          "duration": 91.534
+        },
+        {
+          "id": "diep-folg-7424-t10",
+          "title": "Kapitel 10 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 9,
+          "startTime": 806.567,
+          "duration": 95.758
+        },
+        {
+          "id": "diep-folg-7424-t11",
+          "title": "Kapitel 11 - Folge 100/8 - Der magische Ring: Das Autorennen um den Vulkan",
+          "index": 10,
+          "startTime": 902.325,
+          "duration": 92.504
+        },
+        {
+          "id": "diep-folg-7424-t12",
+          "title": "Freunde (Titelsong)",
+          "index": 11,
+          "startTime": 994.829,
+          "duration": 41.276
+        }
+      ]
+    },
+    {
+      "id": "1892312149",
+      "title": "Folge 100: Der magische Ring - Episode 9",
+      "episodeNumber": 100,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/cd/ab/b1cdabfd-def4-5571-4b3a-d4d661ada5a3/4260229666203_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 1321.565,
+      "platforms": {
+        "appleMusic": "1892312149"
+      },
+      "chapters": [
+        {
+          "id": "diep-folg-2149-t01",
+          "title": "Kapitel 1 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 64.582
+        },
+        {
+          "id": "diep-folg-2149-t02",
+          "title": "Kapitel 2 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 1,
+          "startTime": 64.582,
+          "duration": 91.864
+        },
+        {
+          "id": "diep-folg-2149-t03",
+          "title": "Kapitel 3 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 2,
+          "startTime": 156.446,
+          "duration": 91.41
+        },
+        {
+          "id": "diep-folg-2149-t04",
+          "title": "Kapitel 4 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 3,
+          "startTime": 247.856,
+          "duration": 92.786
+        },
+        {
+          "id": "diep-folg-2149-t05",
+          "title": "Kapitel 5 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 4,
+          "startTime": 340.642,
+          "duration": 91.025
+        },
+        {
+          "id": "diep-folg-2149-t06",
+          "title": "Kapitel 6 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 5,
+          "startTime": 431.667,
+          "duration": 91.438
+        },
+        {
+          "id": "diep-folg-2149-t07",
+          "title": "Kapitel 7 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 6,
+          "startTime": 523.105,
+          "duration": 91.878
+        },
+        {
+          "id": "diep-folg-2149-t08",
+          "title": "Kapitel 8 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 7,
+          "startTime": 614.983,
+          "duration": 92.029
+        },
+        {
+          "id": "diep-folg-2149-t09",
+          "title": "Kapitel 9 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 8,
+          "startTime": 707.012,
+          "duration": 91.782
+        },
+        {
+          "id": "diep-folg-2149-t10",
+          "title": "Kapitel 10 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 9,
+          "startTime": 798.794,
+          "duration": 103.449
+        },
+        {
+          "id": "diep-folg-2149-t11",
+          "title": "Kapitel 11 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 10,
+          "startTime": 902.243,
+          "duration": 124.471
+        },
+        {
+          "id": "diep-folg-2149-t12",
+          "title": "Freunde (Titelsong)",
+          "index": 11,
+          "startTime": 1026.714,
+          "duration": 186.078
+        },
+        {
+          "id": "diep-folg-2149-t13",
+          "title": "Kapitel 12 - Folge 100/9 - Der magische Ring: Überfall auf die SWAT-Zentrale",
+          "index": 12,
+          "startTime": 1212.792,
+          "duration": 108.773
+        }
+      ]
+    },
+    {
       "id": "1458466092",
       "title": "Brief von Captain Tolle",
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/20/7f/21/207f21cf-6920-66f7-ea4b-76bcc718afeb/4260229662731_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein deutscher Hörspiel-Krimi über Captain Tolle.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1458466092"
@@ -27571,7 +27561,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ef/73/56/ef735640-fbd2-00f8-ffcd-3980999dc3af/4260229663394_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original Playmobil Hörspiel, das Abenteuer und Fantasy-Elemente für Kinder umfasst.",
+      "description": "",
       "totalDuration": 4832.427,
       "platforms": {
         "appleMusic": "1471385170"
@@ -27935,7 +27925,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/eb/67/94/eb6794ca-f893-ca45-df37-a6419d446991/4260229662243_1448.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel von Die Playmos mit dem Titel 'Das Versteck in der Goldmine'.",
+      "description": "",
       "totalDuration": 970.42,
       "platforms": {
         "appleMusic": "1310311310"
@@ -28005,7 +27995,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/00/ce/fc/00cefc8a-242f-b6b7-9038-6358e3fb27f1/4260229662168_1448.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Die Playmos - Der Schatz der Barbarenruine', das von den Playmos aufgeführt wird und acht Geschichten umfasst.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1273263822"
@@ -28018,7 +28008,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/80/92/3e809244-c1bc-a64f-a649-0ffd346adb75/4251234326329_1448.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel von Die Playmos mit acht Episoden, die sich mit den Erlebnissen der Playmos beschäftigen. Es richtet sich an ein junges Publikum und kombiniert Unterhaltung mit Bildung. Keine Beschreibung verfügbar.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1216140384"
@@ -28031,7 +28021,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/90/d2/7f/90d27fd5-6df7-2a66-6765-a828e1ce5c50/4260229663493_3000.jpg/100x100bb.jpg",
-      "description": "Das Album umfasst Hörspiele wie 'Die grosse Fussball-Box' und ist auf der Plattform für Hörbücher verfügbar.",
+      "description": "",
       "totalDuration": 4783.684,
       "platforms": {
         "appleMusic": "1475619689"
@@ -28395,7 +28385,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6a/70/c0/6a70c08e-cbbb-db48-f26e-b02436a786c2/4260229663332_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album aus der Playmobil Hörspiel-Reihe, das spannende Geschichten für Kinder bietet.",
+      "description": "",
       "totalDuration": 4817.087,
       "platforms": {
         "appleMusic": "1471417097"
@@ -28759,7 +28749,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/6c/b2/c36cb2b6-858a-b485-6407-d43029930bf7/4260229663356_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel veröffentlicht wurde, umfasst eine Reihe von Folgen aus dem Playmobil Hörspiel 'Die große Cowboy- und Indianer-Box'.",
+      "description": "",
       "totalDuration": 4755.733,
       "platforms": {
         "appleMusic": "1471418771"
@@ -29123,7 +29113,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bf/5f/f6/bf5ff638-5029-19e2-c685-76642a816d2b/4260229664483_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Playmobil Hörspiel, das Detektivgeschichten für Kinder beinhaltet.",
+      "description": "",
       "totalDuration": 4909.697,
       "platforms": {
         "appleMusic": "1558800313"
@@ -29487,7 +29477,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/98/d5/0098d53f-9d22-45e5-aacd-1243052099c3/4260229663363_3000.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel aus der Playmobil Reihe, das spannende Abenteuer um Drachen beinhaltet.",
+      "description": "",
       "totalDuration": 5058.3,
       "platforms": {
         "appleMusic": "1471396184"
@@ -29851,7 +29841,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c0/84/83/c0848324-2bcd-4e81-511c-37eb73f34204/4260229662489_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album von Playmobil, das ein Hörspiel enthält, das auf der Serie 'Die große Feuerwehr' basiert.",
+      "description": "",
       "totalDuration": 4825.32,
       "platforms": {
         "appleMusic": "1517172280"
@@ -30215,7 +30205,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f9/f7/d3/f9f7d388-43b1-f833-7b93-b991045e2e9d/4260229663318_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album von Playmobil mit Piraten-Themen, typisch für Kinderhörspiele.",
+      "description": "",
       "totalDuration": 6042.482,
       "platforms": {
         "appleMusic": "1471415217"
@@ -30579,7 +30569,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d8/95/11/d895110e-353a-d04b-bc33-d6a3de140c7c/4260229663349_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspielen, das Szenen aus Playmobil-Geschichten beinhaltet.",
+      "description": "",
       "totalDuration": 4889.747,
       "platforms": {
         "appleMusic": "1471410580"
@@ -30943,7 +30933,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fe/98/91/fe9891f6-7e21-59f0-516f-62c12eb52c5f/4260229665275_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album von Playmobil mit Hörspielen für Kinder.",
+      "description": "",
       "totalDuration": 4811.705,
       "platforms": {
         "appleMusic": "1677550267"
@@ -31307,7 +31297,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/33/c0/d2/33c0d27d-1c6e-b95e-2942-e082af9ffc07/4260229663325_3000.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel-Album, das von Playmobil produziert wurde und Geschichten für Kinder bietet.",
+      "description": "",
       "totalDuration": 6153.228,
       "platforms": {
         "appleMusic": "1471415249"
@@ -31671,7 +31661,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/db/4b/50db4b00-3ec4-708f-3767-f3b39bba827f/4260229665770_3000.jpg/100x100bb.jpg",
-      "description": "Ein Sammelalbum von Playmobil Hörspielen, umfasst mehrere Folgen des SWAT-Teams. Ideal für Fans von Playmobil und Hörspielgenuss.",
+      "description": "",
       "totalDuration": 4830.219,
       "platforms": {
         "appleMusic": "1740096931"
@@ -32035,7 +32025,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/98/53/95/9853956b-0424-f170-8d74-e876b9caaea3/4260229663837_3000.jpg/100x100bb.jpg",
-      "description": "Ein Album aus der Playmobil-Hörspielreihe, das auf Abenteuer und Science-Fiction im Weltall fokussiert ist.",
+      "description": "",
       "totalDuration": 4883.303,
       "platforms": {
         "appleMusic": "1496827583"
@@ -32399,7 +32389,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4c/d8/b6/4cd8b6ec-df19-b689-bb91-42a06c7eaed3/4260229663370_3000.jpg/100x100bb.jpg",
-      "description": "Das Album besteht aus Playmobil Hörspielen, die typischerweise für Kinder geeignet sind.",
+      "description": "",
       "totalDuration": 4825.783,
       "platforms": {
         "appleMusic": "1494683745"
@@ -32763,7 +32753,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/57/c2/14/57c21458-88e8-7437-a9ea-5e6bd8040efc/4260229662458_3000.jpg/100x100bb.jpg",
-      "description": "Das Album 'Im Land der Riesen' von Die Playmos ist ein Hörspiel. Es passt in die Genres Abenteuer und Fantasy.",
+      "description": "",
       "totalDuration": 1132.517,
       "platforms": {
         "appleMusic": "1523986029"
@@ -32840,7 +32830,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/9e/4b/35/9e4b359e-3639-6fea-9f5e-6cfdcf304e22/4260229661444_1448.jpg/100x100bb.jpg",
-      "description": "Das Album 'Sammelbox, Folgen 1-10 (Das Original Playmobil Hörspiel)' ist ein Hörspiel-Album, das die Abenteuer von Playmobil-Figuren erzählt. Es richtet sich an ein junges Publikum und enthält spannende Geschichten.",
+      "description": "",
       "totalDuration": 8180.808,
       "platforms": {
         "appleMusic": "1009104922"
@@ -33199,5 +33189,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T04:55:03Z"
+  "updatedAt": "2026-06-24T20:01:31.256910+00:00"
 }

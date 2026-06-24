@@ -1,0 +1,91 @@
+{
+  "seriesId": "die-wilden-kerle",
+  "title": "Die wilden Kerle",
+  "language": "de",
+  "author": "Die wilden Kerle",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1589989284",
+      "title": "Die wilden Kerle 1 - Das Hörspiel zum Kinofilm",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/59/f1/8859f143-af3f-7da2-37b4-cf29ec8dbd07/4066338327239_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1589989284"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1589989824",
+      "title": "Die wilden Kerle 2 - Das Hörspiel zum Kinofilm",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/2c/6d/8f2c6dc2-6446-e7b6-005d-74f5d56b843b/4066338327321_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1589989824"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1589991136",
+      "title": "Die wilden Kerle 3 - Das Hörspiel zum Kinofilm",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fa/19/ff/fa19ff61-c0ad-f6fb-1d0f-a4a71ddac2b6/4066338327345_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1589991136"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1589982198",
+      "title": "Die wilden Kerle 4 - Das Hörspiel zum Kinofilm",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/06/54/6d/06546d20-8411-3347-3c3e-1d34d48b763f/4066338327451_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1589982198"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1589988986",
+      "title": "Die wilden Kerle 5 - Das Hörspiel zum Kinofilm",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a1/fa/a3/a1faa321-78b8-1dee-da32-fcd75db7d9a2/4066338327505_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1589988986"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1589996688",
+      "title": "Die wilden Kerle 6 - Die Legende lebt - Das Hörspiel zum Kinofilm",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/dd/64/c3dd640f-2b6d-ba18-33a3-20da17790c41/4066338327512_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1589996688"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.785219+00:00"
+}

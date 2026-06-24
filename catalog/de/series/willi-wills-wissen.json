@@ -1,0 +1,26 @@
+{
+  "seriesId": "willi-wills-wissen",
+  "title": "Willi wills wissen",
+  "language": "de",
+  "author": "Willi wills wissen",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1619280390",
+      "title": "Willi und die Wunder dieser Welt (Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/b3/2c/c6b32cfa-3aca-32f7-6e4b-2e5ab8293e96/4260229664971_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1619280390"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.799077+00:00"
+}

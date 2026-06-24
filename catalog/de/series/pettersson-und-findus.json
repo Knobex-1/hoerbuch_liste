@@ -2,257 +2,21 @@
   "seriesId": "pettersson-und-findus",
   "title": "Pettersson und Findus",
   "language": "de",
-  "author": "",
+  "author": "Sven Nordqvist & Pettersson und Findus",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Kinder & Jugend",
+    "Hörspiel",
+    "Comedy"
   ],
   "albums": [
-    {
-      "id": "1463411408",
-      "title": "Folge 1: Eine Geburtstagstorte für die Katze + zwei weitere Geschichten (Das Original-Hörspiel zur TV-Serie)",
-      "episodeNumber": 1,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/58/1e/3e581e33-e451-5d04-aed2-aaa8b52acad4/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele basierend auf einer TV-Serie, die speziell für Kinder konzipiert ist.",
-      "totalDuration": 3491.107,
-      "platforms": {
-        "appleMusic": "1463411408"
-      },
-      "chapters": [
-        {
-          "id": "pett-folg-1408-t01",
-          "title": "Kapitel 1: Eine Geburtstagstorte für die Katze",
-          "index": 0,
-          "startTime": 0.0,
-          "duration": 113.12
-        },
-        {
-          "id": "pett-folg-1408-t02",
-          "title": "Kapitel 2: Eine Geburtstagstorte für die Katze",
-          "index": 1,
-          "startTime": 113.12,
-          "duration": 103.16
-        },
-        {
-          "id": "pett-folg-1408-t03",
-          "title": "Kapitel 3: Eine Geburtstagstorte für die Katze",
-          "index": 2,
-          "startTime": 216.28,
-          "duration": 112.8
-        },
-        {
-          "id": "pett-folg-1408-t04",
-          "title": "Kapitel 4: Eine Geburtstagstorte für die Katze",
-          "index": 3,
-          "startTime": 329.08,
-          "duration": 111.187
-        },
-        {
-          "id": "pett-folg-1408-t05",
-          "title": "Kapitel 5: Eine Geburtstagstorte für die Katze",
-          "index": 4,
-          "startTime": 440.267,
-          "duration": 110.027
-        },
-        {
-          "id": "pett-folg-1408-t06",
-          "title": "Kapitel 6: Eine Geburtstagstorte für die Katze",
-          "index": 5,
-          "startTime": 550.294,
-          "duration": 110.32
-        },
-        {
-          "id": "pett-folg-1408-t07",
-          "title": "Kapitel 7: Eine Geburtstagstorte für die Katze",
-          "index": 6,
-          "startTime": 660.614,
-          "duration": 105.84
-        },
-        {
-          "id": "pett-folg-1408-t08",
-          "title": "Kapitel 8: Eine Geburtstagstorte für die Katze",
-          "index": 7,
-          "startTime": 766.454,
-          "duration": 108.053
-        },
-        {
-          "id": "pett-folg-1408-t09",
-          "title": "Kapitel 9: Eine Geburtstagstorte für die Katze",
-          "index": 8,
-          "startTime": 874.507,
-          "duration": 101.773
-        },
-        {
-          "id": "pett-folg-1408-t10",
-          "title": "Kapitel 10: Eine Geburtstagstorte für die Katze",
-          "index": 9,
-          "startTime": 976.28,
-          "duration": 121.865
-        },
-        {
-          "id": "pett-folg-1408-t11",
-          "title": "Kapitel 1: Zirkus",
-          "index": 10,
-          "startTime": 1098.145,
-          "duration": 127.907
-        },
-        {
-          "id": "pett-folg-1408-t12",
-          "title": "Kapitel 2: Zirkus",
-          "index": 11,
-          "startTime": 1226.052,
-          "duration": 137.52
-        },
-        {
-          "id": "pett-folg-1408-t13",
-          "title": "Kapitel 3: Zirkus",
-          "index": 12,
-          "startTime": 1363.572,
-          "duration": 108.853
-        },
-        {
-          "id": "pett-folg-1408-t14",
-          "title": "Kapitel 4: Zirkus",
-          "index": 13,
-          "startTime": 1472.425,
-          "duration": 112.52
-        },
-        {
-          "id": "pett-folg-1408-t15",
-          "title": "Kapitel 5: Zirkus",
-          "index": 14,
-          "startTime": 1584.945,
-          "duration": 107.653
-        },
-        {
-          "id": "pett-folg-1408-t16",
-          "title": "Kapitel 6: Zirkus",
-          "index": 15,
-          "startTime": 1692.598,
-          "duration": 107.947
-        },
-        {
-          "id": "pett-folg-1408-t17",
-          "title": "Kapitel 7: Zirkus",
-          "index": 16,
-          "startTime": 1800.545,
-          "duration": 92.04
-        },
-        {
-          "id": "pett-folg-1408-t18",
-          "title": "Kapitel 8: Zirkus",
-          "index": 17,
-          "startTime": 1892.585,
-          "duration": 94.453
-        },
-        {
-          "id": "pett-folg-1408-t19",
-          "title": "Kapitel 9: Zirkus",
-          "index": 18,
-          "startTime": 1987.038,
-          "duration": 100.347
-        },
-        {
-          "id": "pett-folg-1408-t20",
-          "title": "Kapitel 10: Zirkus",
-          "index": 19,
-          "startTime": 2087.385,
-          "duration": 142.777
-        },
-        {
-          "id": "pett-folg-1408-t21",
-          "title": "Kapitel 1: Mondmänner und Katzonauten",
-          "index": 20,
-          "startTime": 2230.162,
-          "duration": 113.373
-        },
-        {
-          "id": "pett-folg-1408-t22",
-          "title": "Kapitel 2: Mondmänner und Katzonauten",
-          "index": 21,
-          "startTime": 2343.535,
-          "duration": 92.413
-        },
-        {
-          "id": "pett-folg-1408-t23",
-          "title": "Kapitel 3: Mondmänner und Katzonauten",
-          "index": 22,
-          "startTime": 2435.948,
-          "duration": 91.773
-        },
-        {
-          "id": "pett-folg-1408-t24",
-          "title": "Kapitel 4: Mondmänner und Katzonauten",
-          "index": 23,
-          "startTime": 2527.721,
-          "duration": 96.693
-        },
-        {
-          "id": "pett-folg-1408-t25",
-          "title": "Kapitel 5: Mondmänner und Katzonauten",
-          "index": 24,
-          "startTime": 2624.414,
-          "duration": 108.613
-        },
-        {
-          "id": "pett-folg-1408-t26",
-          "title": "Kapitel 6: Mondmänner und Katzonauten",
-          "index": 25,
-          "startTime": 2733.027,
-          "duration": 108.88
-        },
-        {
-          "id": "pett-folg-1408-t27",
-          "title": "Kapitel 7: Mondmänner und Katzonauten",
-          "index": 26,
-          "startTime": 2841.907,
-          "duration": 108.173
-        },
-        {
-          "id": "pett-folg-1408-t28",
-          "title": "Kapitel 8: Mondmänner und Katzonauten",
-          "index": 27,
-          "startTime": 2950.08,
-          "duration": 112.72
-        },
-        {
-          "id": "pett-folg-1408-t29",
-          "title": "Kapitel 9: Mondmänner und Katzonauten",
-          "index": 28,
-          "startTime": 3062.8,
-          "duration": 98.587
-        },
-        {
-          "id": "pett-folg-1408-t30",
-          "title": "Kapitel 10: Mondmänner und Katzonauten",
-          "index": 29,
-          "startTime": 3161.387,
-          "duration": 98.24
-        },
-        {
-          "id": "pett-folg-1408-t31",
-          "title": "Kapitel 11: Mondmänner und Katzonauten",
-          "index": 30,
-          "startTime": 3259.627,
-          "duration": 90.853
-        },
-        {
-          "id": "pett-folg-1408-t32",
-          "title": "Kapitel 12: Mondmänner und Katzonauten",
-          "index": 31,
-          "startTime": 3350.48,
-          "duration": 140.627
-        }
-      ]
-    },
     {
       "id": "1270116073",
       "title": "English Edition #1 (Das Original-Hörspiel zur TV-Serie) [Das Deutsch-Englische Hörspiel zur TV-Serie]",
       "episodeNumber": 1,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/33/d8/1633d8bf-3eeb-fa4d-5b65-7fa8af17615c/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Hörspiel-Album zur TV-Serie 'Pettersson und Findus' in deutscher Fassung. Es enthält insgesamt 35 Hörspieltracks.",
+      "description": "",
       "totalDuration": 4350.611,
       "platforms": {
         "appleMusic": "1270116073"
@@ -506,12 +270,250 @@
       ]
     },
     {
+      "id": "1463411408",
+      "title": "Folge 1: Eine Geburtstagstorte für die Katze + zwei weitere Geschichten (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/58/1e/3e581e33-e451-5d04-aed2-aaa8b52acad4/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 3491.107,
+      "platforms": {
+        "appleMusic": "1463411408"
+      },
+      "chapters": [
+        {
+          "id": "pett-folg-1408-t01",
+          "title": "Kapitel 1: Eine Geburtstagstorte für die Katze",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 113.12
+        },
+        {
+          "id": "pett-folg-1408-t02",
+          "title": "Kapitel 2: Eine Geburtstagstorte für die Katze",
+          "index": 1,
+          "startTime": 113.12,
+          "duration": 103.16
+        },
+        {
+          "id": "pett-folg-1408-t03",
+          "title": "Kapitel 3: Eine Geburtstagstorte für die Katze",
+          "index": 2,
+          "startTime": 216.28,
+          "duration": 112.8
+        },
+        {
+          "id": "pett-folg-1408-t04",
+          "title": "Kapitel 4: Eine Geburtstagstorte für die Katze",
+          "index": 3,
+          "startTime": 329.08,
+          "duration": 111.187
+        },
+        {
+          "id": "pett-folg-1408-t05",
+          "title": "Kapitel 5: Eine Geburtstagstorte für die Katze",
+          "index": 4,
+          "startTime": 440.267,
+          "duration": 110.027
+        },
+        {
+          "id": "pett-folg-1408-t06",
+          "title": "Kapitel 6: Eine Geburtstagstorte für die Katze",
+          "index": 5,
+          "startTime": 550.294,
+          "duration": 110.32
+        },
+        {
+          "id": "pett-folg-1408-t07",
+          "title": "Kapitel 7: Eine Geburtstagstorte für die Katze",
+          "index": 6,
+          "startTime": 660.614,
+          "duration": 105.84
+        },
+        {
+          "id": "pett-folg-1408-t08",
+          "title": "Kapitel 8: Eine Geburtstagstorte für die Katze",
+          "index": 7,
+          "startTime": 766.454,
+          "duration": 108.053
+        },
+        {
+          "id": "pett-folg-1408-t09",
+          "title": "Kapitel 9: Eine Geburtstagstorte für die Katze",
+          "index": 8,
+          "startTime": 874.507,
+          "duration": 101.773
+        },
+        {
+          "id": "pett-folg-1408-t10",
+          "title": "Kapitel 10: Eine Geburtstagstorte für die Katze",
+          "index": 9,
+          "startTime": 976.28,
+          "duration": 121.865
+        },
+        {
+          "id": "pett-folg-1408-t11",
+          "title": "Kapitel 1: Zirkus",
+          "index": 10,
+          "startTime": 1098.145,
+          "duration": 127.907
+        },
+        {
+          "id": "pett-folg-1408-t12",
+          "title": "Kapitel 2: Zirkus",
+          "index": 11,
+          "startTime": 1226.052,
+          "duration": 137.52
+        },
+        {
+          "id": "pett-folg-1408-t13",
+          "title": "Kapitel 3: Zirkus",
+          "index": 12,
+          "startTime": 1363.572,
+          "duration": 108.853
+        },
+        {
+          "id": "pett-folg-1408-t14",
+          "title": "Kapitel 4: Zirkus",
+          "index": 13,
+          "startTime": 1472.425,
+          "duration": 112.52
+        },
+        {
+          "id": "pett-folg-1408-t15",
+          "title": "Kapitel 5: Zirkus",
+          "index": 14,
+          "startTime": 1584.945,
+          "duration": 107.653
+        },
+        {
+          "id": "pett-folg-1408-t16",
+          "title": "Kapitel 6: Zirkus",
+          "index": 15,
+          "startTime": 1692.598,
+          "duration": 107.947
+        },
+        {
+          "id": "pett-folg-1408-t17",
+          "title": "Kapitel 7: Zirkus",
+          "index": 16,
+          "startTime": 1800.545,
+          "duration": 92.04
+        },
+        {
+          "id": "pett-folg-1408-t18",
+          "title": "Kapitel 8: Zirkus",
+          "index": 17,
+          "startTime": 1892.585,
+          "duration": 94.453
+        },
+        {
+          "id": "pett-folg-1408-t19",
+          "title": "Kapitel 9: Zirkus",
+          "index": 18,
+          "startTime": 1987.038,
+          "duration": 100.347
+        },
+        {
+          "id": "pett-folg-1408-t20",
+          "title": "Kapitel 10: Zirkus",
+          "index": 19,
+          "startTime": 2087.385,
+          "duration": 142.777
+        },
+        {
+          "id": "pett-folg-1408-t21",
+          "title": "Kapitel 1: Mondmänner und Katzonauten",
+          "index": 20,
+          "startTime": 2230.162,
+          "duration": 113.373
+        },
+        {
+          "id": "pett-folg-1408-t22",
+          "title": "Kapitel 2: Mondmänner und Katzonauten",
+          "index": 21,
+          "startTime": 2343.535,
+          "duration": 92.413
+        },
+        {
+          "id": "pett-folg-1408-t23",
+          "title": "Kapitel 3: Mondmänner und Katzonauten",
+          "index": 22,
+          "startTime": 2435.948,
+          "duration": 91.773
+        },
+        {
+          "id": "pett-folg-1408-t24",
+          "title": "Kapitel 4: Mondmänner und Katzonauten",
+          "index": 23,
+          "startTime": 2527.721,
+          "duration": 96.693
+        },
+        {
+          "id": "pett-folg-1408-t25",
+          "title": "Kapitel 5: Mondmänner und Katzonauten",
+          "index": 24,
+          "startTime": 2624.414,
+          "duration": 108.613
+        },
+        {
+          "id": "pett-folg-1408-t26",
+          "title": "Kapitel 6: Mondmänner und Katzonauten",
+          "index": 25,
+          "startTime": 2733.027,
+          "duration": 108.88
+        },
+        {
+          "id": "pett-folg-1408-t27",
+          "title": "Kapitel 7: Mondmänner und Katzonauten",
+          "index": 26,
+          "startTime": 2841.907,
+          "duration": 108.173
+        },
+        {
+          "id": "pett-folg-1408-t28",
+          "title": "Kapitel 8: Mondmänner und Katzonauten",
+          "index": 27,
+          "startTime": 2950.08,
+          "duration": 112.72
+        },
+        {
+          "id": "pett-folg-1408-t29",
+          "title": "Kapitel 9: Mondmänner und Katzonauten",
+          "index": 28,
+          "startTime": 3062.8,
+          "duration": 98.587
+        },
+        {
+          "id": "pett-folg-1408-t30",
+          "title": "Kapitel 10: Mondmänner und Katzonauten",
+          "index": 29,
+          "startTime": 3161.387,
+          "duration": 98.24
+        },
+        {
+          "id": "pett-folg-1408-t31",
+          "title": "Kapitel 11: Mondmänner und Katzonauten",
+          "index": 30,
+          "startTime": 3259.627,
+          "duration": 90.853
+        },
+        {
+          "id": "pett-folg-1408-t32",
+          "title": "Kapitel 12: Mondmänner und Katzonauten",
+          "index": 31,
+          "startTime": 3350.48,
+          "duration": 140.627
+        }
+      ]
+    },
+    {
       "id": "1463411535",
       "title": "Folge 2: Ein Feuerwerk für den Fuchs / Armer Pettersson / Pettersson zeltet (Das Original-Hörspiel zur TV-Serie)",
       "episodeNumber": 2,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/7d/46/0e7d4681-3eef-f950-6ba9-c3cc89dc1fe8/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie \"Pettersson und Findus\". Es enthält insgesamt 26 Hörspiel-Tracks.",
+      "description": "",
       "totalDuration": 2964.495,
       "platforms": {
         "appleMusic": "1463411535"
@@ -707,7 +709,7 @@
       "episodeNumber": 3,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/eb/01/19eb017d-394d-c203-4483-4789627052c3/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele basierend auf der TV-Serie 'Pettersson und Findus', ideal für Kinder.",
+      "description": "",
       "totalDuration": 3191.609,
       "platforms": {
         "appleMusic": "1463412935"
@@ -917,7 +919,7 @@
       "episodeNumber": 4,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/11/12/19/1112196f-dc91-9cb4-3931-9562bb824250/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Pettersson und Findus', bestehend aus vier Folgen, darunter 'Die Elchjagd', und weiteren Geschichten. Es ist ein Hörspiel-Album für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 4007.197,
       "platforms": {
         "appleMusic": "1463413329"
@@ -1176,7 +1178,7 @@
       "episodeNumber": 5,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d4/94/ba/d494baa4-860d-62d6-9ac6-f563d7644c29/cover.jpg/100x100bb.jpg",
-      "description": "Ein deutscher Hörspiel-Album, das Geschichten rund um die Figur Pettersson und Findus beinhaltet.",
+      "description": "",
       "totalDuration": 3248.94,
       "platforms": {
         "appleMusic": "1463419480"
@@ -1393,7 +1395,7 @@
       "episodeNumber": 6,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/89/48/eb/8948ebc4-231b-b6fa-5f06-b64365cc9387/cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit Geschichten, das zur TV-Serie passt.",
+      "description": "",
       "totalDuration": 4070.154,
       "platforms": {
         "appleMusic": "1463414021"
@@ -1652,7 +1654,7 @@
       "episodeNumber": 7,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9e/60/1c/9e601c31-a168-38de-6392-29a17ebe8a2d/cover.jpg/100x100bb.jpg",
-      "description": "Ein Teil einer Hörspielreihe um den Weihnachtsmann, Teil 1 der Serie 'Pettersson und Findus' für Kinder.",
+      "description": "",
       "totalDuration": 2781.561,
       "platforms": {
         "appleMusic": "1463414019"
@@ -1841,7 +1843,7 @@
       "episodeNumber": 8,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/56/9d/29/569d2916-7568-984d-0043-666b729c1667/cover.jpg/100x100bb.jpg",
-      "description": "Ein Album aus dem Genre Hörspiele, das Teil einer Serie ist, typischerweise mit deutschsprachigem Inhalt.",
+      "description": "",
       "totalDuration": 3381.931,
       "platforms": {
         "appleMusic": "1463619276"
@@ -2058,7 +2060,7 @@
       "episodeNumber": 9,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/e7/d2/76e7d225-6dd6-23ec-ce4c-dff059c5aca3/cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspielalbum mit dem Titel 'Folge 9: Überraschung für Pettersson', das das Original-Hörspiel zur TV-Serie 'Pettersson und Findus' ist.",
+      "description": "",
       "totalDuration": 3543.715,
       "platforms": {
         "appleMusic": "1565136648"
@@ -2191,7 +2193,7 @@
       "episodeNumber": 10,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/28/40/fb284042-95ea-005f-b3c2-7dea6c73d773/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Findus und das eigene Fahrrad' von Pettersson und Findus. Es enthält 16 Hörspiel-Tracks.",
+      "description": "",
       "totalDuration": 3526.16,
       "platforms": {
         "appleMusic": "1565136467"
@@ -2317,7 +2319,7 @@
       "episodeNumber": 11,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/38/46/92/3846925f-611f-80e0-44bb-431cde03c028/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Hörspiel 'Folge 11: Fia und der Hühnerfloh', das zur TV-Serie 'Pettersson und Findus' gehört und ist Teil eines Hörspiel-Albums.",
+      "description": "",
       "totalDuration": 3229.364,
       "platforms": {
         "appleMusic": "1588399520"
@@ -2436,8 +2438,8 @@
       "episodeNumber": 12,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/d5/5b/6bd55b37-ae5b-54f4-cf85-62e9ccf97547/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Originalhörspiel zur TV-Serie 'Duell unterm Kirschbaum'. Es enthält 19 Episoden, die sich in einem spannenden Abenteuer entfalten.",
-      "totalDuration": 4017.086,
+      "description": "",
+      "totalDuration": 4017.0860000000002,
       "platforms": {
         "appleMusic": "1588398502"
       },
@@ -2583,7 +2585,7 @@
       "episodeNumber": 13,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/0c/ab/450cabd3-1585-767d-b8dd-c5b3ec08dec4/cover.jpg/100x100bb.jpg",
-      "description": "Das Album enthält Hörspiele, die aus der TV-Serie 'Pettersson und Findus' stammen.",
+      "description": "",
       "totalDuration": 2855.233,
       "platforms": {
         "appleMusic": "1599694687"
@@ -2688,7 +2690,7 @@
       "episodeNumber": 14,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/f2/f8/aaf2f84b-d972-1e96-4040-a841221a3cd2/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist das Original-Hörspiel zur TV-Serie 'Pettersson und Findus', das auf iTunes erhältlich ist.",
+      "description": "",
       "totalDuration": 2992.141,
       "platforms": {
         "appleMusic": "1598609936"
@@ -2800,7 +2802,7 @@
       "episodeNumber": 15,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/77/4b/27774b87-edec-87f1-7c6a-deffa9cbff30/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel zur TV-Serie 'Das Denk-Dran-Taschentuch' von Pettersson und Findus.",
+      "description": "",
       "totalDuration": 2852.891,
       "platforms": {
         "appleMusic": "1609253390"
@@ -2905,8 +2907,8 @@
       "episodeNumber": 16,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/3f/ae/5c3fae4d-a9ca-0ff9-d5aa-18662ae31d81/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel zur TV-Serie 'Pettersson und Findus', das sich auf die Erzählform spezialisiert.",
-      "totalDuration": 3606.769,
+      "description": "",
+      "totalDuration": 3606.7690000000002,
       "platforms": {
         "appleMusic": "1609285871"
       },
@@ -3031,7 +3033,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/fe/d1/71fed1fa-78d1-73b3-2357-e4e0dfa05441/4057664423399_cover.jpg/100x100bb.jpg",
-      "description": "Ein Album, das Hörspiele umfasst und von bekannten Charakteren aus Schweden erzählt, passt gut zur Kategorie Kinder & Jugend.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701347434"
@@ -3044,7 +3046,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/fc/70/b5fc70aa-03aa-cd06-4d52-b8bd581e3278/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel von Pettersson und Findus, das sich mit dem Thema des menschlichen Körpers beschäftigt. Es bietet eine interaktive Erzählung, die Kindern hilft, die Anatomie zu verstehen.",
+      "description": "",
       "totalDuration": 3224.302,
       "platforms": {
         "appleMusic": "1739781043"
@@ -3177,7 +3179,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1e/d5/92/1ed592c9-673d-c6e4-e990-a4cd58d050ab/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die sich mit wissenschaftlichen Themen wie dem Urknall befassen.",
+      "description": "",
       "totalDuration": 3430.389,
       "platforms": {
         "appleMusic": "1721273472"
@@ -3317,7 +3319,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6a/79/3a/6a793a38-4f88-1936-0044-c35010e93fb6/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die sich mit pädagogischen Themen beschäftigen, wie z.B. 'Findus erklärt die Welt'.",
+      "description": "",
       "totalDuration": 3207.561,
       "platforms": {
         "appleMusic": "1735987280"
@@ -3450,7 +3452,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/d1/8a/fbd18a8c-0342-8a31-aeb2-d59df3547e4a/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die sich an Kinder richten und spannende Geschichten erzählen.",
+      "description": "",
       "totalDuration": 3395.512,
       "platforms": {
         "appleMusic": "1777073692"
@@ -3583,7 +3585,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/27/ef/b527efa9-6f15-0f6f-f7d0-54aa8b14e7a2/cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel, das die Natur mit Findus und Pettersson erklärt. Ideal für Kinder.",
+      "description": "",
       "totalDuration": 3888.774,
       "platforms": {
         "appleMusic": "1492436426"
@@ -3912,7 +3914,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/61/1f/20611f84-9333-1791-92cc-4ea5292969a8/cover.jpg/100x100bb.jpg",
-      "description": "Ein Album mit Hörspielen, das pädagogische Themen wie 'Kluge Köpfe' behandelt und Kinder ansprechen könnte.",
+      "description": "",
       "totalDuration": 3297.526,
       "platforms": {
         "appleMusic": "1843732997"
@@ -4045,7 +4047,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/e6/c2/36e6c2ee-e34d-ba57-a1de-fc335318a39d/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Inhalte, die das Gartenjahr von Findus im Frühling und Sommer thematisieren.",
+      "description": "",
       "totalDuration": 5447.266,
       "platforms": {
         "appleMusic": "1672015790"
@@ -4248,7 +4250,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/9f/e9/759fe9b7-d766-3810-0d6d-e22c3204373f/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel, das das Leben im Garten erklärt und sich auf die Jahreszeiten Herbst und Winter konzentriert.",
+      "description": "",
       "totalDuration": 5339.242,
       "platforms": {
         "appleMusic": "1705281223"
@@ -4451,7 +4453,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/e7/a4/aae7a42b-b533-88df-a183-cc6c247b833f/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspielalbum für Kinder, das auf Experimente und Erfindungen basiert.",
+      "description": "",
       "totalDuration": 4631.791,
       "platforms": {
         "appleMusic": "1621738060"
@@ -4605,7 +4607,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/e4/52/0be452da-8969-962e-7510-01cc3273969c/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiel-Tracks von 'Findus erklärt die Welt' über Schmutz und Katzenwäsche.",
+      "description": "",
       "totalDuration": 3356.224,
       "platforms": {
         "appleMusic": "1829438492"
@@ -4738,7 +4740,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c8/fb/63/c8fb6325-edf4-49d7-72ac-12685a11a14d/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Original-Hörspiel, das zum Naturbuch 'Findus erklärt die Welt: Tiere entdecken in Wald und Wiese' gehört und sich auf Kinder und Jugend richtet.",
+      "description": "",
       "totalDuration": 4142.118,
       "platforms": {
         "appleMusic": "1529635536"
@@ -4927,7 +4929,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/62/cc/e562ccc8-2ce2-ac3a-90e4-5b1fa897893b/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel von Pettersson und Findus, das sich mit Themen wie Tieren im Wasser und an Land beschäftigt. Es richtet sich an ein junges Publikum und vermittelt Wissen spielerisch.",
+      "description": "",
       "totalDuration": 3378.425,
       "platforms": {
         "appleMusic": "1774009601"
@@ -5060,7 +5062,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/81/d8/bc81d80f-77a2-96a6-6f2a-00ab80a8f5f6/4057664424723_cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel mit dem Titel 'Findus zieht um', das von bekannten deutschen Sprechern und Künstlern erzählt wird. Es richtet sich an ein junges Publikum und bietet Unterhaltung und Geschichten für Kinder.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701350651"
@@ -5073,7 +5075,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/94/3e/b9/943eb945-dfc5-3703-83b2-b3de36a5c248/cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel basierend auf dem Kinofilm \"Pettersson und Findus\" mit vielen Episoden, ideal für Kinder.",
+      "description": "",
       "totalDuration": 4076.542,
       "platforms": {
         "appleMusic": "1463595195"
@@ -5360,7 +5362,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3e/f4/cc/3ef4cc70-1f2e-c408-b636-e45fb4b917a1/cover.jpg/100x100bb.jpg",
-      "description": "Ein Album, das als Hörspiel vermarktet wird, ist typischerweise für Kinder geeignet und richtet sich an ein junges Publikum.",
+      "description": "",
       "totalDuration": 4851.775,
       "platforms": {
         "appleMusic": "1483234611"
@@ -5724,7 +5726,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bf/16/df/bf16df34-4cb1-13e5-d4b7-fddcb31601d5/cover.jpg/100x100bb.jpg",
-      "description": "Das Album enthält das Original-Hörspiel zum Kinofilm 'Findus'.",
+      "description": "",
       "totalDuration": 4006.871,
       "platforms": {
         "appleMusic": "1463595135"
@@ -5990,7 +5992,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/53/86/d2/5386d278-2488-98a0-8a8c-ef3367a15cdf/cover.jpg/100x100bb.jpg",
-      "description": "Das Album enthält das Original-Hörspiel zum Kinofilm 'Neues von Pettersson und Findus'.",
+      "description": "",
       "totalDuration": 3622.479,
       "platforms": {
         "appleMusic": "1463596352"
@@ -6242,7 +6244,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/53/04/3e53042f-2088-80ee-7903-b95b8d8f4b3d/cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält das Original-Hörspiel basierend auf dem bekannten Kinofilm 'Pettersson und Findus'. Es bietet eine spannende und unterhaltsame Geschichte für Kinder und Jugendliche.",
+      "description": "",
       "totalDuration": 3598.387,
       "platforms": {
         "appleMusic": "1463571162"
@@ -6480,7 +6482,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/6d/6f/d06d6f1e-5ca9-1c45-604d-a555283a0a2e/4057664423467_cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel basierend auf den bekannten Geschichten von Sven Nordqvist über Pettersson und Findus, das auf Englisch veröffentlicht wurde. Es passt zu den Genres Kinder & Jugend.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701347483"
@@ -6493,7 +6495,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/01/04/5a010437-faa6-80d7-a810-9c12b63ec187/4057664421890_cover.jpg/100x100bb.jpg",
-      "description": "Das Album 'Pettersson und Findus. Das schönste Weihnachten überhaupt' ist ein Hörspielalbum, das die Abenteuer des berühmten Pinguins Pettersson und seines Freundes Findus während der Weihnachtszeit erzählt.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1728520713"
@@ -6506,7 +6508,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/9a/ea/c19aeaf4-732f-b624-0ca5-0ce662f1f874/4057664423474_cover.jpg/100x100bb.jpg",
-      "description": "Das Album beinhaltet Hörspiele des bekannten Kinderbuchs 'Pettersson und Findus' und ist somit auf Unterhaltung für Kinder ausgerichtet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701347073"
@@ -6519,7 +6521,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/e1/20/7ee12028-4b6d-dcdd-334d-98ffa6a379d3/4057664423498_cover.jpg/100x100bb.jpg",
-      "description": "Das Album beinhaltet Hörspiele von Pettersson und Findus, einem bekannten Kinderbuch-Franchise in Schweden.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701350362"
@@ -6532,7 +6534,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/0e/62/470e6234-8ec2-828c-c1cb-5b3d4fc72daf/9783837395075_cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album ist ein Hörspiel von 'Pettersson und Findus', das die Abenteuer des berühmten Hundes Findus erzählt. Es enthält insgesamt 24 Geschichten, die auf spannende Weise erzählt werden.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701347669"
@@ -6545,7 +6547,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/b0/95/15b095a6-3578-e346-3887-59aa3de02b17/4057664424143_cover.jpg/100x100bb.jpg",
-      "description": "Ein Hörspiel über die Freundschaft zwischen Pettersson und Findus.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701351660"
@@ -6558,7 +6560,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/98/4f/5c/984f5c6d-71a0-05da-94de-6a05f0c3318a/4057664423528_cover.jpg/100x100bb.jpg",
-      "description": "Ein Album von Hörspielen, das die Geschichte von Pettersson und Findus beinhaltet.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701347950"
@@ -6571,7 +6573,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f9/9b/3f/f99b3f8d-bef2-f319-6251-de41123f7129/4057664423207_cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele, die sich um die Geschichte von Pettersson und Findus drehen, was typisch für deutsche Hörspiele für Kinder ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701347447"
@@ -6584,7 +6586,7 @@
       "episodeNumber": null,
       "releaseDate": null,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/85/59/6d855957-4213-44ab-a778-abfe2827a1f6/9783837393552_cover.jpg/100x100bb.jpg",
-      "description": "Dieses Album enthält Hörspiele und ist von Sven Nordqvist und Pettersson und Findus, was typisch für deutsche Kinderhörspiele ist.",
+      "description": "",
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1701347820"
@@ -6592,5 +6594,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-05-28T21:41:22Z"
+  "updatedAt": "2026-06-24T20:01:31.231931+00:00"
 }

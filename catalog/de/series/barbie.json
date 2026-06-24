@@ -1,0 +1,26 @@
+{
+  "seriesId": "barbie",
+  "title": "Barbie",
+  "language": "de",
+  "author": "Barbie",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1651848741",
+      "title": "Meerjungfrauen Power (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/de/9c/d5de9c49-c133-d03f-3c6b-5b855b368ff6/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1651848741"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.678815+00:00"
+}

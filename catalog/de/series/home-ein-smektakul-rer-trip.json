@@ -1,0 +1,26 @@
+{
+  "seriesId": "home-ein-smektakul-rer-trip",
+  "title": "Home - Ein Smektakulärer Trip",
+  "language": "de",
+  "author": "Home - Ein Smektakulärer Trip",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1126290867",
+      "title": "Home - Ein smektakulärer Trip (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f9/27/7e/f9277eb4-1c3a-8de4-54a1-6ce9c3f801f2/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1126290867"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.790544+00:00"
+}

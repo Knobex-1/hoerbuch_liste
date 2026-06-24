@@ -2,376 +2,3062 @@
   "seriesId": "folge",
   "title": "Folge",
   "language": "de",
-  "author": "Fünf Freunde",
+  "author": "Arthur Conan Doyle",
   "narrator": "",
   "genres": [
-    "Hörspiel"
+    "Hörspiel",
+    "Krimi"
   ],
   "albums": [
     {
-      "id": "1349181673",
-      "title": "Fünf Freunde und das Tal der Dinosaurier",
-      "episodeNumber": null,
+      "id": "1002490124",
+      "title": "Folge 7: verfolgen die Strandräuber",
+      "episodeNumber": 7,
       "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a5/c4/11/a5c411d4-ae57-2f33-08bc-e20c696a6835/886446839158.jpg/600x600bb.jpg",
-      "description": "4 Belege. Inhaltsverzeichnis umschalten. Fünf Freunde und das Tal der Dinosaurier.Er basiert, wie die vorherigen Teile, auf der Kinderbuchserie Fünf Freunde von Enid Blyton, folgt jedoch keiner Handlung der von ihr veröffentlichten Bücher.",
-      "totalDuration": 4888,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ee/fc/ac/eefcacbc-0fff-84a4-fc8a-8e74c74c2cba/886445130379.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 2694.013,
       "platforms": {
-        "appleMusic": "1349181673"
+        "appleMusic": "1002490124"
       },
       "chapters": [
         {
-          "id": "ff-dino-t01",
-          "title": "Teil 1",
+          "id": "fnff-folg-0124-t01",
+          "title": "007 - verfolgen die Strandräuber (Teil 01)",
           "index": 0,
-          "startTime": 0,
-          "duration": 98
+          "startTime": 0.0,
+          "duration": 108.587
         },
         {
-          "id": "ff-dino-t02",
-          "title": "Teil 2",
+          "id": "fnff-folg-0124-t02",
+          "title": "007 - verfolgen die Strandräuber (Teil 02)",
           "index": 1,
-          "startTime": 98,
-          "duration": 98
+          "startTime": 108.587,
+          "duration": 66.32
         },
         {
-          "id": "ff-dino-t03",
-          "title": "Teil 3",
+          "id": "fnff-folg-0124-t03",
+          "title": "007 - verfolgen die Strandräuber (Teil 03)",
           "index": 2,
-          "startTime": 196,
-          "duration": 97
+          "startTime": 174.907,
+          "duration": 61.813
         },
         {
-          "id": "ff-dino-t04",
-          "title": "Teil 4",
+          "id": "fnff-folg-0124-t04",
+          "title": "007 - verfolgen die Strandräuber (Teil 04)",
           "index": 3,
-          "startTime": 293,
-          "duration": 98
+          "startTime": 236.72,
+          "duration": 69.347
         },
         {
-          "id": "ff-dino-t05",
-          "title": "Teil 5",
+          "id": "fnff-folg-0124-t05",
+          "title": "007 - verfolgen die Strandräuber (Teil 05)",
           "index": 4,
-          "startTime": 391,
-          "duration": 98
+          "startTime": 306.067,
+          "duration": 64.827
         },
         {
-          "id": "ff-dino-t06",
-          "title": "Teil 6",
+          "id": "fnff-folg-0124-t06",
+          "title": "007 - verfolgen die Strandräuber (Teil 06)",
           "index": 5,
-          "startTime": 489,
-          "duration": 98
+          "startTime": 370.894,
+          "duration": 68.72
         },
         {
-          "id": "ff-dino-t07",
-          "title": "Teil 7",
+          "id": "fnff-folg-0124-t07",
+          "title": "007 - verfolgen die Strandräuber (Teil 07)",
           "index": 6,
-          "startTime": 587,
-          "duration": 97
+          "startTime": 439.614,
+          "duration": 65.467
         },
         {
-          "id": "ff-dino-t08",
-          "title": "Teil 8",
+          "id": "fnff-folg-0124-t08",
+          "title": "007 - verfolgen die Strandräuber (Teil 08)",
           "index": 7,
-          "startTime": 684,
-          "duration": 98
+          "startTime": 505.081,
+          "duration": 66.613
         },
         {
-          "id": "ff-dino-t09",
-          "title": "Teil 9",
+          "id": "fnff-folg-0124-t09",
+          "title": "007 - verfolgen die Strandräuber (Teil 09)",
           "index": 8,
-          "startTime": 782,
-          "duration": 98
+          "startTime": 571.694,
+          "duration": 68.133
         },
         {
-          "id": "ff-dino-t10",
-          "title": "Teil 10",
+          "id": "fnff-folg-0124-t10",
+          "title": "007 - verfolgen die Strandräuber (Teil 10)",
           "index": 9,
-          "startTime": 880,
-          "duration": 98
+          "startTime": 639.827,
+          "duration": 64.507
         },
         {
-          "id": "ff-dino-t11",
-          "title": "Teil 11",
+          "id": "fnff-folg-0124-t11",
+          "title": "007 - verfolgen die Strandräuber (Teil 11)",
           "index": 10,
-          "startTime": 978,
-          "duration": 97
+          "startTime": 704.334,
+          "duration": 66.36
         },
         {
-          "id": "ff-dino-t12",
-          "title": "Teil 12",
+          "id": "fnff-folg-0124-t12",
+          "title": "007 - verfolgen die Strandräuber (Teil 12)",
           "index": 11,
-          "startTime": 1075,
-          "duration": 98
+          "startTime": 770.694,
+          "duration": 66.973
         },
         {
-          "id": "ff-dino-t13",
-          "title": "Teil 13",
+          "id": "fnff-folg-0124-t13",
+          "title": "007 - verfolgen die Strandräuber (Teil 13)",
           "index": 12,
-          "startTime": 1173,
-          "duration": 98
+          "startTime": 837.667,
+          "duration": 64.68
         },
         {
-          "id": "ff-dino-t14",
-          "title": "Teil 14",
+          "id": "fnff-folg-0124-t14",
+          "title": "007 - verfolgen die Strandräuber (Teil 14)",
           "index": 13,
-          "startTime": 1271,
-          "duration": 98
+          "startTime": 902.347,
+          "duration": 68.733
         },
         {
-          "id": "ff-dino-t15",
-          "title": "Teil 15",
+          "id": "fnff-folg-0124-t15",
+          "title": "007 - verfolgen die Strandräuber (Teil 15)",
           "index": 14,
-          "startTime": 1369,
-          "duration": 97
+          "startTime": 971.08,
+          "duration": 65.48
         },
         {
-          "id": "ff-dino-t16",
-          "title": "Teil 16",
+          "id": "fnff-folg-0124-t16",
+          "title": "007 - verfolgen die Strandräuber (Teil 16)",
           "index": 15,
-          "startTime": 1466,
-          "duration": 98
+          "startTime": 1036.56,
+          "duration": 65.293
         },
         {
-          "id": "ff-dino-t17",
-          "title": "Teil 17",
+          "id": "fnff-folg-0124-t17",
+          "title": "007 - verfolgen die Strandräuber (Teil 17)",
           "index": 16,
-          "startTime": 1564,
-          "duration": 98
+          "startTime": 1101.853,
+          "duration": 67.107
         },
         {
-          "id": "ff-dino-t18",
-          "title": "Teil 18",
+          "id": "fnff-folg-0124-t18",
+          "title": "007 - verfolgen die Strandräuber (Teil 18)",
           "index": 17,
-          "startTime": 1662,
-          "duration": 98
+          "startTime": 1168.96,
+          "duration": 65.213
         },
         {
-          "id": "ff-dino-t19",
-          "title": "Teil 19",
+          "id": "fnff-folg-0124-t19",
+          "title": "007 - verfolgen die Strandräuber (Teil 19)",
           "index": 18,
-          "startTime": 1760,
-          "duration": 97
+          "startTime": 1234.173,
+          "duration": 66.827
         },
         {
-          "id": "ff-dino-t20",
-          "title": "Teil 20",
+          "id": "fnff-folg-0124-t20",
+          "title": "007 - verfolgen die Strandräuber (Teil 20)",
           "index": 19,
-          "startTime": 1857,
-          "duration": 98
+          "startTime": 1301.0,
+          "duration": 64.493
         },
         {
-          "id": "ff-dino-t21",
-          "title": "Teil 21",
+          "id": "fnff-folg-0124-t21",
+          "title": "007 - verfolgen die Strandräuber (Teil 21)",
           "index": 20,
-          "startTime": 1955,
-          "duration": 98
+          "startTime": 1365.493,
+          "duration": 66.56
         },
         {
-          "id": "ff-dino-t22",
-          "title": "Teil 22",
+          "id": "fnff-folg-0124-t22",
+          "title": "007 - verfolgen die Strandräuber (Teil 22)",
           "index": 21,
-          "startTime": 2053,
-          "duration": 98
+          "startTime": 1432.053,
+          "duration": 66.24
         },
         {
-          "id": "ff-dino-t23",
-          "title": "Teil 23",
+          "id": "fnff-folg-0124-t23",
+          "title": "007 - verfolgen die Strandräuber (Teil 23)",
           "index": 22,
-          "startTime": 2151,
-          "duration": 97
+          "startTime": 1498.293,
+          "duration": 67.613
         },
         {
-          "id": "ff-dino-t24",
-          "title": "Teil 24",
+          "id": "fnff-folg-0124-t24",
+          "title": "007 - verfolgen die Strandräuber (Teil 24)",
           "index": 23,
-          "startTime": 2248,
-          "duration": 98
+          "startTime": 1565.906,
+          "duration": 70.813
         },
         {
-          "id": "ff-dino-t25",
-          "title": "Teil 25",
+          "id": "fnff-folg-0124-t25",
+          "title": "007 - verfolgen die Strandräuber (Teil 25)",
           "index": 24,
-          "startTime": 2346,
-          "duration": 98
+          "startTime": 1636.719,
+          "duration": 62.68
         },
         {
-          "id": "ff-dino-t26",
-          "title": "Teil 26",
+          "id": "fnff-folg-0124-t26",
+          "title": "007 - verfolgen die Strandräuber (Teil 26)",
           "index": 25,
-          "startTime": 2444,
-          "duration": 98
+          "startTime": 1699.399,
+          "duration": 64.947
         },
         {
-          "id": "ff-dino-t27",
-          "title": "Teil 27",
+          "id": "fnff-folg-0124-t27",
+          "title": "007 - verfolgen die Strandräuber (Teil 27)",
           "index": 26,
-          "startTime": 2542,
-          "duration": 98
+          "startTime": 1764.346,
+          "duration": 68.52
         },
         {
-          "id": "ff-dino-t28",
-          "title": "Teil 28",
+          "id": "fnff-folg-0124-t28",
+          "title": "007 - verfolgen die Strandräuber (Teil 28)",
           "index": 27,
-          "startTime": 2640,
-          "duration": 97
+          "startTime": 1832.866,
+          "duration": 64.613
         },
         {
-          "id": "ff-dino-t29",
-          "title": "Teil 29",
+          "id": "fnff-folg-0124-t29",
+          "title": "007 - verfolgen die Strandräuber (Teil 29)",
           "index": 28,
-          "startTime": 2737,
-          "duration": 98
+          "startTime": 1897.479,
+          "duration": 65.333
         },
         {
-          "id": "ff-dino-t30",
-          "title": "Teil 30",
+          "id": "fnff-folg-0124-t30",
+          "title": "007 - verfolgen die Strandräuber (Teil 30)",
           "index": 29,
-          "startTime": 2835,
-          "duration": 98
+          "startTime": 1962.812,
+          "duration": 65.88
         },
         {
-          "id": "ff-dino-t31",
-          "title": "Teil 31",
+          "id": "fnff-folg-0124-t31",
+          "title": "007 - verfolgen die Strandräuber (Teil 31)",
           "index": 30,
-          "startTime": 2933,
-          "duration": 98
+          "startTime": 2028.692,
+          "duration": 66.307
         },
         {
-          "id": "ff-dino-t32",
-          "title": "Teil 32",
+          "id": "fnff-folg-0124-t32",
+          "title": "007 - verfolgen die Strandräuber (Teil 32)",
           "index": 31,
-          "startTime": 3031,
-          "duration": 97
+          "startTime": 2094.999,
+          "duration": 68.613
         },
         {
-          "id": "ff-dino-t33",
-          "title": "Teil 33",
+          "id": "fnff-folg-0124-t33",
+          "title": "007 - verfolgen die Strandräuber (Teil 33)",
           "index": 32,
-          "startTime": 3128,
-          "duration": 98
+          "startTime": 2163.612,
+          "duration": 66.307
         },
         {
-          "id": "ff-dino-t34",
-          "title": "Teil 34",
+          "id": "fnff-folg-0124-t34",
+          "title": "007 - verfolgen die Strandräuber (Teil 34)",
           "index": 33,
-          "startTime": 3226,
-          "duration": 98
+          "startTime": 2229.919,
+          "duration": 65.4
         },
         {
-          "id": "ff-dino-t35",
-          "title": "Teil 35",
+          "id": "fnff-folg-0124-t35",
+          "title": "007 - verfolgen die Strandräuber (Teil 35)",
           "index": 34,
-          "startTime": 3324,
-          "duration": 98
+          "startTime": 2295.319,
+          "duration": 70.707
         },
         {
-          "id": "ff-dino-t36",
-          "title": "Teil 36",
+          "id": "fnff-folg-0124-t36",
+          "title": "007 - verfolgen die Strandräuber (Teil 36)",
           "index": 35,
-          "startTime": 3422,
-          "duration": 97
+          "startTime": 2366.026,
+          "duration": 62.027
         },
         {
-          "id": "ff-dino-t37",
-          "title": "Teil 37",
+          "id": "fnff-folg-0124-t37",
+          "title": "007 - verfolgen die Strandräuber (Teil 37)",
           "index": 36,
-          "startTime": 3519,
-          "duration": 98
+          "startTime": 2428.053,
+          "duration": 66.36
         },
         {
-          "id": "ff-dino-t38",
-          "title": "Teil 38",
+          "id": "fnff-folg-0124-t38",
+          "title": "007 - verfolgen die Strandräuber (Teil 38)",
           "index": 37,
-          "startTime": 3617,
-          "duration": 98
+          "startTime": 2494.413,
+          "duration": 64.347
         },
         {
-          "id": "ff-dino-t39",
-          "title": "Teil 39",
+          "id": "fnff-folg-0124-t39",
+          "title": "007 - verfolgen die Strandräuber (Teil 39)",
           "index": 38,
-          "startTime": 3715,
-          "duration": 98
+          "startTime": 2558.76,
+          "duration": 66.24
         },
         {
-          "id": "ff-dino-t40",
-          "title": "Teil 40",
+          "id": "fnff-folg-0124-t40",
+          "title": "007 - verfolgen die Strandräuber (Teil 40)",
           "index": 39,
-          "startTime": 3813,
-          "duration": 97
-        },
-        {
-          "id": "ff-dino-t41",
-          "title": "Teil 41",
-          "index": 40,
-          "startTime": 3910,
-          "duration": 98
-        },
-        {
-          "id": "ff-dino-t42",
-          "title": "Teil 42",
-          "index": 41,
-          "startTime": 4008,
-          "duration": 98
-        },
-        {
-          "id": "ff-dino-t43",
-          "title": "Teil 43",
-          "index": 42,
-          "startTime": 4106,
-          "duration": 98
-        },
-        {
-          "id": "ff-dino-t44",
-          "title": "Teil 44",
-          "index": 43,
-          "startTime": 4204,
-          "duration": 97
-        },
-        {
-          "id": "ff-dino-t45",
-          "title": "Teil 45",
-          "index": 44,
-          "startTime": 4301,
-          "duration": 98
-        },
-        {
-          "id": "ff-dino-t46",
-          "title": "Teil 46",
-          "index": 45,
-          "startTime": 4399,
-          "duration": 98
-        },
-        {
-          "id": "ff-dino-t47",
-          "title": "Teil 47",
-          "index": 46,
-          "startTime": 4497,
-          "duration": 98
-        },
-        {
-          "id": "ff-dino-t48",
-          "title": "Teil 48",
-          "index": 47,
-          "startTime": 4595,
-          "duration": 97
-        },
-        {
-          "id": "ff-dino-t49",
-          "title": "Teil 49",
-          "index": 48,
-          "startTime": 4692,
-          "duration": 98
-        },
-        {
-          "id": "ff-dino-t50",
-          "title": "Teil 50",
-          "index": 49,
-          "startTime": 4790,
-          "duration": 98
+          "startTime": 2625.0,
+          "duration": 69.013
         }
       ]
+    },
+    {
+      "id": "1527360512",
+      "title": "Folgen 11 / 13 / 14: Das Zeichen der Vier / Der Bund der Rotschöpfe / Eine Frage der Identität (Box 4)",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/01/6c/bb/016cbb4e-4422-ecb7-33bd-0acf37751f19/4049709936148_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 14506.307,
+      "platforms": {
+        "appleMusic": "1527360512"
+      },
+      "chapters": [
+        {
+          "id": "1527360512-t01",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 251.893
+        },
+        {
+          "id": "1527360512-t02",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 2",
+          "index": 1,
+          "startTime": 251.893,
+          "duration": 273.853
+        },
+        {
+          "id": "1527360512-t03",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 3",
+          "index": 2,
+          "startTime": 525.746,
+          "duration": 571.853
+        },
+        {
+          "id": "1527360512-t04",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 4",
+          "index": 3,
+          "startTime": 1097.599,
+          "duration": 471.453
+        },
+        {
+          "id": "1527360512-t05",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 5",
+          "index": 4,
+          "startTime": 1569.052,
+          "duration": 265.267
+        },
+        {
+          "id": "1527360512-t06",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 6",
+          "index": 5,
+          "startTime": 1834.319,
+          "duration": 484.413
+        },
+        {
+          "id": "1527360512-t07",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 7",
+          "index": 6,
+          "startTime": 2318.732,
+          "duration": 286.04
+        },
+        {
+          "id": "1527360512-t08",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 8",
+          "index": 7,
+          "startTime": 2604.772,
+          "duration": 562.893
+        },
+        {
+          "id": "1527360512-t09",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 9",
+          "index": 8,
+          "startTime": 3167.665,
+          "duration": 451.84
+        },
+        {
+          "id": "1527360512-t10",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 10",
+          "index": 9,
+          "startTime": 3619.505,
+          "duration": 491.267
+        },
+        {
+          "id": "1527360512-t11",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 11",
+          "index": 10,
+          "startTime": 4110.772,
+          "duration": 450.32
+        },
+        {
+          "id": "1527360512-t12",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 12",
+          "index": 11,
+          "startTime": 4561.092,
+          "duration": 364.187
+        },
+        {
+          "id": "1527360512-t13",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 13",
+          "index": 12,
+          "startTime": 4925.279,
+          "duration": 301.12
+        },
+        {
+          "id": "1527360512-t14",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 14",
+          "index": 13,
+          "startTime": 5226.399,
+          "duration": 326.853
+        },
+        {
+          "id": "1527360512-t15",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 15",
+          "index": 14,
+          "startTime": 5553.252,
+          "duration": 347.747
+        },
+        {
+          "id": "1527360512-t16",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 16",
+          "index": 15,
+          "startTime": 5900.999,
+          "duration": 479.187
+        },
+        {
+          "id": "1527360512-t17",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 17",
+          "index": 16,
+          "startTime": 6380.186,
+          "duration": 193.387
+        },
+        {
+          "id": "1527360512-t18",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 18",
+          "index": 17,
+          "startTime": 6573.573,
+          "duration": 354.467
+        },
+        {
+          "id": "1527360512-t19",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 19",
+          "index": 18,
+          "startTime": 6928.04,
+          "duration": 413.68
+        },
+        {
+          "id": "1527360512-t20",
+          "title": "Folge 11: Das Zeichen der Vier, Kapitel 20",
+          "index": 19,
+          "startTime": 7341.72,
+          "duration": 453.333
+        },
+        {
+          "id": "1527360512-t21",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 1",
+          "index": 20,
+          "startTime": 7795.053,
+          "duration": 271.92
+        },
+        {
+          "id": "1527360512-t22",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 2",
+          "index": 21,
+          "startTime": 8066.973,
+          "duration": 271.347
+        },
+        {
+          "id": "1527360512-t23",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 3",
+          "index": 22,
+          "startTime": 8338.32,
+          "duration": 283.733
+        },
+        {
+          "id": "1527360512-t24",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 4",
+          "index": 23,
+          "startTime": 8622.053,
+          "duration": 263.933
+        },
+        {
+          "id": "1527360512-t25",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 5",
+          "index": 24,
+          "startTime": 8885.986,
+          "duration": 305.067
+        },
+        {
+          "id": "1527360512-t26",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 6",
+          "index": 25,
+          "startTime": 9191.053,
+          "duration": 267.24
+        },
+        {
+          "id": "1527360512-t27",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 7",
+          "index": 26,
+          "startTime": 9458.293,
+          "duration": 260.68
+        },
+        {
+          "id": "1527360512-t28",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 8",
+          "index": 27,
+          "startTime": 9718.973,
+          "duration": 270.987
+        },
+        {
+          "id": "1527360512-t29",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 9",
+          "index": 28,
+          "startTime": 9989.96,
+          "duration": 239.16
+        },
+        {
+          "id": "1527360512-t30",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 10",
+          "index": 29,
+          "startTime": 10229.12,
+          "duration": 277.12
+        },
+        {
+          "id": "1527360512-t31",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 11",
+          "index": 30,
+          "startTime": 10506.24,
+          "duration": 215.133
+        },
+        {
+          "id": "1527360512-t32",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 12",
+          "index": 31,
+          "startTime": 10721.373,
+          "duration": 357.987
+        },
+        {
+          "id": "1527360512-t33",
+          "title": "Folge 13: Der Bund der Rotschöpfe, Kapitel 13",
+          "index": 32,
+          "startTime": 11079.36,
+          "duration": 311.48
+        },
+        {
+          "id": "1527360512-t34",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 1",
+          "index": 33,
+          "startTime": 11390.84,
+          "duration": 232.947
+        },
+        {
+          "id": "1527360512-t35",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 2",
+          "index": 34,
+          "startTime": 11623.787,
+          "duration": 206.547
+        },
+        {
+          "id": "1527360512-t36",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 3",
+          "index": 35,
+          "startTime": 11830.334,
+          "duration": 260.667
+        },
+        {
+          "id": "1527360512-t37",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 4",
+          "index": 36,
+          "startTime": 12091.001,
+          "duration": 224.267
+        },
+        {
+          "id": "1527360512-t38",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 5",
+          "index": 37,
+          "startTime": 12315.268,
+          "duration": 180.96
+        },
+        {
+          "id": "1527360512-t39",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 6",
+          "index": 38,
+          "startTime": 12496.228,
+          "duration": 156.36
+        },
+        {
+          "id": "1527360512-t40",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 7",
+          "index": 39,
+          "startTime": 12652.588,
+          "duration": 234.613
+        },
+        {
+          "id": "1527360512-t41",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 8",
+          "index": 40,
+          "startTime": 12887.201,
+          "duration": 155.52
+        },
+        {
+          "id": "1527360512-t42",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 9",
+          "index": 41,
+          "startTime": 13042.721,
+          "duration": 230.16
+        },
+        {
+          "id": "1527360512-t43",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 10",
+          "index": 42,
+          "startTime": 13272.881,
+          "duration": 217.253
+        },
+        {
+          "id": "1527360512-t44",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 11",
+          "index": 43,
+          "startTime": 13490.134,
+          "duration": 294.573
+        },
+        {
+          "id": "1527360512-t45",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 12",
+          "index": 44,
+          "startTime": 13784.707,
+          "duration": 330.6
+        },
+        {
+          "id": "1527360512-t46",
+          "title": "Folge 14: Eine Frage der Identität, Kapitel 13",
+          "index": 45,
+          "startTime": 14115.307,
+          "duration": 391.0
+        }
+      ]
+    },
+    {
+      "id": "6768372723",
+      "title": "Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+      "episodeNumber": 24,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/4b/43/c04b438a-8650-279e-134c-aff3729696f9/4260229666616_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 4735.734,
+      "platforms": {
+        "appleMusic": "6768372723"
+      },
+      "chapters": [
+        {
+          "id": "6768372723-t01",
+          "title": "Kapitel 1 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 102.0
+        },
+        {
+          "id": "6768372723-t02",
+          "title": "Kapitel 2 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 1,
+          "startTime": 102.0,
+          "duration": 92.0
+        },
+        {
+          "id": "6768372723-t03",
+          "title": "Kapitel 3 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 2,
+          "startTime": 194.0,
+          "duration": 99.0
+        },
+        {
+          "id": "6768372723-t04",
+          "title": "Kapitel 4 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 3,
+          "startTime": 293.0,
+          "duration": 117.361
+        },
+        {
+          "id": "6768372723-t05",
+          "title": "Kapitel 5 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 4,
+          "startTime": 410.361,
+          "duration": 103.964
+        },
+        {
+          "id": "6768372723-t06",
+          "title": "Kapitel 6 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 5,
+          "startTime": 514.325,
+          "duration": 95.556
+        },
+        {
+          "id": "6768372723-t07",
+          "title": "Kapitel 7 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 6,
+          "startTime": 609.881,
+          "duration": 92.817
+        },
+        {
+          "id": "6768372723-t08",
+          "title": "Kapitel 8 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 7,
+          "startTime": 702.698,
+          "duration": 91.591
+        },
+        {
+          "id": "6768372723-t09",
+          "title": "Kapitel 9 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 8,
+          "startTime": 794.289,
+          "duration": 92.849
+        },
+        {
+          "id": "6768372723-t10",
+          "title": "Kapitel 10 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 9,
+          "startTime": 887.138,
+          "duration": 95.11
+        },
+        {
+          "id": "6768372723-t11",
+          "title": "Kapitel 11 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 10,
+          "startTime": 982.248,
+          "duration": 95.477
+        },
+        {
+          "id": "6768372723-t12",
+          "title": "Kapitel 12 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 11,
+          "startTime": 1077.725,
+          "duration": 92.483
+        },
+        {
+          "id": "6768372723-t13",
+          "title": "Kapitel 13 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 12,
+          "startTime": 1170.208,
+          "duration": 92.977
+        },
+        {
+          "id": "6768372723-t14",
+          "title": "Kapitel 14 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 13,
+          "startTime": 1263.185,
+          "duration": 91.766
+        },
+        {
+          "id": "6768372723-t15",
+          "title": "Kapitel 15 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 14,
+          "startTime": 1354.951,
+          "duration": 96.75
+        },
+        {
+          "id": "6768372723-t16",
+          "title": "Kapitel 16 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 15,
+          "startTime": 1451.701,
+          "duration": 92.913
+        },
+        {
+          "id": "6768372723-t17",
+          "title": "Kapitel 17 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 16,
+          "startTime": 1544.614,
+          "duration": 96.161
+        },
+        {
+          "id": "6768372723-t18",
+          "title": "Kapitel 18 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 17,
+          "startTime": 1640.775,
+          "duration": 94.139
+        },
+        {
+          "id": "6768372723-t19",
+          "title": "Kapitel 19 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 18,
+          "startTime": 1734.914,
+          "duration": 99.887
+        },
+        {
+          "id": "6768372723-t20",
+          "title": "Kapitel 20 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 19,
+          "startTime": 1834.801,
+          "duration": 94.808
+        },
+        {
+          "id": "6768372723-t21",
+          "title": "Kapitel 21 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 20,
+          "startTime": 1929.609,
+          "duration": 92.785
+        },
+        {
+          "id": "6768372723-t22",
+          "title": "Kapitel 22 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 21,
+          "startTime": 2022.394,
+          "duration": 93.104
+        },
+        {
+          "id": "6768372723-t23",
+          "title": "Kapitel 23 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 22,
+          "startTime": 2115.498,
+          "duration": 91.862
+        },
+        {
+          "id": "6768372723-t24",
+          "title": "Kapitel 24 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 23,
+          "startTime": 2207.36,
+          "duration": 92.531
+        },
+        {
+          "id": "6768372723-t25",
+          "title": "Kapitel 25 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 24,
+          "startTime": 2299.891,
+          "duration": 95.174
+        },
+        {
+          "id": "6768372723-t26",
+          "title": "Kapitel 26 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 25,
+          "startTime": 2395.065,
+          "duration": 93.12
+        },
+        {
+          "id": "6768372723-t27",
+          "title": "Kapitel 27 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 26,
+          "startTime": 2488.185,
+          "duration": 91.75
+        },
+        {
+          "id": "6768372723-t28",
+          "title": "Kapitel 28 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 27,
+          "startTime": 2579.935,
+          "duration": 92.913
+        },
+        {
+          "id": "6768372723-t29",
+          "title": "Kapitel 29 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 28,
+          "startTime": 2672.848,
+          "duration": 94.394
+        },
+        {
+          "id": "6768372723-t30",
+          "title": "Kapitel 30 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 29,
+          "startTime": 2767.242,
+          "duration": 98.104
+        },
+        {
+          "id": "6768372723-t31",
+          "title": "Kapitel 31 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 30,
+          "startTime": 2865.346,
+          "duration": 92.658
+        },
+        {
+          "id": "6768372723-t32",
+          "title": "Kapitel 32 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 31,
+          "startTime": 2958.004,
+          "duration": 93.725
+        },
+        {
+          "id": "6768372723-t33",
+          "title": "Kapitel 33 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 32,
+          "startTime": 3051.729,
+          "duration": 92.149
+        },
+        {
+          "id": "6768372723-t34",
+          "title": "Kapitel 34 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 33,
+          "startTime": 3143.878,
+          "duration": 92.133
+        },
+        {
+          "id": "6768372723-t35",
+          "title": "Kapitel 35 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 34,
+          "startTime": 3236.011,
+          "duration": 93.98
+        },
+        {
+          "id": "6768372723-t36",
+          "title": "Kapitel 36 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 35,
+          "startTime": 3329.991,
+          "duration": 93.406
+        },
+        {
+          "id": "6768372723-t37",
+          "title": "Kapitel 37 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 36,
+          "startTime": 3423.397,
+          "duration": 91.257
+        },
+        {
+          "id": "6768372723-t38",
+          "title": "Kapitel 38 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 37,
+          "startTime": 3514.654,
+          "duration": 92.913
+        },
+        {
+          "id": "6768372723-t39",
+          "title": "Kapitel 39 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 38,
+          "startTime": 3607.567,
+          "duration": 96.798
+        },
+        {
+          "id": "6768372723-t40",
+          "title": "Kapitel 40 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 39,
+          "startTime": 3704.365,
+          "duration": 91.368
+        },
+        {
+          "id": "6768372723-t41",
+          "title": "Kapitel 41 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 40,
+          "startTime": 3795.733,
+          "duration": 91.257
+        },
+        {
+          "id": "6768372723-t42",
+          "title": "Kapitel 42 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 41,
+          "startTime": 3886.99,
+          "duration": 91.289
+        },
+        {
+          "id": "6768372723-t43",
+          "title": "Kapitel 43 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 42,
+          "startTime": 3978.279,
+          "duration": 93.056
+        },
+        {
+          "id": "6768372723-t44",
+          "title": "Kapitel 44 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 43,
+          "startTime": 4071.335,
+          "duration": 107.666
+        },
+        {
+          "id": "6768372723-t45",
+          "title": "Kapitel 45 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 44,
+          "startTime": 4179.001,
+          "duration": 97.616
+        },
+        {
+          "id": "6768372723-t46",
+          "title": "Kapitel 46 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 45,
+          "startTime": 4276.617,
+          "duration": 91.715
+        },
+        {
+          "id": "6768372723-t47",
+          "title": "Kapitel 47 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 46,
+          "startTime": 4368.332,
+          "duration": 91.329
+        },
+        {
+          "id": "6768372723-t48",
+          "title": "Kapitel 48 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 47,
+          "startTime": 4459.661,
+          "duration": 91.625
+        },
+        {
+          "id": "6768372723-t49",
+          "title": "Kapitel 49 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 48,
+          "startTime": 4551.286,
+          "duration": 93.326
+        },
+        {
+          "id": "6768372723-t50",
+          "title": "Kapitel 50 - Die gefährlichen Fälle (Themen-Box), Folgen 1, 7, 24",
+          "index": 49,
+          "startTime": 4644.612,
+          "duration": 91.122
+        }
+      ]
+    },
+    {
+      "id": "1527356239",
+      "title": "Folgen 27 / 28 / 29: Das Musgrave-Ritual / Eine Studie in Scharlachrot / Die Junker von Reigate (Box 8)",
+      "episodeNumber": 27,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/d8/51/7ed851a1-9215-9b9a-7ab4-3fcb818d7cf7/4049709936193_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 12944.279,
+      "platforms": {
+        "appleMusic": "1527356239"
+      },
+      "chapters": [
+        {
+          "id": "1527356239-t01",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 239.493
+        },
+        {
+          "id": "1527356239-t02",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 2",
+          "index": 1,
+          "startTime": 239.493,
+          "duration": 261.187
+        },
+        {
+          "id": "1527356239-t03",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 3",
+          "index": 2,
+          "startTime": 500.68,
+          "duration": 218.307
+        },
+        {
+          "id": "1527356239-t04",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 4",
+          "index": 3,
+          "startTime": 718.987,
+          "duration": 268.187
+        },
+        {
+          "id": "1527356239-t05",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 5",
+          "index": 4,
+          "startTime": 987.174,
+          "duration": 220.48
+        },
+        {
+          "id": "1527356239-t06",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 6",
+          "index": 5,
+          "startTime": 1207.654,
+          "duration": 245.973
+        },
+        {
+          "id": "1527356239-t07",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 7",
+          "index": 6,
+          "startTime": 1453.627,
+          "duration": 229.893
+        },
+        {
+          "id": "1527356239-t08",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 8",
+          "index": 7,
+          "startTime": 1683.52,
+          "duration": 280.413
+        },
+        {
+          "id": "1527356239-t09",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 9",
+          "index": 8,
+          "startTime": 1963.933,
+          "duration": 348.867
+        },
+        {
+          "id": "1527356239-t10",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 10",
+          "index": 9,
+          "startTime": 2312.8,
+          "duration": 213.88
+        },
+        {
+          "id": "1527356239-t11",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 11",
+          "index": 10,
+          "startTime": 2526.68,
+          "duration": 232.253
+        },
+        {
+          "id": "1527356239-t12",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 12",
+          "index": 11,
+          "startTime": 2758.933,
+          "duration": 269.96
+        },
+        {
+          "id": "1527356239-t13",
+          "title": "Folge 27: Das Musgrave-Ritual, Kapitel 13",
+          "index": 12,
+          "startTime": 3028.893,
+          "duration": 191.84
+        },
+        {
+          "id": "1527356239-t14",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 1",
+          "index": 13,
+          "startTime": 3220.733,
+          "duration": 230.32
+        },
+        {
+          "id": "1527356239-t15",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 2",
+          "index": 14,
+          "startTime": 3451.053,
+          "duration": 352.76
+        },
+        {
+          "id": "1527356239-t16",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 3",
+          "index": 15,
+          "startTime": 3803.813,
+          "duration": 222.107
+        },
+        {
+          "id": "1527356239-t17",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 4",
+          "index": 16,
+          "startTime": 4025.92,
+          "duration": 277.533
+        },
+        {
+          "id": "1527356239-t18",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 5",
+          "index": 17,
+          "startTime": 4303.453,
+          "duration": 278.187
+        },
+        {
+          "id": "1527356239-t19",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 6",
+          "index": 18,
+          "startTime": 4581.64,
+          "duration": 193.8
+        },
+        {
+          "id": "1527356239-t20",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 7",
+          "index": 19,
+          "startTime": 4775.44,
+          "duration": 239.68
+        },
+        {
+          "id": "1527356239-t21",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 8",
+          "index": 20,
+          "startTime": 5015.12,
+          "duration": 277.267
+        },
+        {
+          "id": "1527356239-t22",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 9",
+          "index": 21,
+          "startTime": 5292.387,
+          "duration": 268.227
+        },
+        {
+          "id": "1527356239-t23",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 10",
+          "index": 22,
+          "startTime": 5560.614,
+          "duration": 243.413
+        },
+        {
+          "id": "1527356239-t24",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 11",
+          "index": 23,
+          "startTime": 5804.027,
+          "duration": 302.2
+        },
+        {
+          "id": "1527356239-t25",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 12",
+          "index": 24,
+          "startTime": 6106.227,
+          "duration": 254.853
+        },
+        {
+          "id": "1527356239-t26",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 1 von 2), Kapitel 13",
+          "index": 25,
+          "startTime": 6361.08,
+          "duration": 154.467
+        },
+        {
+          "id": "1527356239-t27",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 1",
+          "index": 26,
+          "startTime": 6515.547,
+          "duration": 363.8
+        },
+        {
+          "id": "1527356239-t28",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 2",
+          "index": 27,
+          "startTime": 6879.347,
+          "duration": 241.307
+        },
+        {
+          "id": "1527356239-t29",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 3",
+          "index": 28,
+          "startTime": 7120.654,
+          "duration": 295.08
+        },
+        {
+          "id": "1527356239-t30",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 4",
+          "index": 29,
+          "startTime": 7415.734,
+          "duration": 310.267
+        },
+        {
+          "id": "1527356239-t31",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 5",
+          "index": 30,
+          "startTime": 7726.001,
+          "duration": 290.76
+        },
+        {
+          "id": "1527356239-t32",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 6",
+          "index": 31,
+          "startTime": 8016.761,
+          "duration": 299.28
+        },
+        {
+          "id": "1527356239-t33",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 7",
+          "index": 32,
+          "startTime": 8316.041,
+          "duration": 299.613
+        },
+        {
+          "id": "1527356239-t34",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 8",
+          "index": 33,
+          "startTime": 8615.654,
+          "duration": 301.693
+        },
+        {
+          "id": "1527356239-t35",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 9",
+          "index": 34,
+          "startTime": 8917.347,
+          "duration": 307.347
+        },
+        {
+          "id": "1527356239-t36",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 10",
+          "index": 35,
+          "startTime": 9224.694,
+          "duration": 299.0
+        },
+        {
+          "id": "1527356239-t37",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 11",
+          "index": 36,
+          "startTime": 9523.694,
+          "duration": 293.88
+        },
+        {
+          "id": "1527356239-t38",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 12",
+          "index": 37,
+          "startTime": 9817.574,
+          "duration": 298.12
+        },
+        {
+          "id": "1527356239-t39",
+          "title": "Folge 28: Eine Studie in Scharlachrot (Teil 2 von 2), Kapitel 13",
+          "index": 38,
+          "startTime": 10115.694,
+          "duration": 186.573
+        },
+        {
+          "id": "1527356239-t40",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 1",
+          "index": 39,
+          "startTime": 10302.267,
+          "duration": 244.733
+        },
+        {
+          "id": "1527356239-t41",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 2",
+          "index": 40,
+          "startTime": 10547.0,
+          "duration": 254.853
+        },
+        {
+          "id": "1527356239-t42",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 3",
+          "index": 41,
+          "startTime": 10801.853,
+          "duration": 226.533
+        },
+        {
+          "id": "1527356239-t43",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 4",
+          "index": 42,
+          "startTime": 11028.386,
+          "duration": 253.253
+        },
+        {
+          "id": "1527356239-t44",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 5",
+          "index": 43,
+          "startTime": 11281.639,
+          "duration": 237.16
+        },
+        {
+          "id": "1527356239-t45",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 6",
+          "index": 44,
+          "startTime": 11518.799,
+          "duration": 223.92
+        },
+        {
+          "id": "1527356239-t46",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 7",
+          "index": 45,
+          "startTime": 11742.719,
+          "duration": 255.387
+        },
+        {
+          "id": "1527356239-t47",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 8",
+          "index": 46,
+          "startTime": 11998.106,
+          "duration": 240.253
+        },
+        {
+          "id": "1527356239-t48",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 9",
+          "index": 47,
+          "startTime": 12238.359,
+          "duration": 232.187
+        },
+        {
+          "id": "1527356239-t49",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 10",
+          "index": 48,
+          "startTime": 12470.546,
+          "duration": 230.573
+        },
+        {
+          "id": "1527356239-t50",
+          "title": "Folge 29: Die Junker von Reigate, Kapitel 11",
+          "index": 49,
+          "startTime": 12701.119,
+          "duration": 243.16
+        }
+      ]
+    },
+    {
+      "id": "1616461689",
+      "title": "Box 10: Folgen 34, 35, 36",
+      "episodeNumber": 36,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/f4/e2/85f4e270-1998-5d6e-d8cc-c673f1a78a91/4251777703588_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 9239.115,
+      "platforms": {
+        "appleMusic": "1616461689"
+      },
+      "chapters": [
+        {
+          "id": "1616461689-t01",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 181.7
+        },
+        {
+          "id": "1616461689-t02",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 2",
+          "index": 1,
+          "startTime": 181.7,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t03",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 3",
+          "index": 2,
+          "startTime": 361.71,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t04",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 4",
+          "index": 3,
+          "startTime": 541.72,
+          "duration": 180.003
+        },
+        {
+          "id": "1616461689-t05",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 5",
+          "index": 4,
+          "startTime": 721.723,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t06",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 6",
+          "index": 5,
+          "startTime": 901.733,
+          "duration": 180.0
+        },
+        {
+          "id": "1616461689-t07",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 7",
+          "index": 6,
+          "startTime": 1081.733,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t08",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 8",
+          "index": 7,
+          "startTime": 1261.743,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t09",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 9",
+          "index": 8,
+          "startTime": 1441.753,
+          "duration": 180.33
+        },
+        {
+          "id": "1616461689-t10",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 10",
+          "index": 9,
+          "startTime": 1622.083,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t11",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 11",
+          "index": 10,
+          "startTime": 1802.093,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t12",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 12",
+          "index": 11,
+          "startTime": 1982.1,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t13",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 13",
+          "index": 12,
+          "startTime": 2162.11,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t14",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 14",
+          "index": 13,
+          "startTime": 2342.12,
+          "duration": 180.897
+        },
+        {
+          "id": "1616461689-t15",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 15",
+          "index": 14,
+          "startTime": 2523.017,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t16",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 16",
+          "index": 15,
+          "startTime": 2703.027,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t17",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 17",
+          "index": 16,
+          "startTime": 2883.034,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t18",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 18",
+          "index": 17,
+          "startTime": 3063.041,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t19",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 19",
+          "index": 18,
+          "startTime": 3243.051,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t20",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 20",
+          "index": 19,
+          "startTime": 3423.058,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t21",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 21",
+          "index": 20,
+          "startTime": 3603.065,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t22",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 22",
+          "index": 21,
+          "startTime": 3783.075,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t23",
+          "title": "Folge 34: Die quietschende Tür, Kapitel 23",
+          "index": 22,
+          "startTime": 3963.085,
+          "duration": 269.61
+        },
+        {
+          "id": "1616461689-t24",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 1",
+          "index": 23,
+          "startTime": 4232.695,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t25",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 2",
+          "index": 24,
+          "startTime": 4412.705,
+          "duration": 181.32
+        },
+        {
+          "id": "1616461689-t26",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 3",
+          "index": 25,
+          "startTime": 4594.025,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t27",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 4",
+          "index": 26,
+          "startTime": 4774.032,
+          "duration": 181.203
+        },
+        {
+          "id": "1616461689-t28",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 5",
+          "index": 27,
+          "startTime": 4955.235,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t29",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 6",
+          "index": 28,
+          "startTime": 5135.245,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t30",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 7",
+          "index": 29,
+          "startTime": 5315.252,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t31",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 8",
+          "index": 30,
+          "startTime": 5495.259,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t32",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 9",
+          "index": 31,
+          "startTime": 5675.269,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t33",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 10",
+          "index": 32,
+          "startTime": 5855.276,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t34",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 11",
+          "index": 33,
+          "startTime": 6035.286,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t35",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 12",
+          "index": 34,
+          "startTime": 6215.293,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t36",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 13",
+          "index": 35,
+          "startTime": 6395.3,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t37",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 14",
+          "index": 36,
+          "startTime": 6575.31,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t38",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 15",
+          "index": 37,
+          "startTime": 6755.317,
+          "duration": 180.417
+        },
+        {
+          "id": "1616461689-t39",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 16",
+          "index": 38,
+          "startTime": 6935.734,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t40",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 17",
+          "index": 39,
+          "startTime": 7115.744,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t41",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 18",
+          "index": 40,
+          "startTime": 7295.754,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t42",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 19",
+          "index": 41,
+          "startTime": 7475.764,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t43",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 20",
+          "index": 42,
+          "startTime": 7655.774,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t44",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 21",
+          "index": 43,
+          "startTime": 7835.781,
+          "duration": 180.0
+        },
+        {
+          "id": "1616461689-t45",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 22",
+          "index": 44,
+          "startTime": 8015.781,
+          "duration": 323.293
+        },
+        {
+          "id": "1616461689-t46",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 23",
+          "index": 45,
+          "startTime": 8339.074,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t47",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 24",
+          "index": 46,
+          "startTime": 8519.084,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t48",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 25",
+          "index": 47,
+          "startTime": 8699.091,
+          "duration": 180.007
+        },
+        {
+          "id": "1616461689-t49",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 26",
+          "index": 48,
+          "startTime": 8879.098,
+          "duration": 180.01
+        },
+        {
+          "id": "1616461689-t50",
+          "title": "Folge 35: Der Hund der Baskervilles, Kapitel 27",
+          "index": 49,
+          "startTime": 9059.108,
+          "duration": 180.007
+        }
+      ]
+    },
+    {
+      "id": "1002500357",
+      "title": "Folge 74: verfolgen den Wilderer",
+      "episodeNumber": 74,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/f4/14/65/f41465f1-f0a5-26ef-3117-180c30fb232d/886445151466.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 3205.68,
+      "platforms": {
+        "appleMusic": "1002500357"
+      },
+      "chapters": [
+        {
+          "id": "fnff-folg-0357-t01",
+          "title": "074 - verfolgen den Wilderer (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 75.64
+        },
+        {
+          "id": "fnff-folg-0357-t02",
+          "title": "074 - verfolgen den Wilderer (Teil 02)",
+          "index": 1,
+          "startTime": 75.64,
+          "duration": 84.467
+        },
+        {
+          "id": "fnff-folg-0357-t03",
+          "title": "074 - verfolgen den Wilderer (Teil 03)",
+          "index": 2,
+          "startTime": 160.107,
+          "duration": 78.04
+        },
+        {
+          "id": "fnff-folg-0357-t04",
+          "title": "074 - verfolgen den Wilderer (Teil 04)",
+          "index": 3,
+          "startTime": 238.147,
+          "duration": 83.48
+        },
+        {
+          "id": "fnff-folg-0357-t05",
+          "title": "074 - verfolgen den Wilderer (Teil 05)",
+          "index": 4,
+          "startTime": 321.627,
+          "duration": 76.933
+        },
+        {
+          "id": "fnff-folg-0357-t06",
+          "title": "074 - verfolgen den Wilderer (Teil 06)",
+          "index": 5,
+          "startTime": 398.56,
+          "duration": 83.253
+        },
+        {
+          "id": "fnff-folg-0357-t07",
+          "title": "074 - verfolgen den Wilderer (Teil 07)",
+          "index": 6,
+          "startTime": 481.813,
+          "duration": 80.627
+        },
+        {
+          "id": "fnff-folg-0357-t08",
+          "title": "074 - verfolgen den Wilderer (Teil 08)",
+          "index": 7,
+          "startTime": 562.44,
+          "duration": 78.893
+        },
+        {
+          "id": "fnff-folg-0357-t09",
+          "title": "074 - verfolgen den Wilderer (Teil 09)",
+          "index": 8,
+          "startTime": 641.333,
+          "duration": 80.24
+        },
+        {
+          "id": "fnff-folg-0357-t10",
+          "title": "074 - verfolgen den Wilderer (Teil 10)",
+          "index": 9,
+          "startTime": 721.573,
+          "duration": 82.8
+        },
+        {
+          "id": "fnff-folg-0357-t11",
+          "title": "074 - verfolgen den Wilderer (Teil 11)",
+          "index": 10,
+          "startTime": 804.373,
+          "duration": 77.693
+        },
+        {
+          "id": "fnff-folg-0357-t12",
+          "title": "074 - verfolgen den Wilderer (Teil 12)",
+          "index": 11,
+          "startTime": 882.066,
+          "duration": 79.413
+        },
+        {
+          "id": "fnff-folg-0357-t13",
+          "title": "074 - verfolgen den Wilderer (Teil 13)",
+          "index": 12,
+          "startTime": 961.479,
+          "duration": 80.36
+        },
+        {
+          "id": "fnff-folg-0357-t14",
+          "title": "074 - verfolgen den Wilderer (Teil 14)",
+          "index": 13,
+          "startTime": 1041.839,
+          "duration": 79.0
+        },
+        {
+          "id": "fnff-folg-0357-t15",
+          "title": "074 - verfolgen den Wilderer (Teil 15)",
+          "index": 14,
+          "startTime": 1120.839,
+          "duration": 80.053
+        },
+        {
+          "id": "fnff-folg-0357-t16",
+          "title": "074 - verfolgen den Wilderer (Teil 16)",
+          "index": 15,
+          "startTime": 1200.892,
+          "duration": 83.173
+        },
+        {
+          "id": "fnff-folg-0357-t17",
+          "title": "074 - verfolgen den Wilderer (Teil 17)",
+          "index": 16,
+          "startTime": 1284.065,
+          "duration": 78.347
+        },
+        {
+          "id": "fnff-folg-0357-t18",
+          "title": "074 - verfolgen den Wilderer (Teil 18)",
+          "index": 17,
+          "startTime": 1362.412,
+          "duration": 78.44
+        },
+        {
+          "id": "fnff-folg-0357-t19",
+          "title": "074 - verfolgen den Wilderer (Teil 19)",
+          "index": 18,
+          "startTime": 1440.852,
+          "duration": 79.76
+        },
+        {
+          "id": "fnff-folg-0357-t20",
+          "title": "074 - verfolgen den Wilderer (Teil 20)",
+          "index": 19,
+          "startTime": 1520.612,
+          "duration": 82.493
+        },
+        {
+          "id": "fnff-folg-0357-t21",
+          "title": "074 - verfolgen den Wilderer (Teil 21)",
+          "index": 20,
+          "startTime": 1603.105,
+          "duration": 80.853
+        },
+        {
+          "id": "fnff-folg-0357-t22",
+          "title": "074 - verfolgen den Wilderer (Teil 22)",
+          "index": 21,
+          "startTime": 1683.958,
+          "duration": 77.8
+        },
+        {
+          "id": "fnff-folg-0357-t23",
+          "title": "074 - verfolgen den Wilderer (Teil 23)",
+          "index": 22,
+          "startTime": 1761.758,
+          "duration": 78.867
+        },
+        {
+          "id": "fnff-folg-0357-t24",
+          "title": "074 - verfolgen den Wilderer (Teil 24)",
+          "index": 23,
+          "startTime": 1840.625,
+          "duration": 82.0
+        },
+        {
+          "id": "fnff-folg-0357-t25",
+          "title": "074 - verfolgen den Wilderer (Teil 25)",
+          "index": 24,
+          "startTime": 1922.625,
+          "duration": 81.96
+        },
+        {
+          "id": "fnff-folg-0357-t26",
+          "title": "074 - verfolgen den Wilderer (Teil 26)",
+          "index": 25,
+          "startTime": 2004.585,
+          "duration": 76.72
+        },
+        {
+          "id": "fnff-folg-0357-t27",
+          "title": "074 - verfolgen den Wilderer (Teil 27)",
+          "index": 26,
+          "startTime": 2081.305,
+          "duration": 83.147
+        },
+        {
+          "id": "fnff-folg-0357-t28",
+          "title": "074 - verfolgen den Wilderer (Teil 28)",
+          "index": 27,
+          "startTime": 2164.452,
+          "duration": 80.573
+        },
+        {
+          "id": "fnff-folg-0357-t29",
+          "title": "074 - verfolgen den Wilderer (Teil 29)",
+          "index": 28,
+          "startTime": 2245.025,
+          "duration": 79.667
+        },
+        {
+          "id": "fnff-folg-0357-t30",
+          "title": "074 - verfolgen den Wilderer (Teil 30)",
+          "index": 29,
+          "startTime": 2324.692,
+          "duration": 80.933
+        },
+        {
+          "id": "fnff-folg-0357-t31",
+          "title": "074 - verfolgen den Wilderer (Teil 31)",
+          "index": 30,
+          "startTime": 2405.625,
+          "duration": 80.947
+        },
+        {
+          "id": "fnff-folg-0357-t32",
+          "title": "074 - verfolgen den Wilderer (Teil 32)",
+          "index": 31,
+          "startTime": 2486.572,
+          "duration": 78.867
+        },
+        {
+          "id": "fnff-folg-0357-t33",
+          "title": "074 - verfolgen den Wilderer (Teil 33)",
+          "index": 32,
+          "startTime": 2565.439,
+          "duration": 80.133
+        },
+        {
+          "id": "fnff-folg-0357-t34",
+          "title": "074 - verfolgen den Wilderer (Teil 34)",
+          "index": 33,
+          "startTime": 2645.572,
+          "duration": 80.013
+        },
+        {
+          "id": "fnff-folg-0357-t35",
+          "title": "074 - verfolgen den Wilderer (Teil 35)",
+          "index": 34,
+          "startTime": 2725.585,
+          "duration": 78.24
+        },
+        {
+          "id": "fnff-folg-0357-t36",
+          "title": "074 - verfolgen den Wilderer (Teil 36)",
+          "index": 35,
+          "startTime": 2803.825,
+          "duration": 79.667
+        },
+        {
+          "id": "fnff-folg-0357-t37",
+          "title": "074 - verfolgen den Wilderer (Teil 37)",
+          "index": 36,
+          "startTime": 2883.492,
+          "duration": 82.947
+        },
+        {
+          "id": "fnff-folg-0357-t38",
+          "title": "074 - verfolgen den Wilderer (Teil 38)",
+          "index": 37,
+          "startTime": 2966.439,
+          "duration": 81.067
+        },
+        {
+          "id": "fnff-folg-0357-t39",
+          "title": "074 - verfolgen den Wilderer (Teil 39)",
+          "index": 38,
+          "startTime": 3047.506,
+          "duration": 78.027
+        },
+        {
+          "id": "fnff-folg-0357-t40",
+          "title": "074 - verfolgen den Wilderer (Teil 40)",
+          "index": 39,
+          "startTime": 3125.533,
+          "duration": 80.147
+        }
+      ]
+    },
+    {
+      "id": "1143574382",
+      "title": "Folge 82: Hexspruch mit Folgen",
+      "episodeNumber": 82,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/63/65/68/6365685e-632b-37e4-3bbf-9c948b6ee1e1/190295916206.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1143574382"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1456262331",
+      "title": "Folge 131: verfolgen die Fahrraddiebe",
+      "episodeNumber": 131,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/61/0b/69610b79-53f9-b765-b2ac-753fb4de7b25/886447439845.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 3300.959,
+      "platforms": {
+        "appleMusic": "1456262331"
+      },
+      "chapters": [
+        {
+          "id": "fnff-folg-2331-t01",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 01)",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 80.04
+        },
+        {
+          "id": "fnff-folg-2331-t02",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 02)",
+          "index": 1,
+          "startTime": 80.04,
+          "duration": 88.96
+        },
+        {
+          "id": "fnff-folg-2331-t03",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 03)",
+          "index": 2,
+          "startTime": 169.0,
+          "duration": 75.027
+        },
+        {
+          "id": "fnff-folg-2331-t04",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 04)",
+          "index": 3,
+          "startTime": 244.027,
+          "duration": 89.12
+        },
+        {
+          "id": "fnff-folg-2331-t05",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 05)",
+          "index": 4,
+          "startTime": 333.147,
+          "duration": 85.667
+        },
+        {
+          "id": "fnff-folg-2331-t06",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 06)",
+          "index": 5,
+          "startTime": 418.814,
+          "duration": 76.107
+        },
+        {
+          "id": "fnff-folg-2331-t07",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 07)",
+          "index": 6,
+          "startTime": 494.921,
+          "duration": 86.04
+        },
+        {
+          "id": "fnff-folg-2331-t08",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 08)",
+          "index": 7,
+          "startTime": 580.961,
+          "duration": 86.227
+        },
+        {
+          "id": "fnff-folg-2331-t09",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 09)",
+          "index": 8,
+          "startTime": 667.188,
+          "duration": 79.773
+        },
+        {
+          "id": "fnff-folg-2331-t10",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 10)",
+          "index": 9,
+          "startTime": 746.961,
+          "duration": 80.093
+        },
+        {
+          "id": "fnff-folg-2331-t11",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 11)",
+          "index": 10,
+          "startTime": 827.054,
+          "duration": 82.133
+        },
+        {
+          "id": "fnff-folg-2331-t12",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 12)",
+          "index": 11,
+          "startTime": 909.187,
+          "duration": 82.187
+        },
+        {
+          "id": "fnff-folg-2331-t13",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 13)",
+          "index": 12,
+          "startTime": 991.374,
+          "duration": 90.933
+        },
+        {
+          "id": "fnff-folg-2331-t14",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 14)",
+          "index": 13,
+          "startTime": 1082.307,
+          "duration": 80.56
+        },
+        {
+          "id": "fnff-folg-2331-t15",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 15)",
+          "index": 14,
+          "startTime": 1162.867,
+          "duration": 75.973
+        },
+        {
+          "id": "fnff-folg-2331-t16",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 16)",
+          "index": 15,
+          "startTime": 1238.84,
+          "duration": 92.52
+        },
+        {
+          "id": "fnff-folg-2331-t17",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 17)",
+          "index": 16,
+          "startTime": 1331.36,
+          "duration": 79.427
+        },
+        {
+          "id": "fnff-folg-2331-t18",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 18)",
+          "index": 17,
+          "startTime": 1410.787,
+          "duration": 92.307
+        },
+        {
+          "id": "fnff-folg-2331-t19",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 19)",
+          "index": 18,
+          "startTime": 1503.094,
+          "duration": 73.907
+        },
+        {
+          "id": "fnff-folg-2331-t20",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 20)",
+          "index": 19,
+          "startTime": 1577.001,
+          "duration": 80.92
+        },
+        {
+          "id": "fnff-folg-2331-t21",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 21)",
+          "index": 20,
+          "startTime": 1657.921,
+          "duration": 83.013
+        },
+        {
+          "id": "fnff-folg-2331-t22",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 22)",
+          "index": 21,
+          "startTime": 1740.934,
+          "duration": 83.6
+        },
+        {
+          "id": "fnff-folg-2331-t23",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 23)",
+          "index": 22,
+          "startTime": 1824.534,
+          "duration": 84.133
+        },
+        {
+          "id": "fnff-folg-2331-t24",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 24)",
+          "index": 23,
+          "startTime": 1908.667,
+          "duration": 79.933
+        },
+        {
+          "id": "fnff-folg-2331-t25",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 25)",
+          "index": 24,
+          "startTime": 1988.6,
+          "duration": 81.28
+        },
+        {
+          "id": "fnff-folg-2331-t26",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 26)",
+          "index": 25,
+          "startTime": 2069.88,
+          "duration": 87.147
+        },
+        {
+          "id": "fnff-folg-2331-t27",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 27)",
+          "index": 26,
+          "startTime": 2157.027,
+          "duration": 81.32
+        },
+        {
+          "id": "fnff-folg-2331-t28",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 28)",
+          "index": 27,
+          "startTime": 2238.347,
+          "duration": 84.12
+        },
+        {
+          "id": "fnff-folg-2331-t29",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 29)",
+          "index": 28,
+          "startTime": 2322.467,
+          "duration": 84.533
+        },
+        {
+          "id": "fnff-folg-2331-t30",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 30)",
+          "index": 29,
+          "startTime": 2407.0,
+          "duration": 79.387
+        },
+        {
+          "id": "fnff-folg-2331-t31",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 31)",
+          "index": 30,
+          "startTime": 2486.387,
+          "duration": 86.08
+        },
+        {
+          "id": "fnff-folg-2331-t32",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 32)",
+          "index": 31,
+          "startTime": 2572.467,
+          "duration": 84.28
+        },
+        {
+          "id": "fnff-folg-2331-t33",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 33)",
+          "index": 32,
+          "startTime": 2656.747,
+          "duration": 85.653
+        },
+        {
+          "id": "fnff-folg-2331-t34",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 34)",
+          "index": 33,
+          "startTime": 2742.4,
+          "duration": 75.56
+        },
+        {
+          "id": "fnff-folg-2331-t35",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 35)",
+          "index": 34,
+          "startTime": 2817.96,
+          "duration": 87.04
+        },
+        {
+          "id": "fnff-folg-2331-t36",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 36)",
+          "index": 35,
+          "startTime": 2905.0,
+          "duration": 77.573
+        },
+        {
+          "id": "fnff-folg-2331-t37",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 37)",
+          "index": 36,
+          "startTime": 2982.573,
+          "duration": 82.853
+        },
+        {
+          "id": "fnff-folg-2331-t38",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 38)",
+          "index": 37,
+          "startTime": 3065.426,
+          "duration": 90.213
+        },
+        {
+          "id": "fnff-folg-2331-t39",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 39)",
+          "index": 38,
+          "startTime": 3155.639,
+          "duration": 83.307
+        },
+        {
+          "id": "fnff-folg-2331-t40",
+          "title": "131 - verfolgen die Fahrraddiebe (Teil 40)",
+          "index": 39,
+          "startTime": 3238.946,
+          "duration": 62.013
+        }
+      ]
+    },
+    {
+      "id": "1527359094",
+      "title": "Folgen 5, 6, 7 und 8 (Box 2)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/96/59/669659df-da9b-acab-c6e3-be538f780efc/4049709936162_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 17070.359,
+      "platforms": {
+        "appleMusic": "1527359094"
+      },
+      "chapters": [
+        {
+          "id": "1527359094-t01",
+          "title": "Folge 5: Die Affenfrau, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 302.28
+        },
+        {
+          "id": "1527359094-t02",
+          "title": "Folge 5: Die Affenfrau, Kapitel 2",
+          "index": 1,
+          "startTime": 302.28,
+          "duration": 308.6
+        },
+        {
+          "id": "1527359094-t03",
+          "title": "Folge 5: Die Affenfrau, Kapitel 3",
+          "index": 2,
+          "startTime": 610.88,
+          "duration": 279.387
+        },
+        {
+          "id": "1527359094-t04",
+          "title": "Folge 5: Die Affenfrau, Kapitel 4",
+          "index": 3,
+          "startTime": 890.267,
+          "duration": 414.627
+        },
+        {
+          "id": "1527359094-t05",
+          "title": "Folge 5: Die Affenfrau, Kapitel 5",
+          "index": 4,
+          "startTime": 1304.894,
+          "duration": 275.76
+        },
+        {
+          "id": "1527359094-t06",
+          "title": "Folge 5: Die Affenfrau, Kapitel 6",
+          "index": 5,
+          "startTime": 1580.654,
+          "duration": 330.387
+        },
+        {
+          "id": "1527359094-t07",
+          "title": "Folge 5: Die Affenfrau, Kapitel 7",
+          "index": 6,
+          "startTime": 1911.041,
+          "duration": 447.92
+        },
+        {
+          "id": "1527359094-t08",
+          "title": "Folge 5: Die Affenfrau, Kapitel 8",
+          "index": 7,
+          "startTime": 2358.961,
+          "duration": 436.933
+        },
+        {
+          "id": "1527359094-t09",
+          "title": "Folge 5: Die Affenfrau, Kapitel 9",
+          "index": 8,
+          "startTime": 2795.894,
+          "duration": 351.44
+        },
+        {
+          "id": "1527359094-t10",
+          "title": "Folge 5: Die Affenfrau, Kapitel 10",
+          "index": 9,
+          "startTime": 3147.334,
+          "duration": 184.227
+        },
+        {
+          "id": "1527359094-t11",
+          "title": "Folge 5: Die Affenfrau, Kapitel 11",
+          "index": 10,
+          "startTime": 3331.561,
+          "duration": 300.213
+        },
+        {
+          "id": "1527359094-t12",
+          "title": "Folge 5: Die Affenfrau, Kapitel 12",
+          "index": 11,
+          "startTime": 3631.774,
+          "duration": 444.187
+        },
+        {
+          "id": "1527359094-t13",
+          "title": "Folge 5: Die Affenfrau, Kapitel 13",
+          "index": 12,
+          "startTime": 4075.961,
+          "duration": 477.227
+        },
+        {
+          "id": "1527359094-t14",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 1",
+          "index": 13,
+          "startTime": 4553.188,
+          "duration": 377.947
+        },
+        {
+          "id": "1527359094-t15",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 2",
+          "index": 14,
+          "startTime": 4931.135,
+          "duration": 375.2
+        },
+        {
+          "id": "1527359094-t16",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 3",
+          "index": 15,
+          "startTime": 5306.335,
+          "duration": 429.84
+        },
+        {
+          "id": "1527359094-t17",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 4",
+          "index": 16,
+          "startTime": 5736.175,
+          "duration": 480.547
+        },
+        {
+          "id": "1527359094-t18",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 5",
+          "index": 17,
+          "startTime": 6216.722,
+          "duration": 496.32
+        },
+        {
+          "id": "1527359094-t19",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 6",
+          "index": 18,
+          "startTime": 6713.042,
+          "duration": 508.067
+        },
+        {
+          "id": "1527359094-t20",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 7",
+          "index": 19,
+          "startTime": 7221.109,
+          "duration": 233.12
+        },
+        {
+          "id": "1527359094-t21",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 8",
+          "index": 20,
+          "startTime": 7454.229,
+          "duration": 267.24
+        },
+        {
+          "id": "1527359094-t22",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 9",
+          "index": 21,
+          "startTime": 7721.469,
+          "duration": 220.0
+        },
+        {
+          "id": "1527359094-t23",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 10",
+          "index": 22,
+          "startTime": 7941.469,
+          "duration": 391.08
+        },
+        {
+          "id": "1527359094-t24",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 11",
+          "index": 23,
+          "startTime": 8332.549,
+          "duration": 344.92
+        },
+        {
+          "id": "1527359094-t25",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 12",
+          "index": 24,
+          "startTime": 8677.469,
+          "duration": 227.293
+        },
+        {
+          "id": "1527359094-t26",
+          "title": "Folge 6: Spurlos verschwunden, Kapitel 13",
+          "index": 25,
+          "startTime": 8904.762,
+          "duration": 404.387
+        },
+        {
+          "id": "1527359094-t27",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 1",
+          "index": 26,
+          "startTime": 9309.149,
+          "duration": 162.773
+        },
+        {
+          "id": "1527359094-t28",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 2",
+          "index": 27,
+          "startTime": 9471.922,
+          "duration": 266.12
+        },
+        {
+          "id": "1527359094-t29",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 3",
+          "index": 28,
+          "startTime": 9738.042,
+          "duration": 322.933
+        },
+        {
+          "id": "1527359094-t30",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 4",
+          "index": 29,
+          "startTime": 10060.975,
+          "duration": 248.373
+        },
+        {
+          "id": "1527359094-t31",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 5",
+          "index": 30,
+          "startTime": 10309.348,
+          "duration": 277.92
+        },
+        {
+          "id": "1527359094-t32",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 6",
+          "index": 31,
+          "startTime": 10587.268,
+          "duration": 336.08
+        },
+        {
+          "id": "1527359094-t33",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 7",
+          "index": 32,
+          "startTime": 10923.348,
+          "duration": 204.347
+        },
+        {
+          "id": "1527359094-t34",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 8",
+          "index": 33,
+          "startTime": 11127.695,
+          "duration": 173.773
+        },
+        {
+          "id": "1527359094-t35",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 9",
+          "index": 34,
+          "startTime": 11301.468,
+          "duration": 252.453
+        },
+        {
+          "id": "1527359094-t36",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 10",
+          "index": 35,
+          "startTime": 11553.921,
+          "duration": 323.573
+        },
+        {
+          "id": "1527359094-t37",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 11",
+          "index": 36,
+          "startTime": 11877.494,
+          "duration": 354.093
+        },
+        {
+          "id": "1527359094-t38",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 12",
+          "index": 37,
+          "startTime": 12231.587,
+          "duration": 287.427
+        },
+        {
+          "id": "1527359094-t39",
+          "title": "Folge 7: Der Smaragd des Todes, Kapitel 13",
+          "index": 38,
+          "startTime": 12519.014,
+          "duration": 425.213
+        },
+        {
+          "id": "1527359094-t40",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 1",
+          "index": 39,
+          "startTime": 12944.227,
+          "duration": 403.907
+        },
+        {
+          "id": "1527359094-t41",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 2",
+          "index": 40,
+          "startTime": 13348.134,
+          "duration": 384.093
+        },
+        {
+          "id": "1527359094-t42",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 3",
+          "index": 41,
+          "startTime": 13732.227,
+          "duration": 337.893
+        },
+        {
+          "id": "1527359094-t43",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 4",
+          "index": 42,
+          "startTime": 14070.12,
+          "duration": 369.8
+        },
+        {
+          "id": "1527359094-t44",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 5",
+          "index": 43,
+          "startTime": 14439.92,
+          "duration": 365.12
+        },
+        {
+          "id": "1527359094-t45",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 6",
+          "index": 44,
+          "startTime": 14805.04,
+          "duration": 333.413
+        },
+        {
+          "id": "1527359094-t46",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 7",
+          "index": 45,
+          "startTime": 15138.453,
+          "duration": 398.787
+        },
+        {
+          "id": "1527359094-t47",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 8",
+          "index": 46,
+          "startTime": 15537.24,
+          "duration": 385.413
+        },
+        {
+          "id": "1527359094-t48",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 9",
+          "index": 47,
+          "startTime": 15922.653,
+          "duration": 314.813
+        },
+        {
+          "id": "1527359094-t49",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 10",
+          "index": 48,
+          "startTime": 16237.466,
+          "duration": 451.413
+        },
+        {
+          "id": "1527359094-t50",
+          "title": "Folge 8: Walpurgisnacht, Kapitel 11",
+          "index": 49,
+          "startTime": 16688.879,
+          "duration": 381.48
+        }
+      ]
+    },
+    {
+      "id": "1527361198",
+      "title": "Folgen 9, 10, 12 (Box 3)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/46/73/5b/46735bec-6797-391b-0f5e-6840c8be4325/4049709936131_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 17029.801,
+      "platforms": {
+        "appleMusic": "1527361198"
+      },
+      "chapters": [
+        {
+          "id": "1527361198-t01",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 349.627
+        },
+        {
+          "id": "1527361198-t02",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 2",
+          "index": 1,
+          "startTime": 349.627,
+          "duration": 248.333
+        },
+        {
+          "id": "1527361198-t03",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 3",
+          "index": 2,
+          "startTime": 597.96,
+          "duration": 300.88
+        },
+        {
+          "id": "1527361198-t04",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 4",
+          "index": 3,
+          "startTime": 898.84,
+          "duration": 324.733
+        },
+        {
+          "id": "1527361198-t05",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 5",
+          "index": 4,
+          "startTime": 1223.573,
+          "duration": 297.04
+        },
+        {
+          "id": "1527361198-t06",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 6",
+          "index": 5,
+          "startTime": 1520.613,
+          "duration": 263.307
+        },
+        {
+          "id": "1527361198-t07",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 7",
+          "index": 6,
+          "startTime": 1783.92,
+          "duration": 350.453
+        },
+        {
+          "id": "1527361198-t08",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 8",
+          "index": 7,
+          "startTime": 2134.373,
+          "duration": 268.627
+        },
+        {
+          "id": "1527361198-t09",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 9",
+          "index": 8,
+          "startTime": 2403.0,
+          "duration": 307.973
+        },
+        {
+          "id": "1527361198-t10",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 10",
+          "index": 9,
+          "startTime": 2710.973,
+          "duration": 308.493
+        },
+        {
+          "id": "1527361198-t11",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 11",
+          "index": 10,
+          "startTime": 3019.466,
+          "duration": 154.467
+        },
+        {
+          "id": "1527361198-t12",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 12",
+          "index": 11,
+          "startTime": 3173.933,
+          "duration": 284.56
+        },
+        {
+          "id": "1527361198-t13",
+          "title": "Folge 9: Die Elfen von Cottingley, Kapitel 13",
+          "index": 12,
+          "startTime": 3458.493,
+          "duration": 351.604
+        },
+        {
+          "id": "1527361198-t14",
+          "title": "Folge 10: Der Vampir von Sussex, Kapitel 1",
+          "index": 13,
+          "startTime": 3810.097,
+          "duration": 295.04
+        },
+        {
+          "id": "1527361198-t15",
+          "title": "Folge 10: Der Vampir von Sussex, Kapitel 2",
+          "index": 14,
+          "startTime": 4105.137,
+          "duration": 451.787
+        },
+        {
+          "id": "1527361198-t16",
+          "title": "Folge 10: Der Vampir von Sussex, Kapitel 3",
+          "index": 15,
+          "startTime": 4556.924,
+          "duration": 372.92
+        },
+        {
+          "id": "1527361198-t17",
+          "title": "Folge 10: Der Vampir von Sussex, Kapitel 4",
+          "index": 16,
+          "startTime": 4929.844,
+          "duration": 484.533
+        },
+        {
+          "id": "1527361198-t18",
+          "title": "Folge 10: Der Vampir von Sussex, Kapitel 5",
+          "index": 17,
+          "startTime": 5414.377,
+          "duration": 630.213
+        },
+        {
+          "id": "1527361198-t19",
+          "title": "Folge 10: Das gefleckte Band, Kapitel 1",
+          "index": 18,
+          "startTime": 6044.59,
+          "duration": 567.0
+        },
+        {
+          "id": "1527361198-t20",
+          "title": "Folge 10: Das gefleckte Band, Kapitel 2",
+          "index": 19,
+          "startTime": 6611.59,
+          "duration": 251.427
+        },
+        {
+          "id": "1527361198-t21",
+          "title": "Folge 10: Das gefleckte Band, Kapitel 3",
+          "index": 20,
+          "startTime": 6863.017,
+          "duration": 427.147
+        },
+        {
+          "id": "1527361198-t22",
+          "title": "Folge 10: Das gefleckte Band, Kapitel 4",
+          "index": 21,
+          "startTime": 7290.164,
+          "duration": 471.773
+        },
+        {
+          "id": "1527361198-t23",
+          "title": "Folge 10: Das gefleckte Band, Kapitel 5",
+          "index": 22,
+          "startTime": 7761.937,
+          "duration": 569.533
+        },
+        {
+          "id": "1527361198-t24",
+          "title": "Folge 10: Der Fall Milverton, Kapitel 1",
+          "index": 23,
+          "startTime": 8331.47,
+          "duration": 638.013
+        },
+        {
+          "id": "1527361198-t25",
+          "title": "Folge 10: Der Fall Milverton, Kapitel 2",
+          "index": 24,
+          "startTime": 8969.483,
+          "duration": 306.013
+        },
+        {
+          "id": "1527361198-t26",
+          "title": "Folge 10: Der Fall Milverton, Kapitel 3",
+          "index": 25,
+          "startTime": 9275.496,
+          "duration": 247.653
+        },
+        {
+          "id": "1527361198-t27",
+          "title": "Folge 10: Der Fall Milverton, Kapitel 4",
+          "index": 26,
+          "startTime": 9523.149,
+          "duration": 390.8
+        },
+        {
+          "id": "1527361198-t28",
+          "title": "Folge 10: Der Fall Milverton, Kapitel 5",
+          "index": 27,
+          "startTime": 9913.949,
+          "duration": 343.747
+        },
+        {
+          "id": "1527361198-t29",
+          "title": "Folge 10: Der Teufelsfuß, Kapitel 1",
+          "index": 28,
+          "startTime": 10257.696,
+          "duration": 508.867
+        },
+        {
+          "id": "1527361198-t30",
+          "title": "Folge 10: Der Teufelsfuß, Kapitel 2",
+          "index": 29,
+          "startTime": 10766.563,
+          "duration": 417.013
+        },
+        {
+          "id": "1527361198-t31",
+          "title": "Folge 10: Der Teufelsfuß, Kapitel 3",
+          "index": 30,
+          "startTime": 11183.576,
+          "duration": 368.52
+        },
+        {
+          "id": "1527361198-t32",
+          "title": "Folge 10: Der Teufelsfuß, Kapitel 4",
+          "index": 31,
+          "startTime": 11552.096,
+          "duration": 741.907
+        },
+        {
+          "id": "1527361198-t33",
+          "title": "Folge 10: Der Teufelsfuß, Kapitel 5",
+          "index": 32,
+          "startTime": 12294.003,
+          "duration": 793.787
+        },
+        {
+          "id": "1527361198-t34",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 1",
+          "index": 33,
+          "startTime": 13087.79,
+          "duration": 307.68
+        },
+        {
+          "id": "1527361198-t35",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 2",
+          "index": 34,
+          "startTime": 13395.47,
+          "duration": 318.813
+        },
+        {
+          "id": "1527361198-t36",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 3",
+          "index": 35,
+          "startTime": 13714.283,
+          "duration": 249.813
+        },
+        {
+          "id": "1527361198-t37",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 4",
+          "index": 36,
+          "startTime": 13964.096,
+          "duration": 307.453
+        },
+        {
+          "id": "1527361198-t38",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 5",
+          "index": 37,
+          "startTime": 14271.549,
+          "duration": 314.24
+        },
+        {
+          "id": "1527361198-t39",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 6",
+          "index": 38,
+          "startTime": 14585.789,
+          "duration": 297.613
+        },
+        {
+          "id": "1527361198-t40",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 7",
+          "index": 39,
+          "startTime": 14883.402,
+          "duration": 323.8
+        },
+        {
+          "id": "1527361198-t41",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 8",
+          "index": 40,
+          "startTime": 15207.202,
+          "duration": 282.72
+        },
+        {
+          "id": "1527361198-t42",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 9",
+          "index": 41,
+          "startTime": 15489.922,
+          "duration": 280.413
+        },
+        {
+          "id": "1527361198-t43",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 10",
+          "index": 42,
+          "startTime": 15770.335,
+          "duration": 361.24
+        },
+        {
+          "id": "1527361198-t44",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 11",
+          "index": 43,
+          "startTime": 16131.575,
+          "duration": 261.333
+        },
+        {
+          "id": "1527361198-t45",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 12",
+          "index": 44,
+          "startTime": 16392.908,
+          "duration": 245.0
+        },
+        {
+          "id": "1527361198-t46",
+          "title": "Folge 12: Ein Skandal in Böhmen, Kapitel 13",
+          "index": 45,
+          "startTime": 16637.908,
+          "duration": 391.893
+        }
+      ]
+    },
+    {
+      "id": "1263882229",
+      "title": "Specialfolge: und das kalte Auge",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/af/f8/9a/aff89a25-8c32-e047-08e0-5b55e66187ae/886444438667.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1263882229"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1235580462",
+      "title": "Specialfolge: und der Tornadojäger",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/5c/bd/e2/5cbde282-7308-b942-a2d6-e7fd717b9f47/886444438681.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1235580462"
+      },
+      "chapters": []
     }
   ],
-  "updatedAt": "2026-06-01T05:39:47Z"
+  "updatedAt": "2026-06-24T20:01:31.345682+00:00"
 }

@@ -1,0 +1,26 @@
+{
+  "seriesId": "bora-dagtekin",
+  "title": "Bora Dagtekin",
+  "language": "de",
+  "author": "Bora Dagtekin",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1648884231",
+      "title": "Türkisch für Anfänger (Original Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/89/05/99890544-4cb5-7c03-6c6a-0eb2cba0c187/4066004271125_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1648884231"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.679152+00:00"
+}

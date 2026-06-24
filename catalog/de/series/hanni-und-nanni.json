@@ -1,0 +1,39 @@
+{
+  "seriesId": "hanni-und-nanni",
+  "title": "Hanni und Nanni",
+  "language": "de",
+  "author": "Hanni und Nanni",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1844309469",
+      "title": "Folge 3: Ein heimlicher Gast auf Lindenhof (Neue Abenteuer)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/c7/2c/bac72c22-26ab-8907-bf8b-e6db81320a99/196873150307.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1844309469"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1227729328",
+      "title": "Mehr als beste Freunde - Das Original-Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/a2/07/5ca2077c-c4ae-3bda-4ee2-c02d4922038b/886446367941.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1227729328"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.790146+00:00"
+}

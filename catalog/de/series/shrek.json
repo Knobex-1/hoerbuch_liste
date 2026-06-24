@@ -1,0 +1,65 @@
+{
+  "seriesId": "shrek",
+  "title": "Shrek",
+  "language": "de",
+  "author": "Shrek",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1555510861",
+      "title": "Shrek 2 (Das Original Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/93/03/cd/9303cd62-4828-5278-177e-774d8046c2d6/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555510861"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1478136394",
+      "title": "Für immer Shrek (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/18/22/6d/18226d87-bf27-bbc8-b7b9-b1eed40bcd78/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1478136394"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1555511934",
+      "title": "Shrek (Das Original Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/29/d8/2529d897-3137-74d0-c158-aabb513b598f/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555511934"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1555515387",
+      "title": "Shrek der Dritte (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/00/02/8100029e-1fd7-c3e6-86bc-5be00b4e3230/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555515387"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.796899+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "seriesId": "die-fantastische-welt-von-oz",
+  "title": "Die fantastische Welt von Oz",
+  "language": "de",
+  "author": "Die fantastische Welt von Oz",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686161027",
+      "title": "Die fantastische Welt von Oz (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/f4/df/83f4dfc6-1f67-75dd-6c99-5ed71992a606/4066339483316.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686161027"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.784946+00:00"
+}

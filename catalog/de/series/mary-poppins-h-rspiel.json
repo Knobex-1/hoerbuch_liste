@@ -1,0 +1,39 @@
+{
+  "seriesId": "mary-poppins-h-rspiel",
+  "title": "Mary Poppins Hörspiel",
+  "language": "de",
+  "author": "Mary Poppins Hörspiel",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1686162209",
+      "title": "Mary Poppins (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/4f/84/334f84b5-70c2-ea0c-357d-688858b1b8ff/4066339483903.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686162209"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1685958256",
+      "title": "Mary Poppins' Rückkehr (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/94/17/1f9417f8-47e1-a145-0177-536162551b4c/4066339450189.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685958256"
+      },
+      "chapters": []
+    }
+  ],
+  "updatedAt": "2026-06-24T20:01:30.794036+00:00"
+}
