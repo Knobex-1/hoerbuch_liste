@@ -3,13 +3,7 @@
   "slug": "beliebte-m-rchen",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ce/30/f8/ce30f868-d4bd-5d0e-3cfc-f55ce61d7fe9/4260507148858_3000.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 42,
-      "name": "Beliebte Märchen",
-      "slug": "beliebte-märchen-beliebte-märchen"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_feadb0c479d6",
@@ -17,13 +11,13 @@
       "author": "Beliebte Märchen",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ce/30/f8/ce30f868-d4bd-5d0e-3cfc-f55ce61d7fe9/4260507148858_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1461342281,
       "status": "active",
-      "sub_franchise_id": 42,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Beliebte Märchen",
           "sub_franchise": "Beliebte Märchen"
         }
-      },
-      "sub_franchise": "Beliebte Märchen"
+      }
     }
   ],
   "episode_count": 1

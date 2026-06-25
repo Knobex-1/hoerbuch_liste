@@ -5,24 +5,9 @@
   "cover_url": "",
   "sub_franchises": [
     {
-      "id": 1,
-      "name": "Kinofilme",
-      "slug": "kinofilme"
-    },
-    {
-      "id": 3,
-      "name": "Roman-Hörspiele",
-      "slug": "roman-hoerspiele"
-    },
-    {
       "id": 4,
       "name": "Star Wars",
       "slug": "star-wars-star-wars"
-    },
-    {
-      "id": 2,
-      "name": "TV-Serien",
-      "slug": "tv-serien"
     },
     {
       "id": 8,
@@ -37,10 +22,10 @@
       "author": "Star Wars",
       "episode_number": 1,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -318,10 +303,10 @@
       "author": "Star Wars",
       "episode_number": 1,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -648,10 +633,10 @@
       "author": "Star Wars",
       "episode_number": 1,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -789,10 +774,10 @@
       "author": "Star Wars",
       "episode_number": 1,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -972,8 +957,8 @@
       "author": "Star Wars",
       "episode_number": 1,
       "genres": [
-        "Hörspiel",
         "Fantasy",
+        "Hörspiel",
         "Science-Fiction"
       ],
       "chapters": [
@@ -1315,10 +1300,10 @@
       "author": "Star Wars",
       "episode_number": 1,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -1638,10 +1623,10 @@
       "author": "Star Wars",
       "episode_number": 2,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -1786,9 +1771,9 @@
       "author": "Star Wars",
       "episode_number": 2,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -2080,10 +2065,10 @@
       "author": "Star Wars",
       "episode_number": 2,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -2361,10 +2346,10 @@
       "author": "Star Wars",
       "episode_number": 2,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -2705,10 +2690,10 @@
       "author": "Star Wars",
       "episode_number": 2,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -3070,10 +3055,10 @@
       "author": "Star Wars",
       "episode_number": 3,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
         "Comedy",
-        "Krimi"
+        "Hörspiel",
+        "Krimi",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -3372,10 +3357,10 @@
       "author": "Star Wars",
       "episode_number": 3,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -3513,10 +3498,10 @@
       "author": "Star Wars",
       "episode_number": 3,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -3843,10 +3828,10 @@
       "author": "Star Wars",
       "episode_number": 3,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -4215,9 +4200,9 @@
       "author": "Star Wars",
       "episode_number": 4,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -4530,10 +4515,10 @@
       "author": "Star Wars",
       "episode_number": 4,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -4685,10 +4670,10 @@
       "author": "Star Wars",
       "episode_number": 4,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -5008,10 +4993,10 @@
       "author": "Star Wars",
       "episode_number": 5,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -5149,9 +5134,9 @@
       "author": "Star Wars",
       "episode_number": 5,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -5443,10 +5428,10 @@
       "author": "Star Wars",
       "episode_number": 6,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -5598,9 +5583,9 @@
       "author": "Star Wars",
       "episode_number": 6,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -5920,9 +5905,9 @@
       "author": "Star Wars",
       "episode_number": 7,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -6263,9 +6248,9 @@
       "author": "Star Wars",
       "episode_number": 8,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -6620,10 +6605,10 @@
       "author": "Star Wars",
       "episode_number": 8,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -6775,9 +6760,9 @@
       "author": "Star Wars",
       "episode_number": 9,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -7153,9 +7138,9 @@
       "author": "Star Wars",
       "episode_number": 9,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -7300,10 +7285,10 @@
       "author": "Star Wars",
       "episode_number": 10,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -7441,9 +7426,9 @@
       "author": "Star Wars",
       "episode_number": 10,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -7812,9 +7797,9 @@
       "author": "Star Wars",
       "episode_number": 11,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -8183,10 +8168,10 @@
       "author": "Star Wars",
       "episode_number": 11,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -8331,10 +8316,10 @@
       "author": "Star Wars",
       "episode_number": 12,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -8472,7 +8457,7 @@
       "author": "The Clone Wars",
       "episode_number": 12,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/0e/35/eb0e354c-c424-a84b-1e95-e40f3a9d11bb/4066339395848.jpg/100x100bb.jpg",
@@ -8500,10 +8485,10 @@
       "author": "Star Wars",
       "episode_number": 13,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -8648,9 +8633,9 @@
       "author": "Star Wars",
       "episode_number": 13,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -8935,10 +8920,10 @@
       "author": "Star Wars",
       "episode_number": 14,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -9083,9 +9068,9 @@
       "author": "Star Wars",
       "episode_number": 14,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -9370,10 +9355,10 @@
       "author": "Star Wars",
       "episode_number": 15,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -9658,10 +9643,10 @@
       "author": "Star Wars",
       "episode_number": 15,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -9967,10 +9952,10 @@
       "author": "Star Wars",
       "episode_number": 16,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -10269,10 +10254,10 @@
       "author": "Star Wars",
       "episode_number": 16,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -10550,10 +10535,10 @@
       "author": "Star Wars",
       "episode_number": 17,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -10866,10 +10851,10 @@
       "author": "Star Wars",
       "episode_number": 18,
       "genres": [
-        "Science-Fiction",
-        "Kinder & Jugend",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Kinder & Jugend",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -11161,10 +11146,10 @@
       "author": "Star Wars",
       "episode_number": 19,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
         "Comedy",
-        "Krimi"
+        "Hörspiel",
+        "Krimi",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -11435,9 +11420,9 @@
       "author": "Star Wars",
       "episode_number": 20,
       "genres": [
-        "Science-Fiction",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -11652,10 +11637,10 @@
       "author": "Star Wars",
       "episode_number": 21,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
         "Comedy",
-        "Krimi"
+        "Hörspiel",
+        "Krimi",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -11891,10 +11876,10 @@
       "author": "Star Wars",
       "episode_number": 22,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Comedy",
         "Hörspiel",
-        "Comedy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -12137,10 +12122,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -12285,10 +12270,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/72/bb/83/72bb83d6-c16b-fde0-ebfd-9bc7f4adc91e/4064066834982_cover.jpg/100x100bb.jpg",
@@ -12312,10 +12297,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/da/ad/c6daad6c-a222-6fbc-fc69-09863aa5a98a/4064066834975_cover.jpg/100x100bb.jpg",
@@ -12339,10 +12324,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -12445,10 +12430,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -12523,10 +12508,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -12902,10 +12887,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/fb/e6/44fbe6e4-602f-ee21-cf32-10318e6b2a3d/4064066834968_cover.jpg/100x100bb.jpg",
@@ -12929,10 +12914,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/bb/f1/5bbbf10e-b5a5-dba4-ced9-82fcab7b29d4/4064066834944_cover.jpg/100x100bb.jpg",
@@ -12956,10 +12941,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/d5/2b/dbd52b22-5c88-9584-3891-ebaf533ba390/4064066834937_cover.jpg/100x100bb.jpg",
@@ -12983,10 +12968,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/31/8c/de318cc7-440b-a538-d28f-d5ec7f1bec8b/4064066834920_cover.jpg/100x100bb.jpg",
@@ -13010,9 +12995,9 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
-        "Fantasy"
+        "Fantasy",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/8c/dd/158cdd9b-66fd-9525-f1b1-8a9d207c76d6/4064066834951_cover.jpg/100x100bb.jpg",
@@ -13036,10 +13021,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4f/e5/a7/4fe5a73a-68c4-a8ae-8f9b-bd8663654e38/4064066834913_cover.jpg/100x100bb.jpg",
@@ -13063,10 +13048,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/9f/38/2a9f382b-783c-b5b3-72da-10350da5a77a/4064066834906_cover.jpg/100x100bb.jpg",
@@ -13090,10 +13075,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/d4/2f/cdd42f8a-90a7-a495-aa6d-878eaf1755aa/4064066834890_cover.jpg/100x100bb.jpg",
@@ -13117,10 +13102,10 @@
       "author": "Star Wars",
       "episode_number": null,
       "genres": [
-        "Science-Fiction",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/37/ba/e437bab5-4629-a13f-84ff-5a4a19f607a5/4064066834883_cover.jpg/100x100bb.jpg",

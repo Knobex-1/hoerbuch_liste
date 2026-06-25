@@ -3,13 +3,7 @@
   "slug": "feuerwehrmann-sam",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/bd/8c/d2bd8ce5-68f8-c3fa-a4d7-35337d780110/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 72,
-      "name": "Feuerwehrmann Sam",
-      "slug": "feuerwehrmann-sam-feuerwehrmann-sam"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_c7cc429e4b81",
@@ -17,13 +11,13 @@
       "author": "Feuerwehrmann Sam",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/bd/8c/d2bd8ce5-68f8-c3fa-a4d7-35337d780110/cover.jpg/100x100bb.jpg",
       "apple_music_id": 6772233140,
       "status": "active",
-      "sub_franchise_id": 72,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Feuerwehrmann Sam",
           "sub_franchise": "Feuerwehrmann Sam"
         }
-      },
-      "sub_franchise": "Feuerwehrmann Sam"
+      }
     }
   ],
   "episode_count": 1

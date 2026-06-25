@@ -3,13 +3,7 @@
   "slug": "cruella",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/4e/a3/3c4ea34b-8273-5ff1-f25e-8ea209c0d6d2/4066339450295.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 103,
-      "name": "Cruella",
-      "slug": "cruella-cruella"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_ceb4704c4b5d",
@@ -17,13 +11,13 @@
       "author": "Cruella",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/4e/a3/3c4ea34b-8273-5ff1-f25e-8ea209c0d6d2/4066339450295.jpg/100x100bb.jpg",
       "apple_music_id": 1686157849,
       "status": "active",
-      "sub_franchise_id": 103,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Cruella",
           "sub_franchise": "Cruella"
         }
-      },
-      "sub_franchise": "Cruella"
+      }
     }
   ],
   "episode_count": 1

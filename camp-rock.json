@@ -3,13 +3,7 @@
   "slug": "camp-rock",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/c9/3d/3bc93d30-efd9-6d15-9350-9a1965872675/4066339609518.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 123,
-      "name": "Camp Rock",
-      "slug": "camp-rock-camp-rock"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_3e60b9cbdea9",
@@ -17,13 +11,13 @@
       "author": "Camp Rock",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/c9/3d/3bc93d30-efd9-6d15-9350-9a1965872675/4066339609518.jpg/100x100bb.jpg",
       "apple_music_id": 1686013372,
       "status": "active",
-      "sub_franchise_id": 123,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Camp Rock",
           "sub_franchise": "Camp Rock"
         }
-      },
-      "sub_franchise": "Camp Rock"
+      }
     }
   ],
   "episode_count": 1

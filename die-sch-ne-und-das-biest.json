@@ -3,13 +3,7 @@
   "slug": "die-sch-ne-und-das-biest",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/8c/b2/f18cb220-913d-98a9-5c7d-0cb829240936/4066339467989.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 70,
-      "name": "Die Schöne und das Biest",
-      "slug": "die-schöne-und-das-biest-die-schöne-und-das-biest"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_1c71ab8357c0",
@@ -17,13 +11,13 @@
       "author": "Die Schöne und das Biest",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/8c/b2/f18cb220-913d-98a9-5c7d-0cb829240936/4066339467989.jpg/100x100bb.jpg",
       "apple_music_id": 1686163046,
       "status": "active",
-      "sub_franchise_id": 70,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Die Schöne und das Biest",
           "sub_franchise": "Die Schöne und das Biest"
         }
-      },
-      "sub_franchise": "Die Schöne und das Biest"
+      }
     }
   ],
   "episode_count": 1

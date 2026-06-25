@@ -3,13 +3,7 @@
   "slug": "mia-and-me",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a9/04/c1/a904c1cd-15d3-0bc0-90bc-d7b050a5e686/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 73,
-      "name": "Mia and Me",
-      "slug": "mia-and-me-mia-and-me"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_42ad2e925a73",
@@ -17,13 +11,13 @@
       "author": "Mia and Me",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a9/04/c1/a904c1cd-15d3-0bc0-90bc-d7b050a5e686/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1624446231,
       "status": "active",
-      "sub_franchise_id": 73,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Mia and Me",
           "sub_franchise": "Mia and Me"
         }
-      },
-      "sub_franchise": "Mia and Me"
+      }
     }
   ],
   "episode_count": 1

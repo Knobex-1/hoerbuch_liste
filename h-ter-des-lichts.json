@@ -3,13 +3,7 @@
   "slug": "h-ter-des-lichts",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c3/21/c5/c321c515-f36d-3d04-dcdf-535e9adba568/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 96,
-      "name": "Hüter des Lichts",
-      "slug": "hüter-des-lichts-hüter-des-lichts"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_4ccde64b1684",
@@ -17,13 +11,13 @@
       "author": "Hüter des Lichts",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c3/21/c5/c321c515-f36d-3d04-dcdf-535e9adba568/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1553493679,
       "status": "active",
-      "sub_franchise_id": 96,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Hüter des Lichts",
           "sub_franchise": "Hüter des Lichts"
         }
-      },
-      "sub_franchise": "Hüter des Lichts"
+      }
     }
   ],
   "episode_count": 1

@@ -3,13 +3,7 @@
   "slug": "latte-igel",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/46/16/e14616a1-454b-bd80-a1d5-d5acbd0d829d/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 131,
-      "name": "Latte Igel",
-      "slug": "latte-igel-latte-igel"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_b79c1ebf9f92",
@@ -17,13 +11,13 @@
       "author": "Latte Igel",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/46/16/e14616a1-454b-bd80-a1d5-d5acbd0d829d/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1489224699,
       "status": "active",
-      "sub_franchise_id": 131,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Latte Igel",
           "sub_franchise": "Latte Igel"
         }
-      },
-      "sub_franchise": "Latte Igel"
+      }
     }
   ],
   "episode_count": 1

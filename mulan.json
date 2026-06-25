@@ -3,13 +3,7 @@
   "slug": "mulan",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/5d/ae/265daeba-9af8-fbad-beb4-0cbee91d8027/4066339450233.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 104,
-      "name": "Mulan",
-      "slug": "mulan-mulan"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_74b389c4cb02",
@@ -17,13 +11,13 @@
       "author": "Mulan",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/5d/ae/265daeba-9af8-fbad-beb4-0cbee91d8027/4066339450233.jpg/100x100bb.jpg",
       "apple_music_id": 1685956753,
       "status": "active",
-      "sub_franchise_id": 104,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Mulan",
           "sub_franchise": "Mulan"
         }
-      },
-      "sub_franchise": "Mulan"
+      }
     }
   ],
   "episode_count": 1

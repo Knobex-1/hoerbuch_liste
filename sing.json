@@ -3,13 +3,7 @@
   "slug": "sing",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/f6/34/42f63436-f844-ef01-63b2-b506083f43e0/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 53,
-      "name": "Sing",
-      "slug": "sing-sing"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_952210c515e2",
@@ -17,13 +11,13 @@
       "author": "Sing",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f8/13/62/f81362dd-d032-2423-08e7-f0c695be48b7/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1593424576,
       "status": "active",
-      "sub_franchise_id": 53,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Sing",
           "sub_franchise": "Sing"
         }
-      },
-      "sub_franchise": "Sing"
+      }
     },
     {
       "id": "ep_78df33e5d07f",
@@ -45,13 +38,13 @@
       "author": "Sing",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/f6/34/42f63436-f844-ef01-63b2-b506083f43e0/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1606407137,
       "status": "active",
-      "sub_franchise_id": 53,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Sing",
           "sub_franchise": "Sing"
         }
-      },
-      "sub_franchise": "Sing"
+      }
     }
   ],
   "episode_count": 2

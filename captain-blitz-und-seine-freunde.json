@@ -3,13 +3,7 @@
   "slug": "captain-blitz-und-seine-freunde",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/63/ae/4c/63ae4cce-563b-dbf4-31b1-103f9ce15be4/4260507139245_3000.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 45,
-      "name": "Captain Blitz und seine Freunde",
-      "slug": "captain-blitz-und-seine-freunde-captain-blitz-und-seine-freunde"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_3b84746d3fa4",
@@ -17,13 +11,13 @@
       "author": "Captain Blitz und seine Freunde",
       "episode_number": 5,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/63/ae/4c/63ae4cce-563b-dbf4-31b1-103f9ce15be4/4260507139245_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1362656749,
       "status": "active",
-      "sub_franchise_id": 45,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Captain Blitz und seine Freunde",
           "sub_franchise": "Captain Blitz und seine Freunde"
         }
-      },
-      "sub_franchise": "Captain Blitz und seine Freunde"
+      }
     }
   ],
   "episode_count": 1

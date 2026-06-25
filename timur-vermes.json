@@ -3,13 +3,7 @@
   "slug": "timur-vermes",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/04/72/f80472f8-c0ef-60ef-e690-2c7e16d983f3/9783838777146_1448.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 80,
-      "name": "Timur Vermes",
-      "slug": "timur-vermes-timur-vermes"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_13b667a93a63",
@@ -17,7 +11,7 @@
       "author": "Timur Vermes",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -264,7 +258,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/04/72/f80472f8-c0ef-60ef-e690-2c7e16d983f3/9783838777146_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1045015245,
       "status": "active",
-      "sub_franchise_id": 80,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -277,8 +271,7 @@
           "franchise": "Timur Vermes",
           "sub_franchise": "Timur Vermes"
         }
-      },
-      "sub_franchise": "Timur Vermes"
+      }
     }
   ],
   "episode_count": 1

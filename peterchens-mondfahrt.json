@@ -3,13 +3,7 @@
   "slug": "peterchens-mondfahrt",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/fa/3e/7ffa3e4a-cbf6-c138-a1d9-bd82d4d4c1a2/886447621103.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 105,
-      "name": "Peterchens Mondfahrt",
-      "slug": "peterchens-mondfahrt-peterchens-mondfahrt"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_e69871b43d34",
@@ -17,13 +11,13 @@
       "author": "Peterchens Mondfahrt",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/fa/3e/7ffa3e4a-cbf6-c138-a1d9-bd82d4d4c1a2/886447621103.jpg/100x100bb.jpg",
       "apple_music_id": 1471613738,
       "status": "active",
-      "sub_franchise_id": 105,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Peterchens Mondfahrt",
           "sub_franchise": "Peterchens Mondfahrt"
         }
-      },
-      "sub_franchise": "Peterchens Mondfahrt"
+      }
     }
   ],
   "episode_count": 1

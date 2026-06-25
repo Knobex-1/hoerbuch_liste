@@ -3,13 +3,7 @@
   "slug": "prince-of-persia-der-sand-der-zeit",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/23/7f/8c237f77-6646-c506-d0c4-07730922a8ba/4066339483750.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 129,
-      "name": "Prince Of Persia - Der Sand der Zeit",
-      "slug": "prince-of-persia-der-sand-der-zeit-prince-of-persia-der-sand-der-zeit"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_0aaede4b7614",
@@ -17,13 +11,13 @@
       "author": "Prince Of Persia - Der Sand der Zeit",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/23/7f/8c237f77-6646-c506-d0c4-07730922a8ba/4066339483750.jpg/100x100bb.jpg",
       "apple_music_id": 1685999547,
       "status": "active",
-      "sub_franchise_id": 129,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Prince Of Persia - Der Sand der Zeit",
           "sub_franchise": "Prince Of Persia - Der Sand der Zeit"
         }
-      },
-      "sub_franchise": "Prince Of Persia - Der Sand der Zeit"
+      }
     }
   ],
   "episode_count": 1

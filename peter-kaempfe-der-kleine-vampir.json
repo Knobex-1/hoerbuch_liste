@@ -3,13 +3,7 @@
   "slug": "peter-kaempfe-der-kleine-vampir",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e6/41/fc/e641fc95-e77b-a5cd-c3ca-8f1614cc6fa3/4057664535795_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 95,
-      "name": "Peter Kaempfe & Der kleine Vampir",
-      "slug": "peter-kaempfe-und-der-kleine-vampir-peter-kaempfe-und-der-kleine-vampir"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_c7dff223420c",
@@ -17,13 +11,13 @@
       "author": "Peter Kaempfe & Der kleine Vampir",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e6/41/fc/e641fc95-e77b-a5cd-c3ca-8f1614cc6fa3/4057664535795_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1460371074,
       "status": "active",
-      "sub_franchise_id": 95,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Peter Kaempfe & Der kleine Vampir",
           "sub_franchise": "Peter Kaempfe & Der kleine Vampir"
         }
-      },
-      "sub_franchise": "Peter Kaempfe & Der kleine Vampir"
+      }
     }
   ],
   "episode_count": 1

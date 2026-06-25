@@ -3,13 +3,7 @@
   "slug": "leonie-beckenbach-tim-oliver-schultz-luise-befort",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/28/12/542812e6-ccf3-32f3-34a6-c35a4ff16df5/4057664534255_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 138,
-      "name": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort",
-      "slug": "leonie-beckenbach-tim-oliver-schultz-und-luise-befort-leonie-beckenbach-tim-oliver-schultz-und-luise-befort"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_52f61734feca",
@@ -17,13 +11,13 @@
       "author": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/28/12/542812e6-ccf3-32f3-34a6-c35a4ff16df5/4057664534255_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1460000330,
       "status": "active",
-      "sub_franchise_id": 138,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort",
           "sub_franchise": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort"
         }
-      },
-      "sub_franchise": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort"
+      }
     }
   ],
   "episode_count": 1

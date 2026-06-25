@@ -3,13 +3,7 @@
   "slug": "hannah-montana-h-rspiel",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/ff/57/ffff5743-7aa0-5206-28a0-3ef087b14ba3/4066339483576.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 98,
-      "name": "Hannah Montana Hörspiel",
-      "slug": "hannah-montana-hörspiel-hannah-montana-hörspiel"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_d27973c0cad7",
@@ -17,13 +11,13 @@
       "author": "Hannah Montana Hörspiel",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/ff/57/ffff5743-7aa0-5206-28a0-3ef087b14ba3/4066339483576.jpg/100x100bb.jpg",
       "apple_music_id": 1686161108,
       "status": "active",
-      "sub_franchise_id": 98,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Hannah Montana Hörspiel",
           "sub_franchise": "Hannah Montana Hörspiel"
         }
-      },
-      "sub_franchise": "Hannah Montana Hörspiel"
+      }
     }
   ],
   "episode_count": 1

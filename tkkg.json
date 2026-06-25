@@ -3,13 +3,7 @@
   "slug": "tkkg",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [
-    {
-      "id": 12,
-      "name": "TKKG",
-      "slug": "tkkg-tkkg"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "tkkg-folg-8273",
@@ -17,9 +11,9 @@
       "author": "Stefan Wolf",
       "episode_number": 1,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -289,10 +283,10 @@
       "author": "Stefan Wolf",
       "episode_number": 1,
       "genres": [
-        "Krimi",
         "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -492,10 +486,10 @@
       "author": "Stefan Wolf",
       "episode_number": 2,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -765,11 +759,11 @@
       "author": "Stefan Wolf",
       "episode_number": 3,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
         "Hörspiel",
+        "Kinder & Jugend",
         "Krimi",
-        "Kinder & Jugend"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -1074,10 +1068,10 @@
       "author": "Stefan Wolf",
       "episode_number": 4,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -1347,10 +1341,10 @@
       "author": "Stefan Wolf",
       "episode_number": 5,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -1551,8 +1545,8 @@
       "episode_number": 5,
       "genres": [
         "Abenteuer",
-        "Kinder & Jugend",
         "Hörspiel",
+        "Kinder & Jugend",
         "Krimi"
       ],
       "chapters": [
@@ -1823,9 +1817,9 @@
       "author": "Stefan Wolf",
       "episode_number": 5,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -1916,7 +1910,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4a/1f/5c/4a1f5c42-e4fc-173a-69d2-c1decdcb3837/886443185807.jpg/100x100bb.jpg",
       "apple_music_id": 490742749,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.741597",
       "extra": {
@@ -1926,8 +1920,7 @@
         "platforms": {
           "appleMusic": "490742749"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-8929",
@@ -1935,10 +1928,10 @@
       "author": "Stefan Wolf",
       "episode_number": 6,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -2138,10 +2131,10 @@
       "author": "Stefan Wolf",
       "episode_number": 6,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -2411,10 +2404,10 @@
       "author": "Stefan Wolf",
       "episode_number": 7,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -2614,10 +2607,10 @@
       "author": "Stefan Wolf",
       "episode_number": 7,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -3105,8 +3098,8 @@
       "episode_number": 8,
       "genres": [
         "Abenteuer",
-        "Kinder & Jugend",
         "Hörspiel",
+        "Kinder & Jugend",
         "Krimi"
       ],
       "chapters": [
@@ -3393,8 +3386,8 @@
       "genres": [
         "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -3594,9 +3587,9 @@
       "author": "Stefan Wolf",
       "episode_number": 9,
       "genres": [
-        "Kinder & Jugend",
         "Abenteuer",
         "Hörspiel",
+        "Kinder & Jugend",
         "Krimi"
       ],
       "chapters": [
@@ -4084,11 +4077,11 @@
       "author": "Stefan Wolf",
       "episode_number": 10,
       "genres": [
+        "Abenteuer",
         "Horror",
-        "Kinder & Jugend",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -4372,10 +4365,10 @@
       "author": "Stefan Wolf",
       "episode_number": 11,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -4575,10 +4568,10 @@
       "author": "Stefan Wolf",
       "episode_number": 11,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -5065,10 +5058,10 @@
       "author": "Stefan Wolf",
       "episode_number": 12,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -5352,10 +5345,10 @@
       "author": "Stefan Wolf",
       "episode_number": 13,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -5639,10 +5632,10 @@
       "author": "Stefan Wolf",
       "episode_number": 13,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -6045,10 +6038,10 @@
       "author": "Stefan Wolf",
       "episode_number": 14,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -6332,10 +6325,10 @@
       "author": "Stefan Wolf",
       "episode_number": 15,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -6619,11 +6612,11 @@
       "author": "Stefan Wolf",
       "episode_number": 15,
       "genres": [
-        "Science-Fiction",
         "Abenteuer",
         "Hörspiel",
+        "Kinder & Jugend",
         "Krimi",
-        "Kinder & Jugend"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -6823,10 +6816,10 @@
       "author": "Stefan Wolf",
       "episode_number": 16,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -7019,10 +7012,10 @@
       "author": "Stefan Wolf",
       "episode_number": 16,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -7222,10 +7215,10 @@
       "author": "Stefan Wolf",
       "episode_number": 17,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -7425,10 +7418,10 @@
       "author": "Stefan Wolf",
       "episode_number": 17,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -7642,10 +7635,10 @@
       "author": "Stefan Wolf",
       "episode_number": 18,
       "genres": [
+        "Fantasy",
         "Hörspiel",
         "Kinder & Jugend",
-        "Krimi",
-        "Fantasy"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -8069,10 +8062,10 @@
       "author": "Stefan Wolf",
       "episode_number": 19,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -8293,10 +8286,10 @@
       "author": "Stefan Wolf",
       "episode_number": 20,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -8824,11 +8817,11 @@
       "author": "Stefan Wolf",
       "episode_number": 21,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -9029,8 +9022,8 @@
       "episode_number": 22,
       "genres": [
         "Abenteuer",
-        "Kinder & Jugend",
-        "Hörspiel"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -9630,9 +9623,9 @@
       "author": "Stefan Wolf",
       "episode_number": 23,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -9805,9 +9798,9 @@
       "author": "Stefan Wolf",
       "episode_number": 24,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -9995,8 +9988,8 @@
       "episode_number": 24,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -10400,10 +10393,10 @@
       "author": "Stefan Wolf",
       "episode_number": 25,
       "genres": [
-        "Krimi",
         "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -10597,9 +10590,9 @@
       "author": "Stefan Wolf",
       "episode_number": 26,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -10772,10 +10765,10 @@
       "author": "Stefan Wolf",
       "episode_number": 26,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -10975,10 +10968,10 @@
       "author": "Stefan Wolf",
       "episode_number": 27,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -11164,10 +11157,10 @@
       "author": "Stefan Wolf",
       "episode_number": 27,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -11367,9 +11360,9 @@
       "author": "Stefan Wolf",
       "episode_number": 28,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer",
         "Krimi"
       ],
       "chapters": [
@@ -11564,11 +11557,11 @@
       "author": "Stefan Wolf",
       "episode_number": 28,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -11769,8 +11762,8 @@
       "episode_number": 29,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -11971,10 +11964,10 @@
       "author": "Stefan Wolf",
       "episode_number": 30,
       "genres": [
+        "Horror",
         "Hörspiel",
         "Kinder & Jugend",
-        "Krimi",
-        "Horror"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -12175,10 +12168,10 @@
       "author": "Stefan Wolf",
       "episode_number": 30,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -12581,10 +12574,10 @@
       "author": "Stefan Wolf",
       "episode_number": 31,
       "genres": [
-        "Krimi",
         "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -12756,10 +12749,10 @@
       "author": "Stefan Wolf",
       "episode_number": 32,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -13143,8 +13136,8 @@
       "episode_number": 33,
       "genres": [
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
+        "Krimi",
         "Pferde"
       ],
       "chapters": [
@@ -13346,9 +13339,9 @@
       "author": "Stefan Wolf",
       "episode_number": 34,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -13837,8 +13830,8 @@
       "episode_number": 35,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -14039,10 +14032,10 @@
       "author": "Stefan Wolf",
       "episode_number": 36,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -14242,9 +14235,9 @@
       "author": "Stefan Wolf",
       "episode_number": 36,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -14494,9 +14487,9 @@
       "author": "Stefan Wolf",
       "episode_number": 37,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -14753,10 +14746,10 @@
       "author": "Stefan Wolf",
       "episode_number": 38,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -14956,10 +14949,10 @@
       "author": "Stefan Wolf",
       "episode_number": 39,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -15159,10 +15152,10 @@
       "author": "Stefan Wolf",
       "episode_number": 39,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
         "Abenteuer",
-        "Horror"
+        "Horror",
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -15391,9 +15384,9 @@
       "author": "Stefan Wolf",
       "episode_number": 40,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -15637,9 +15630,9 @@
       "episode_number": 40,
       "genres": [
         "Hörspiel",
+        "Kinder & Jugend",
         "Krimi",
-        "Thriller",
-        "Kinder & Jugend"
+        "Thriller"
       ],
       "chapters": [
         {
@@ -15840,10 +15833,10 @@
       "author": "Stefan Wolf",
       "episode_number": 41,
       "genres": [
-        "Science-Fiction",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -16051,10 +16044,10 @@
       "author": "Stefan Wolf",
       "episode_number": 41,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -16255,9 +16248,9 @@
       "episode_number": 42,
       "genres": [
         "Hörspiel",
+        "Kinder & Jugend",
         "Krimi",
-        "Thriller",
-        "Kinder & Jugend"
+        "Thriller"
       ],
       "chapters": [
         {
@@ -16458,8 +16451,8 @@
       "author": "Stefan Wolf",
       "episode_number": 42,
       "genres": [
-        "Hörspiel",
         "Abenteuer",
+        "Hörspiel",
         "Kinder & Jugend"
       ],
       "chapters": [
@@ -16906,10 +16899,10 @@
       "author": "Stefan Wolf",
       "episode_number": 43,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -17110,8 +17103,8 @@
       "episode_number": 44,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -17312,10 +17305,10 @@
       "author": "Stefan Wolf",
       "episode_number": 45,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -17515,11 +17508,11 @@
       "author": "Stefan Wolf",
       "episode_number": 46,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -17720,8 +17713,8 @@
       "episode_number": 47,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -17922,9 +17915,9 @@
       "author": "Stefan Wolf",
       "episode_number": 48,
       "genres": [
-        "Hörspiel",
-        "Fantasy",
         "Abenteuer",
+        "Fantasy",
+        "Hörspiel",
         "Kinder & Jugend",
         "Krimi"
       ],
@@ -18940,8 +18933,8 @@
       "episode_number": 53,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -19346,8 +19339,8 @@
       "episode_number": 55,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -19548,11 +19541,11 @@
       "author": "Stefan Wolf",
       "episode_number": 55,
       "genres": [
+        "Abenteuer",
         "Comedy",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -19636,7 +19629,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/e9/50/d4e9506a-da66-4d72-b098-f7f7efd24432/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1596940691,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740979",
       "extra": {
@@ -19646,8 +19639,7 @@
         "platforms": {
           "appleMusic": "1596940691"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "1442271614",
@@ -19655,10 +19647,10 @@
       "author": "Stefan Wolf",
       "episode_number": 56,
       "genres": [
+        "Fantasy",
         "Hörspiel",
         "Kinder & Jugend",
-        "Krimi",
-        "Fantasy"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -19859,10 +19851,10 @@
       "author": "Stefan Wolf",
       "episode_number": 57,
       "genres": [
+        "Horror",
         "Hörspiel",
         "Kinder & Jugend",
-        "Krimi",
-        "Horror"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -20269,8 +20261,8 @@
         "Abenteuer",
         "Fantasy",
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -21079,10 +21071,10 @@
       "author": "Stefan Wolf",
       "episode_number": 63,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -21689,8 +21681,8 @@
       "episode_number": 67,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -21891,10 +21883,10 @@
       "author": "Stefan Wolf",
       "episode_number": 68,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -22094,8 +22086,8 @@
       "author": "Stefan Wolf",
       "episode_number": 69,
       "genres": [
-        "Hörspiel",
         "Fantasy",
+        "Hörspiel",
         "Kinder & Jugend",
         "Krimi"
       ],
@@ -22704,10 +22696,10 @@
       "author": "Stefan Wolf",
       "episode_number": 72,
       "genres": [
+        "Horror",
         "Hörspiel",
         "Kinder & Jugend",
-        "Krimi",
-        "Horror"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -23112,9 +23104,9 @@
       "episode_number": 74,
       "genres": [
         "Hörspiel",
+        "Kinder & Jugend",
         "Krimi",
-        "Thriller",
-        "Kinder & Jugend"
+        "Thriller"
       ],
       "chapters": [
         {
@@ -23518,10 +23510,10 @@
       "author": "Stefan Wolf",
       "episode_number": 76,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -23722,8 +23714,8 @@
       "episode_number": 77,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -24127,10 +24119,10 @@
       "author": "Stefan Wolf",
       "episode_number": 79,
       "genres": [
-        "Krimi",
-        "Thriller",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -24331,10 +24323,10 @@
       "author": "Stefan Wolf",
       "episode_number": 80,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -24738,10 +24730,10 @@
       "author": "Stefan Wolf",
       "episode_number": 82,
       "genres": [
+        "Horror",
         "Hörspiel",
         "Kinder & Jugend",
-        "Krimi",
-        "Horror"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -25146,10 +25138,10 @@
       "author": "Stefan Wolf",
       "episode_number": 84,
       "genres": [
-        "Krimi",
-        "Thriller",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -25553,10 +25545,10 @@
       "author": "Stefan Wolf",
       "episode_number": 86,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -25757,8 +25749,8 @@
       "episode_number": 87,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -25959,8 +25951,8 @@
       "author": "Stefan Wolf",
       "episode_number": 88,
       "genres": [
-        "Hörspiel",
         "Fantasy",
+        "Hörspiel",
         "Kinder & Jugend",
         "Krimi"
       ],
@@ -26365,10 +26357,10 @@
       "author": "Stefan Wolf",
       "episode_number": 90,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -26974,8 +26966,8 @@
       "episode_number": 93,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -27176,10 +27168,10 @@
       "author": "Stefan Wolf",
       "episode_number": 94,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -27581,10 +27573,10 @@
       "author": "Stefan Wolf",
       "episode_number": 96,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -27784,10 +27776,10 @@
       "author": "Stefan Wolf",
       "episode_number": 97,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -27987,10 +27979,10 @@
       "author": "Stefan Wolf",
       "episode_number": 98,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -28190,11 +28182,11 @@
       "author": "Stefan Wolf",
       "episode_number": 99,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -28395,8 +28387,8 @@
       "episode_number": 100,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -28683,7 +28675,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/b2/53/45/b25345c6-6e91-6193-9c05-1105fe5a7114/886446327099.jpg/600x600bb.jpg",
       "apple_music_id": 1195632440,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740584",
       "extra": {
@@ -28693,8 +28685,7 @@
         "platforms": {
           "appleMusic": "1195632440"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-7277",
@@ -28702,10 +28693,10 @@
       "author": "Stefan Wolf",
       "episode_number": 101,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -29011,8 +29002,8 @@
       "episode_number": 102,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -29299,7 +29290,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/4f/7b/b04f7bcc-8446-81de-17ac-3d410150ecef/886446327143.jpg/600x600bb.jpg",
       "apple_music_id": 1195630985,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740585",
       "extra": {
@@ -29309,8 +29300,7 @@
         "platforms": {
           "appleMusic": "1195630985"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-8051",
@@ -29625,11 +29615,11 @@
       "author": "Stefan Wolf",
       "episode_number": 104,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -29934,10 +29924,10 @@
       "author": "Stefan Wolf",
       "episode_number": 105,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -30242,10 +30232,10 @@
       "author": "Stefan Wolf",
       "episode_number": 106,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -30550,10 +30540,10 @@
       "author": "Stefan Wolf",
       "episode_number": 107,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -30858,10 +30848,10 @@
       "author": "Stefan Wolf",
       "episode_number": 108,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -31473,10 +31463,10 @@
       "author": "Stefan Wolf",
       "episode_number": 110,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -32088,10 +32078,10 @@
       "author": "Stefan Wolf",
       "episode_number": 112,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -32396,10 +32386,10 @@
       "author": "Stefan Wolf",
       "episode_number": 113,
       "genres": [
-        "Krimi",
         "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -33011,10 +33001,10 @@
       "author": "Stefan Wolf",
       "episode_number": 115,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -33320,10 +33310,10 @@
       "episode_number": 116,
       "genres": [
         "Abenteuer",
-        "Kinder & Jugend",
+        "Fantasy",
         "Hörspiel",
-        "Krimi",
-        "Fantasy"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -33628,13 +33618,13 @@
       "author": "Stefan Wolf",
       "episode_number": 117,
       "genres": [
+        "Abenteuer",
+        "Entspannung",
         "Fantasy",
         "Horror",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer",
-        "Entspannung"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -33939,10 +33929,10 @@
       "author": "Stefan Wolf",
       "episode_number": 118,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -34247,10 +34237,10 @@
       "author": "Stefan Wolf",
       "episode_number": 119,
       "genres": [
-        "Krimi",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -34555,10 +34545,10 @@
       "author": "Stefan Wolf",
       "episode_number": 120,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -34863,10 +34853,10 @@
       "author": "Stefan Wolf",
       "episode_number": 121,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -35478,11 +35468,11 @@
       "author": "Stefan Wolf",
       "episode_number": 123,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -35787,10 +35777,10 @@
       "author": "Stefan Wolf",
       "episode_number": 124,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -36095,10 +36085,10 @@
       "author": "Stefan Wolf",
       "episode_number": 125,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -36403,10 +36393,10 @@
       "author": "Stefan Wolf",
       "episode_number": 126,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -36711,10 +36701,10 @@
       "author": "Stefan Wolf",
       "episode_number": 127,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -37019,10 +37009,10 @@
       "author": "Stefan Wolf",
       "episode_number": 129,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -37634,10 +37624,10 @@
       "author": "Stefan Wolf",
       "episode_number": 131,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -37942,10 +37932,10 @@
       "author": "Stefan Wolf",
       "episode_number": 132,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -38250,10 +38240,10 @@
       "author": "Stefan Wolf",
       "episode_number": 133,
       "genres": [
-        "Krimi",
         "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -38558,10 +38548,10 @@
       "author": "Stefan Wolf",
       "episode_number": 134,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -38866,10 +38856,10 @@
       "author": "Stefan Wolf",
       "episode_number": 135,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -39481,10 +39471,10 @@
       "author": "Stefan Wolf",
       "episode_number": 137,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -39789,10 +39779,10 @@
       "author": "Stefan Wolf",
       "episode_number": 138,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -40097,11 +40087,11 @@
       "author": "Stefan Wolf",
       "episode_number": 139,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -41034,10 +41024,10 @@
       "author": "Stefan Wolf",
       "episode_number": 142,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -41342,11 +41332,11 @@
       "author": "Stefan Wolf",
       "episode_number": 143,
       "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
         "Abenteuer",
-        "Horror"
+        "Horror",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -41958,10 +41948,10 @@
       "author": "Stefan Wolf",
       "episode_number": 145,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -42266,10 +42256,10 @@
       "author": "Stefan Wolf",
       "episode_number": 146,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -42574,10 +42564,10 @@
       "author": "Stefan Wolf",
       "episode_number": 147,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -42882,10 +42872,10 @@
       "author": "Stefan Wolf",
       "episode_number": 148,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -43190,10 +43180,10 @@
       "author": "Stefan Wolf",
       "episode_number": 149,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -43498,10 +43488,10 @@
       "author": "Stefan Wolf",
       "episode_number": 150,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -43806,10 +43796,10 @@
       "author": "Stefan Wolf",
       "episode_number": 151,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -44114,10 +44104,10 @@
       "author": "Stefan Wolf",
       "episode_number": 152,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -44422,10 +44412,10 @@
       "author": "Stefan Wolf",
       "episode_number": 153,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -44730,10 +44720,10 @@
       "author": "Stefan Wolf",
       "episode_number": 154,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -45038,11 +45028,11 @@
       "author": "Stefan Wolf",
       "episode_number": 155,
       "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
         "Abenteuer",
-        "Horror"
+        "Horror",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -45654,10 +45644,10 @@
       "author": "Stefan Wolf",
       "episode_number": 157,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -45963,8 +45953,8 @@
       "episode_number": 158,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -46251,7 +46241,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/f3/80/9d/f3809d98-1df2-0a8e-c27b-5b63a5ccef66/886445640656.jpg/600x600bb.jpg",
       "apple_music_id": 1087325856,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740581",
       "extra": {
@@ -46261,8 +46251,7 @@
         "platforms": {
           "appleMusic": "1087325856"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-9187",
@@ -46270,10 +46259,10 @@
       "author": "Stefan Wolf",
       "episode_number": 159,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -46885,10 +46874,10 @@
       "author": "Stefan Wolf",
       "episode_number": 161,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -47193,10 +47182,10 @@
       "author": "Stefan Wolf",
       "episode_number": 162,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -47501,10 +47490,10 @@
       "author": "Stefan Wolf",
       "episode_number": 163,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -47809,11 +47798,11 @@
       "author": "Stefan Wolf",
       "episode_number": 164,
       "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
         "Abenteuer",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -48118,7 +48107,7 @@
       "author": "TKKG",
       "episode_number": 164,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -48131,7 +48120,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/3b/f1/31/mzi.anxiotce.jpg/100x100bb.jpg",
       "apple_music_id": 314343718,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:22",
       "extra": {
@@ -48144,8 +48133,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-6810",
@@ -48153,10 +48141,10 @@
       "author": "Stefan Wolf",
       "episode_number": 165,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -48461,10 +48449,10 @@
       "author": "Stefan Wolf",
       "episode_number": 166,
       "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
         "Abenteuer",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi",
         "Pferde"
       ],
       "chapters": [
@@ -48770,10 +48758,10 @@
       "author": "Stefan Wolf",
       "episode_number": 167,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -49078,10 +49066,10 @@
       "author": "Stefan Wolf",
       "episode_number": 168,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -49386,10 +49374,10 @@
       "author": "Stefan Wolf",
       "episode_number": 169,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -50001,10 +49989,10 @@
       "author": "Stefan Wolf",
       "episode_number": 171,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -50309,10 +50297,10 @@
       "author": "Stefan Wolf",
       "episode_number": 172,
       "genres": [
-        "Krimi",
         "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -50924,10 +50912,10 @@
       "author": "Stefan Wolf",
       "episode_number": 174,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -51232,10 +51220,10 @@
       "author": "Stefan Wolf",
       "episode_number": 175,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -51917,10 +51905,10 @@
       "author": "Stefan Wolf",
       "episode_number": 177,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -52225,10 +52213,10 @@
       "author": "Stefan Wolf",
       "episode_number": 178,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -52533,11 +52521,11 @@
       "author": "Stefan Wolf",
       "episode_number": 179,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -52842,10 +52830,10 @@
       "author": "Stefan Wolf",
       "episode_number": 180,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -53150,10 +53138,10 @@
       "author": "Stefan Wolf",
       "episode_number": 181,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -53459,8 +53447,8 @@
       "episode_number": 182,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -53747,7 +53735,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/09/98/9a/09989aa9-1a60-6cb0-1dab-776c2c54831f/886445640946.jpg/600x600bb.jpg",
       "apple_music_id": 1087327153,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740580",
       "extra": {
@@ -53757,8 +53745,7 @@
         "platforms": {
           "appleMusic": "1087327153"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-2498",
@@ -53766,10 +53753,10 @@
       "author": "Stefan Wolf",
       "episode_number": 183,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -54075,8 +54062,8 @@
       "episode_number": 184,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -54363,7 +54350,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/48/9b/37/489b37be-99b4-021c-e601-05811374a233/886445640960.jpg/600x600bb.jpg",
       "apple_music_id": 1087321041,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740582",
       "extra": {
@@ -54373,8 +54360,7 @@
         "platforms": {
           "appleMusic": "1087321041"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-6971",
@@ -54382,10 +54368,10 @@
       "author": "Stefan Wolf",
       "episode_number": 185,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -54690,11 +54676,11 @@
       "author": "Stefan Wolf",
       "episode_number": 186,
       "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
         "Abenteuer",
-        "Entspannung"
+        "Entspannung",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -54999,10 +54985,10 @@
       "author": "Stefan Wolf",
       "episode_number": 187,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -55307,10 +55293,10 @@
       "author": "Stefan Wolf",
       "episode_number": 188,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -55615,10 +55601,10 @@
       "author": "Stefan Wolf",
       "episode_number": 189,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -55923,10 +55909,10 @@
       "author": "Stefan Wolf",
       "episode_number": 190,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -56231,11 +56217,11 @@
       "author": "Stefan Wolf",
       "episode_number": 191,
       "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
         "Abenteuer",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -56540,10 +56526,10 @@
       "author": "Stefan Wolf",
       "episode_number": 192,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -56848,10 +56834,10 @@
       "author": "Stefan Wolf",
       "episode_number": 193,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -57157,8 +57143,8 @@
       "episode_number": 194,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -57445,7 +57431,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/0c/f8/cf/0cf8cfa2-2a1d-61de-6a70-88fbdc32d1c0/886445641073.jpg/600x600bb.jpg",
       "apple_music_id": 1087309130,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740583",
       "extra": {
@@ -57455,8 +57441,7 @@
         "platforms": {
           "appleMusic": "1087309130"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-8992",
@@ -57464,10 +57449,10 @@
       "author": "Stefan Wolf",
       "episode_number": 195,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -57772,13 +57757,13 @@
       "author": "TKKG",
       "episode_number": 196,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/e1/8c/90/e18c90cc-95c4-80f2-1ea4-6387b2f7c283/886446058658.jpg/100x100bb.jpg",
       "apple_music_id": 1148959439,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -57791,8 +57776,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-1615",
@@ -57800,10 +57784,10 @@
       "author": "Stefan Wolf",
       "episode_number": 197,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -58108,10 +58092,10 @@
       "author": "Stefan Wolf",
       "episode_number": 198,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -58724,8 +58708,8 @@
       "episode_number": 200,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -59292,7 +59276,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/5a/b3/225ab391-4b5a-e0d8-7ed6-04dcfc719f73/886446167053.jpg/600x600bb.jpg",
       "apple_music_id": 1208973032,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740586",
       "extra": {
@@ -59302,8 +59286,7 @@
         "platforms": {
           "appleMusic": "1208973032"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-1606",
@@ -59311,10 +59294,10 @@
       "author": "Stefan Wolf",
       "episode_number": 201,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -59619,10 +59602,10 @@
       "author": "Stefan Wolf",
       "episode_number": 202,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -59927,10 +59910,10 @@
       "author": "Stefan Wolf",
       "episode_number": 203,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -60235,10 +60218,10 @@
       "author": "Stefan Wolf",
       "episode_number": 204,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -60614,8 +60597,8 @@
       "episode_number": 205,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -60972,7 +60955,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/cb/0e/3c/cb0e3cc9-d74f-d043-0fb5-aea9d7092691/886446809564.jpg/600x600bb.jpg",
       "apple_music_id": 1345999553,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740587",
       "extra": {
@@ -60982,8 +60965,7 @@
         "platforms": {
           "appleMusic": "1345999553"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "ep_2058dc9910ac",
@@ -60991,13 +60973,13 @@
       "author": "TKKG",
       "episode_number": 206,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b2/13/a0/b213a01f-850e-6436-9dd7-c6854ea05019/886446920689.jpg/100x100bb.jpg",
       "apple_music_id": 1371388955,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -61010,8 +60992,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-1082",
@@ -61019,10 +61000,10 @@
       "author": "Stefan Wolf",
       "episode_number": 207,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -61327,10 +61308,10 @@
       "author": "Stefan Wolf",
       "episode_number": 208,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -61942,13 +61923,13 @@
       "author": "TKKG",
       "episode_number": 210,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/da/2c/8cda2ccc-622f-59b6-2bbe-afc8047b72e8/886447380130.jpg/100x100bb.jpg",
       "apple_music_id": 1454389428,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -61961,8 +61942,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-9029",
@@ -62291,10 +62271,10 @@
       "author": "Stefan Wolf",
       "episode_number": 212,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -62934,10 +62914,10 @@
       "author": "Stefan Wolf",
       "episode_number": 214,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -63256,11 +63236,11 @@
       "author": "Stefan Wolf",
       "episode_number": 215,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -63580,8 +63560,8 @@
       "episode_number": 216,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -63889,7 +63869,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/21/32/d6213230-354c-2704-34e8-cb6e43b3cb40/886448767053.jpg/600x600bb.jpg",
       "apple_music_id": 1536103570,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740578",
       "extra": {
@@ -63899,8 +63879,7 @@
         "platforms": {
           "appleMusic": "1536103570"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-2404",
@@ -63908,10 +63887,10 @@
       "author": "Stefan Wolf",
       "episode_number": 217,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -64503,8 +64482,8 @@
       "episode_number": 219,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -64721,7 +64700,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6c/5c/d4/6c5cd47d-0299-9277-d76a-f23d647ed65a/886449034147.jpg/600x600bb.jpg",
       "apple_music_id": 1560974913,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740588",
       "extra": {
@@ -64731,8 +64710,7 @@
         "platforms": {
           "appleMusic": "1560974913"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-220",
@@ -64741,8 +64719,8 @@
       "episode_number": 220,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -64973,7 +64951,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/8f/c9/8a8fc9dd-3039-5c67-8f82-14cf40121728/886449503797.jpg/600x600bb.jpg",
       "apple_music_id": 1580961248,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740590",
       "extra": {
@@ -64983,8 +64961,7 @@
         "platforms": {
           "appleMusic": "1580961248"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-1548",
@@ -64992,10 +64969,10 @@
       "author": "Stefan Wolf",
       "episode_number": 221,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -65265,11 +65242,11 @@
       "author": "Stefan Wolf",
       "episode_number": 222,
       "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
         "Abenteuer",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -65504,10 +65481,10 @@
       "author": "Stefan Wolf",
       "episode_number": 223,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -65735,10 +65712,10 @@
       "author": "Stefan Wolf",
       "episode_number": 224,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -65987,10 +65964,10 @@
       "author": "Stefan Wolf",
       "episode_number": 225,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -66686,10 +66663,10 @@
       "author": "Stefan Wolf",
       "episode_number": 227,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -67057,11 +67034,11 @@
       "author": "Stefan Wolf",
       "episode_number": 228,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -67408,10 +67385,10 @@
       "author": "Stefan Wolf",
       "episode_number": 229,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -67723,10 +67700,10 @@
       "author": "Stefan Wolf",
       "episode_number": 230,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -68024,10 +68001,10 @@
       "author": "Stefan Wolf",
       "episode_number": 231,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -68374,10 +68351,10 @@
       "author": "Stefan Wolf",
       "episode_number": 232,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -68724,10 +68701,10 @@
       "author": "Stefan Wolf",
       "episode_number": 233,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -69074,10 +69051,10 @@
       "author": "Stefan Wolf",
       "episode_number": 234,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -69718,8 +69695,8 @@
       "episode_number": 236,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -70160,7 +70137,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/96/f7/4b96f7b7-8f4e-401d-b241-f34c64df2d82/196872271317.jpg/600x600bb.jpg",
       "apple_music_id": 1794142382,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740579",
       "extra": {
@@ -70170,8 +70147,7 @@
         "platforms": {
           "appleMusic": "1794142382"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-folg-9287",
@@ -70179,10 +70155,10 @@
       "author": "Stefan Wolf",
       "episode_number": 237,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -70829,10 +70805,10 @@
       "author": "Stefan Wolf",
       "episode_number": 239,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -71165,10 +71141,10 @@
       "author": "Stefan Wolf",
       "episode_number": 240,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -71878,13 +71854,13 @@
       "author": "TKKG",
       "episode_number": 242,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/d8/86/92d886a9-ce19-1463-c5a9-33df177cacba/196873691923.jpg/100x100bb.jpg",
       "apple_music_id": 6768256832,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -71897,8 +71873,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "1438615063",
@@ -71906,9 +71881,9 @@
       "author": "Stefan Wolf",
       "episode_number": null,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -72194,8 +72169,8 @@
       "episode_number": null,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -72397,8 +72372,8 @@
       "episode_number": null,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -73005,9 +72980,9 @@
       "author": "Stefan Wolf",
       "episode_number": null,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -73341,9 +73316,9 @@
       "author": "Stefan Wolf",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -73607,13 +73582,13 @@
       "author": "TKKG",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/9e/79/619e798f-9225-9546-c6e8-d37d1416bd64/196872196528.jpg/100x100bb.jpg",
       "apple_music_id": 1751888366,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:23",
       "extra": {
@@ -73626,8 +73601,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "ep_17bde6852e78",
@@ -73635,13 +73609,13 @@
       "author": "TKKG",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/94/b5/5894b57e-2e1f-de5b-7c59-45303d30280d/886447519189.jpg/100x100bb.jpg",
       "apple_music_id": 1450498987,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -73654,8 +73628,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "1734654620",
@@ -73663,9 +73636,9 @@
       "author": "Stefan Wolf",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -73817,13 +73790,13 @@
       "author": "TKKG",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/9e/63/769e63a5-94e3-9e91-a98a-41b218c0edf2/196873459561.jpg/100x100bb.jpg",
       "apple_music_id": 1841358699,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -73836,8 +73809,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "ep_0a560a207da5",
@@ -73845,13 +73817,13 @@
       "author": "TKKG",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e9/4e/43/e94e432f-96cd-aa8b-8ed5-532c4ba3167c/886446992037.jpg/100x100bb.jpg",
       "apple_music_id": 1434672470,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -73864,8 +73836,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-krim-5860",
@@ -73873,11 +73844,11 @@
       "author": "Stefan Wolf",
       "episode_number": null,
       "genres": [
-        "Krimi",
-        "Thriller",
+        "Abenteuer",
         "Hörspiel",
         "Kinder & Jugend",
-        "Abenteuer"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [
         {
@@ -73986,13 +73957,13 @@
       "author": "TKKG",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/89/e0/7889e001-8248-ac91-c626-f7a884c61187/886449128891.jpg/100x100bb.jpg",
       "apple_music_id": 1559714078,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -74005,8 +73976,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "ep_eda28247d227",
@@ -74014,13 +73984,13 @@
       "author": "TKKG",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/c4/20/33c420d2-6881-c0cc-2456-676d659dd693/886449404261.jpg/100x100bb.jpg",
       "apple_music_id": 1590344047,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:21",
       "extra": {
@@ -74033,8 +74003,7 @@
           "franchise": "TKKG",
           "sub_franchise": "TKKG"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     },
     {
       "id": "tkkg-kino1",
@@ -74043,8 +74012,8 @@
       "episode_number": null,
       "genres": [
         "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {
@@ -74401,7 +74370,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/7b/1c/527b1c1b-59ae-13a4-6688-681f47f6ee44/886447651599.jpg/600x600bb.jpg",
       "apple_music_id": 1463157148,
       "status": "active",
-      "sub_franchise_id": 12,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-06T20:14:39.740574",
       "extra": {
@@ -74411,8 +74380,7 @@
         "platforms": {
           "appleMusic": "1463157148"
         }
-      },
-      "sub_franchise": "TKKG"
+      }
     }
   ],
   "episode_count": 292

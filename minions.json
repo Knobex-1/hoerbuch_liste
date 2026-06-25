@@ -3,13 +3,7 @@
   "slug": "minions",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/50/78/d250787e-a8e5-f40e-a65f-06f1022ea44d/4057664206084.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 55,
-      "name": "Minions",
-      "slug": "minions-minions"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_628e50f31947",
@@ -17,13 +11,13 @@
       "author": "Minions",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/50/78/d250787e-a8e5-f40e-a65f-06f1022ea44d/4057664206084.jpg/100x100bb.jpg",
       "apple_music_id": 1686022333,
       "status": "active",
-      "sub_franchise_id": 55,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Minions",
           "sub_franchise": "Minions"
         }
-      },
-      "sub_franchise": "Minions"
+      }
     }
   ],
   "episode_count": 1

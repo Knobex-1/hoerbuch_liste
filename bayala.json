@@ -3,13 +3,7 @@
   "slug": "bayala",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/f5/e1/2bf5e143-249a-1683-55bd-88d7f9836a28/4057664892423_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 86,
-      "name": "bayala",
-      "slug": "bayala-bayala"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_866026b21498",
@@ -17,13 +11,13 @@
       "author": "bayala",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/f5/e1/2bf5e143-249a-1683-55bd-88d7f9836a28/4057664892423_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1480653412,
       "status": "active",
-      "sub_franchise_id": 86,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "bayala",
           "sub_franchise": "bayala"
         }
-      },
-      "sub_franchise": "bayala"
+      }
     }
   ],
   "episode_count": 1

@@ -3,13 +3,7 @@
   "slug": "die-biene-maja",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/51/f7/44/51f744b3-7140-ca70-328d-2d7d0a9c8c03/886447613047.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 92,
-      "name": "Die Biene Maja",
-      "slug": "die-biene-maja-die-biene-maja"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_1452ffd4b4c2",
@@ -17,13 +11,13 @@
       "author": "Die Biene Maja",
       "episode_number": 2,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d9/ed/dc/d9eddc83-c756-c881-f421-a98fbe2e83f0/886447613054.jpg/100x100bb.jpg",
       "apple_music_id": 1468870701,
       "status": "active",
-      "sub_franchise_id": 92,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Die Biene Maja",
           "sub_franchise": "Die Biene Maja"
         }
-      },
-      "sub_franchise": "Die Biene Maja"
+      }
     },
     {
       "id": "ep_057d353ca4e0",
@@ -45,13 +38,13 @@
       "author": "Die Biene Maja",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/51/f7/44/51f744b3-7140-ca70-328d-2d7d0a9c8c03/886447613047.jpg/100x100bb.jpg",
       "apple_music_id": 1468865303,
       "status": "active",
-      "sub_franchise_id": 92,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Die Biene Maja",
           "sub_franchise": "Die Biene Maja"
         }
-      },
-      "sub_franchise": "Die Biene Maja"
+      }
     },
     {
       "id": "ep_2e89e3363dbe",
@@ -73,13 +65,13 @@
       "author": "Die Biene Maja",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/81/fb/5481fbcf-7d1e-b72e-f416-f79ebc8a50c1/886448905127.jpg/100x100bb.jpg",
       "apple_music_id": 1682052899,
       "status": "active",
-      "sub_franchise_id": 92,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -92,8 +84,7 @@
           "franchise": "Die Biene Maja",
           "sub_franchise": "Die Biene Maja"
         }
-      },
-      "sub_franchise": "Die Biene Maja"
+      }
     }
   ],
   "episode_count": 3

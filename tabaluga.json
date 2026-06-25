@@ -3,13 +3,7 @@
   "slug": "tabaluga",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/5b/c6/175bc65e-f50a-b833-dbc5-e7103ae9fe27/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 94,
-      "name": "Tabaluga",
-      "slug": "tabaluga-tabaluga"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_9705890138fd",
@@ -17,13 +11,13 @@
       "author": "Tabaluga",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/5b/c6/175bc65e-f50a-b833-dbc5-e7103ae9fe27/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1439101988,
       "status": "active",
-      "sub_franchise_id": 94,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Tabaluga",
           "sub_franchise": "Tabaluga"
         }
-      },
-      "sub_franchise": "Tabaluga"
+      }
     }
   ],
   "episode_count": 1

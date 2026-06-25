@@ -3,13 +3,7 @@
   "slug": "robbi-tobbi-und-das-fliewat-t",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/7b/93/b07b9357-8f40-3352-1caf-525d3785f963/4057664078872.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 136,
-      "name": "Robbi & Tobbi und das Fliewatüüt",
-      "slug": "robbi-und-tobbi-und-das-fliewatüüt-robbi-und-tobbi-und-das-fliewatüüt"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_abdbd40c7698",
@@ -17,13 +11,13 @@
       "author": "Robbi & Tobbi und das Fliewatüüt",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/7b/93/b07b9357-8f40-3352-1caf-525d3785f963/4057664078872.jpg/100x100bb.jpg",
       "apple_music_id": 1686027147,
       "status": "active",
-      "sub_franchise_id": 136,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Robbi & Tobbi und das Fliewatüüt",
           "sub_franchise": "Robbi & Tobbi und das Fliewatüüt"
         }
-      },
-      "sub_franchise": "Robbi & Tobbi und das Fliewatüüt"
+      }
     }
   ],
   "episode_count": 1

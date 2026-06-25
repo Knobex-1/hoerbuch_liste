@@ -3,13 +3,7 @@
   "slug": "peter-weis-noah-levi-senta-berger",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/91/53/9e/91539eed-7b24-258a-8dd0-ffcdcba8cfcb/4057664535542_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 99,
-      "name": "Peter Weis, Noah Levi & Senta Berger",
-      "slug": "peter-weis-noah-levi-und-senta-berger-peter-weis-noah-levi-und-senta-berger"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_2eb6d4355f1a",
@@ -17,13 +11,13 @@
       "author": "Peter Weis, Noah Levi & Senta Berger",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/91/53/9e/91539eed-7b24-258a-8dd0-ffcdcba8cfcb/4057664535542_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1460366745,
       "status": "active",
-      "sub_franchise_id": 99,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Peter Weis, Noah Levi & Senta Berger",
           "sub_franchise": "Peter Weis, Noah Levi & Senta Berger"
         }
-      },
-      "sub_franchise": "Peter Weis, Noah Levi & Senta Berger"
+      }
     }
   ],
   "episode_count": 1

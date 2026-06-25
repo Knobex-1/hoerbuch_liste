@@ -3,13 +3,7 @@
   "slug": "mary-poppins-h-rspiel",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/4f/84/334f84b5-70c2-ea0c-357d-688858b1b8ff/4066339483903.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 93,
-      "name": "Mary Poppins Hörspiel",
-      "slug": "mary-poppins-hörspiel-mary-poppins-hörspiel"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_d6ccb273bf78",
@@ -17,13 +11,13 @@
       "author": "Mary Poppins Hörspiel",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/4f/84/334f84b5-70c2-ea0c-357d-688858b1b8ff/4066339483903.jpg/100x100bb.jpg",
       "apple_music_id": 1686162209,
       "status": "active",
-      "sub_franchise_id": 93,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Mary Poppins Hörspiel",
           "sub_franchise": "Mary Poppins Hörspiel"
         }
-      },
-      "sub_franchise": "Mary Poppins Hörspiel"
+      }
     },
     {
       "id": "ep_06a0ac9ea77f",
@@ -45,13 +38,13 @@
       "author": "Mary Poppins Hörspiel",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/94/17/1f9417f8-47e1-a145-0177-536162551b4c/4066339450189.jpg/100x100bb.jpg",
       "apple_music_id": 1685958256,
       "status": "active",
-      "sub_franchise_id": 93,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Mary Poppins Hörspiel",
           "sub_franchise": "Mary Poppins Hörspiel"
         }
-      },
-      "sub_franchise": "Mary Poppins Hörspiel"
+      }
     }
   ],
   "episode_count": 2

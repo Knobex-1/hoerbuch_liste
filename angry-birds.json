@@ -3,13 +3,7 @@
   "slug": "angry-birds",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b9/68/df/b968df3e-dc73-4956-942e-d2568e3e9f27/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 69,
-      "name": "Angry Birds",
-      "slug": "angry-birds-angry-birds"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_b262db4dd021",
@@ -17,13 +11,13 @@
       "author": "Angry Birds",
       "episode_number": 2,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b9/68/df/b968df3e-dc73-4956-942e-d2568e3e9f27/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1478150580,
       "status": "active",
-      "sub_franchise_id": 69,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Angry Birds",
           "sub_franchise": "Angry Birds"
         }
-      },
-      "sub_franchise": "Angry Birds"
+      }
     }
   ],
   "episode_count": 1

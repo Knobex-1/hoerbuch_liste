@@ -3,13 +3,7 @@
   "slug": "bibi-blocksberg",
   "description": "Test",
   "cover_url": "",
-  "sub_franchises": [
-    {
-      "id": 13,
-      "name": "Bibi Blocksberg",
-      "slug": "bibi-blocksberg-bibi-blocksberg"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_2b6505e8a90b",
@@ -17,7 +11,7 @@
       "author": "Bibi Blocksberg",
       "episode_number": 1,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -78,7 +72,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/07/ca/ab07cad4-65cf-ebdc-1703-aad302be7bdd/825646394982.jpg/100x100bb.jpg",
       "apple_music_id": 1038165554,
       "status": "active",
-      "sub_franchise_id": 13,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:31",
       "extra": {
@@ -91,8 +85,7 @@
           "franchise": "Bibi Blocksberg",
           "sub_franchise": "Bibi Blocksberg"
         }
-      },
-      "sub_franchise": "Bibi Blocksberg"
+      }
     },
     {
       "id": "bibi-folg-9999",
@@ -100,10 +93,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 1,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/4e/85/78/4e85786e-35fd-2470-7217-134fd4e4cb48/190295919139.jpg/100x100bb.jpg",
@@ -126,10 +119,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 1,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -210,10 +203,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 2,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
         "Hörspiel",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/d6/fd/95d6fd95-ece6-5375-9117-cd889aa279d7/190295918705.jpg/100x100bb.jpg",
@@ -236,9 +229,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 3,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -550,7 +543,7 @@
       "author": "Bibi Blocksberg",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -623,7 +616,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/ab/c0/59/abc05989-69c9-9b02-4453-2d236f805c43/825646437344.jpg/100x100bb.jpg",
       "apple_music_id": 1038190000,
       "status": "active",
-      "sub_franchise_id": 13,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:31",
       "extra": {
@@ -636,8 +629,7 @@
           "franchise": "Bibi Blocksberg",
           "sub_franchise": "Bibi Blocksberg"
         }
-      },
-      "sub_franchise": "Bibi Blocksberg"
+      }
     },
     {
       "id": "bibi-engl-4208",
@@ -645,10 +637,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 4,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -764,11 +756,11 @@
       "author": "Elfie Donnelly",
       "episode_number": 4,
       "genres": [
-        "Hörspiel",
-        "Krimi",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/95/98/88/95988826-a8c6-d3cc-9973-9516a52c5907/190295918484.jpg/100x100bb.jpg",
@@ -791,7 +783,7 @@
       "author": "Bibi Blocksberg",
       "episode_number": 5,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -864,7 +856,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/e6/5c/bd/e65cbd05-2521-57f7-d74d-2e7233145873/825646437290.jpg/100x100bb.jpg",
       "apple_music_id": 1069133821,
       "status": "active",
-      "sub_franchise_id": 13,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:31",
       "extra": {
@@ -877,8 +869,7 @@
           "franchise": "Bibi Blocksberg",
           "sub_franchise": "Bibi Blocksberg"
         }
-      },
-      "sub_franchise": "Bibi Blocksberg"
+      }
     },
     {
       "id": "bibi-folg-3702",
@@ -886,10 +877,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 5,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/fa/dc/c4/fadcc4e2-ad92-71e8-1656-b0d184e0f6c5/190295918477.jpg/100x100bb.jpg",
@@ -912,11 +903,11 @@
       "author": "Elfie Donnelly",
       "episode_number": 6,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
         "Abenteuer",
-        "Entspannung"
+        "Entspannung",
+        "Fantasy",
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/1a/cf/f51acf94-6f95-c265-8f9e-9e133676f4eb/190295918453.jpg/100x100bb.jpg",
@@ -939,10 +930,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 7,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3b/16/1a/3b161ae6-a067-473f-85b4-798f8ad0503a/190295918446.jpg/100x100bb.jpg",
@@ -965,11 +956,11 @@
       "author": "Elfie Donnelly",
       "episode_number": 8,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
         "Abenteuer",
-        "Horror"
+        "Fantasy",
+        "Horror",
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b7/47/74/b7477411-1f30-a535-cf21-b7c8d68e1ab0/190295918422.jpg/100x100bb.jpg",
@@ -992,10 +983,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 9,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/f5/47/3b/f5473bc7-bdee-4952-7f66-3f4dea42377f/190295918408.jpg/100x100bb.jpg",
@@ -1018,10 +1009,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 10,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/65/36/81/6536810d-05a9-b8ff-4952-3a7f9c4c6060/190295918361.jpg/100x100bb.jpg",
@@ -1044,10 +1035,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 11,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/24/a7/6d24a7bd-f140-725c-6b12-e7fad957f3f5/190295918347.jpg/100x100bb.jpg",
@@ -1070,9 +1061,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 12,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -1384,9 +1375,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 13,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -1691,10 +1682,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 14,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/4b/7c/2a/4b7c2af3-6163-edd9-a021-677b718b435c/190295918392.jpg/100x100bb.jpg",
@@ -1717,9 +1708,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 15,
       "genres": [
+        "Abenteuer",
         "Hörspiel",
-        "Krimi",
-        "Abenteuer"
+        "Krimi"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/a3/84/44/a38444a2-3e82-697b-a0a3-f0740d47c76c/190295918385.jpg/100x100bb.jpg",
@@ -1742,10 +1733,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 16,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/6b/f9/60/6bf960b4-e848-7342-dad2-b4d45f2fe167/190295918248.jpg/100x100bb.jpg",
@@ -1768,10 +1759,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 17,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/82/9d/70/829d70d9-b4a7-5804-4440-a500e487a155/190295918231.jpg/100x100bb.jpg",
@@ -1794,10 +1785,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 18,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/d7/1b/ea/d71bea82-a616-9f00-6b5d-3694e42df2bf/190295918262.jpg/100x100bb.jpg",
@@ -1820,10 +1811,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 19,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/d4/d5/04/d4d50467-e474-5741-f02a-8c4469e903a1/190295918224.jpg/100x100bb.jpg",
@@ -1846,9 +1837,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 20,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -2160,9 +2151,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 21,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -2481,10 +2472,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 22,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/e4/8e/bd/e48ebd74-aa58-b2a6-eca4-c5c41053b53f/190295918156.jpg/100x100bb.jpg",
@@ -2507,10 +2498,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 23,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/d6/9e/76d69efd-5e44-99f0-a40a-0bdd5405c88f/190295914165.jpg/100x100bb.jpg",
@@ -2533,9 +2524,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 24,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -2903,10 +2894,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 25,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/55/64/7c/55647c53-95b2-f919-6b1f-37ab7becf6b0/190295914028.jpg/100x100bb.jpg",
@@ -2930,9 +2921,9 @@
       "episode_number": 26,
       "genres": [
         "Abenteuer",
-        "Kinder & Jugend",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/0f/04/19/0f04193f-4967-4c13-2603-9aec3b45408b/190295913977.jpg/100x100bb.jpg",
@@ -2955,10 +2946,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 27,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/8c/92/8d/8c928df7-1534-88f6-ed2c-c64708a7565d/190295913045.jpg/100x100bb.jpg",
@@ -2982,9 +2973,9 @@
       "episode_number": 28,
       "genres": [
         "Abenteuer",
-        "Kinder & Jugend",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/9a/02/e1/9a02e1d8-0e0e-e10b-437f-b950c8705c93/190295918132.jpg/100x100bb.jpg",
@@ -3007,10 +2998,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 29,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/be/fd/ce/befdce72-4f92-1f83-8807-0b90f57d2c46/190295918125.jpg/100x100bb.jpg",
@@ -3033,9 +3024,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 30,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Hörspiel",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/eb/8b/ec/eb8bec7d-2227-db25-582c-355e33945c83/190295917692.jpg/100x100bb.jpg",
@@ -3058,10 +3049,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 31,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/6f/4d/b0/6f4db0b0-3a76-6725-4bc3-8acaf26d1fe4/190295917722.jpg/100x100bb.jpg",
@@ -3084,10 +3075,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 32,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/7e/22/7c/7e227ca3-c848-1d02-1700-f73c06e9669e/190295917777.jpg/100x100bb.jpg",
@@ -3110,10 +3101,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 33,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c3/3a/0d/c33a0d1a-a92f-9ae4-195e-185debf80787/190295917784.jpg/100x100bb.jpg",
@@ -3136,9 +3127,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 34,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -3359,10 +3350,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 35,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/5a/b1/87/5ab187f3-5d3c-6575-6731-566fec4b0fe3/190295917838.jpg/100x100bb.jpg",
@@ -3385,10 +3376,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 36,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/47/20/ef/4720ef1e-40ba-1c28-25eb-7405a5021c30/190295917937.jpg/100x100bb.jpg",
@@ -3411,10 +3402,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 37,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/10/c1/08/10c10870-1734-4dd2-b94d-aa652ded9f6e/190295917975.jpg/100x100bb.jpg",
@@ -3437,10 +3428,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 38,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/9c/72/6e/9c726e5b-f24f-896f-c876-d623f6f04b94/190295917982.jpg/100x100bb.jpg",
@@ -3463,10 +3454,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 39,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/69/b8/35/69b835ee-5ae1-7c50-0760-3b63856bb2c8/190295913014.jpg/100x100bb.jpg",
@@ -3515,9 +3506,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 41,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -3745,10 +3736,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 42,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ca/37/34/ca3734ac-1c08-56ba-fe23-60b473ad1665/190295917678.jpg/100x100bb.jpg",
@@ -3771,10 +3762,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 43,
       "genres": [
+        "Abenteuer",
+        "Fantasy",
         "Hörspiel",
         "Kinder & Jugend",
-        "Fantasy",
-        "Abenteuer",
         "Pferde"
       ],
       "chapters": [],
@@ -3798,10 +3789,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 44,
       "genres": [
+        "Abenteuer",
+        "Fantasy",
         "Hörspiel",
         "Kinder & Jugend",
-        "Fantasy",
-        "Abenteuer",
         "Pferde"
       ],
       "chapters": [],
@@ -3825,10 +3816,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 45,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2b/87/db/2b87db26-73ac-12bd-fad0-29bf40c0d6e7/190295917616.jpg/100x100bb.jpg",
@@ -3851,10 +3842,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 46,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/78/f9/cc/78f9cc4a-9cf2-7b7c-d1c9-cb5b3c61b139/190295917531.jpg/100x100bb.jpg",
@@ -3877,10 +3868,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 47,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
-        "Fantasy",
         "Abenteuer",
+        "Fantasy",
+        "Hörspiel",
+        "Kinder & Jugend",
         "Pferde"
       ],
       "chapters": [],
@@ -3904,9 +3895,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 48,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -4120,10 +4111,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 49,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/1e/35/49/1e3549bc-643c-2b06-0e28-fdafb69244af/190295917289.jpg/100x100bb.jpg",
@@ -4146,10 +4137,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 50,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/2e/d3/5f/2ed35f58-2dd9-e329-bc16-d40bf1597d4d/190295917272.jpg/100x100bb.jpg",
@@ -4172,10 +4163,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 51,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/49/65/a3/4965a3bf-722e-75ce-7193-21614a1c43a2/190295917265.jpg/100x100bb.jpg",
@@ -4198,10 +4189,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 52,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/20/42/4b/20424b0d-0c9f-fd43-567e-98c49aa666d9/190295917258.jpg/100x100bb.jpg",
@@ -4224,10 +4215,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 53,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/bd/73/8a/bd738a17-8a70-703a-d693-68764565e0eb/190295917241.jpg/100x100bb.jpg",
@@ -4250,10 +4241,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 54,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/a9/d7/39/a9d73954-06e6-406b-c559-10ca2a0bdf98/190295917234.jpg/100x100bb.jpg",
@@ -4276,10 +4267,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 55,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/5c/ef/8d/5cef8d49-de5a-7e3b-f1b6-4e4e0a503a1e/190295917203.jpg/100x100bb.jpg",
@@ -4302,10 +4293,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 56,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/be/73/f6/be73f652-f4fe-3376-c2bd-7053fed48617/190295917166.jpg/100x100bb.jpg",
@@ -4328,10 +4319,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 57,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/01/9c/0e/019c0e6a-b3ea-8121-3a65-c0d41b1d1bfa/190295917098.jpg/100x100bb.jpg",
@@ -4354,10 +4345,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 58,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/92/d9/7d/92d97dfa-43ca-fc25-3e53-9d26e360f539/190295917135.jpg/100x100bb.jpg",
@@ -4380,10 +4371,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 59,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/23/ba/63/23ba6387-26e6-7b4a-9f3a-4f6f11166560/190295917067.jpg/100x100bb.jpg",
@@ -4406,11 +4397,11 @@
       "author": "Elfie Donnelly",
       "episode_number": 60,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
         "Abenteuer",
-        "Horror"
+        "Fantasy",
+        "Horror",
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/31/cb/d7/31cbd713-835e-d5f9-2063-ecc2b76f7a4c/190295916930.jpg/100x100bb.jpg",
@@ -4433,10 +4424,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 61,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/d0/6d/ad/d06dad28-6043-e7c2-ffab-7eae05d76012/190295916886.jpg/100x100bb.jpg",
@@ -4459,10 +4450,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 63,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/0b/2a/8f/0b2a8f6e-83c3-55a9-07ab-612a98f23bad/190295916770.jpg/100x100bb.jpg",
@@ -4485,10 +4476,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 64,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/8b/76/71/8b76717d-cf62-3317-90d6-0594755800c6/190295916763.jpg/100x100bb.jpg",
@@ -4511,10 +4502,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 65,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/f5/1d/75/f51d7592-015b-62d7-98a6-3ae03a504427/190295917197.jpg/100x100bb.jpg",
@@ -4537,10 +4528,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 66,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3b/95/75/3b95753b-dc03-0240-b416-46b6aa438593/190295917173.jpg/100x100bb.jpg",
@@ -4563,10 +4554,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 67,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/23/ae/8a/23ae8a1f-9fa2-d116-5e17-efcbd9a9a2d6/190295917128.jpg/100x100bb.jpg",
@@ -4589,10 +4580,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 68,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music42/v4/c1/3e/a8/c13ea883-1acf-01d1-5808-8c6e75fd0cfa/190295916756.jpg/100x100bb.jpg",
@@ -4615,10 +4606,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 69,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/a2/91/1f/a2911f08-1c8e-f826-f1d1-438c50cf6ff5/190295916732.jpg/100x100bb.jpg",
@@ -4641,10 +4632,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 70,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/f2/75/70/f27570aa-6281-44e4-332a-334e22ee882c/190295916619.jpg/100x100bb.jpg",
@@ -4667,10 +4658,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 71,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/17/25/3d/17253d9d-ee7a-04e4-6e30-10f20cf8cf6e/190295916596.jpg/100x100bb.jpg",
@@ -4693,10 +4684,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 72,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c9/bd/fc/c9bdfca1-2ac8-2ae7-6c17-c64142632e5a/190295916589.jpg/100x100bb.jpg",
@@ -4719,10 +4710,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 73,
       "genres": [
+        "Abenteuer",
+        "Fantasy",
         "Hörspiel",
         "Kinder & Jugend",
-        "Fantasy",
-        "Abenteuer",
         "Pferde"
       ],
       "chapters": [
@@ -4930,10 +4921,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 74,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3a/f9/45/3af94531-55e8-cd37-3514-a58fbeae1636/190295916558.jpg/100x100bb.jpg",
@@ -4956,9 +4947,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 75,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -5151,10 +5142,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 76,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/31/72/fb/3172fb51-49a2-b2ac-8179-822e0b62705d/190295916503.jpg/100x100bb.jpg",
@@ -5177,9 +5168,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 77,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -5414,7 +5405,7 @@
       "author": "Bibi Blocksberg",
       "episode_number": 77,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -5481,7 +5472,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/8e/0a/35/8e0a3579-58c9-abe3-298d-cd7bb5bb74c6/825646395767.jpg/100x100bb.jpg",
       "apple_music_id": 1069223798,
       "status": "active",
-      "sub_franchise_id": 13,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:31",
       "extra": {
@@ -5494,8 +5485,7 @@
           "franchise": "Bibi Blocksberg",
           "sub_franchise": "Bibi Blocksberg"
         }
-      },
-      "sub_franchise": "Bibi Blocksberg"
+      }
     },
     {
       "id": "bibi-folg-6547",
@@ -5504,9 +5494,9 @@
       "episode_number": 78,
       "genres": [
         "Abenteuer",
-        "Kinder & Jugend",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/53/2a/9e/532a9e5b-6a80-a429-0866-5bb34216105a/190295916466.jpg/100x100bb.jpg",
@@ -5529,10 +5519,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 79,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/eb/50/e1/eb50e1f0-f3d7-ff12-949e-c3d3cd3043a2/190295916176.jpg/100x100bb.jpg",
@@ -5555,10 +5545,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 80,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/47/5b/43/475b4343-2bec-c87d-c044-a1a5991e96d3/190295916442.jpg/100x100bb.jpg",
@@ -5581,10 +5571,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 81,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/09/e8/50/09e85004-3ce5-5e37-8e39-ae75ae67b69f/190295916435.jpg/100x100bb.jpg",
@@ -5602,15 +5592,41 @@
       }
     },
     {
+      "id": "bibi-folg-4382",
+      "title": "Folge 82: Hexspruch mit Folgen",
+      "author": "Elfie Donnelly",
+      "episode_number": 82,
+      "genres": [
+        "Abenteuer",
+        "Fantasy",
+        "Hörspiel",
+        "Kinder & Jugend"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/63/65/68/6365685e-632b-37e4-3bbf-9c948b6ee1e1/190295916206.jpg/100x100bb.jpg",
+      "apple_music_id": 1143574382,
+      "status": "active",
+      "sub_franchise_id": null,
+      "last_validated": null,
+      "updated_at": "2026-06-06T20:14:39.741915",
+      "extra": {
+        "description": "Das Album umfasst 26 Hörspiel-Tracks von Bibi Blocksberg, die im Format 'Folge 82: Hexspruch mit Folgen' erscheinen. Es handelt sich um ein Hörspielalbum auf Apple Music.",
+        "narrator": "Susanne Pätzold",
+        "platforms": {
+          "appleMusic": "1143574382"
+        }
+      }
+    },
+    {
       "id": "bibi-folg-3251",
       "title": "Folge 83: Die Klassenreise",
       "author": "Elfie Donnelly",
       "episode_number": 83,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3c/a2/40/3ca24090-1b24-469c-3bcd-cb3aeb117918/190295916190.jpg/100x100bb.jpg",
@@ -5633,10 +5649,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 84,
       "genres": [
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
         "Hörspiel",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/b0/c5/07/b0c507af-9967-9971-f1c2-ec0cc9d454ad/190295916183.jpg/100x100bb.jpg",
@@ -5659,10 +5675,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 85,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/03/af/75/03af750a-d762-2b2f-4ee2-079c5040ac2e/190295916152.jpg/100x100bb.jpg",
@@ -5685,10 +5701,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 86,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/ee/2e/36/ee2e3674-abf9-3006-346b-ceeaed7d2aa0/190295916107.jpg/100x100bb.jpg",
@@ -5711,10 +5727,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 87,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/6f/d4/e3/6fd4e3f6-933c-2e04-9f46-66dcfb03c338/190295916091.jpg/100x100bb.jpg",
@@ -5737,10 +5753,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 88,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/9e/a7/da/9ea7da47-489f-c059-a7b4-229a6afda4cf/190295916022.jpg/100x100bb.jpg",
@@ -5763,10 +5779,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 89,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/5a/7d/40/5a7d401b-5d3f-f8eb-08be-0915138e9caa/190295915841.jpg/100x100bb.jpg",
@@ -5789,10 +5805,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 90,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/57/81/3d/57813d1d-2945-dede-d7d6-1c9beaf7a427/190295914783.jpg/100x100bb.jpg",
@@ -5815,10 +5831,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 91,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ba/0d/e1/ba0de151-441f-19fd-8c90-f325e4d340f9/190295912819.jpg/100x100bb.jpg",
@@ -5841,10 +5857,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 92,
       "genres": [
-        "Kinder & Jugend",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/43/44/fa/4344fae2-73fc-df56-ed38-ecc079b05577/190295914691.jpg/100x100bb.jpg",
@@ -5867,10 +5883,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 93,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/cc/e2/86/cce2866b-4c57-cf70-3be6-a469b6644f2f/190295914653.jpg/100x100bb.jpg",
@@ -5893,10 +5909,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 94,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/72/52/53/725253c8-a0cb-f7ce-8f6b-fab8fef37daf/190295914622.jpg/100x100bb.jpg",
@@ -5944,10 +5960,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 96,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/43/a6/29/43a6297d-712c-42e9-e0ef-addf36197fa6/190295914592.jpg/100x100bb.jpg",
@@ -5970,10 +5986,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 97,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/70/80/0f/70800f4c-ab0e-b77c-6c7b-722929cf2a08/190295914561.jpg/100x100bb.jpg",
@@ -5996,10 +6012,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 98,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/91/36/f3/9136f382-9421-6c6a-d0b4-ec8b892dab01/190295914523.jpg/100x100bb.jpg",
@@ -6022,10 +6038,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 99,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/23/60/6b/23606b13-2512-399f-c62c-82b2b89429db/190295914509.jpg/100x100bb.jpg",
@@ -6048,10 +6064,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 100,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/70/52/d2/7052d216-7c09-fe56-bd3a-02579a57cef4/190295914486.jpg/100x100bb.jpg",
@@ -6074,10 +6090,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 101,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/19/c0/4a/19c04a49-426b-d14d-2874-9ede274c0951/190295913892.jpg/100x100bb.jpg",
@@ -6100,10 +6116,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 102,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/57/1e/99/571e99bd-69de-4789-aae2-32857bc09c9c/190295913878.jpg/100x100bb.jpg",
@@ -6126,10 +6142,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 103,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ba/71/7a/ba717ac1-530b-8281-115f-8536b39bbb2c/190295913847.jpg/100x100bb.jpg",
@@ -6152,10 +6168,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 104,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/ad/e3/4e/ade34e92-915e-d371-8efb-5c8c61610d5f/190295913809.jpg/100x100bb.jpg",
@@ -6178,10 +6194,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 105,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/3c/47/ba/3c47baf9-97c3-7c17-45f7-a1b872558ae5/190295907303.jpg/100x100bb.jpg",
@@ -6204,10 +6220,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 106,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/20/d1/cf/20d1cf1b-8c67-fe75-fd2a-bcf7c36ec65e/190295913793.jpg/100x100bb.jpg",
@@ -6230,10 +6246,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 107,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/a6/8a/72/a68a7255-4396-1be2-a47a-8acfca941f1f/190295912703.jpg/100x100bb.jpg",
@@ -6256,7 +6272,7 @@
       "author": "Bibi Blocksberg",
       "episode_number": 108,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -6329,7 +6345,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/2f/fc/3c/2ffc3cf9-1273-0b33-9153-f895fb01aba2/825646373147.jpg/100x100bb.jpg",
       "apple_music_id": 1038229201,
       "status": "active",
-      "sub_franchise_id": 13,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:31",
       "extra": {
@@ -6342,8 +6358,7 @@
           "franchise": "Bibi Blocksberg",
           "sub_franchise": "Bibi Blocksberg"
         }
-      },
-      "sub_franchise": "Bibi Blocksberg"
+      }
     },
     {
       "id": "bibi-folg-2687",
@@ -6351,10 +6366,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 108,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/83/4c/33/834c33f6-c211-97cc-eccb-a4c62981cbaa/190295912666.jpg/100x100bb.jpg",
@@ -6377,10 +6392,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 109,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/1a/9a/4d1a9a49-326a-c26f-84bd-23e4625f04bd/190295913786.jpg/100x100bb.jpg",
@@ -6403,10 +6418,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 110,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/72/2a/64/722a6447-a60a-71cb-f742-2c3a2247cbe8/190295913489.jpg/100x100bb.jpg",
@@ -6429,10 +6444,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 111,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c1/a1/5b/c1a15b3e-ea93-b0ca-ccf6-5925c80776a4/190295913458.jpg/100x100bb.jpg",
@@ -6455,10 +6470,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 112,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/da/86/18/da86185a-723b-cdff-dce6-11598d66d031/190295913434.jpg/100x100bb.jpg",
@@ -6481,10 +6496,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 113,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music41/v4/16/57/03/1657032b-b9d7-776b-0b83-b76cf050a080/190295913311.jpg/100x100bb.jpg",
@@ -6507,10 +6522,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 114,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/c9/c6/f8c9c674-4b31-3aee-fb95-c06831a21173/190295913298.jpg/100x100bb.jpg",
@@ -6533,9 +6548,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 115,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -6803,10 +6818,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 117,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/4d/75/75/4d75758e-23e4-df19-77b6-3fd2d0e4ab14/190295913236.jpg/100x100bb.jpg",
@@ -6829,10 +6844,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 118,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f5/3a/06/f53a064b-3421-10ee-b834-c043a94454d7/190295882129.jpg/100x100bb.jpg",
@@ -6881,10 +6896,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 120,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c9/0c/44/c90c446e-2b91-b9ea-2b25-7b325b8aa580/dj.cvvrnjci.jpg/100x100bb.jpg",
@@ -6907,10 +6922,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 121,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/64/a5/4c64a57d-6598-b0bc-e4fe-89c47523e9fc/190295831257.jpg/100x100bb.jpg",
@@ -6933,13 +6948,13 @@
       "author": "Bibi Blocksberg",
       "episode_number": 121,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/c5/8f/f3c58fd6-9313-495f-d6f8-099aab948f46/190295581954.jpg/100x100bb.jpg",
       "apple_music_id": 1408763839,
       "status": "active",
-      "sub_franchise_id": 13,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:27",
       "extra": {
@@ -6952,8 +6967,7 @@
           "franchise": "Bibi Blocksberg",
           "sub_franchise": "Bibi Blocksberg"
         }
-      },
-      "sub_franchise": "Bibi Blocksberg"
+      }
     },
     {
       "id": "bibi-folg-9747",
@@ -6961,10 +6975,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 122,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b1/0f/42/b10f42ad-421f-673f-b574-a309e0d517ea/190295779467.jpg/100x100bb.jpg",
@@ -6987,10 +7001,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 123,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/59/b9/c6/59b9c6f8-60bc-8134-8b42-fa3b76b7b1c1/190295709327.jpg/100x100bb.jpg",
@@ -7013,10 +7027,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 124,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e7/02/88/e70288f0-c87c-8c7d-93e4-c3f24289e84b/190295659240.jpg/100x100bb.jpg",
@@ -7039,9 +7053,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 125,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -7291,9 +7305,9 @@
       "episode_number": 126,
       "genres": [
         "Abenteuer",
-        "Kinder & Jugend",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4c/3e/94/4c3e9440-a4e8-9c07-c840-72453898bd74/190295555870.jpg/100x100bb.jpg",
@@ -7316,10 +7330,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 127,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2d/e4/55/2de45501-f81a-8747-f19d-8445cc054288/190295520892.jpg/100x100bb.jpg",
@@ -7342,10 +7356,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 128,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -7573,10 +7587,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 129,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -7818,10 +7832,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 130,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -8056,10 +8070,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 131,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -8287,10 +8301,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 132,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -8651,10 +8665,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 133,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -8896,9 +8910,9 @@
       "author": "Elfie Donnelly",
       "episode_number": 134,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Krimi",
-        "Fantasy"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -9126,10 +9140,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 135,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -9336,10 +9350,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 136,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -9581,10 +9595,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 137,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -9826,10 +9840,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 138,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -10127,10 +10141,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 139,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -10379,8 +10393,8 @@
       "author": "Elfie Donnelly",
       "episode_number": 140,
       "genres": [
-        "Hörspiel",
         "Fantasy",
+        "Hörspiel",
         "Kinder & Jugend"
       ],
       "chapters": [
@@ -10623,10 +10637,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 141,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -10861,11 +10875,11 @@
       "author": "Elfie Donnelly",
       "episode_number": 142,
       "genres": [
-        "Science-Fiction",
+        "Abenteuer",
+        "Fantasy",
         "Hörspiel",
         "Kinder & Jugend",
-        "Fantasy",
-        "Abenteuer"
+        "Science-Fiction"
       ],
       "chapters": [
         {
@@ -11380,10 +11394,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 144,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -11639,10 +11653,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 145,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -11898,10 +11912,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 146,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -12415,10 +12429,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 148,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -12653,10 +12667,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 149,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -12905,10 +12919,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 150,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -13276,10 +13290,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 151,
       "genres": [
+        "Abenteuer",
         "Fantasy",
-        "Kinder & Jugend",
         "Hörspiel",
-        "Abenteuer"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -13514,10 +13528,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 152,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -13752,10 +13766,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 153,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -13990,10 +14004,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 154,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -14270,10 +14284,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 155,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -14557,10 +14571,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 156,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -14802,10 +14816,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 157,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -15040,10 +15054,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 158,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -15334,10 +15348,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 159,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -15600,11 +15614,11 @@
       "author": "Elfie Donnelly",
       "episode_number": 160,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
         "Abenteuer",
-        "Horror"
+        "Fantasy",
+        "Horror",
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -15853,10 +15867,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 161,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -16112,10 +16126,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 162,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -16371,10 +16385,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 163,
       "genres": [
+        "Abenteuer",
+        "Fantasy",
         "Hörspiel",
         "Kinder & Jugend",
-        "Fantasy",
-        "Abenteuer",
         "Krimi"
       ],
       "chapters": [
@@ -16610,10 +16624,10 @@
       "author": "Elfie Donnelly",
       "episode_number": 164,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -16869,13 +16883,13 @@
       "author": "Bibi Blocksberg",
       "episode_number": 165,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/33/71/f433712d-8232-506e-3113-1148fb313982/4033694556658.jpg/100x100bb.jpg",
       "apple_music_id": 6772208931,
       "status": "active",
-      "sub_franchise_id": 13,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:26",
       "extra": {
@@ -16888,8 +16902,7 @@
           "franchise": "Bibi Blocksberg",
           "sub_franchise": "Bibi Blocksberg"
         }
-      },
-      "sub_franchise": "Bibi Blocksberg"
+      }
     },
     {
       "id": "bibi-adve-6434",
@@ -16897,10 +16910,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -17100,9 +17113,9 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -17491,10 +17504,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -17792,10 +17805,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -18037,10 +18050,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -18289,10 +18302,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -18632,11 +18645,11 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
         "Abenteuer",
-        "Horror"
+        "Fantasy",
+        "Horror",
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -18808,7 +18821,7 @@
       "author": "Bibi Blocksberg",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -18929,7 +18942,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/16/f4/01/16f401c7-a287-c592-c38b-c0a994f1a7a2/825646573424.jpg/100x100bb.jpg",
       "apple_music_id": 537028827,
       "status": "active",
-      "sub_franchise_id": 13,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:13:34",
       "extra": {
@@ -18942,8 +18955,7 @@
           "franchise": "Bibi Blocksberg",
           "sub_franchise": "Bibi Blocksberg"
         }
-      },
-      "sub_franchise": "Bibi Blocksberg"
+      }
     },
     {
       "id": "bibi-hrsp-8853",
@@ -18951,10 +18963,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -19308,10 +19320,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -19686,10 +19698,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -19812,10 +19824,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -19882,10 +19894,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -19952,10 +19964,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20022,10 +20034,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20092,10 +20104,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20162,11 +20174,11 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy",
         "Abenteuer",
-        "Horror"
+        "Fantasy",
+        "Horror",
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20233,10 +20245,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20303,10 +20315,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20373,10 +20385,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20443,10 +20455,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20688,10 +20700,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20758,10 +20770,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20828,10 +20840,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20898,10 +20910,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -20968,10 +20980,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21038,10 +21050,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21108,10 +21120,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21178,10 +21190,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21248,10 +21260,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21318,10 +21330,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21388,10 +21400,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21458,10 +21470,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21528,10 +21540,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21598,10 +21610,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21668,10 +21680,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21738,10 +21750,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21808,10 +21820,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -21878,10 +21890,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -22123,10 +22135,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -22193,10 +22205,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -22494,10 +22506,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -22564,10 +22576,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -22802,10 +22814,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -22872,10 +22884,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -22942,10 +22954,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -23012,10 +23024,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -23285,10 +23297,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -23355,10 +23367,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -23607,10 +23619,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -23677,10 +23689,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -23747,10 +23759,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -23985,10 +23997,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -24055,10 +24067,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -24125,10 +24137,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -24391,10 +24403,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -24629,10 +24641,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -24860,10 +24872,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
         "Abenteuer",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -25105,10 +25117,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -25343,10 +25355,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
-        "Fantasy",
         "Abenteuer",
+        "Fantasy",
+        "Hörspiel",
+        "Kinder & Jugend",
         "Krimi"
       ],
       "chapters": [
@@ -25589,10 +25601,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -25841,10 +25853,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -26086,10 +26098,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -26324,10 +26336,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -26583,10 +26595,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -26828,10 +26840,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -27087,10 +27099,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
-        "Kinder & Jugend",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -27353,10 +27365,10 @@
       "author": "Elfie Donnelly",
       "episode_number": null,
       "genres": [
-        "Kinder & Jugend",
-        "Hörspiel",
+        "Abenteuer",
         "Fantasy",
-        "Abenteuer"
+        "Hörspiel",
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -27628,5 +27640,5 @@
       }
     }
   ],
-  "episode_count": 241
+  "episode_count": 242
 }

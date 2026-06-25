@@ -3,13 +3,7 @@
   "slug": "das-duell-der-magier",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/84/f1/ed84f124-4c6e-f9b3-37f8-4898b54bcb1a/4066339483897.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 124,
-      "name": "Das Duell der Magier",
-      "slug": "das-duell-der-magier-das-duell-der-magier"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_299583d4cc8e",
@@ -17,13 +11,13 @@
       "author": "Das Duell der Magier",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/84/f1/ed84f124-4c6e-f9b3-37f8-4898b54bcb1a/4066339483897.jpg/100x100bb.jpg",
       "apple_music_id": 1686010449,
       "status": "active",
-      "sub_franchise_id": 124,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Das Duell der Magier",
           "sub_franchise": "Das Duell der Magier"
         }
-      },
-      "sub_franchise": "Das Duell der Magier"
+      }
     }
   ],
   "episode_count": 1

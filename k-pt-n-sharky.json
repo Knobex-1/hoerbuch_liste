@@ -3,13 +3,7 @@
   "slug": "k-pt-n-sharky",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/28/96/67289659-efea-0f21-1ab5-c032a17b75d4/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 88,
-      "name": "Käpt'n Sharky",
-      "slug": "käpt-n-sharky-käpt-n-sharky"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_adc163b5fdfc",
@@ -17,13 +11,13 @@
       "author": "Käpt'n Sharky",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/28/96/67289659-efea-0f21-1ab5-c032a17b75d4/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1406380972,
       "status": "active",
-      "sub_franchise_id": 88,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Käpt'n Sharky",
           "sub_franchise": "Käpt'n Sharky"
         }
-      },
-      "sub_franchise": "Käpt'n Sharky"
+      }
     }
   ],
   "episode_count": 1

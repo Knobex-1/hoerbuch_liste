@@ -3,13 +3,7 @@
   "slug": "trolls",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/8a/30/9e8a3080-63a1-678d-7df4-329fcc6eb123/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 58,
-      "name": "Trolls",
-      "slug": "trolls-trolls"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_7e360ecbe657",
@@ -17,13 +11,13 @@
       "author": "Trolls",
       "episode_number": 2,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/8a/30/9e8a3080-63a1-678d-7df4-329fcc6eb123/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1506968249,
       "status": "active",
-      "sub_franchise_id": 58,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Trolls",
           "sub_franchise": "Trolls"
         }
-      },
-      "sub_franchise": "Trolls"
+      }
     },
     {
       "id": "ep_683b83f8afff",
@@ -45,13 +38,13 @@
       "author": "Trolls",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/d8/b1/dcd8b141-b0d8-d76b-b068-3f33fae9a660/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1555511119,
       "status": "active",
-      "sub_franchise_id": 58,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Trolls",
           "sub_franchise": "Trolls"
         }
-      },
-      "sub_franchise": "Trolls"
+      }
     },
     {
       "id": "ep_b006f8c81165",
@@ -73,13 +65,13 @@
       "author": "Trolls",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/e1/bd/f5e1bd16-a43d-0bd4-ef28-222715982c6c/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1719269592,
       "status": "active",
-      "sub_franchise_id": 58,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -92,8 +84,7 @@
           "franchise": "Trolls",
           "sub_franchise": "Trolls"
         }
-      },
-      "sub_franchise": "Trolls"
+      }
     }
   ],
   "episode_count": 3

@@ -3,13 +3,7 @@
   "slug": "bora-dagtekin",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/89/05/99890544-4cb5-7c03-6c6a-0eb2cba0c187/4066004271125_3000.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 97,
-      "name": "Bora Dagtekin",
-      "slug": "bora-dagtekin-bora-dagtekin"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_8457b0a92103",
@@ -17,13 +11,13 @@
       "author": "Bora Dagtekin",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/89/05/99890544-4cb5-7c03-6c6a-0eb2cba0c187/4066004271125_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1648884231,
       "status": "active",
-      "sub_franchise_id": 97,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Bora Dagtekin",
           "sub_franchise": "Bora Dagtekin"
         }
-      },
-      "sub_franchise": "Bora Dagtekin"
+      }
     }
   ],
   "episode_count": 1

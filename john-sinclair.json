@@ -3,13 +3,7 @@
   "slug": "john-sinclair",
   "description": "",
   "cover_url": "",
-  "sub_franchises": [
-    {
-      "id": 139,
-      "name": "John Sinclair",
-      "slug": "john-sinclair-john-sinclair"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "356472016",
@@ -413,13 +407,13 @@
       "author": "John Sinclair",
       "episode_number": 1,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/74/2a/55/742a55c5-d477-9c5b-12b2-756a71b1b6c3/9783838789217_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1382753983,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -432,8 +426,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_97b8ba9dccae",
@@ -441,7 +434,7 @@
       "author": "John Sinclair",
       "episode_number": 1,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -568,7 +561,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/55/56/72/5556727a-68aa-4660-dfc6-9bd9a785d467/mzm.jnduncof.jpg/100x100bb.jpg",
       "apple_music_id": 1053136971,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -581,8 +574,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "357774896",
@@ -796,7 +788,7 @@
       "author": "John Sinclair",
       "episode_number": 2,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -923,7 +915,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/fc/bf/84/fcbf84fc-e108-2ef5-a704-003e1c69c7ff/mzm.xpftfwcr.jpg/100x100bb.jpg",
       "apple_music_id": 1053137417,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -936,8 +928,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "371219234",
@@ -1143,7 +1134,7 @@
       "author": "John Sinclair",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -1270,7 +1261,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ab/cb/16/abcb16b7-a488-9177-9bf0-be46938209c1/mzm.ddyvlsxg.jpg/100x100bb.jpg",
       "apple_music_id": 1053138261,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -1283,8 +1274,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "386719338",
@@ -1485,7 +1475,7 @@
       "author": "John Sinclair",
       "episode_number": 4,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -1612,7 +1602,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3e/e6/ec/3ee6ec4b-6ba9-2dad-a2ad-56349ac9695e/mzm.lniicrkq.jpg/100x100bb.jpg",
       "apple_music_id": 1053846275,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -1625,8 +1615,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "327299068",
@@ -1634,9 +1623,9 @@
       "author": "John Sinclair",
       "episode_number": 5,
       "genres": [
+        "Horror",
         "Hörspiel",
-        "Krimi",
-        "Horror"
+        "Krimi"
       ],
       "chapters": [
         {
@@ -1852,7 +1841,7 @@
       "author": "John Sinclair",
       "episode_number": 5,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -1979,7 +1968,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/6f/73/4f/6f734f9e-b952-30f0-14ec-6751bb2b4253/9783838780054_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1063647218,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -1992,8 +1981,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "418709399",
@@ -2001,9 +1989,9 @@
       "author": "John Sinclair",
       "episode_number": 6,
       "genres": [
-        "Hörspiel",
         "Fantasy",
-        "Horror"
+        "Horror",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -2237,7 +2225,7 @@
       "author": "John Sinclair",
       "episode_number": 6,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -2364,7 +2352,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/19/b7/35/19b73562-0336-c116-9cb4-4803a8fd2d44/9783838780061_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1063647211,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -2377,8 +2365,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "444178625",
@@ -2476,7 +2463,7 @@
       "author": "John Sinclair",
       "episode_number": 7,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -2603,7 +2590,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/09/7a/77/097a770b-575d-3ea8-1080-67551860200b/9783838780078_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1062903854,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -2616,8 +2603,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "453536817",
@@ -2715,7 +2701,7 @@
       "author": "John Sinclair",
       "episode_number": 8,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -2842,7 +2828,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/1b/14/be/1b14beb8-16b2-7b6b-16e1-68f7c640a922/9783838780085_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1062908368,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -2855,8 +2841,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "470491866",
@@ -2864,8 +2849,8 @@
       "author": "John Sinclair",
       "episode_number": 9,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -2949,7 +2934,7 @@
       "author": "John Sinclair",
       "episode_number": 9,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -3076,7 +3061,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/00/fe/d2/00fed2d0-c78d-fb25-7318-d0f4135c2b4e/9783838780092_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1062911842,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -3089,8 +3074,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "498475675",
@@ -3188,7 +3172,7 @@
       "author": "John Sinclair",
       "episode_number": 10,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -3315,7 +3299,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/cb/da/a8/cbdaa81a-7651-0524-c7bc-429abae74efa/9783838780108_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1065018499,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -3328,8 +3312,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "537591474",
@@ -3421,7 +3404,7 @@
       "author": "John Sinclair",
       "episode_number": 11,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -3548,7 +3531,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/7b/a2/a4/7ba2a44e-e80b-8665-bf8a-1ec9c8baf01f/9783838780115_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068552011,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -3561,8 +3544,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_28897fe3cf56",
@@ -3570,7 +3552,7 @@
       "author": "John Sinclair",
       "episode_number": 12,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -3697,7 +3679,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/be/b9/db/beb9db16-8bd8-333d-104f-fdc3c0f7d33a/9783838780122_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068553216,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -3710,8 +3692,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "580463366",
@@ -3809,7 +3790,7 @@
       "author": "John Sinclair",
       "episode_number": 13,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -3936,7 +3917,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/da/40/b5/da40b557-af1a-592a-d604-84df1f8720c8/9783838780139_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1077131754,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -3949,8 +3930,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_062b02c06a1d",
@@ -3958,7 +3938,7 @@
       "author": "John Sinclair",
       "episode_number": 14,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -4085,7 +4065,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/db/e5/64/dbe564cb-4573-24e8-4d08-b0fbfe92e4f3/9783838780146_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1076353291,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -4098,8 +4078,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_d8f34a8209d1",
@@ -4107,7 +4086,7 @@
       "author": "John Sinclair",
       "episode_number": 15,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -4234,7 +4213,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/c7/c2/4c/c7c24c73-1807-85aa-54e2-33d9bc12e0d6/9783838780153_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1076355552,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -4247,8 +4226,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_2564d4c2eff4",
@@ -4256,7 +4234,7 @@
       "author": "John Sinclair",
       "episode_number": 16,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -4383,7 +4361,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/5f/22/54/5f2254ec-32c6-de1e-7ac2-78b97e0e49fb/9783838780160_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068229472,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -4396,8 +4374,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_ffb6cbcad089",
@@ -4405,7 +4382,7 @@
       "author": "John Sinclair",
       "episode_number": 17,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -4532,7 +4509,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/54/15/b5/5415b528-434e-4f89-658b-48f52cdad3aa/9783838780177_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068231380,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -4545,8 +4522,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_60d4c09efa6f",
@@ -4554,7 +4530,7 @@
       "author": "John Sinclair",
       "episode_number": 18,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -4681,7 +4657,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/f0/94/36/f094369d-5e04-7f2f-08b4-c36dc7b7678d/9783838780184_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068231705,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -4694,8 +4670,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_eebf9b923dae",
@@ -4703,7 +4678,7 @@
       "author": "John Sinclair",
       "episode_number": 19,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -4830,7 +4805,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/21/b3/b3/21b3b373-1d34-d25a-6c72-92204a0eded0/9783838780191_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068231980,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -4843,8 +4818,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_ed874c8ec426",
@@ -4852,7 +4826,7 @@
       "author": "John Sinclair",
       "episode_number": 20,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -4979,7 +4953,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/84/22/03/84220381-0760-c148-2966-118f23a110f2/9783838780207_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068232502,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -4992,8 +4966,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_1cbceef4814c",
@@ -5001,7 +4974,7 @@
       "author": "John Sinclair",
       "episode_number": 21,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -5128,7 +5101,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/40/0a/d5400a05-2ca0-b8de-1015-46a5c334e7a1/9783838780214_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068232718,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -5141,8 +5114,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "983241687",
@@ -5265,7 +5237,7 @@
       "author": "John Sinclair",
       "episode_number": 22,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -5392,7 +5364,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/20/bb/eb/20bbebbe-3758-3548-e38e-834d7f777e19/9783838780221_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068233609,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -5405,8 +5377,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_28ccd7ffacea",
@@ -5414,7 +5385,7 @@
       "author": "John Sinclair",
       "episode_number": 23,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -5541,7 +5512,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/89/9e/0f/899e0fa3-63c5-5508-f0db-ec2349b022b2/9783838780238_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068234427,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -5554,8 +5525,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "986900232",
@@ -5563,8 +5533,8 @@
       "author": "John Sinclair",
       "episode_number": 24,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -5678,7 +5648,7 @@
       "author": "John Sinclair",
       "episode_number": 24,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -5805,7 +5775,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/58/f8/14/58f81424-20af-e6d3-fdb9-5043740f35f0/9783838780245_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068234879,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -5818,8 +5788,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1058883665",
@@ -5941,7 +5910,7 @@
       "author": "John Sinclair",
       "episode_number": 25,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -6068,7 +6037,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/38/5e/56/385e5658-43cd-bd2e-787f-07ff8651fb2b/9783838780252_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068235042,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -6081,8 +6050,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1058882914",
@@ -6205,7 +6173,7 @@
       "author": "John Sinclair",
       "episode_number": 26,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -6332,7 +6300,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d8/c6/5a/d8c65af9-1119-cf6c-f7dc-064936021bb3/9783838780269_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068235661,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -6345,8 +6313,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1112100940",
@@ -6377,7 +6344,7 @@
       "author": "John Sinclair",
       "episode_number": 27,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -6504,7 +6471,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ac/6c/dd/ac6cdd64-4a17-32ac-497b-8f75f5a4e744/9783838780276_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068236040,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -6517,8 +6484,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1112139963",
@@ -6526,8 +6492,8 @@
       "author": "John Sinclair",
       "episode_number": 28,
       "genres": [
-        "Hörspiel",
-        "Horror"
+        "Horror",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/8e/de/9c/8ede9c4e-64b8-0e12-fae1-ad8d8c60bbb3/9783838779089_1448.jpg/100x100bb.jpg",
@@ -6550,7 +6516,7 @@
       "author": "John Sinclair",
       "episode_number": 28,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -6677,7 +6643,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/05/58/81/055881ad-81e3-518c-d587-7a4dd53bd6d0/9783838780283_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068235882,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -6690,8 +6656,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1119170879",
@@ -6699,8 +6664,8 @@
       "author": "John Sinclair",
       "episode_number": 29,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/ad/ed/28/aded28c8-a6be-1707-1a23-2c38c959a076/9783838779096_1448.jpg/100x100bb.jpg",
@@ -6723,7 +6688,7 @@
       "author": "John Sinclair",
       "episode_number": 29,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -6850,7 +6815,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/b9/bf/8e/b9bf8e0e-212f-769e-a8ec-76882da53260/9783838780290_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068236613,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -6863,8 +6828,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1193209827",
@@ -6895,7 +6859,7 @@
       "author": "John Sinclair",
       "episode_number": 30,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -7022,7 +6986,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d6/36/83/d6368316-f301-fbb4-b3c4-14c6e7a48fa4/9783838780306_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069860424,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -7035,8 +6999,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1236847654",
@@ -7044,8 +7007,8 @@
       "author": "John Sinclair",
       "episode_number": 31,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/61/18/df/6118dfce-4156-c565-46a4-fd1350adfac9/9783838783444_1448.jpg/100x100bb.jpg",
@@ -7068,7 +7031,7 @@
       "author": "John Sinclair",
       "episode_number": 31,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -7195,7 +7158,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/0a/7b/e3/0a7be3fd-e194-f8df-5d8d-e593d7de758a/9783838780313_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068472302,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -7208,8 +7171,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_adb218365e84",
@@ -7217,7 +7179,7 @@
       "author": "John Sinclair",
       "episode_number": 32,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -7344,7 +7306,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/86/93/8c/86938cf0-3359-19f7-1018-3f041ca163d0/9783838780320_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068237619,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -7357,8 +7319,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1369226177",
@@ -7389,7 +7350,7 @@
       "author": "John Sinclair",
       "episode_number": 33,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -7516,7 +7477,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/74/f4/81/74f481ab-5877-bf2e-c7eb-552c40b9ca30/9783838780337_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068237886,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -7529,8 +7490,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1409844360",
@@ -7561,7 +7521,7 @@
       "author": "John Sinclair",
       "episode_number": 34,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -7688,7 +7648,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9e/41/3f/9e413f89-7b58-e48c-c20f-a97f05d63fe3/9783838780344_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068238412,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -7701,8 +7661,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1453987198",
@@ -7734,7 +7693,7 @@
       "author": "John Sinclair",
       "episode_number": 35,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -7861,7 +7820,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/d2/71/cc/d271cc4b-87bd-21f1-98f9-06b4beb63d3b/9783838780351_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068239203,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -7874,8 +7833,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1580549902",
@@ -7883,8 +7841,8 @@
       "author": "John Sinclair",
       "episode_number": 36,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/51/c1/8d/51c18d30-4154-707d-8f4d-eadb37cbc4f6/9783838789057_3000.jpg/100x100bb.jpg",
@@ -7907,7 +7865,7 @@
       "author": "John Sinclair",
       "episode_number": 36,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -8034,7 +7992,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/d5/be/0a/d5be0a9a-b24c-515f-f590-7089a23a135a/9783838780368_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1068239269,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -8047,8 +8005,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1561139523",
@@ -8079,7 +8036,7 @@
       "author": "John Sinclair",
       "episode_number": 37,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -8206,7 +8163,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/85/32/0e/85320e88-2206-7430-47e2-fca08250cb6b/9783838780375_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069832969,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -8219,8 +8176,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1561139447",
@@ -8251,7 +8207,7 @@
       "author": "John Sinclair",
       "episode_number": 38,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -8378,7 +8334,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/62/8b/d6/628bd6dc-e9c3-59a8-bec0-242b6a4dad78/9783838780382_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069833286,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -8391,8 +8347,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_3a801f540c9e",
@@ -8400,7 +8355,7 @@
       "author": "John Sinclair",
       "episode_number": 39,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -8527,7 +8482,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/a4/cf/76/a4cf7686-8644-8f7f-7581-1452014aab81/9783838780399_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069834134,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -8540,8 +8495,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1595830049",
@@ -8572,7 +8526,7 @@
       "author": "John Sinclair",
       "episode_number": 40,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -8699,7 +8653,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/20/17/59/2017594f-efe3-24c1-ca16-06bf02fd7e2a/9783838780405_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069834798,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -8712,8 +8666,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_65270cafde7e",
@@ -8721,7 +8674,7 @@
       "author": "John Sinclair",
       "episode_number": 41,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -8848,7 +8801,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/fd/52/53/fd5253ef-faff-9dc1-c406-bd7bc8a0f73d/dj.ioegfcnp.jpg/100x100bb.jpg",
       "apple_music_id": 1069834921,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -8861,8 +8814,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1561145780",
@@ -8893,7 +8845,7 @@
       "author": "John Sinclair",
       "episode_number": 42,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -9020,7 +8972,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/75/a5/b2/75a5b20f-fa5f-ae25-dfaa-19804c7973b0/9783838780429_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069835311,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -9033,8 +8985,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_d15591711829",
@@ -9042,7 +8993,7 @@
       "author": "John Sinclair",
       "episode_number": 43,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -9169,7 +9120,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9a/ad/8c/9aad8cc0-39c2-3987-a9d0-e2af5e953cf9/9783838780436_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069836327,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -9182,8 +9133,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1582446310",
@@ -9214,7 +9164,7 @@
       "author": "John Sinclair",
       "episode_number": 44,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -9341,7 +9291,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/f5/5b/a4/f55ba499-6888-3978-11d4-6f48a3b26353/9783838780443_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069836083,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -9354,8 +9304,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1604567143",
@@ -9386,7 +9335,7 @@
       "author": "John Sinclair",
       "episode_number": 45,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -9513,7 +9462,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9a/0e/13/9a0e13e1-aeb8-4f6e-9cb4-abd8f4b088bd/9783838780450_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1069837171,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -9526,8 +9475,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_e9dc664faa78",
@@ -9535,13 +9483,13 @@
       "author": "John Sinclair",
       "episode_number": 46,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/ba/ab/71/baab7146-86c9-4f62-200b-06f4631abae0/9783838780467_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1145281099,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -9554,8 +9502,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_7a2efb489946",
@@ -9563,13 +9510,13 @@
       "author": "John Sinclair",
       "episode_number": 47,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ef/64/56/ef6456a7-238d-4b66-5d94-e1ad4beb2cfc/9783838780474_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1158872541,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -9582,8 +9529,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_51fb4238f196",
@@ -9591,13 +9537,13 @@
       "author": "John Sinclair",
       "episode_number": 48,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/31/6b/6a/316b6afc-4f11-adbc-176f-2720039ae254/9783838780481_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1161756024,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -9610,8 +9556,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1670096143",
@@ -9619,8 +9564,8 @@
       "author": "John Sinclair",
       "episode_number": 49,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/7c/0c/c37c0cca-d8b4-6872-ddbd-45fcf0780b5c/9783754003497_3000.jpg/100x100bb.jpg",
@@ -9752,13 +9697,13 @@
       "author": "John Sinclair",
       "episode_number": 49,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/e5/9d/10/e59d10cc-db76-7e43-f57a-9c47f2d933d7/9783838780498_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1152985376,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -9771,8 +9716,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1680860045",
@@ -9943,13 +9887,13 @@
       "author": "John Sinclair",
       "episode_number": 50,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/62/f7/a5/62f7a55d-b78f-d586-fc9e-291219b2e76d/9783838780504_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1164965153,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -9962,8 +9906,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "324276149",
@@ -10103,13 +10046,13 @@
       "author": "John Sinclair",
       "episode_number": 51,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/c7/bb/3a/c7bb3a27-c34b-d689-6f67-6cc653923151/9783838780511_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1164983738,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -10122,8 +10065,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "324275565",
@@ -10263,13 +10205,13 @@
       "author": "John Sinclair",
       "episode_number": 52,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/60/d0/67/60d06753-c701-7ed9-456f-8990d3d78489/9783838780528_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1170629571,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -10282,8 +10224,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "327483755",
@@ -10417,13 +10358,13 @@
       "author": "John Sinclair",
       "episode_number": 53,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ab/ca/2b/abca2b6b-e478-79f6-058d-e39a3b17a442/9783838780535_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1170629804,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -10436,8 +10377,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_2e9c54a7fa5b",
@@ -10445,13 +10385,13 @@
       "author": "John Sinclair",
       "episode_number": 54,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/35/dc/92/35dc923c-ae92-2d9b-ab34-c97c37920eb2/9783838780542_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1170606477,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -10464,8 +10404,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "356571065",
@@ -10594,13 +10533,13 @@
       "author": "John Sinclair",
       "episode_number": 55,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/1f/14/11/1f14111b-d480-1237-c6b7-4452844cf8cd/9783838780559_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171081975,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -10613,8 +10552,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "356610081",
@@ -10730,13 +10668,13 @@
       "author": "John Sinclair",
       "episode_number": 56,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/df/ee/e2/dfeee2d4-23a4-0ebd-ca66-0fe1b2e30a2c/9783838780566_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171082174,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -10749,8 +10687,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "378824710",
@@ -10848,13 +10785,13 @@
       "author": "John Sinclair",
       "episode_number": 57,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/0c/81/38/0c813840-ea17-db01-3474-b2e83aaf5e5c/9783838780573_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171082177,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -10867,8 +10804,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "381704062",
@@ -10876,8 +10812,8 @@
       "author": "John Sinclair",
       "episode_number": 58,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -10967,13 +10903,13 @@
       "author": "John Sinclair",
       "episode_number": 58,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/bd/99/00/bd990008-2fde-99be-19ad-b355b97155e9/9783838780580_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171083019,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -10986,8 +10922,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "392283108",
@@ -11091,13 +11026,13 @@
       "author": "John Sinclair",
       "episode_number": 59,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ed/d7/ce/edd7ce0c-c11d-909d-9f00-9d434f451c38/9783838780597_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171083422,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -11110,8 +11045,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "396107978",
@@ -11216,13 +11150,13 @@
       "author": "John Sinclair",
       "episode_number": 60,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/b9/5f/28/b95f2844-9b5f-0278-2d32-d06130245f98/9783838780603_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171083547,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -11235,8 +11169,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "402446668",
@@ -11334,13 +11267,13 @@
       "author": "John Sinclair",
       "episode_number": 61,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ca/f3/07/caf30763-2cd6-7a2b-f05c-6e50d4e9add5/9783838780610_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171084517,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -11353,8 +11286,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "403746153",
@@ -11452,13 +11384,13 @@
       "author": "John Sinclair",
       "episode_number": 62,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/e6/0a/a1/e60aa13f-6cee-dca9-425e-23afc009b8e6/9783838780627_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171084422,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -11471,8 +11403,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "412855445",
@@ -11582,13 +11513,13 @@
       "author": "John Sinclair",
       "episode_number": 63,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/6a/a9/2d/6aa92d5a-1991-9839-5cb8-aba9de74a362/9783838780634_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171084550,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -11601,8 +11532,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "425336465",
@@ -11694,13 +11624,13 @@
       "author": "John Sinclair",
       "episode_number": 64,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d9/48/59/d94859a4-a8c4-4810-500e-fd95400bcfc7/9783838780641_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171085161,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -11713,8 +11643,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "431079949",
@@ -11812,13 +11741,13 @@
       "author": "John Sinclair",
       "episode_number": 65,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/ab/d9/fa/abd9fa8e-e4e8-c59a-e813-e749001cc2e8/9783838780658_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171085291,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -11831,8 +11760,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "436337105",
@@ -11840,8 +11768,8 @@
       "author": "John Sinclair",
       "episode_number": 66,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -11925,13 +11853,13 @@
       "author": "John Sinclair",
       "episode_number": 66,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f1/53/fc/f153fca0-8282-b47b-d96d-7a6964e9ca6e/9783838780665_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171085098,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -11944,8 +11872,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "449150577",
@@ -12043,13 +11970,13 @@
       "author": "John Sinclair",
       "episode_number": 67,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/5f/8b/c0/5f8bc01d-5596-a8d8-6824-53428f84763a/9783838780672_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171085455,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -12062,8 +11989,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "465049804",
@@ -12156,13 +12082,13 @@
       "author": "John Sinclair",
       "episode_number": 68,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f7/07/39/f70739b6-f2a7-0987-7afe-8506b5361dd0/9783838780689_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171085509,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -12175,8 +12101,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_9a5dbf97b433",
@@ -12184,13 +12109,13 @@
       "author": "John Sinclair",
       "episode_number": 69,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/29/65/f6/2965f6d5-082d-514e-f0a8-1eefcbbee10d/9783838780696_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171085415,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -12203,8 +12128,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "479568458",
@@ -12212,8 +12136,8 @@
       "author": "John Sinclair",
       "episode_number": 70,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -12297,13 +12221,13 @@
       "author": "John Sinclair",
       "episode_number": 70,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c3/99/d8/c399d8bc-5552-9147-8bbf-2933208de71e/9783838780702_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171085904,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -12316,8 +12240,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "493272604",
@@ -12409,13 +12332,13 @@
       "author": "John Sinclair",
       "episode_number": 71,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/68/be/0e/68be0e44-7b91-3bdf-7bdc-f55c8494e9b5/9783838780719_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171086166,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -12428,8 +12351,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_4893229fcd80",
@@ -12437,13 +12359,13 @@
       "author": "John Sinclair",
       "episode_number": 72,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/04/bf/d3/04bfd361-d978-0bbd-ba38-9d961b927f22/9783838780726_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1171085973,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -12456,8 +12378,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "514759783",
@@ -12549,13 +12470,13 @@
       "author": "John Sinclair",
       "episode_number": 73,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/a8/20/67/a82067f0-8d87-4e1c-5598-33cfe1689078/4251234326411_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214907652,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -12568,8 +12489,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_68a14dd5c147",
@@ -12577,13 +12497,13 @@
       "author": "John Sinclair",
       "episode_number": 74,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/fc/a0/87/fca0870b-4c04-2db7-c019-2970fdd1d2cb/4251234326497_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214907613,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -12596,8 +12516,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "545608305",
@@ -12605,8 +12524,8 @@
       "author": "John Sinclair",
       "episode_number": 75,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -12696,13 +12615,13 @@
       "author": "John Sinclair",
       "episode_number": 75,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/11/b3/dc/11b3dc4e-d7f0-7daf-2c9b-411879135d77/4251234326480_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214909493,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -12715,8 +12634,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "554174497",
@@ -12724,8 +12642,8 @@
       "author": "John Sinclair",
       "episode_number": 76,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -12815,13 +12733,13 @@
       "author": "John Sinclair",
       "episode_number": 76,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a1/88/49/a1884977-4a34-4467-3281-97ccd72347b0/4251234326428_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214909489,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -12834,8 +12752,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "567092015",
@@ -12945,13 +12862,13 @@
       "author": "John Sinclair",
       "episode_number": 77,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/01/9f/c7/019fc7a6-b43a-161a-53b3-5508669c7b5d/4251234326510_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214946359,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -12964,8 +12881,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "570751019",
@@ -13070,13 +12986,13 @@
       "author": "John Sinclair",
       "episode_number": 78,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/7c/d5/c8/7cd5c845-f519-2c56-38c4-ebec72566452/4251234326596_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214946166,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -13089,8 +13005,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_992f1dd9728f",
@@ -13098,13 +13013,13 @@
       "author": "John Sinclair",
       "episode_number": 79,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/74/aa/c674aaad-a634-9cf6-753e-1a36e3687759/4251234326589_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214946332,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -13117,8 +13032,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "608279663",
@@ -13126,8 +13040,8 @@
       "author": "John Sinclair",
       "episode_number": 80,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -13211,13 +13125,13 @@
       "author": "John Sinclair",
       "episode_number": 80,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/db/09/8c/db098ce6-e3f5-a61c-447f-80bb5ba02358/4251234326565_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214947729,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -13230,8 +13144,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "608280636",
@@ -13239,9 +13152,9 @@
       "author": "John Sinclair",
       "episode_number": 81,
       "genres": [
-        "Hörspiel",
         "Abenteuer",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -13343,13 +13256,13 @@
       "author": "John Sinclair",
       "episode_number": 81,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/f8/aa/85/f8aa85c4-86b7-57cc-87c9-482901e7f21a/4251234326572_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214947748,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -13362,8 +13275,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "606997602",
@@ -13485,13 +13397,13 @@
       "author": "John Sinclair",
       "episode_number": 82,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/31/d9/08/31d908c0-7c9c-b797-3184-ad002cc7faea/4251234326558_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214948876,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -13504,8 +13416,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "634857916",
@@ -13633,13 +13544,13 @@
       "author": "John Sinclair",
       "episode_number": 83,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/60/dd/51/60dd519a-8c88-d965-0c30-25d023a9b132/4251234326541_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214949695,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -13652,8 +13563,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "660880978",
@@ -13763,13 +13673,13 @@
       "author": "John Sinclair",
       "episode_number": 84,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/04/ca/06/04ca069d-3937-67c7-5137-44fc64b93495/4251234326527_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214951613,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -13782,8 +13692,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_6bb983a5c936",
@@ -13791,13 +13700,13 @@
       "author": "John Sinclair",
       "episode_number": 85,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/f2/e5/16/f2e51608-454e-db9a-a8a3-30afe26f192c/4251234326534_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214954501,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -13810,8 +13719,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_a4c165333ed2",
@@ -13819,13 +13727,13 @@
       "author": "John Sinclair",
       "episode_number": 86,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fa/b5/ff/fab5ffeb-5710-fcec-e192-2d828d789655/4251234326664_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214956729,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -13838,8 +13746,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "702942325",
@@ -13943,13 +13850,13 @@
       "author": "John Sinclair",
       "episode_number": 87,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/1e/13/bd/1e13bd9e-580f-5225-2a0d-c84504926cce/4251234326640_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214958516,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -13962,8 +13869,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "762808016",
@@ -14086,13 +13992,13 @@
       "author": "John Sinclair",
       "episode_number": 88,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/95/f8/fa/95f8facd-209a-26c2-d068-e8937c8090ab/4251234337417_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1265807968,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -14105,8 +14011,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "779458288",
@@ -14230,13 +14135,13 @@
       "author": "John Sinclair",
       "episode_number": 89,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d7/a4/0c/d7a40ce1-8995-9b59-e8f6-b21d2a3fcbae/4251234326633_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214958497,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -14249,8 +14154,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "796926574",
@@ -14372,13 +14276,13 @@
       "author": "John Sinclair",
       "episode_number": 90,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/8a/2d/c5/8a2dc53a-a023-34f9-4b4e-a6234596d59d/4251234326626_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214955224,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -14391,8 +14295,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "834316835",
@@ -14514,13 +14417,13 @@
       "author": "John Sinclair",
       "episode_number": 91,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/99/1f/e9/991fe9a1-068e-5ccd-d938-d5e4198b2d4a/4251234326619_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214955253,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -14533,8 +14436,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_ce1f3b40237a",
@@ -14542,13 +14444,13 @@
       "author": "John Sinclair",
       "episode_number": 92,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/1b/a7/f8/1ba7f8f3-c4e3-0004-33df-ee2178bbf0c9/4251234326602_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214956753,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -14561,8 +14463,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_5c939fab6028",
@@ -14570,13 +14471,13 @@
       "author": "John Sinclair",
       "episode_number": 93,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/60/a3/51/60a35100-5223-647c-f51d-e9178d2f0278/4251234326473_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214909618,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -14589,8 +14490,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "858549973",
@@ -14713,13 +14613,13 @@
       "author": "John Sinclair",
       "episode_number": 94,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/25/97/29/259729d5-eb9a-80cc-3a00-83f19af7f0ef/4251234326503_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214956831,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -14732,8 +14632,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_9563a4d5977b",
@@ -14741,13 +14640,13 @@
       "author": "John Sinclair",
       "episode_number": 95,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/e1/46/59/e146599f-e456-011a-d2e1-f7c6a4d7e1aa/4251234326466_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214911032,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -14760,8 +14659,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "910994433",
@@ -14883,13 +14781,13 @@
       "author": "John Sinclair",
       "episode_number": 96,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/7f/17/c8/7f17c89f-bd32-7f17-81b3-979bb6fa58f9/4251234326442_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214910245,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -14902,8 +14800,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_ac1b89129846",
@@ -14911,13 +14808,13 @@
       "author": "John Sinclair",
       "episode_number": 97,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/9d/52/3f9d5200-583a-41d0-226a-db4fc912032f/4251234326459_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214911586,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -14930,8 +14827,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "910994230",
@@ -15054,13 +14950,13 @@
       "author": "John Sinclair",
       "episode_number": 98,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/56/0e/da/560eda1a-9d63-3884-7e0b-8efe616b6ed0/4251234326435_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1214912330,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -15073,8 +14969,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "949585255",
@@ -15196,13 +15091,13 @@
       "author": "John Sinclair",
       "episode_number": 99,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ad/d4/b6/add4b6a0-bd0c-00fc-ba65-87f6d03adc64/9783838780993_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1289276105,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -15215,8 +15110,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "957426097",
@@ -15428,13 +15322,13 @@
       "author": "John Sinclair",
       "episode_number": 100,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/94/78/b19478a3-4b31-55a9-4727-263523f1d7af/9783838781006_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1291976491,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -15447,8 +15341,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "973020839",
@@ -15570,13 +15463,13 @@
       "author": "John Sinclair",
       "episode_number": 101,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/2d/fe/97/2dfe9741-2e99-ffd2-85c9-2f84ae91197b/9783838781013_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1295817039,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:35",
       "extra": {
@@ -15589,8 +15482,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "ep_52e6c15b9715",
@@ -15598,13 +15490,13 @@
       "author": "John Sinclair",
       "episode_number": 102,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d4/c6/0e/d4c60e8d-dbf6-2a03-2b71-c15adf1279f1/9783838781020_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1299726277,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:36",
       "extra": {
@@ -15617,8 +15509,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "986927635",
@@ -15740,13 +15631,13 @@
       "author": "John Sinclair",
       "episode_number": 103,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/78/93/17/789317f3-00aa-e0b4-a9eb-1208a4808c04/9783838781037_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1300198376,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -15759,8 +15650,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "986931860",
@@ -15882,13 +15772,13 @@
       "author": "John Sinclair",
       "episode_number": 104,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a0/bc/d7/a0bcd772-7ffe-6c44-0ee1-1f4715d71228/9783838781044_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1300329718,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -15901,8 +15791,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "986945730",
@@ -16025,13 +15914,13 @@
       "author": "John Sinclair",
       "episode_number": 105,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6a/c4/46/6ac44681-14d4-cf3b-ae8d-3c6ba7fec435/9783838781051_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1307120194,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -16044,8 +15933,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "986946738",
@@ -16167,13 +16055,13 @@
       "author": "John Sinclair",
       "episode_number": 106,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/c8/e7/eac8e7b2-3037-d590-d9e6-f599d0e37476/9783838781068_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1312925831,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:34",
       "extra": {
@@ -16186,8 +16074,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1058879868",
@@ -16309,13 +16196,13 @@
       "author": "John Sinclair",
       "episode_number": 107,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5f/cf/67/5fcf67c4-cde6-fcc8-bb6c-5864519e45ed/9783838781075_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1317036624,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -16328,8 +16215,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1058880201",
@@ -16452,13 +16338,13 @@
       "author": "John Sinclair",
       "episode_number": 108,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9b/f4/c8/9bf4c80a-79de-1df1-fc79-592b448f0ac7/9783838789255_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1555714163,
       "status": "active",
-      "sub_franchise_id": 139,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -16471,8 +16357,7 @@
           "franchise": "John Sinclair",
           "sub_franchise": "John Sinclair"
         }
-      },
-      "sub_franchise": "John Sinclair"
+      }
     },
     {
       "id": "1058879871",
@@ -16846,8 +16731,8 @@
       "author": "John Sinclair",
       "episode_number": 114,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/a3/c9/26/a3c92601-7790-ede2-711a-2370be64ca94/9783838781808_1448.jpg/100x100bb.jpg",
@@ -16870,9 +16755,9 @@
       "author": "John Sinclair",
       "episode_number": 115,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Science-Fiction",
-        "Fantasy"
+        "Science-Fiction"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music82/v4/e2/1c/37/e21c37a0-484a-c4af-39ba-1f2ea89a3c4a/9783838783291_1448.jpg/100x100bb.jpg",
@@ -16895,8 +16780,8 @@
       "author": "John Sinclair",
       "episode_number": 116,
       "genres": [
-        "Hörspiel",
-        "Abenteuer"
+        "Abenteuer",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/7c/2b/4c/7c2b4c37-6d22-3400-6469-e7f74e70b7f1/9783838783307_1448.jpg/100x100bb.jpg",
@@ -17036,8 +16921,8 @@
       "author": "John Sinclair",
       "episode_number": 122,
       "genres": [
-        "Hörspiel",
-        "Abenteuer"
+        "Abenteuer",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/e9/21/eae92163-078f-c7ac-a387-11bfe5f0f46b/9783838783369_3000.jpg/100x100bb.jpg",
@@ -17107,9 +16992,9 @@
       "author": "John Sinclair",
       "episode_number": 125,
       "genres": [
-        "Hörspiel",
         "Fantasy",
-        "Horror"
+        "Horror",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ab/01/1a/ab011a5f-a885-cc2d-4480-abb95420dd2f/9783838787619_3000.jpg/100x100bb.jpg",
@@ -17224,8 +17109,8 @@
       "author": "John Sinclair",
       "episode_number": 130,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/04/d6/2a/04d62a54-77e2-2689-a277-edafa31c028c/9783838789712_3000.jpg/100x100bb.jpg",
@@ -17457,8 +17342,8 @@
       "author": "John Sinclair",
       "episode_number": 145,
       "genres": [
-        "Hörspiel",
-        "Abenteuer"
+        "Abenteuer",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/8b/3f/bd8b3f4a-58f5-fc26-e5bc-0c5d0204596a/9783838797069_3000.jpg/100x100bb.jpg",
@@ -17668,8 +17553,8 @@
       "author": "John Sinclair",
       "episode_number": 157,
       "genres": [
-        "Hörspiel",
-        "Horror"
+        "Horror",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3b/ac/5b/3bac5baf-dcbc-1c11-15cb-11312165001f/9783754003572_3000.jpg/100x100bb.jpg",
@@ -17692,9 +17577,9 @@
       "author": "John Sinclair",
       "episode_number": 158,
       "genres": [
+        "Horror",
         "Krimi",
-        "Thriller",
-        "Horror"
+        "Thriller"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/07/93/ad/0793ade2-c679-85b9-d172-85d547f337ab/9783754003589_3000.jpg/100x100bb.jpg",
@@ -17717,8 +17602,8 @@
       "author": "John Sinclair",
       "episode_number": 160,
       "genres": [
-        "Hörspiel",
-        "Horror"
+        "Horror",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/36/53/ed3653f3-cb1e-1574-395c-9b2146c1a370/9783754005606_3000.jpg/100x100bb.jpg",
@@ -17834,9 +17719,9 @@
       "author": "John Sinclair",
       "episode_number": 167,
       "genres": [
+        "Horror",
         "Hörspiel",
-        "Krimi",
-        "Horror"
+        "Krimi"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/fc/62/48fc6216-6d7d-8bf6-4eb3-f2671b7ff406/9783754008973_3000.jpg/100x100bb.jpg",
@@ -17951,8 +17836,8 @@
       "author": "John Sinclair",
       "episode_number": 174,
       "genres": [
-        "Hörspiel",
-        "Abenteuer"
+        "Abenteuer",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/e1/f5/06e1f5c9-7fc7-2376-84aa-7e274e1c5aaf/9783754012833_3000.jpg/100x100bb.jpg",
@@ -17975,9 +17860,9 @@
       "author": "John Sinclair",
       "episode_number": 176,
       "genres": [
-        "Hörspiel",
         "Abenteuer",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/31/6f/92316f22-cb7c-863d-8230-430fbef80a7c/9783754015872_3000.jpg/100x100bb.jpg",
@@ -18047,8 +17932,8 @@
       "author": "John Sinclair",
       "episode_number": 183,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/94/57/a4945746-c8ae-715f-a5c1-247c230b6970/9783754017357_3000.jpg/100x100bb.jpg",
@@ -18141,8 +18026,8 @@
       "author": "John Sinclair",
       "episode_number": 188,
       "genres": [
-        "Hörspiel",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/9c/8f/7c9c8f3f-06d8-e08f-55c4-765438675feb/9783754018385_3000.jpg/100x100bb.jpg",
@@ -18258,8 +18143,8 @@
       "author": "John Sinclair",
       "episode_number": 193,
       "genres": [
-        "Hörspiel",
-        "Abenteuer"
+        "Abenteuer",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/78/1f/26781f08-1772-16bb-4b30-f277745b4701/9783754018439_3000.jpg/100x100bb.jpg",

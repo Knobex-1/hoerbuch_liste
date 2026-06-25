@@ -3,13 +3,7 @@
   "slug": "home-ein-smektakul-rer-trip",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f9/27/7e/f9277eb4-1c3a-8de4-54a1-6ce9c3f801f2/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 113,
-      "name": "Home - Ein Smektakulärer Trip",
-      "slug": "home-ein-smektakulärer-trip-home-ein-smektakulärer-trip"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_8ed08119fe43",
@@ -17,13 +11,13 @@
       "author": "Home - Ein Smektakulärer Trip",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f9/27/7e/f9277eb4-1c3a-8de4-54a1-6ce9c3f801f2/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1126290867,
       "status": "active",
-      "sub_franchise_id": 113,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Home - Ein Smektakulärer Trip",
           "sub_franchise": "Home - Ein Smektakulärer Trip"
         }
-      },
-      "sub_franchise": "Home - Ein Smektakulärer Trip"
+      }
     }
   ],
   "episode_count": 1

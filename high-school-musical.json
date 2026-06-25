@@ -3,13 +3,7 @@
   "slug": "high-school-musical",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c7/b1/ca/c7b1ca07-4cb8-8ecc-836a-281506e027f6/4066339483453.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 62,
-      "name": "High School Musical",
-      "slug": "high-school-musical-high-school-musical"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_fd0e91d36d73",
@@ -17,13 +11,13 @@
       "author": "High School Musical",
       "episode_number": 2,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e0/c7/5e/e0c75e6a-553a-bb2c-0cf8-5f63e283e6cf/4066339609297.jpg/100x100bb.jpg",
       "apple_music_id": 1686157939,
       "status": "active",
-      "sub_franchise_id": 62,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "High School Musical",
           "sub_franchise": "High School Musical"
         }
-      },
-      "sub_franchise": "High School Musical"
+      }
     },
     {
       "id": "ep_488ef9d71556",
@@ -45,13 +38,13 @@
       "author": "High School Musical",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/45/30/254530b6-328f-b0f3-ef6e-eb1332b76b51/4066339609396.jpg/100x100bb.jpg",
       "apple_music_id": 1686005977,
       "status": "active",
-      "sub_franchise_id": 62,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "High School Musical",
           "sub_franchise": "High School Musical"
         }
-      },
-      "sub_franchise": "High School Musical"
+      }
     },
     {
       "id": "ep_76218611c940",
@@ -73,13 +65,13 @@
       "author": "High School Musical",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c7/b1/ca/c7b1ca07-4cb8-8ecc-836a-281506e027f6/4066339483453.jpg/100x100bb.jpg",
       "apple_music_id": 1686163865,
       "status": "active",
-      "sub_franchise_id": 62,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -92,8 +84,7 @@
           "franchise": "High School Musical",
           "sub_franchise": "High School Musical"
         }
-      },
-      "sub_franchise": "High School Musical"
+      }
     }
   ],
   "episode_count": 3

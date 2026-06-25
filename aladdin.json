@@ -3,13 +3,7 @@
   "slug": "aladdin",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/67/cb/6167cb66-0fde-7ac0-a371-7a6cd96028b0/4066339450073.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 59,
-      "name": "Aladdin",
-      "slug": "aladdin-aladdin"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_9cbeb5caef3b",
@@ -17,13 +11,13 @@
       "author": "Aladdin",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/67/cb/6167cb66-0fde-7ac0-a371-7a6cd96028b0/4066339450073.jpg/100x100bb.jpg",
       "apple_music_id": 1685940073,
       "status": "active",
-      "sub_franchise_id": 59,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Aladdin",
           "sub_franchise": "Aladdin"
         }
-      },
-      "sub_franchise": "Aladdin"
+      }
     }
   ],
   "episode_count": 1

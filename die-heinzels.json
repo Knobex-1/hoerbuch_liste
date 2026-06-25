@@ -3,13 +3,7 @@
   "slug": "die-heinzels",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/76/c7/e976c788-f8a5-23d3-2d8b-3708d73fbd63/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 116,
-      "name": "Die Heinzels",
-      "slug": "die-heinzels-die-heinzels"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_1a69672032a3",
@@ -17,13 +11,13 @@
       "author": "Die Heinzels",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/56/3d/11563d70-ac1b-a4bc-3aa1-29daa2dc2272/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1782303901,
       "status": "active",
-      "sub_franchise_id": 116,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Die Heinzels",
           "sub_franchise": "Die Heinzels"
         }
-      },
-      "sub_franchise": "Die Heinzels"
+      }
     },
     {
       "id": "ep_0cd06257d147",
@@ -45,13 +38,13 @@
       "author": "Die Heinzels",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/76/c7/e976c788-f8a5-23d3-2d8b-3708d73fbd63/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1495464572,
       "status": "active",
-      "sub_franchise_id": 116,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Die Heinzels",
           "sub_franchise": "Die Heinzels"
         }
-      },
-      "sub_franchise": "Die Heinzels"
+      }
     }
   ],
   "episode_count": 2

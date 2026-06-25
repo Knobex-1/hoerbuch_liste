@@ -3,13 +3,7 @@
   "slug": "tron",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/b5/bd/c3b5bd3b-552d-641c-ddc4-6b8a3c500763/4066339483675.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 114,
-      "name": "TRON",
-      "slug": "tron-tron"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_2738c60ed9d7",
@@ -17,13 +11,13 @@
       "author": "TRON",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/b5/bd/c3b5bd3b-552d-641c-ddc4-6b8a3c500763/4066339483675.jpg/100x100bb.jpg",
       "apple_music_id": 1685843211,
       "status": "active",
-      "sub_franchise_id": 114,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "TRON",
           "sub_franchise": "TRON"
         }
-      },
-      "sub_franchise": "TRON"
+      }
     }
   ],
   "episode_count": 1

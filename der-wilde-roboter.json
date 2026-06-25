@@ -3,13 +3,7 @@
   "slug": "der-wilde-roboter",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/5c/d7/785cd73d-5e37-24d1-a39d-773a1989e924/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 120,
-      "name": "Der wilde Roboter",
-      "slug": "der-wilde-roboter-der-wilde-roboter"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_9f1a56c4bfe8",
@@ -17,13 +11,13 @@
       "author": "Der wilde Roboter",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/5c/d7/785cd73d-5e37-24d1-a39d-773a1989e924/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1788949444,
       "status": "active",
-      "sub_franchise_id": 120,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Der wilde Roboter",
           "sub_franchise": "Der wilde Roboter"
         }
-      },
-      "sub_franchise": "Der wilde Roboter"
+      }
     }
   ],
   "episode_count": 1

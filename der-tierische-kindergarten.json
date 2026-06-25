@@ -3,13 +3,7 @@
   "slug": "der-tierische-kindergarten",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/e5/a5/bce5a5d5-efb3-1395-f9ae-8eb512ff84d0/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 47,
-      "name": "Der tierische Kindergarten",
-      "slug": "der-tierische-kindergarten-der-tierische-kindergarten"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_f54201aca636",
@@ -17,13 +11,13 @@
       "author": "Der tierische Kindergarten",
       "episode_number": 5,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/e5/a5/bce5a5d5-efb3-1395-f9ae-8eb512ff84d0/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1728844304,
       "status": "active",
-      "sub_franchise_id": 47,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Der tierische Kindergarten",
           "sub_franchise": "Der tierische Kindergarten"
         }
-      },
-      "sub_franchise": "Der tierische Kindergarten"
+      }
     }
   ],
   "episode_count": 1

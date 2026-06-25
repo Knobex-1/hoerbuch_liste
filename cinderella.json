@@ -3,13 +3,7 @@
   "slug": "cinderella",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/1e/79/9d1e795e-3447-7dab-0b1c-c1f40e988411/4066339502369.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 79,
-      "name": "Cinderella",
-      "slug": "cinderella-cinderella"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_84801a33acec",
@@ -17,13 +11,13 @@
       "author": "Cinderella",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/1e/79/9d1e795e-3447-7dab-0b1c-c1f40e988411/4066339502369.jpg/100x100bb.jpg",
       "apple_music_id": 1686030237,
       "status": "active",
-      "sub_franchise_id": 79,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Cinderella",
           "sub_franchise": "Cinderella"
         }
-      },
-      "sub_franchise": "Cinderella"
+      }
     }
   ],
   "episode_count": 1

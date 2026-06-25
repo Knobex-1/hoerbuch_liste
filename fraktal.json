@@ -3,13 +3,7 @@
   "slug": "fraktal",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/b9/ee/9fb9ee77-9927-3e57-ddc9-412bf6744c07/4260507157461_3000.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 9,
-      "name": "Fraktal",
-      "slug": "fraktal-fraktal"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "frak-folg-7215",
@@ -17,9 +11,9 @@
       "author": "Fraktal",
       "episode_number": 1,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -348,7 +342,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/33/ac/f833acb0-977a-a55f-c2a1-fd627a8cd5c8/4260507157379_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499097215,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -357,8 +351,7 @@
         "platforms": {
           "appleMusic": "1499097215"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "frak-folg-8438",
@@ -366,9 +359,9 @@
       "author": "Fraktal",
       "episode_number": 2,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -676,7 +669,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/1d/05/621d0517-52b8-cee9-0a15-f0103e9eb065/4260507157386_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499098438,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -685,8 +678,7 @@
         "platforms": {
           "appleMusic": "1499098438"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "frak-folg-8070",
@@ -694,9 +686,9 @@
       "author": "Fraktal",
       "episode_number": 3,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -962,7 +954,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/7c/5a/377c5a9b-30eb-c1b2-b71c-7ce03e75d99c/4260507157393_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499098070,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -971,8 +963,7 @@
         "platforms": {
           "appleMusic": "1499098070"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "ep_22d7d470eaf9",
@@ -980,13 +971,13 @@
       "author": "Fraktal",
       "episode_number": 4,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/d2/6f/00d26fae-2551-7378-e66b-39939f2daa09/4260507157409_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499101103,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -999,8 +990,7 @@
           "franchise": "Fraktal",
           "sub_franchise": "Fraktal"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "frak-folg-1592",
@@ -1008,9 +998,9 @@
       "author": "Fraktal",
       "episode_number": 5,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -1269,7 +1259,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/40/48/7c40482c-8fd9-71d6-c8be-924af6e6d964/4260507157416_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499101592,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1278,8 +1268,7 @@
         "platforms": {
           "appleMusic": "1499101592"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "ep_a1f85d29b2a4",
@@ -1287,13 +1276,13 @@
       "author": "Fraktal",
       "episode_number": 6,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f7/c8/62/f7c862bd-fe22-e9c2-13bb-e35e980784df/4260507157423_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499102938,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1306,8 +1295,7 @@
           "franchise": "Fraktal",
           "sub_franchise": "Fraktal"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "ep_ec2e9d4b3b25",
@@ -1315,13 +1303,13 @@
       "author": "Fraktal",
       "episode_number": 7,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/28/72/3d/28723dcc-08e8-d65e-97e1-8ceba7eeebf4/4260507157430_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499103061,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1334,8 +1322,7 @@
           "franchise": "Fraktal",
           "sub_franchise": "Fraktal"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "ep_c6e566dae6ff",
@@ -1343,13 +1330,13 @@
       "author": "Fraktal",
       "episode_number": 8,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/69/d9/ae69d984-51ee-026e-e6f5-c84ae6edc717/4260507157447_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499104081,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1362,8 +1349,7 @@
           "franchise": "Fraktal",
           "sub_franchise": "Fraktal"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "ep_d570a7b76958",
@@ -1371,13 +1357,13 @@
       "author": "Fraktal",
       "episode_number": 9,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/91/74/86/9174866b-bf4a-439d-a12b-21a7b556750f/4260507157454_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499106651,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1390,8 +1376,7 @@
           "franchise": "Fraktal",
           "sub_franchise": "Fraktal"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "ep_1acc62a6caf1",
@@ -1399,13 +1384,13 @@
       "author": "Fraktal",
       "episode_number": 10,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/b9/ee/9fb9ee77-9927-3e57-ddc9-412bf6744c07/4260507157461_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1499107765,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1418,8 +1403,7 @@
           "franchise": "Fraktal",
           "sub_franchise": "Fraktal"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "ep_10b43ba11e68",
@@ -1427,13 +1411,13 @@
       "author": "Fraktal",
       "episode_number": 11,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/96/cc/10/96cc10fb-703e-a72e-2eb2-c71ad467ac8b/4260507155382_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1486608515,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1446,8 +1430,7 @@
           "franchise": "Fraktal",
           "sub_franchise": "Fraktal"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "ep_a08db9658249",
@@ -1455,13 +1438,13 @@
       "author": "Fraktal",
       "episode_number": 12,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/00/b9/5e00b907-d9ad-e7b1-6525-81980aa586a1/4260507156563_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1495676458,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1474,8 +1457,7 @@
           "franchise": "Fraktal",
           "sub_franchise": "Fraktal"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "frak-folg-8071",
@@ -1483,9 +1465,9 @@
       "author": "Fraktal",
       "episode_number": 13,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -1800,7 +1782,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/05/b7/62/05b76214-faa1-5881-057c-756956fad52f/4260507157959_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1507178071,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -1809,8 +1791,7 @@
         "platforms": {
           "appleMusic": "1507178071"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "frak-folg-6223",
@@ -1818,9 +1799,9 @@
       "author": "Fraktal",
       "episode_number": 14,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -2107,7 +2088,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/a8/2f/2ba82f13-67b8-1796-249a-a4dde693d3e6/4260507160188_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1517166223,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -2116,8 +2097,7 @@
         "platforms": {
           "appleMusic": "1517166223"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "frak-folg-8882",
@@ -2125,9 +2105,9 @@
       "author": "Fraktal",
       "episode_number": 15,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -2330,7 +2310,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/d7/0b/92d70b05-9f36-ef3b-37ae-6e547fc9f648/4260507161178_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1528458882,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -2339,8 +2319,7 @@
         "platforms": {
           "appleMusic": "1528458882"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "frak-folg-3243",
@@ -2348,9 +2327,9 @@
       "author": "Fraktal",
       "episode_number": 16,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -2588,7 +2567,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/92/d0/c392d0e0-21ef-e32e-b76b-9d8184a762e0/4260507161475_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1530813243,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -2597,8 +2576,7 @@
         "platforms": {
           "appleMusic": "1530813243"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     },
     {
       "id": "frak-folg-5497",
@@ -2606,9 +2584,9 @@
       "author": "Fraktal",
       "episode_number": 17,
       "genres": [
+        "Fantasy",
         "Hörspiel",
-        "Kinder & Jugend",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -2930,7 +2908,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/d2/af/b4d2af38-1ef2-5e44-b875-33a1490b69df/4260507161840_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1539215497,
       "status": "active",
-      "sub_franchise_id": 9,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:29:27",
       "extra": {
@@ -2939,8 +2917,7 @@
         "platforms": {
           "appleMusic": "1539215497"
         }
-      },
-      "sub_franchise": "Fraktal"
+      }
     }
   ],
   "episode_count": 17

@@ -3,13 +3,7 @@
   "slug": "michael-ende",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a1/b0/ada1b06d-fce1-745a-de93-63fe7c0cabeb/4069828712973_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 50,
-      "name": "Michael Ende",
-      "slug": "michael-ende-michael-ende"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_7097fdab7d04",
@@ -17,13 +11,13 @@
       "author": "Michael Ende",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a1/b0/ada1b06d-fce1-745a-de93-63fe7c0cabeb/4069828712973_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1837244852,
       "status": "active",
-      "sub_franchise_id": 50,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Michael Ende",
           "sub_franchise": "Michael Ende"
         }
-      },
-      "sub_franchise": "Michael Ende"
+      }
     }
   ],
   "episode_count": 1

@@ -3,13 +3,7 @@
   "slug": "david-safier",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/25/7e/f4/257ef45c-b4b9-6cda-f790-780a7e0edf65/9783732441341_1448.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 110,
-      "name": "David Safier",
-      "slug": "david-safier-david-safier"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_8242ff853bac",
@@ -17,13 +11,13 @@
       "author": "David Safier",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/25/7e/f4/257ef45c-b4b9-6cda-f790-780a7e0edf65/9783732441341_1448.jpg/100x100bb.jpg",
       "apple_music_id": 1246701333,
       "status": "active",
-      "sub_franchise_id": 110,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "David Safier",
           "sub_franchise": "David Safier"
         }
-      },
-      "sub_franchise": "David Safier"
+      }
     }
   ],
   "episode_count": 1

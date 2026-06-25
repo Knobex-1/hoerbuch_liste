@@ -3,13 +3,7 @@
   "slug": "felix-ein-hase-auf-weltreise",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/93/ab/c693abb7-94bf-dfcd-efef-24a05ab88361/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 130,
-      "name": "Felix-Ein Hase auf Weltreise",
-      "slug": "felix-ein-hase-auf-weltreise-felix-ein-hase-auf-weltreise"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_5de61a3b9401",
@@ -17,13 +11,13 @@
       "author": "Felix-Ein Hase auf Weltreise",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/93/ab/c693abb7-94bf-dfcd-efef-24a05ab88361/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1597150867,
       "status": "active",
-      "sub_franchise_id": 130,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Felix-Ein Hase auf Weltreise",
           "sub_franchise": "Felix-Ein Hase auf Weltreise"
         }
-      },
-      "sub_franchise": "Felix-Ein Hase auf Weltreise"
+      }
     }
   ],
   "episode_count": 1

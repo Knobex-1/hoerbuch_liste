@@ -3,13 +3,7 @@
   "slug": "freunde-wg",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/d1/e7/6fd1e776-5dd8-8387-8f97-f3a83f0d0d24/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 46,
-      "name": "Freunde WG",
-      "slug": "freunde-wg-freunde-wg"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_66d8e56fc99a",
@@ -23,7 +17,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/d1/e7/6fd1e776-5dd8-8387-8f97-f3a83f0d0d24/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1600247542,
       "status": "active",
-      "sub_franchise_id": 46,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Freunde WG",
           "sub_franchise": "Freunde WG"
         }
-      },
-      "sub_franchise": "Freunde WG"
+      }
     }
   ],
   "episode_count": 1

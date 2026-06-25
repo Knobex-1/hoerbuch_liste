@@ -3,13 +3,7 @@
   "slug": "prinzessin-lillifee",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/87/86/5987869d-453b-2573-afc6-0a9b2f168716/886446914046.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 77,
-      "name": "Prinzessin Lillifee",
-      "slug": "prinzessin-lillifee-prinzessin-lillifee"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_99b14a998568",
@@ -17,13 +11,13 @@
       "author": "Prinzessin Lillifee",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/87/86/5987869d-453b-2573-afc6-0a9b2f168716/886446914046.jpg/100x100bb.jpg",
       "apple_music_id": 1358385651,
       "status": "active",
-      "sub_franchise_id": 77,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Prinzessin Lillifee",
           "sub_franchise": "Prinzessin Lillifee"
         }
-      },
-      "sub_franchise": "Prinzessin Lillifee"
+      }
     }
   ],
   "episode_count": 1

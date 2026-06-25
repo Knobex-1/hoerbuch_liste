@@ -3,13 +3,7 @@
   "slug": "dumbo",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/48/f0/f248f078-b810-84cf-f607-fb6cd77ea6c3/4066339450196.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 112,
-      "name": "Dumbo",
-      "slug": "dumbo-dumbo"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_3d52915f8f22",
@@ -17,13 +11,13 @@
       "author": "Dumbo",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/48/f0/f248f078-b810-84cf-f607-fb6cd77ea6c3/4066339450196.jpg/100x100bb.jpg",
       "apple_music_id": 1685959169,
       "status": "active",
-      "sub_franchise_id": 112,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Dumbo",
           "sub_franchise": "Dumbo"
         }
-      },
-      "sub_franchise": "Dumbo"
+      }
     }
   ],
   "episode_count": 1

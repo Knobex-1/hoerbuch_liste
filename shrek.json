@@ -3,13 +3,7 @@
   "slug": "shrek",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/29/d8/2529d897-3137-74d0-c158-aabb513b598f/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 83,
-      "name": "Shrek",
-      "slug": "shrek-shrek"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_095ac3e2bf9a",
@@ -17,13 +11,13 @@
       "author": "Shrek",
       "episode_number": 2,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/93/03/cd/9303cd62-4828-5278-177e-774d8046c2d6/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1555510861,
       "status": "active",
-      "sub_franchise_id": 83,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Shrek",
           "sub_franchise": "Shrek"
         }
-      },
-      "sub_franchise": "Shrek"
+      }
     },
     {
       "id": "ep_998e26aec124",
@@ -45,13 +38,13 @@
       "author": "Shrek",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/18/22/6d/18226d87-bf27-bbc8-b7b9-b1eed40bcd78/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1478136394,
       "status": "active",
-      "sub_franchise_id": 83,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Shrek",
           "sub_franchise": "Shrek"
         }
-      },
-      "sub_franchise": "Shrek"
+      }
     },
     {
       "id": "ep_9982a5b93696",
@@ -73,13 +65,13 @@
       "author": "Shrek",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/29/d8/2529d897-3137-74d0-c158-aabb513b598f/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1555511934,
       "status": "active",
-      "sub_franchise_id": 83,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -92,8 +84,7 @@
           "franchise": "Shrek",
           "sub_franchise": "Shrek"
         }
-      },
-      "sub_franchise": "Shrek"
+      }
     },
     {
       "id": "ep_600bc29de385",
@@ -101,13 +92,13 @@
       "author": "Shrek",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/81/00/02/8100029e-1fd7-c3e6-86bc-5be00b4e3230/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1555515387,
       "status": "active",
-      "sub_franchise_id": 83,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -120,8 +111,7 @@
           "franchise": "Shrek",
           "sub_franchise": "Shrek"
         }
-      },
-      "sub_franchise": "Shrek"
+      }
     }
   ],
   "episode_count": 4

@@ -3,13 +3,7 @@
   "slug": "willi-wills-wissen",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/b3/2c/c6b32cfa-3aca-32f7-6e4b-2e5ab8293e96/4260229664971_3000.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 109,
-      "name": "Willi wills wissen",
-      "slug": "willi-wills-wissen-willi-wills-wissen"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_4e45d3389a45",
@@ -17,13 +11,13 @@
       "author": "Willi wills wissen",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/b3/2c/c6b32cfa-3aca-32f7-6e4b-2e5ab8293e96/4260229664971_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1619280390,
       "status": "active",
-      "sub_franchise_id": 109,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Willi wills wissen",
           "sub_franchise": "Willi wills wissen"
         }
-      },
-      "sub_franchise": "Willi wills wissen"
+      }
     }
   ],
   "episode_count": 1

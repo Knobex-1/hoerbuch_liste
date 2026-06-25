@@ -3,13 +3,7 @@
   "slug": "pumuckl",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/c6/6f/6cc66f0b-f632-5595-d44b-fbd998c613b5/4069829029339.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 107,
-      "name": "Pumuckl",
-      "slug": "pumuckl-pumuckl"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_6b7c4c014b71",
@@ -17,13 +11,13 @@
       "author": "Pumuckl",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/c6/6f/6cc66f0b-f632-5595-d44b-fbd998c613b5/4069829029339.jpg/100x100bb.jpg",
       "apple_music_id": 1847324343,
       "status": "active",
-      "sub_franchise_id": 107,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Pumuckl",
           "sub_franchise": "Pumuckl"
         }
-      },
-      "sub_franchise": "Pumuckl"
+      }
     }
   ],
   "episode_count": 1

@@ -3,13 +3,7 @@
   "slug": "gabby-s-dollhouse",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/d7/ce/8fd7ce72-4b1f-00ad-a6c3-d213ad3b6df5/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 125,
-      "name": "Gabby's Dollhouse",
-      "slug": "gabby-s-dollhouse-gabby-s-dollhouse"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_a22ac39c2d1f",
@@ -17,13 +11,13 @@
       "author": "Gabby's Dollhouse",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/d7/ce/8fd7ce72-4b1f-00ad-a6c3-d213ad3b6df5/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1856575004,
       "status": "active",
-      "sub_franchise_id": 125,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Gabby's Dollhouse",
           "sub_franchise": "Gabby's Dollhouse"
         }
-      },
-      "sub_franchise": "Gabby's Dollhouse"
+      }
     }
   ],
   "episode_count": 1

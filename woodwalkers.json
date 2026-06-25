@@ -3,13 +3,7 @@
   "slug": "woodwalkers",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/b8/16/d0b816ba-2674-b633-e523-ff9ba38d96fc/4033694444214.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 75,
-      "name": "Woodwalkers",
-      "slug": "woodwalkers-woodwalkers"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_d72b27958c2d",
@@ -17,13 +11,13 @@
       "author": "Woodwalkers",
       "episode_number": 2,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/7c/3f/677c3ff7-b2a4-60a2-7148-36746f577b83/4033694444221.jpg/100x100bb.jpg",
       "apple_music_id": 1867556875,
       "status": "active",
-      "sub_franchise_id": 75,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Woodwalkers",
           "sub_franchise": "Woodwalkers"
         }
-      },
-      "sub_franchise": "Woodwalkers"
+      }
     },
     {
       "id": "ep_f800033d2cda",
@@ -45,13 +38,13 @@
       "author": "Woodwalkers",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/b8/16/d0b816ba-2674-b633-e523-ff9ba38d96fc/4033694444214.jpg/100x100bb.jpg",
       "apple_music_id": 1772492967,
       "status": "active",
-      "sub_franchise_id": 75,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Woodwalkers",
           "sub_franchise": "Woodwalkers"
         }
-      },
-      "sub_franchise": "Woodwalkers"
+      }
     }
   ],
   "episode_count": 2

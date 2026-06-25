@@ -3,13 +3,7 @@
   "slug": "husch-puscheli",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/26/ec/a426ec3f-d486-7ca3-0673-5b6da8721230/4260507179821_3000.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 40,
-      "name": "Husch-Puscheli",
-      "slug": "husch-puscheli-husch-puscheli"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_9ddab8e20655",
@@ -17,13 +11,13 @@
       "author": "Husch-Puscheli",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/26/ec/a426ec3f-d486-7ca3-0673-5b6da8721230/4260507179821_3000.jpg/100x100bb.jpg",
       "apple_music_id": 1670101707,
       "status": "active",
-      "sub_franchise_id": 40,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Husch-Puscheli",
           "sub_franchise": "Husch-Puscheli"
         }
-      },
-      "sub_franchise": "Husch-Puscheli"
+      }
     }
   ],
   "episode_count": 1

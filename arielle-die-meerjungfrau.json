@@ -3,13 +3,7 @@
   "slug": "arielle-die-meerjungfrau",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/62/0b/ed620ba3-1b56-e38b-2bd8-c357ae44d271/4066339796096.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 102,
-      "name": "Arielle die Meerjungfrau",
-      "slug": "arielle-die-meerjungfrau-arielle-die-meerjungfrau"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_bbccc7976642",
@@ -17,13 +11,13 @@
       "author": "Arielle die Meerjungfrau",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/62/0b/ed620ba3-1b56-e38b-2bd8-c357ae44d271/4066339796096.jpg/100x100bb.jpg",
       "apple_music_id": 1691125767,
       "status": "active",
-      "sub_franchise_id": 102,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Arielle die Meerjungfrau",
           "sub_franchise": "Arielle die Meerjungfrau"
         }
-      },
-      "sub_franchise": "Arielle die Meerjungfrau"
+      }
     }
   ],
   "episode_count": 1

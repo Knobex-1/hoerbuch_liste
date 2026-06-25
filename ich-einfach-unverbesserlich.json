@@ -3,13 +3,7 @@
   "slug": "ich-einfach-unverbesserlich",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/d6/fe/44d6fe11-c644-32fd-d0f0-28a434e2fc7c/4057664206053.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 52,
-      "name": "Ich - Einfach unverbesserlich",
-      "slug": "ich-einfach-unverbesserlich-ich-einfach-unverbesserlich"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_26e8ca528e04",
@@ -17,13 +11,13 @@
       "author": "Ich - Einfach unverbesserlich",
       "episode_number": 2,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/09/a3/1609a359-5a41-1a0d-ae66-a120a62cc1a5/4057664206091.jpg/100x100bb.jpg",
       "apple_music_id": 1686237982,
       "status": "active",
-      "sub_franchise_id": 52,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Ich - Einfach unverbesserlich",
           "sub_franchise": "Ich - Einfach unverbesserlich"
         }
-      },
-      "sub_franchise": "Ich - Einfach unverbesserlich"
+      }
     },
     {
       "id": "ep_528e14ce5187",
@@ -45,13 +38,13 @@
       "author": "Ich - Einfach unverbesserlich",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/d6/fe/44d6fe11-c644-32fd-d0f0-28a434e2fc7c/4057664206053.jpg/100x100bb.jpg",
       "apple_music_id": 1686249432,
       "status": "active",
-      "sub_franchise_id": 52,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Ich - Einfach unverbesserlich",
           "sub_franchise": "Ich - Einfach unverbesserlich"
         }
-      },
-      "sub_franchise": "Ich - Einfach unverbesserlich"
+      }
     },
     {
       "id": "ep_e91e3f6296f8",
@@ -73,13 +65,13 @@
       "author": "Ich - Einfach unverbesserlich",
       "episode_number": 4,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/2d/52/762d5237-318d-1a7f-aee9-6ff24c2d58e9/4099995916881.jpg/100x100bb.jpg",
       "apple_music_id": 1773307456,
       "status": "active",
-      "sub_franchise_id": 52,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -92,8 +84,7 @@
           "franchise": "Ich - Einfach unverbesserlich",
           "sub_franchise": "Ich - Einfach unverbesserlich"
         }
-      },
-      "sub_franchise": "Ich - Einfach unverbesserlich"
+      }
     },
     {
       "id": "ep_e61dbe4b3083",
@@ -101,13 +92,13 @@
       "author": "Ich - Einfach unverbesserlich",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/a2/d5/eda2d5de-6d5c-8417-9df9-24271b2b5786/4057664206060.jpg/100x100bb.jpg",
       "apple_music_id": 1686247262,
       "status": "active",
-      "sub_franchise_id": 52,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -120,8 +111,7 @@
           "franchise": "Ich - Einfach unverbesserlich",
           "sub_franchise": "Ich - Einfach unverbesserlich"
         }
-      },
-      "sub_franchise": "Ich - Einfach unverbesserlich"
+      }
     }
   ],
   "episode_count": 4

@@ -3,13 +3,7 @@
   "slug": "alvin-und-die-chipmunks",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/d8/f0/94d8f025-93c4-064a-ac73-45bc9d941bfe/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 32,
-      "name": "Alvin und die Chipmunks",
-      "slug": "alvin-und-die-chipmunks-alvin-und-die-chipmunks"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_f111f4b14846",
@@ -17,13 +11,13 @@
       "author": "Alvin und die Chipmunks",
       "episode_number": 1,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/d8/f0/94d8f025-93c4-064a-ac73-45bc9d941bfe/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1473154533,
       "status": "active",
-      "sub_franchise_id": 32,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Alvin und die Chipmunks",
           "sub_franchise": "Alvin und die Chipmunks"
         }
-      },
-      "sub_franchise": "Alvin und die Chipmunks"
+      }
     },
     {
       "id": "ep_d07b3c59c68d",
@@ -45,13 +38,13 @@
       "author": "Alvin und die Chipmunks",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/c9/ba/30c9ba7c-c3f4-f96a-936a-85e5d0520492/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1473151739,
       "status": "active",
-      "sub_franchise_id": 32,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Alvin und die Chipmunks",
           "sub_franchise": "Alvin und die Chipmunks"
         }
-      },
-      "sub_franchise": "Alvin und die Chipmunks"
+      }
     },
     {
       "id": "ep_77162355ae27",
@@ -73,13 +65,13 @@
       "author": "Alvin und die Chipmunks",
       "episode_number": 9,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/e4/29/c6e42957-2a0f-b8ff-4656-a9a108848fa4/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1473592785,
       "status": "active",
-      "sub_franchise_id": 32,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -92,8 +84,7 @@
           "franchise": "Alvin und die Chipmunks",
           "sub_franchise": "Alvin und die Chipmunks"
         }
-      },
-      "sub_franchise": "Alvin und die Chipmunks"
+      }
     },
     {
       "id": "ep_cd996943e83b",
@@ -101,13 +92,13 @@
       "author": "Alvin und die Chipmunks",
       "episode_number": 14,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ed/16/8ded1607-4dbb-a1d8-cbab-0a8d26225fcf/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1760380756,
       "status": "active",
-      "sub_franchise_id": 32,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -120,8 +111,7 @@
           "franchise": "Alvin und die Chipmunks",
           "sub_franchise": "Alvin und die Chipmunks"
         }
-      },
-      "sub_franchise": "Alvin und die Chipmunks"
+      }
     }
   ],
   "episode_count": 4

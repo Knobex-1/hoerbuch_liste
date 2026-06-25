@@ -3,13 +3,7 @@
   "slug": "the-dreamer",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/2b/f6/mzi.gmmfubxd.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 43,
-      "name": "The Dreamer",
-      "slug": "the-dreamer-the-dreamer"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_7dbd0a94de0e",
@@ -17,7 +11,7 @@
       "author": "The Dreamer",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [
         {
@@ -66,7 +60,7 @@
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/2b/f6/mzi.gmmfubxd.jpg/100x100bb.jpg",
       "apple_music_id": 408927916,
       "status": "active",
-      "sub_franchise_id": 43,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:27",
       "extra": {
@@ -79,8 +73,7 @@
           "franchise": "The Dreamer",
           "sub_franchise": "The Dreamer"
         }
-      },
-      "sub_franchise": "The Dreamer"
+      }
     }
   ],
   "episode_count": 1

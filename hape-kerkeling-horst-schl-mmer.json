@@ -3,13 +3,7 @@
   "slug": "hape-kerkeling-horst-schl-mmer",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/bf/da/49bfdaca-bd16-4f59-7d7b-6128716deac8/4069829638074_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 122,
-      "name": "Hape Kerkeling & Horst Schlämmer",
-      "slug": "hape-kerkeling-und-horst-schlämmer-hape-kerkeling-und-horst-schlämmer"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_e3c576169a83",
@@ -17,13 +11,13 @@
       "author": "Hape Kerkeling & Horst Schlämmer",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/bf/da/49bfdaca-bd16-4f59-7d7b-6128716deac8/4069829638074_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1882996718,
       "status": "active",
-      "sub_franchise_id": 122,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Hape Kerkeling & Horst Schlämmer",
           "sub_franchise": "Hape Kerkeling & Horst Schlämmer"
         }
-      },
-      "sub_franchise": "Hape Kerkeling & Horst Schlämmer"
+      }
     }
   ],
   "episode_count": 1

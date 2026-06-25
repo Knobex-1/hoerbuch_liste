@@ -3,13 +3,7 @@
   "slug": "pirates-of-the-caribbean",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/6f/4b/f16f4bac-d24f-d882-0ab9-13e6afa8ec9a/4066339483644.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 91,
-      "name": "Pirates of the Caribbean",
-      "slug": "pirates-of-the-caribbean-pirates-of-the-caribbean"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_b7d0ff05cdaf",
@@ -17,13 +11,13 @@
       "author": "Pirates of the Caribbean",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/6f/4b/f16f4bac-d24f-d882-0ab9-13e6afa8ec9a/4066339483644.jpg/100x100bb.jpg",
       "apple_music_id": 1686001172,
       "status": "active",
-      "sub_franchise_id": 91,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Pirates of the Caribbean",
           "sub_franchise": "Pirates of the Caribbean"
         }
-      },
-      "sub_franchise": "Pirates of the Caribbean"
+      }
     },
     {
       "id": "ep_2b6dd4106b28",
@@ -45,13 +38,13 @@
       "author": "Pirates of the Caribbean",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/2d/6d/5c2d6d21-55fa-7614-3660-3785c295673f/4066339502352.jpg/100x100bb.jpg",
       "apple_music_id": 1686030540,
       "status": "active",
-      "sub_franchise_id": 91,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Pirates of the Caribbean",
           "sub_franchise": "Pirates of the Caribbean"
         }
-      },
-      "sub_franchise": "Pirates of the Caribbean"
+      }
     }
   ],
   "episode_count": 2

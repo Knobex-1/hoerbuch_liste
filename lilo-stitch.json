@@ -3,13 +3,7 @@
   "slug": "lilo-stitch",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/08/85/5d0885bf-6b1f-128e-b0eb-75eaf10774ab/4069828502048.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 101,
-      "name": "Lilo & Stitch",
-      "slug": "lilo-und-stitch-lilo-und-stitch"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_05a889d7a3e0",
@@ -17,13 +11,13 @@
       "author": "Lilo & Stitch",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/08/85/5d0885bf-6b1f-128e-b0eb-75eaf10774ab/4069828502048.jpg/100x100bb.jpg",
       "apple_music_id": 1818651199,
       "status": "active",
-      "sub_franchise_id": 101,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:30",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Lilo & Stitch",
           "sub_franchise": "Lilo & Stitch"
         }
-      },
-      "sub_franchise": "Lilo & Stitch"
+      }
     }
   ],
   "episode_count": 1

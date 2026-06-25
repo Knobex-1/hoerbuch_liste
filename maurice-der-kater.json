@@ -3,13 +3,7 @@
   "slug": "maurice-der-kater",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/21/d1/d521d115-9998-e630-09d9-dbbd130c3333/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 134,
-      "name": "Maurice der Kater",
-      "slug": "maurice-der-kater-maurice-der-kater"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_2ef8d823d567",
@@ -17,13 +11,13 @@
       "author": "Maurice der Kater",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/21/d1/d521d115-9998-e630-09d9-dbbd130c3333/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1660230266,
       "status": "active",
-      "sub_franchise_id": 134,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:33",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Maurice der Kater",
           "sub_franchise": "Maurice der Kater"
         }
-      },
-      "sub_franchise": "Maurice der Kater"
+      }
     }
   ],
   "episode_count": 1

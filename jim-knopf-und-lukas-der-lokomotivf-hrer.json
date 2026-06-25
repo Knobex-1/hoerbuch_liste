@@ -3,13 +3,7 @@
   "slug": "jim-knopf-und-lukas-der-lokomotivf-hrer",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/a4/de/58a4de6a-b3a0-eb48-03d2-91e82dacf486/4057664396273.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 76,
-      "name": "Jim Knopf Und Lukas Der Lokomotivführer",
-      "slug": "jim-knopf-und-lukas-der-lokomotivführer-jim-knopf-und-lukas-der-lokomotivführer"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_3134214f2232",
@@ -17,13 +11,13 @@
       "author": "Jim Knopf Und Lukas Der Lokomotivführer",
       "episode_number": 13,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/36/5f/b1365f0b-fee0-70e3-cfbf-abe1238f61f5/4064066721879.jpg/100x100bb.jpg",
       "apple_music_id": 1686137706,
       "status": "active",
-      "sub_franchise_id": 76,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Jim Knopf Und Lukas Der Lokomotivführer",
           "sub_franchise": "Jim Knopf Und Lukas Der Lokomotivführer"
         }
-      },
-      "sub_franchise": "Jim Knopf Und Lukas Der Lokomotivführer"
+      }
     },
     {
       "id": "ep_b38050f510a7",
@@ -45,13 +38,13 @@
       "author": "Jim Knopf Und Lukas Der Lokomotivführer",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/a4/de/58a4de6a-b3a0-eb48-03d2-91e82dacf486/4057664396273.jpg/100x100bb.jpg",
       "apple_music_id": 1686206879,
       "status": "active",
-      "sub_franchise_id": 76,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Jim Knopf Und Lukas Der Lokomotivführer",
           "sub_franchise": "Jim Knopf Und Lukas Der Lokomotivführer"
         }
-      },
-      "sub_franchise": "Jim Knopf Und Lukas Der Lokomotivführer"
+      }
     }
   ],
   "episode_count": 2

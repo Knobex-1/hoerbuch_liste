@@ -3,13 +3,7 @@
   "slug": "ooops",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/e0/e1/e3e0e1a4-7ecc-f90c-2f09-2e96aeca591f/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 128,
-      "name": "Ooops",
-      "slug": "ooops-ooops"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_93e6a0e82121",
@@ -17,13 +11,13 @@
       "author": "Ooops",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/e0/e1/e3e0e1a4-7ecc-f90c-2f09-2e96aeca591f/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1529632104,
       "status": "active",
-      "sub_franchise_id": 128,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Ooops",
           "sub_franchise": "Ooops"
         }
-      },
-      "sub_franchise": "Ooops"
+      }
     }
   ],
   "episode_count": 1

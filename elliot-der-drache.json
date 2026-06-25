@@ -3,13 +3,7 @@
   "slug": "elliot-der-drache",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/8c/20/eb8c2026-6916-a4d8-4239-9ddbc1f48160/4066339484023.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 115,
-      "name": "Elliot, der Drache",
-      "slug": "elliot-der-drache-elliot-der-drache"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_a193abc6d37e",
@@ -17,13 +11,13 @@
       "author": "Elliot, der Drache",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/8c/20/eb8c2026-6916-a4d8-4239-9ddbc1f48160/4066339484023.jpg/100x100bb.jpg",
       "apple_music_id": 1686356853,
       "status": "active",
-      "sub_franchise_id": 115,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Elliot, der Drache",
           "sub_franchise": "Elliot, der Drache"
         }
-      },
-      "sub_franchise": "Elliot, der Drache"
+      }
     }
   ],
   "episode_count": 1

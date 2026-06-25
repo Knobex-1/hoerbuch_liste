@@ -3,13 +3,7 @@
   "slug": "lauras-stern",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/8e/d1/9d8ed10d-728b-063b-a31f-9c1dff36a8dd/cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 66,
-      "name": "Lauras Stern",
-      "slug": "lauras-stern-lauras-stern"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_82e8269b768c",
@@ -17,13 +11,13 @@
       "author": "Lauras Stern",
       "episode_number": 1,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/8e/d1/9d8ed10d-728b-063b-a31f-9c1dff36a8dd/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1294740041,
       "status": "active",
-      "sub_franchise_id": 66,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Lauras Stern",
           "sub_franchise": "Lauras Stern"
         }
-      },
-      "sub_franchise": "Lauras Stern"
+      }
     },
     {
       "id": "ep_5089da799367",
@@ -45,13 +38,13 @@
       "author": "Lauras Stern",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/60/bc/d8/60bcd8f9-d105-66ee-f9c4-3b1cc274384d/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1539904377,
       "status": "active",
-      "sub_franchise_id": 66,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Lauras Stern",
           "sub_franchise": "Lauras Stern"
         }
-      },
-      "sub_franchise": "Lauras Stern"
+      }
     },
     {
       "id": "ep_809071e6e6d6",
@@ -73,13 +65,13 @@
       "author": "Lauras Stern",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/b4/13/59b41396-5071-0ebc-060a-467b03052149/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1555481231,
       "status": "active",
-      "sub_franchise_id": 66,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:32",
       "extra": {
@@ -92,8 +84,7 @@
           "franchise": "Lauras Stern",
           "sub_franchise": "Lauras Stern"
         }
-      },
-      "sub_franchise": "Lauras Stern"
+      }
     },
     {
       "id": "ep_2c733cb27680",
@@ -101,13 +92,13 @@
       "author": "Lauras Stern",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/06/e4/7806e40b-8cd7-d327-b8d2-d47b8f63b748/cover.jpg/100x100bb.jpg",
       "apple_music_id": 1555481196,
       "status": "active",
-      "sub_franchise_id": 66,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:31",
       "extra": {
@@ -120,8 +111,7 @@
           "franchise": "Lauras Stern",
           "sub_franchise": "Lauras Stern"
         }
-      },
-      "sub_franchise": "Lauras Stern"
+      }
     }
   ],
   "episode_count": 4

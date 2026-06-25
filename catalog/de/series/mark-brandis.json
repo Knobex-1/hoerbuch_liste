@@ -2,10 +2,12 @@
   "seriesId": "mark-brandis",
   "title": "Mark Brandis",
   "language": "de",
-  "author": "Mark Brandis - Raumkadett",
+  "author": "Mark Brandis",
   "narrator": "",
   "genres": [
-    "Hörspiel"
+    "Abenteuer",
+    "Hörspiel",
+    "Science-Fiction"
   ],
   "albums": [
     {
@@ -12971,5 +12973,5 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:37:09.794922+00:00"
+  "updatedAt": "2026-06-25T05:00:56.520902+00:00"
 }

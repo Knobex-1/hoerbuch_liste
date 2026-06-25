@@ -3,13 +3,7 @@
   "slug": "ekkehardt-ekki-belle-die-olchis",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/25/70/2a257043-5416-1bc7-59fa-c76dfb6bdbc2/4064066946241_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 78,
-      "name": "Ekkehardt \"Ekki\" Belle & Die Olchis",
-      "slug": "ekkehardt-ekki-belle-und-die-olchis-ekkehardt-ekki-belle-und-die-olchis"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_6c5e8f8c228e",
@@ -17,13 +11,13 @@
       "author": "Ekkehardt \"Ekki\" Belle & Die Olchis",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/25/70/2a257043-5416-1bc7-59fa-c76dfb6bdbc2/4064066946241_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1559588287,
       "status": "active",
-      "sub_franchise_id": 78,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Ekkehardt \"Ekki\" Belle & Die Olchis",
           "sub_franchise": "Ekkehardt \"Ekki\" Belle & Die Olchis"
         }
-      },
-      "sub_franchise": "Ekkehardt \"Ekki\" Belle & Die Olchis"
+      }
     }
   ],
   "episode_count": 1

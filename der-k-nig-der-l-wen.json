@@ -3,13 +3,7 @@
   "slug": "der-k-nig-der-l-wen",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/85/d1/fd85d13d-0838-8048-e317-59d0b2d3fbbe/4066339450080.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 74,
-      "name": "Der König der Löwen",
-      "slug": "der-könig-der-löwen-der-könig-der-löwen"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_54dc4433704c",
@@ -17,13 +11,13 @@
       "author": "Der König der Löwen",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/85/d1/fd85d13d-0838-8048-e317-59d0b2d3fbbe/4066339450080.jpg/100x100bb.jpg",
       "apple_music_id": 1685940521,
       "status": "active",
-      "sub_franchise_id": 74,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Der König der Löwen",
           "sub_franchise": "Der König der Löwen"
         }
-      },
-      "sub_franchise": "Der König der Löwen"
+      }
     },
     {
       "id": "ep_70289a7f2f00",
@@ -45,13 +38,13 @@
       "author": "Der König der Löwen",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/f9/4a/c6f94abe-95f2-86fa-a97b-cbae62d09e60/4069828068582.jpg/100x100bb.jpg",
       "apple_music_id": 1790249317,
       "status": "active",
-      "sub_franchise_id": 74,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Der König der Löwen",
           "sub_franchise": "Der König der Löwen"
         }
-      },
-      "sub_franchise": "Der König der Löwen"
+      }
     }
   ],
   "episode_count": 2

@@ -3,13 +3,7 @@
   "slug": "die-schule-der-magischen-tiere",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/95/08/9995089b-7489-5103-287f-06575fbbe435/4099995853629_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 57,
-      "name": "Die Schule der magischen Tiere",
-      "slug": "die-schule-der-magischen-tiere-die-schule-der-magischen-tiere"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_b0ab4c4effa1",
@@ -17,13 +11,13 @@
       "author": "Die Schule der magischen Tiere",
       "episode_number": 3,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/95/08/9995089b-7489-5103-287f-06575fbbe435/4099995853629_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1769665977,
       "status": "active",
-      "sub_franchise_id": 57,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Die Schule der magischen Tiere",
           "sub_franchise": "Die Schule der magischen Tiere"
         }
-      },
-      "sub_franchise": "Die Schule der magischen Tiere"
+      }
     },
     {
       "id": "ep_6e5a7ecfb10a",
@@ -45,13 +38,13 @@
       "author": "Die Schule der magischen Tiere",
       "episode_number": 4,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/3c/19/963c1926-d96a-ee09-c098-dec95da5609f/4069828936478_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1841820000,
       "status": "active",
-      "sub_franchise_id": 57,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:28",
       "extra": {
@@ -64,8 +57,7 @@
           "franchise": "Die Schule der magischen Tiere",
           "sub_franchise": "Die Schule der magischen Tiere"
         }
-      },
-      "sub_franchise": "Die Schule der magischen Tiere"
+      }
     }
   ],
   "episode_count": 2

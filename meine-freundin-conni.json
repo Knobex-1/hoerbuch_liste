@@ -963,8 +963,8 @@
       "author": "Meine Freundin Conni",
       "episode_number": 6,
       "genres": [
-        "Kinder & Jugend",
         "Hörspiel",
+        "Kinder & Jugend",
         "Pferde"
       ],
       "chapters": [
@@ -1529,9 +1529,9 @@
       "author": "Meine Freundin Conni",
       "episode_number": 10,
       "genres": [
-        "Kinder & Jugend",
+        "Fantasy",
         "Hörspiel",
-        "Fantasy"
+        "Kinder & Jugend"
       ],
       "chapters": [
         {
@@ -2145,10 +2145,10 @@
       "author": "Meine Freundin Conni",
       "episode_number": null,
       "genres": [
-        "Krimi",
         "Abenteuer",
         "Hörspiel",
-        "Kinder & Jugend"
+        "Kinder & Jugend",
+        "Krimi"
       ],
       "chapters": [
         {

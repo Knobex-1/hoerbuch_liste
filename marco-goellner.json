@@ -11,9 +11,9 @@
       "author": "Marco Göllner",
       "episode_number": 2,
       "genres": [
-        "Hörspiel",
         "Abenteuer",
-        "Fantasy"
+        "Fantasy",
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d5/d3/5f/d5d35ff7-9cbe-777d-fc5f-bf2ddda8866f/4064066043858_cover.jpg/100x100bb.jpg",
@@ -410,11 +410,11 @@
       "author": "Katja Grübel, Peter Weis & Der kleine Rabe Socke",
       "episode_number": null,
       "genres": [
+        "Dark Fantasy",
+        "Horror",
         "Hörspiel",
         "Krimi",
-        "Horror",
-        "Thriller",
-        "Dark Fantasy"
+        "Thriller"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/3c/f9/043cf95a-8152-ae45-67b2-5d04f4dd6d36/4066338226761_cover.jpg/100x100bb.jpg",
@@ -437,10 +437,10 @@
       "author": "Marco Göllner",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
+        "Dark Fantasy",
         "Horror",
-        "Thriller",
-        "Dark Fantasy"
+        "Hörspiel",
+        "Thriller"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/13/7a/e5/137ae594-1cb1-8fe8-5602-41e2ec4b1824/4064066048228_cover.jpg/100x100bb.jpg",
@@ -462,10 +462,10 @@
       "author": "Marco Göllner",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
+        "Dark Fantasy",
         "Horror",
-        "Thriller",
-        "Dark Fantasy"
+        "Hörspiel",
+        "Thriller"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8e/90/2d/8e902daf-1c7c-0247-230e-1cc666d55dc7/4064066043889_cover.jpg/100x100bb.jpg",
@@ -487,10 +487,10 @@
       "author": "Marco Göllner",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
+        "Dark Fantasy",
         "Horror",
-        "Thriller",
-        "Dark Fantasy"
+        "Hörspiel",
+        "Thriller"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bd/80/df/bd80df69-cca0-1479-eacd-872c09b708af/4064066048266_cover.jpg/100x100bb.jpg",
@@ -513,9 +513,9 @@
       "author": "Marco Göllner",
       "episode_number": null,
       "genres": [
-        "Singer-Songwriter",
         "Hörspiel",
-        "Komödie"
+        "Komödie",
+        "Singer-Songwriter"
       ],
       "chapters": [
         {
@@ -588,10 +588,10 @@
       "author": "Marco Göllner",
       "episode_number": null,
       "genres": [
-        "Hörspiel",
+        "Dark Fantasy",
         "Horror",
-        "Thriller",
-        "Dark Fantasy"
+        "Hörspiel",
+        "Thriller"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cd/46/17/cd46176a-8d47-aed8-4642-ccca6e82f9f9/4064066043865_cover.jpg/100x100bb.jpg",
@@ -614,8 +614,8 @@
       "episode_number": null,
       "genres": [
         "Hörspiel",
-        "Thriller",
-        "Krimi"
+        "Krimi",
+        "Thriller"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/22/54/79/2254799e-e62d-2c8d-fd78-179b36fca401/4064066046767_cover.jpg/100x100bb.jpg",

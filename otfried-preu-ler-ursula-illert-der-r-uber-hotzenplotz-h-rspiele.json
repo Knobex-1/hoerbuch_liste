@@ -3,13 +3,7 @@
   "slug": "otfried-preu-ler-ursula-illert-der-r-uber-hotzenplotz-h-rspiele",
   "description": "",
   "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/8d/df/948ddf01-921d-7f02-88cd-3eb672e5d201/4066338447715_cover.jpg/100x100bb.jpg",
-  "sub_franchises": [
-    {
-      "id": 67,
-      "name": "Otfried Preußler, Ursula Illert & Der Räuber Hotzenplotz - Hörspiele",
-      "slug": "otfried-preußler-ursula-illert-und-der-räuber-hotzenplotz-hörspiele-otfried-preußler-ursula-illert-und-der-räuber-hotzenplotz-hörspiele"
-    }
-  ],
+  "sub_franchises": [],
   "episodes": [
     {
       "id": "ep_336d74237aff",
@@ -17,13 +11,13 @@
       "author": "Otfried Preußler, Ursula Illert & Der Räuber Hotzenplotz - Hörspiele",
       "episode_number": null,
       "genres": [
-        "Hörspiele"
+        "Hörspiel"
       ],
       "chapters": [],
       "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/8d/df/948ddf01-921d-7f02-88cd-3eb672e5d201/4066338447715_cover.jpg/100x100bb.jpg",
       "apple_music_id": 1646471187,
       "status": "active",
-      "sub_franchise_id": 67,
+      "sub_franchise_id": null,
       "last_validated": null,
       "updated_at": "2026-06-22T19:15:29",
       "extra": {
@@ -36,8 +30,7 @@
           "franchise": "Otfried Preußler, Ursula Illert & Der Räuber Hotzenplotz - Hörspiele",
           "sub_franchise": "Otfried Preußler, Ursula Illert & Der Räuber Hotzenplotz - Hörspiele"
         }
-      },
-      "sub_franchise": "Otfried Preußler, Ursula Illert & Der Räuber Hotzenplotz - Hörspiele"
+      }
     }
   ],
   "episode_count": 1
