@@ -5,7 +5,7 @@
   "author": "Die Biene Maja",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -48,5 +48,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.680654+00:00"
+  "franchise": "Die Biene Maja",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.490938+00:00"
 }

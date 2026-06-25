@@ -1,13 +1,13 @@
 {
-  "seriesId": "krimis-von-der-k-ste",
+  "seriesId": "krimis-von-der-kueste",
   "title": "Krimis von der Küste",
   "language": "de",
   "author": "Krimis von der Küste",
   "narrator": "",
   "genres": [
     "Krimi",
-    "Thriller",
-    "Küstenkrimi"
+    "Küstenkrimi",
+    "Thriller"
   ],
   "albums": [
     {
@@ -14158,5 +14158,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.073217+00:00"
+  "franchise": "Krimis von der Küste",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.906928+00:00"
 }

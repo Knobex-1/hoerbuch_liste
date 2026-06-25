@@ -4,62 +4,9 @@
   "language": "de",
   "author": "Madagascar",
   "narrator": "",
-  "genres": [
-    "Hörspiele"
-  ],
-  "albums": [
-    {
-      "id": "1475823251",
-      "title": "Madagascar 2 (Das Original-Hörspiel zum Kinofilm)",
-      "episodeNumber": 2,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c1/f0/84/c1f084cc-be08-68c7-dce4-4b0706f6d453/cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1475823251"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1553499150",
-      "title": "Die Pinguine aus Madagascar (Das Original Hörspiel zum Kinofilm)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/6d/d4/8a6dd445-98eb-c970-d79b-bd45614d4418/cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1553499150"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1554128063",
-      "title": "Flucht durch Europa (Das Original-Hörspiel zum Kinofilm)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/56/60/1a/56601a61-6b16-a880-f9fd-eb00e69076ee/cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1554128063"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1477954934",
-      "title": "Madagascar (Das Original-Hörspiel zum Kinofilm)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/87/8f/4e878fd6-692e-587d-dfc8-f69783528a49/cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1477954934"
-      },
-      "chapters": []
-    }
-  ],
-  "updatedAt": "2026-06-24T20:01:30.793868+00:00"
+  "genres": [],
+  "albums": [],
+  "franchise": "Madagascar",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.601640+00:00"
 }

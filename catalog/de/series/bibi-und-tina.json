@@ -6,8 +6,8 @@
   "narrator": "",
   "genres": [
     "Abenteuer",
-    "Kinder & Jugend",
     "Hörspiel",
+    "Kinder & Jugend",
     "Pferde"
   ],
   "albums": [
@@ -19933,6 +19933,32 @@
       ]
     },
     {
+      "id": "1263882229",
+      "title": "Specialfolge: und das kalte Auge",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/af/f8/9a/aff89a25-8c32-e047-08e0-5b55e66187ae/886444438667.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1263882229"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1235580462",
+      "title": "Specialfolge: und der Tornadojäger",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/5c/bd/e2/5cbde282-7308-b942-a2d6-e7fd717b9f47/886444438681.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1235580462"
+      },
+      "chapters": []
+    },
+    {
       "id": "1069116156",
       "title": "Tiere im Wald (Das kleine Rehkitz & Bibi und Tina retten die Biber)",
       "episodeNumber": null,
@@ -20843,5 +20869,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.148219+00:00"
+  "franchise": "Bibi und Tina",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.970849+00:00"
 }

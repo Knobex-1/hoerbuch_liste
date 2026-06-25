@@ -1,14 +1,14 @@
 {
-  "seriesId": "sherlock-holmes-die-neuen-f-lle",
+  "seriesId": "sherlock-holmes-die-neuen-faelle",
   "title": "Sherlock Holmes - Die neuen Fälle",
   "language": "de",
   "author": "Arthur Conan Doyle",
   "narrator": "",
   "genres": [
+    "Detektiv",
     "Hörspiel",
-    "Krimi",
     "Klassiker",
-    "Detektiv"
+    "Krimi"
   ],
   "albums": [
     {
@@ -1468,5 +1468,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.227142+00:00"
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T17:04:37.049925+00:00"
 }

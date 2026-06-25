@@ -5,7 +5,7 @@
   "author": "Drachenzähmen leicht gemacht",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -48,5 +48,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.785424+00:00"
+  "franchise": "Drachenzähmen leicht gemacht",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.592843+00:00"
 }

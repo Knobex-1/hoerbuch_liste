@@ -5,7 +5,7 @@
   "author": "Arielle die Meerjungfrau",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.678706+00:00"
+  "franchise": "Arielle die Meerjungfrau",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.488788+00:00"
 }

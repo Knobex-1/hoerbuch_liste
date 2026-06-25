@@ -1,0 +1,41 @@
+{
+  "seriesId": "wolf-wolf",
+  "title": "100% Wolf",
+  "language": "de",
+  "author": "100% Wolf",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1759530072",
+      "title": "200% Wolf (Das Hörspiel zum Kinofilm)",
+      "episodeNumber": 200,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/96/3b/d6963b37-a553-25d5-b3d2-c6e5c223b690/196872211542.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1759530072"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1571309483",
+      "title": "Das Original Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/2f/8c/812f8c93-806c-72af-d7cc-67d7604ccfd8/886448842729.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1571309483"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "100% Wolf",
+  "subSeriesOf": "100-wolf",
+  "updatedAt": "2026-06-25T17:04:36.487847+00:00"
+}

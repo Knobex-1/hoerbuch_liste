@@ -4,49 +4,9 @@
   "language": "de",
   "author": "100% Wolf",
   "narrator": "",
-  "genres": [
-    "Hörspiele"
-  ],
-  "albums": [
-    {
-      "id": "1759530072",
-      "title": "200% Wolf (Das Hörspiel zum Kinofilm)",
-      "episodeNumber": 200,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/96/3b/d6963b37-a553-25d5-b3d2-c6e5c223b690/196872211542.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1759530072"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1571309483",
-      "title": "Das Original Hörspiel zum Kinofilm",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/2f/8c/812f8c93-806c-72af-d7cc-67d7604ccfd8/886448842729.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1571309483"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1460369563",
-      "title": "Das kleine Gespenst - Das Hörspiel zum Kinofilm",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ff/58/16/ff5816c8-b33c-a5e9-15bf-d8658967947b/4057664535771_cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1460369563"
-      },
-      "chapters": []
-    }
-  ],
-  "updatedAt": "2026-06-24T20:01:30.677884+00:00"
+  "genres": [],
+  "albums": [],
+  "franchise": "100% Wolf",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.487651+00:00"
 }

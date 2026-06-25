@@ -1,12 +1,12 @@
 {
-  "seriesId": "h-rbuch-manufaktur-an-der-elbe",
+  "seriesId": "hoerbuch-manufaktur-an-der-elbe",
   "title": "Hörbuch Manufaktur an der Elbe",
   "language": "de",
   "author": "Hörbuch Manufaktur an der Elbe",
   "narrator": "",
   "genres": [
-    "Kinder & Jugend",
-    "Hörspiel"
+    "Hörspiel",
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -127,5 +127,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.173077+00:00"
+  "franchise": "Hörbuch Manufaktur an der Elbe",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.995478+00:00"
 }

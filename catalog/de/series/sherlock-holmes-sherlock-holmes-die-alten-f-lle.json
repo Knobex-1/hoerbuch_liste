@@ -1,0 +1,600 @@
+{
+  "seriesId": "sherlock-holmes-sherlock-holmes-die-alten-f-lle",
+  "title": "Sherlock Holmes - Die alten Fälle (Reloaded)",
+  "language": "de",
+  "author": "Sherlock Holmes - Die alten Fälle (Reloaded)",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1474626528",
+      "title": "Fall 1: Das Haus bei den Blutbuchen (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/9a/70/179a7034-24c5-7eae-9182-a07421b06e0c/4260507152718_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474626528"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474626615",
+      "title": "Fall 2: Der blaue Karfunkel (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/9b/d1/609bd149-b6c4-1a12-4110-91d854eaf280/4260507152725_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474626615"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474627044",
+      "title": "Fall 3: Das Musgrave-Ritual (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/28/14/2f/28142fe5-5ae8-ea33-acaf-0d6bb982bc69/4260507152732_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474627044"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474627514",
+      "title": "Fall 4: Die fünf Orangenkerne (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5a/6c/22/5a6c22e9-5879-88fb-b032-ec0a643c8734/4260507152749_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474627514"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474626932",
+      "title": "Fall 5: Die sechs Napoleons (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/a0/ad/9aa0ad27-ddd8-6f30-4f4c-160d6f47c3fe/4260507152756_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474626932"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474628288",
+      "title": "Fall 6: Das Tal der Furcht (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ce/0c/f1/ce0cf1db-d909-7b4c-7437-8c712619befb/4260507152763_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474628288"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474629330",
+      "title": "Die alten Fälle (Reloaded), Fall 8: Der Patient",
+      "episodeNumber": 8,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ed/12/41/ed124146-dd42-e9f8-882b-b1c56f6000f4/4260507152787_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474629330"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474629578",
+      "title": "Die alten Fälle (Reloaded), Fall 9: Ein Skandal in Böhmen",
+      "episodeNumber": 9,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e4/7f/f1/e47ff1d3-a63c-f4ec-632d-5e5615699877/4260507152794_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474629578"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474629636",
+      "title": "Die alten Fälle (Reloaded), Fall 10: Der Baumeister von Norwood",
+      "episodeNumber": 10,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/a4/f9/96a4f980-c59f-1114-d581-ec5c2aea1b72/4260507152800_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474629636"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474630436",
+      "title": "Die alten Fälle (Reloaded), Fall 11: Die drei Garridebs",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c7/05/1f/c7051fa7-be44-a87d-aa10-4d42e745243b/4260507152817_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474630436"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474630872",
+      "title": "Die alten Fälle (Reloaded), Fall 12: Eine Studie in Scharlachrot",
+      "episodeNumber": 12,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/54/0f/50/540f5065-7e9a-3cab-1661-8f74cefb4cc7/4260507152824_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474630872"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474631487",
+      "title": "Fall 14: Die tanzenden Männchen (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 14,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2e/d0/d7/2ed0d7a7-4fb6-146d-5a0b-02013d4f2545/4260507152848_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474631487"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474631649",
+      "title": "Fall 15: Die Internatsschule (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 15,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7b/89/11/7b89117a-4484-9353-84a9-03085a3f66ad/4260507152855_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474631649"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474631651",
+      "title": "Fall 16: Der zweite Fleck (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 16,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/aa/79/35aa798e-4ab1-288c-95b2-c95369c4cd7b/4260507152862_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474631651"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474633218",
+      "title": "Fall 18: Der Hund der Baskervilles (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 18,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/33/50/803350a8-bd80-de48-efa5-83df8c024590/4260507152886_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474633218"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474633703",
+      "title": "Fall 20: Der Landadel von Reigate (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 20,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/a6/fe/daa6fed2-0a37-4e67-06bd-721d6819cdbb/4260507152909_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474633703"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474633702",
+      "title": "Fall 21: Der Bucklige (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 21,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/42/5a/e4425ae1-dd91-6f5c-c25b-fb073fbb24b7/4260507152916_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474633702"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474634524",
+      "title": "Fall 22: Das Geheimnis der Gloria Scott (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 22,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/12/77/4c1277bd-04de-f9ec-f9a3-44ce77f6488f/4260507152923_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474634524"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474634316",
+      "title": "Fall 23: Der Flottenvertrag (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 23,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/7e/de/7c7ede8c-6768-63a6-032a-69702e0a1654/4260507152930_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474634316"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474634986",
+      "title": "Fall 24: Im Zeichen der Vier (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 24,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/98/b6/3098b654-97dd-5297-fdc4-2975bd554af7/4260507152947_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474634986"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474636175",
+      "title": "Fall 27: Der vermisste Rugbyspieler (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 27,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/81/51/ef/8151ef51-72da-9d53-8862-1e3dc80c0fae/4260507152978_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474636175"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474637612",
+      "title": "Fall 30: Eine Frage der Identität (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 30,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/55/49/61/5549619f-b1d8-d4ec-7726-ca201328d767/4260507153005_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474637612"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474637600",
+      "title": "Fall 31: Die drei Giebel (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 31,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/23/07/cc/2307cc58-dd23-5fe2-14e1-144d92e75ce2/4260507153012_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474637600"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474637931",
+      "title": "Fall 32: Der rote Kreis (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 32,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/aa/ac/44/aaac441e-f512-ff12-dda6-bee990a19b0a/4260507153029_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474637931"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474638130",
+      "title": "Fall 33: Der schwarze Peter (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 33,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cb/50/54/cb5054e0-b1f3-6c55-400c-041c9b99171e/4260507153036_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474638130"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474639323",
+      "title": "Fall 34: Charles Augustus Milverton (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 34,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f2/81/43/f281439e-4959-f5d0-86cf-697a06b9bd4f/4260507153043_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474639323"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474640019",
+      "title": "Fall 36: Der Teufelsfuß (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 36,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c2/01/df/c201df48-0729-312a-e49f-399311726643/4260507153067_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474640019"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474642852",
+      "title": "Fall 38: Das gesprenkelte Band (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 38,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/06/1c/ff/061cff4e-8425-930b-8166-527aa788dd9c/4260507153081_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474642852"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474643746",
+      "title": "Fall 39: Die Thor-Brücke (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 39,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5a/1f/75/5a1f7560-432b-40c6-1af5-b0799704aee6/4260507153098_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474643746"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474643052",
+      "title": "Fall 40: Der goldene Kneifer (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 40,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/17/35/db/1735db87-5e81-00a7-b198-acec64239ae8/4260507153104_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474643052"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474645216",
+      "title": "Fall 41: Abbey Grange (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 41,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e2/0d/c3/e20dc3c9-a3c4-9134-d1cd-fc00747afd05/4260507153111_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474645216"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474646226",
+      "title": "Fall 42: Das Rätsel von Boscombe Valley (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 42,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f6/e2/57/f6e25772-46fa-cd33-0b98-d9a8ea9f2b08/4260507153128_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474646226"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474646192",
+      "title": "Fall 43: Die Pappschachtel (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 43,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e5/c8/da/e5c8da98-30f5-cdd7-c471-d1ae38d5e412/4260507153135_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474646192"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474646033",
+      "title": "Die alten Fälle (Reloaded), Fall 44: Die Bruce-Partington-Pläne",
+      "episodeNumber": 44,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fc/fa/79/fcfa7907-bad7-ab41-e634-027ac03c2640/4260507153142_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474646033"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474646763",
+      "title": "Die alten Fälle (Reloaded), Fall 45: Das Verschwinden der Lady Carfax",
+      "episodeNumber": 45,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/7e/9d/99/7e9d99b8-3b1d-2bc1-ed07-1bd63aaafd4f/4260507153159_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474646763"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474647693",
+      "title": "Die alten Fälle (Reloaded), Fall 46: Die Löwenmähne",
+      "episodeNumber": 46,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/b0/94/efb094e8-db51-b503-6b88-22e270d8608b/4260507153166_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474647693"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1474647487",
+      "title": "Fall 47: Der Mazarin-Stein (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 47,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f5/bc/f1/f5bcf1e0-eae0-079a-cbeb-bb0a01f7f7ec/4260507153173_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474647487"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1442547695",
+      "title": "Die alten Fälle (Reloaded), Fall 48: Der illustre Klient",
+      "episodeNumber": 48,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/34/6d/b6/346db667-be5d-31b6-aaae-1098a800200b/4260507144041_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1442547695"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1444286720",
+      "title": "Die alten Fälle (Reloaded), Fall 49: Der erbleichte Soldat",
+      "episodeNumber": 49,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/74/ec/d3/74ecd36e-ca64-fbdb-b627-3dcc8e76fe45/4260507144683_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1444286720"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1444286722",
+      "title": "Die alten Fälle (Reloaded), Fall 50: Shoscombe Old Place",
+      "episodeNumber": 50,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/84/b2/4b/84b24b18-21a5-e372-e5ee-cceee150edc7/4260507144690_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1444286722"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1483596804",
+      "title": "Fall 51: Der Farbenhändler im Ruhestand (Die alten Fälle (Reloaded))",
+      "episodeNumber": 51,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/37/15/3f37156c-f738-4b66-d3ac-bfae8e11e8a4/4260507154835_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1483596804"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1487119372",
+      "title": "Folge 52: Wisteria Lodge (Die alten Fälle: Reloaded)",
+      "episodeNumber": 52,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/90/55/8d/90558da3-e3cd-27b5-4a9c-6b3b969cbb66/4260507154842_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1487119372"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1493570884",
+      "title": "Die alten Fälle (Reloaded), Fall 53: Der Detektiv auf dem Sterbebett",
+      "episodeNumber": 53,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/00/c0/94/00c0944c-e020-97be-bc0e-43b147b20401/4260507154859_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1493570884"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1495663748",
+      "title": "Fall 54: Die drei Studenten (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 54,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1d/af/83/1daf838c-b091-1636-869c-1202a9554f23/4260507154866_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1495663748"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1495649430",
+      "title": "Die alten Fälle (Reloaded), Fall 55: Der Mann mit dem geduckten Gang",
+      "episodeNumber": 55,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0e/04/6b/0e046bb1-1324-ff68-d472-73b55e180bda/4260507154873_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1495649430"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T17:04:36.791650+00:00"
+}

@@ -1,14 +1,14 @@
 {
-  "seriesId": "benjamin-bl-mchen",
+  "seriesId": "benjamin-bluemchen",
   "title": "Benjamin Blümchen",
   "language": "de",
   "author": "Benjamin Blümchen",
   "narrator": "",
   "genres": [
-    "Hörspiel",
-    "Kinder & Jugend",
     "Abenteuer",
-    "Humor"
+    "Humor",
+    "Hörspiel",
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -16142,5 +16142,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.210312+00:00"
+  "franchise": "Benjamin Blümchen",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.033433+00:00"
 }

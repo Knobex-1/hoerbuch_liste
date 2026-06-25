@@ -5,9 +5,9 @@
   "author": "Sven Nordqvist & Pettersson und Findus",
   "narrator": "",
   "genres": [
-    "Kinder & Jugend",
+    "Comedy",
     "Hörspiel",
-    "Comedy"
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -6594,5 +6594,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.231931+00:00"
+  "franchise": "Pettersson und Findus",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.054498+00:00"
 }

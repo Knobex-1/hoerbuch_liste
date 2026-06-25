@@ -5,7 +5,7 @@
   "author": "Truschel der kleine Geisterhund",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.798794+00:00"
+  "franchise": "Truschel der kleine Geisterhund",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.607704+00:00"
 }

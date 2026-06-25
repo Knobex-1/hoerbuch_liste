@@ -1,0 +1,616 @@
+{
+  "seriesId": "f-nf-freunde-f-nf-freunde",
+  "title": "Fünf Freunde",
+  "language": "de",
+  "author": "Fünf Freunde",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1002458852",
+      "title": "Folge 92: auf der Insel der Seeräuber",
+      "episodeNumber": 92,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/b8/87/f4/b887f4b2-edfe-0f98-ac2a-3298150dc5a8/886445158960.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1002458852"
+      },
+      "chapters": [
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t01",
+          "title": "092 - auf der Insel der Seeräuber (Teil 01)",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t02",
+          "title": "092 - auf der Insel der Seeräuber (Teil 02)",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t03",
+          "title": "092 - auf der Insel der Seeräuber (Teil 03)",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t04",
+          "title": "092 - auf der Insel der Seeräuber (Teil 04)",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t05",
+          "title": "092 - auf der Insel der Seeräuber (Teil 05)",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t06",
+          "title": "092 - auf der Insel der Seeräuber (Teil 06)",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t07",
+          "title": "092 - auf der Insel der Seeräuber (Teil 07)",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t08",
+          "title": "092 - auf der Insel der Seeräuber (Teil 08)",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t09",
+          "title": "092 - auf der Insel der Seeräuber (Teil 09)",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t10",
+          "title": "092 - auf der Insel der Seeräuber (Teil 10)",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t11",
+          "title": "092 - auf der Insel der Seeräuber (Teil 11)",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t12",
+          "title": "092 - auf der Insel der Seeräuber (Teil 12)",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t13",
+          "title": "092 - auf der Insel der Seeräuber (Teil 13)",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t14",
+          "title": "092 - auf der Insel der Seeräuber (Teil 14)",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t15",
+          "title": "092 - auf der Insel der Seeräuber (Teil 15)",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t16",
+          "title": "092 - auf der Insel der Seeräuber (Teil 16)",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t17",
+          "title": "092 - auf der Insel der Seeräuber (Teil 17)",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t18",
+          "title": "092 - auf der Insel der Seeräuber (Teil 18)",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t19",
+          "title": "092 - auf der Insel der Seeräuber (Teil 19)",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t20",
+          "title": "092 - auf der Insel der Seeräuber (Teil 20)",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t21",
+          "title": "092 - auf der Insel der Seeräuber (Teil 21)",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t22",
+          "title": "092 - auf der Insel der Seeräuber (Teil 22)",
+          "index": 21,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t23",
+          "title": "092 - auf der Insel der Seeräuber (Teil 23)",
+          "index": 22,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t24",
+          "title": "092 - auf der Insel der Seeräuber (Teil 24)",
+          "index": 23,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t25",
+          "title": "092 - auf der Insel der Seeräuber (Teil 25)",
+          "index": 24,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t26",
+          "title": "092 - auf der Insel der Seeräuber (Teil 26)",
+          "index": 25,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t27",
+          "title": "092 - auf der Insel der Seeräuber (Teil 27)",
+          "index": 26,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t28",
+          "title": "092 - auf der Insel der Seeräuber (Teil 28)",
+          "index": 27,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t29",
+          "title": "092 - auf der Insel der Seeräuber (Teil 29)",
+          "index": 28,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t30",
+          "title": "092 - auf der Insel der Seeräuber (Teil 30)",
+          "index": 29,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t31",
+          "title": "092 - auf der Insel der Seeräuber (Teil 31)",
+          "index": 30,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t32",
+          "title": "092 - auf der Insel der Seeräuber (Teil 32)",
+          "index": 31,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t33",
+          "title": "092 - auf der Insel der Seeräuber (Teil 33)",
+          "index": 32,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t34",
+          "title": "092 - auf der Insel der Seeräuber (Teil 34)",
+          "index": 33,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t35",
+          "title": "092 - auf der Insel der Seeräuber (Teil 35)",
+          "index": 34,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t36",
+          "title": "092 - auf der Insel der Seeräuber (Teil 36)",
+          "index": 35,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t37",
+          "title": "092 - auf der Insel der Seeräuber (Teil 37)",
+          "index": 36,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t38",
+          "title": "092 - auf der Insel der Seeräuber (Teil 38)",
+          "index": 37,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t39",
+          "title": "092 - auf der Insel der Seeräuber (Teil 39)",
+          "index": 38,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002458852-t40",
+          "title": "092 - auf der Insel der Seeräuber (Teil 40)",
+          "index": 39,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "1002495973",
+      "title": "Folge 103: und die giftigen Feuerquallen",
+      "episodeNumber": 103,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/9c/e6/82/9ce6824f-12a9-ad44-f3b2-31fea025a28a/886445160710.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1002495973"
+      },
+      "chapters": [
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t01",
+          "title": "103 - und die giftigen Feuerquallen (Teil 01)",
+          "index": 0,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t02",
+          "title": "103 - und die giftigen Feuerquallen (Teil 02)",
+          "index": 1,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t03",
+          "title": "103 - und die giftigen Feuerquallen (Teil 03)",
+          "index": 2,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t04",
+          "title": "103 - und die giftigen Feuerquallen (Teil 04)",
+          "index": 3,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t05",
+          "title": "103 - und die giftigen Feuerquallen (Teil 05)",
+          "index": 4,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t06",
+          "title": "103 - und die giftigen Feuerquallen (Teil 06)",
+          "index": 5,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t07",
+          "title": "103 - und die giftigen Feuerquallen (Teil 07)",
+          "index": 6,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t08",
+          "title": "103 - und die giftigen Feuerquallen (Teil 08)",
+          "index": 7,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t09",
+          "title": "103 - und die giftigen Feuerquallen (Teil 09)",
+          "index": 8,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t10",
+          "title": "103 - und die giftigen Feuerquallen (Teil 10)",
+          "index": 9,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t11",
+          "title": "103 - und die giftigen Feuerquallen (Teil 11)",
+          "index": 10,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t12",
+          "title": "103 - und die giftigen Feuerquallen (Teil 12)",
+          "index": 11,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t13",
+          "title": "103 - und die giftigen Feuerquallen (Teil 13)",
+          "index": 12,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t14",
+          "title": "103 - und die giftigen Feuerquallen (Teil 14)",
+          "index": 13,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t15",
+          "title": "103 - und die giftigen Feuerquallen (Teil 15)",
+          "index": 14,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t16",
+          "title": "103 - und die giftigen Feuerquallen (Teil 16)",
+          "index": 15,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t17",
+          "title": "103 - und die giftigen Feuerquallen (Teil 17)",
+          "index": 16,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t18",
+          "title": "103 - und die giftigen Feuerquallen (Teil 18)",
+          "index": 17,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t19",
+          "title": "103 - und die giftigen Feuerquallen (Teil 19)",
+          "index": 18,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t20",
+          "title": "103 - und die giftigen Feuerquallen (Teil 20)",
+          "index": 19,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t21",
+          "title": "103 - und die giftigen Feuerquallen (Teil 21)",
+          "index": 20,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t22",
+          "title": "103 - und die giftigen Feuerquallen (Teil 22)",
+          "index": 21,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t23",
+          "title": "103 - und die giftigen Feuerquallen (Teil 23)",
+          "index": 22,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t24",
+          "title": "103 - und die giftigen Feuerquallen (Teil 24)",
+          "index": 23,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t25",
+          "title": "103 - und die giftigen Feuerquallen (Teil 25)",
+          "index": 24,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t26",
+          "title": "103 - und die giftigen Feuerquallen (Teil 26)",
+          "index": 25,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t27",
+          "title": "103 - und die giftigen Feuerquallen (Teil 27)",
+          "index": 26,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t28",
+          "title": "103 - und die giftigen Feuerquallen (Teil 28)",
+          "index": 27,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t29",
+          "title": "103 - und die giftigen Feuerquallen (Teil 29)",
+          "index": 28,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t30",
+          "title": "103 - und die giftigen Feuerquallen (Teil 30)",
+          "index": 29,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t31",
+          "title": "103 - und die giftigen Feuerquallen (Teil 31)",
+          "index": 30,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t32",
+          "title": "103 - und die giftigen Feuerquallen (Teil 32)",
+          "index": 31,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t33",
+          "title": "103 - und die giftigen Feuerquallen (Teil 33)",
+          "index": 32,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t34",
+          "title": "103 - und die giftigen Feuerquallen (Teil 34)",
+          "index": 33,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t35",
+          "title": "103 - und die giftigen Feuerquallen (Teil 35)",
+          "index": 34,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t36",
+          "title": "103 - und die giftigen Feuerquallen (Teil 36)",
+          "index": 35,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t37",
+          "title": "103 - und die giftigen Feuerquallen (Teil 37)",
+          "index": 36,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t38",
+          "title": "103 - und die giftigen Feuerquallen (Teil 38)",
+          "index": 37,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t39",
+          "title": "103 - und die giftigen Feuerquallen (Teil 39)",
+          "index": 38,
+          "startTime": 0,
+          "duration": 0
+        },
+        {
+          "id": "f-nf-freunde-f-nf-freunde-1002495973-t40",
+          "title": "103 - und die giftigen Feuerquallen (Teil 40)",
+          "index": 39,
+          "startTime": 0,
+          "duration": 0
+        }
+      ]
+    },
+    {
+      "id": "1761129434",
+      "title": "Folge 162: und die Legende vom versteckten Sohn",
+      "episodeNumber": 162,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/10/c2/f310c2bd-42c3-9e80-2f1b-efb71cba66f4/196872211900.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1761129434"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Fünf Freunde",
+  "subSeriesOf": "fuenf-freunde",
+  "updatedAt": "2026-06-25T17:04:36.902711+00:00"
+}

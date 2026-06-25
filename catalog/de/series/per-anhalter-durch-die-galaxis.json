@@ -5,7 +5,7 @@
   "author": "Per Anhalter durch die Galaxis",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -723,5 +723,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.122308+00:00"
+  "franchise": "Per Anhalter durch die Galaxis",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.958751+00:00"
 }

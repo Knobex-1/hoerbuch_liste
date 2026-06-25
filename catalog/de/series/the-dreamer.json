@@ -5,7 +5,7 @@
   "author": "The Dreamer",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -72,5 +72,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.797678+00:00"
+  "franchise": "The Dreamer",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.606558+00:00"
 }

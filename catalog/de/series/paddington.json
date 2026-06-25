@@ -5,7 +5,7 @@
   "author": "Paddington",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -35,5 +35,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.795227+00:00"
+  "franchise": "Paddington",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.603655+00:00"
 }

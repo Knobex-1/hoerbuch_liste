@@ -5,7 +5,7 @@
   "author": "Captain Blitz und seine Freunde",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.679579+00:00"
+  "franchise": "Captain Blitz und seine Freunde",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.489689+00:00"
 }

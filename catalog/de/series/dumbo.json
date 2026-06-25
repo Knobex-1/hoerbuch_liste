@@ -5,7 +5,7 @@
   "author": "Dumbo",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.785568+00:00"
+  "franchise": "Dumbo",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.593000+00:00"
 }

@@ -5,7 +5,7 @@
   "author": "Die Schlümpfe",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -61,5 +61,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.681070+00:00"
+  "franchise": "Die Schlümpfe",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.491432+00:00"
 }

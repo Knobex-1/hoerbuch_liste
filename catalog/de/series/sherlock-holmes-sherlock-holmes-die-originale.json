@@ -1,0 +1,223 @@
+{
+  "seriesId": "sherlock-holmes-sherlock-holmes-die-originale",
+  "title": "Sherlock Holmes - Die Originale",
+  "language": "de",
+  "author": "Sherlock Holmes - Die Originale",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1354085052",
+      "title": "Fall 2: Der blaue Karfunkel (Die Originale)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cb/16/10/cb1610a0-7281-2039-78fa-b50c46754386/4260507138293_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354085052"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354017278",
+      "title": "Fall 3: Das Musgrave-Ritual (Die Originale)",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/22/07/34/220734eb-bff7-a16e-d76c-576553a48390/4260507138309_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354017278"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354043488",
+      "title": "Fall 4: Die fünf Orangenkerne (Die Originale)",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ff/83/64/ff836462-4ae6-e79d-9bfc-0ee89c23e040/4260507138316_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354043488"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354085112",
+      "title": "Fall 5: Die sechs Napoleons (Die Originale)",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d4/11/78/d41178cb-36f7-bf0a-734f-8521804f1a36/4260507138323_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354085112"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354038316",
+      "title": "Die Originale - Fall 6: Das Tal der Furcht",
+      "episodeNumber": 6,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/89/21/15/89211575-4e90-2d38-7c7a-6d48d20d8063/4260507138330_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354038316"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354024237",
+      "title": "Fall 10: Der Baumeister von Norwood (Die Originale)",
+      "episodeNumber": 10,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/78/d5/ea/78d5ead3-b6b3-2108-11fa-2dbd5cad1ec2/4260507138378_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354024237"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354017119",
+      "title": "Fall 12: Eine Studie in Scharlachrot (Die Originale)",
+      "episodeNumber": 12,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/20/0c/05/200c05fe-3ecf-d848-5f81-810dea5fa099/4260507138392_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354017119"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1353874682",
+      "title": "Fall 16: Der zweite Fleck (Die Originale)",
+      "episodeNumber": 16,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/54/47/14/54471418-5509-fc2d-d063-c00b7c518ff2/4260507138439_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1353874682"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354086083",
+      "title": "Fall 18: Der Hund der Baskervilles (Die Originale)",
+      "episodeNumber": 18,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/3e/46/ea/3e46eadb-91f3-3583-69ac-7241bfabbdd0/4260507138453_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354086083"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354006527",
+      "title": "Fall 20: Der Landadel von Reigate (Die Originale)",
+      "episodeNumber": 20,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1d/a3/95/1da39571-c6ef-174b-5e18-e47158d09e67/4260507138477_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354006527"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1355077978",
+      "title": "Fall 57: Der adelige Junggeselle (Die Originale)",
+      "episodeNumber": 57,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/67/42/de/6742deb0-9d1e-3669-b6b4-8c11079eba3c/4260507138842_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1355077978"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1355079418",
+      "title": "Fall 58: Das letzte Problem (Die Originale)",
+      "episodeNumber": 58,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/19/50/ba/1950baa6-885a-39cf-927f-c92256fd94b4/4260507138859_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1355079418"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1355079425",
+      "title": "Fall 59: Das leere Haus (Die Originale)",
+      "episodeNumber": 59,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/92/70/4f/92704fb0-0775-13c2-3367-2406d6a8011e/4260507138866_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1355079425"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1355082195",
+      "title": "Fall 60: Seine Abschiedsvorstellung (Die Originale)",
+      "episodeNumber": 60,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/46/43/f2/4643f2bc-60d1-6b32-62c2-e60cfeff3ec0/4260507138873_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1355082195"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1354029915",
+      "title": "Fall 64: Nebel des Schreckens (Die Originale)",
+      "episodeNumber": 64,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/71/73/0e/71730e16-fcd8-30cb-b853-a0a0dc797549/4260507138910_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1354029915"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1353925448",
+      "title": "Fall 65: Als der Meister sich verlor (Die Originale)",
+      "episodeNumber": 65,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/1f/6b/d0/1f6bd040-2d18-4807-8ccf-0241323ff8f8/4260507138927_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1353925448"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T17:04:36.790800+00:00"
+}

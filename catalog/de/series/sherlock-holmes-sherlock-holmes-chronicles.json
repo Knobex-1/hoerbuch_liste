@@ -1,0 +1,678 @@
+{
+  "seriesId": "sherlock-holmes-sherlock-holmes-chronicles",
+  "title": "Sherlock Holmes Chronicles",
+  "language": "de",
+  "author": "Sherlock Holmes Chronicles",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1451507483",
+      "title": "Folge 2: Die Zeitmaschine",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a7/55/5b/a7555b1a-5131-78a5-9b93-4a9b052354eb/4260507147578_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451507483"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567992487",
+      "title": "X-Mas Special Folge 2: Tödliche Weihnachten",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/22/72/8d2272ff-547e-d406-7c8f-db8b427f208c/4260507165473_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567992487"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451507778",
+      "title": "Folge 3: Der Werwolf",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3a/da/67/3ada675d-1773-facf-101a-8dfd25934c78/4260507147585_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451507778"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451508470",
+      "title": "Folge 4: Der Teufel von St. James",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/85/12/b3/8512b305-c47b-a47a-bcb8-c83883b00f9f/4260507147592_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451508470"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451509091",
+      "title": "Folge 5: Der rote Löwe",
+      "episodeNumber": 5,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ab/b0/9d/abb09de0-a07c-8d57-a710-eb4b87b2dbb9/4260507147608_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451509091"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451509272",
+      "title": "Folge 9: Das Freimaurer-Komplott",
+      "episodeNumber": 9,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0c/8f/20/0c8f20ed-fb46-cb3c-1ce5-5d8e261f4654/4260507147615_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451509272"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451509904",
+      "title": "Folge 11: Der Fluch der Titanic",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bc/be/d7/bcbed787-ffa5-e944-1473-2b5088dbbd6d/4260507147639_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451509904"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1508619981",
+      "title": "Folge 14: Der Club des Höllenfeuers",
+      "episodeNumber": 14,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2d/91/11/2d911156-5165-fb6d-cc86-443228456442/4260507158109_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1508619981"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451511285",
+      "title": "Folge 16: Die Unbekannte aus der Themse",
+      "episodeNumber": 16,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/42/2e/dd422e86-96ad-7d4b-fe8a-d2c1805d59ad/4260507147660_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451511285"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451511635",
+      "title": "Folge 19: Der zweite Blutfleck",
+      "episodeNumber": 19,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/f1/d9/c9f1d9c3-0c54-21e7-495a-0f1ee3fb714d/4260507147691_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451511635"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451515657",
+      "title": "Folge 31: Die Gutsherren von Reigate",
+      "episodeNumber": 31,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/62/14/8e62143f-4de5-f1d4-0bd9-910e77b30ba2/4260507147790_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451515657"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515381900",
+      "title": "Folge 32: Die brennende Brücke / Stimmen aus dem Jenseits",
+      "episodeNumber": 32,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f2/04/71/f20471d2-25fe-b3fd-9cb1-e1b61761c0fd/4260507158130_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515381900"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451516327",
+      "title": "Folge 34: Das Rätsel der Ansichtskarten",
+      "episodeNumber": 34,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/c6/50/6dc650db-fc27-9ff4-009d-765acf08b781/4260507147813_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451516327"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451519834",
+      "title": "Folge 39: Die Rache des Pharao",
+      "episodeNumber": 39,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/47/1c/a3/471ca345-b8a9-9cd4-cb07-a2aa3c735cd3/4260507147868_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451519834"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515723528",
+      "title": "Folge 42: Das verwunschene Haus",
+      "episodeNumber": 42,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8c/0c/c2/8c0cc2df-3df4-fb98-c809-ce80d99eb4b4/4260507158147_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515723528"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1450946513",
+      "title": "Folge 43: Das Familienritual",
+      "episodeNumber": 43,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4d/88/fe/4d88feba-7809-45c4-9b76-1ca964256768/4260507147516_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1450946513"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451503109",
+      "title": "Folge 45: Im Auftrag der Krone",
+      "episodeNumber": 45,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ce/fe/81/cefe81a7-34d5-abcf-687c-b532adae3da6/4260507147530_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451503109"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1451502109",
+      "title": "Folge 46: Der Baumeister von Norwood",
+      "episodeNumber": 46,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/3f/c2/663fc2f4-1e2c-5208-2dda-9d11e64e8a3a/4260507147547_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1451502109"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515721183",
+      "title": "Folge 47: Verrat um Mitternacht",
+      "episodeNumber": 47,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4d/9f/4f/4d9f4f23-b8f4-58ba-a75b-9d4fe9262b7a/4260507158154_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515721183"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1475615053",
+      "title": "Folge 48: Die verschwundene Witwe",
+      "episodeNumber": 48,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0a/e2/ec/0ae2ec7c-ee9d-d374-9636-506482fcfdc8/4260507153197_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1475615053"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1477987815",
+      "title": "Folge 50: Der verbrauchte Talisman",
+      "episodeNumber": 50,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d3/17/01/d31701ac-e62b-1316-72c2-2e9f57622b07/4260507153210_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1477987815"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1479196212",
+      "title": "Folge 51: 28 Stufen",
+      "episodeNumber": 51,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2b/dd/94/2bdd9453-c43c-2471-e4ad-c81d06a7ddf4/4260507153227_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1479196212"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515722555",
+      "title": "Folge 54: Die Kaiserattentate",
+      "episodeNumber": 54,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/85/2f/52/852f5203-48a2-6411-ae79-d74aa9999ecb/4260507158178_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515722555"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515725743",
+      "title": "Folge 56: Die Akte Ludwig II.",
+      "episodeNumber": 56,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f0/e1/c0/f0e1c0f3-aca4-70a9-e5b5-a45e6a405c01/4260507158192_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515725743"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515725918",
+      "title": "Folge 57: Die Katakomben von Paris",
+      "episodeNumber": 57,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b7/78/d4/b778d46f-e820-8a21-562d-9cee7d119b80/4260507158208_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515725918"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1515724007",
+      "title": "Folge 58: Das Vier-Pfeifen-Problem",
+      "episodeNumber": 58,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e6/f3/34/e6f33477-8986-5480-bb3d-a56e369cc938/4260507158215_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1515724007"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1535531574",
+      "title": "Folge 60: Der Albtraum-Express",
+      "episodeNumber": 60,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/40/77/21/407721d2-38ff-7e61-8035-93a0cfaf55bb/4260507159908_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535531574"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1535539087",
+      "title": "Folge 61: Sechsmal Napoleon",
+      "episodeNumber": 61,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/8a/76/328a7630-0a3c-0a3c-0bd0-76629558c962/4260507159915_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535539087"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1535548830",
+      "title": "Folge 62: Der Artillerist im Ruhestand",
+      "episodeNumber": 62,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2d/60/f3/2d60f3a3-3e79-e364-f05b-f8dc0b484ece/4260507159922_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535548830"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1535437525",
+      "title": "Folge 63: Der blutrote Edelstein",
+      "episodeNumber": 63,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7d/d5/da/7dd5da72-61d5-ef82-a272-4a7b2c073b30/4260507159939_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535437525"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1535444639",
+      "title": "Folge 64: Der Mörder von Dresden",
+      "episodeNumber": 64,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/04/48/f6044835-2ff5-7d66-3de3-dc997bbd14dd/4260507159946_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535444639"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1535447692",
+      "title": "Folge 66: Holmes gegen Holmes",
+      "episodeNumber": 66,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/f7/1b/96f71bdc-3d1d-fa3d-7596-c1036c1427c1/4260507159960_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1535447692"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1533646491",
+      "title": "Folge 68: Der niedergelassene Patient",
+      "episodeNumber": 68,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ca/07/00/ca070096-bc85-bd93-7922-34b0809330da/4260507161642_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1533646491"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1533647791",
+      "title": "Folge 69: Der gelbe Tropfen",
+      "episodeNumber": 69,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/92/11/11/921111f0-dfbd-d334-55fe-def455877011/4260507161659_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1533647791"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1533648212",
+      "title": "Folge 70: Der einsame Radfahrer",
+      "episodeNumber": 70,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/51/15/be511572-edda-9f38-368a-6ef97d111684/4260507161666_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1533648212"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567985507",
+      "title": "Folge 71: Die Spur des Falken",
+      "episodeNumber": 71,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/06/84/7106848d-8074-0236-e33d-65af82c99abd/4260507165176_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567985507"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567986518",
+      "title": "Folge 73: Die Kombinationsmaschine",
+      "episodeNumber": 73,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/de/c6/6bdec69b-cc4b-8a56-4169-5f3f6fd2ebba/4260507165213_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567986518"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567989580",
+      "title": "Folge 74: Abbey Grange",
+      "episodeNumber": 74,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/3e/3c/873e3c80-75b9-eb56-1643-439e9ffed050/4260507165237_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567989580"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567985684",
+      "title": "Folge 75: Mord im Mädchenpensionat",
+      "episodeNumber": 75,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/16/ef/b1/16efb10c-e234-c66b-77df-f35aad1fc9e8/4260507165251_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567985684"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567985576",
+      "title": "Folge 78: Das Todeskarussell",
+      "episodeNumber": 78,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/29/68/b12968fe-cac0-20a3-ed85-ed30dd6ff3ae/4260507165299_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567985576"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567990174",
+      "title": "Folge 80: Der grüne Dunst",
+      "episodeNumber": 80,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/28/01/3c/28013cab-d4e6-3210-f7df-1a575ea40a0c/4260507165336_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567990174"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567990858",
+      "title": "Folge 81: Die Pappschachtel",
+      "episodeNumber": 81,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f1/8e/11/f18e113c-7587-0818-687a-118acd84f913/4260507165350_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567990858"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567993296",
+      "title": "Folge 83: Ein fast perfekter Mord",
+      "episodeNumber": 83,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/27/6e/93276e90-3805-cb7b-6545-f3e250e8cd56/4260507165930_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567993296"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1567993378",
+      "title": "Folge 84: Der rote Kreis",
+      "episodeNumber": 84,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/64/32/35/64323536-eaac-da8d-5b5a-2591f3c500d5/4260507166067_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1567993378"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1572257073",
+      "title": "Folge 85: Das schwarze Phantom",
+      "episodeNumber": 85,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e9/a5/80/e9a580a6-e08d-70de-9fda-9f448951ad25/4260507166500_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1572257073"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1578229143",
+      "title": "Folge 86: Das Rätsel der schwarzen Abtei",
+      "episodeNumber": 86,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/21/23/ed2123ab-0baf-a86c-f17e-d212b62c8c49/4260507169839_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1578229143"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1586797645",
+      "title": "Folge 87: Insel der Schatten",
+      "episodeNumber": 87,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/f5/a9/c3f5a9e3-d539-9ac2-a7e9-966c8e5f6d6a/4260507170217_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1586797645"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1594065355",
+      "title": "Folge 88: Wisteria Lodge",
+      "episodeNumber": 88,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4a/bb/43/4abb437b-f679-060d-3e88-e0d94b777f39/4260507170682_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1594065355"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1605189013",
+      "title": "Folge 89: Das Rätsel der heiligen Familie",
+      "episodeNumber": 89,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/b6/e7/48b6e7bf-5d71-7797-b6d6-38b688537494/4260507171214_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1605189013"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1618628172",
+      "title": "Folge 91: Das Mörder-Moor",
+      "episodeNumber": 91,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/ab/31/beab3146-4923-2b2f-8639-5ff33357d23a/4260507173201_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1618628172"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1622048027",
+      "title": "Folge 92: Der Angestellte des Börsenmaklers",
+      "episodeNumber": 92,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/31/7f/34/317f3416-fdb7-b083-af4d-0f28beee3cf9/4260507173782_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1622048027"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T17:04:36.794645+00:00"
+}

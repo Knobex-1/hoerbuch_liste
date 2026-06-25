@@ -5,7 +5,7 @@
   "author": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.793622+00:00"
+  "franchise": "Leonie Beckenbach, Tim Oliver Schultz & Luise Befort",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.601395+00:00"
 }

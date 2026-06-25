@@ -5,9 +5,9 @@
   "author": "Miraculous",
   "narrator": "",
   "genres": [
+    "Fantasy",
     "Hörspiel",
     "Kinder & Jugend",
-    "Fantasy",
     "Superhelden"
   ],
   "albums": [
@@ -10687,5 +10687,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.307539+00:00"
+  "franchise": "Miraculous",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.115688+00:00"
 }

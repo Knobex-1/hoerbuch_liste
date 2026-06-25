@@ -5,7 +5,7 @@
   "author": "Felix-Ein Hase auf Weltreise",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.786013+00:00"
+  "franchise": "Felix-Ein Hase auf Weltreise",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.593575+00:00"
 }

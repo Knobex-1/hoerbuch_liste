@@ -1,0 +1,28 @@
+{
+  "seriesId": "jurassic-world-neue-abenteuer-jurassic-world-neue-abenteuer",
+  "title": "Jurassic World - Neue Abenteuer",
+  "language": "de",
+  "author": "Jurassic World - Neue Abenteuer",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1640899733",
+      "title": "Folge 24: Das letzte Gefecht / Die glorreichen Sechs (Das Original Hörspiel zur TV-Serie)",
+      "episodeNumber": 24,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/a4/a3/79a4a307-b933-43af-50ba-2ca714e03c85/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1640899733"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Jurassic World - Neue Abenteuer",
+  "subSeriesOf": "jurassic-world-neue-abenteuer",
+  "updatedAt": "2026-06-25T17:04:36.600620+00:00"
+}

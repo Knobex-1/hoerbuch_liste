@@ -5,10 +5,10 @@
   "author": "Alea Aquarius & Tanya Stewner",
   "narrator": "",
   "genres": [
-    "Hörspiel",
-    "Kinder & Jugend",
+    "Abenteuer",
     "Fantasy",
-    "Abenteuer"
+    "Hörspiel",
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -791,5 +791,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.229137+00:00"
+  "franchise": "Alea Aquarius & Tanya Stewner",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.051775+00:00"
 }

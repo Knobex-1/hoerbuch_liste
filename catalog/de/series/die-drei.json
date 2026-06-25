@@ -2,12 +2,12 @@
   "seriesId": "die-drei",
   "title": "Die drei ???",
   "language": "de",
-  "author": "Alfred Hitchcock präsentiert",
+  "author": "Die drei ???",
   "narrator": "",
   "genres": [
     "Abenteuer",
-    "Kinder & Jugend",
     "Hörspiel",
+    "Kinder & Jugend",
     "Krimi"
   ],
   "albums": [
@@ -1020,6 +1020,622 @@
       ]
     },
     {
+      "id": "1685331420",
+      "title": "Folge 1: Das Haus am Abgrund Teil 1",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7b/3c/ca/7b3cca94-1fc3-176a-72c8-0789e98f30dd/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 4139.099,
+      "platforms": {
+        "appleMusic": "1685331420"
+      },
+      "chapters": [
+        {
+          "id": "kste-folg-1420-t01",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 67.533
+        },
+        {
+          "id": "kste-folg-1420-t02",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 2",
+          "index": 1,
+          "startTime": 67.533,
+          "duration": 91.046
+        },
+        {
+          "id": "kste-folg-1420-t03",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 3",
+          "index": 2,
+          "startTime": 158.579,
+          "duration": 90.911
+        },
+        {
+          "id": "kste-folg-1420-t04",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 4",
+          "index": 3,
+          "startTime": 249.49,
+          "duration": 90.493
+        },
+        {
+          "id": "kste-folg-1420-t05",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 5",
+          "index": 4,
+          "startTime": 339.983,
+          "duration": 91.839
+        },
+        {
+          "id": "kste-folg-1420-t06",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 6",
+          "index": 5,
+          "startTime": 431.822,
+          "duration": 92.377
+        },
+        {
+          "id": "kste-folg-1420-t07",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 7",
+          "index": 6,
+          "startTime": 524.199,
+          "duration": 91.993
+        },
+        {
+          "id": "kste-folg-1420-t08",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 8",
+          "index": 7,
+          "startTime": 616.192,
+          "duration": 93.992
+        },
+        {
+          "id": "kste-folg-1420-t09",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 9",
+          "index": 8,
+          "startTime": 710.184,
+          "duration": 93.684
+        },
+        {
+          "id": "kste-folg-1420-t10",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 10",
+          "index": 9,
+          "startTime": 803.868,
+          "duration": 91.921
+        },
+        {
+          "id": "kste-folg-1420-t11",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 11",
+          "index": 10,
+          "startTime": 895.789,
+          "duration": 90.642
+        },
+        {
+          "id": "kste-folg-1420-t12",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 12",
+          "index": 11,
+          "startTime": 986.431,
+          "duration": 92.915
+        },
+        {
+          "id": "kste-folg-1420-t13",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 13",
+          "index": 12,
+          "startTime": 1079.346,
+          "duration": 94.684
+        },
+        {
+          "id": "kste-folg-1420-t14",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 14",
+          "index": 13,
+          "startTime": 1174.03,
+          "duration": 92.146
+        },
+        {
+          "id": "kste-folg-1420-t15",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 15",
+          "index": 14,
+          "startTime": 1266.176,
+          "duration": 90.506
+        },
+        {
+          "id": "kste-folg-1420-t16",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 16",
+          "index": 15,
+          "startTime": 1356.682,
+          "duration": 90.173
+        },
+        {
+          "id": "kste-folg-1420-t17",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 17",
+          "index": 16,
+          "startTime": 1446.855,
+          "duration": 90.493
+        },
+        {
+          "id": "kste-folg-1420-t18",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 18",
+          "index": 17,
+          "startTime": 1537.348,
+          "duration": 91.07
+        },
+        {
+          "id": "kste-folg-1420-t19",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 19",
+          "index": 18,
+          "startTime": 1628.418,
+          "duration": 90.493
+        },
+        {
+          "id": "kste-folg-1420-t20",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 20",
+          "index": 19,
+          "startTime": 1718.911,
+          "duration": 91.416
+        },
+        {
+          "id": "kste-folg-1420-t21",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 21",
+          "index": 20,
+          "startTime": 1810.327,
+          "duration": 92.339
+        },
+        {
+          "id": "kste-folg-1420-t22",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 22",
+          "index": 21,
+          "startTime": 1902.666,
+          "duration": 94.261
+        },
+        {
+          "id": "kste-folg-1420-t23",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 23",
+          "index": 22,
+          "startTime": 1996.927,
+          "duration": 91.185
+        },
+        {
+          "id": "kste-folg-1420-t24",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 24",
+          "index": 23,
+          "startTime": 2088.112,
+          "duration": 90.455
+        },
+        {
+          "id": "kste-folg-1420-t25",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 25",
+          "index": 24,
+          "startTime": 2178.567,
+          "duration": 90.955
+        },
+        {
+          "id": "kste-folg-1420-t26",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 26",
+          "index": 25,
+          "startTime": 2269.522,
+          "duration": 92.723
+        },
+        {
+          "id": "kste-folg-1420-t27",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 27",
+          "index": 26,
+          "startTime": 2362.245,
+          "duration": 91.646
+        },
+        {
+          "id": "kste-folg-1420-t28",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 28",
+          "index": 27,
+          "startTime": 2453.891,
+          "duration": 92.3
+        },
+        {
+          "id": "kste-folg-1420-t29",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 29",
+          "index": 28,
+          "startTime": 2546.191,
+          "duration": 91.762
+        },
+        {
+          "id": "kste-folg-1420-t30",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 30",
+          "index": 29,
+          "startTime": 2637.953,
+          "duration": 93.53
+        },
+        {
+          "id": "kste-folg-1420-t31",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 31",
+          "index": 30,
+          "startTime": 2731.483,
+          "duration": 91.416
+        },
+        {
+          "id": "kste-folg-1420-t32",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 32",
+          "index": 31,
+          "startTime": 2822.899,
+          "duration": 90.686
+        },
+        {
+          "id": "kste-folg-1420-t33",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 33",
+          "index": 32,
+          "startTime": 2913.585,
+          "duration": 91.839
+        },
+        {
+          "id": "kste-folg-1420-t34",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 34",
+          "index": 33,
+          "startTime": 3005.424,
+          "duration": 90.993
+        },
+        {
+          "id": "kste-folg-1420-t35",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 35",
+          "index": 34,
+          "startTime": 3096.417,
+          "duration": 90.686
+        },
+        {
+          "id": "kste-folg-1420-t36",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 36",
+          "index": 35,
+          "startTime": 3187.103,
+          "duration": 90.878
+        },
+        {
+          "id": "kste-folg-1420-t37",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 37",
+          "index": 36,
+          "startTime": 3277.981,
+          "duration": 91.724
+        },
+        {
+          "id": "kste-folg-1420-t38",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 38",
+          "index": 37,
+          "startTime": 3369.705,
+          "duration": 94.261
+        },
+        {
+          "id": "kste-folg-1420-t39",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 39",
+          "index": 38,
+          "startTime": 3463.966,
+          "duration": 91.147
+        },
+        {
+          "id": "kste-folg-1420-t40",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 40",
+          "index": 39,
+          "startTime": 3555.113,
+          "duration": 92.608
+        },
+        {
+          "id": "kste-folg-1420-t41",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 41",
+          "index": 40,
+          "startTime": 3647.721,
+          "duration": 91.025
+        },
+        {
+          "id": "kste-folg-1420-t42",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 42",
+          "index": 41,
+          "startTime": 3738.746,
+          "duration": 91.443
+        },
+        {
+          "id": "kste-folg-1420-t43",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 43",
+          "index": 42,
+          "startTime": 3830.189,
+          "duration": 91.252
+        },
+        {
+          "id": "kste-folg-1420-t44",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 44",
+          "index": 43,
+          "startTime": 3921.441,
+          "duration": 91.14
+        },
+        {
+          "id": "kste-folg-1420-t45",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 45",
+          "index": 44,
+          "startTime": 4012.581,
+          "duration": 60.517
+        },
+        {
+          "id": "kste-folg-1420-t46",
+          "title": "Das Haus am Abgrund Teil 1 Kapitel 46",
+          "index": 45,
+          "startTime": 4073.098,
+          "duration": 66.001
+        }
+      ]
+    },
+    {
+      "id": "1460141226",
+      "title": "Folge 1: Das dunkle Fragment",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/79/54/68/795468ed-5b53-bce5-4841-2b019174b0c7/4260507150639_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 3551.2599999999998,
+      "platforms": {
+        "appleMusic": "1460141226"
+      },
+      "chapters": [
+        {
+          "id": "heli-folg-1226-t01",
+          "title": "Folge 1: Das dunkle Fragment, Teil 1",
+          "index": 0,
+          "startTime": 0.0,
+          "duration": 91.331
+        },
+        {
+          "id": "heli-folg-1226-t02",
+          "title": "Folge 1: Das dunkle Fragment, Teil 2",
+          "index": 1,
+          "startTime": 91.331,
+          "duration": 95.688
+        },
+        {
+          "id": "heli-folg-1226-t03",
+          "title": "Folge 1: Das dunkle Fragment, Teil 3",
+          "index": 2,
+          "startTime": 187.019,
+          "duration": 107.957
+        },
+        {
+          "id": "heli-folg-1226-t04",
+          "title": "Folge 1: Das dunkle Fragment, Teil 4",
+          "index": 3,
+          "startTime": 294.976,
+          "duration": 91.507
+        },
+        {
+          "id": "heli-folg-1226-t05",
+          "title": "Folge 1: Das dunkle Fragment, Teil 5",
+          "index": 4,
+          "startTime": 386.483,
+          "duration": 91.545
+        },
+        {
+          "id": "heli-folg-1226-t06",
+          "title": "Folge 1: Das dunkle Fragment, Teil 6",
+          "index": 5,
+          "startTime": 478.028,
+          "duration": 91.143
+        },
+        {
+          "id": "heli-folg-1226-t07",
+          "title": "Folge 1: Das dunkle Fragment, Teil 7",
+          "index": 6,
+          "startTime": 569.171,
+          "duration": 90.005
+        },
+        {
+          "id": "heli-folg-1226-t08",
+          "title": "Folge 1: Das dunkle Fragment, Teil 8",
+          "index": 7,
+          "startTime": 659.176,
+          "duration": 90.027
+        },
+        {
+          "id": "heli-folg-1226-t09",
+          "title": "Folge 1: Das dunkle Fragment, Teil 9",
+          "index": 8,
+          "startTime": 749.203,
+          "duration": 90.342
+        },
+        {
+          "id": "heli-folg-1226-t10",
+          "title": "Folge 1: Das dunkle Fragment, Teil 10",
+          "index": 9,
+          "startTime": 839.545,
+          "duration": 102.792
+        },
+        {
+          "id": "heli-folg-1226-t11",
+          "title": "Folge 1: Das dunkle Fragment, Teil 11",
+          "index": 10,
+          "startTime": 942.337,
+          "duration": 90.866
+        },
+        {
+          "id": "heli-folg-1226-t12",
+          "title": "Folge 1: Das dunkle Fragment, Teil 12",
+          "index": 11,
+          "startTime": 1033.203,
+          "duration": 90.359
+        },
+        {
+          "id": "heli-folg-1226-t13",
+          "title": "Folge 1: Das dunkle Fragment, Teil 13",
+          "index": 12,
+          "startTime": 1123.562,
+          "duration": 90.586
+        },
+        {
+          "id": "heli-folg-1226-t14",
+          "title": "Folge 1: Das dunkle Fragment, Teil 14",
+          "index": 13,
+          "startTime": 1214.148,
+          "duration": 91.779
+        },
+        {
+          "id": "heli-folg-1226-t15",
+          "title": "Folge 1: Das dunkle Fragment, Teil 15",
+          "index": 14,
+          "startTime": 1305.927,
+          "duration": 91.649
+        },
+        {
+          "id": "heli-folg-1226-t16",
+          "title": "Folge 1: Das dunkle Fragment, Teil 16",
+          "index": 15,
+          "startTime": 1397.576,
+          "duration": 96.646
+        },
+        {
+          "id": "heli-folg-1226-t17",
+          "title": "Folge 1: Das dunkle Fragment, Teil 17",
+          "index": 16,
+          "startTime": 1494.222,
+          "duration": 93.792
+        },
+        {
+          "id": "heli-folg-1226-t18",
+          "title": "Folge 1: Das dunkle Fragment, Teil 18",
+          "index": 17,
+          "startTime": 1588.014,
+          "duration": 90.91
+        },
+        {
+          "id": "heli-folg-1226-t19",
+          "title": "Folge 1: Das dunkle Fragment, Teil 19",
+          "index": 18,
+          "startTime": 1678.924,
+          "duration": 90.161
+        },
+        {
+          "id": "heli-folg-1226-t20",
+          "title": "Folge 1: Das dunkle Fragment, Teil 20",
+          "index": 19,
+          "startTime": 1769.085,
+          "duration": 91.052
+        },
+        {
+          "id": "heli-folg-1226-t21",
+          "title": "Folge 1: Das dunkle Fragment, Teil 21",
+          "index": 20,
+          "startTime": 1860.137,
+          "duration": 90.07
+        },
+        {
+          "id": "heli-folg-1226-t22",
+          "title": "Folge 1: Das dunkle Fragment, Teil 22",
+          "index": 21,
+          "startTime": 1950.207,
+          "duration": 90.004
+        },
+        {
+          "id": "heli-folg-1226-t23",
+          "title": "Folge 1: Das dunkle Fragment, Teil 23",
+          "index": 22,
+          "startTime": 2040.211,
+          "duration": 91.971
+        },
+        {
+          "id": "heli-folg-1226-t24",
+          "title": "Folge 1: Das dunkle Fragment, Teil 24",
+          "index": 23,
+          "startTime": 2132.182,
+          "duration": 90.586
+        },
+        {
+          "id": "heli-folg-1226-t25",
+          "title": "Folge 1: Das dunkle Fragment, Teil 25",
+          "index": 24,
+          "startTime": 2222.768,
+          "duration": 92.591
+        },
+        {
+          "id": "heli-folg-1226-t26",
+          "title": "Folge 1: Das dunkle Fragment, Teil 26",
+          "index": 25,
+          "startTime": 2315.359,
+          "duration": 90.024
+        },
+        {
+          "id": "heli-folg-1226-t27",
+          "title": "Folge 1: Das dunkle Fragment, Teil 27",
+          "index": 26,
+          "startTime": 2405.383,
+          "duration": 92.501
+        },
+        {
+          "id": "heli-folg-1226-t28",
+          "title": "Folge 1: Das dunkle Fragment, Teil 28",
+          "index": 27,
+          "startTime": 2497.884,
+          "duration": 91.543
+        },
+        {
+          "id": "heli-folg-1226-t29",
+          "title": "Folge 1: Das dunkle Fragment, Teil 29",
+          "index": 28,
+          "startTime": 2589.427,
+          "duration": 90.193
+        },
+        {
+          "id": "heli-folg-1226-t30",
+          "title": "Folge 1: Das dunkle Fragment, Teil 30",
+          "index": 29,
+          "startTime": 2679.62,
+          "duration": 90.204
+        },
+        {
+          "id": "heli-folg-1226-t31",
+          "title": "Folge 1: Das dunkle Fragment, Teil 31",
+          "index": 30,
+          "startTime": 2769.824,
+          "duration": 92.35
+        },
+        {
+          "id": "heli-folg-1226-t32",
+          "title": "Folge 1: Das dunkle Fragment, Teil 32",
+          "index": 31,
+          "startTime": 2862.174,
+          "duration": 90.036
+        },
+        {
+          "id": "heli-folg-1226-t33",
+          "title": "Folge 1: Das dunkle Fragment, Teil 33",
+          "index": 32,
+          "startTime": 2952.21,
+          "duration": 94.96
+        },
+        {
+          "id": "heli-folg-1226-t34",
+          "title": "Folge 1: Das dunkle Fragment, Teil 34",
+          "index": 33,
+          "startTime": 3047.17,
+          "duration": 90.937
+        },
+        {
+          "id": "heli-folg-1226-t35",
+          "title": "Folge 1: Das dunkle Fragment, Teil 35",
+          "index": 34,
+          "startTime": 3138.107,
+          "duration": 92.797
+        },
+        {
+          "id": "heli-folg-1226-t36",
+          "title": "Folge 1: Das dunkle Fragment, Teil 36",
+          "index": 35,
+          "startTime": 3230.904,
+          "duration": 90.951
+        },
+        {
+          "id": "heli-folg-1226-t37",
+          "title": "Folge 1: Das dunkle Fragment, Teil 37",
+          "index": 36,
+          "startTime": 3321.855,
+          "duration": 104.322
+        },
+        {
+          "id": "heli-folg-1226-t38",
+          "title": "Folge 1: Das dunkle Fragment, Teil 38",
+          "index": 37,
+          "startTime": 3426.177,
+          "duration": 125.083
+        }
+      ]
+    },
+    {
       "id": "1523283964",
       "title": "Folge 1: Der Hexer (Der Krimi-Klassiker in neuer Hörspielfassung)",
       "episodeNumber": 1,
@@ -1555,300 +2171,6 @@
           "index": 39,
           "startTime": 4064.234,
           "duration": 198.945
-        }
-      ]
-    },
-    {
-      "id": "1092514327",
-      "title": "Folge 1: Die Handy-Falle",
-      "episodeNumber": 1,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/95/94/28/95942811-a08c-53d6-acb5-e74ebba4badc/886445747584.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092514327"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092514327-t01",
-          "title": "001 - Die Handy-Falle (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t02",
-          "title": "001 - Die Handy-Falle (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t03",
-          "title": "001 - Die Handy-Falle (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t04",
-          "title": "001 - Die Handy-Falle (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t05",
-          "title": "001 - Die Handy-Falle (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t06",
-          "title": "001 - Die Handy-Falle (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t07",
-          "title": "001 - Die Handy-Falle (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t08",
-          "title": "001 - Die Handy-Falle (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t09",
-          "title": "001 - Die Handy-Falle (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t10",
-          "title": "001 - Die Handy-Falle (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t11",
-          "title": "001 - Die Handy-Falle (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t12",
-          "title": "001 - Die Handy-Falle (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t13",
-          "title": "001 - Die Handy-Falle (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t14",
-          "title": "001 - Die Handy-Falle (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t15",
-          "title": "001 - Die Handy-Falle (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t16",
-          "title": "001 - Die Handy-Falle (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t17",
-          "title": "001 - Die Handy-Falle (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t18",
-          "title": "001 - Die Handy-Falle (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t19",
-          "title": "001 - Die Handy-Falle (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t20",
-          "title": "001 - Die Handy-Falle (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t21",
-          "title": "001 - Die Handy-Falle (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t22",
-          "title": "001 - Die Handy-Falle (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t23",
-          "title": "001 - Die Handy-Falle (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t24",
-          "title": "001 - Die Handy-Falle (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t25",
-          "title": "001 - Die Handy-Falle (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t26",
-          "title": "001 - Die Handy-Falle (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t27",
-          "title": "001 - Die Handy-Falle (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t28",
-          "title": "001 - Die Handy-Falle (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t29",
-          "title": "001 - Die Handy-Falle (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t30",
-          "title": "001 - Die Handy-Falle (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t31",
-          "title": "001 - Die Handy-Falle (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t32",
-          "title": "001 - Die Handy-Falle (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t33",
-          "title": "001 - Die Handy-Falle (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t34",
-          "title": "001 - Die Handy-Falle (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t35",
-          "title": "001 - Die Handy-Falle (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t36",
-          "title": "001 - Die Handy-Falle (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t37",
-          "title": "001 - Die Handy-Falle (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t38",
-          "title": "001 - Die Handy-Falle (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t39",
-          "title": "001 - Die Handy-Falle (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514327-t40",
-          "title": "001 - Die Handy-Falle (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
         }
       ]
     },
@@ -3150,300 +3472,6 @@
           "index": 25,
           "startTime": 3495.556,
           "duration": 153.067
-        }
-      ]
-    },
-    {
-      "id": "1092515740",
-      "title": "Folge 2: Betrug beim Casting",
-      "episodeNumber": 2,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/02/99/7f/02997f12-9de6-e1f1-21c7-f4d4becd93e0/886445747669.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092515740"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092515740-t01",
-          "title": "02 - Betrug beim Casting (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t02",
-          "title": "02 - Betrug beim Casting (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t03",
-          "title": "02 - Betrug beim Casting (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t04",
-          "title": "02 - Betrug beim Casting (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t05",
-          "title": "02 - Betrug beim Casting (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t06",
-          "title": "02 - Betrug beim Casting (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t07",
-          "title": "02 - Betrug beim Casting (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t08",
-          "title": "02 - Betrug beim Casting (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t09",
-          "title": "02 - Betrug beim Casting (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t10",
-          "title": "02 - Betrug beim Casting (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t11",
-          "title": "02 - Betrug beim Casting (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t12",
-          "title": "02 - Betrug beim Casting (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t13",
-          "title": "02 - Betrug beim Casting (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t14",
-          "title": "02 - Betrug beim Casting (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t15",
-          "title": "02 - Betrug beim Casting (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t16",
-          "title": "02 - Betrug beim Casting (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t17",
-          "title": "02 - Betrug beim Casting (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t18",
-          "title": "02 - Betrug beim Casting (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t19",
-          "title": "02 - Betrug beim Casting (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t20",
-          "title": "02 - Betrug beim Casting (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t21",
-          "title": "02 - Betrug beim Casting (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t22",
-          "title": "02 - Betrug beim Casting (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t23",
-          "title": "02 - Betrug beim Casting (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t24",
-          "title": "02 - Betrug beim Casting (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t25",
-          "title": "02 - Betrug beim Casting (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t26",
-          "title": "02 - Betrug beim Casting (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t27",
-          "title": "02 - Betrug beim Casting (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t28",
-          "title": "02 - Betrug beim Casting (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t29",
-          "title": "02 - Betrug beim Casting (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t30",
-          "title": "02 - Betrug beim Casting (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t31",
-          "title": "02 - Betrug beim Casting (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t32",
-          "title": "02 - Betrug beim Casting (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t33",
-          "title": "02 - Betrug beim Casting (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t34",
-          "title": "02 - Betrug beim Casting (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t35",
-          "title": "02 - Betrug beim Casting (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t36",
-          "title": "02 - Betrug beim Casting (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t37",
-          "title": "02 - Betrug beim Casting (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t38",
-          "title": "02 - Betrug beim Casting (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t39",
-          "title": "02 - Betrug beim Casting (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092515740-t40",
-          "title": "02 - Betrug beim Casting (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
         }
       ]
     },
@@ -4871,19 +4899,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1092530929"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1209124075",
-      "title": "003/Gefährlicher Chat",
-      "episodeNumber": 3,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/22/1a/84/221a841c-4417-c9e4-f938-148fb3b9d2b7/886446379272.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1209124075"
       },
       "chapters": []
     },
@@ -9332,300 +9347,6 @@
       ]
     },
     {
-      "id": "1092511873",
-      "title": "Folge 4: Gefahr im Fitness-Studio",
-      "episodeNumber": 4,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/dd/30/96/dd30968d-2de0-de43-99b6-82fbca9acb0b/886445747843.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092511873"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092511873-t01",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t02",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t03",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t04",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t05",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t06",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t07",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t08",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t09",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t10",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t11",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t12",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t13",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t14",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t15",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t16",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t17",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t18",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t19",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t20",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t21",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t22",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t23",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t24",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t25",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t26",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t27",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t28",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t29",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t30",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t31",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t32",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t33",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t34",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t35",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t36",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t37",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t38",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t39",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511873-t40",
-          "title": "004 - Gefahr im Fitness-Studio (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
-        }
-      ]
-    },
-    {
       "id": "1092538644",
       "title": "Folge 4: und die schwarze Katze",
       "episodeNumber": 4,
@@ -11721,300 +11442,6 @@
           "index": 39,
           "startTime": 4652.362,
           "duration": 120.147
-        }
-      ]
-    },
-    {
-      "id": "1092511008",
-      "title": "Folge 5: Tatort Paris",
-      "episodeNumber": 5,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2a/a4/01/2aa40111-f8dd-9899-3c41-f47be05704f2/886445747911.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092511008"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092511008-t01",
-          "title": "005 - Tatort Paris (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t02",
-          "title": "005 - Tatort Paris (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t03",
-          "title": "005 - Tatort Paris (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t04",
-          "title": "005 - Tatort Paris (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t05",
-          "title": "005 - Tatort Paris (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t06",
-          "title": "005 - Tatort Paris (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t07",
-          "title": "005 - Tatort Paris (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t08",
-          "title": "005 - Tatort Paris (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t09",
-          "title": "005 - Tatort Paris (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t10",
-          "title": "005 - Tatort Paris (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t11",
-          "title": "005 - Tatort Paris (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t12",
-          "title": "005 - Tatort Paris (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t13",
-          "title": "005 - Tatort Paris (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t14",
-          "title": "005 - Tatort Paris (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t15",
-          "title": "005 - Tatort Paris (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t16",
-          "title": "005 - Tatort Paris (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t17",
-          "title": "005 - Tatort Paris (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t18",
-          "title": "005 - Tatort Paris (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t19",
-          "title": "005 - Tatort Paris (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t20",
-          "title": "005 - Tatort Paris (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t21",
-          "title": "005 - Tatort Paris (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t22",
-          "title": "005 - Tatort Paris (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t23",
-          "title": "005 - Tatort Paris (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t24",
-          "title": "005 - Tatort Paris (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t25",
-          "title": "005 - Tatort Paris (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t26",
-          "title": "005 - Tatort Paris (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t27",
-          "title": "005 - Tatort Paris (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t28",
-          "title": "005 - Tatort Paris (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t29",
-          "title": "005 - Tatort Paris (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t30",
-          "title": "005 - Tatort Paris (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t31",
-          "title": "005 - Tatort Paris (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t32",
-          "title": "005 - Tatort Paris (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t33",
-          "title": "005 - Tatort Paris (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t34",
-          "title": "005 - Tatort Paris (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t35",
-          "title": "005 - Tatort Paris (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t36",
-          "title": "005 - Tatort Paris (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t37",
-          "title": "005 - Tatort Paris (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t38",
-          "title": "005 - Tatort Paris (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t39",
-          "title": "005 - Tatort Paris (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511008-t40",
-          "title": "005 - Tatort Paris (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
         }
       ]
     },
@@ -17903,300 +17330,6 @@
       ]
     },
     {
-      "id": "1092513609",
-      "title": "Folge 8: Vorsicht Strandhaie",
-      "episodeNumber": 8,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4e/5e/27/4e5e27de-a390-f602-5072-ab44a843f85c/886445748192.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092513609"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092513609-t01",
-          "title": "008 - Vorsicht Strandhaie! (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t02",
-          "title": "008 - Vorsicht Strandhaie! (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t03",
-          "title": "008 - Vorsicht Strandhaie! (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t04",
-          "title": "008 - Vorsicht Strandhaie! (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t05",
-          "title": "008 - Vorsicht Strandhaie! (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t06",
-          "title": "008 - Vorsicht Strandhaie! (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t07",
-          "title": "008 - Vorsicht Strandhaie! (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t08",
-          "title": "008 - Vorsicht Strandhaie! (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t09",
-          "title": "008 - Vorsicht Strandhaie! (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t10",
-          "title": "008 - Vorsicht Strandhaie! (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t11",
-          "title": "008 - Vorsicht Strandhaie! (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t12",
-          "title": "008 - Vorsicht Strandhaie! (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t13",
-          "title": "008 - Vorsicht Strandhaie! (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t14",
-          "title": "008 - Vorsicht Strandhaie! (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t15",
-          "title": "008 - Vorsicht Strandhaie! (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t16",
-          "title": "008 - Vorsicht Strandhaie! (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t17",
-          "title": "008 - Vorsicht Strandhaie! (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t18",
-          "title": "008 - Vorsicht Strandhaie! (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t19",
-          "title": "008 - Vorsicht Strandhaie! (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t20",
-          "title": "008 - Vorsicht Strandhaie! (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t21",
-          "title": "008 - Vorsicht Strandhaie! (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t22",
-          "title": "008 - Vorsicht Strandhaie! (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t23",
-          "title": "008 - Vorsicht Strandhaie! (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t24",
-          "title": "008 - Vorsicht Strandhaie! (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t25",
-          "title": "008 - Vorsicht Strandhaie! (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t26",
-          "title": "008 - Vorsicht Strandhaie! (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t27",
-          "title": "008 - Vorsicht Strandhaie! (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t28",
-          "title": "008 - Vorsicht Strandhaie! (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t29",
-          "title": "008 - Vorsicht Strandhaie! (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t30",
-          "title": "008 - Vorsicht Strandhaie! (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t31",
-          "title": "008 - Vorsicht Strandhaie! (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t32",
-          "title": "008 - Vorsicht Strandhaie! (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t33",
-          "title": "008 - Vorsicht Strandhaie! (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t34",
-          "title": "008 - Vorsicht Strandhaie! (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t35",
-          "title": "008 - Vorsicht Strandhaie! (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t36",
-          "title": "008 - Vorsicht Strandhaie! (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t37",
-          "title": "008 - Vorsicht Strandhaie! (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t38",
-          "title": "008 - Vorsicht Strandhaie! (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t39",
-          "title": "008 - Vorsicht Strandhaie! (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513609-t40",
-          "title": "008 - Vorsicht Strandhaie! (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
-        }
-      ]
-    },
-    {
       "id": "1092538504",
       "title": "Folge 8: und der grüne Geist",
       "episodeNumber": 8,
@@ -22604,300 +21737,6 @@
       ]
     },
     {
-      "id": "1092514591",
-      "title": "Folge 11: Kuss-Alarm!",
-      "episodeNumber": 11,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/0f/2a/7c/0f2a7c92-4aa3-33a9-bf4b-c4088b9f86ba/886445749564.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092514591"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092514591-t01",
-          "title": "011 - Kuss-Alarm! (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t02",
-          "title": "011 - Kuss-Alarm! (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t03",
-          "title": "011 - Kuss-Alarm! (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t04",
-          "title": "011 - Kuss-Alarm! (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t05",
-          "title": "011 - Kuss-Alarm! (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t06",
-          "title": "011 - Kuss-Alarm! (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t07",
-          "title": "011 - Kuss-Alarm! (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t08",
-          "title": "011 - Kuss-Alarm! (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t09",
-          "title": "011 - Kuss-Alarm! (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t10",
-          "title": "011 - Kuss-Alarm! (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t11",
-          "title": "011 - Kuss-Alarm! (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t12",
-          "title": "011 - Kuss-Alarm! (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t13",
-          "title": "011 - Kuss-Alarm! (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t14",
-          "title": "011 - Kuss-Alarm! (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t15",
-          "title": "011 - Kuss-Alarm! (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t16",
-          "title": "011 - Kuss-Alarm! (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t17",
-          "title": "011 - Kuss-Alarm! (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t18",
-          "title": "011 - Kuss-Alarm! (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t19",
-          "title": "011 - Kuss-Alarm! (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t20",
-          "title": "011 - Kuss-Alarm! (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t21",
-          "title": "011 - Kuss-Alarm! (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t22",
-          "title": "011 - Kuss-Alarm! (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t23",
-          "title": "011 - Kuss-Alarm! (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t24",
-          "title": "011 - Kuss-Alarm! (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t25",
-          "title": "011 - Kuss-Alarm! (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t26",
-          "title": "011 - Kuss-Alarm! (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t27",
-          "title": "011 - Kuss-Alarm! (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t28",
-          "title": "011 - Kuss-Alarm! (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t29",
-          "title": "011 - Kuss-Alarm! (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t30",
-          "title": "011 - Kuss-Alarm! (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t31",
-          "title": "011 - Kuss-Alarm! (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t32",
-          "title": "011 - Kuss-Alarm! (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t33",
-          "title": "011 - Kuss-Alarm! (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t34",
-          "title": "011 - Kuss-Alarm! (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t35",
-          "title": "011 - Kuss-Alarm! (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t36",
-          "title": "011 - Kuss-Alarm! (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t37",
-          "title": "011 - Kuss-Alarm! (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t38",
-          "title": "011 - Kuss-Alarm! (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t39",
-          "title": "011 - Kuss-Alarm! (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092514591-t40",
-          "title": "011 - Kuss-Alarm! (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
-        }
-      ]
-    },
-    {
       "id": "1092535180",
       "title": "Folge 11: und das Gespensterschloss",
       "episodeNumber": 11,
@@ -26792,300 +25631,6 @@
       ]
     },
     {
-      "id": "1092511006",
-      "title": "Folge 16: Total verknallt!",
-      "episodeNumber": 16,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/49/90/89/49908945-cfef-64c5-e8ac-ed3c6fa21fd1/886445750362.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092511006"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092511006-t01",
-          "title": "016 - Total verknallt! (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t02",
-          "title": "016 - Total verknallt! (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t03",
-          "title": "016 - Total verknallt! (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t04",
-          "title": "016 - Total verknallt! (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t05",
-          "title": "016 - Total verknallt! (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t06",
-          "title": "016 - Total verknallt! (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t07",
-          "title": "016 - Total verknallt! (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t08",
-          "title": "016 - Total verknallt! (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t09",
-          "title": "016 - Total verknallt! (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t10",
-          "title": "016 - Total verknallt! (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t11",
-          "title": "016 - Total verknallt! (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t12",
-          "title": "016 - Total verknallt! (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t13",
-          "title": "016 - Total verknallt! (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t14",
-          "title": "016 - Total verknallt! (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t15",
-          "title": "016 - Total verknallt! (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t16",
-          "title": "016 - Total verknallt! (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t17",
-          "title": "016 - Total verknallt! (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t18",
-          "title": "016 - Total verknallt! (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t19",
-          "title": "016 - Total verknallt! (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t20",
-          "title": "016 - Total verknallt! (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t21",
-          "title": "016 - Total verknallt! (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t22",
-          "title": "016 - Total verknallt! (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t23",
-          "title": "016 - Total verknallt! (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t24",
-          "title": "016 - Total verknallt! (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t25",
-          "title": "016 - Total verknallt! (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t26",
-          "title": "016 - Total verknallt! (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t27",
-          "title": "016 - Total verknallt! (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t28",
-          "title": "016 - Total verknallt! (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t29",
-          "title": "016 - Total verknallt! (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t30",
-          "title": "016 - Total verknallt! (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t31",
-          "title": "016 - Total verknallt! (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t32",
-          "title": "016 - Total verknallt! (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t33",
-          "title": "016 - Total verknallt! (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t34",
-          "title": "016 - Total verknallt! (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t35",
-          "title": "016 - Total verknallt! (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t36",
-          "title": "016 - Total verknallt! (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t37",
-          "title": "016 - Total verknallt! (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t38",
-          "title": "016 - Total verknallt! (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t39",
-          "title": "016 - Total verknallt! (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092511006-t40",
-          "title": "016 - Total verknallt! (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
-        }
-      ]
-    },
-    {
       "id": "1092539968",
       "title": "Folge 16: und der Zauberspiegel",
       "episodeNumber": 16,
@@ -28228,300 +26773,6 @@
           "index": 39,
           "startTime": 4527.427,
           "duration": 114.373
-        }
-      ]
-    },
-    {
-      "id": "1092517089",
-      "title": "Folge 18: VIP-Alarm",
-      "episodeNumber": 18,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/69/73/1c/69731ceb-f5e3-4ac7-7fd3-7bb0ce8ec0bc/886445750485.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092517089"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092517089-t01",
-          "title": "018 - VIP-Alarm (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t02",
-          "title": "018 - VIP-Alarm (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t03",
-          "title": "018 - VIP-Alarm (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t04",
-          "title": "018 - VIP-Alarm (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t05",
-          "title": "018 - VIP-Alarm (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t06",
-          "title": "018 - VIP-Alarm (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t07",
-          "title": "018 - VIP-Alarm (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t08",
-          "title": "018 - VIP-Alarm (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t09",
-          "title": "018 - VIP-Alarm (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t10",
-          "title": "018 - VIP-Alarm (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t11",
-          "title": "018 - VIP-Alarm (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t12",
-          "title": "018 - VIP-Alarm (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t13",
-          "title": "018 - VIP-Alarm (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t14",
-          "title": "018 - VIP-Alarm (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t15",
-          "title": "018 - VIP-Alarm (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t16",
-          "title": "018 - VIP-Alarm (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t17",
-          "title": "018 - VIP-Alarm (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t18",
-          "title": "018 - VIP-Alarm (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t19",
-          "title": "018 - VIP-Alarm (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t20",
-          "title": "018 - VIP-Alarm (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t21",
-          "title": "018 - VIP-Alarm (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t22",
-          "title": "018 - VIP-Alarm (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t23",
-          "title": "018 - VIP-Alarm (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t24",
-          "title": "018 - VIP-Alarm (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t25",
-          "title": "018 - VIP-Alarm (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t26",
-          "title": "018 - VIP-Alarm (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t27",
-          "title": "018 - VIP-Alarm (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t28",
-          "title": "018 - VIP-Alarm (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t29",
-          "title": "018 - VIP-Alarm (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t30",
-          "title": "018 - VIP-Alarm (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t31",
-          "title": "018 - VIP-Alarm (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t32",
-          "title": "018 - VIP-Alarm (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t33",
-          "title": "018 - VIP-Alarm (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t34",
-          "title": "018 - VIP-Alarm (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t35",
-          "title": "018 - VIP-Alarm (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t36",
-          "title": "018 - VIP-Alarm (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t37",
-          "title": "018 - VIP-Alarm (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t38",
-          "title": "018 - VIP-Alarm (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t39",
-          "title": "018 - VIP-Alarm (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092517089-t40",
-          "title": "018 - VIP-Alarm (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
         }
       ]
     },
@@ -30648,19 +28899,6 @@
       "chapters": []
     },
     {
-      "id": "1112964895",
-      "title": "Folge 24: Fußballstar in Gefahr",
-      "episodeNumber": 24,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/9b/6f/14/9b6f14c4-409e-5b8b-4fb6-e2aba6a17abb/886445753295.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1112964895"
-      },
-      "chapters": []
-    },
-    {
       "id": "1092521032",
       "title": "Folge 24: Im Bann des Zauberers",
       "episodeNumber": 24,
@@ -30964,19 +29202,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1092541991"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1112964533",
-      "title": "Folge 25: Herzklopfen!",
-      "episodeNumber": 25,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/6c/6c/b4/6c6cb477-5b2d-e7e7-c7c9-cc9254e04e99/886445753349.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1112964533"
       },
       "chapters": []
     },
@@ -31902,19 +30127,6 @@
       "chapters": []
     },
     {
-      "id": "1112989398",
-      "title": "Folge 28: Achtung, Promihochzeit!",
-      "episodeNumber": 28,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/b9/fb/9c/b9fb9ce8-a401-0948-e1f7-969765592f0d/886445753691.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1112989398"
-      },
-      "chapters": []
-    },
-    {
       "id": "1110089816",
       "title": "Folge 28: Diamantenjagd",
       "episodeNumber": 28,
@@ -32819,19 +31031,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1092537830"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1115102919",
-      "title": "Folge 31: Betrug in den Charts",
-      "episodeNumber": 31,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/8f/a3/f2/8fa3f28f-57b2-0da3-a943-b56cdfe11009/886445753783.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1115102919"
       },
       "chapters": []
     },
@@ -35586,19 +33785,6 @@
       ]
     },
     {
-      "id": "1161315130",
-      "title": "Folge 39: Verliebte Weihnachten",
-      "episodeNumber": 39,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/10/bf/4c/10bf4cb5-d594-8d27-cf6b-9fad551a7bea/886445756159.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1161315130"
-      },
-      "chapters": []
-    },
-    {
       "id": "1092538232",
       "title": "Folge 39: und die Perlenvögel",
       "episodeNumber": 39,
@@ -35915,19 +34101,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1092531916"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1134915390",
-      "title": "Folge 41: Im Bann des Flamenco",
-      "episodeNumber": 41,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/fa/9b/c9/fa9bc979-6735-5477-b8dd-4826be6b81b5/886445756241.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1134915390"
       },
       "chapters": []
     },
@@ -36840,19 +35013,6 @@
       ]
     },
     {
-      "id": "1106818024",
-      "title": "Folge 43: Nixensommer",
-      "episodeNumber": 43,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/13/20/76/13207638-fb82-e4aa-2c5d-541a035f0272/886445362855.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1106818024"
-      },
-      "chapters": []
-    },
-    {
       "id": "1092501646",
       "title": "Folge 43: und der höllische Werwolf",
       "episodeNumber": 43,
@@ -37158,19 +35318,6 @@
           "duration": 108.56
         }
       ]
-    },
-    {
-      "id": "1108470195",
-      "title": "Folge 44: Skandal im Café Lomo!",
-      "episodeNumber": 44,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/bc/30/f8/bc30f8ae-93c5-3499-9183-90db43a7e0c5/886445362862.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1108470195"
-      },
-      "chapters": []
     },
     {
       "id": "1092532671",
@@ -37489,19 +35636,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1092504628"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1149031659",
-      "title": "Folge 46: Filmstar in Gefahr",
-      "episodeNumber": 46,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/f6/7e/67/f67e6788-25c7-e63a-865e-d2cbf2b5e49f/886445362886.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1149031659"
       },
       "chapters": []
     },
@@ -38105,19 +36239,6 @@
           "duration": 92.96
         }
       ]
-    },
-    {
-      "id": "1176632394",
-      "title": "Folge 47: Unter Verdacht",
-      "episodeNumber": 47,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/46/ac/f5/46acf503-3534-7205-db3f-7a417a638a9b/886445992373.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1176632394"
-      },
-      "chapters": []
     },
     {
       "id": "1092503309",
@@ -38743,19 +36864,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1092503380"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1233618766",
-      "title": "Folge 50: Freundinnen in Gefahr",
-      "episodeNumber": 50,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e0/8c/00/e08c0034-1a68-98f3-09f7-d935942697cf/886445992403.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1233618766"
       },
       "chapters": []
     },
@@ -40269,19 +38377,6 @@
       ]
     },
     {
-      "id": "1321929707",
-      "title": "Folge 53: Hochzeitsfieber",
-      "episodeNumber": 53,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/28/81/2c/28812c0c-2854-9b1a-9ff1-45443f9ec1de/886446606835.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1321929707"
-      },
-      "chapters": []
-    },
-    {
       "id": "1110316053",
       "title": "Folge 53: und die Automafia",
       "episodeNumber": 53,
@@ -40291,19 +38386,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1110316053"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1338791860",
-      "title": "Folge 54: Klappe und Action!",
-      "episodeNumber": 54,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f3/d9/f7/f3d9f745-eb46-3477-d7c3-4e05d3ea402b/886446957296.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1338791860"
       },
       "chapters": []
     },
@@ -41497,32 +39579,6 @@
       ]
     },
     {
-      "id": "1406273103",
-      "title": "Folge 57: Tatort Kreuzfahrt",
-      "episodeNumber": 57,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e2/2f/45/e22f45fa-dfae-7d52-e115-d8544c920d17/886446606873.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1406273103"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1436947816",
-      "title": "Folge 58: Gorilla in Not",
-      "episodeNumber": 58,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e4/ad/2e/e4ad2ee9-3038-436d-b328-7f879dd06d01/886446606880.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1436947816"
-      },
-      "chapters": []
-    },
-    {
       "id": "1207844655",
       "title": "Folge 58: Spur des Drachen",
       "episodeNumber": 58,
@@ -41826,19 +39882,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1110322633"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1441756765",
-      "title": "Folge 59: Das geheime Parfüm",
-      "episodeNumber": 59,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ac/54/ec/ac54ec84-40e6-5cbe-6276-f092da90d386/886447191651.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1441756765"
       },
       "chapters": []
     },
@@ -42457,19 +40500,6 @@
       ]
     },
     {
-      "id": "1449570810",
-      "title": "Folge 60: Liebes-Chaos",
-      "episodeNumber": 60,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/22/30/e0/2230e094-5060-b380-6dba-185129bdf6e8/886447191668.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1449570810"
-      },
-      "chapters": []
-    },
-    {
       "id": "1281905742",
       "title": "Folge 61: Alarm im Dino-Park",
       "episodeNumber": 61,
@@ -42762,19 +40792,6 @@
           "duration": 68.627
         }
       ]
-    },
-    {
-      "id": "1458535435",
-      "title": "Folge 61: Der Fall Dornröschen",
-      "episodeNumber": 61,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/02/f6/60/02f66090-64af-fb33-70b8-a54bd33a00c8/886447660485.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1458535435"
-      },
-      "chapters": []
     },
     {
       "id": "1110773048",
@@ -43459,19 +41476,6 @@
           "duration": 77.2
         }
       ]
-    },
-    {
-      "id": "1479540897",
-      "title": "Folge 64: Der Graffiti-Code",
-      "episodeNumber": 64,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ef/63/a6/ef63a682-5da5-97c4-7e79-c7999694d669/886447191712.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1479540897"
-      },
-      "chapters": []
     },
     {
       "id": "1110774478",
@@ -44382,19 +42386,6 @@
       ]
     },
     {
-      "id": "1494908548",
-      "title": "Folge 66: Tanz der Herzen",
-      "episodeNumber": 66,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/21/54/be215429-4877-f5c1-a8ed-133eaa8c8d48/886447878583.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1494908548"
-      },
-      "chapters": []
-    },
-    {
       "id": "1110777991",
       "title": "Folge 66: und die Schattenmänner",
       "episodeNumber": 66,
@@ -45007,19 +42998,6 @@
           "duration": 92.12
         }
       ]
-    },
-    {
-      "id": "1511708365",
-      "title": "Folge 68: Gefahr im Netz",
-      "episodeNumber": 68,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/73/14/70/731470fb-1b3e-cc5f-243c-223f1e8e6778/886447878606.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1511708365"
-      },
-      "chapters": []
     },
     {
       "id": "1110779156",
@@ -45648,19 +43626,6 @@
           "duration": 95.44
         }
       ]
-    },
-    {
-      "id": "1530155559",
-      "title": "Folge 70: Gefährliches Spiel",
-      "episodeNumber": 70,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/b9/fa/30b9fa07-6b73-5c5c-4729-354a3f624944/886447878620.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1530155559"
-      },
-      "chapters": []
     },
     {
       "id": "1110781480",
@@ -46303,19 +44268,6 @@
           "duration": 97.56
         }
       ]
-    },
-    {
-      "id": "1549187633",
-      "title": "Folge 72: Kuss der Meerjungfrau",
-      "episodeNumber": 72,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/99/93/f9999375-0459-02ed-312b-abe2ecc26cc9/886448727347.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1549187633"
-      },
-      "chapters": []
     },
     {
       "id": "1112954575",
@@ -47281,32 +45233,6 @@
       "chapters": []
     },
     {
-      "id": "1576327154",
-      "title": "Folge 75: Tatort Hollywood",
-      "episodeNumber": 75,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/68/f2/4a68f26c-496b-72ee-680b-77507d3f38e0/886448727378.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1576327154"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1586835042",
-      "title": "Folge 76: #Falscher Ruhm",
-      "episodeNumber": 76,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/b1/43/a0b1435c-08b9-a4bd-b690-82151792cd31/886448727392.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1586835042"
-      },
-      "chapters": []
-    },
-    {
       "id": "1501322284",
       "title": "Folge 76: Blinde Passagiere",
       "episodeNumber": 76,
@@ -47945,19 +45871,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1112957080"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1606727638",
-      "title": "Folge 78: Das Bienengeheimnis",
-      "episodeNumber": 78,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/d5/36/54d5361a-d2f5-026e-a245-b9784008f203/886449639458.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1606727638"
       },
       "chapters": []
     },
@@ -49801,19 +47714,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1112967082"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1576834649",
-      "title": "Folge 84: Tatort Skater-Park",
-      "episodeNumber": 84,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/f8/7a/64f87a43-f6fe-9409-e385-0d2672417932/886448759546.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1576834649"
       },
       "chapters": []
     },
@@ -73898,19 +71798,6 @@
       ]
     },
     {
-      "id": "1588738563",
-      "title": "Adventskalender/Die Marzipan-Mission",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d3/3e/c3/d33ec34e-4a1e-ed5d-15bb-df16150eb487/886449601400.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1588738563"
-      },
-      "chapters": []
-    },
-    {
       "id": "1477454609",
       "title": "Adventskalender: 24 Tage im Weihnachtszirkus",
       "episodeNumber": null,
@@ -75393,19 +73280,6 @@
       ]
     },
     {
-      "id": "1470370696",
-      "title": "Das original Hörspiel zum Kinofilm",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/28/03/30/28033005-056d-c4f2-baff-2fdc09995530/886447778654.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1470370696"
-      },
-      "chapters": []
-    },
-    {
       "id": "1529420801",
       "title": "Die drei ??? Adventskalender - O du finstere",
       "episodeNumber": null,
@@ -76130,326 +74004,6 @@
           "index": 49,
           "startTime": 4487.603,
           "duration": 92.533
-        }
-      ]
-    },
-    {
-      "id": "1165478141",
-      "title": "Eisprinzessin in Not",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/56/5d/a6565dc5-8371-b3c8-18ff-d1c41622e2fd/886446100623.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1165478141"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1683339747",
-      "title": "Erbe des Drachen  (Das Original-Hörspiel zum Kinofilm)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/09/9b/70099b66-8817-80ce-995a-caa84c9fd8a0/196871061575.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1683339747"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1092513350",
-      "title": "Folge 17: Gefährliche Fracht",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/2a/50/65/2a5065d8-7b57-27a4-9bac-2c5ffb2178b5/886445750430.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1092513350"
-      },
-      "chapters": [
-        {
-          "id": "die-drei-1092513350-t01",
-          "title": "017 - Gefährliche Fracht (Teil 01)",
-          "index": 0,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t02",
-          "title": "017 - Gefährliche Fracht (Teil 02)",
-          "index": 1,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t03",
-          "title": "017 - Gefährliche Fracht (Teil 03)",
-          "index": 2,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t04",
-          "title": "017 - Gefährliche Fracht (Teil 04)",
-          "index": 3,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t05",
-          "title": "017 - Gefährliche Fracht (Teil 05)",
-          "index": 4,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t06",
-          "title": "017 - Gefährliche Fracht (Teil 06)",
-          "index": 5,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t07",
-          "title": "017 - Gefährliche Fracht (Teil 07)",
-          "index": 6,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t08",
-          "title": "017 - Gefährliche Fracht (Teil 08)",
-          "index": 7,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t09",
-          "title": "017 - Gefährliche Fracht (Teil 09)",
-          "index": 8,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t10",
-          "title": "017 - Gefährliche Fracht (Teil 10)",
-          "index": 9,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t11",
-          "title": "017 - Gefährliche Fracht (Teil 11)",
-          "index": 10,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t12",
-          "title": "017 - Gefährliche Fracht (Teil 12)",
-          "index": 11,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t13",
-          "title": "017 - Gefährliche Fracht (Teil 13)",
-          "index": 12,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t14",
-          "title": "017 - Gefährliche Fracht (Teil 14)",
-          "index": 13,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t15",
-          "title": "017 - Gefährliche Fracht (Teil 15)",
-          "index": 14,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t16",
-          "title": "017 - Gefährliche Fracht (Teil 16)",
-          "index": 15,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t17",
-          "title": "017 - Gefährliche Fracht (Teil 17)",
-          "index": 16,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t18",
-          "title": "017 - Gefährliche Fracht (Teil 18)",
-          "index": 17,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t19",
-          "title": "017 - Gefährliche Fracht (Teil 19)",
-          "index": 18,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t20",
-          "title": "017 - Gefährliche Fracht (Teil 20)",
-          "index": 19,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t21",
-          "title": "017 - Gefährliche Fracht (Teil 21)",
-          "index": 20,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t22",
-          "title": "017 - Gefährliche Fracht (Teil 22)",
-          "index": 21,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t23",
-          "title": "017 - Gefährliche Fracht (Teil 23)",
-          "index": 22,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t24",
-          "title": "017 - Gefährliche Fracht (Teil 24)",
-          "index": 23,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t25",
-          "title": "017 - Gefährliche Fracht (Teil 25)",
-          "index": 24,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t26",
-          "title": "017 - Gefährliche Fracht (Teil 26)",
-          "index": 25,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t27",
-          "title": "017 - Gefährliche Fracht (Teil 27)",
-          "index": 26,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t28",
-          "title": "017 - Gefährliche Fracht (Teil 28)",
-          "index": 27,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t29",
-          "title": "017 - Gefährliche Fracht (Teil 29)",
-          "index": 28,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t30",
-          "title": "017 - Gefährliche Fracht (Teil 30)",
-          "index": 29,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t31",
-          "title": "017 - Gefährliche Fracht (Teil 31)",
-          "index": 30,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t32",
-          "title": "017 - Gefährliche Fracht (Teil 32)",
-          "index": 31,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t33",
-          "title": "017 - Gefährliche Fracht (Teil 33)",
-          "index": 32,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t34",
-          "title": "017 - Gefährliche Fracht (Teil 34)",
-          "index": 33,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t35",
-          "title": "017 - Gefährliche Fracht (Teil 35)",
-          "index": 34,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t36",
-          "title": "017 - Gefährliche Fracht (Teil 36)",
-          "index": 35,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t37",
-          "title": "017 - Gefährliche Fracht (Teil 37)",
-          "index": 36,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t38",
-          "title": "017 - Gefährliche Fracht (Teil 38)",
-          "index": 37,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t39",
-          "title": "017 - Gefährliche Fracht (Teil 39)",
-          "index": 38,
-          "startTime": 0,
-          "duration": 0
-        },
-        {
-          "id": "die-drei-1092513350-t40",
-          "title": "017 - Gefährliche Fracht (Teil 40)",
-          "index": 39,
-          "startTime": 0,
-          "duration": 0
         }
       ]
     },
@@ -78040,19 +75594,6 @@
           "duration": 210.733
         }
       ]
-    },
-    {
-      "id": "1862726248",
-      "title": "Toteninsel (Das Original-Hörspiel zum Kinofilm)",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/ff/46/42ff46be-754f-e8bf-c22e-c8a96a2978a3/196873625119.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1862726248"
-      },
-      "chapters": []
     },
     {
       "id": "1092548111",
@@ -79940,5 +77481,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.702583+00:00"
+  "franchise": "Die drei ??? Universum",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.509724+00:00"
 }

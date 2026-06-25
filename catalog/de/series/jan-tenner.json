@@ -4,36 +4,9 @@
   "language": "de",
   "author": "Jan Tenner",
   "narrator": "",
-  "genres": [
-    "Hörspiele"
-  ],
-  "albums": [
-    {
-      "id": "1480729345",
-      "title": "Der neue Superheld - Folge 3: Das Hirn des Bösen",
-      "episodeNumber": 3,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b0/54/5eb05458-4924-4372-e886-45205519a86f/190295345563.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1480729345"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1596941953",
-      "title": "Folge 59: Jan Tenner - Der neue Superheld 3 - Das Hirn des Bösen",
-      "episodeNumber": 59,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/09/39/d909395b-a537-23be-2637-d2da2aa97385/cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1596941953"
-      },
-      "chapters": []
-    }
-  ],
-  "updatedAt": "2026-06-24T20:01:30.791989+00:00"
+  "genres": [],
+  "albums": [],
+  "franchise": "Jan Tenner",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.599592+00:00"
 }

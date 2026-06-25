@@ -1,5 +1,5 @@
 {
-  "seriesId": "torsten-str-ter",
+  "seriesId": "torsten-straeter",
   "title": "Torsten Sträter",
   "language": "de",
   "author": "Torsten Sträter",
@@ -472,5 +472,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.172273+00:00"
+  "franchise": "Torsten Sträter",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.994820+00:00"
 }

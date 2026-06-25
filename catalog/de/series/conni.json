@@ -5,8 +5,8 @@
   "author": "Conni",
   "narrator": "",
   "genres": [
-    "Kinder & Jugend",
-    "Hörspiel"
+    "Hörspiel",
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -23422,19 +23422,6 @@
       ]
     },
     {
-      "id": "1486591218",
-      "title": "Jakob feiert Weihnachten (Jakob, der kleine Bruder von Conni) - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/b5/11/58b51150-1aae-5309-5d85-c3408cce69c6/4064066042356_cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1486591218"
-      },
-      "chapters": []
-    },
-    {
       "id": "1483056218",
       "title": "Jakob geht zur Kinderärztin / Jakob kann das schon alleine / Jakob und sein Töpfchen / Jakob, Haare waschen / Jakob ist wütend / Jakob, der kleine Bruder von Conni",
       "episodeNumber": null,
@@ -23444,19 +23431,6 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1483056218"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1486591498",
-      "title": "Jakob und der Osterhase (Jakob, der kleine Bruder von Conni) - Single",
-      "episodeNumber": null,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/89/9b/90899bd4-81a4-b92e-a9db-729f9ec6c36d/4064066042349_cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1486591498"
       },
       "chapters": []
     },
@@ -23635,5 +23609,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.179203+00:00"
+  "franchise": "Conni Universum",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.001023+00:00"
 }

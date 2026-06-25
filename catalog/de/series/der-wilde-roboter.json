@@ -5,7 +5,7 @@
   "author": "Der wilde Roboter",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.680538+00:00"
+  "franchise": "Der wilde Roboter",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.490802+00:00"
 }

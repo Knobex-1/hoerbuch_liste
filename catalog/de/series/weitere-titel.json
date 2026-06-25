@@ -5,9 +5,9 @@
   "author": "Felix Manteuffel",
   "narrator": "",
   "genres": [
-    "Krimi",
+    "Detektiv",
     "Hörspiel",
-    "Detektiv"
+    "Krimi"
   ],
   "albums": [
     {
@@ -50964,5 +50964,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.389939+00:00"
+  "franchise": "Weitere Titel",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.194062+00:00"
 }

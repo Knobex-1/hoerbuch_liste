@@ -5,7 +5,7 @@
   "author": "Hanni und Nanni",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -35,5 +35,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.790146+00:00"
+  "franchise": "Hanni und Nanni",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.597627+00:00"
 }

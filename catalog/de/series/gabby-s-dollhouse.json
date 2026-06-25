@@ -5,7 +5,7 @@
   "author": "Gabby's Dollhouse",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.789900+00:00"
+  "franchise": "Gabby's Dollhouse",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.597316+00:00"
 }

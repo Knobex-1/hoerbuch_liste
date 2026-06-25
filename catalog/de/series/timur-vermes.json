@@ -5,7 +5,7 @@
   "author": "Timur Vermes",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -303,5 +303,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.797916+00:00"
+  "franchise": "Timur Vermes",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.606797+00:00"
 }

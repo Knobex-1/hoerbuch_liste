@@ -1,13 +1,11 @@
 {
-  "seriesId": "spidey-h-rspiel",
+  "seriesId": "spidey-hoerspiel",
   "title": "Spidey Hörspiel",
   "language": "de",
-  "author": "Spidey Hörspiel",
+  "author": "Spidey",
   "narrator": "",
   "genres": [
-    "Kinder & Jugend",
-    "Hörspiel",
-    "Superhelden"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -809,5 +807,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.171223+00:00"
+  "franchise": "Spidey Hörspiel",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.993790+00:00"
 }

@@ -5,7 +5,7 @@
   "author": "Der Gestiefelte Kater",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -35,5 +35,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.680181+00:00"
+  "franchise": "Der Gestiefelte Kater",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.490314+00:00"
 }

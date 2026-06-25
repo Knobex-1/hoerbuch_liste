@@ -1,0 +1,28 @@
+{
+  "seriesId": "neue-welten-midnight-tales",
+  "title": "Midnight Tales",
+  "language": "de",
+  "author": "Midnight Tales",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1685292531",
+      "title": "Folge 27: Tote neue Welt 3",
+      "episodeNumber": 27,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/a6/8d/6ba68dfc-2348-d7dd-09bb-040fb3217a2e/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685292531"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Neue Welten",
+  "subSeriesOf": "neue-welten",
+  "updatedAt": "2026-06-25T17:04:36.602876+00:00"
+}

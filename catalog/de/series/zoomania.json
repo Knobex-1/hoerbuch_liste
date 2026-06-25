@@ -5,9 +5,9 @@
   "author": "Zoomania",
   "narrator": "",
   "genres": [
+    "Comedy",
     "Hörspiel",
-    "Kinder & Jugend",
-    "Comedy"
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -928,5 +928,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.140803+00:00"
+  "franchise": "Zoomania",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.964377+00:00"
 }

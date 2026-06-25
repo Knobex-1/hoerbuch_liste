@@ -5,9 +5,9 @@
   "author": "Robin Hood - Schlitzohr von Sherwood",
   "narrator": "",
   "genres": [
+    "Abenteuer",
     "Hörspiel",
-    "Kinder & Jugend",
-    "Abenteuer"
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -6178,5 +6178,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.297963+00:00"
+  "franchise": "Robin Hood - Schlitzohr von Sherwood",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.106510+00:00"
 }

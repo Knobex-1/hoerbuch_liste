@@ -5,10 +5,10 @@
   "author": "Elfie Donnelly",
   "narrator": "",
   "genres": [
-    "Kinder & Jugend",
-    "Hörspiel",
+    "Abenteuer",
     "Fantasy",
-    "Abenteuer"
+    "Hörspiel",
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -4504,6 +4504,19 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1143587005"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1143574382",
+      "title": "Folge 82: Hexspruch mit Folgen",
+      "episodeNumber": 82,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/63/65/68/6365685e-632b-37e4-3bbf-9c948b6ee1e1/190295916206.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1143574382"
       },
       "chapters": []
     },
@@ -24434,5 +24447,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.898176+00:00"
+  "franchise": "Bibi Blocksberg",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.704098+00:00"
 }

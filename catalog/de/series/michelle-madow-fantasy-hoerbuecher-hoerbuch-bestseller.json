@@ -1,12 +1,12 @@
 {
-  "seriesId": "michelle-madow-fantasy-h-rb-cher-h-rbuch-bestseller",
+  "seriesId": "michelle-madow-fantasy-hoerbuecher-hoerbuch-bestseller",
   "title": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
   "language": "de",
   "author": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
   "narrator": "",
   "genres": [
-    "Fantasy",
     "Abenteuer",
+    "Fantasy",
     "Hörspiel"
   ],
   "albums": [
@@ -89,5 +89,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.328419+00:00"
+  "franchise": "Michelle Madow, Fantasy Hörbücher & Hörbuch Bestseller",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.137715+00:00"
 }

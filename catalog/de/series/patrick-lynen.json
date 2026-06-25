@@ -5,10 +5,10 @@
   "author": "Patrick Lynen",
   "narrator": "",
   "genres": [
-    "Hörspiel",
-    "Kinder & Jugend",
+    "Entspannung",
     "Fantasy",
-    "Entspannung"
+    "Hörspiel",
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -691,5 +691,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.326296+00:00"
+  "franchise": "Patrick Lynen",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.135996+00:00"
 }

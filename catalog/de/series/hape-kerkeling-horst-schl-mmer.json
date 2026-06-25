@@ -5,7 +5,7 @@
   "author": "Hape Kerkeling & Horst Schlämmer",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -22,5 +22,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.790274+00:00"
+  "franchise": "Hape Kerkeling & Horst Schlämmer",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.597772+00:00"
 }

@@ -1,0 +1,28 @@
+{
+  "seriesId": "pets-die-muppets",
+  "title": "Die Muppets",
+  "language": "de",
+  "author": "Die Muppets",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1685996277",
+      "title": "Muppets Most Wanted (Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/5a/65/615a6577-3256-3b90-2549-f7db3b3de8e7/4066339483217.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1685996277"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Pets",
+  "subSeriesOf": "pets",
+  "updatedAt": "2026-06-25T17:04:36.604273+00:00"
+}

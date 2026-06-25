@@ -5,7 +5,7 @@
   "author": "Der König der Löwen",
   "narrator": "",
   "genres": [
-    "Hörspiele"
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -35,5 +35,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.680309+00:00"
+  "franchise": "Der König der Löwen",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.490536+00:00"
 }

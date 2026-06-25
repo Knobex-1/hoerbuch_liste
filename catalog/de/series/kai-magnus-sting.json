@@ -5,8 +5,8 @@
   "author": "Kai Magnus Sting",
   "narrator": "",
   "genres": [
-    "Hörspiel",
-    "Comedy"
+    "Comedy",
+    "Hörspiel"
   ],
   "albums": [
     {
@@ -12806,5 +12806,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.332005+00:00"
+  "franchise": "Kai Magnus Sting",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.141156+00:00"
 }

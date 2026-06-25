@@ -1,0 +1,28 @@
+{
+  "seriesId": "jan-tenner-jan-tenner",
+  "title": "Jan Tenner",
+  "language": "de",
+  "author": "Jan Tenner",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1480729345",
+      "title": "Der neue Superheld - Folge 3: Das Hirn des Bösen",
+      "episodeNumber": 3,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b0/54/5eb05458-4924-4372-e886-45205519a86f/190295345563.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1480729345"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Jan Tenner",
+  "subSeriesOf": "jan-tenner",
+  "updatedAt": "2026-06-25T17:04:36.599807+00:00"
+}

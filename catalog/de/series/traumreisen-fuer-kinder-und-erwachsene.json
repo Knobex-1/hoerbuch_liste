@@ -1,13 +1,13 @@
 {
-  "seriesId": "traumreisen-f-r-kinder-und-erwachsene",
+  "seriesId": "traumreisen-fuer-kinder-und-erwachsene",
   "title": "Traumreisen für Kinder und Erwachsene",
   "language": "de",
   "author": "Traumreisen für Kinder und Erwachsene",
   "narrator": "",
   "genres": [
-    "Kinder & Jugend",
+    "Entspannung",
     "Hörspiel",
-    "Entspannung"
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -473,5 +473,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:31.327788+00:00"
+  "franchise": "Traumreisen für Kinder und Erwachsene",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:37.137054+00:00"
 }

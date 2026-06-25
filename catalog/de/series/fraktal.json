@@ -5,9 +5,9 @@
   "author": "Fraktal",
   "narrator": "",
   "genres": [
+    "Fantasy",
     "Hörspiel",
-    "Kinder & Jugend",
-    "Fantasy"
+    "Kinder & Jugend"
   ],
   "albums": [
     {
@@ -2705,5 +2705,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T20:01:30.787001+00:00"
+  "franchise": "Fraktal",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T17:04:36.594434+00:00"
 }
