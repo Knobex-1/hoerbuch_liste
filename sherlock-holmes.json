@@ -13317,6 +13317,34 @@
       "sub_franchise": "Sherlock Holmes"
     },
     {
+      "id": "ep_afaa32fb1acd",
+      "title": "Fall 22: Das Geheimnis der Gloria Scott (Die alten Fälle) [Reloaded]",
+      "author": "Sherlock Holmes - Die alten Fälle (Reloaded)",
+      "episode_number": 22,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/12/77/4c1277bd-04de-f9ec-f9a3-44ce77f6488f/4260507152923_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1474634524,
+      "status": "active",
+      "sub_franchise_id": 16,
+      "last_validated": null,
+      "updated_at": "2026-06-25T05:12:47",
+      "extra": {
+        "discovery_candidate_id": 2080,
+        "discovery_run_id": 134,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Sherlock Holmes",
+          "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
+        }
+      },
+      "sub_franchise": "Sherlock Holmes - Die alten Fälle (Reloaded)"
+    },
+    {
       "id": "ep_1dc27c8ae469",
       "title": "Folge 22: Tod am Dock",
       "author": "Sherlock Holmes & Co",
@@ -17430,6 +17458,34 @@
       "sub_franchise": "Sherlock Holmes & Co"
     },
     {
+      "id": "ep_cfdfdb051ec0",
+      "title": "Fall 60: Seine Abschiedsvorstellung (Die Originale)",
+      "author": "Sherlock Holmes - Die Originale",
+      "episode_number": 60,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/46/43/f2/4643f2bc-60d1-6b32-62c2-e60cfeff3ec0/4260507138873_1448.jpg/100x100bb.jpg",
+      "apple_music_id": 1355082195,
+      "status": "active",
+      "sub_franchise_id": 19,
+      "last_validated": null,
+      "updated_at": "2026-06-25T05:12:48",
+      "extra": {
+        "discovery_candidate_id": 2081,
+        "discovery_run_id": 134,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Sherlock Holmes",
+          "sub_franchise": "Sherlock Holmes - Die Originale"
+        }
+      },
+      "sub_franchise": "Sherlock Holmes - Die Originale"
+    },
+    {
       "id": "ep_6a495f818695",
       "title": "Folge 60: Der Albtraum-Express",
       "author": "Sherlock Holmes Chronicles",
@@ -18000,6 +18056,34 @@
         }
       },
       "sub_franchise": "Sherlock Holmes & Co"
+    },
+    {
+      "id": "ep_2689a528f6bb",
+      "title": "Folge 67: Watsons erster Fall",
+      "author": "Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs",
+      "episode_number": 67,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/71/09/7d710933-3e80-0343-1330-d1dca5976a08/4251777716045_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1834150719,
+      "status": "active",
+      "sub_franchise_id": 18,
+      "last_validated": null,
+      "updated_at": "2026-06-25T05:12:50",
+      "extra": {
+        "discovery_candidate_id": 2082,
+        "discovery_run_id": 135,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Sherlock Holmes",
+          "sub_franchise": "Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs"
+        }
+      },
+      "sub_franchise": "Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs"
     },
     {
       "id": "ep_ce5764512090",
@@ -53275,5 +53359,5 @@
       }
     }
   ],
-  "episode_count": 387
+  "episode_count": 390
 }

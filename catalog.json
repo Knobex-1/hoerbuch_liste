@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-06-25T05:02:39.834878+00:00",
+  "updatedAt": "2026-06-25T05:17:25.062214+00:00",
   "providers": [
     {
       "id": "appleMusic",
@@ -82665,6 +82665,138 @@
       ]
     },
     {
+      "id": "1134913108",
+      "title": "Folge 36: SOS per GPS",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/d7/f7/6e/d7f76ed1-a39f-8680-ccd6-6fd9300cde98/886445755428.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1134913108"
+      },
+      "chapters": [],
+      "series": "Die drei ???",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ]
+    },
+    {
+      "id": "1471657431",
+      "title": "Folge 63: Flammen in der Nacht",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/95/ef/65/95ef6503-fe6b-e0b1-c98e-ad2819bc5835/886447191699.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1471657431"
+      },
+      "chapters": [],
+      "series": "Die drei ???",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ]
+    },
+    {
+      "id": "1501321693",
+      "title": "Folge 67: Tatort Geisterbahn",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/13/00/06/1300065a-9b80-dd0c-2498-f945eec0db92/886447878590.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1501321693"
+      },
+      "chapters": [],
+      "series": "Die drei ???",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ]
+    },
+    {
+      "id": "1784441119",
+      "title": "Folge 90: Mission Gipfelglück",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/be/3b/78be3bc6-0022-edfb-cf60-ca48a32baa20/196872212167.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1784441119"
+      },
+      "chapters": [],
+      "series": "Die drei ???",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ]
+    },
+    {
+      "id": "1803967497",
+      "title": "Folge 92: Geheimnis am Fluss",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/db/b6/f5dbb679-e042-7d0b-f82f-aa7982e70ece/196872292480.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1803967497"
+      },
+      "chapters": [],
+      "series": "Die drei ???",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ]
+    },
+    {
+      "id": "1893932283",
+      "title": "Folge 98: Influencerin in Not",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/5e/6e/e45e6e14-df4c-85d0-6691-7ddcbd6899e4/196873621524.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1893932283"
+      },
+      "chapters": [],
+      "series": "Die drei ???",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ]
+    },
+    {
       "id": "1862726248",
       "title": "Toteninsel (Das Original-Hörspiel zum Kinofilm)",
       "episodeNumber": null,
@@ -85340,6 +85472,28 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1176632394"
+      },
+      "chapters": [],
+      "series": "Die drei ???",
+      "author": "Die drei !!!",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Kinder & Jugend",
+        "Krimi"
+      ]
+    },
+    {
+      "id": "1207831269",
+      "title": "Folge 49: Skandal auf dem Laufsteg",
+      "episodeNumber": 49,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/45/c7/ed/45c7ed30-fca1-f872-43b1-9ca11aab2360/886445992397.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1207831269"
       },
       "chapters": [],
       "series": "Die drei ???",
@@ -237083,6 +237237,27 @@
       ]
     },
     {
+      "id": "1474634524",
+      "title": "Fall 22: Das Geheimnis der Gloria Scott (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 22,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/12/77/4c1277bd-04de-f9ec-f9a3-44ce77f6488f/4260507152923_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474634524"
+      },
+      "chapters": [],
+      "series": "Sherlock Holmes",
+      "author": "Sherlock Holmes - Die alten Fälle (Reloaded)",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Krimi"
+      ]
+    },
+    {
       "id": "1474634316",
       "title": "Fall 23: Der Flottenvertrag (Die alten Fälle) [Reloaded]",
       "episodeNumber": 23,
@@ -238028,6 +238203,27 @@
       ]
     },
     {
+      "id": "1834150719",
+      "title": "Folge 67: Watsons erster Fall",
+      "episodeNumber": 67,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/71/09/7d710933-3e80-0343-1330-d1dca5976a08/4251777716045_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1834150719"
+      },
+      "chapters": [],
+      "series": "Sherlock Holmes",
+      "author": "Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Krimi"
+      ]
+    },
+    {
       "id": "1895007300",
       "title": "Folge 72: Der Aluminiumdolch",
       "episodeNumber": 72,
@@ -238310,6 +238506,27 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1355079425"
+      },
+      "chapters": [],
+      "series": "Sherlock Holmes",
+      "author": "Sherlock Holmes - Die Originale",
+      "narrator": "",
+      "genres": [
+        "Abenteuer",
+        "Hörspiel",
+        "Krimi"
+      ]
+    },
+    {
+      "id": "1355082195",
+      "title": "Fall 60: Seine Abschiedsvorstellung (Die Originale)",
+      "episodeNumber": 60,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/46/43/f2/4643f2bc-60d1-6b32-62c2-e60cfeff3ec0/4260507138873_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1355082195"
       },
       "chapters": [],
       "series": "Sherlock Holmes",

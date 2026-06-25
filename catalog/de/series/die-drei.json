@@ -39350,6 +39350,19 @@
       ]
     },
     {
+      "id": "1207831269",
+      "title": "Folge 49: Skandal auf dem Laufsteg",
+      "episodeNumber": 49,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/45/c7/ed/45c7ed30-fca1-f872-43b1-9ca11aab2360/886445992397.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1207831269"
+      },
+      "chapters": []
+    },
+    {
       "id": "1092503380",
       "title": "Folge 49: und die Comic-Diebe",
       "episodeNumber": 49,
@@ -77070,6 +77083,84 @@
       ]
     },
     {
+      "id": "1134913108",
+      "title": "Folge 36: SOS per GPS",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/d7/f7/6e/d7f76ed1-a39f-8680-ccd6-6fd9300cde98/886445755428.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1134913108"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1471657431",
+      "title": "Folge 63: Flammen in der Nacht",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/95/ef/65/95ef6503-fe6b-e0b1-c98e-ad2819bc5835/886447191699.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1471657431"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1501321693",
+      "title": "Folge 67: Tatort Geisterbahn",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/13/00/06/1300065a-9b80-dd0c-2498-f945eec0db92/886447878590.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1501321693"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1784441119",
+      "title": "Folge 90: Mission Gipfelglück",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/be/3b/78be3bc6-0022-edfb-cf60-ca48a32baa20/196872212167.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1784441119"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1803967497",
+      "title": "Folge 92: Geheimnis am Fluss",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/db/b6/f5dbb679-e042-7d0b-f82f-aa7982e70ece/196872292480.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1803967497"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1893932283",
+      "title": "Folge 98: Influencerin in Not",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/5e/6e/e45e6e14-df4c-85d0-6691-7ddcbd6899e4/196873621524.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1893932283"
+      },
+      "chapters": []
+    },
+    {
       "id": "1092538532",
       "title": "High Strung - Unter Hochspannung",
       "episodeNumber": null,
@@ -80556,5 +80647,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-25T05:02:39.063527+00:00"
+  "updatedAt": "2026-06-25T05:17:24.298432+00:00"
 }

@@ -11658,6 +11658,19 @@
       "chapters": []
     },
     {
+      "id": "1474634524",
+      "title": "Fall 22: Das Geheimnis der Gloria Scott (Die alten Fälle) [Reloaded]",
+      "episodeNumber": 22,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/12/77/4c1277bd-04de-f9ec-f9a3-44ce77f6488f/4260507152923_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1474634524"
+      },
+      "chapters": []
+    },
+    {
       "id": "1362226831",
       "title": "Folge 22: Tod am Dock",
       "episodeNumber": 22,
@@ -14278,6 +14291,19 @@
       "chapters": []
     },
     {
+      "id": "1355082195",
+      "title": "Fall 60: Seine Abschiedsvorstellung (Die Originale)",
+      "episodeNumber": 60,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/46/43/f2/4643f2bc-60d1-6b32-62c2-e60cfeff3ec0/4260507138873_1448.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1355082195"
+      },
+      "chapters": []
+    },
+    {
       "id": "1535531574",
       "title": "Folge 60: Der Albtraum-Express",
       "episodeNumber": 60,
@@ -14594,6 +14620,19 @@
       "totalDuration": 0,
       "platforms": {
         "appleMusic": "1610157105"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1834150719",
+      "title": "Folge 67: Watsons erster Fall",
+      "episodeNumber": 67,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/71/09/7d710933-3e80-0343-1330-d1dca5976a08/4251777716045_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1834150719"
       },
       "chapters": []
     },
@@ -47632,5 +47671,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-25T05:02:39.322654+00:00"
+  "updatedAt": "2026-06-25T05:17:24.537558+00:00"
 }
