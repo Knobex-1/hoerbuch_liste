@@ -1,5 +1,5 @@
 {
-  "seriesId": "spidey-h-rspiel",
+  "seriesId": "spidey-hoerspiel",
   "title": "Spidey Hörspiel",
   "language": "de",
   "author": "Spidey",
@@ -807,5 +807,7 @@
       "chapters": []
     }
   ],
-  "updatedAt": "2026-06-25T08:59:33.398188+00:00"
+  "franchise": "Spidey Hörspiel",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T16:57:51.970450+00:00"
 }

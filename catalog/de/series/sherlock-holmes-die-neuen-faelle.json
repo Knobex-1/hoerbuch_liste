@@ -1,5 +1,5 @@
 {
-  "seriesId": "sherlock-holmes-die-neuen-f-lle",
+  "seriesId": "sherlock-holmes-die-neuen-faelle",
   "title": "Sherlock Holmes - Die neuen Fälle",
   "language": "de",
   "author": "Arthur Conan Doyle",
@@ -1468,5 +1468,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-25T08:59:33.457095+00:00"
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T16:57:52.028901+00:00"
 }

@@ -1,0 +1,93 @@
+{
+  "seriesId": "jurassic-world-neue-abenteuer-jurassic-world",
+  "title": "Jurassic World",
+  "language": "de",
+  "author": "Jurassic World",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1472016186",
+      "title": "Jurassic World 2 - Das gefallene Königreich (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": 2,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/8f/f6/588ff6ac-11d9-c5a6-2a67-10f189149c12/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1472016186"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1829954322",
+      "title": "Jurassic World: Die Wiedergeburt (Das Original-Hörspiel zum 4. Kinofilm)",
+      "episodeNumber": 4,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/f0/e9/91f0e966-5088-aac9-c6ea-8375cd4046ca/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1829954322"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1634785923",
+      "title": "Ein neues Zeitalter (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/10/ca/c610caba-ec55-8ef9-fe01-7b72b185d0dd/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1634785923"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1628674319",
+      "title": "Jurassic Park (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/70/0f/47/700f47f3-d1f1-f2c7-1e63-36ab66005e0d/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1628674319"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1628776428",
+      "title": "Jurassic Park - Vergessene Welt (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/62/72/c66272c4-5b06-ccb0-80da-d34bf78270ff/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1628776428"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1555486652",
+      "title": "Jurassic World (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/a9/d3/3ea9d3b5-a38a-9be1-60b5-6e84c930ae80/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1555486652"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Jurassic World - Neue Abenteuer",
+  "subSeriesOf": "jurassic-world-neue-abenteuer",
+  "updatedAt": "2026-06-25T16:57:51.580608+00:00"
+}

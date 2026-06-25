@@ -1,0 +1,28 @@
+{
+  "seriesId": "wendy-peter-pan",
+  "title": "Peter Pan",
+  "language": "de",
+  "author": "Peter Pan",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1686453218",
+      "title": "Peter Pan & Wendy (Hörspiel zum Disney Real-Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/f8/81/86f881fb-d9af-0234-1692-dfe322e887c0/4066339743526.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1686453218"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Wendy",
+  "subSeriesOf": "wendy",
+  "updatedAt": "2026-06-25T16:57:51.588189+00:00"
+}

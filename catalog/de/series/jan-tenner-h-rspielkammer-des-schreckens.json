@@ -1,0 +1,28 @@
+{
+  "seriesId": "jan-tenner-h-rspielkammer-des-schreckens",
+  "title": "Hörspielkammer des Schreckens",
+  "language": "de",
+  "author": "Hörspielkammer des Schreckens",
+  "narrator": "",
+  "genres": [
+    "Comedy"
+  ],
+  "albums": [
+    {
+      "id": "1596941953",
+      "title": "Folge 59: Jan Tenner - Der neue Superheld 3 - Das Hirn des Bösen",
+      "episodeNumber": 59,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/09/39/d909395b-a537-23be-2637-d2da2aa97385/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1596941953"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Jan Tenner",
+  "subSeriesOf": "jan-tenner",
+  "updatedAt": "2026-06-25T16:57:51.579929+00:00"
+}

@@ -1,5 +1,5 @@
 {
-  "seriesId": "traumreisen-f-r-kinder-und-erwachsene",
+  "seriesId": "traumreisen-fuer-kinder-und-erwachsene",
   "title": "Traumreisen für Kinder und Erwachsene",
   "language": "de",
   "author": "Traumreisen für Kinder und Erwachsene",
@@ -473,5 +473,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-25T08:59:33.551412+00:00"
+  "franchise": "Traumreisen für Kinder und Erwachsene",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T16:57:52.114939+00:00"
 }

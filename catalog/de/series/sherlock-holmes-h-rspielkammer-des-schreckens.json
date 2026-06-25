@@ -1,0 +1,28 @@
+{
+  "seriesId": "sherlock-holmes-h-rspielkammer-des-schreckens",
+  "title": "Hörspielkammer des Schreckens",
+  "language": "de",
+  "author": "Hörspielkammer des Schreckens",
+  "narrator": "",
+  "genres": [
+    "Comedy"
+  ],
+  "albums": [
+    {
+      "id": "1594593666",
+      "title": "Folge 33: Sherlock Holmes & Co. 45 - Hinter den Kulissen - EP",
+      "episodeNumber": 33,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/da/97/9fda976e-79ea-4eec-d01d-2f29c4157b68/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1594593666"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T16:57:51.771046+00:00"
+}

@@ -1,0 +1,80 @@
+{
+  "seriesId": "sherlock-holmes-arthur-conan-doyle",
+  "title": "Arthur Conan Doyle",
+  "language": "de",
+  "author": "Arthur Conan Doyle",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1762649147",
+      "title": "Sherlock Holmes - Das Rätsel der Thor-Brücke (London Crime Stories)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/a1/99/cba1990d-2f89-f4b4-d684-012cd1d734ac/cover_10303269.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1762649147"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1743231954",
+      "title": "Sherlock Holmes - Der Baumeister von Norwood (London Crime Stories)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/a6/b0/18a6b06f-e0f7-b415-c511-3829e56a661f/cover_10303268.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1743231954"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1743231718",
+      "title": "Sherlock Holmes - Der goldene Kneifer (London Crime Stories)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/08/43/85084354-d8f9-5e43-3ac9-55ffbb9dc17c/cover_10303270.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1743231718"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1742807059",
+      "title": "Sherlock Holmes - Die sechs Napoleons (London Crime Stories)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/30/91/8e309123-d81b-e941-6782-172d593c8a49/cover_10303266.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1742807059"
+      },
+      "chapters": []
+    },
+    {
+      "id": "1741536687",
+      "title": "Sherlock Holmes - Die tanzenden Männchen (London Crime Stories)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/5a/d8/115ad826-23aa-0376-3666-a7554f4c2a1a/cover_10303267.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1741536687"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T16:57:51.770727+00:00"
+}

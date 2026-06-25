@@ -1,0 +1,28 @@
+{
+  "seriesId": "sherlock-holmes-verschiedene-interpret-innen",
+  "title": "Verschiedene Interpret:innen",
+  "language": "de",
+  "author": "Verschiedene Interpret:innen",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1453747129",
+      "title": "The Last Confession of Sherlock Holmes",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/0b/1c/420b1c8b-f315-3bf1-7f45-3c6ddf3703ca/845121031300.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1453747129"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T16:57:51.776395+00:00"
+}

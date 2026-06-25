@@ -1,0 +1,28 @@
+{
+  "seriesId": "die-drei-die-drei-kids",
+  "title": "Die drei ??? Kids",
+  "language": "de",
+  "author": "Die drei ??? Kids",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1576834649",
+      "title": "Folge 84: Tatort Skater-Park",
+      "episodeNumber": 84,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/f8/7a/64f87a43-f6fe-9409-e385-0d2672417932/886448759546.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1576834649"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Die drei ??? Universum",
+  "subSeriesOf": "die-drei",
+  "updatedAt": "2026-06-25T16:57:51.572453+00:00"
+}

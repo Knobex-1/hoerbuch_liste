@@ -1,0 +1,28 @@
+{
+  "seriesId": "f-nf-freunde-gigantosaurus",
+  "title": "Gigantosaurus",
+  "language": "de",
+  "author": "Gigantosaurus",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1628651489",
+      "title": "Folge 11: Die fünf Freunde (Das Original-Hörspiel zur TV-Serie)",
+      "episodeNumber": 11,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/f4/91/81f49102-01a5-7f4b-3f04-2cec15cbad01/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1628651489"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Fünf Freunde",
+  "subSeriesOf": "fuenf-freunde",
+  "updatedAt": "2026-06-25T16:57:51.841817+00:00"
+}

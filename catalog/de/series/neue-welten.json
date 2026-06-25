@@ -4,36 +4,9 @@
   "language": "de",
   "author": "Neue Welten",
   "narrator": "",
-  "genres": [
-    "Hörspiel"
-  ],
-  "albums": [
-    {
-      "id": "1685300871",
-      "title": "Folge 3: Der Roboterkrieg",
-      "episodeNumber": 3,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/b9/9a/24b99a24-6bf7-9a89-42cd-5f38fb6892ba/cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1685300871"
-      },
-      "chapters": []
-    },
-    {
-      "id": "1685292531",
-      "title": "Folge 27: Tote neue Welt 3",
-      "episodeNumber": 27,
-      "releaseDate": null,
-      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/a6/8d/6ba68dfc-2348-d7dd-09bb-040fb3217a2e/cover.jpg/100x100bb.jpg",
-      "description": "",
-      "totalDuration": 0,
-      "platforms": {
-        "appleMusic": "1685292531"
-      },
-      "chapters": []
-    }
-  ],
-  "updatedAt": "2026-06-25T08:59:33.044357+00:00"
+  "genres": [],
+  "albums": [],
+  "franchise": "Neue Welten",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T16:57:51.583086+00:00"
 }

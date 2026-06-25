@@ -1,5 +1,5 @@
 {
-  "seriesId": "krimis-von-der-k-ste",
+  "seriesId": "krimis-von-der-kueste",
   "title": "Krimis von der Küste",
   "language": "de",
   "author": "Krimis von der Küste",
@@ -14158,5 +14158,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-25T08:59:33.306785+00:00"
+  "franchise": "Krimis von der Küste",
+  "subSeriesOf": null,
+  "updatedAt": "2026-06-25T16:57:51.885417+00:00"
 }

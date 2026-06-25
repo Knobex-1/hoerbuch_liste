@@ -1,0 +1,28 @@
+{
+  "seriesId": "sherlock-holmes-abenteuer-und-wissen",
+  "title": "Abenteuer & Wissen",
+  "language": "de",
+  "author": "Abenteuer & Wissen",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1711384694",
+      "title": "Sherlock Holmes & Co - Die Geschichte der Kriminalistik",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3c/d9/d0/3cd9d07a-b72a-f611-2903-3c408260be0d/9783961023295_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1711384694"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T16:57:51.770526+00:00"
+}

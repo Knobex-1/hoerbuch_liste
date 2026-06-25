@@ -1,0 +1,28 @@
+{
+  "seriesId": "tommy-und-seine-freunde-thomas-und-seine-freunde",
+  "title": "Thomas & seine Freunde",
+  "language": "de",
+  "author": "Thomas & seine Freunde",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1896352875",
+      "title": "Große Welt! Große Abenteuer! (Das Original-Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/5d/dc/fa5ddc37-4c2f-3d86-c802-2b1eeff84a48/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1896352875"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Tommy und seine Freunde",
+  "subSeriesOf": "tommy-und-seine-freunde",
+  "updatedAt": "2026-06-25T16:57:51.587546+00:00"
+}

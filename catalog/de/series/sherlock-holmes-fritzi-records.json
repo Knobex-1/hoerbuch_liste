@@ -1,0 +1,28 @@
+{
+  "seriesId": "sherlock-holmes-fritzi-records",
+  "title": "Fritzi Records",
+  "language": "de",
+  "author": "Fritzi Records",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1732315273",
+      "title": "Sherlock Holmes - die besonderen Fälle 1",
+      "episodeNumber": 1,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e8/dc/ee/e8dceec4-f0f7-7cea-50f0-8cc3584e1afe/artwork.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1732315273"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T16:57:51.770914+00:00"
+}

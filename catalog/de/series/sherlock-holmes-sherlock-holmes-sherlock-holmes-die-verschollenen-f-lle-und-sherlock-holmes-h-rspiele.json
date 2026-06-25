@@ -1,0 +1,28 @@
+{
+  "seriesId": "sherlock-holmes-sherlock-holmes-sherlock-holmes-die-verschollenen-f-lle-und-sherlock-holmes-h-rspiele",
+  "title": "Sherlock Holmes, Sherlock Holmes - Die verschollenen Fälle & Sherlock Holmes Hörspiele",
+  "language": "de",
+  "author": "Sherlock Holmes, Sherlock Holmes - Die verschollenen Fälle & Sherlock Holmes Hörspiele",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "6768356779",
+      "title": "Die Tränen der Götter",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/9e/3f/d89e3fea-7606-5f57-a75c-dfdd184ebd0b/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "6768356779"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Sherlock Holmes Universum",
+  "subSeriesOf": "sherlock-holmes",
+  "updatedAt": "2026-06-25T16:57:51.776267+00:00"
+}

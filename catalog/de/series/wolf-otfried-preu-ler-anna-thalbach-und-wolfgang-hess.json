@@ -1,0 +1,28 @@
+{
+  "seriesId": "wolf-otfried-preu-ler-anna-thalbach-und-wolfgang-hess",
+  "title": "Otfried Preußler, Anna Thalbach & Wolfgang Hess",
+  "language": "de",
+  "author": "Otfried Preußler, Anna Thalbach & Wolfgang Hess",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1460369563",
+      "title": "Das kleine Gespenst - Das Hörspiel zum Kinofilm",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ff/58/16/ff5816c8-b33c-a5e9-15bf-d8658967947b/4057664535771_cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1460369563"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "100% Wolf",
+  "subSeriesOf": "100-wolf",
+  "updatedAt": "2026-06-25T16:57:51.469149+00:00"
+}

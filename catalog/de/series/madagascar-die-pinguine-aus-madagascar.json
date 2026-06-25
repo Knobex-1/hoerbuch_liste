@@ -1,0 +1,28 @@
+{
+  "seriesId": "madagascar-die-pinguine-aus-madagascar",
+  "title": "Die Pinguine aus Madagascar",
+  "language": "de",
+  "author": "Die Pinguine aus Madagascar",
+  "narrator": "",
+  "genres": [
+    "Hörspiel"
+  ],
+  "albums": [
+    {
+      "id": "1553499150",
+      "title": "Die Pinguine aus Madagascar (Das Original Hörspiel zum Kinofilm)",
+      "episodeNumber": null,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/6d/d4/8a6dd445-98eb-c970-d79b-bd45614d4418/cover.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1553499150"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Madagascar",
+  "subSeriesOf": "madagascar",
+  "updatedAt": "2026-06-25T16:57:51.582034+00:00"
+}
