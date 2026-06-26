@@ -3,8 +3,8 @@
     {
       "name": "Die drei ???",
       "slug": "die-drei-???",
-      "episode_count": 489,
-      "sub_franchise_count": 2
+      "episode_count": 490,
+      "sub_franchise_count": 3
     },
     {
       "name": "TKKG",
@@ -806,5 +806,5 @@
     }
   ],
   "total_franchises": 134,
-  "total_episodes": 3512
+  "total_episodes": 3513
 }

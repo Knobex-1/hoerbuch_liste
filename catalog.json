@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-06-26T10:27:08.916560+00:00",
+  "exported_at": "2026-06-26T11:19:26.268461+00:00",
   "franchises": [
     {
       "name": "100% Wolf",
@@ -890,6 +890,12 @@
           "slug": "die-drei-die-drei-kids",
           "description": "",
           "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/f8/7a/64f87a43-f6fe-9409-e385-0d2672417932/886448759546.jpg/100x100bb.jpg"
+        },
+        {
+          "name": "Sherlock Holmes Chronicles",
+          "slug": "die-drei-sherlock-holmes-chronicles",
+          "description": "",
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/50/2e/68502ec4-a285-2f96-cd03-961f6812e414/4260507158093_3000.jpg/100x100bb.jpg"
         }
       ],
       "episodes": [
@@ -82965,6 +82971,20 @@
           "apple_music_id": 1576834649,
           "status": "active",
           "sub_franchise": "Die drei ??? Kids"
+        },
+        {
+          "id": "ep_29ef24d873b7",
+          "title": "Folge 12: Die drei Beldonis",
+          "author": "Sherlock Holmes Chronicles",
+          "episode_number": 12,
+          "genres": [
+            "Hörspiele"
+          ],
+          "chapters": [],
+          "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/50/2e/68502ec4-a285-2f96-cd03-961f6812e414/4260507158093_3000.jpg/100x100bb.jpg",
+          "apple_music_id": 1508626953,
+          "status": "active",
+          "sub_franchise": "Sherlock Holmes Chronicles"
         }
       ]
     },

@@ -13,6 +13,11 @@
       "id": 11,
       "name": "Die drei ??? Kids",
       "slug": "die-drei-die-drei-kids"
+    },
+    {
+      "id": 133,
+      "name": "Sherlock Holmes Chronicles",
+      "slug": "die-drei-sherlock-holmes-chronicles"
     }
   ],
   "episodes": [
@@ -24941,6 +24946,34 @@
           "appleMusic": "1207327054"
         }
       }
+    },
+    {
+      "id": "ep_29ef24d873b7",
+      "title": "Folge 12: Die drei Beldonis",
+      "author": "Sherlock Holmes Chronicles",
+      "episode_number": 12,
+      "genres": [
+        "Hörspiele"
+      ],
+      "chapters": [],
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/50/2e/68502ec4-a285-2f96-cd03-961f6812e414/4260507158093_3000.jpg/100x100bb.jpg",
+      "apple_music_id": 1508626953,
+      "status": "active",
+      "sub_franchise_id": 133,
+      "last_validated": null,
+      "updated_at": "2026-06-26T11:08:33",
+      "extra": {
+        "discovery_candidate_id": 2073,
+        "discovery_run_id": 75,
+        "source": "apple_music",
+        "franchise_detection": {
+          "mode": "matched",
+          "confidence": 0.92,
+          "franchise": "Die drei ???",
+          "sub_franchise": "Sherlock Holmes Chronicles"
+        }
+      },
+      "sub_franchise": "Sherlock Holmes Chronicles"
     },
     {
       "id": "died-folg-7217",
@@ -86940,5 +86973,5 @@
       }
     }
   ],
-  "episode_count": 489
+  "episode_count": 490
 }
