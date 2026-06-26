@@ -1,0 +1,28 @@
+{
+  "seriesId": "die-drei-sherlock-holmes-chronicles",
+  "title": "Sherlock Holmes Chronicles",
+  "language": "de",
+  "author": "Sherlock Holmes Chronicles",
+  "narrator": "",
+  "genres": [
+    "Hörspiele"
+  ],
+  "albums": [
+    {
+      "id": "1508626953",
+      "title": "Folge 12: Die drei Beldonis",
+      "episodeNumber": 12,
+      "releaseDate": null,
+      "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/50/2e/68502ec4-a285-2f96-cd03-961f6812e414/4260507158093_3000.jpg/100x100bb.jpg",
+      "description": "",
+      "totalDuration": 0,
+      "platforms": {
+        "appleMusic": "1508626953"
+      },
+      "chapters": []
+    }
+  ],
+  "franchise": "Die drei ??? Universum",
+  "subSeriesOf": "die-drei",
+  "updatedAt": "2026-06-26T11:19:28.362626+00:00"
+}
