@@ -1,6 +1,6 @@
 {
   "language": "de",
-  "updatedAt": "2026-07-18T22:00:03.799251+00:00",
+  "updatedAt": "2026-07-19T08:30:03.215640+00:00",
   "series": [
     {
       "id": "100-wolf",
@@ -11,7 +11,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/2f/8c/812f8c93-806c-72af-d7cc-67d7604ccfd8/886448842729.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/100-wolf.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.988324+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.453476+00:00",
       "franchise": "100% Wolf Universum",
       "subSeriesOf": null
     },
@@ -26,7 +26,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/81/2f/8c/812f8c93-806c-72af-d7cc-67d7604ccfd8/886448842729.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/wolf-wolf.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.988512+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.453660+00:00",
       "franchise": "100% Wolf Universum",
       "subSeriesOf": "100-wolf"
     },
@@ -41,7 +41,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ff/58/16/ff5816c8-b33c-a5e9-15bf-d8658967947b/4057664535771_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/wolf-otfried-preu-ler-anna-thalbach-und-wolfgang-hess.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.988658+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.453806+00:00",
       "franchise": "100% Wolf Universum",
       "subSeriesOf": "100-wolf"
     },
@@ -56,7 +56,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/67/cb/6167cb66-0fde-7ac0-a371-7a6cd96028b0/4066339450073.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/aladdin.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.988802+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.453923+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -71,7 +71,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/67/73/cc67736f-42b2-1729-e83b-a8710a02eb41/4066339483590.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/alice-im-wunderland.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.988929+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.454066+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -86,7 +86,7 @@
       "albumCount": 4,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/d8/f0/94d8f025-93c4-064a-ac73-45bc9d941bfe/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/alvin-und-die-chipmunks.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.989085+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.454232+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -101,7 +101,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b9/68/df/b968df3e-dc73-4956-942e-d2568e3e9f27/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/angry-birds.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.989240+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.454384+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -116,7 +116,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/62/0b/ed620ba3-1b56-e38b-2bd8-c357ae44d271/4066339796096.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/arielle-die-meerjungfrau.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.989352+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.454496+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -131,7 +131,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/de/9c/d5de9c49-c133-d03f-3c6b-5b855b368ff6/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/barbie.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.989462+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.454604+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -146,7 +146,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ce/30/f8/ce30f868-d4bd-5d0e-3cfc-f55ce61d7fe9/4260507148858_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/beliebte-m-rchen.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.989678+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.454801+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -161,7 +161,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7b/9b/3b/7b9b3bba-d87d-1820-0702-e1f325646e24/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/bo-und-der-weihnachtsstern.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.989793+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.454912+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -176,7 +176,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/89/05/99890544-4cb5-7c03-6c6a-0eb2cba0c187/4066004271125_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/bora-dagtekin.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.989904+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455022+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -191,7 +191,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/31/7d/da/317ddadd-e4f1-1e2d-cdba-661b70d23bb3/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/boss-baby.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990021+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455173+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -206,7 +206,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/c9/3d/3bc93d30-efd9-6d15-9350-9a1965872675/4066339609518.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/camp-rock.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990153+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455294+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -221,7 +221,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/63/ae/4c/63ae4cce-563b-dbf4-31b1-103f9ce15be4/4260507139245_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/captain-blitz-und-seine-freunde.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990261+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455398+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -236,7 +236,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/1e/79/9d1e795e-3447-7dab-0b1c-c1f40e988411/4066339502369.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/cinderella.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990368+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455502+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -251,7 +251,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/4e/a3/3c4ea34b-8273-5ff1-f25e-8ea209c0d6d2/4066339450295.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/cruella.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990476+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455606+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -266,7 +266,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ed/84/f1/ed84f124-4c6e-f9b3-37f8-4898b54bcb1a/4066339483897.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/das-duell-der-magier.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990581+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455709+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -281,7 +281,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/25/7e/f4/257ef45c-b4b9-6cda-f790-780a7e0edf65/9783732441341_1448.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/david-safier.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990688+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455814+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -296,7 +296,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/79/a5/1779a5d3-027a-095a-ccef-e961e326c933/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/der-gestiefelte-kater.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990802+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.455923+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -311,7 +311,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/85/d1/fd85d13d-0838-8048-e317-59d0b2d3fbbe/4066339450080.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/der-k-nig-der-l-wen.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.990934+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.456077+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -326,7 +326,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/e5/a5/bce5a5d5-efb3-1395-f9ae-8eb512ff84d0/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/der-tierische-kindergarten.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.991062+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.456257+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -341,7 +341,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/5c/d7/785cd73d-5e37-24d1-a39d-773a1989e924/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/der-wilde-roboter.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.991170+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.456362+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -356,7 +356,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/51/f7/44/51f744b3-7140-ca70-328d-2d7d0a9c8c03/886447613047.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-biene-maja.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.991292+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.456479+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -371,7 +371,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/bd/da/ffbdda4c-08ac-a535-40c6-23527869dcbb/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-gangster-gang.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.991437+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.456619+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -386,7 +386,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/76/c7/e976c788-f8a5-23d3-2d8b-3708d73fbd63/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-heinzels.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.991565+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.456745+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -401,7 +401,7 @@
       "albumCount": 4,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b9/e4/6c/b9e46cec-5b5a-92f6-70a9-5380f52cbbc8/886448482949.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-schl-mpfe.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.991710+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.456886+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -416,7 +416,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/95/08/9995089b-7489-5103-287f-06575fbbe435/4099995853629_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-schule-der-magischen-tiere.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.991866+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.457048+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -431,7 +431,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/8c/b2/f18cb220-913d-98a9-5c7d-0cb829240936/4066339467989.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-sch-ne-und-das-biest.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:02.992081+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.457286+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -449,7 +449,7 @@
       "albumCount": 440,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/95/f3/9595f34b-7bfb-c283-92d5-a5c5851c8c2b/886447023242.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-drei.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.011646+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.476514+00:00",
       "franchise": "Die drei ??? Universum",
       "subSeriesOf": null
     },
@@ -464,7 +464,7 @@
       "albumCount": 48,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/28/81/2c/28812c0c-2854-9b1a-9ff1-45443f9ec1de/886446606835.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-drei-die-drei.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.104659+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.566008+00:00",
       "franchise": "Die drei ??? Universum",
       "subSeriesOf": "die-drei"
     },
@@ -479,7 +479,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/64/f8/7a/64f87a43-f6fe-9409-e385-0d2672417932/886448759546.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-drei-die-drei-kids.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.108716+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.569007+00:00",
       "franchise": "Die drei ??? Universum",
       "subSeriesOf": "die-drei"
     },
@@ -494,7 +494,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/50/2e/68502ec4-a285-2f96-cd03-961f6812e414/4260507158093_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-drei-sherlock-holmes-chronicles.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.108965+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.569166+00:00",
       "franchise": "Die drei ??? Universum",
       "subSeriesOf": "die-drei"
     },
@@ -509,7 +509,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/f4/df/83f4dfc6-1f67-75dd-6c99-5ed71992a606/4066339483316.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-fantastische-welt-von-oz.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.109130+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.569282+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -524,7 +524,7 @@
       "albumCount": 6,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/88/59/f1/8859f143-af3f-7da2-37b4-cf29ec8dbd07/4066338327239_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-wilden-kerle.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.109296+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.569432+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -539,7 +539,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/24/51/32245157-1eaf-e999-8518-1369a3728edb/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/drachenz-hmen-leicht-gemacht.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.109495+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.569619+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -554,7 +554,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/48/f0/f248f078-b810-84cf-f607-fb6cd77ea6c3/4066339450196.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/dumbo.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.109639+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.569756+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -569,7 +569,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2a/25/70/2a257043-5416-1bc7-59fa-c76dfb6bdbc2/4064066946241_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/ekkehardt-ekki-belle-die-olchis.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.109769+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.569863+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -584,7 +584,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/8c/20/eb8c2026-6916-a4d8-4239-9ddbc1f48160/4066339484023.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/elliot-der-drache.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.109942+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.569970+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -599,7 +599,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/7f/e4/a17fe420-c317-88c4-115c-87fbf610ea31/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/everest.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.110100+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.570082+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -614,7 +614,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/93/ab/c693abb7-94bf-dfcd-efef-24a05ab88361/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/felix-ein-hase-auf-weltreise.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.110210+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.570188+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -629,7 +629,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/bd/8c/d2bd8ce5-68f8-c3fa-a4d7-35337d780110/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/feuerwehrmann-sam.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.110316+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.570291+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -646,7 +646,7 @@
       "albumCount": 17,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/b9/ee/9fb9ee77-9927-3e57-ddc9-412bf6744c07/4260507157461_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/fraktal.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.111381+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.571056+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -661,7 +661,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/d1/e7/6fd1e776-5dd8-8387-8f97-f3a83f0d0d24/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/freunde-wg.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.115340+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.573803+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -676,7 +676,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/d7/ce/8fd7ce72-4b1f-00ad-a6c3-d213ad3b6df5/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/gabby-s-dollhouse.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.115506+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.573919+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -691,7 +691,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/ff/57/ffff5743-7aa0-5206-28a0-3ef087b14ba3/4066339483576.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/hannah-montana-h-rspiel.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.115627+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.574037+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -706,7 +706,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/c7/2c/bac72c22-26ab-8907-bf8b-e6db81320a99/196873150307.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/hanni-und-nanni.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.115753+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.574155+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -721,7 +721,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/bf/da/49bfdaca-bd16-4f59-7d7b-6128716deac8/4069829638074_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/hape-kerkeling-horst-schl-mmer.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.115882+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.574277+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -736,7 +736,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c7/b1/ca/c7b1ca07-4cb8-8ecc-836a-281506e027f6/4066339483453.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/high-school-musical.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.116012+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.574397+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -751,7 +751,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f9/27/7e/f9277eb4-1c3a-8de4-54a1-6ce9c3f801f2/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/home-ein-smektakul-rer-trip.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.116165+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.574530+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -766,7 +766,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/b4/78/7cb47886-a9c0-20ce-8b5d-b134a2e5755b/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/hotel-transsilvanien.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.116296+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.574651+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -781,7 +781,7 @@
       "albumCount": 5,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/3e/9c/54/3e9c548f-f24c-447c-46c1-ef54ae12af61/886445284027.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/hui-buh-neue-welt.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.116557+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.574894+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -796,7 +796,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a4/26/ec/a426ec3f-d486-7ca3-0673-5b6da8721230/4260507179821_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/husch-puscheli.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.117096+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.575398+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -811,7 +811,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c3/21/c5/c321c515-f36d-3d04-dcdf-535e9adba568/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/h-ter-des-lichts.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.117256+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.575510+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -826,7 +826,7 @@
       "albumCount": 4,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/d6/fe/44d6fe11-c644-32fd-d0f0-28a434e2fc7c/4057664206053.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/ich-einfach-unverbesserlich.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.117401+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.575637+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -841,7 +841,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/c6/6c/5bc66c98-ce59-ea5b-f95f-79b8293f417d/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/in-80-tage-um-die-welt.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.117579+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.575784+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -854,7 +854,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b0/54/5eb05458-4924-4372-e886-45205519a86f/190295345563.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/jan-tenner.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.117687+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.575880+00:00",
       "franchise": "Jan Tenner Universum",
       "subSeriesOf": null
     },
@@ -869,7 +869,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/09/39/d909395b-a537-23be-2637-d2da2aa97385/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/jan-tenner-h-rspielkammer-des-schreckens.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.117826+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.575968+00:00",
       "franchise": "Jan Tenner Universum",
       "subSeriesOf": "jan-tenner"
     },
@@ -884,7 +884,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/b0/54/5eb05458-4924-4372-e886-45205519a86f/190295345563.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/jan-tenner-jan-tenner.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.118015+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.576080+00:00",
       "franchise": "Jan Tenner Universum",
       "subSeriesOf": "jan-tenner"
     },
@@ -899,7 +899,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/56/16/a7/5616a750-e478-900c-8493-0b9382da6ff0/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/janosch.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.118379+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.576476+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -914,7 +914,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/a4/de/58a4de6a-b3a0-eb48-03d2-91e82dacf486/4057664396273.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/jim-knopf-und-lukas-der-lokomotivf-hrer.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.118614+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.576611+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -927,7 +927,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/a4/a3/79a4a307-b933-43af-50ba-2ca714e03c85/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/jurassic-world-neue-abenteuer.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.118801+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.576723+00:00",
       "franchise": "Jurassic World - Neue Abenteuer Universum",
       "subSeriesOf": null
     },
@@ -942,7 +942,7 @@
       "albumCount": 6,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3e/a9/d3/3ea9d3b5-a38a-9be1-60b5-6e84c930ae80/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/jurassic-world-neue-abenteuer-jurassic-world.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.119020+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.576848+00:00",
       "franchise": "Jurassic World - Neue Abenteuer Universum",
       "subSeriesOf": "jurassic-world-neue-abenteuer"
     },
@@ -957,7 +957,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/a4/a3/79a4a307-b933-43af-50ba-2ca714e03c85/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/jurassic-world-neue-abenteuer-jurassic-world-neue-abenteuer.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.119362+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577019+00:00",
       "franchise": "Jurassic World - Neue Abenteuer Universum",
       "subSeriesOf": "jurassic-world-neue-abenteuer"
     },
@@ -972,7 +972,7 @@
       "albumCount": 4,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/cf/01/c2cf01d5-eae1-fadb-ba95-049fbc21356a/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/kung-fu-panda.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.119591+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577155+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -987,7 +987,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/67/28/96/67289659-efea-0f21-1ab5-c032a17b75d4/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/k-pt-n-sharky.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.119867+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577299+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1002,7 +1002,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e1/46/16/e14616a1-454b-bd80-a1d5-d5acbd0d829d/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/latte-igel.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.120051+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577405+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1017,7 +1017,7 @@
       "albumCount": 4,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/8e/d1/9d8ed10d-728b-063b-a31f-9c1dff36a8dd/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/lauras-stern.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.120269+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577531+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1032,7 +1032,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/28/12/542812e6-ccf3-32f3-34a6-c35a4ff16df5/4057664534255_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/leonie-beckenbach-tim-oliver-schultz-luise-befort.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.120530+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577673+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1047,7 +1047,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/08/85/5d0885bf-6b1f-128e-b0eb-75eaf10774ab/4069828502048.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/lilo-stitch.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.120696+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577778+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1060,7 +1060,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/87/8f/4e878fd6-692e-587d-dfc8-f69783528a49/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/madagascar.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.120865+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577871+00:00",
       "franchise": "Madagascar Universum",
       "subSeriesOf": null
     },
@@ -1075,7 +1075,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/6d/d4/8a6dd445-98eb-c970-d79b-bd45614d4418/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/madagascar-die-pinguine-aus-madagascar.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.120990+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.577956+00:00",
       "franchise": "Madagascar Universum",
       "subSeriesOf": "madagascar"
     },
@@ -1090,7 +1090,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/87/8f/4e878fd6-692e-587d-dfc8-f69783528a49/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/madagascar-madagascar.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.121135+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.578079+00:00",
       "franchise": "Madagascar Universum",
       "subSeriesOf": "madagascar"
     },
@@ -1105,7 +1105,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/4f/84/334f84b5-70c2-ea0c-357d-688858b1b8ff/4066339483903.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mary-poppins-h-rspiel.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.121287+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.578218+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1120,7 +1120,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d5/21/d1/d521d115-9998-e630-09d9-dbbd130c3333/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/maurice-der-kater.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.121448+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.578365+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1135,7 +1135,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a9/04/c1/a904c1cd-15d3-0bc0-90bc-d7b050a5e686/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mia-and-me.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.121565+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.578469+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1150,7 +1150,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/a1/b0/ada1b06d-fce1-745a-de93-63fe7c0cabeb/4069828712973_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/michael-ende.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.121741+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.578570+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1165,7 +1165,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/50/78/d250787e-a8e5-f40e-a65f-06f1022ea44d/4057664206084.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/minions.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.121920+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.578674+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1180,7 +1180,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/5d/ae/265daeba-9af8-fbad-beb4-0cbee91d8027/4066339450233.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mulan.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.122323+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.578860+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1193,7 +1193,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/b9/9a/24b99a24-6bf7-9a89-42cd-5f38fb6892ba/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/neue-welten.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.122471+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.578954+00:00",
       "franchise": "Neue Welten Universum",
       "subSeriesOf": null
     },
@@ -1208,7 +1208,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/a6/8d/6ba68dfc-2348-d7dd-09bb-040fb3217a2e/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/neue-welten-midnight-tales.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.122599+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579048+00:00",
       "franchise": "Neue Welten Universum",
       "subSeriesOf": "neue-welten"
     },
@@ -1223,7 +1223,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/24/b9/9a/24b99a24-6bf7-9a89-42cd-5f38fb6892ba/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/neue-welten-neue-welten.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.122769+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579157+00:00",
       "franchise": "Neue Welten Universum",
       "subSeriesOf": "neue-welten"
     },
@@ -1238,7 +1238,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/ad/40/41ad406f-d35d-a1e0-a5bc-8c9995e8d10e/4099995714968_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/niko-h-rspiel.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.122948+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579267+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1253,7 +1253,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/e0/e1/e3e0e1a4-7ecc-f90c-2f09-2e96aeca591f/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/ooops.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.123179+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579389+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1268,7 +1268,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/8d/df/948ddf01-921d-7f02-88cd-3eb672e5d201/4066338447715_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/otfried-preu-ler-ursula-illert-der-r-uber-hotzenplotz-h-rspiele.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.123336+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579492+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1283,7 +1283,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c9/49/34/c94934f1-7250-e441-d476-7c49b75b3485/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/paddington.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.123521+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579604+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1298,7 +1298,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e6/41/fc/e641fc95-e77b-a5cd-c3ca-8f1614cc6fa3/4057664535795_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/peter-kaempfe-der-kleine-vampir.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.123735+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579723+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1313,7 +1313,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/91/53/9e/91539eed-7b24-258a-8dd0-ffcdcba8cfcb/4057664535542_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/peter-weis-noah-levi-senta-berger.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.123899+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579826+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1328,7 +1328,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7f/fa/3e/7ffa3e4a-cbf6-c138-a1d9-bd82d4d4c1a2/886447621103.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/peterchens-mondfahrt.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.124096+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.579929+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1341,7 +1341,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/0a/59/400a594e-f140-33b1-0518-2c7af45acf0d/4057664206077.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/pets.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.124243+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580019+00:00",
       "franchise": "Pets Universum",
       "subSeriesOf": null
     },
@@ -1356,7 +1356,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/5a/65/615a6577-3256-3b90-2549-f7db3b3de8e7/4066339483217.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/pets-die-muppets.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.124365+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580110+00:00",
       "franchise": "Pets Universum",
       "subSeriesOf": "pets"
     },
@@ -1371,7 +1371,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/0a/59/400a594e-f140-33b1-0518-2c7af45acf0d/4057664206077.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/pets-pets.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.124539+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580221+00:00",
       "franchise": "Pets Universum",
       "subSeriesOf": "pets"
     },
@@ -1386,7 +1386,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/6f/4b/f16f4bac-d24f-d882-0ab9-13e6afa8ec9a/4066339483644.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/pirates-of-the-caribbean.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.124743+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580346+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1401,7 +1401,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/23/7f/8c237f77-6646-c506-d0c4-07730922a8ba/4066339483750.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/prince-of-persia-der-sand-der-zeit.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.124934+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580466+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1416,7 +1416,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/59/87/86/5987869d-453b-2573-afc6-0a9b2f168716/886446914046.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/prinzessin-lillifee.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.125108+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580571+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1431,7 +1431,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/c6/6f/6cc66f0b-f632-5595-d44b-fbd998c613b5/4069829029339.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/pumuckl.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.125278+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580673+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1446,7 +1446,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/c4/3c/46/c43c4646-200c-f6a5-e292-7dc0a51d70e2/886446238852.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/ritter-rost.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.125468+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580783+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1461,7 +1461,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b0/7b/93/b07b9357-8f40-3352-1caf-525d3785f963/4057664078872.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/robbi-tobbi-und-das-fliewat-t.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.125659+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.580899+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1476,7 +1476,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/2d/d0/f72dd0b9-0fb2-538e-eeb0-5c2f8dcd1bd4/4057664535788_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sandra-keck-hedda-erlebach-michael-mittermeier.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.125980+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.581105+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1491,7 +1491,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/4e/4d/be4e4d67-905c-5149-e08c-c32153df242d/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/shaun-das-schaf.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.126199+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.581216+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1506,7 +1506,7 @@
       "albumCount": 4,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/29/d8/2529d897-3137-74d0-c158-aabb513b598f/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/shrek.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.126404+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.581340+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1521,7 +1521,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/f6/34/42f63436-f844-ef01-63b2-b506083f43e0/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sing.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.126672+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.581490+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1536,7 +1536,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/6c/62/f86c62c3-9338-2e52-3111-7cdf7140a53f/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/spirit.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.126861+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.581607+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1551,7 +1551,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c3/b5/bd/c3b5bd3b-552d-641c-ddc4-6b8a3c500763/4066339483675.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tron.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.127017+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.581710+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1566,7 +1566,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/17/5b/c6/175bc65e-f50a-b833-dbc5-e7103ae9fe27/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tabaluga.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.127166+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.581811+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1581,7 +1581,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f0/6c/ad/f06cadd3-4bde-1861-f322-f1363faad62f/4066339483484.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/teen-beach-movie-h-rspiel.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.127272+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.581913+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1596,7 +1596,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/01/2b/f6/mzi.gmmfubxd.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/the-dreamer.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.127399+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.582041+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1611,7 +1611,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/04/72/f80472f8-c0ef-60ef-e690-2c7e16d983f3/9783838777146_1448.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/timur-vermes.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.127621+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.582257+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1624,7 +1624,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/48/c7/f648c739-d24b-7f16-a362-ac11f72732a1/4260507147189_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tommy-und-seine-freunde.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.127997+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.582617+00:00",
       "franchise": "Tommy und seine Freunde Universum",
       "subSeriesOf": null
     },
@@ -1639,7 +1639,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/5d/dc/fa5ddc37-4c2f-3d86-c802-2b1eeff84a48/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tommy-und-seine-freunde-thomas-und-seine-freunde.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.128135+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.582713+00:00",
       "franchise": "Tommy und seine Freunde Universum",
       "subSeriesOf": "tommy-und-seine-freunde"
     },
@@ -1654,7 +1654,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/48/c7/f648c739-d24b-7f16-a362-ac11f72732a1/4260507147189_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tommy-und-seine-freunde-tommy-und-seine-freunde.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.128250+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.582824+00:00",
       "franchise": "Tommy und seine Freunde Universum",
       "subSeriesOf": "tommy-und-seine-freunde"
     },
@@ -1669,7 +1669,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/8a/30/9e8a3080-63a1-678d-7df4-329fcc6eb123/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/trolls.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.128375+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.582946+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1684,7 +1684,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/98/6f/33986f20-6fe8-0fdc-ba69-0caa6d653e92/4260507174048_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/truschel-der-kleine-geisterhund.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.128513+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.583085+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1697,7 +1697,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/85/87/598587b6-9111-a90d-4a21-87105233e18c/4057664364562.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/wendy.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.128611+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.583179+00:00",
       "franchise": "Wendy Universum",
       "subSeriesOf": null
     },
@@ -1712,7 +1712,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/f8/81/86f881fb-d9af-0234-1692-dfe322e887c0/4066339743526.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/wendy-peter-pan.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.128701+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.583267+00:00",
       "franchise": "Wendy Universum",
       "subSeriesOf": "wendy"
     },
@@ -1727,7 +1727,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/59/85/87/598587b6-9111-a90d-4a21-87105233e18c/4057664364562.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/wendy-wendy.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.128815+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.583379+00:00",
       "franchise": "Wendy Universum",
       "subSeriesOf": "wendy"
     },
@@ -1742,7 +1742,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c6/b3/2c/c6b32cfa-3aca-32f7-6e4b-2e5ab8293e96/4260229664971_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/willi-wills-wissen.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.129036+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.583497+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1757,7 +1757,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/b8/16/d0b816ba-2674-b633-e523-ff9ba38d96fc/4033694444214.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/woodwalkers.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.129322+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.583690+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1772,7 +1772,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/f5/e1/2bf5e143-249a-1683-55bd-88d7f9836a28/4057664892423_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/bayala.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.129461+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.583814+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1789,7 +1789,7 @@
       "albumCount": 292,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/cf/78/75cf78fe-42a3-ec32-143a-d5b1d70a94e9/886447325193.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/tkkg.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.152083+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.599896+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1807,7 +1807,7 @@
       "albumCount": 242,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e5/8d/29/e58d29b8-9eaa-2d3d-155b-81aa297287d8/5054197887666.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/bibi-blocksberg.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.234155+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.676359+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -1824,7 +1824,7 @@
       "albumCount": 149,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/49/63/7349639c-5752-7251-826e-c2d9202eaeaf/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.269667+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.710788+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": null
     },
@@ -1839,7 +1839,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3c/d9/d0/3cd9d07a-b72a-f611-2903-3c408260be0d/9783961023295_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-abenteuer-und-wissen.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.316978+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.754970+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1854,7 +1854,7 @@
       "albumCount": 5,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/08/43/85084354-d8f9-5e43-3ac9-55ffbb9dc17c/cover_10303270.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-arthur-conan-doyle.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.317190+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.755153+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1869,7 +1869,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e8/dc/ee/e8dceec4-f0f7-7cea-50f0-8cc3584e1afe/artwork.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-fritzi-records.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.317379+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.755327+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1884,7 +1884,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/da/97/9fda976e-79ea-4eec-d01d-2f29c4157b68/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-h-rspielkammer-des-schreckens.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.317501+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.755442+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1899,7 +1899,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/af/ec/9fafec60-ee58-4c49-32ad-e51beb495be0/4260507214058_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-sherlock-holmes.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.317619+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.755553+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1914,7 +1914,7 @@
       "albumCount": 99,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d1/2a/48/d12a48e3-11b7-b3f9-577d-607dd26b72fc/4260507139733_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-sherlock-holmes-und-co.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.318708+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.756385+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1929,7 +1929,7 @@
       "albumCount": 16,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/92/70/4f/92704fb0-0775-13c2-3367-2406d6a8011e/4260507138866_1448.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-sherlock-holmes-die-originale.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.320180+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.757755+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1944,7 +1944,7 @@
       "albumCount": 45,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/37/15/3f37156c-f738-4b66-d3ac-bfae8e11e8a4/4260507154835_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-sherlock-holmes-die-alten-f-lle.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.320795+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.758340+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1959,7 +1959,7 @@
       "albumCount": 19,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/f5/2f/2ff52fa4-42da-100d-c410-efbb8f523c0b/4251777717325_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-sherlock-holmes-die-geheimen-f-lle-des-meisterdetektivs.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.321616+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.759102+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1974,7 +1974,7 @@
       "albumCount": 51,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/06/84/7106848d-8074-0236-e33d-65af82c99abd/4260507165176_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-sherlock-holmes-chronicles.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.322379+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.759792+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -1989,7 +1989,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/9e/3f/d89e3fea-7606-5f57-a75c-dfdd184ebd0b/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-sherlock-holmes-sherlock-holmes-die-verschollenen-f-lle-und-sherlock-holmes-h-rspiele.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.323144+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.760501+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -2004,7 +2004,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/0b/1c/420b1c8b-f315-3bf1-7f45-3c6ddf3703ca/845121031300.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-verschiedene-interpret-innen.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.323270+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.760620+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -2022,7 +2022,7 @@
       "albumCount": 194,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6d/cf/6d/6dcf6de6-68e2-8bea-445a-1e4322118fcc/886448833086.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/fuenf-freunde.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.335632+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.771870+00:00",
       "franchise": "Fünf Freunde Universum",
       "subSeriesOf": null
     },
@@ -2037,7 +2037,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/9c/e6/82/9ce6824f-12a9-ad44-f3b2-31fea025a28a/886445160710.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/f-nf-freunde-f-nf-freunde.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.390402+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.828576+00:00",
       "franchise": "Fünf Freunde Universum",
       "subSeriesOf": "fuenf-freunde"
     },
@@ -2052,7 +2052,7 @@
       "albumCount": 14,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/b1/33/b6b133a8-3fb3-423f-2538-325e3d3edc46/196871326681.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/f-nf-freunde-f-nf-freunde-junior.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.391284+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.829367+00:00",
       "franchise": "Fünf Freunde Universum",
       "subSeriesOf": "fuenf-freunde"
     },
@@ -2067,7 +2067,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/81/f4/91/81f49102-01a5-7f4b-3f04-2cec15cbad01/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/f-nf-freunde-gigantosaurus.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.391593+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.829667+00:00",
       "franchise": "Fünf Freunde Universum",
       "subSeriesOf": "fuenf-freunde"
     },
@@ -2084,7 +2084,7 @@
       "albumCount": 49,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/da/e4/f2dae4f8-613a-1fa4-7b62-8c00d5fd262f/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/krimis-von-der-kueste.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.395008+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.832984+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2097,7 +2097,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/89/81/c68981eb-5294-b090-2dd2-84819aecde98/00602537896110.rgb.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.415168+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.848488+00:00",
       "franchise": "Mark Brandis Universum",
       "subSeriesOf": null
     },
@@ -2114,7 +2114,7 @@
       "albumCount": 54,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/03/cf/6c03cfeb-d1a0-466d-9b48-abe0d96c112c/4057664072719.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/mark-brandis-mark-brandis.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.421065+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.851574+00:00",
       "franchise": "Mark Brandis Universum",
       "subSeriesOf": "mark-brandis"
     },
@@ -2127,7 +2127,7 @@
       "albumCount": 0,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/48/70/2748707c-9e54-115e-8393-02e585ac2cc7/4066339690516.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.436512+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.864168+00:00",
       "franchise": "Star Wars Universum",
       "subSeriesOf": null
     },
@@ -2145,7 +2145,7 @@
       "albumCount": 61,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e4/37/ba/e437bab5-4629-a13f-84ff-5a4a19f607a5/4064066834883_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-star-wars.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.439575+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.866933+00:00",
       "franchise": "Star Wars Universum",
       "subSeriesOf": "star-wars"
     },
@@ -2160,7 +2160,7 @@
       "albumCount": 1,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/eb/0e/35/eb0e354c-c424-a84b-1e95-e40f3a9d11bb/4066339395848.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/star-wars-the-clone-wars-2.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.452958+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.878993+00:00",
       "franchise": "Star Wars Universum",
       "subSeriesOf": "star-wars"
     },
@@ -2176,7 +2176,7 @@
       "albumCount": 9,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3d/d5/eb/3dd5ebee-de28-ad1a-3181-f5c1ff22a6b1/rls00066538.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/marco-goellner.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.453364+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.879294+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2191,7 +2191,7 @@
       "albumCount": 9,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/c7/05/ec/c705ec7b-0bf6-3231-a5f7-4eee8f479915/4250064604645_1448.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/raumstation-alpha-base.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.454437+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.880448+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2206,7 +2206,7 @@
       "albumCount": 2,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/97/b8/4d/97b84d77-5d3e-028f-38bf-3fd18c5276c9/9783844505627_1448.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/per-anhalter-durch-die-galaxis.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.456275+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.882285+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2224,7 +2224,7 @@
       "albumCount": 18,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e5/8d/94/e58d94d4-03b9-c08a-0142-f66e27b7b192/mzm.kjyzkchm.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/planet-eden.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.458117+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.883935+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2241,7 +2241,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a9/17/1a/a9171a67-ad2d-ac65-2665-01431da6057e/4066339484030.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/zoomania.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.462861+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.887922+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2259,7 +2259,7 @@
       "albumCount": 207,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/31/19/1c/31191cbd-374a-1d55-c708-30d1b2b890a8/825646202249.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/bibi-und-tina.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.470668+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.894487+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2277,7 +2277,7 @@
       "albumCount": 6,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/08/3c/43083cfb-d8cb-9394-eed5-fef917f46a67/4066339450424.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-eiskoenigin.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.499191+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.915035+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2292,7 +2292,7 @@
       "albumCount": 23,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/fd/1f/d4fd1fd4-8f96-f687-62c6-ea9dbf364647/4066339450172.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/spidey-hoerspiel.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.501086+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.916725+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2308,7 +2308,7 @@
       "albumCount": 3,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/0f/62/89/0f628906-ecd4-681f-1c00-1c72749109d8/886445462524.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/torsten-straeter.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.502250+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.917764+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2324,7 +2324,7 @@
       "albumCount": 9,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/f6/8c/02f68ceb-3506-1d8d-362f-ff4a3723c2c7/artwork.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/hoerbuch-manufaktur-an-der-elbe.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.502939+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.918426+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2340,7 +2340,7 @@
       "albumCount": 95,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/ef/4c/62ef4c35-851d-2481-f7de-db84b103a43a/4057664078827.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/conni.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.508713+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.925015+00:00",
       "franchise": "Conni Universum",
       "subSeriesOf": null
     },
@@ -2357,7 +2357,7 @@
       "albumCount": 9,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/ea/62/d7ea6280-d854-b671-7e40-83c548566228/196874107072.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/meine-freundin-conni.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.543031+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.949380+00:00",
       "franchise": "Conni Universum",
       "subSeriesOf": "conni"
     },
@@ -2375,7 +2375,7 @@
       "albumCount": 203,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a6/2f/6d/a62f6d93-4929-7ce4-3809-01db9e70d897/5054197427046.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/benjamin-bluemchen.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.550990+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.956369+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2393,7 +2393,7 @@
       "albumCount": 4,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/a3/6d/b2a36d35-fa8b-8a5b-4a3a-85e138e89ef6/4260507203939_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/sherlock-holmes-die-neuen-faelle.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.569999+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.972716+00:00",
       "franchise": "Sherlock Holmes Universum",
       "subSeriesOf": "sherlock-holmes"
     },
@@ -2411,7 +2411,7 @@
       "albumCount": 7,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/f7/7e/a3f77e05-f8b0-8226-1dc1-ba108057b476/4069828735699_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/alea-aquarius-tanya-stewner.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.574037+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.974547+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2428,7 +2428,7 @@
       "albumCount": 45,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/fe/d1/71fed1fa-78d1-73b3-2357-e4e0dfa05441/4057664423399_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/pettersson-und-findus.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.578835+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:02.977618+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2446,7 +2446,7 @@
       "albumCount": 129,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/20/7f/21/207f21cf-6920-66f7-ea4b-76bcc718afeb/4260229662731_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/die-playmos.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.600474+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.045375+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2463,7 +2463,7 @@
       "albumCount": 39,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/ca/21/daca21c1-85b8-2472-8d7b-cbf76d2c86e9/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/robin-hood-schlitzohr-von-sherwood.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.637098+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.081187+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2481,7 +2481,7 @@
       "albumCount": 77,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/98/52/689852e2-a80d-c184-62fb-24aaeecc78f8/cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/miraculous.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.650617+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.089915+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2498,7 +2498,7 @@
       "albumCount": 39,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/63/7c/ff637ce6-c808-bbc9-3869-dd8dd6af5665/4013575911134.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/yakari.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.663611+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.102421+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2516,7 +2516,7 @@
       "albumCount": 50,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/68/5b/5f685baf-f63f-4a7c-35de-9c21b79ae7d3/4069828291706_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/patrick-lynen.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.670452+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.108869+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2533,7 +2533,7 @@
       "albumCount": 11,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/c6/e4/a7c6e415-0fdc-1be6-1807-203c32133bef/4066004967776_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/traumreisen-fuer-kinder-und-erwachsene.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.671512+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.109792+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2550,7 +2550,7 @@
       "albumCount": 6,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/fb/b1/28fbb19f-8167-6d9f-d574-cc78a6dbfd4a/4069829541695_cover.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/michelle-madow-fantasy-hoerbuecher-hoerbuch-bestseller.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.672176+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.110407+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2566,7 +2566,7 @@
       "albumCount": 46,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/9d/f5/mzi.tbkfipuy.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/kai-magnus-sting.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.675388+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.113526+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2582,7 +2582,7 @@
       "albumCount": 41,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/73/6d/d5736d4e-69c4-d4f4-50a0-8d9512b1abed/mzi.najazhnb.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/jason-dark-john-sinclair.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.690901+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.127265+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2597,7 +2597,7 @@
       "albumCount": 263,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/98/c0/91/98c091a9-779a-fa48-d71e-741c76d5515f/9783754007501_3000.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/john-sinclair.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.703532+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.136987+00:00",
       "franchise": null,
       "subSeriesOf": null
     },
@@ -2614,7 +2614,7 @@
       "albumCount": 182,
       "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/9b/af/bd/9bafbd1e-61f7-65b9-2adb-d812876af603/9783844505900_1448.jpg/100x100bb.jpg",
       "dataURL": "catalog/de/series/weitere-titel.json",
-      "seriesUpdatedAt": "2026-07-18T22:00:03.745151+00:00",
+      "seriesUpdatedAt": "2026-07-19T08:30:03.164794+00:00",
       "franchise": null,
       "subSeriesOf": null
     }
